@@ -11,6 +11,11 @@ author = next(search_query)
 author
 dict = scholarly.fill(author, sections=['basics', 'publications', 'coauthors'])
 
+dict.keys()
+
+dict['coauthors'][0]['scholar_id']
+dict['coauthors'][0]['name']
+
 json_object = json.dumps(dict, indent=4)
 
 with open("author.json", "w") as outfile:

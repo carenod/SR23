@@ -3,6 +3,8 @@ from crossref_commons.types import EntityType, OutputType
 import json
 
 
+# ACA TENGO QUE BUSCAR USUARIOS
+
 
 
 # Esto devuelve todas las citas de un paper
