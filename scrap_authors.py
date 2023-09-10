@@ -1,5 +1,7 @@
 from scholarly import scholarly
 import json
+import pandas as pd
+from src.add_one_author import *
 
 # This script makes a database of authors starting by one author, 
 # and then moving to his/her co-authors,
@@ -11,13 +13,14 @@ import json
 # and for each author a file with all its publications. Each publication file contains
 # the title, year and journal
 
-search_query = scholarly.search_author('Marcelo J. Yanovsky')
-search_query
-author = next(search_query)
-author
-dict = scholarly.fill(author, sections=['basics', 'publications', 'coauthors'])
+df_authors = pd.DataFrame()
 
-dict.keys()
+# Add one author
+author_name = 'Marcelo J. Yanovsky'
+
+add_one_author(author_name, df_authors)
+
+dict['coauthors']
 
 dict['coauthors'][0]['scholar_id']
 dict['coauthors'][0]['name']
