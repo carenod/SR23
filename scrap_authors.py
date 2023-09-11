@@ -20,5 +20,7 @@ for a in authors_seed:
 
 df_authors = add_all_coauthor(df_authors)
 
+df_authors.shape
 df_authors.to_csv('./data/df_authors.csv', index=False)
 
+# problem with 3rZSW4YAAAAJ
