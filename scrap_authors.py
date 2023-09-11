@@ -1,7 +1,5 @@
-from scholarly import scholarly
-import json
 import pandas as pd
-from src.add_one_author import *
+from src.add_authors import *
 
 # This script makes a database of authors starting by one author, 
 # and then moving to his/her co-authors,
@@ -13,19 +11,14 @@ from src.add_one_author import *
 # and for each author a file with all its publications. Each publication file contains
 # the title, year and journal
 
-df_authors = pd.DataFrame()
+df_authors = pd.DataFrame(columns = ['name', 'scholar_id', 'affiliation', 'interests', 'citedby', 'num_publications', 'coauthors_id'])
 
 # Add one author
-author_name = 'Marcelo J. Yanovsky'
+authors_seed = ['Marcelo J. Yanovsky', 'Jorge Casal', 'Luciana Bianchimano']
+for a in authors_seed:
+    df_authors = add_one_author(a, df_authors)
 
-add_one_author(author_name, df_authors)
+df_authors = add_all_coauthor(df_authors)
 
-dict['coauthors']
+df_authors.to_csv('./data/df_authors.csv', index=False)
 
-dict['coauthors'][0]['scholar_id']
-dict['coauthors'][0]['name']
-
-json_object = json.dumps(dict, indent=4)
-
-with open("author.json", "w") as outfile:
-    outfile.write(json_object)
