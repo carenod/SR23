@@ -51,42 +51,57 @@ def add_one_author(author_name, df_authors):
     
     return df_authors_final
 
-def add_all_coauthor(df_authors):
+def add_all_coauthor(df_authors, file_name, save=True):
     
-    all_authors = [element for innerList in df_authors['coauthors_id'] for element in innerList]
+    all_authors = [element for innerList in df_authors['coauthors_id'] for element in innerList]  
     
     # remove repeated ids and ids that are already present in the table
     all_authors = set(all_authors)
     authors_in_df = set(df_authors['scholar_id'])
     new_authors = all_authors.difference(authors_in_df)
     
-    for author_id in new_authors:
-       
-        print('Retriving data from Google Scholar for author ', author_id)
-        author = scholarly.search_author_id(author_id)
-                            
-        dict = scholarly.fill(author, sections=['basics', 'publications', 'coauthors'])
-
-        print('Writing table')
-        # I need the following keys from the dict scholar_id, name, affiliation, interests (list),
-        # citedby (int),  publications (dict), coauthors (dict)
-        new_row = {}
-        new_row['name'] = dict['name']
-        new_row['scholar_id'] = dict['scholar_id']
-        new_row['affiliation'] = dict['affiliation']
-        new_row['interests'] = dict['interests']
-        new_row['citedby'] = dict['citedby']
-        new_row['num_publications'] = len(dict['publications'])
-        coauthors = [ca['scholar_id'] for ca in dict['coauthors']] 
-        new_row['coauthors_id']= coauthors
-        df_new_row = pd.Series(new_row).to_frame().T
-        df_authors = pd.concat([df_authors, df_new_row], ignore_index=True) 
-        print('Author added to table')
-        
-        json_object = json.dumps(dict['publications'], indent=4)
-        file_name = './data/publications/' + dict['scholar_id'] + '.json'
-        with open(file_name, "w") as outfile:
-            outfile.write(json_object)
-        print('Publications retrived')
+    print(len(new_authors), ' new authors will be added')
     
+    for author_id in new_authors:
+        
+        if len(df_authors.index) % 10 == 0:
+            df_authors.to_csv(file_name, index=False)
+            print('df saved, length ', len(df_authors.index))
+
+        try:
+            print('Retriving data from Google Scholar for author ', author_id)
+            author = scholarly.search_author_id(author_id)
+                                
+            dict = scholarly.fill(author, sections=['basics', 'publications', 'coauthors'])
+
+            print('Writing table')
+            # I need the following keys from the dict scholar_id, name, affiliation, interests (list),
+            # citedby (int),  publications (dict), coauthors (dict)
+            new_row = {}
+            new_row['name'] = dict['name']
+            new_row['scholar_id'] = dict['scholar_id']
+            new_row['affiliation'] = dict['affiliation']
+            new_row['interests'] = dict['interests']
+            new_row['citedby'] = dict['citedby']
+            new_row['num_publications'] = len(dict['publications'])
+            coauthors = [ca['scholar_id'] for ca in dict['coauthors']] 
+            new_row['coauthors_id']= coauthors
+            df_new_row = pd.Series(new_row).to_frame().T
+            df_authors = pd.concat([df_authors, df_new_row], ignore_index=True) 
+            print('Author added to table')
+            
+            
+            if save == True:
+                json_object = json.dumps(dict['publications'], indent=4)
+                file_name = './data/publications/' + dict['scholar_id'] + '.json'
+                with open(file_name, "w") as outfile:
+                    outfile.write(json_object)
+                print('Publications retrived')
+
+        except:
+            print('Failed data retrival for author ', author_id)
+            pass
+
+    df_authors.to_csv(file_name, index=False)
+    print('df saved, length ', len(df_authors.index))
     return df_authors
