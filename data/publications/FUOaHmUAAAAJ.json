@@ -1,0 +1,830 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of polyploid wheat genomic diversity using a high\u2010density 90 000 single nucleotide polymorphism array",
+            "pub_year": "2014",
+            "citation": "Plant Biotechnology Journal 12, 787-796, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 1653,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16983152326672515349",
+        "cites_id": [
+            "16983152326672515349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide comparative diversity uncovers multiple targets of selection for improvement in hexaploid wheat landraces and cultivars",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (20), 8057-8062, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 1032,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4191283078277065335",
+        "cites_id": [
+            "4191283078277065335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multiparent advanced generation inter\u2010cross population for genetic analysis in wheat",
+            "pub_year": "2012",
+            "citation": "Plant Biotechnology Journal 10, 826-839, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 317,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8772270928649437953",
+        "cites_id": [
+            "8772270928649437953"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MAGIC populations in crops: current status and future prospects",
+            "pub_year": "2015",
+            "citation": "Theoretical and Applied Genetics 128 (6), 999-1017, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 271,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14920200517471674003",
+        "cites_id": [
+            "14920200517471674003"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ELF3 controls thermoresponsive growth in Arabidopsis",
+            "pub_year": "2015",
+            "citation": "Current Biology 25 (2), 194-199, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 231,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16910043034756121216",
+        "cites_id": [
+            "16910043034756121216"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Potential of a tomato MAGIC population to decipher the genetic control of quantitative traits and detect causal variants in the resequencing era",
+            "pub_year": "2015",
+            "citation": "Plant biotechnology journal 13 (4), 565-577, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:aqlVkmm33-oC",
+        "num_citations": 167,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17803596611259686557",
+        "cites_id": [
+            "17803596611259686557"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomic analysis of wheat near-isogenic lines identifies PM19-A1 and A2 as candidates for a major dormancy QTL",
+            "pub_year": "2015",
+            "citation": "Genome biology 16 (1), 93, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:dhFuZR0502QC",
+        "num_citations": 147,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3988462254701029365",
+        "cites_id": [
+            "3988462254701029365"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-parent advanced generation inter-cross in barley: high-resolution quantitative trait locus mapping for flowering time as a proof of concept",
+            "pub_year": "2015",
+            "citation": "Molecular Breeding 35 (3), 86, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 136,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14566242539253701178",
+        "cites_id": [
+            "14566242539253701178"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simple and efficient analysis of disease association with missing genotype data",
+            "pub_year": "2008",
+            "citation": "The American Journal of Human Genetics 82 (2), 444-452, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10724031309550872878",
+        "cites_id": [
+            "10724031309550872878"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid, precise quantification of bacterial cellular dimensions across a genomic-scale knockout library",
+            "pub_year": "2017",
+            "citation": "BMC biology 15 (1), 17, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:mB3voiENLucC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14330245799004443901",
+        "cites_id": [
+            "14330245799004443901"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "R/mpMap: a computational platform for the genetic analysis of multiparent recombinant inbred lines",
+            "pub_year": "2011",
+            "citation": "Bioinformatics 27 (5), 727-729, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15310006450476479880",
+        "cites_id": [
+            "15310006450476479880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multi\u2010parent advanced generation inter\u2010cross (MAGIC) population for genetic analysis and improvement of cowpea (Vigna unguiculata L. Walp.)",
+            "pub_year": "2018",
+            "citation": "The Plant Journal 93 (6), 1129-1142, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:TQgYirikUcIC",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7297496141488434156",
+        "cites_id": [
+            "7297496141488434156"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Delay discounting, impulsiveness, and addiction severity in opioid-dependent patients",
+            "pub_year": "2011",
+            "citation": "Journal of substance abuse treatment 41 (4), 354-362, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9317954799455051237",
+        "cites_id": [
+            "9317954799455051237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient association mapping of quantitative trait loci with selective genotyping",
+            "pub_year": "2007",
+            "citation": "The American Journal of Human Genetics 80 (3), 567-576, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18409585142236773086",
+        "cites_id": [
+            "18409585142236773086"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interleukin\u20101 polymorphisms are associated with the inflammatory response in human muscle to acute resistance exercise",
+            "pub_year": "2004",
+            "citation": "The Journal of physiology 560 (3), 617-626, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16218940173104705236",
+        "cites_id": [
+            "16218940173104705236"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multiparental cross population for mapping QTL for agronomic traits in durum wheat (Triticum turgidum ssp. durum)",
+            "pub_year": "2016",
+            "citation": "Plant biotechnology journal 14 (2), 735-748, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18167405231945584520",
+        "cites_id": [
+            "18167405231945584520"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "QTLs for tolerance of drought and breeding for tolerance of abiotic and biotic stress: an integrated approach",
+            "pub_year": "2014",
+            "citation": "PloS one 9 (10), e109574, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10094935293259642797",
+        "cites_id": [
+            "10094935293259642797"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The use of inferred haplotypes in downstream analyses",
+            "pub_year": "2007",
+            "citation": "The American Journal of Human Genetics 80 (3), 577-579, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16629481214429743892",
+        "cites_id": [
+            "16629481214429743892"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detecting haplotype effects in genomewide association studies",
+            "pub_year": "2007",
+            "citation": "Genetic epidemiology 31 (8), 803-812, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:qjMakFHDy7sC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2943923168689724178",
+        "cites_id": [
+            "2943923168689724178"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The path from big data to precision medicine",
+            "pub_year": "2016",
+            "citation": "Expert Review of Precision Medicine and Drug Development 1 (2), 129-143, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:-f6ydRqryjwC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=906084440388195051",
+        "cites_id": [
+            "906084440388195051"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Linear Mixed Model Spline Framework for Analysing Time Course \u2018Omics\u2019 Data",
+            "pub_year": "2015",
+            "citation": "PloS one 10 (8), e0134540, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15482707288046571998",
+        "cites_id": [
+            "15482707288046571998"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Approaches in Characterizing Genetic Structure and Mapping in a Rice Multiparental Population",
+            "pub_year": "2017",
+            "citation": "G3: Genes, Genomes, Genetics 7 (6), 1721-1730, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:HDshCWvjkbEC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5794714473950011316",
+        "cites_id": [
+            "5794714473950011316"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effect of microbial colonization on the host proteome varies by gastrointestinal location",
+            "pub_year": "2016",
+            "citation": "The ISME journal 10 (5), 1170-1181, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:IWHjjKOFINEC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1724242760386335644",
+        "cites_id": [
+            "1724242760386335644"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient Imputation of Missing Markers in Low-Coverage Genotyping-by-Sequencing Data from Multiparental Crosses",
+            "pub_year": "2014",
+            "citation": "Genetics 197 (1), 401-404, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15224705518606636638",
+        "cites_id": [
+            "15224705518606636638"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Postprandial total and HMW adiponectin following a high-fat meal in lean, obese and diabetic men",
+            "pub_year": "2013",
+            "citation": "European Journal of Clinical Nutrition 67, 377-384, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13886637927704053208",
+        "cites_id": [
+            "13886637927704053208"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plasma protein and microRNA biomarkers of insulin resistance: a network-based integrative-omics analysis",
+            "pub_year": "2019",
+            "citation": "Frontiers in Physiology 10, 379, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10754981321142816802",
+        "cites_id": [
+            "10754981321142816802"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optical and physical mapping with local finishing enables megabase-scale resolution of agronomically important regions in the wheat genome",
+            "pub_year": "2018",
+            "citation": "Genome biology 19 (1), 112, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18026385992701365440",
+        "cites_id": [
+            "18026385992701365440"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effect of a high-fat meal on postprandial arterial stiffness in men with obesity and type 2 diabetes",
+            "pub_year": "2010",
+            "citation": "The Journal of Clinical Endocrinology & Metabolism 95 (9), 4455-4459, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11227996800937730056",
+        "cites_id": [
+            "11227996800937730056"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Selecting subsets of genotyped experimental populations for phenotyping to maximize genetic diversity",
+            "pub_year": "2013",
+            "citation": "Theoretical and Applied Genetics 126 (2), 379-388, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:0EnyYjriUFMC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15511556611559730932",
+        "cites_id": [
+            "15511556611559730932"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Applications of heterogeneous computing in computational and simulation science",
+            "pub_year": "2013",
+            "citation": "International Journal of Computational Science and Engineering 8 (3), 240-252, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:ufrVoPGSRksC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14439494809122265903",
+        "cites_id": [
+            "14439494809122265903"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sibling Family Practices: Guidelines for Healthy Boundaries",
+            "pub_year": "2009",
+            "citation": "Journal of Child Sexual Abuse 18 (3), 339-354, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3069791261461840004",
+        "cites_id": [
+            "3069791261461840004"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DynOmics to identify delays and co-expression patterns across time course experiments",
+            "pub_year": "2017",
+            "citation": "Scientific reports 7, 40131, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:hC7cP41nSMkC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3646843254038749928",
+        "cites_id": [
+            "3646843254038749928"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterizing Uncertainty in High-Density Maps from Multiparental Populations",
+            "pub_year": "2014",
+            "citation": "Genetics 198 (1), 117-128, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:4TOpqqG69KYC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3970780789646704320",
+        "cites_id": [
+            "3970780789646704320"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computationally efficient map construction in the presence of segregation distortion",
+            "pub_year": "2014",
+            "citation": "Theoretical and Applied Genetics 127, 2585-2597, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13834269990700127407",
+        "cites_id": [
+            "13834269990700127407"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Look before you leap: a new approach to mapping QTL",
+            "pub_year": "2009",
+            "citation": "Theoretical and Applied Genetics 119 (5), 899-911, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14642557125020490735",
+        "cites_id": [
+            "14642557125020490735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing Model Fit and Finding a Fit Model",
+            "pub_year": "2004",
+            "citation": "Proceedings of SAS Users Group International Meeting, 214-29, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8973171719880666463",
+        "cites_id": [
+            "8973171719880666463"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrative analysis of DiseaseLand Omics Database for Disease Signatures and Treatments: A Bipolar Case Study",
+            "pub_year": "2019",
+            "citation": "Frontiers in Genetics 10, 396, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11786365393381583708",
+        "cites_id": [
+            "11786365393381583708"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AlphaMPSim: flexible simulation of multi-parent crosses",
+            "pub_year": "2014",
+            "citation": "Bioinformatics 30, 2686-2688, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:_kc_bZDykSQC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15343176442676171010",
+        "cites_id": [
+            "15343176442676171010"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The complex genetic architecture of recombination and structural variation in wheat uncovered using a large 8-founder MAGIC population",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 594317, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5855781944521879688",
+        "cites_id": [
+            "5855781944521879688"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "dlmap: An R package for mixed model QTL and association analysis",
+            "pub_year": "2012",
+            "citation": "Journal of Statistical Software 50 (6), 1-22, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:Se3iqnhoufwC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8353480391971313869",
+        "cites_id": [
+            "8353480391971313869"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "iDArTs: increasing the value of genomic resources at no cost",
+            "pub_year": "2012",
+            "citation": "Molecular Breeding 30, 927-938, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15791919894038422801",
+        "cites_id": [
+            "15791919894038422801"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Meeting Report on the Challenge of Inference from Genome to Phenome",
+            "pub_year": "2015",
+            "citation": "G3: Genes| Genomes| Genetics 5 (10), 1945-1947, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14871211302651795797",
+        "cites_id": [
+            "14871211302651795797"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysing delays between time course gene expression data and biomarkers",
+            "pub_year": "2015",
+            "citation": "Scientific Stream at Big Data in Health Analytics 2015, BigData 2015 1468, 1-6, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:qUcmZB5y_30C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5493183215612937007",
+        "cites_id": [
+            "5493183215612937007"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The surprising benefit of passive-aggressive behaviour at Christmas parties: being crowned king of the crackers",
+            "pub_year": "2014",
+            "citation": "The Medical journal of Australia 201 (11), 694-696, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5718324670843553784",
+        "cites_id": [
+            "5718324670843553784"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reply to Peter Kraft and Daniel O. Stram",
+            "pub_year": "2007",
+            "citation": "The American Journal of Human Genetics 81 (4), 865-866, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16284124372572619773",
+        "cites_id": [
+            "16284124372572619773"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The statistician\u2019s guide to a cracking good Christmas party",
+            "pub_year": "2014",
+            "citation": "Significance 11 (5), 44-47, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:4DMP91E08xMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Questioning the Postprandial Inflammatory Hypothesis\u2014Absence of Significant Inflammation and No Change in Total or High-Molecular-Weight Adiponectin after a High-Fat Meal in \u2026",
+            "pub_year": "2011",
+            "citation": "BASIC/TRANSLATIONAL-Endocrine Influence on Adipose Tissue, P2-423-P2-423, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improvements to the dlmap package",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using the dlmap package",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Statistical aspects of haplotype-based association studies",
+            "pub_year": "2007",
+            "citation": "THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:WF5omc3nYNoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The use of inferred Haplotypes in downstream analysis-Reply",
+            "pub_year": "2007",
+            "citation": "AMERICAN JOURNAL OF HUMAN GENETICS 81 (4), 865-866, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:Zph67rFs4hoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pricing Missing Data in the Mississippi Delta.",
+            "pub_year": "2004",
+            "citation": "Meeting Proceedings, 23, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:UebtZRa9Y70C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FINDING A FIT MODEL FOR FOODS",
+            "pub_year": "2004",
+            "citation": "International Society for Behavioral Nutrition and Physical Activity, 23, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:roLk4NBRz8UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "IL-1 polymorphisms are associated with the inflammatory response to resistance exercise",
+            "pub_year": "2004",
+            "citation": "FASEB JOURNAL 18 (4), A752-A752, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "FUOaHmUAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 0
+    }
+]

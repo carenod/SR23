@@ -1,0 +1,4301 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protein production and purification",
+            "pub_year": "2008",
+            "citation": "Nature methods 5 (2), 135-146, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:dhFuZR0502QC",
+        "num_citations": 956,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2934572591576350316,3821879291979296463",
+        "cites_id": [
+            "2934572591576350316",
+            "3821879291979296463"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A versatile ligation-independent cloning method suitable for high-throughput expression screening applications",
+            "pub_year": "2007",
+            "citation": "Nucleic acids research 35 (6), e45, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 610,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8982647302266057422",
+        "cites_id": [
+            "8982647302266057422"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oncostatin M drives intestinal inflammation and predicts response to tumor necrosis factor\u2013neutralizing therapy in patients with inflammatory bowel disease",
+            "pub_year": "2017",
+            "citation": "Nature medicine 23 (5), 579-589, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:-_dYPAW6P2MC",
+        "num_citations": 585,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1497964662357589693,10057598690163146892",
+        "cites_id": [
+            "1497964662357589693",
+            "10057598690163146892"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neutralizing nanobodies bind SARS-CoV-2 spike RBD and block interaction with ACE2",
+            "pub_year": "2020",
+            "citation": "Nature structural & molecular biology 27 (9), 846-854, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:0izLItjtcgwC",
+        "num_citations": 443,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8697148042385550706,6570043764610637239,953057171499406940",
+        "cites_id": [
+            "8697148042385550706",
+            "6570043764610637239",
+            "953057171499406940"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure and functionality in flavivirus NS-proteins: perspectives for drug design",
+            "pub_year": "2010",
+            "citation": "Antiviral research 87 (2), 125-148, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:qUcmZB5y_30C",
+        "num_citations": 413,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=604646269338300190",
+        "cites_id": [
+            "604646269338300190"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lysine methylation as a routine rescue strategy for protein crystallization",
+            "pub_year": "2006",
+            "citation": "Structure 14 (11), 1617-1622, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 350,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11603567868797795411",
+        "cites_id": [
+            "11603567868797795411"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neutralization of SARS-CoV-2 by destruction of the prefusion spike",
+            "pub_year": "2020",
+            "citation": "Cell host & microbe 28 (3), 445-454. e6, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:bz8QjSJIRt4C",
+        "num_citations": 335,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4882591696373643209",
+        "cites_id": [
+            "4882591696373643209"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Glycoprotein structural genomics: solving the glycosylation problem",
+            "pub_year": "2007",
+            "citation": "Structure 15 (3), 267-273, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 322,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8749345090533808692",
+        "cites_id": [
+            "8749345090533808692"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CDR grafted anti-CEA antibodies and their production",
+            "pub_year": "1999",
+            "citation": "US Patent 5,877,293, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 283,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6197266566155994747",
+        "cites_id": [
+            "6197266566155994747"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The nsp9 replicase protein of SARS-coronavirus, structure and functional insights",
+            "pub_year": "2004",
+            "citation": "Structure 12 (2), 341-353, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 282,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15030707762084937229",
+        "cites_id": [
+            "15030707762084937229"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A procedure for setting up high-throughput nanolitre crystallization experiments. Crystallization workflow for initial screening, automated storage, imaging and optimization",
+            "pub_year": "2005",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 61 (6), 651-657, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 270,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16921728093831591718",
+        "cites_id": [
+            "16921728093831591718"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural basis for the neutralization of SARS-CoV-2 by an antibody from a convalescent patient",
+            "pub_year": "2020",
+            "citation": "Nature structural & molecular biology 27 (10), 950-958, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:_FM0Bhl9EiAC",
+        "num_citations": 269,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5875993776285681007",
+        "cites_id": [
+            "5875993776285681007"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The crystal structure of IgE Fc reveals an asymmetrically bent conformation",
+            "pub_year": "2002",
+            "citation": "Nature immunology 3 (7), 681-686, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 203,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13145867686533465473",
+        "cites_id": [
+            "13145867686533465473"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombinant protein expression and solubility screening in Escherichia coli: a comparative study",
+            "pub_year": "2006",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 62 (10), 1218-1226, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 200,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8653800488972696907",
+        "cites_id": [
+            "8653800488972696907"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adhiron: a stable and versatile peptide display scaffold for molecular recognition applications",
+            "pub_year": "2014",
+            "citation": "Protein Engineering, Design & Selection 27 (5), 145-155, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:yD5IFk8b50cC",
+        "num_citations": 193,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4227480271700119126",
+        "cites_id": [
+            "4227480271700119126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A COVID-19 vaccine candidate using SpyCatcher multimerization of the SARS-CoV-2 spike protein receptor-binding domain induces potent neutralising antibody responses",
+            "pub_year": "2021",
+            "citation": "Nature communications 12 (1), 542, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:4hFrxpcac9AC",
+        "num_citations": 189,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1212300347699366354",
+        "cites_id": [
+            "1212300347699366354"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Primary structure of the human, membrane\u2010associated Ca2+\u2010binding protein p68 a novel member of a protein family.",
+            "pub_year": "1988",
+            "citation": "The EMBO Journal 7 (1), 21-27, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:IWHjjKOFINEC",
+        "num_citations": 179,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2439799409319633808",
+        "cites_id": [
+            "2439799409319633808"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural and functional insights of RANKL\u2013RANK interaction and signaling",
+            "pub_year": "2010",
+            "citation": "The Journal of Immunology 184 (12), 6910-6919, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:TQgYirikUcIC",
+        "num_citations": 177,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2760942747551456218",
+        "cites_id": [
+            "2760942747551456218"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Affimer proteins are versatile and renewable affinity reagents",
+            "pub_year": "2017",
+            "citation": "Elife 6, e24903, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:uc_IGeMz5qoC",
+        "num_citations": 176,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15929317945640948245",
+        "cites_id": [
+            "15929317945640948245"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombinant antibodies and methods for their production in which surface residues are altered to cysteine residues for attachment of effector or receptor molecules",
+            "pub_year": "1993",
+            "citation": "US Patent 5,219,996, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 169,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2469199595326113081",
+        "cites_id": [
+            "2469199595326113081"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal structure of a novel conformational state of the flavivirus NS3 protein: implications for polyprotein processing and viral replication",
+            "pub_year": "2009",
+            "citation": "Journal of virology 83 (24), 12895-12906, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 168,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3089964168860136015",
+        "cites_id": [
+            "3089964168860136015"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Vaccinia virus proteins A52 and B14 share a Bcl-2\u2013like fold but have evolved to inhibit NF-\u03baB rather than apoptosis",
+            "pub_year": "2008",
+            "citation": "PLoS pathogens 4 (8), e1000128, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:mB3voiENLucC",
+        "num_citations": 168,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11013783915830776551",
+        "cites_id": [
+            "11013783915830776551"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improved tumor targeting with chemically cross-linked recombinant antibody fragments",
+            "pub_year": "1994",
+            "citation": "Cancer research 54 (23), 6176-6185, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:hC7cP41nSMkC",
+        "num_citations": 164,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4435599998182283262",
+        "cites_id": [
+            "4435599998182283262"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genetic engineering of monoclonal antibodies",
+            "pub_year": "1994",
+            "citation": "Journal of immunological methods 168 (2), 149-165, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:-f6ydRqryjwC",
+        "num_citations": 160,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3763996008074133164",
+        "cites_id": [
+            "3763996008074133164"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In situ macromolecular crystallography using microbeams",
+            "pub_year": "2012",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 68 (5), 592-600, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6997084892087557175",
+        "cites_id": [
+            "6997084892087557175"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of the immunogenicity of prime-boost vaccination with the replication-deficient viral vectored COVID-19 vaccine candidate ChAdOx1 nCoV-19",
+            "pub_year": "2020",
+            "citation": "NPJ vaccines 5 (1), 69, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:FAceZFleit8C",
+        "num_citations": 141,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15083726689757694673",
+        "cites_id": [
+            "15083726689757694673"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping the collagen\u2010binding site of human fibronectin by expression in Escherichia coli.",
+            "pub_year": "1986",
+            "citation": "The EMBO journal 5 (11), 2825-2830, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13478756746626620725",
+        "cites_id": [
+            "13478756746626620725"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recent advances in the production of proteins in insect and mammalian cells for structural biology",
+            "pub_year": "2010",
+            "citation": "Journal of structural biology 172 (1), 55-65, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 122,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12587748216751615369",
+        "cites_id": [
+            "12587748216751615369"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Site-specific attachment to recombinant antibodies via introduced surface cysteine residues",
+            "pub_year": "1990",
+            "citation": "Protein Engineering, Design and Selection 3 (8), 703-708, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17761835415813606022",
+        "cites_id": [
+            "17761835415813606022"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assay platform for clinically relevant metallo-\u03b2-lactamases",
+            "pub_year": "2013",
+            "citation": "Journal of medicinal chemistry 56 (17), 6945-6953, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13222529084163295467",
+        "cites_id": [
+            "13222529084163295467"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of protein characterization in structural proteomics",
+            "pub_year": "2006",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 62 (10), 1125-1136, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:WF5omc3nYNoC",
+        "num_citations": 118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14059792605049655135",
+        "cites_id": [
+            "14059792605049655135"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure of New Delhi metallo-\u03b2-lactamase 1 (NDM-1)",
+            "pub_year": "2011",
+            "citation": "Acta Crystallographica Section F: Structural Biology and Crystallization \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:hMod-77fHWUC",
+        "num_citations": 116,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18288967121262005417",
+        "cites_id": [
+            "18288967121262005417"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conformational changes in IgE contribute to its uniquely slow dissociation rate from receptor Fc\u025bRI",
+            "pub_year": "2011",
+            "citation": "Nature structural & molecular biology 18 (5), 571-576, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 116,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3511245167022594433",
+        "cites_id": [
+            "3511245167022594433"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular cloning and transient expression in COS7 cells of a novel human PDE4B cAMP-specific phosphodiesterase, HSPDE4B3",
+            "pub_year": "1997",
+            "citation": "Biochemical journal 328 (2), 549-558, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:EYYDruWGBe4C",
+        "num_citations": 115,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4034546007142466003",
+        "cites_id": [
+            "4034546007142466003"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The inhibition of antigen\u2010induced eosinophilia and bronchoconstriction by CDP840, a novel stereo\u2010selective inhibitor of phosphodiesterase type 4",
+            "pub_year": "1996",
+            "citation": "British journal of pharmacology 118 (5), 1183-1191, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:HDshCWvjkbEC",
+        "num_citations": 114,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3070148494922348596",
+        "cites_id": [
+            "3070148494922348596"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural plasticity of eph receptor A4 facilitates cross-class ephrin signaling",
+            "pub_year": "2009",
+            "citation": "Structure 17 (10), 1386-1397, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:k_IJM867U9cC",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12008878211693333712",
+        "cites_id": [
+            "12008878211693333712"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A procedure for setting up high-throughput nanolitre crystallization experiments. I. Protocol design and validation",
+            "pub_year": "2003",
+            "citation": "Journal of applied crystallography 36 (2), 308-314, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13851576351467609042",
+        "cites_id": [
+            "13851576351467609042"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic modification of a baculovirus vector for increased expression in insect cells",
+            "pub_year": "2010",
+            "citation": "Cell biology and toxicology 26, 57-68, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 104,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15458051916822220033",
+        "cites_id": [
+            "15458051916822220033"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Preparation and preclinical evaluation of humanised A33 immunoconjugates for radioimmunotherapy",
+            "pub_year": "1995",
+            "citation": "British journal of cancer 72 (6), 1364-1372, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 104,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9238965531660940213",
+        "cites_id": [
+            "9238965531660940213"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal Structures of Penicillin-Binding Protein 3 from Pseudomonas aeruginosa: Comparison of Native and Antibiotic-Bound Forms",
+            "pub_year": "2011",
+            "citation": "Journal of molecular biology 405 (1), 173-184, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:BqipwSGYUEgC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10154621308376175892",
+        "cites_id": [
+            "10154621308376175892"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Localization of the cellular\u2010fibronectin\u2010specific epitope recognized by the monoclonal antibody IST\u20109 using fusion proteins expressed in E. coli",
+            "pub_year": "1987",
+            "citation": "FEBS letters 215 (2), 269-273, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6452651650034325860",
+        "cites_id": [
+            "6452651650034325860"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolation and characterization of a novel 68,000-Mr Ca2+-binding protein of lymphocyte plasma membrane",
+            "pub_year": "1984",
+            "citation": "Biochemical Journal 219 (1), 309-316, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:r0BpntZqJG4C",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12809596805948626986",
+        "cites_id": [
+            "12809596805948626986"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-resolution structure of the catalytic region of MICAL (molecule interacting with CasL), a multidomain flavoenzyme-signaling molecule",
+            "pub_year": "2005",
+            "citation": "Proceedings of the National Academy of Sciences 102 (46), 16836-16841, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:ufrVoPGSRksC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2842254980833577780",
+        "cites_id": [
+            "2842254980833577780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A potent SARS-CoV-2 neutralising nanobody shows therapeutic efficacy in the Syrian golden hamster model of COVID-19",
+            "pub_year": "2021",
+            "citation": "Nature communications 12 (1), 5469, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:OcBU2YAGkTUC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2296808867814034527",
+        "cites_id": [
+            "2296808867814034527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure and Assembly of a Trans-Periplasmic Channel for Type IV Pili in Neisseria meningitidis",
+            "pub_year": "2012",
+            "citation": "Public Library of Science 8 (9), e1002923, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:Se3iqnhoufwC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11473754069820814331",
+        "cites_id": [
+            "11473754069820814331"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Outrunning free radicals in room-temperature macromolecular crystallography",
+            "pub_year": "2012",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 68 (7), 810-818, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:ldfaerwXgEUC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7401238687829302983",
+        "cites_id": [
+            "7401238687829302983"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of contact residues in the IgE binding site of human Fc\u03b5RI\u03b1",
+            "pub_year": "1997",
+            "citation": "Biochemistry 36 (50), 15579-15588, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:isC4tDSrTZIC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1213738302403850309",
+        "cites_id": [
+            "1213738302403850309"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Implementation of semi-automated cloning and prokaryotic expression screening: the impact of SPINE",
+            "pub_year": "2006",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 62 (10), 1103-1113, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:TFP_iSt0sucC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13172631221721963765",
+        "cites_id": [
+            "13172631221721963765"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The structure of CrgA from Neisseria meningitidis reveals a new octameric assembly state for LysR transcriptional regulators",
+            "pub_year": "2009",
+            "citation": "Nucleic acids research 37 (14), 4545-4558, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8175814092453607503",
+        "cites_id": [
+            "8175814092453607503"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Purification and characterization of chimeric human IgA1 and IgA2 expressed in COS and Chinese hamster ovary cells.",
+            "pub_year": "1993",
+            "citation": "Journal of immunology (Baltimore, Md.: 1950) 151 (9), 4743-4752, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:2KloaMYe4IUC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2231539598908018554",
+        "cites_id": [
+            "2231539598908018554"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cellular distribution of p68, a new calcium\u2010binding protein from lymphocytes.",
+            "pub_year": "1984",
+            "citation": "The EMBO Journal 3 (5), 945-952, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:maZDTaKrznsC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15530471879780807340",
+        "cites_id": [
+            "15530471879780807340"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient production of foot-and-mouth disease virus empty capsids in insect cells following down regulation of 3C protease activity",
+            "pub_year": "2013",
+            "citation": "Journal of virological methods 187 (2), 406-412, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:UebtZRa9Y70C",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8239709700518867905",
+        "cites_id": [
+            "8239709700518867905"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rhabdovirus matrix protein structures reveal a novel mode of self-association",
+            "pub_year": "2008",
+            "citation": "PLoS pathogens 4 (12), e1000251, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10457394628716936823",
+        "cites_id": [
+            "10457394628716936823"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interaction of the Low-Affinity Receptor CD23/Fc\u03b5RII Lectin Domain with the Fc\u03b53\u2212 4 Fragment of Human Immunoglobulin E",
+            "pub_year": "1997",
+            "citation": "Biochemistry 36 (8), 2112-2122, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10908145875417003164",
+        "cites_id": [
+            "10908145875417003164"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nonidet P-40 extraction of lymphocyte plasma membrane. Characterization of the insoluble residue",
+            "pub_year": "1984",
+            "citation": "Biochemical Journal 219 (1), 301-308, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=562544423536606711",
+        "cites_id": [
+            "562544423536606711"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The precise engineering of expression vectors using high-throughput in-fusion\u2122 PCR cloning",
+            "pub_year": "2009",
+            "citation": "High Throughput Protein Expression and Purification: Methods and Protocols \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13258960594882986050",
+        "cites_id": [
+            "13258960594882986050"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutagenesis of the human IgA1 heavy chain tailpiece that prevents dimer assembly.",
+            "pub_year": "1996",
+            "citation": "Journal of immunology (Baltimore, Md.: 1950) 157 (1), 156-159, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:t7zJ5fGR-2UC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11178142548246865800",
+        "cites_id": [
+            "11178142548246865800"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Secretion of recombinant human IgE-Fc by mammalian cells and biological activity of glycosylation site mutants",
+            "pub_year": "1995",
+            "citation": "Protein Engineering, Design and Selection 8 (2), 193-199, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:blknAaTinKkC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17406267984543995254",
+        "cites_id": [
+            "17406267984543995254"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generation of baculovirus vectors for the high\u2010throughput production of proteins in insect cells",
+            "pub_year": "2008",
+            "citation": "Biotechnology and bioengineering 101 (6), 1115-1122, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:lSLTfruPkqcC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8083411618950090969",
+        "cites_id": [
+            "8083411618950090969"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomics and structure/function studies of Rhabdoviridae proteins involved in replication and transcription",
+            "pub_year": "2010",
+            "citation": "Antiviral research 87 (2), 149-161, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1085392998426816512",
+        "cites_id": [
+            "1085392998426816512"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improved expression of secreted and membrane\u2010targeted proteins in insect cells",
+            "pub_year": "2010",
+            "citation": "Biotechnology and applied biochemistry 56 (3), 85-93, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:M05iB0D1s5AC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=260258828157060853",
+        "cites_id": [
+            "260258828157060853"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PDE 4 inhibitors: the use of molecular cloning in the design and development of novel drugs",
+            "pub_year": "1997",
+            "citation": "Drug Discovery Today 2 (3), 89-101, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:35r97b3x0nAC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3796437799246502805",
+        "cites_id": [
+            "3796437799246502805"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression of recombinant glycoproteins in mammalian cells: towards an integrative approach to structural biology",
+            "pub_year": "2013",
+            "citation": "Current opinion in structural biology 23 (3), 345-356, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:RGFaLdJalmkC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16259249433944687239",
+        "cites_id": [
+            "16259249433944687239"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human constant regions influence the antibody binding characteristics of mouse\u2010human chimeric IgG subclasses",
+            "pub_year": "1996",
+            "citation": "Immunology 88 (2), 169-173, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:GnPB-g6toBAC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15815623618657532442",
+        "cites_id": [
+            "15815623618657532442"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Benefits of automated crystallization plate tracking, imaging, and analysis",
+            "pub_year": "2005",
+            "citation": "Structure 13 (2), 175-182, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9139060941923320323",
+        "cites_id": [
+            "9139060941923320323"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Humanized antibodies directed against A33 antigen",
+            "pub_year": "2001",
+            "citation": "US Patent 6,307,026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:D03iK_w7-QYC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17138899444545254450",
+        "cites_id": [
+            "17138899444545254450"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CD1a presentation of endogenous antigens by group 2 innate lymphoid cells",
+            "pub_year": "2017",
+            "citation": "Science immunology 2 (18), eaan5918, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:4MWp96NkSFoC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14190738556619280270",
+        "cites_id": [
+            "14190738556619280270"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal structure of the Murray Valley encephalitis virus NS5 methyltransferase domain in complex with cap analogues",
+            "pub_year": "2007",
+            "citation": "Journal of general virology 88 (8), 2228-2236, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9998219322696401176",
+        "cites_id": [
+            "9998219322696401176"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isotype choice for chimeric antibodies affects binding properties.",
+            "pub_year": "1994",
+            "citation": "Journal of Biological Chemistry 269 (17), 13048-13055, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:35N4QoGY0k4C",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10963934649211167158",
+        "cites_id": [
+            "10963934649211167158"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression, purification and characterization of B72. 3 Fv fragments",
+            "pub_year": "1993",
+            "citation": "Biochemical Journal 290 (3), 723-729, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15258991988222890585",
+        "cites_id": [
+            "15258991988222890585"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A procedure for setting up high-throughput nanolitre crystallization experiments. II. Crystallization results",
+            "pub_year": "2003",
+            "citation": "Journal of applied crystallography 36 (2), 315-318, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1496491009583955550",
+        "cites_id": [
+            "1496491009583955550"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The structure and transcriptional analysis of a global regulator from Neisseria meningitidis",
+            "pub_year": "2007",
+            "citation": "Journal of biological chemistry 282 (19), 14655-14664, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17524408314107509922",
+        "cites_id": [
+            "17524408314107509922"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hydrodynamic studies of a complex between the Fc fragment of human IgE and a soluble fragment of the Fc epsilon RI alpha chain.",
+            "pub_year": "1995",
+            "citation": "Proceedings of the National Academy of Sciences 92 (6), 1841-1845, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9651581212769393176",
+        "cites_id": [
+            "9651581212769393176"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The production of glycoproteins by transient expression in Mammalian cells",
+            "pub_year": "2009",
+            "citation": "High Throughput Protein Expression and Purification: Methods and Protocols \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:f2IySw72cVMC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4068427728322273433",
+        "cites_id": [
+            "4068427728322273433"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transient Expression in HEK 293 Cells: An Alternative to E. coli for the Production of Secreted and Intracellular Mammalian Proteins",
+            "pub_year": "2015",
+            "citation": "Insoluble Proteins: Methods and Protocols, 209-222, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5612582025781837931",
+        "cites_id": [
+            "5612582025781837931"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression of protein complexes using multiple Escherichia coli protein co-expression systems: a benchmarking study",
+            "pub_year": "2011",
+            "citation": "Journal of Structural Biology 175 (2), 159-170, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10259493703118261296",
+        "cites_id": [
+            "10259493703118261296"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "First steps towards effective methods in exploiting high-throughput technologies for the determination of human protein structures of high biomedical value",
+            "pub_year": "2006",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 62 (10), 1208-1217, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:roLk4NBRz8UC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9241891365967185579",
+        "cites_id": [
+            "9241891365967185579"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fibronectin, the generation of multiple polypeptides from a single gene",
+            "pub_year": "1986",
+            "citation": "Oxford surveys on eukaryotic genes 3, 141-160, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:70eg2SAEIzsC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15001797851922913201",
+        "cites_id": [
+            "15001797851922913201"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal structures of the extracellular domain from PepT1 and PepT2 provide novel insights into mammalian peptide transport",
+            "pub_year": "2015",
+            "citation": "Structure 23 (10), 1889-1899, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:Tiz5es2fbqcC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7083477859326884231",
+        "cites_id": [
+            "7083477859326884231"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A pipeline for the production of antibody fragments for structural studies using transient expression in HEK 293T cells",
+            "pub_year": "2008",
+            "citation": "Protein expression and purification 62 (1), 83-89, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:P5F9QuxV20EC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11995282570027863457",
+        "cites_id": [
+            "11995282570027863457"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CDP840: a novel inhibitor of PDE-4",
+            "pub_year": "1998",
+            "citation": "Cell biochemistry and biophysics 29, 113-132, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:rO6llkc54NcC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11241351233686094665",
+        "cites_id": [
+            "11241351233686094665"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Semi-automated microseeding of nanolitre crystallization experiments",
+            "pub_year": "2008",
+            "citation": "Acta Crystallographica Section F: Structural Biology and Crystallization \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2843593016822708875",
+        "cites_id": [
+            "2843593016822708875"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multivalent antigen-binding proteins",
+            "pub_year": "1999",
+            "citation": "US Patent 5,864,019, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:geHnlv5EZngC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2160465305502783477",
+        "cites_id": [
+            "2160465305502783477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The location of arabinosyl: hydroxyproline transferase in the membrane system of potato tissue culture cells",
+            "pub_year": "1981",
+            "citation": "Biochemical Journal 195 (3), 661-667, 1981"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1276018016573858935",
+        "cites_id": [
+            "1276018016573858935"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural basis of antifolate recognition and transport by PCFT",
+            "pub_year": "2021",
+            "citation": "Nature 595 (7865), 130-134, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:DJbcl8HfkQkC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8817456298790137187",
+        "cites_id": [
+            "8817456298790137187"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of high-throughput technologies to a structural proteomics-type analysis of Bacillus anthracis",
+            "pub_year": "2006",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 62 (10), 1267-1275, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5181163685815514394",
+        "cites_id": [
+            "5181163685815514394"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Affimer proteins inhibit immune complex binding to Fc\u03b3RIIIa with high specificity through competitive and allosteric modes of action",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (1), E72-E81, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:ML0RJ9NH7IQC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3761196521281025320",
+        "cites_id": [
+            "3761196521281025320"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of the use of high-throughput technologies to the determination of protein structures of bacterial and viral pathogens",
+            "pub_year": "2006",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 62 (10), 1196-1207, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11388241717360526557",
+        "cites_id": [
+            "11388241717360526557"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of a recombinant cell-based system for the characterisation of phosphodiesterase 4 isoforms and evaluation of inhibitors",
+            "pub_year": "1999",
+            "citation": "Biochemical pharmacology 57 (12), 1375-1382, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13870526813515105992",
+        "cites_id": [
+            "13870526813515105992"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular cloning and expression of a human phosphodiesterase 4C",
+            "pub_year": "1997",
+            "citation": "Cellular signalling 9 (8), 575-585, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8973056006864374243",
+        "cites_id": [
+            "8973056006864374243"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human phosphodiesterase 4A: characterization of full-length and truncated enzymes expressed in COS cells",
+            "pub_year": "1997",
+            "citation": "Biochemical journal 326 (1), 53-60, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:u_35RYKgDlwC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5156584070986364587",
+        "cites_id": [
+            "5156584070986364587"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural basis of the IgE-Fc\u025bRI interaction",
+            "pub_year": "1993",
+            "citation": "Biochemical Society Transactions 21 (4), 968-972, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:7T2F9Uy0os0C",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13513124851199077935",
+        "cites_id": [
+            "13513124851199077935"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Green fluorescent protein-based expression screening of membrane proteins in Escherichia coli",
+            "pub_year": "2015",
+            "citation": "JoVE (Journal of Visualized Experiments), e52357, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6753085010748298290",
+        "cites_id": [
+            "6753085010748298290"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure of the Murray Valley encephalitis virus RNA helicase at 1.9 \u00c5 resolution",
+            "pub_year": "2007",
+            "citation": "Protein science 16 (10), 2294-2300, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4197153776235711458",
+        "cites_id": [
+            "4197153776235711458"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal structures of VIM\u20101 complexes explain active site heterogeneity in VIM\u2010class metallo\u2010\u03b2\u2010lactamases",
+            "pub_year": "2019",
+            "citation": "The FEBS journal 286 (1), 169-183, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:VaXvl8Fpj5cC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11011520550830258505",
+        "cites_id": [
+            "11011520550830258505"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The structure of a reduced form of OxyR from Neisseria meningitidis",
+            "pub_year": "2010",
+            "citation": "BMC structural biology 10, 1-11, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14626046375487853566",
+        "cites_id": [
+            "14626046375487853566"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The VIZIER project: preparedness against pathogenic RNA viruses",
+            "pub_year": "2008",
+            "citation": "Antiviral research 78 (1), 37-46, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=95768339605052092",
+        "cites_id": [
+            "95768339605052092"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural and functional characterization of the kindlin-1 pleckstrin homology domain",
+            "pub_year": "2012",
+            "citation": "Journal of Biological Chemistry 287 (52), 43246-43261, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17372282458348922883",
+        "cites_id": [
+            "17372282458348922883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TUMOR-LOCALIZATION OF ENGINEERED ANTIBODY FRAGMENTS",
+            "pub_year": "1992",
+            "citation": "Antibody Immunoconjugates and Radiopharmaceuticals 5 (2), 1992"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:ZzlSgRqYykMC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3757476177522212591",
+        "cites_id": [
+            "3757476177522212591"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of In-Fusion\u2122 Cloning for the Parallel Construction of E. coli Expression Vectors",
+            "pub_year": "2014",
+            "citation": "DNA Cloning and Assembly Methods, 209-234, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:sSrBHYA8nusC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1941379645314986477",
+        "cites_id": [
+            "1941379645314986477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromophore\u2010Linked Substrate (CLS405): Probing Metallo\u2010\u03b2\u2010Lactamase Activity and Inhibition",
+            "pub_year": "2013",
+            "citation": "ChemMedChem 8 (12), 1923-1929, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:dshw04ExmUIC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4895851117915521083",
+        "cites_id": [
+            "4895851117915521083"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Streamlining homogeneous glycoprotein production for biophysical and structural applications by targeted cell line development",
+            "pub_year": "2011",
+            "citation": "PLoS One 6 (12), e27829, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8860018398268343114",
+        "cites_id": [
+            "8860018398268343114"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal structure of nitrogen regulatory protein IIANtr from Neisseria meningitidis",
+            "pub_year": "2005",
+            "citation": "BMC structural biology 5, 1-8, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3970632095498483428",
+        "cites_id": [
+            "3970632095498483428"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human phosphodiesterase type IVC, and its production and use",
+            "pub_year": "1998",
+            "citation": "US Patent 5,851,784, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:TIZ-Mc8IlK0C",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4643072148261381830",
+        "cites_id": [
+            "4643072148261381830"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal structure of a 3-oxoacyl-(acylcarrier protein) reductase (BA3989) from Bacillus anthracis at 2.4-A resolution",
+            "pub_year": "2008",
+            "citation": "Proteins-Structure Function and Bioinformatics 70 (2), 562, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:0EnyYjriUFMC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7312446737110360460",
+        "cites_id": [
+            "7312446737110360460"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multivalent antigen-binding proteins",
+            "pub_year": "2003",
+            "citation": "US Patent App. 09/226,157, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:HE397vMXCloC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5896528204297372906",
+        "cites_id": [
+            "5896528204297372906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method for producing Fv fragments in eukaryotic cells",
+            "pub_year": "1999",
+            "citation": "US Patent 5,965,405, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5124693816175477846",
+        "cites_id": [
+            "5124693816175477846"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Click chemistry armed enzyme-linked immunosorbent assay to measure palmitoylation by hedgehog acyltransferase",
+            "pub_year": "2015",
+            "citation": "Analytical biochemistry 490, 66-72, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14799126416031442678",
+        "cites_id": [
+            "14799126416031442678"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structures of an alanine racemase from Bacillus anthracis (BA0252) in the presence and absence of (R)-1-aminoethylphosphonic acid (L-Ala-P)",
+            "pub_year": "2008",
+            "citation": "Acta Crystallographica Section F: Structural Biology and Crystallization \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:NhqRSupF_l8C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13044279181816507150",
+        "cites_id": [
+            "13044279181816507150"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "THE PURIFICATION OF POTATO LECTIN BY AFFINITY-CHROMATOGRAPHY ON A FETUIN-SEPHAROSE MATRIX",
+            "pub_year": "1980",
+            "citation": "Phytochemistry 19 (8), 1980"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7064991384055100207",
+        "cites_id": [
+            "7064991384055100207"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cryo-EM structure of PepT2 reveals structural basis for proton-coupled peptide and prodrug transport in mammals",
+            "pub_year": "2021",
+            "citation": "Science advances 7 (35), eabh3355, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:fFSKOagxvKUC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14766359245320744486",
+        "cites_id": [
+            "14766359245320744486"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Early peak and rapid decline of SARS-CoV-2 seroprevalence in a Swiss metropolitan region",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:HtEfBTGE9r8C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5172503544588395293",
+        "cites_id": [
+            "5172503544588395293"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Binding of (5S)-Penicilloic Acid to Penicillin Binding Protein 3",
+            "pub_year": "2013",
+            "citation": "ACS chemical biology 8 (10), 2112-2116, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:WbkHhVStYXYC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9125547386650125647",
+        "cites_id": [
+            "9125547386650125647"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression, purification and crystallization of a lyssavirus matrix (M) protein",
+            "pub_year": "2008",
+            "citation": "Acta Crystallographica Section F: Structural Biology and Crystallization \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7554940517566759875",
+        "cites_id": [
+            "7554940517566759875"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Architecture of cell\u2013cell junctions in situ reveals a mechanism for bacterial biofilm inhibition",
+            "pub_year": "2021",
+            "citation": "Proceedings of the National Academy of Sciences 118 (31), e2109940118, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:IRz6iEL74y4C",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4719318477345195095",
+        "cites_id": [
+            "4719318477345195095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Humanization of an anti-mucin antibody for breast and ovarian cancer therapy",
+            "pub_year": "1994",
+            "citation": "Antigen and Antibody Molecular Engineering in Breast Cancer Diagnosis and \u2026, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:_xSYboBqXhAC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14480948748813791053",
+        "cites_id": [
+            "14480948748813791053"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antibodies against E-selectin",
+            "pub_year": "2001",
+            "citation": "US Patent 6,204,007, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:KxtntwgDAa4C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3332836223282215676",
+        "cites_id": [
+            "3332836223282215676"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exon structure of the collagen-binding domain of human fibronectin",
+            "pub_year": "1986",
+            "citation": "FEBS letters 204 (2), 318-322, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14487808540959642466",
+        "cites_id": [
+            "14487808540959642466"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Direct imaging of the recruitment and phosphorylation of S6K1 in the mTORC1 pathway in living cells",
+            "pub_year": "2019",
+            "citation": "Scientific Reports 9 (1), 3408, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:q3CdL3IzO_QC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15000436610131857697",
+        "cites_id": [
+            "15000436610131857697"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Substituted 2-(2-aminopyrimidin-4-yl) pyridine-4-carboxylates as potent inhibitors of JumonjiC domain-containing histone demethylases",
+            "pub_year": "2016",
+            "citation": "Future Medicinal Chemistry 8 (13), 1553-1571, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:J-pR_7NvFogC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5551719657043429282",
+        "cites_id": [
+            "5551719657043429282"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SARS-CoV-2 triggers pericyte-mediated cerebral capillary constriction",
+            "pub_year": "2023",
+            "citation": "Brain 146 (2), 727-738, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:IUKN3-7HHlwC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=130572539054652312",
+        "cites_id": [
+            "130572539054652312"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal structures of penicillin\u2010binding protein 3 in complexes with azlocillin and cefoperazone in both acylated and deacylated forms",
+            "pub_year": "2016",
+            "citation": "FEBS letters 590 (2), 288-297, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:VL0QpB8kHFEC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12366463725704820804",
+        "cites_id": [
+            "12366463725704820804"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A RANKL mutant used as an inter-species vaccine for efficient immunotherapy of osteoporosis",
+            "pub_year": "2015",
+            "citation": "Scientific Reports 5 (1), 14150, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:q3oQSFYPqjQC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4907996293738711864",
+        "cites_id": [
+            "4907996293738711864"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GFP-based expression screening of membrane proteins in insect cells using the baculovirus system",
+            "pub_year": "2015",
+            "citation": "Structural Proteomics: High-Throughput Methods, 197-209, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:u9iWguZQMMsC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=918585540344850781",
+        "cites_id": [
+            "918585540344850781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystallization and preliminary X-ray analysis of CrgA, a LysR-type transcriptional regulator from pathogenic Neisseria meningitidis MC58",
+            "pub_year": "2008",
+            "citation": "Acta Crystallographica Section F: Structural Biology and Crystallization \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2075503561472633936",
+        "cites_id": [
+            "2075503561472633936"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of variable N-glycosylation site occupancy in glycoproteins by liquid chromatography electrospray ionization mass spectrometry",
+            "pub_year": "2007",
+            "citation": "Analytical biochemistry 361 (1), 149-151, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:SP6oXDckpogC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6504509773201509680",
+        "cites_id": [
+            "6504509773201509680"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel nucleotide triphosphates as potent P2Y2 agonists",
+            "pub_year": "2007",
+            "citation": "Bioorganic & medicinal chemistry letters 17 (2), 562-565, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:evX43VCCuoAC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7597953600767746215",
+        "cites_id": [
+            "7597953600767746215"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure of the PII signal transduction protein of Neisseria meningitidis at 1.85 \u00c5 resolution",
+            "pub_year": "2006",
+            "citation": "Acta Crystallographica Section F: Structural Biology and Crystallization \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:abG-DnoFyZgC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16805486268243082317",
+        "cites_id": [
+            "16805486268243082317"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pathogen-sugar interactions revealed by universal saturation transfer analysis",
+            "pub_year": "2022",
+            "citation": "Science 377 (6604), eabm3125, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:2tRrZ1ZAMYUC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=282076811291849880",
+        "cites_id": [
+            "282076811291849880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A streamlined implementation of the glutamine synthetase-based protein expression system",
+            "pub_year": "2013",
+            "citation": "BMC biotechnology 13 (1), 1-10, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=902331498678019280",
+        "cites_id": [
+            "902331498678019280"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "S-Adenosyl-S-carboxymethyl-L-homocysteine: a novel cofactor found in the putative tRNA-modifying enzyme CmoA",
+            "pub_year": "2013",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 69 (6), 1090-1098, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4070645134752787556",
+        "cites_id": [
+            "4070645134752787556"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Anti-HMFG antibodies and processes for their production",
+            "pub_year": "2003",
+            "citation": "US Patent 6,506,881, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:738O_yMBCRsC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15404310048720179078",
+        "cites_id": [
+            "15404310048720179078"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Some lessons from the systematic production and structural analysis of soluble \u03b1\u03b2 T-cell receptors",
+            "pub_year": "2009",
+            "citation": "Journal of immunological methods 350 (1-2), 14-21, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:8k81kl-MbHgC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9649026675663600174",
+        "cites_id": [
+            "9649026675663600174"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human DDX17 unwinds rift valley fever virus non-coding RNAs",
+            "pub_year": "2020",
+            "citation": "International journal of molecular sciences 22 (1), 54, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:_5tno0g5mFcC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2313644357675191366",
+        "cites_id": [
+            "2313644357675191366"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Immunogenicity profiling of protein antigens from capsular group B Neisseria meningitidis",
+            "pub_year": "2019",
+            "citation": "Scientific Reports 9 (1), 6843, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:ruyezt5ZtCIC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10985774567383419896",
+        "cites_id": [
+            "10985774567383419896"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of the structure and activity of glycosylated and aglycosylated human carboxylesterase 1",
+            "pub_year": "2015",
+            "citation": "PLoS One 10 (12), e0143919, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:kRWSkSYxWN8C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2585440993926947424",
+        "cites_id": [
+            "2585440993926947424"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Crystal Structure of UMP Kinase from Bacillus anthracis (BA1797) Reveals an Allosteric Nucleotide-Binding Site",
+            "pub_year": "2008",
+            "citation": "Journal of molecular biology 381 (5), 1098-1105, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2420198893727877696",
+        "cites_id": [
+            "2420198893727877696"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The in vivo and in vitro characterisation of an engineered human antibody to E-selectin",
+            "pub_year": "1997",
+            "citation": "Immunotechnology 3 (2), 107-116, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:Z5m8FVwuT1cC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17484975927201947541",
+        "cites_id": [
+            "17484975927201947541"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The use of nanobodies in a sensitive ELISA test for SARS-CoV-2 Spike 1 protein",
+            "pub_year": "2021",
+            "citation": "Royal Society open science 8 (9), 211016, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:r_AWSJRzSzQC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10507537944090552017",
+        "cites_id": [
+            "10507537944090552017"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The structure-function relationship of oncogenic LMTK3",
+            "pub_year": "2020",
+            "citation": "Science Advances 6 (46), eabc3099, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:umqufdRvDiIC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9932453937893163804",
+        "cites_id": [
+            "9932453937893163804"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal structure of signal regulatory protein gamma (SIRP\u03b3) in complex with an antibody Fab fragment",
+            "pub_year": "2013",
+            "citation": "BMC structural biology 13 (1), 1-8, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13538021015825439307",
+        "cites_id": [
+            "13538021015825439307"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional and structural proteomics of glycoproteins",
+            "pub_year": "2011",
+            "citation": "Springer, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4128911569526562676",
+        "cites_id": [
+            "4128911569526562676"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel structural features in two ZHX homeodomains derived from a systematic study of single and multiple domains",
+            "pub_year": "2010",
+            "citation": "BMC structural biology 10, 1-15, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:08ZZubdj9fEC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7478694265613670044",
+        "cites_id": [
+            "7478694265613670044"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The tandem zinc-finger region of human ZHX adopts a novel C2H2 zinc finger structure with a C-terminal extension",
+            "pub_year": "2009",
+            "citation": "Biochemistry 48 (21), 4431-4439, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:5nxA0vEk-isC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4162226339533277177",
+        "cites_id": [
+            "4162226339533277177"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The structure of NMB1585, a MarR-family regulator from Neisseria meningitidis",
+            "pub_year": "2009",
+            "citation": "Acta Crystallographica Section F: Structural Biology and Crystallization \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:UxriW0iASnsC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16201688301348831262",
+        "cites_id": [
+            "16201688301348831262"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural biology of nanobodies against the spike protein of SARS-CoV-2",
+            "pub_year": "2021",
+            "citation": "Viruses 13 (11), 2214, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:nZcligLrVowC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4252094649724168275",
+        "cites_id": [
+            "4252094649724168275"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Early plateau of SARS-CoV-2 seroprevalence identified by tripartite immunoassay in a large population",
+            "pub_year": "2020",
+            "citation": "Medrxiv, 2020, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:8d8msizDQcsC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4606210845356436893",
+        "cites_id": [
+            "4606210845356436893"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synthesis and characterisation of 5-acyl-6, 7-dihydrothieno [3, 2-c] pyridine inhibitors of Hedgehog acyltransferase",
+            "pub_year": "2016",
+            "citation": "Data in Brief 7, 257-281, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7507690029330790484",
+        "cites_id": [
+            "7507690029330790484"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure of 5-formyltetrahydrofolate cyclo-ligase from Bacillus anthracis (BA4489)",
+            "pub_year": "2007",
+            "citation": "Acta Crystallographica Section F: Structural Biology and Crystallization \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1100772214486235954",
+        "cites_id": [
+            "1100772214486235954"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new class of membrane\u2010associated calcium\u2010binding proteins",
+            "pub_year": "1984",
+            "citation": "Bioessays 1 (2), 61-63, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:vRqMK49ujn8C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8132230527092522749",
+        "cites_id": [
+            "8132230527092522749"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimized expression and purification of adipose triglyceride lipase improved hydrolytic and transacylation activities in vitro",
+            "pub_year": "2021",
+            "citation": "Journal of Biological Chemistry 297 (4), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:KbBQZpvPDL4C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=319894998501921369",
+        "cites_id": [
+            "319894998501921369"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Schistosomiasis drug discovery in the era of automation and artificial intelligence",
+            "pub_year": "2021",
+            "citation": "Frontiers in immunology 12, 642383, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:4vMrXwiscB8C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7840601182095694071",
+        "cites_id": [
+            "7840601182095694071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimization of Zika virus envelope protein production for ELISA and correlation of antibody titers with virus neutralization in Mexican patients from an arbovirus endemic region",
+            "pub_year": "2018",
+            "citation": "Virology journal 15, 1-12, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:k8Z6L05lTy4C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2243502811838469476",
+        "cites_id": [
+            "2243502811838469476"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural and kinetic analysis of Schistosoma mansoni Adenylosuccinate Lyase (SmADSL)",
+            "pub_year": "2017",
+            "citation": "Molecular and biochemical parasitology 214, 27-35, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10526778042758629517",
+        "cites_id": [
+            "10526778042758629517"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure of the cold-shock domain protein from Neisseria meningitidis reveals a strand-exchanged dimer",
+            "pub_year": "2008",
+            "citation": "Acta Crystallographica Section F: Structural Biology and Crystallization \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:B3FOqHPlNUQC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9493391924262873928",
+        "cites_id": [
+            "9493391924262873928"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of the light chain in the structure and binding activity of two cattle antibodies that neutralize bovine respiratory syncytial virus",
+            "pub_year": "2019",
+            "citation": "Molecular immunology 112, 123-130, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:XoXfffV-tXoC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18050957576771555807",
+        "cites_id": [
+            "18050957576771555807"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel nucleotide triphosphates as potent P2Y2 agonists with enhanced stability over UTP",
+            "pub_year": "2007",
+            "citation": "Bioorganic & medicinal chemistry letters 17 (2), 558-561, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:fEOibwPWpKIC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1284150161676629977",
+        "cites_id": [
+            "1284150161676629977"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GPC3-Unc5 receptor complex structure and role in cell migration",
+            "pub_year": "2022",
+            "citation": "Cell 185 (21), 3931-3949. e26, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:CaZNVDsoPx4C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2537772669184869974",
+        "cites_id": [
+            "2537772669184869974"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular basis for GTP recognition by light\u2010activated guanylate cyclase Rh GC",
+            "pub_year": "2020",
+            "citation": "The FEBS Journal 287 (13), 2797-2807, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:_axFR9aDTf0C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2054710112562710747",
+        "cites_id": [
+            "2054710112562710747"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The molecular structure of Schistosoma mansoni PNP isoform 2 provides insights into the nucleoside selectivity of PNPs",
+            "pub_year": "2018",
+            "citation": "PloS one 13 (9), e0203532, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:hMsQuOkrut0C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8938228802017516290",
+        "cites_id": [
+            "8938228802017516290"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure of ribose 5-phosphate isomerase from the probiotic bacterium Lactobacillus salivarius UCC118",
+            "pub_year": "2012",
+            "citation": "Acta Crystallographica Section F: Structural Biology and Crystallization \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:tOudhMTPpwUC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=456042165033578487",
+        "cites_id": [
+            "456042165033578487"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "xtalPiMS: A PiMS-based web application for the management and monitoring of crystallization trials",
+            "pub_year": "2011",
+            "citation": "Journal of structural biology 175 (2), 230-235, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:BrmTIyaxlBUC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16275851532243919781",
+        "cites_id": [
+            "16275851532243919781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TUMOR BINDING-PROPERTIES OF B72. 3 FV FRAGMENTS",
+            "pub_year": "1991",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:p2g8aNsByqUC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8674436076948962128",
+        "cites_id": [
+            "8674436076948962128"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The cell surface and its metabolism",
+            "pub_year": "1983",
+            "citation": "The Journal of Pathology 141 (3), 235-248, 1983"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:XiSMed-E-HIC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2246350369562581873",
+        "cites_id": [
+            "2246350369562581873"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Population-wide evolution of SARS-CoV-2 immunity tracked by a ternary immunoassay",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:9pM33mqn1YgC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10717230107929547057",
+        "cites_id": [
+            "10717230107929547057"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In vitro and in vivo characterization of the multiple isoforms of Schistosoma mansoni hypoxanthine-guanine phosphoribosyltransferases",
+            "pub_year": "2019",
+            "citation": "Molecular and biochemical parasitology 229, 24-34, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:HbR8gkJAVGIC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1593111383846540468",
+        "cites_id": [
+            "1593111383846540468"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression screening of integral membrane proteins by fusion to fluorescent reporters",
+            "pub_year": "2016",
+            "citation": "The Next Generation in Membrane Protein Structure Determination, 1-11, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:XiVPGOgt02cC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16374719381479819355",
+        "cites_id": [
+            "16374719381479819355"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Converting monoclonal antibodies into Fab fragments for transient expression in mammalian cells",
+            "pub_year": "2012",
+            "citation": "Protein Expression in Mammalian Cells: Methods and Protocols, 137-159, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:D_sINldO8mEC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12666887678550444692",
+        "cites_id": [
+            "12666887678550444692"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sample preparation and mass-spectrometric characterization of crystal-derived protein samples",
+            "pub_year": "2005",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 61 (5), 643-645, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8793378724954009573",
+        "cites_id": [
+            "8793378724954009573"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transient transfection and expression of eukaryotic membrane proteins in Expi293F cells and their screening on a small scale: application for structural studies",
+            "pub_year": "2021",
+            "citation": "Structural Proteomics: High-Throughput Methods, 105-128, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:HIFyuExEbWQC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4111168634753157003",
+        "cites_id": [
+            "4111168634753157003"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural characterisation of a nanobody derived from a na\u00efve library that neutralises SARS-CoV-2",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:4fGpz3EwCPoC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=387129658867943361",
+        "cites_id": [
+            "387129658867943361"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Overview of a high-throughput pipeline for streamlining the production of recombinant proteins",
+            "pub_year": "2019",
+            "citation": "High-Throughput Protein Production and Purification: Methods and Protocols \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:0N-VGjzr574C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17561501802966457962",
+        "cites_id": [
+            "17561501802966457962"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystallization and preliminary X-ray analysis of mouse RANK and its complex with RANKL",
+            "pub_year": "2009",
+            "citation": "Acta Crystallographica Section F: Structural Biology and Crystallization \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11320160279647236265",
+        "cites_id": [
+            "11320160279647236265"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Therapeutic regulation of cytokine signalling by inhibitors of p38 mitogen-activated protein kinase",
+            "pub_year": "2000",
+            "citation": "Novel Cytokine Inhibitors, 201-215, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:LPZeul_q3PIC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6794074367206931261",
+        "cites_id": [
+            "6794074367206931261"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insights from the crystal structure of the chicken CREB3 bZIP suggest that members of the CREB3 subfamily transcription factors may be activated in response to oxidative stress",
+            "pub_year": "2019",
+            "citation": "Protein Science 28 (4), 779-787, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:-FonjvnnhkoC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10399763707755158937",
+        "cites_id": [
+            "10399763707755158937"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The crystal structure of NGO0477 from Neisseria gonorrhoeae reveals a novel protein fold incorporating a helix\u2010turn\u2010helix motif",
+            "pub_year": "2010",
+            "citation": "Proteins: Structure, Function, and Bioinformatics 78 (7), 1798-1802, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:8AbLer7MMksC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2742803577503385955",
+        "cites_id": [
+            "2742803577503385955"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cryptic pathogen-sugar interactions revealed by universal saturation transfer analysis",
+            "pub_year": "2021",
+            "citation": "BioRxiv, 2021.04. 14.439284, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:9c2xU6iGI7YC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12113872767526545440",
+        "cites_id": [
+            "12113872767526545440"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Highly stable single-strand-specific 3\u2032-nuclease/nucleotidase from Legionella pneumophila",
+            "pub_year": "2018",
+            "citation": "International journal of biological macromolecules 114, 776-787, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:L7CI7m0gUJcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6772149907382419644",
+        "cites_id": [
+            "6772149907382419644"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural proteomics: high-throughput methods",
+            "pub_year": "2015",
+            "citation": "Humana Press, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:5awf1xo2G04C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10435997575739397037",
+        "cites_id": [
+            "10435997575739397037"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antibodies against E-selectin",
+            "pub_year": "2002",
+            "citation": "US Patent 6,407,214, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:tYavs44e6CUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2545168395552942033",
+        "cites_id": [
+            "2545168395552942033"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Continuous population-level monitoring of SARS-CoV-2 seroprevalence in a large European metropolitan region",
+            "pub_year": "2023",
+            "citation": "Iscience 26 (2), 2023"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:1lhNe0rCu4AC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16971819712061484902",
+        "cites_id": [
+            "16971819712061484902"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correlation between the binding affinity and the conformational entropy of nanobody SARS-CoV-2 spike protein complexes",
+            "pub_year": "2022",
+            "citation": "Proceedings of the National Academy of Sciences 119 (31), e2205412119, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:sJsF-0ZLhtgC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=355279849225827094",
+        "cites_id": [
+            "355279849225827094"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure of a collagen VI \u03b13 chain VWA domain array: adaptability and functional implications of myopathy causing mutations",
+            "pub_year": "2020",
+            "citation": "Journal of Biological Chemistry 295 (36), 12755-12771, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:NXb4pA-qfm4C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14372382270603552884",
+        "cites_id": [
+            "14372382270603552884"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generation and characterisation of recombinant FMDV antibodies: Applications for advancing diagnostic and laboratory assays",
+            "pub_year": "2018",
+            "citation": "Plos one 13 (8), e0201853, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:b1wdh0AR-JQC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11253061427213264039",
+        "cites_id": [
+            "11253061427213264039"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SUPPRESSION OF ANTIGEN-INDUCED AIRWAY RESPONSES AND BRONCHIAL HYPERRESPONSIVENESS BY CDP840, A NOVEL STEREOSELECTIVE INHIBITOR OF PHOSPHODIESTERASE TYPE-IV",
+            "pub_year": "1995",
+            "citation": "BRITISH JOURNAL OF PHARMACOLOGY 116, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:eflP2zaiRacC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14392685231060636323",
+        "cites_id": [
+            "14392685231060636323"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new cytoskeletal protein associated with the plasma membrane of lymphocytes",
+            "pub_year": "1983",
+            "citation": "Biochemical Society Transactions 11 (2), 156-157, 1983"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7568446674990188394",
+        "cites_id": [
+            "7568446674990188394"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Schistosoma mansoni cathepsin D1: Biochemical and biophysical characterization of the recombinant enzyme expressed in HEK293T cells",
+            "pub_year": "2020",
+            "citation": "Protein Expression and Purification 167, 105532, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:86PQX7AUzd4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15908022240640907497",
+        "cites_id": [
+            "15908022240640907497"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cdr grafted anti-cea antibodies and their production",
+            "pub_year": "1992",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:GtLg2Ama23sC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5227596232852114918",
+        "cites_id": [
+            "5227596232852114918"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The structure of nontypeable Haemophilus influenzae SapA in a closed conformation reveals a constricted ligand-binding cavity and a novel RNA binding motif",
+            "pub_year": "2021",
+            "citation": "Plos one 16 (10), e0256070, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:a3BOlSfXSfwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1480653927652122735",
+        "cites_id": [
+            "1480653927652122735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimization of small-scale production of Zika virus envelope glycoprotein by transient expression in HEK293 cells for ELISA",
+            "pub_year": "2020",
+            "citation": "Zika Virus: Methods and Protocols, 103-112, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:kh2fBNsKQNwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13736798583323208089",
+        "cites_id": [
+            "13736798583323208089"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Streamlining the production of proteins for structural biology",
+            "pub_year": "2019",
+            "citation": "Biophysical Reviews 11 (4), 533-534, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:edDO8Oi4QzsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16449278584972718294",
+        "cites_id": [
+            "16449278584972718294"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of a Schistosoma mansoni NDPK expressed in sexual and digestive organs",
+            "pub_year": "2019",
+            "citation": "Molecular and biochemical parasitology 231, 111187, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16009700263776804244",
+        "cites_id": [
+            "16009700263776804244"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-resolution structures of Lactobacillus salivarius transketolase in the presence and absence of thiamine pyrophosphate",
+            "pub_year": "2015",
+            "citation": "Acta Crystallographica Section F: Structural Biology Communications 71 (10 \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:1yQoGdGgb4wC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14102681586353549079",
+        "cites_id": [
+            "14102681586353549079"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods in structural proteomics.",
+            "pub_year": "2011",
+            "citation": "Methods (San Diego, Calif.) 55 (1), 1-2, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14582944791415652944",
+        "cites_id": [
+            "14582944791415652944"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of a human IgA antibody specific for the tumour antigen TAG-72",
+            "pub_year": "1997",
+            "citation": "Biochemical Society Transactions 25 (2), 330S-330S, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:VLnqNzywnoUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4740072993101559686",
+        "cites_id": [
+            "4740072993101559686"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Anti-human milk fat globule humanised antibodies",
+            "pub_year": "1993",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:yFnVuubrUp4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12295522922177438797",
+        "cites_id": [
+            "12295522922177438797"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chemistry towards biology\u2014Instruct: Snapshot",
+            "pub_year": "2022",
+            "citation": "International Journal of Molecular Sciences 23 (23), 14815, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:lgwcVrK6X84C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14069448034492522662",
+        "cites_id": [
+            "14069448034492522662"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of Inhibitors of the Schistosoma mansoni VKR2 Kinase Domain",
+            "pub_year": "2022",
+            "citation": "ACS Medicinal Chemistry Letters 13 (11), 1715-1722, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:buQ7SEKw-1sC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4006142432337811635",
+        "cites_id": [
+            "4006142432337811635"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystallographic approach to fragment-based hit discovery against Schistosoma mansoni purine nucleoside phosphorylase",
+            "pub_year": "2021",
+            "citation": "Biochemical Journal 478 (19), 3655-3670, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:yMeIxYmEMEAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16736294509727584389",
+        "cites_id": [
+            "16736294509727584389"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oncostatin M drives intestinal inflammation and predicts response to tumor necrosis factor-neutralizing therapy in patients with inflammatory bowel disease (vol 23, pg 579, 2017)",
+            "pub_year": "2017",
+            "citation": "NATURE MEDICINE 23 (6), 788-788, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:BzfGm06jWhQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9258862487630806408",
+        "cites_id": [
+            "9258862487630806408"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods in integrated structural biology",
+            "pub_year": "2016",
+            "citation": "Methods (San Diego, Calif.) 95, 1-2, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7579555151452116805",
+        "cites_id": [
+            "7579555151452116805"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure of the regulatory domain of the LysR family regulator NMB2055 (MetR-like protein) from Neisseria meningitidis",
+            "pub_year": "2012",
+            "citation": "Acta Crystallographica Section F: Structural Biology and Crystallization \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:1qzjygNMrQYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14650125972365814645",
+        "cites_id": [
+            "14650125972365814645"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput cloning, expression, and purification",
+            "pub_year": "2007",
+            "citation": "Macromolecular Crystallography, 23, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:5ugPr518TE4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10255315891016130618",
+        "cites_id": [
+            "10255315891016130618"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel Cytokine Inhibitors",
+            "pub_year": "2000",
+            "citation": "Birkh \u201euser Verlag, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:bnK-pcrLprsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11925216574367369912",
+        "cites_id": [
+            "11925216574367369912"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Altered antibody",
+            "pub_year": "1993",
+            "citation": "EP Patent App. 88,907,757 A, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:cK4Rrx0J3m0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14704927653907398235",
+        "cites_id": [
+            "14704927653907398235"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The rapid production of recombinant rabbit metalloproteinases in myeloma cells",
+            "pub_year": "1992",
+            "citation": "Animal Cell Technology, 48-50, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:BUYA1_V_uYcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11106031657007444053",
+        "cites_id": [
+            "11106031657007444053"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The redistribution of reducing power in the elongating zone of geostimulated bean roots",
+            "pub_year": "1980",
+            "citation": "Plant Science Letters 18 (2), 127-132, 1980"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:XD-gHx7UXLsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4312584161301091228",
+        "cites_id": [
+            "4312584161301091228"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discovery of new Schistosoma mansoni aspartyl protease inhibitors by structure-based virtual screening",
+            "pub_year": "2023",
+            "citation": "Mem\u00f3rias do Instituto Oswaldo Cruz 118, e230031, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:-mN3Mh-tlDkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fragment library screening by X-ray crystallography and hit optimization against thioredoxin glutathione reductase of Schistosoma mansoni",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:prdVHNxh-e8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Screening of Membrane Protein Production by Comparison of Transient Expression in Insect and Mammalian Cells",
+            "pub_year": "2023",
+            "citation": "Biomolecules 13 (5), 817, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:kw52XkFRtyQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-Throughput Production and Optimization of Membrane Proteins After Expression in Mammalian Cells",
+            "pub_year": "2023",
+            "citation": "Advanced Methods in Structural Biology, 79-118, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:j7_hQOaDUrUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Marine picocyanobacterial PhnD1 shows specificity for various phosphorus sources but likely represents a constitutive inorganic phosphate transporter",
+            "pub_year": "2023",
+            "citation": "The ISME Journal, 1-12, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:nRpfm8aw39MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural and mechanistic characterization of bifunctional heparan sulfate N-deacetylase-N-sulfotransferase 1",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.08. 30.555497, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:yxmsSjX2EkcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GPC3-Unc5D complex structure and role in cell migration",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.07. 21.500812, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:PVgj2kMGcgYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Production and Crystallization of Nanobodies in Complex with the Receptor Binding Domain of the SARS-CoV-2 Spike Protein",
+            "pub_year": "2022",
+            "citation": "Bio-protocol 12 (9), e4406-e4406, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:vDZJ-YLwNdEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural mass spectrometry decodes domain interaction and dynamics of the full-length Human Histone Deacetylase 2",
+            "pub_year": "2022",
+            "citation": "Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1870 (3), 140759, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:_OXeSy2IsFwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temperature-dependent secretion of Zika virus envelope and non-structural protein 1 in mammalian cells for clinical applications",
+            "pub_year": "2021",
+            "citation": "Journal of Virological Methods 294, 114175, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:cWzG1nlazyYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neutralizing nanobodies bind SARS-CoV-2 spike RBD and block interaction with ACE2 (vol 27, pg 846, 2020)",
+            "pub_year": "2021",
+            "citation": "Nature Structural & Molecular Biology 28 (3), 326-326, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:owLR8QvbtFgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cryptic SARS-CoV2-spike-with-sugar interactions revealed by'universal'saturation transfer analysis (preprint)",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:FiytvqdAVhgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A potent SARS-CoV-2 neutralising nanobody shows therapeutic efficacy in the Syrian golden hamster model of COVID-19 (preprint)",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:IaI1MmNe2tcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Population-wide evolution of SARS-CoV-2 immunity tracked by a ternary immunoassay (preprint)",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:L1USKYWJimsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural basis for the neutralization of SARS-CoV-2 by an antibody from a convalescent patient (preprint)",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:WC23djZS0W4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure-Altering Mutations of the SARS-CoV-2 Frame Shifting RNA Element (preprint)",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:7BrZ7Jt4UNcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neutralization of SARS-CoV-2 by Destruction of the Prefusion Spike (preprint)",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:PaBasH6fAo0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SARS-CoV-2 spike D614G variant exhibits highly efficient replication and transmission in hamsters (preprint)",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:MpfHP-DdYjUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Elucidation of remdesivir cytotoxicity pathways through genome-wide CRISPR-Cas9 screening and transcriptomics (preprint)",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:7Hz3ACDFbsoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Immune response to vaccine candidates based on different types of nanoscaffolded RBD domain of the SARS-CoV-2 spike protein (preprint)",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:LdasjJ6CEcoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Silicon Nitride Inactivates SARS-CoV-2 in vitro (preprint)",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:kVjdVfd2voEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A simplified cell-based assay to identify coronavirus 3CL protease inhibitors (preprint)",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:U4n9YNQMCAIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Overview of a high-throughput pipeline for streamlining the production of recombinant proteins",
+            "pub_year": "2019",
+            "citation": "Humana Press, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:PYBJJbyH-FwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cutaneous bacterial sensing through group 2 innate lymphoid cell presentation of endogenous CD1a lipid antigens",
+            "pub_year": "2018",
+            "citation": "BRITISH JOURNAL OF DERMATOLOGY 178 (6), E403-E403, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:MLfJN-KU85MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oncostatin M drives intestinal inflammation and predicts response to tumor necrosis factor-neutralizing therapy in patients with inflammatory bowel disease",
+            "pub_year": "2017",
+            "citation": "Zeitschrift f\u00fcr Gastroenterologie 55 (08), KV 053, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:zLWjf1WUPmwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel Agents for Blocking the Interaction of Immune Complexes with the Activatory Fc gamma RIIIa Receptor",
+            "pub_year": "2016",
+            "citation": "ARTHRITIS & RHEUMATOLOGY 68, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:vbGhcppDl1QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Louise E. Bird, Joanne E. Nettleship, Valtteri J\u00e4rvinen",
+            "pub_year": "2016",
+            "citation": "The Next Generation in Membrane Protein Structure Determination 922, 1, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:NJ774b8OgUMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Express\u00e3o e purifica\u00e7\u00e3o da enzima UCK1 da via de salva\u00e7\u00e3o de pirimidinas do parasita Schistosoma mansoni",
+            "pub_year": "2015",
+            "citation": "Livro de Resumos, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:tH6gc1N1XXoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estruturas cristalogr\u00e1ficas de potencias alvos enzim\u00e1ticos da via de salva\u00e7\u00e3o de purinas do parasita Schistosoma mansoni",
+            "pub_year": "2015",
+            "citation": "Anais/Resumos, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:gKiMpY-AVTkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterisation of the scavenger receptor CD36",
+            "pub_year": "2014",
+            "citation": "BIOCHEMISTRY AND CELL BIOLOGY-BIOCHIMIE ET BIOLOGIE CELLULAIRE 92 (6), 2014"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enzymes of the purine salvage pathway from Schistosoma mansoni: a high-throughput approach",
+            "pub_year": "2014",
+            "citation": "Program and Index, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:XUvXOeBm_78C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The nucleotide metabolism of Schistosoma mansoni: a structural molecular overview",
+            "pub_year": "2014",
+            "citation": "Livro de Resumos, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:QD3KBmkZPeQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal structure of Schistosoma mansoni hypoxanthine-guanine phosphoribosyltransferase isoform 1 (HGPRT1)",
+            "pub_year": "2014",
+            "citation": "Livro de Resumos, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:jL-93Qbq4QoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MS53. P31",
+            "pub_year": "2014",
+            "citation": "Acta Cryst 70, C833, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:Zph67rFs4hoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal structure of Schistosoma mansoni adenylosuccinate lyase in complex with AMP",
+            "pub_year": "2013",
+            "citation": "Livro de Resumos, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:artPoR2Yc-kC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A structural and biophysical comparison between the extra-cellular domains from the mammalian peptide transporters, PepT1 and PepT2.",
+            "pub_year": "2013",
+            "citation": "ACTA CRYSTALLOGRAPHICA A-FOUNDATION AND ADVANCES 69, S38-S38, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:ClCfbGk0d_YC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using In-Fusion\u00ae Technology for High-Throughput Precision Cloning of Constructs Expressing Signaling Pathway Protein Domains",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:Mojj43d5GZwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure and assembly of an outer membrane channel for type IV pili in Neisseria meningitidis",
+            "pub_year": "2012",
+            "citation": "FEBS JOURNAL 279, 453-453, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Research article The structure of a reduced form of OxyR from Neisseria meningitidis",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:wKETBy42zhYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Research article Novel structural features in two ZHX homeodomains derived from a systematic study of single and multiple domains",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:5MTHONV0fEkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MS02 O1",
+            "pub_year": "2007",
+            "citation": "Acta Cryst 63, s12, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:4DMP91E08xMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of the use of high-throughput technologies to the determination of protein structures of bacterial and viral pathogens. Corrigendum",
+            "pub_year": "2006",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 62 (12), 1571-1571, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:olpn-zPbct0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oxford Protein Production Facility The Henry Wellcome Building for Genomic Medicine 2 Division of Structural Biology The Henry Wellcome Building for Genomic Medicine Oxford \u2026",
+            "pub_year": "2006",
+            "citation": "Structure 14, 1617-1622, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:PoWvk5oyLR8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural analysis of the regulatory proteins of pathogenic Neisseria",
+            "pub_year": "2006",
+            "citation": "Abstract Book of the 4th ISGO International Conference on Structural Genomics, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:AXPGKjj_ei8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A distributed web-based system for the management of high-throughput crystallization trials at the Oxford Protein Production Facility",
+            "pub_year": "2006",
+            "citation": "Acta Crystallographica 61, 651-657, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal structure of nitrogen regulatory protein IIA from Neisseria meningitidis",
+            "pub_year": "2005",
+            "citation": "BMC Structural Biology 5, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:z_wVstp3MssC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Walter, TS et al. A procedure for setting up high-throughput nanolitre crystallization experiments. Crystallization workflow for initial screening, automated storage, imaging \u2026",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:jgBuDB5drN8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput crystallisation experiments",
+            "pub_year": "2004",
+            "citation": "Proceedings of 10~(th) International Conference on the Crystallization of \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:4TOpqqG69KYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human phosphodiesterase type IVC, and its production and use",
+            "pub_year": "2001",
+            "citation": "US Patent 6,291,199, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:a0OBvERweLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fc epsilon RI immunoconjugate inhibits IgE-mediated passive cutaneous anaphylaxis (PCA) in the rat",
+            "pub_year": "1999",
+            "citation": "BRITISH JOURNAL OF PHARMACOLOGY 128, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:eq2jaN3J8jMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MOLECULAR AND CELLULAR PHARMACOLOGY-Development of a recombinant cell-based system for the characterisation of phosphodiesterase 4 isoforms and evaluation of inhibitors",
+            "pub_year": "1999",
+            "citation": "Biochemical Pharmacology 57 (12), 1375-1382, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:PR6Y55bgFSsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fc  RI immunoconjugate inhibits IgE-mediated passive cutaneous anaphylaxis (PCA) in the rat",
+            "pub_year": "1999",
+            "citation": "BRITISH JOURNAL OF PHARMACOLOGY 128, 273P-273P, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:9vf0nzSNQJEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generation of a human IgA antibody directed against the tumour antigen TAG 72",
+            "pub_year": "1997",
+            "citation": "Immunology Letters 1 (56), 377, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:tzM49s52ZIMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetically engineered antibodies",
+            "pub_year": "1997",
+            "citation": "Immunochemistry: A Practical Approach 1, 27, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:LjlpjdlvIbIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of a human IgA antibody specific for the tumor antigen TAG-72",
+            "pub_year": "1996",
+            "citation": "IMMUNOLOGY 89, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:Ri6SYOTghG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Humanised antibody molecule specific for human milk fat globule wherein at least one of the cd regions of the variable domain is derived from mouse monoclonal antibody",
+            "pub_year": "1994",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:bKqednn6t2AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DEVELOPMENT OF AN EFFECTIVE ANTI-TUMOUR AGENT FROM THE MONOCLONAL ANTIBODY A33",
+            "pub_year": "1994",
+            "citation": "Journal of Immunotherapy 16 (2), 156, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Humanised antibodies directed against a33 antigen",
+            "pub_year": "1994",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:3htObqc8RwsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ENGINEERING AND EXPRESSION OF A SINGLE-CHAIN ANTIBODY FOR PURIFICATION BY IMMOBILIZED METAL AFFINITY CHROMATOGRAPHY",
+            "pub_year": "1994",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:_Re3VWB3Y0AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of a humanised anti-tumour agent from the monoclonal antibody A5B7 directed against carcinoembrionic antigen",
+            "pub_year": "1993",
+            "citation": "Antib. Immunoconjug. Radiopharm 6, 77-, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:W5xh706n7nkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multivalent antigen-binding proteins",
+            "pub_year": "1991",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:a9-T7VOCCH8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tumour localisation of engineered antibody fragments.",
+            "pub_year": "1991",
+            "citation": "Antib. Immunoconjug. Radiopharm 4, 201-, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:uLbwQdceFCQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A. Millican, SK Rhind, A. Phipps, JC Lloyd, GT Yarranton & MW Bodmer. CELLTECH LTD., 216 Bath Road, Slough, Berkshire, proteins with 4, 4'-dithiodipyridine. Interestingly, this \u2026",
+            "pub_year": "1990",
+            "citation": "Advances in Gene Technology: The Molecular Biology of Immune Diseases and \u2026, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:7H_MAutzIkAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New applications for antibodies",
+            "pub_year": "1990",
+            "citation": "Analytical proceedings 27 (1), 2-15, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:hkOj_22Ku90C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Engineering antibodies for therapy",
+            "pub_year": "1990",
+            "citation": "Analytical proceedings 27 (1), 14-15, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:t6usbXjVLHcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rekombinant antikropp.",
+            "pub_year": "1989",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:F9fV5C73w3QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rekombinant antistof",
+            "pub_year": "1989",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:LhH-TYMQEocC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ca2+-Binding Proteins Located on the Cytoplasmic Face of the Lymphocyte Plasma Membrane",
+            "pub_year": "1985",
+            "citation": "Investigation and Exploitation of Antibody Combining Sites, 255-265, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:dTyEYWd-f8wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INTRACELLULAR MARKERS OF DIFFERENTIATION IN BURKITTS-LYMPHOMA",
+            "pub_year": "1984",
+            "citation": "PROCEEDINGS OF THE AMERICAN ASSOCIATION FOR CANCER RESEARCH 25 (MAR), 1984"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:Y5dfb0dijaUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The synthesis of hydroxyproline-rich glycoproteins in potato tissues",
+            "pub_year": "1981",
+            "citation": "University of Cambridge, 1981"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:ye4kPcJQO24C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Charlie Nichols1, 2, Joseph Ng1, Annika Keshu1, Franca Fraternali1 and Gian F. De Nicola1, 2",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:CB2v5VPnA5kC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Full wwPDB X-ray Structure Validation Report i\u25cb",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:Ak0FvsSvgGUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cryptic SARS-CoV2-spike-with-sugar interactions revealed by \u2018universal\u2019saturation transfer analysis",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:u-coK7KVo8oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Full wwPDB X-ray Structure Validation Report i\u25cb",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:LO7wyVUgiFcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Streamlined implementation of the Glutamine synthetase-based protein expression system.",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:5qfkUJPXOUwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oral Contributions",
+            "citation": "Foundations of Crystallography, 0"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:LI9QrySNdTsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Full wwPDB X-ray Structure Validation Report i",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:ipzZ9siozwsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "of Constructs Expressing Signaling Pathway Protein Domains",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:_Ybze24A_UAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automated Protein Production Technologies",
+            "citation": "eLS, 0"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:UHK10RUVsp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Progress on the SPINE-supported structural-proteomics type analysis of Bacillus anthracis: overall update and recent highlights from work in Oxford",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:dQ2og3OwTAUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplemental Data Glycoprotein Structural Genomics: Solving the Glycosylation Problem",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:SdhP9T11ey4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mammalian expression systems, 129\u2013130",
+            "citation": "Functional and Structural Proteomics of Glycoproteins 11, 181, 0"
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:_kc_bZDykSQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protein Production in Higher Eukaryotic Cells for Structural Biology",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "x3zc5fkAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 0
+    }
+]

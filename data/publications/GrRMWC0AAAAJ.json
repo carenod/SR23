@@ -1,0 +1,614 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Increased gibberellin biosynthesis in transgenic trees promotes growth, biomass production and xylem fiber length",
+            "pub_year": "2000",
+            "citation": "Nature Biotechnology 18 (7), 784-788, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 628,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14113504931555541208",
+        "cites_id": [
+            "14113504931555541208"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The dynamic nature of bud dormancy in trees: environmental control and molecular mechanisms",
+            "pub_year": "2012",
+            "citation": "Plant, Cell & Environment 35 (10), 1707-1728, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 563,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3684072362384465235",
+        "cites_id": [
+            "3684072362384465235"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ectopic expression of oat phytochrome A in hybrid aspen changes critical daylength for growth and prevents cold acclimatization",
+            "pub_year": "1997",
+            "citation": "The Plant Journal 12 (6), 1339-1350, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 342,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6663144038968570558",
+        "cites_id": [
+            "6663144038968570558"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian clock components regulate entry and affect exit of seasonal dormancy as well as winter hardiness in Populus trees",
+            "pub_year": "2010",
+            "citation": "Plant Physiology 153 (4), 1823-1833, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 165,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3416502774464078631",
+        "cites_id": [
+            "3416502774464078631"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The circadian clock. A plant's best friend in a spinning world",
+            "pub_year": "2003",
+            "citation": "Plant Physiology 132 (2), 732-738, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12295248639121965241",
+        "cites_id": [
+            "12295248639121965241"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Response regulator homologues have complementary, light-dependent functions in the Arabidopsis circadian clock",
+            "pub_year": "2003",
+            "citation": "Planta 218, 159-162, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 116,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8539578521696576203",
+        "cites_id": [
+            "8539578521696576203"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Forward genetic analysis of the circadian clock separates the multiple functions of ZEITLUPE",
+            "pub_year": "2006",
+            "citation": "Plant Physiology 140 (3), 933-945, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 115,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14075820453684972526",
+        "cites_id": [
+            "14075820453684972526"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Daylength and spatial expression of a gibberellin 20-oxidase isolated from hybrid aspen (Populus tremula L. \u00d7 P. tremuloides Michx.)",
+            "pub_year": "2002",
+            "citation": "Planta 214, 920-930, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12077171333614184559",
+        "cites_id": [
+            "12077171333614184559"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Full genome re-sequencing reveals a novel circadian clock mutation in Arabidopsis",
+            "pub_year": "2011",
+            "citation": "Genome Biology 12 (3), R28, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3974944979895669580",
+        "cites_id": [
+            "3974944979895669580"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Changes in gene expression in the wood-forming tissue of transgenic hybrid aspen with increased secondary growth",
+            "pub_year": "2003",
+            "citation": "Plant Molecular Biology 52, 893-903, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:qjMakFHDy7sC",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10743047099280692934",
+        "cites_id": [
+            "10743047099280692934"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alteration of PHYA expression change circadian rhythms and timing of bud set in Populus",
+            "pub_year": "2010",
+            "citation": "Plant Molecular Biology 73 (1-2), 143-156, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10530809430397809806",
+        "cites_id": [
+            "10530809430397809806"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GIGANTEA-like genes control seasonal growth cessation in Populus",
+            "pub_year": "2018",
+            "citation": "New Phytologist 218 (4), 1491-1503, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:ojlX30-wUrgC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=217348973872824387",
+        "cites_id": [
+            "217348973872824387"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Changes in diurnal patterns within the Populus transcriptome and metabolome in response to photoperiod variation",
+            "pub_year": "2010",
+            "citation": "Plant, Cell & Environment 33 (8), 1298-1313, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=494898901503196021",
+        "cites_id": [
+            "494898901503196021"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A simple and efficient transient transformation for hybrid aspen (Populus tremula\u00d7 P. tremuloides)",
+            "pub_year": "2012",
+            "citation": "Plant Methods 8 (1), 30, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=536340086792959871",
+        "cites_id": [
+            "536340086792959871"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant cell responses to cold are all about timing",
+            "pub_year": "2011",
+            "citation": "Current Opinion in Plant Biology 14 (6), 731-737, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:WF5omc3nYNoC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11747094756773954442",
+        "cites_id": [
+            "11747094756773954442"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Autumn senescence in aspen is not triggered by day length",
+            "pub_year": "2018",
+            "citation": "Physiologia plantarum 162 (1), 123 -134, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:3MwzVuqRcA0C",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9333849730989724633",
+        "cites_id": [
+            "9333849730989724633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian and Plastid Signaling Pathways Are Integrated to Ensure Correct Expression of the CBF and COR Genes during Photoperiodic Growth",
+            "pub_year": "2016",
+            "citation": "Plant Physiology 171 (2), 1392-1406, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:DquSII9TDu4C",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11644016250122788632",
+        "cites_id": [
+            "11644016250122788632"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transgenic hybrid aspen trees with increased gibberellin (GA) concentrations suggest that GA acts in parallel with FLOWERING LOCUS T 2 to control shoot elongation",
+            "pub_year": "2015",
+            "citation": "New Phytologist 205 (3), 1288-1295, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:AFmTUeZ1pmEC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11882875514130465513",
+        "cites_id": [
+            "11882875514130465513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of phytochrome A and gibberellins in growth under long and short day conditions",
+            "pub_year": "2000",
+            "citation": "Sveriges lantbruksuniv., Acta Universitatis Agriculturae Sueciae. Silvestria \u2026, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9757947651604545242",
+        "cites_id": [
+            "9757947651604545242"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Partners in time: EARLY BIRD associates with ZEITLUPE and regulates the speed of the Arabidopsis clock",
+            "pub_year": "2011",
+            "citation": "Plant Physiology 155 (4), 2108-2122, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12408757021696923504",
+        "cites_id": [
+            "12408757021696923504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian clock components control daily growth activities by modulating cytokinin levels and cell division-associated gene expression in Populus trees",
+            "pub_year": "2018",
+            "citation": "Plant, Cell & Environment 41 (6), 1468 - 1482, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:ShjGdcaqzI0C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13815295681725874527",
+        "cites_id": [
+            "13815295681725874527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Growing in time: Exploring the molecular mechanisms of tree growth",
+            "pub_year": "2020",
+            "citation": "Tree Physiology, https://doi.org/10.1093/treephys/tpaa065, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:1EqfMoDn7-AC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8877149854751805352",
+        "cites_id": [
+            "8877149854751805352"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role of the Circadian Clock in Cold Acclimation and Winter Dormancy in Perennial Plants",
+            "pub_year": "2015",
+            "citation": "Advances in Plant Dormancy Ed. James V. Anderson, 51-74, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:CMvovTBb2okC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3128239707553001625",
+        "cites_id": [
+            "3128239707553001625"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ZEITLUPE promotes ABA-induced stomatal closure in Arabidopsis and Populus",
+            "pub_year": "2022",
+            "citation": "Frontiers in Plant Science 13 (doi: 10.3389/fpls.2022.829121), 829121, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:NtGNdKbuCngC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11572370066060515167",
+        "cites_id": [
+            "11572370066060515167"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transgenic trees exhibiting increased growth, biomass production and xylem fibre length, and methods for their production",
+            "pub_year": "2010",
+            "citation": "US Patent 7,807,878, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:0EnyYjriUFMC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1256021613688784066",
+        "cites_id": [
+            "1256021613688784066"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Low levels of phytochrome A expression alters circadian rhythm and change levels of FLOWERING LOCUS T leading to early bud set in hybrid aspen",
+            "pub_year": "2007",
+            "citation": "Comparative Biochemistry and Physiology, Part A 4 (146), S231, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:ufrVoPGSRksC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13040421661817505976",
+        "cites_id": [
+            "13040421661817505976"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transgenic trees exhibiting increased growth, biomass production and xylem fibre length, and methods for their production",
+            "pub_year": "2006",
+            "citation": "US Patent 7,141,422, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1714764774366566559",
+        "cites_id": [
+            "1714764774366566559"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Current status of the multinational Arabidopsis community",
+            "pub_year": "2020",
+            "citation": "Plant direct 4 (7), e00248, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:8RAEygVn5_EC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14584730872618608372",
+        "cites_id": [
+            "14584730872618608372"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome overexpression and cold hardiness in transgenic Populus",
+            "pub_year": "1997",
+            "citation": "Plant Cold Hardiness: Molecular Biology, Biochemistry, and Physiology, 245-255, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:M3ejUd6NZC8C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18007683562456295507",
+        "cites_id": [
+            "18007683562456295507"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring Seasonal Bud Set, Bud Burst, and Cold Hardiness in Populus",
+            "pub_year": "2014",
+            "citation": "Plant Circadian Networks: Methods and Protocols, 313-324, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:DQNrXyjhriIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14979584997589035207",
+        "cites_id": [
+            "14979584997589035207"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant Circadian Rhythms -based in part on the version published 2007",
+            "pub_year": "2016",
+            "citation": "eLS, 1-10, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:c1AJUTjuCtUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1771746650853685641",
+        "cites_id": [
+            "1771746650853685641"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The perennial clock is an essential timer for seasonal growth events and cold hardiness",
+            "pub_year": "2014",
+            "citation": "Plant Circadian Networks, 227-242, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:EBV337fEn3EC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10803772994855827595",
+        "cites_id": [
+            "10803772994855827595"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant Circadian Rhythms",
+            "pub_year": "2007",
+            "citation": "eLS, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:8k81kl-MbHgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1771746650853685641",
+        "cites_id": [
+            "1771746650853685641"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PcGCE is a potent elicitor of defense responses in aspen",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.09. 23.460629, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:gmHTDCtJMcoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plants with improved growth",
+            "pub_year": "2018",
+            "citation": "WO Patent App. WO2018080389A1, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:eFf2swCANGcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plants having improved growth properties",
+            "pub_year": "2015",
+            "citation": "US Patent App. 14/382,937, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:Nufq_to8ts0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transgenic plants having altered lignin density",
+            "pub_year": "2014",
+            "citation": "WO Patent App. WO2014087159A1, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:sJK75vZXtG0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comparison of tobacco and poplar diurnal gene expression with the model plant Arabidopsis thaliana",
+            "pub_year": "2009",
+            "citation": "Comparative Biochemistry and Physiology, Part A 2 (153), S199, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transgenic plants with reduced expression of endogenous phytochrome a, exhibiting improved rooting, and methods for their production",
+            "pub_year": "2002",
+            "citation": "WO Patent App. WO2002034034A1, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:a2necdfpwlEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolation of a cDNA encoding a phytochrome A (Accession No. AJ00138) from Populus tremula x tremuloides. The Electronic Plant Gene Register PGR97-186",
+            "pub_year": "1997",
+            "citation": "Plant Physiology 115, 1731, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "GrRMWC0AAAAJ:zzCxg_vo7cAC",
+        "num_citations": 0
+    }
+]

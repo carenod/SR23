@@ -1,0 +1,4750 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bioconductor: open software development for computational biology and bioinformatics",
+            "pub_year": "2004",
+            "citation": "Genome biology 5 (10), 1-16, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 13646,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11210161729572299828,13145668316581343489,11712287002908514953",
+        "cites_id": [
+            "11210161729572299828",
+            "13145668316581343489",
+            "11712287002908514953"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploration, normalization, and summaries of high density oligonucleotide array probe level data",
+            "pub_year": "2003",
+            "citation": "Biostatistics 4 (2), 249-264, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 12163,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9621984605976884670,15657012412389017629",
+        "cites_id": [
+            "9621984605976884670",
+            "15657012412389017629"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comparison of normalization methods for high density oligonucleotide array data based on variance and bias",
+            "pub_year": "2003",
+            "citation": "Bioinformatics 19 (2), 185-193, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 9732,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=574339648835136746,11608275238738913541",
+        "cites_id": [
+            "574339648835136746",
+            "11608275238738913541"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Salmon provides fast and bias-aware quantification of transcript expression",
+            "pub_year": "2017",
+            "citation": "Nature methods 14 (4), 417-419, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:1Ye0OR6EYb4C",
+        "num_citations": 6840,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11462947284863466602,10989412973965006546,12401610169821030782",
+        "cites_id": [
+            "11462947284863466602",
+            "10989412973965006546",
+            "12401610169821030782"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Summaries of Affymetrix GeneChip probe level data",
+            "pub_year": "2003",
+            "citation": "Nucleic acids research 31 (4), e15-e15, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 5868,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16531956855865185249",
+        "cites_id": [
+            "16531956855865185249"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "affy\u2014analysis of Affymetrix GeneChip data at the probe level",
+            "pub_year": "2004",
+            "citation": "Bioinformatics 20 (3), 307-315, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:qjMakFHDy7sC",
+        "num_citations": 5444,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=531140116369902817,4336973428804621727,16488867009420788097,14949956409788842855,12047365957274052525",
+        "cites_id": [
+            "531140116369902817",
+            "4336973428804621727",
+            "16488867009420788097",
+            "14949956409788842855",
+            "12047365957274052525"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bioinformatics and computational biology solutions using R and Bioconductor",
+            "pub_year": "2005",
+            "citation": "Springer Verlag, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:kzcrU_BdoSEC",
+        "num_citations": 3572,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10731930553252514310",
+        "cites_id": [
+            "10731930553252514310"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minfi: a flexible and comprehensive Bioconductor package for the analysis of Infinium DNA methylation microarrays",
+            "pub_year": "2014",
+            "citation": "Bioinformatics 30 (10), 1363-1369, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:DUooU5lO8OsC",
+        "num_citations": 3201,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3909772322659552625",
+        "cites_id": [
+            "3909772322659552625"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Orchestrating high-throughput genomic analysis with Bioconductor",
+            "pub_year": "2015",
+            "citation": "Nature methods 12 (2), 115-121, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:tH6gc1N1XXoC",
+        "num_citations": 3159,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7547128946277895368",
+        "cites_id": [
+            "7547128946277895368"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic memory in induced pluripotent stem cells",
+            "pub_year": "2010",
+            "citation": "Nature 467 (7313), 285-290, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 2510,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10742139707315980029",
+        "cites_id": [
+            "10742139707315980029"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The human colon cancer methylome shows similar hypo-and hypermethylation at conserved tissue-specific CpG island shores",
+            "pub_year": "2009",
+            "citation": "Nature genetics 41 (2), 178-186, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 2430,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=886864497451776535,16231964441041711802",
+        "cites_id": [
+            "886864497451776535",
+            "16231964441041711802"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A model-based background adjustment for oligonucleotide expression arrays",
+            "pub_year": "2004",
+            "citation": "Journal of the American statistical Association 99 (468), 909-917, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 2127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16677227538408256107,556086198666505116,13494403253761563360,6329058877352275182,10889880157358712473",
+        "cites_id": [
+            "16677227538408256107",
+            "556086198666505116",
+            "13494403253761563360",
+            "6329058877352275182",
+            "10889880157358712473"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tackling the widespread and critical impact of batch effects in high-throughput data",
+            "pub_year": "2010",
+            "citation": "Nature Reviews Genetics 11 (10), 733-739, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 1962,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16403016020126782741",
+        "cites_id": [
+            "16403016020126782741"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MAGeCK enables robust identification of essential genes from genome-scale CRISPR/Cas9 knockout screens",
+            "pub_year": "2014",
+            "citation": "Genome biology 15 (12), 1-12, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Aul-kAQHnToC",
+        "num_citations": 1568,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12847871731360987219",
+        "cites_id": [
+            "12847871731360987219"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A framework for oligonucleotide microarray preprocessing",
+            "pub_year": "2010",
+            "citation": "Bioinformatics 26 (19), 2363-2367, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:UxriW0iASnsC",
+        "num_citations": 1420,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9755898274702328046",
+        "cites_id": [
+            "9755898274702328046"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential methylation of tissue-and cancer-specific CpG island shores distinguishes human induced pluripotent stem cells, embryonic stem cells and fibroblasts",
+            "pub_year": "2009",
+            "citation": "Nature genetics 41 (12), 1350-1353, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:ufrVoPGSRksC",
+        "num_citations": 1351,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2428596582713312859",
+        "cites_id": [
+            "2428596582713312859"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Increased methylation variation in epigenetic domains across cancer types",
+            "pub_year": "2011",
+            "citation": "Nature genetics 43 (8), 768-775, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:pyW8ca7W8N0C",
+        "num_citations": 1151,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4307366893860139621",
+        "cites_id": [
+            "4307366893860139621"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiple-laboratory comparison of microarray platforms",
+            "pub_year": "2005",
+            "citation": "Nature methods 2 (5), 345-350, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 1039,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5047888691932013301",
+        "cites_id": [
+            "5047888691932013301"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Accounting for cellular heterogeneity is critical in epigenome-wide association studies",
+            "pub_year": "2014",
+            "citation": "Genome biology 15 (2), 1-9, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:2VqYfGB8ITEC",
+        "num_citations": 969,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6466764235938413223",
+        "cites_id": [
+            "6466764235938413223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The MicroArray Quality Control (MAQC)-II study of common practices for the development and validation of microarray-based predictive models",
+            "pub_year": "2010",
+            "citation": "Nature biotechnology 28 (8), 827-838, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:8dzOF9BpDQoC",
+        "num_citations": 812,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7850845076328600179,18322096274607764639",
+        "cites_id": [
+            "7850845076328600179",
+            "18322096274607764639"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intra-individual change over time in DNA methylation with familial clustering",
+            "pub_year": "2008",
+            "citation": "Jama 299 (24), 2877-2883, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 791,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11246362453706334045,14829984937815972361",
+        "cites_id": [
+            "11246362453706334045",
+            "14829984937815972361"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses",
+            "pub_year": "2017",
+            "citation": "Nature communications 8 (1), 1784, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:HhcuHIWmDEUC",
+        "num_citations": 782,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15433535447618702792,16170055561851175888",
+        "cites_id": [
+            "15433535447618702792",
+            "16170055561851175888"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comprehensive methylome map of lineage commitment from haematopoietic progenitors",
+            "pub_year": "2010",
+            "citation": "Nature 467 (7313), 338-342, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 709,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17502262114744162994",
+        "cites_id": [
+            "17502262114744162994"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BSmooth: from whole genome bisulfite sequencing reads to differentially methylated regions",
+            "pub_year": "2012",
+            "citation": "Genome biology 13, 1-10, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:vbGhcppDl1QC",
+        "num_citations": 705,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5203745467303131389",
+        "cites_id": [
+            "5203745467303131389"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mortality in puerto rico after hurricane maria",
+            "pub_year": "2018",
+            "citation": "New England journal of medicine 379 (2), 162-170, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:QUX0mv85b1cC",
+        "num_citations": 680,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5138630210328019569,18310390762731881828",
+        "cites_id": [
+            "5138630210328019569",
+            "18310390762731881828"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bump hunting to identify differentially methylated regions in epigenetic epidemiology studies",
+            "pub_year": "2012",
+            "citation": "International journal of epidemiology 41 (1), 200-209, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:2KloaMYe4IUC",
+        "num_citations": 655,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13917393765835926103",
+        "cites_id": [
+            "13917393765835926103"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large histone H3 lysine 9 dimethylated chromatin blocks distinguish differentiated from embryonic stem cells",
+            "pub_year": "2009",
+            "citation": "Nature genetics 41 (2), 246-250, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:5nxA0vEk-isC",
+        "num_citations": 654,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1508643799921974940",
+        "cites_id": [
+            "1508643799921974940"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Removing technical variability in RNA-seq data using conditional quantile normalization",
+            "pub_year": "2012",
+            "citation": "Biostatistics 13 (2), 204-216, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:b0M2c_1WBrUC",
+        "num_citations": 642,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17480487172182153443",
+        "cites_id": [
+            "17480487172182153443"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Frozen robust multiarray analysis (fRMA)",
+            "pub_year": "2010",
+            "citation": "Biostatistics 11 (2), 242-253, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 641,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=681318693242048704",
+        "cites_id": [
+            "681318693242048704"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the utility of pooling biological samples in microarray experiments",
+            "pub_year": "2005",
+            "citation": "Proceedings of the National Academy of Sciences 102 (12), 4252-4257, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 572,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14474103582529695155,11907025490856173524",
+        "cites_id": [
+            "14474103582529695155",
+            "11907025490856173524"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution in health and medicine Sackler colloquium: Stochastic epigenetic variation as a driving force of development, evolutionary adaptation, and disease.",
+            "pub_year": "2009",
+            "citation": "Proceedings of the National Academy of Sciences of the United States of \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:M3ejUd6NZC8C",
+        "num_citations": 570,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7981270879019962595,9800909206810788237",
+        "cites_id": [
+            "7981270879019962595",
+            "9800909206810788237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Travelling waves in the occurrence of dengue haemorrhagic fever in Thailand",
+            "pub_year": "2004",
+            "citation": "Nature 427 (6972), 344-347, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:WF5omc3nYNoC",
+        "num_citations": 565,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9430096541858925246",
+        "cites_id": [
+            "9430096541858925246"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Missing data and technical variability in single-cell RNA-sequencing experiments",
+            "pub_year": "2017",
+            "citation": "Biostatistics, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:jL-93Qbq4QoC",
+        "num_citations": 514,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11332841263138483558,13250347930614983477",
+        "cites_id": [
+            "11332841263138483558",
+            "13250347930614983477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comprehensive high-throughput arrays for relative methylation (CHARM)",
+            "pub_year": "2008",
+            "citation": "Genome research 18 (5), 780-790, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 482,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4503001632413580687",
+        "cites_id": [
+            "4503001632413580687"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Preprocessing of oligonucleotide array data",
+            "pub_year": "2004",
+            "citation": "Nature biotechnology 22 (6), 656-658, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 477,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16645324414887000186",
+        "cites_id": [
+            "16645324414887000186"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nucleocytosolic acetyl-coenzyme a synthetase is required for histone acetylation and global transcription",
+            "pub_year": "2006",
+            "citation": "Molecular cell 23 (2), 207-217, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 473,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7845205061358682401",
+        "cites_id": [
+            "7845205061358682401"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A benchmark for Affymetrix GeneChip expression measures",
+            "pub_year": "2004",
+            "citation": "Bioinformatics 20 (3), 323-331, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 423,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6761258137471172886",
+        "cites_id": [
+            "6761258137471172886"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of Affymetrix GeneChip expression measures",
+            "pub_year": "2006",
+            "citation": "Bioinformatics 22 (7), 789-794, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 405,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13541328722125527143",
+        "cites_id": [
+            "13541328722125527143"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recommendations for the design and analysis of epigenome-wide association studies",
+            "pub_year": "2013",
+            "citation": "Nature methods 10 (10), 949-955, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:9pM33mqn1YgC",
+        "num_citations": 391,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1182994082712677147",
+        "cites_id": [
+            "1182994082712677147"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stochastic models inspired by hybridization theory for short oligonucleotide arrays",
+            "pub_year": "2004",
+            "citation": "Proceedings of the eighth annual international conference on Research in \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 385,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=883027365871971024,6277093817815398948,14323197568178803107,2793151149693470013",
+        "cites_id": [
+            "883027365871971024",
+            "6277093817815398948",
+            "14323197568178803107",
+            "2793151149693470013"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Personalized epigenomic signatures that are stable over time and covary with body mass index",
+            "pub_year": "2010",
+            "citation": "Science translational medicine 2 (49), 49ra67-49ra67, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:TFP_iSt0sucC",
+        "num_citations": 379,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8951172588688961603",
+        "cites_id": [
+            "8951172588688961603"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The external RNA controls consortium: a progress report",
+            "pub_year": "2005",
+            "citation": "Nature methods 2 (10), 731-734, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:8k81kl-MbHgC",
+        "num_citations": 377,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11951416672871734622",
+        "cites_id": [
+            "11951416672871734622"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The analysis of gene expression data: an overview of methods and software",
+            "pub_year": "2003",
+            "citation": "The analysis of gene expression data: methods and software, 1-45, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:ML0RJ9NH7IQC",
+        "num_citations": 374,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7471664354546902296",
+        "cites_id": [
+            "7471664354546902296"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Feature selection and dimension reduction for single-cell RNA-Seq based on a multinomial model",
+            "pub_year": "2019",
+            "citation": "Genome biology 20, 1-16, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:DyXnQzXoVgIC",
+        "num_citations": 354,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17510139287573669537,11960498971101722744",
+        "cites_id": [
+            "17510139287573669537",
+            "11960498971101722744"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quality assessment of Affymetrix GeneChip data",
+            "pub_year": "2006",
+            "citation": "Omics: a journal of integrative biology 10 (3), 358-368, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 352,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6115191127003630809",
+        "cites_id": [
+            "6115191127003630809"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Electrocorticographic gamma activity during word production in spoken and sign language",
+            "pub_year": "2001",
+            "citation": "Neurology 57 (11), 2045-2053, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:tzM49s52ZIMC",
+        "num_citations": 349,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12683327335434529966",
+        "cites_id": [
+            "12683327335434529966"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploration, normalization, and genotype calls of high-density oligonucleotide SNP array data",
+            "pub_year": "2007",
+            "citation": "Biostatistics 8 (2), 485-499, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:UebtZRa9Y70C",
+        "num_citations": 348,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10879680225720816183",
+        "cites_id": [
+            "10879680225720816183"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Excess deaths associated with covid-19 pandemic in 2020: age and sex disaggregated time series analysis in 29 high income countries",
+            "pub_year": "2021",
+            "citation": "bmj 373, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:4aZ_i-5WJEQC",
+        "num_citations": 346,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16264403477314386348",
+        "cites_id": [
+            "16264403477314386348"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reversible switching between epigenetic states in honeybee behavioral subcastes",
+            "pub_year": "2012",
+            "citation": "Nature neuroscience 15 (10), 1371-1373, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:4MWp96NkSFoC",
+        "num_citations": 346,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7782952564272265209",
+        "cites_id": [
+            "7782952564272265209"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA hypomethylation arises later in prostate cancer progression than CpG island hypermethylation and contributes to metastatic tumor heterogeneity",
+            "pub_year": "2008",
+            "citation": "Cancer research 68 (21), 8954-8967, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:4TOpqqG69KYC",
+        "num_citations": 316,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=894028108082865125",
+        "cites_id": [
+            "894028108082865125"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust decomposition of cell type mixtures in spatial transcriptomics",
+            "pub_year": "2022",
+            "citation": "Nature biotechnology 40 (4), 517-526, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Wq2b2clWBLsC",
+        "num_citations": 302,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15370011111910746381",
+        "cites_id": [
+            "15370011111910746381"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Challenges and emerging directions in single-cell analysis",
+            "pub_year": "2017",
+            "citation": "Genome biology 18, 1-8, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:-jrNzM816MMC",
+        "num_citations": 288,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17822823536280563140",
+        "cites_id": [
+            "17822823536280563140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation alterations exhibit intraindividual stability and interindividual heterogeneity in prostate cancer metastases",
+            "pub_year": "2013",
+            "citation": "Science translational medicine 5 (169), 169ra10-169ra10, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:tuHXwOkdijsC",
+        "num_citations": 258,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13273515875051962675",
+        "cites_id": [
+            "13273515875051962675"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A simple spreadsheet-based, MIAME-supportive format for microarray data: MAGE-TAB",
+            "pub_year": "2006",
+            "citation": "BMC bioinformatics 7, 1-18, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 256,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5258914992093689335",
+        "cites_id": [
+            "5258914992093689335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On time series analysis of public health and biomedical data",
+            "pub_year": "2006",
+            "citation": "Annu. Rev. Public Health 27, 57-79, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 242,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17537093644207304981,11345303991104078844",
+        "cites_id": [
+            "17537093644207304981",
+            "11345303991104078844"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene set enrichment analysis made simple (Statistical Methods in Medical Research (2009) 18: 6 (565-575))",
+            "pub_year": "2011",
+            "citation": "Statistical Methods in Medical Research 20 (5), 571, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:i2xiXl-TujoC",
+        "num_citations": 230,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6301201559033666687,12008770350983435866",
+        "cites_id": [
+            "6301201559033666687",
+            "12008770350983435866"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequencing technology does not eliminate biological variability",
+            "pub_year": "2011",
+            "citation": "Nature biotechnology 29 (7), 572-573, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:LjlpjdlvIbIC",
+        "num_citations": 229,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13984583295080419572",
+        "cites_id": [
+            "13984583295080419572"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SMARCB1 is required for widespread BAF complex\u2013mediated activation of enhancers and bivalent promoters",
+            "pub_year": "2017",
+            "citation": "Nature genetics 49 (11), 1613-1623, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:uVUOdF_882EC",
+        "num_citations": 225,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15401934609972690374",
+        "cites_id": [
+            "15401934609972690374"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Gene Expression Barcode: leveraging public data repositories to begin cataloging the human and murine transcriptomes",
+            "pub_year": "2011",
+            "citation": "Nucleic acids research 39 (suppl_1), D1011-D1015, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:bFI3QPDXJZMC",
+        "num_citations": 213,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10355388928662375931,15576429187499454687",
+        "cites_id": [
+            "10355388928662375931",
+            "15576429187499454687"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global synthetic-lethality analysis and yeast functional profiling",
+            "pub_year": "2006",
+            "citation": "TRENDS in Genetics 22 (1), 56-63, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Se3iqnhoufwC",
+        "num_citations": 212,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4761534121058440196",
+        "cites_id": [
+            "4761534121058440196"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression analysis of ischemic and nonischemic cardiomyopathy: shared and distinct genes in the development of heart failure",
+            "pub_year": "2005",
+            "citation": "Physiological genomics 21 (3), 299-307, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 211,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16670329542356969665",
+        "cites_id": [
+            "16670329542356969665"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Redefining CpG islands using hidden Markov models",
+            "pub_year": "2010",
+            "citation": "Biostatistics 11 (3), 499-514, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:pqnbT2bcN3wC",
+        "num_citations": 203,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6147612057152804316",
+        "cites_id": [
+            "6147612057152804316"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A benchmark for RNA-seq quantification pipelines",
+            "pub_year": "2016",
+            "citation": "Genome biology 17 (1), 1-12, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:BzfGm06jWhQC",
+        "num_citations": 202,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6471511744848032164",
+        "cites_id": [
+            "6471511744848032164"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Progressive immune dysfunction with advancing disease stage in renal cell carcinoma",
+            "pub_year": "2021",
+            "citation": "Cancer Cell 39 (5), 632-648. e8, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:KWzIFqRkAKkC",
+        "num_citations": 193,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16674481757872792788",
+        "cites_id": [
+            "16674481757872792788"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large hypomethylated blocks as a universal defining epigenetic alteration in human solid tumors",
+            "pub_year": "2014",
+            "citation": "Genome medicine 6, 1-11, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:GFxP56DSvIMC",
+        "num_citations": 190,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8591208895604718965",
+        "cites_id": [
+            "8591208895604718965"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation and assessment of raw copy numbers at the single locus level",
+            "pub_year": "2008",
+            "citation": "Bioinformatics 24 (6), 759-767, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 190,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7936322583246729902",
+        "cites_id": [
+            "7936322583246729902"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "IVT-seq reveals extreme bias in RNA sequencing",
+            "pub_year": "2014",
+            "citation": "Genome biology 15 (6), 1-15, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:OcBU2YAGkTUC",
+        "num_citations": 177,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=39296691795140721",
+        "cites_id": [
+            "39296691795140721"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The analysis of gene expression data: methods and software",
+            "pub_year": "2003",
+            "citation": "DNA-chip analyzer (dChip), 12, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:UmS_249rOGwC",
+        "num_citations": 177,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11437620220913586430,18241473896801348690",
+        "cites_id": [
+            "11437620220913586430",
+            "18241473896801348690"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detection of renal cell carcinoma using plasma and urine cell-free DNA methylomes",
+            "pub_year": "2020",
+            "citation": "Nature medicine 26 (7), 1041-1043, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:D_tqNUsBuKoC",
+        "num_citations": 175,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4290307092899016825,4105265541790045070",
+        "cites_id": [
+            "4290307092899016825",
+            "4105265541790045070"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A gene expression bar code for microarray data",
+            "pub_year": "2007",
+            "citation": "Nature methods 4 (11), 911-913, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:4DMP91E08xMC",
+        "num_citations": 165,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9639312627255737485",
+        "cites_id": [
+            "9639312627255737485"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimental design and low-level analysis of microarray data",
+            "pub_year": "2004",
+            "citation": "International review of neurobiology 60, 25-58, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:_kc_bZDykSQC",
+        "num_citations": 153,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5990046645309917836",
+        "cites_id": [
+            "5990046645309917836"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide DNA methylation scan in major depressive disorder",
+            "pub_year": "2012",
+            "citation": "PloS one 7 (4), e34451, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:-_dYPAW6P2MC",
+        "num_citations": 151,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15178023778863512118",
+        "cites_id": [
+            "15178023778863512118"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling of RNA-seq fragment sequence bias reduces systematic errors in transcript abundance estimation",
+            "pub_year": "2016",
+            "citation": "Nature biotechnology 34 (12), 1287-1291, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:wMgC3FpKEyYC",
+        "num_citations": 150,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12574963972087120267",
+        "cites_id": [
+            "12574963972087120267"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "S-phase checkpoint genes safeguard high-fidelity sister chromatid cohesion",
+            "pub_year": "2004",
+            "citation": "Molecular biology of the cell 15 (4), 1724-1735, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:0EnyYjriUFMC",
+        "num_citations": 150,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12277593176657735704",
+        "cites_id": [
+            "12277593176657735704"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of a gene expression profile that differentiates between ischemic and nonischemic cardiomyopathy",
+            "pub_year": "2004",
+            "citation": "Circulation 110 (22), 3444-3451, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18397732165288937836",
+        "cites_id": [
+            "18397732165288937836"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Orthologous gene-expression profiling in multi-species models: search for candidate genes",
+            "pub_year": "2004",
+            "citation": "Genome biology 5, 1-13, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 147,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11838035311853112543",
+        "cites_id": [
+            "11838035311853112543"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Influence of host gene transcription level and orientation on HIV-1 latency in a primary-cell model",
+            "pub_year": "2011",
+            "citation": "Journal of virology 85 (11), 5384-5393, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:u9iWguZQMMsC",
+        "num_citations": 143,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2826414518808598846",
+        "cites_id": [
+            "2826414518808598846"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Outcomes of Adults with Cystic Fibrosis Infected with Antibiotic-Resistant< i> Pseudomonas aeruginosa</i>",
+            "pub_year": "2006",
+            "citation": "Respiration 73 (1), 27-33, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:fEOibwPWpKIC",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17544541611895154926",
+        "cites_id": [
+            "17544541611895154926"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An R package for analyses of Affymetrix oligonucleotide arrays",
+            "pub_year": "2003",
+            "citation": "The analysis of gene expression data: methods and software, 102-119, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:roLk4NBRz8UC",
+        "num_citations": 141,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3590574571337403713,4825198106829022973",
+        "cites_id": [
+            "3590574571337403713",
+            "4825198106829022973"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NID2 and HOXA9 promoter hypermethylation as biomarkers for prevention and early detection in oral cavity squamous cell carcinoma tissues and saliva",
+            "pub_year": "2011",
+            "citation": "Cancer prevention research 4 (7), 1061-1072, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:kRWSkSYxWN8C",
+        "num_citations": 140,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3599067692924651701",
+        "cites_id": [
+            "3599067692924651701"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Age and sun exposure-related widespread genomic blocks of hypomethylation in nonmalignant skin",
+            "pub_year": "2015",
+            "citation": "Genome biology 16 (1), 1-15, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:BJbdYPG6LGMC",
+        "num_citations": 129,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10278436794493886383",
+        "cites_id": [
+            "10278436794493886383"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Overcoming bias and systematic errors in next generation sequencing data",
+            "pub_year": "2010",
+            "citation": "Genome medicine 2, 1-5, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:yD5IFk8b50cC",
+        "num_citations": 129,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15133657593775155415",
+        "cites_id": [
+            "15133657593775155415"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoter hypermethylation in MLL-r infant acute lymphoblastic leukemia: biology and therapeutic targeting",
+            "pub_year": "2010",
+            "citation": "Blood, The Journal of the American Society of Hematology 115 (23), 4798-4809, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:hMod-77fHWUC",
+        "num_citations": 126,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12592339251847922747",
+        "cites_id": [
+            "12592339251847922747"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detection and accurate false discovery rate control of differentially methylated regions from whole genome bisulfite sequencing",
+            "pub_year": "2019",
+            "citation": "Biostatistics 20 (3), 367-383, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:-95Q15plzcUC",
+        "num_citations": 116,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8567538671199423903",
+        "cites_id": [
+            "8567538671199423903"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional dissection of lysine deacetylases reveals that HDAC1 and p300 regulate AMPK",
+            "pub_year": "2012",
+            "citation": "Nature 482 (7384), 251-255, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:qe6vwMD2xtsC",
+        "num_citations": 116,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13964635409935085195,1441278418560477390",
+        "cites_id": [
+            "13964635409935085195",
+            "1441278418560477390"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A guide to teaching data science",
+            "pub_year": "2018",
+            "citation": "The American Statistician 72 (4), 382-391, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Ade32sEp0pkC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15461400876487227824",
+        "cites_id": [
+            "15461400876487227824"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measuring cell-type specific differential methylation in human brain tissue",
+            "pub_year": "2013",
+            "citation": "Genome biology 14 (8), 1-9, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:rmuvC79q63oC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2723047583165907838",
+        "cites_id": [
+            "2723047583165907838"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large-scale topological changes restrain malignant progression in colorectal cancer",
+            "pub_year": "2020",
+            "citation": "Cell 182 (6), 1474-1489. e23, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:z6xuaG2dYH0C",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12336143229454574247",
+        "cites_id": [
+            "12336143229454574247"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Processing of Agilent microRNA array data",
+            "pub_year": "2010",
+            "citation": "BMC Research notes 3, 1-6, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:k_IJM867U9cC",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4842097977391833990",
+        "cites_id": [
+            "4842097977391833990"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High\u2010throughput identification of RNA nuclear enrichment sequences",
+            "pub_year": "2018",
+            "citation": "The EMBO journal 37 (6), e98452, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:O0nohqN1r9EC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7832032373487491997",
+        "cites_id": [
+            "7832032373487491997"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "quantro: a data-driven approach to guide the choice of an appropriate normalization method",
+            "pub_year": "2015",
+            "citation": "Genome biology 16, 1-8, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:PVgj2kMGcgYC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13973105473184459597,8152861871936794617",
+        "cites_id": [
+            "13973105473184459597",
+            "8152861871936794617"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Significance analysis and statistical dissection of variably methylated regions",
+            "pub_year": "2012",
+            "citation": "Biostatistics 13 (1), 166-178, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:dQ2og3OwTAUC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8713725236803269731",
+        "cites_id": [
+            "8713725236803269731"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using the R package crlmm for genotyping and copy number estimation",
+            "pub_year": "2011",
+            "citation": "Journal of statistical software 40 (12), 1, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:8AbLer7MMksC",
+        "num_citations": 102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1444727097749527971",
+        "cites_id": [
+            "1444727097749527971"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bioconductor: open software development for computational biology and bioinformatics",
+            "pub_year": "2004",
+            "citation": "Genome Biol 5 (10), R80, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:WWeOtg8bX_EC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4451345180317552835",
+        "cites_id": [
+            "4451345180317552835"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "gcrma: Background Adjustment Using Sequence Information",
+            "pub_year": "2005",
+            "citation": "R package version 2100, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:j8SEvjWlNXcC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16122944898573321178,16278926144930294989",
+        "cites_id": [
+            "16122944898573321178",
+            "16278926144930294989"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The psychophysiology of the maternal\u2013fetal relationship",
+            "pub_year": "2004",
+            "citation": "Psychophysiology 41 (4), 510-520, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9391712521958688464",
+        "cites_id": [
+            "9391712521958688464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of mixture models in a microarray-based screening procedure for detecting differentially represented yeast mutants",
+            "pub_year": "2003",
+            "citation": "Statistical applications in genetics and molecular biology 2 (1), 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3412939924711367841",
+        "cites_id": [
+            "3412939924711367841"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A summarization approach for Affymetrix GeneChip data using a reference training set from a large, biologically diverse database",
+            "pub_year": "2006",
+            "citation": "BMC bioinformatics 7 (1), 1-11, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:aqlVkmm33-oC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15339179148465651615",
+        "cites_id": [
+            "15339179148465651615"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing affymetrix GeneChip microarray quality",
+            "pub_year": "2011",
+            "citation": "BMC bioinformatics 12 (1), 1-10, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:f2IySw72cVMC",
+        "num_citations": 91,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10889259730141869807",
+        "cites_id": [
+            "10889259730141869807"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Gene Expression Barcode 3.0: improved data processing and mining tools",
+            "pub_year": "2014",
+            "citation": "Nucleic acids research 42 (D1), D938-D943, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:HtEfBTGE9r8C",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8867923793436371479",
+        "cites_id": [
+            "8867923793436371479"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SNP-specific array-based allele-specific expression analysis",
+            "pub_year": "2008",
+            "citation": "Genome research 18 (5), 771-779, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1653648505213702665",
+        "cites_id": [
+            "1653648505213702665"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Every body counts: measuring mortality from the COVID-19 pandemic",
+            "pub_year": "2020",
+            "citation": "Annals of internal medicine 173 (12), 1004-1007, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:A8cqit5AE6sC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9492438485477167114",
+        "cites_id": [
+            "9492438485477167114"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Model\u2010based quality assessment and base\u2010calling for second\u2010generation sequencing data",
+            "pub_year": "2010",
+            "citation": "Biometrics 66 (3), 665-674, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:isC4tDSrTZIC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=319161585636882908",
+        "cites_id": [
+            "319161585636882908"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Smooth quantile normalization",
+            "pub_year": "2018",
+            "citation": "Biostatistics 19 (2), 185-198, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:owLR8QvbtFgC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16027860912248727358",
+        "cites_id": [
+            "16027860912248727358"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Accurate genome-scale percentage DNA methylation estimates from microarray data",
+            "pub_year": "2011",
+            "citation": "Biostatistics 12 (2), 197-210, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Tiz5es2fbqcC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8450596352999360753",
+        "cites_id": [
+            "8450596352999360753"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromosome-wide mapping of DNA methylation patterns in normal and malignant prostate cells reveals pervasive methylation of gene-associated and conserved intergenic sequences",
+            "pub_year": "2011",
+            "citation": "BMC genomics 12 (1), 1-19, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:tS2w5q8j5-wC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18394893153596661075",
+        "cites_id": [
+            "18394893153596661075"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A species-generalized probabilistic model-based definition of CpG islands",
+            "pub_year": "2009",
+            "citation": "Mammalian Genome 20, 674-680, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:ns9cj8rnVeAC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12199934620912096180",
+        "cites_id": [
+            "12199934620912096180"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stem-like intestinal Th17 cells give rise to pathogenic effector T cells during autoimmunity",
+            "pub_year": "2021",
+            "citation": "Cell 184 (26), 6281-6298. e23, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:s85pQhAUCrAC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10067358902101138604",
+        "cites_id": [
+            "10067358902101138604"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Serum protein MALDI profiling to distinguish upper aerodigestive tract cancer patients from control subjects",
+            "pub_year": "2003",
+            "citation": "Journal of the National Cancer Institute 95 (22), 1711-1717, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2229452280243205628",
+        "cites_id": [
+            "2229452280243205628"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation shows genome-wide association of NFIX, RAPGEF2 and MSRB3 with gestational age at birth",
+            "pub_year": "2012",
+            "citation": "International journal of epidemiology 41 (1), 188-199, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:evX43VCCuoAC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6173286163803496328",
+        "cites_id": [
+            "6173286163803496328"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cross-correlation of fetal cardiac and somatic activity as an indicator of antenatal neural development",
+            "pub_year": "2001",
+            "citation": "American journal of obstetrics and gynecology 185 (6), 1421-1428, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:qUcmZB5y_30C",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=269210026717532802",
+        "cites_id": [
+            "269210026717532802"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential expression analysis of RNA-seq data at single-base resolution",
+            "pub_year": "2014",
+            "citation": "Biostatistics 15 (3), 413-426, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:XvxMoLDsR5gC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1603345619966351948,60604848589191443",
+        "cites_id": [
+            "1603345619966351948",
+            "60604848589191443"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying uncertainty in genotype calls",
+            "pub_year": "2010",
+            "citation": "Bioinformatics 26 (2), 242-249, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:RGFaLdJalmkC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1866548377268614474",
+        "cites_id": [
+            "1866548377268614474"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flexible expressed region analysis for RNA-seq with derfinder",
+            "pub_year": "2017",
+            "citation": "Nucleic acids research 45 (2), e9-e9, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:LdasjJ6CEcoC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7449929950002746683,11714805812624551041",
+        "cites_id": [
+            "7449929950002746683",
+            "11714805812624551041"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Selected contribution: Circadian Rhythm variation in activity, body temperature, and heart rate between C3H/HeJ and C57BL/6J inbred strains",
+            "pub_year": "2002",
+            "citation": "Journal of applied physiology 92 (2), 870-877, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:HDshCWvjkbEC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17447586505704571073",
+        "cites_id": [
+            "17447586505704571073"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reply to \u201cReassessing the abundance of H3K9me2 chromatin domains in embryonic stem cells\u201d",
+            "pub_year": "2010",
+            "citation": "Nature genetics 42 (1), 5-6, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:xtRiw3GOFMkC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14646160572460785520",
+        "cites_id": [
+            "14646160572460785520"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Air pollution sources and childhood asthma attacks in Catano, Puerto Rico",
+            "pub_year": "2007",
+            "citation": "American journal of epidemiology 165 (8), 927-935, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:blknAaTinKkC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7509826824297889001",
+        "cites_id": [
+            "7509826824297889001"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Preprocessing high-density oligonucleotide arrays",
+            "pub_year": "2005",
+            "citation": "Bioinformatics and computational biology solutions using R and Bioconductor \u2026, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9307563656877944993",
+        "cites_id": [
+            "9307563656877944993"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correcting for cell-type heterogeneity in epigenome-wide association studies: revisiting previous analyses",
+            "pub_year": "2017",
+            "citation": "Nature methods 14 (3), 216-217, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:jFemdcug13IC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=116476778296462931,9180103010803211340",
+        "cites_id": [
+            "116476778296462931",
+            "9180103010803211340"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A model based background adjustment for oligonucleotide expression arrays. Johns Hopkins University",
+            "pub_year": "2004",
+            "citation": "Biostatistics Working Papers, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:k_7cPK9k7w8C",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1368155084325968735",
+        "cites_id": [
+            "1368155084325968735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of academia in data science education",
+            "pub_year": "2020",
+            "citation": "Harvard Data Science Review 2 (1), 10.1162, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:C33y2ycGS3YC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2795726181293964810",
+        "cites_id": [
+            "2795726181293964810"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A model based background adjustment for oligonucleotide expression arrays. Johns Hopkins University, Dept",
+            "pub_year": "2004",
+            "citation": "of Biostatistics Working Papers, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:QsaTk4IG4EwC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6918389134439803036",
+        "cites_id": [
+            "6918389134439803036"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression anti-profiles as a basis for accurate universal cancer signatures",
+            "pub_year": "2012",
+            "citation": "BMC bioinformatics 13, 1-11, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:hMsQuOkrut0C",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10442132862862569414",
+        "cites_id": [
+            "10442132862862569414"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transposon insertion site profiling chip (TIP-chip)",
+            "pub_year": "2006",
+            "citation": "Proceedings of the National Academy of Sciences 103 (47), 17632-17637, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13890017068492434993",
+        "cites_id": [
+            "13890017068492434993"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression in giant cell myocarditis: altered expression of immune response genes",
+            "pub_year": "2005",
+            "citation": "International journal of cardiology 102 (2), 333-340, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:JV2RwH3_ST0C",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3226871524849127991",
+        "cites_id": [
+            "3226871524849127991"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thawing frozen robust multi-array analysis (fRMA)",
+            "pub_year": "2011",
+            "citation": "BMC bioinformatics 12, 1-7, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:WA5NYHcadZ8C",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7769559951904716445",
+        "cites_id": [
+            "7769559951904716445"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "R/Bioconductor software for Illumina's Infinium whole-genome genotyping BeadChips",
+            "pub_year": "2009",
+            "citation": "Bioinformatics 25 (19), 2621-2623, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:ldfaerwXgEUC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17037951982357485864",
+        "cites_id": [
+            "17037951982357485864"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prenatal development of intrafetal and maternal-fetal synchrony.",
+            "pub_year": "2006",
+            "citation": "Behavioral neuroscience 120 (3), 687, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:BqipwSGYUEgC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12950075380320076758",
+        "cites_id": [
+            "12950075380320076758"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Feature-level exploration of a published Affymetrix GeneChip control dataset",
+            "pub_year": "2006",
+            "citation": "Genome Biology 7, 1-4, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6128304388938083403",
+        "cites_id": [
+            "6128304388938083403"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multi-omic analysis of human na\u00efve CD4+ T cells",
+            "pub_year": "2015",
+            "citation": "BMC systems biology 9, 1-16, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:buQ7SEKw-1sC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12258601983090084906",
+        "cites_id": [
+            "12258601983090084906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparing genotyping algorithms for Illumina's Infinium whole-genome SNP BeadChips",
+            "pub_year": "2011",
+            "citation": "BMC bioinformatics 12, 1-12, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:oNZyr7d5Mn4C",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=376424832258462012",
+        "cites_id": [
+            "376424832258462012"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "fRMA ST: frozen robust multiarray analysis for Affymetrix Exon and Gene ST arrays",
+            "pub_year": "2012",
+            "citation": "Bioinformatics 28 (23), 3153-3154, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:L7CI7m0gUJcC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13895322283539414429",
+        "cites_id": [
+            "13895322283539414429"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multilevel model to address batch effects in copy number estimation using SNP arrays",
+            "pub_year": "2011",
+            "citation": "Biostatistics 12 (1), 33-50, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:3s1wT3WcHBgC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13602006423407618815",
+        "cites_id": [
+            "13602006423407618815"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A statistical framework for the analysis of microarray probe-level data",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:RYcK_YlVTxYC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17631707250419459880",
+        "cites_id": [
+            "17631707250419459880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oligonucleotide-microarray analysis of peripheral-blood lymphocytes in severe asthma",
+            "pub_year": "2005",
+            "citation": "Journal of Laboratory and Clinical Medicine 145 (5), 263-274, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:mB3voiENLucC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18423758703593674023",
+        "cites_id": [
+            "18423758703593674023"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The MAQC-II Project: A comprehensive study of common practices for the development and validation of microarray-based predictive models.",
+            "pub_year": "2010",
+            "citation": "Nature biotechnology 28 (8), 827-838, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:w0F2JDEymm0C",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8669864667032150267",
+        "cites_id": [
+            "8669864667032150267"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bisulfite-independent analysis of CpG island methylation enables genome-scale stratification of single cells",
+            "pub_year": "2017",
+            "citation": "Nucleic acids research 45 (10), e77-e77, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:q-HalDI95KYC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13710039685457677397",
+        "cites_id": [
+            "13710039685457677397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An investigation of the second-and higher-order spectra of music",
+            "pub_year": "2011",
+            "citation": "Selected Works of David Brillinger, 231-249, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:IWHjjKOFINEC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10604662456137426150",
+        "cites_id": [
+            "10604662456137426150"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Consolidated strategy for the analysis of microarray spike-in data",
+            "pub_year": "2008",
+            "citation": "Nucleic acids research 36 (17), e108-e108, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15230482482662451605",
+        "cites_id": [
+            "15230482482662451605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In vitro identification and in silico utilization of interspecies sequence similarities using GeneChip\u00ae technology",
+            "pub_year": "2005",
+            "citation": "BMC genomics 6 (1), 1-14, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7370626501531840370",
+        "cites_id": [
+            "7370626501531840370"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deficiency of different nitric oxide synthase isoforms activates divergent transcriptional programs in cardiac hypertrophy",
+            "pub_year": "2003",
+            "citation": "Physiological genomics 14 (1), 25-34, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:hC7cP41nSMkC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7506213743306240661",
+        "cites_id": [
+            "7506213743306240661"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation and extension of an empirical Bayes method for SNP calling on Affymetrix microarrays",
+            "pub_year": "2008",
+            "citation": "Genome biology 9, 1-12, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:-f6ydRqryjwC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9578287981494099162,7197362600297836985",
+        "cites_id": [
+            "9578287981494099162",
+            "7197362600297836985"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods for affymetrix oligonucleotide arrays",
+            "pub_year": "2006",
+            "citation": "R package version 1.12 1, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:TQgYirikUcIC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13010947350548083355",
+        "cites_id": [
+            "13010947350548083355"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generalized additive selection models for the analysis of studies with potentially nonignorable missing outcome data",
+            "pub_year": "2003",
+            "citation": "Biometrics 59 (3), 601-613, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6640853925588211843",
+        "cites_id": [
+            "6640853925588211843"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discovery with data: Leveraging statistics with computer science to transform science and society",
+            "pub_year": "2014",
+            "citation": "American Statistical Association White Paper, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:8xutWZnSdmoC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9165429425399928673",
+        "cites_id": [
+            "9165429425399928673"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leydig cell gene expression: effects of age and caloric restriction",
+            "pub_year": "2004",
+            "citation": "Experimental Gerontology 39 (1), 31-43, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17312734814179631307",
+        "cites_id": [
+            "17312734814179631307"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Overlapping euchromatin/heterochromatin-associated marks are enriched in imprinted gene regions and predict allele-specific modification",
+            "pub_year": "2008",
+            "citation": "Genome research 18 (11), 1806-1813, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:maZDTaKrznsC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11377529705846378527",
+        "cites_id": [
+            "11377529705846378527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improved microarray methods for profiling the Yeast Knockout strain collection",
+            "pub_year": "2005",
+            "citation": "Nucleic acids research 33 (12), e103-e103, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17130188446255493912",
+        "cites_id": [
+            "17130188446255493912"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Performance evaluation of commercial miRNA expression array platforms",
+            "pub_year": "2010",
+            "citation": "BMC research notes 3, 1-6, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:CHSYGLWDkRkC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14763541945597204412",
+        "cites_id": [
+            "14763541945597204412"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying the dynamics of migration after Hurricane Maria in Puerto Rico",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (51), 32772-32778, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:AzKEL7Gb_04C",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3963218139244965794",
+        "cites_id": [
+            "3963218139244965794"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Accounting for GC-content bias reduces systematic errors and batch effects in ChIP-seq data",
+            "pub_year": "2017",
+            "citation": "Genome research 27 (11), 1930-1938, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:hsZV8lGYWTMC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18123425576736842797,1650222210580412850",
+        "cites_id": [
+            "18123425576736842797",
+            "1650222210580412850"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide methylation profiling reveals Zinc finger protein 516 (ZNF516) and FK-506-binding protein 6 (FKBP6) promoters frequently methylated in cervical neoplasia \u2026",
+            "pub_year": "2014",
+            "citation": "Epigenetics 9 (2), 308-317, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:gVv57TyPmFsC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=316393433411520902",
+        "cites_id": [
+            "316393433411520902"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A flexible statistical framework for estimating excess mortality",
+            "pub_year": "2022",
+            "citation": "Epidemiology (Cambridge, Mass.) 33 (3), 346, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:nPT8s1NX_-sC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=949024623891328574,5864776618636308368,233289188694427775",
+        "cites_id": [
+            "949024623891328574",
+            "5864776618636308368",
+            "233289188694427775"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effectiveness estimates of three COVID-19 vaccines based on observational data from Puerto Rico",
+            "pub_year": "2022",
+            "citation": "The Lancet Regional Health\u2013Americas 9, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:c59VksA5Vz4C",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8488567589492261472,9921866941134357088,3496204699251790825,16861629027192791764",
+        "cites_id": [
+            "8488567589492261472",
+            "9921866941134357088",
+            "3496204699251790825",
+            "16861629027192791764"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proceedings of the second international molecular pathological epidemiology (MPE) meeting",
+            "pub_year": "2015",
+            "citation": "Cancer Causes & Control 26, 959-972, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Ak0FvsSvgGUC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13509113984166656253",
+        "cites_id": [
+            "13509113984166656253"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From CEL files to annotated lists of interesting genes",
+            "pub_year": "2005",
+            "citation": "Bioinformatics and Computational Biology Solutions using R and Bioconductor \u2026, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:35N4QoGY0k4C",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12963882014982156593",
+        "cites_id": [
+            "12963882014982156593"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intensity normalization improves color calling in SOLiD sequencing",
+            "pub_year": "2010",
+            "citation": "Nature methods 7 (5), 336-337, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:_xSYboBqXhAC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10701569073437443513",
+        "cites_id": [
+            "10701569073437443513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GenomeBiology, 2004, 5",
+            "citation": "R80 CrossRef, 0"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:T_ojBgVMvoEC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4333278533548764831",
+        "cites_id": [
+            "4333278533548764831"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The analysis of gene expression data: methods and software",
+            "pub_year": "2003",
+            "citation": "Springer, New York, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:In6cVmBjs0IC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6907947802426216761",
+        "cites_id": [
+            "6907947802426216761"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improved base-calling and quality scores for 454 sequencing based on a Hurdle Poisson model",
+            "pub_year": "2012",
+            "citation": "BMC bioinformatics 13, 1-11, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:tYavs44e6CUC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17365373079889492946",
+        "cites_id": [
+            "17365373079889492946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Description of affy",
+            "pub_year": "2012",
+            "citation": "Bioconductor Vignettes, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:yeL6HyUMUGUC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13772333414943095204",
+        "cites_id": [
+            "13772333414943095204"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Information and posterior probability criteria for model selection in local likelihood estimation",
+            "pub_year": "2001",
+            "citation": "Journal of the American Statistical Association 96 (453), 303-315, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:O3NaXMp0MMsC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5263762770192807911",
+        "cites_id": [
+            "5263762770192807911"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local harmonic estimation in musical sound signals",
+            "pub_year": "2001",
+            "citation": "Journal of the American Statistical Association 96 (454), 357-367, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2800000078992523227,17967369753246394686,8485853301183559119",
+        "cites_id": [
+            "2800000078992523227",
+            "17967369753246394686",
+            "8485853301183559119"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantile normalization of single-cell RNA-seq read counts without unique molecular identifiers",
+            "pub_year": "2020",
+            "citation": "Genome biology 21 (1), 1-17, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:X9ykpCP0fEIC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=785662179046043897",
+        "cites_id": [
+            "785662179046043897"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of Affymetrix GeneChip\u00ae data using amplified RNA",
+            "pub_year": "2006",
+            "citation": "Biotechniques 40 (2), 165-170, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:JoZmwDi-zQgC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14993947661599009917",
+        "cites_id": [
+            "14993947661599009917"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating genome-wide copy number using allele-specific mixture models",
+            "pub_year": "2008",
+            "citation": "Journal of computational biology 15 (7), 857-866, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:NaGl4SEjCO4C",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3254550907318597215,15911553872654383224",
+        "cites_id": [
+            "3254550907318597215",
+            "15911553872654383224"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Top-down standards will not serve systems biology",
+            "pub_year": "2006",
+            "citation": "Nature 440 (7080), 24, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:r0BpntZqJG4C",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1276618887699159453",
+        "cites_id": [
+            "1276618887699159453"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unstable heart rate and temperature regulation predict mortality in AKR/J mice",
+            "pub_year": "2003",
+            "citation": "American Journal of Physiology-Regulatory, Integrative and Comparative \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:J_g5lzvAfSwC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12445969134552363154",
+        "cites_id": [
+            "12445969134552363154"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Statistics and music: fitting a local harmonic model to musical sound signals",
+            "pub_year": "1998",
+            "citation": "University of California, Berkeley, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:uLbwQdceFCQC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=33322145356351058",
+        "cites_id": [
+            "33322145356351058"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Performance assessment of copy number microarray platforms using a spike-in experiment",
+            "pub_year": "2011",
+            "citation": "Bioinformatics 27 (8), 1052-1060, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:WbkHhVStYXYC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8924067431793454554",
+        "cites_id": [
+            "8924067431793454554"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-resolution spatial normalization for microarrays containing embedded technical replicates",
+            "pub_year": "2006",
+            "citation": "Bioinformatics 22 (24), 3054-3060, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:GnPB-g6toBAC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5226916187722418911",
+        "cites_id": [
+            "5226916187722418911"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Weighted estimation of harmonic components in a musical sound signal",
+            "pub_year": "2002",
+            "citation": "Journal of Time Series Analysis 23 (1), 29-48, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:vV6vV6tmYwMC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2225638093343067126",
+        "cites_id": [
+            "2225638093343067126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell type-specific inference of differential expression in spatial transcriptomics",
+            "pub_year": "2022",
+            "citation": "Nature methods 19 (9), 1076-1087, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:EaFouW7jFu4C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8590113496668484618",
+        "cites_id": [
+            "8590113496668484618"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A gene expression atlas of embryonic neurogenesis in Drosophila reveals complex spatiotemporal regulation of lncRNAs",
+            "pub_year": "2019",
+            "citation": "Development 146 (6), dev175265, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:IsPWOBWtZBwC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16899815059581982050",
+        "cites_id": [
+            "16899815059581982050"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A probabilistic gene expression barcode for annotation of cell types from single-cell RNA-seq data",
+            "pub_year": "2022",
+            "citation": "Biostatistics 23 (4), 1150-1164, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:wSy_KLzO7YEC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1213658475925146278,18149841936874379404",
+        "cites_id": [
+            "1213658475925146278",
+            "18149841936874379404"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing homeostasis through circadian patterns",
+            "pub_year": "2001",
+            "citation": "Biometrics 57 (4), 1228-1237, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:2P1L_qKh6hAC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8668357760715655622",
+        "cites_id": [
+            "8668357760715655622"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Some wavelet-based analyses of Markov chain data",
+            "pub_year": "2000",
+            "citation": "Signal Processing 80 (8), 1607-1627, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:HoB7MX3m0LUC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14979053153457293568",
+        "cites_id": [
+            "14979053153457293568"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data Analysis for the Life Sciences with R",
+            "pub_year": "2016",
+            "citation": "CRC Press, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:MAUkC_7iAq8C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9730893342788278718",
+        "cites_id": [
+            "9730893342788278718"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ChIP-PED enhances the analysis of ChIP-seq and ChIP-chip data",
+            "pub_year": "2013",
+            "citation": "Bioinformatics 29 (9), 1182-1189, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:LI9QrySNdTsC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6532549097110244326",
+        "cites_id": [
+            "6532549097110244326"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of Affymetrix GeneChip expression measures",
+            "pub_year": "2005",
+            "citation": "bepress, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:M7yex6snE4oC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7473467231132783562",
+        "cites_id": [
+            "7473467231132783562"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "methylCC: technology-independent estimation of cell type composition using differentially methylated regions",
+            "pub_year": "2019",
+            "citation": "Genome biology 20 (1), 1-13, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:kJDgFkosVoMC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8618498438255452986",
+        "cites_id": [
+            "8618498438255452986"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation",
+            "pub_year": "2018",
+            "citation": "bioRxiv, 381145, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:mWEH9CqjF64C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10916367041256725783",
+        "cites_id": [
+            "10916367041256725783"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proceedings of the third international molecular pathological epidemiology (MPE) meeting",
+            "pub_year": "2017",
+            "citation": "Cancer Causes & Control 28, 167-176, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:DBa1UEJaJKAC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7809237825024284221",
+        "cites_id": [
+            "7809237825024284221"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effective detection of rare variants in pooled DNA samples using cross-pool tail-curve analysis",
+            "pub_year": "2011",
+            "citation": "Genome biology 12, 1-27, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:vRqMK49ujn8C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16426074177357041058",
+        "cites_id": [
+            "16426074177357041058"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global mRNA expression analysis in myosin II deficient strains of Saccharomyces cerevisiae reveals an impairment of cell integrity functions",
+            "pub_year": "2008",
+            "citation": "BMC genomics 9 (1), 1-10, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:SeFeTyx0c_EC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=970001600803349866",
+        "cites_id": [
+            "970001600803349866"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large organized chromatin K9-modifications (LOCKs) distinguish differentiated from embryonic stem cells",
+            "pub_year": "2009",
+            "citation": "Nature genetics 41 (2), 246, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:aIdbFUkbNIkC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13459731836488298175",
+        "cites_id": [
+            "13459731836488298175"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Preprocessing overview",
+            "pub_year": "2005",
+            "citation": "Bioinformatics and Computational Biology Solutions Using R and Bioconductor \u2026, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:fPk4N6BV_jEC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15837913271081504038",
+        "cites_id": [
+            "15837913271081504038"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The partitioned LASSO-patternsearch algorithm with application to gene expression data",
+            "pub_year": "2012",
+            "citation": "BMC bioinformatics 13 (1), 1-10, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:q3oQSFYPqjQC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6495890086262948397",
+        "cites_id": [
+            "6495890086262948397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interpretable convolution methods for learning genomic sequence motifs",
+            "pub_year": "2018",
+            "citation": "BioRxiv, 411934, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:DrR-2ekChdkC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7810072939496719557",
+        "cites_id": [
+            "7810072939496719557"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Erratum: Corrigendum: Multiple-laboratory comparison of microarray platforms",
+            "pub_year": "2005",
+            "citation": "Nature Methods 2 (6), 477-477, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:I8rxH6phXEkC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14416022878009520652",
+        "cites_id": [
+            "14416022878009520652"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Significance analysis for clustering with single-cell RNA-sequencing data",
+            "pub_year": "2023",
+            "citation": "Nature Methods, 1-7, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:xm0LlTxljI0C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4230945211568264719",
+        "cites_id": [
+            "4230945211568264719"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fast wavelet based functional models for transcriptome analysis with tiling arrays",
+            "pub_year": "2012",
+            "citation": "Statistical applications in genetics and molecular biology 11 (1 \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:XiSMed-E-HIC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8812153043000854910,1994202115746630298,5684023342235327365",
+        "cites_id": [
+            "8812153043000854910",
+            "1994202115746630298",
+            "5684023342235327365"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression barcode for normal and diseased tissue classification",
+            "pub_year": "2010",
+            "citation": "US Patent App. 12/312,922, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:kuK5TVdYjLIC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11520554269423568567",
+        "cites_id": [
+            "11520554269423568567"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improved statistical analysis of budding yeast TAG microarrays revealed by defined spike-in pools",
+            "pub_year": "2005",
+            "citation": "Nucleic acids research 33 (16), e140-e140, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:M05iB0D1s5AC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3730942702111422353",
+        "cites_id": [
+            "3730942702111422353"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Selection-corrected statistical inference for region detection with high-throughput assays",
+            "pub_year": "2019",
+            "citation": "Journal of the American Statistical Association 114 (527), 1351-1365, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:7H_MAutzIkAC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10363590702522375710",
+        "cites_id": [
+            "10363590702522375710"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Asymptotic distribution of estimates for a time-varying parameter in a harmonic model with multiple fundamentals",
+            "pub_year": "2000",
+            "citation": "Statistica Sinica, 1041-1067, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3419578625408121330",
+        "cites_id": [
+            "3419578625408121330"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Vaginal microbiome topic modeling of laboring Ugandan women with and without fever",
+            "pub_year": "2021",
+            "citation": "npj Biofilms and Microbiomes 7 (1), 75, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:zwpXiJ37cpgC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15671344064960756391",
+        "cites_id": [
+            "15671344064960756391"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Description of gcrma package",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:jgBuDB5drN8C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2844671918280302571",
+        "cites_id": [
+            "2844671918280302571"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nuestra Escuela and the University of Puerto Rico: The joint quest for responsive schools for dropouts and students at risk",
+            "pub_year": "2005",
+            "citation": "Recuperado el 20, 10-12, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:pS0ncopqnHgC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14557341226903358018",
+        "cites_id": [
+            "14557341226903358018"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The analysis of gene expression data",
+            "pub_year": "2003",
+            "citation": "Springer, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:IRz6iEL74y4C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2941574433226544063,1755241642799906787",
+        "cites_id": [
+            "2941574433226544063",
+            "1755241642799906787"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Varying-censoring aware matrix factorization for single cell RNA-sequencing",
+            "pub_year": "2017",
+            "citation": "biorxiv, 166736, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:kWvqk_afx_IC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10768013015638215146",
+        "cites_id": [
+            "10768013015638215146"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomics: translation of global expression analysis to genomic medicine",
+            "pub_year": "2009",
+            "citation": "Genomic and Personalized Medicine, Two-Vol Set, 143-156, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:v1_lew4L6wgC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14275845055070532314",
+        "cites_id": [
+            "14275845055070532314"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local regression with meaningful parameters",
+            "pub_year": "2001",
+            "citation": "The American Statistician 55 (1), 72-79, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:a0OBvERweLwC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15232277030500236227",
+        "cites_id": [
+            "15232277030500236227"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automatic methods for generating seismic intensity maps",
+            "pub_year": "2001",
+            "citation": "Journal of Applied Probability 38 (A), 188-201, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:ZHo1McVdvXMC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3503471918366320555",
+        "cites_id": [
+            "3503471918366320555"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying the dynamics of migration after a disaster: Impact of hurricane maria in puerto rico",
+            "pub_year": "2020",
+            "citation": "medRxiv, 2020.01. 28.20019315, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:0aBXIfxlw9sC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17188365668471084718",
+        "cites_id": [
+            "17188365668471084718"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "KRLMM: an adaptive genotype calling method for common and low frequency variants",
+            "pub_year": "2014",
+            "citation": "BMC bioinformatics 15, 1-11, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:OR75R8vi5nAC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15883298932090457680",
+        "cites_id": [
+            "15883298932090457680"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Processing and analyzing Affymetrix SNP chips with Bioconductor",
+            "pub_year": "2009",
+            "citation": "Statistics in Biosciences 1 (2), 160-180, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:ye4kPcJQO24C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14353971738325777770",
+        "cites_id": [
+            "14353971738325777770"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stacking the deck: double-tiled DNA microarrays",
+            "pub_year": "2006",
+            "citation": "Nature methods 3 (11), 903-907, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:EUQCXRtRnyEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11637818327961797709",
+        "cites_id": [
+            "11637818327961797709"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomics of sleep and circadian rhythm selected contribution: Circadian rhythm variation in activity, body temperature, and heart rate between C3H/HeJ and C57BL/6J \u2026",
+            "pub_year": "2002",
+            "citation": "Journal of applied physiology (1985) 92 (2), 869-887, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:dshw04ExmUIC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4249237150670606807",
+        "cites_id": [
+            "4249237150670606807"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A statistical analysis of radiolabeled gene expression data",
+            "pub_year": "2001",
+            "citation": "Proceedings of Interface 2001, 1-4, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:zA6iFVUQeVQC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13913691797795957713",
+        "cites_id": [
+            "13913691797795957713"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visualization and probability-based scoring of structural variants within repetitive sequences",
+            "pub_year": "2014",
+            "citation": "Bioinformatics 30 (11), 1514-1521, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:_5tno0g5mFcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16164523453448439449",
+        "cites_id": [
+            "16164523453448439449"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Response to Shields:\u2018MIAME, we have a problem\u2019",
+            "pub_year": "2006",
+            "citation": "Trends in Genetics 22 (9), 471-472, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:abG-DnoFyZgC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13294230872365229884",
+        "cites_id": [
+            "13294230872365229884"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Applied nonparametric and modern statistics",
+            "pub_year": "2001",
+            "citation": "Johns Hopkins University, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:pAkWuXOU-OoC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9392684192550325203",
+        "cites_id": [
+            "9392684192550325203"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ASSOCIATON TESTS THAT ACCOMMODATE GENOTYPING ERRORS",
+            "pub_year": "2009",
+            "citation": "bepress, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12242407448354156560,9124056689513125706",
+        "cites_id": [
+            "12242407448354156560",
+            "9124056689513125706"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Capturing discrete latent structures: choose LDs over PCs",
+            "pub_year": "2023",
+            "citation": "Biostatistics 24 (1), 1-16, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:YB4bud6kWLwC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18417481441340228413",
+        "cites_id": [
+            "18417481441340228413"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "All-cause excess mortality across 90 municipalities in Gujarat, India, during the COVID-19 pandemic (March 2020-April 2021)",
+            "pub_year": "2022",
+            "citation": "PLOS Global Public Health 2 (8), e0000824, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:x21FZCSn4ZoC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3749400828028102894,12429707541272414229",
+        "cites_id": [
+            "3749400828028102894",
+            "12429707541272414229"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential richness inference for 16S rRNA marker gene surveys",
+            "pub_year": "2022",
+            "citation": "Genome biology 23 (1), 166, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:YTuZlYwrTOUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18227837109415204286",
+        "cites_id": [
+            "18227837109415204286"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "mirTarRnaSeq: an R/bioconductor statistical package for miRNA-mRNA target identification and interaction analysis",
+            "pub_year": "2022",
+            "citation": "BMC genomics 23 (1), 439, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:BOlwja0KXvYC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16706617228629501324",
+        "cites_id": [
+            "16706617228629501324"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell type-specific differential expression for spatial transcriptomics",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:z8nqeaKD1nsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14214981240292182297",
+        "cites_id": [
+            "14214981240292182297"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Statistical learning: Algorithmic and nonparametric approaches",
+            "pub_year": "2005",
+            "citation": "Course Notes. Department of Biostatistics Johns Hopkins University, Fourth \u2026, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:nqdriD65xNoC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8255939099989552266",
+        "cites_id": [
+            "8255939099989552266"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiple lab comparison of microarray platforms",
+            "pub_year": "2004",
+            "citation": "bepress, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:WC9gN4BGCRcC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17540105118072830235",
+        "cites_id": [
+            "17540105118072830235"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiple Lab Comparisons of Microarray Platforms",
+            "pub_year": "2004",
+            "citation": "Dept. of Biostatistics Working Papers, Johns Hopkins University, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:gKiMpY-AVTkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2192398036580118514",
+        "cites_id": [
+            "2192398036580118514"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Statistical methods and software for the analysis of DNA microarray experiments",
+            "pub_year": "2002",
+            "citation": "Bioinformatics and Computational Biology Workshop, Foundation BBVA, Madrid, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:KxtntwgDAa4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11622118745149221181",
+        "cites_id": [
+            "11622118745149221181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "UBR5 forms ligand-dependent complexes on chromatin to regulate nuclear hormone receptor stability",
+            "pub_year": "2023",
+            "citation": "Molecular Cell 83 (15), 2753-2767. e10, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Vno172sVVMwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8979974015486257490",
+        "cites_id": [
+            "8979974015486257490"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterizing batch effects and binding site-specific variability in ChIP-seq data",
+            "pub_year": "2021",
+            "citation": "NAR Genomics and Bioinformatics 3 (4), lqab098, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:BmWJbWwHJAwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14146163177573636040",
+        "cites_id": [
+            "14146163177573636040"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensitive detection of renal cell carcinoma using plasma and urine cell-free DNA methylomes.",
+            "pub_year": "2020",
+            "citation": "Journal of Clinical Oncology 38 (6_suppl), 728-728, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:RJOyoaXV5v8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14509777587744044778",
+        "cites_id": [
+            "14509777587744044778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Context aware group nearest shrunken centroids in large-scale genomic studies",
+            "pub_year": "2014",
+            "citation": "Artificial Intelligence and Statistics, 1051-1059, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:HtS1dXgVpQUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10634132433219440088",
+        "cites_id": [
+            "10634132433219440088"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reversible switching between epigenetic states in honeybee behavioral subcastes",
+            "pub_year": "2013",
+            "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 53, E91-E91, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:ruyezt5ZtCIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4026525748981592195",
+        "cites_id": [
+            "4026525748981592195"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using the charm package to estimate DNA methylation levels and find differentially methylated regions",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:mNrWkgRL2YcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8485813953656689530",
+        "cites_id": [
+            "8485813953656689530"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoter Hypermethylation in MLL-r Leukemia: Biology and Therapeutic Targeting.",
+            "pub_year": "2009",
+            "citation": "Blood 114 (22), 3472, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:edDO8Oi4QzsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1604724739179649633",
+        "cites_id": [
+            "1604724739179649633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Model-Based Quality Assessment and Base-Calling for Second-Generation Sequencing Data",
+            "pub_year": "2009",
+            "citation": "bepress, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:LXmCCkuhhTsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3882392280808473036",
+        "cites_id": [
+            "3882392280808473036"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Choosing Smoothness Parameters for Smoothing Splines by Minimizing and Estimate of Risk",
+            "pub_year": "2004",
+            "citation": "bepress, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13692916497170487769",
+        "cites_id": [
+            "13692916497170487769"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sobreeducacion y desempleo en los paises en vias de desarrollo: las paradojas de la industrializacion dependiente.(Sur\u00e9ducation et ch\u00f4mage dans les pays en voie de \u2026",
+            "pub_year": "1980",
+            "citation": "Revista de Ciencias Sociales San Juan 22 (3-4), 275-296, 1980"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:27LrP4qxOz0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17774345172395366541",
+        "cites_id": [
+            "17774345172395366541"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effectiveness of different booster regimens for preventing infection and adverse outcomes in Puerto Rico",
+            "pub_year": "2021",
+            "citation": "medRxiv, 2021.12. 19.21268070, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:TaaCk18tZOkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=437070116775780996,17866020870030645074",
+        "cites_id": [
+            "437070116775780996",
+            "17866020870030645074"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detection of allele-specific expression in spatial transcriptomics with spASE",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.12. 01.470861, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:zUl2_INMlC4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12130999182883375775",
+        "cites_id": [
+            "12130999182883375775"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression barcode for normal and diseased tissue classification",
+            "pub_year": "2014",
+            "citation": "US Patent App. 13/859,222, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:DkZNVXde3BIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8608418650372114369",
+        "cites_id": [
+            "8608418650372114369"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The bright future of applied statistics",
+            "pub_year": "2014",
+            "citation": "Past, Present, and Future of Statistical Science, 171, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:a9-T7VOCCH8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15396714186926904580",
+        "cites_id": [
+            "15396714186926904580"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variability single nucleotide polymorphisms linking stochastic epigenetic variation and common disease",
+            "pub_year": "2013",
+            "citation": "US Patent App. 13/818,644, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:TIZ-Mc8IlK0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2292140806525062926",
+        "cites_id": [
+            "2292140806525062926"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Package \u2018affy\u2019",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1743502678801749620",
+        "cites_id": [
+            "1743502678801749620"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lecture 5: Model selection and assessment",
+            "pub_year": "2010",
+            "citation": "University of Maryland, Center for Bioinformatics and Computational Biology, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:1DsIQWDZLl8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8575401789843264091",
+        "cites_id": [
+            "8575401789843264091"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A MULTILEVEL MODEL TO ADDRESS BATCH EFFECTS IN COPY NUMBER USING SNP ARRAYS",
+            "pub_year": "2009",
+            "citation": "bepress, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Xl6nMSl579sC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12190320504530823184",
+        "cites_id": [
+            "12190320504530823184"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating Genome-Wide Copy Number Using Allele Speci\ufb01c Mixture Models",
+            "pub_year": "2007",
+            "citation": "Research in Computational Molecular Biology: 11th Annunal International \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Hck25ST_3aIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1097181499354288304",
+        "cites_id": [
+            "1097181499354288304"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FEATURE-LEVEL EXPLORATION OF THE CHOE ET AL. AFFYMETRIX GENECHIP CONTROL DATASET",
+            "pub_year": "2006",
+            "citation": "bepress, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:RMgMIBzvq-4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11022083966559249667",
+        "cites_id": [
+            "11022083966559249667"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parameters with musical interpretations",
+            "pub_year": "2004",
+            "citation": "CHANCE 17 (4), 30-38, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:p__nRnzSRKYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6101451379918965967",
+        "cites_id": [
+            "6101451379918965967"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measures of gene expression for affymetrix high density oligonucleotide arrays",
+            "pub_year": "2003",
+            "citation": "Lecture Notes-Monograph Series, 391-402, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Dem6FJhTUoYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9187061825820128936",
+        "cites_id": [
+            "9187061825820128936"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deficiency of different NOS isoforms activates distinct cardiac hypertrophy transcriptional programs",
+            "pub_year": "2002",
+            "citation": "Circulation 106 (19), 9-9, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:xtoqd-5pKcoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=997336479909118316",
+        "cites_id": [
+            "997336479909118316"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pre-processing in DNA microarray experiments",
+            "pub_year": "2002",
+            "citation": "Bioconductor short course, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:0N-VGjzr574C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14646842614159305567",
+        "cites_id": [
+            "14646842614159305567"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discovery of antibodies and cognate surface targets for ovarian cancer by surface profiling",
+            "pub_year": "2023",
+            "citation": "Proceedings of the National Academy of Sciences 120 (1), e2206751120, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:9NZAP19TdFAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA binding analysis of rare variants in homeodomains reveals novel homeodomain specificity-determining residues",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.06. 16.545320, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:aEW5N-EHWIMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust identification of perturbed cell types in single-cell RNA-seq data",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.05. 06.539326, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:natZJ_-F0IUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring the COVID-19 pandemic in Puerto Rico",
+            "pub_year": "2022",
+            "citation": "APHA 2022 Annual Meeting and Expo, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:7H_jS4BsgvYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell Type-Specific Differential Expression in Spatial Transcriptomics for Identification of Pathologically-Relevant Genetic Targets",
+            "pub_year": "2022",
+            "citation": "MOLECULAR THERAPY 30 (4), 133-134, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:yY3RG6sOEgwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reassessing pharmacogenomic cell sensitivity with multilevel statistical models",
+            "pub_year": "2022",
+            "citation": "Biostatistics, kxac010, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:dAp6zn-oMfAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell clonotype tracing of tissue Th17 cells during CNS autoimmunity reveals the conversion of intestinal homeostatic cells to pathogenic cells",
+            "pub_year": "2021",
+            "citation": "The Journal of Immunology 206 (1_Supplement), 61.11-61.11, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:_AeoHAGD03cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time-varying effectiveness of the mRNA-1273, BNT162b2 and Ad26. COV2. S vaccines against SARS-CoV-2 infections and COVID-19 hospitalizations and deaths: an analysis based on \u2026",
+            "pub_year": "2021",
+            "citation": "medRxiv, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:yTLRzDEmwhEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Feature selection and dimension reduction for single-cell RNA-Seq based on a multinomial model (vol 20, 295, 2019)",
+            "pub_year": "2020",
+            "citation": "GENOME BIOLOGY 21 (1), 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:NMlhSUseqAsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Technology-independent estimation of cell type composition using differentially methylated regions",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 213769, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:KNjnJ3z-R6IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide mistargeting of oncogenic SWI/SNF (BAF) complexes in SMARCB1 (BAF47)-deficient sarcomas",
+            "pub_year": "2016",
+            "citation": "Cancer Research 76 (14_Supplement), 2658-2658, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:IaI1MmNe2tcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplementary Material to: When to use Quantile Normalization?",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:w1MjKQ0l0TYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identifying Methylation Changes Driving Evolution of Relapse in MLL-Rearranged Acute Lymphoblastic Leukemias",
+            "pub_year": "2014",
+            "citation": "Blood 124 (21), 3797, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:vDZJ-YLwNdEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Package \u2018minfi\u2019",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:4xDN1ZYqzskC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "KRLMM: an adaptive genotype calling method for common and low frequency variants",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:LGlY6t8CeOMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Package \u2018gcrma\u2019",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:zdjWy_NXXwUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Package \u2018bumphunter\u2019",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:cWzG1nlazyYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Package \u2018crlmm\u2019",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:OTTXONDVkokC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Package \u2018antiProfilesData\u2019",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:e_rmSamDkqQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Package \u2018oligo\u2019",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:7Hz3ACDFbsoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using the charm package to estimate DNA methylation levels and find differentially methylated regions",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:HIFyuExEbWQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Package \u2018charm\u2019",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:IUKN3-7HHlwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Statistical methods for preprocessing, integration, and quality assessment of synthetic lethality data",
+            "pub_year": "2012",
+            "citation": "Johns Hopkins University, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:mKu_rENv82IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "For today",
+            "pub_year": "2012",
+            "citation": "Functional Genomics, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:43bX7VzcjpAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Personalized Epigenomic Signatures That Are Stable over Time and Covary with Body Mass Index (Science Translational Medicine (2011) 3,(65er1))",
+            "pub_year": "2011",
+            "citation": "Science translational medicine 3 (65), 65er1, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:zGdJYJv2LkUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide microarray platforms uncover novel hypermethylated genes in an oral squamous cell carcinoma case-control study: A phase I preclinical biomarker development study",
+            "pub_year": "2010",
+            "citation": "Cancer Research 70 (8_Supplement), 2924-2924, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:ZzlSgRqYykMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lecture 4: Tree-based Methods",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:-mN3Mh-tlDkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary flux of canonical micrornAs and mirtrons in Drosophila",
+            "pub_year": "2010",
+            "citation": "Nature genetics 42 (1), 5-6, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:SnGPuo6Feq8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variability in Copy Number Variation: Detection and Comparison Across Platforms",
+            "pub_year": "2009",
+            "citation": "GENETIC EPIDEMIOLOGY 33 (8), 816-816, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:foquWX3nUaYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wavelet-based functional mixed models for transcriptome analysis",
+            "pub_year": "2009",
+            "citation": "Joint Statistical Meeting 2009, Date: 2009/08/01-2009/08/06, Location \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:tKAzc9rXhukC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biostatistics-A Methodology for the Health Sciences. By Gerald van Belle, Lloyd D. Fisher, Patrick J. Heagerty, and Thomas Lumley, Wiley-Interscience, 2004, x+ 871 pp., $110.00",
+            "pub_year": "2008",
+            "citation": "QUARTERLY OF APPLIED MATHEMATICS 66 (2), 397, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:3NQIlFlcGxIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PROFESSIONAL ACTIVITIES",
+            "pub_year": "2007",
+            "citation": "Zhejiang University, HangZhou, China (2007, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:sszUF3NjhM4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ATTACHMENT 2 COMPARISON OF MICROARRAY DATA FROM MULTIPLE LABS AND PLATFORMS",
+            "pub_year": "2007",
+            "citation": "Validation of Toxicogenomic Technologies: A Workshop Summary, 49, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:sJsF-0ZLhtgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustaining a Market-driven Curriculum for a Professional Degree:(Re) Defining the competencies, ethos and scope of the Masters Degree and Continuing Education in Planning",
+            "pub_year": "2007",
+            "citation": "University of Puerto Rico Rio Piedras, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:silx2ntsSuwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A simple spreadsheet-based, MIAME-supportive format for microarray data: MAGE-TAB",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:s9ia6_kGH2AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drug target identification using global gene-compound synthetic-lethality (GCSL) screens",
+            "pub_year": "2006",
+            "citation": "Trends in Genetics 1 (22), 56-63, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Bg7qf7VwUHIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "16 The biology of intron gain and loss",
+            "pub_year": "2006",
+            "citation": "Genetics 22 (1), 1-64, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression analysis of ischemic and nonischemic",
+            "pub_year": "2005",
+            "citation": "Physiol Genomics 21, 299-307, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:4vMrXwiscB8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of a gene expression profile to differentiate ischemic and nonischemic cardiomyopathy",
+            "pub_year": "2004",
+            "citation": "CIRCULATION 110 (17), 335-335, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:PoWvk5oyLR8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High fidelity sister chromatid cohesion requires nonessential proteins that function in DNA replication and repair",
+            "pub_year": "2002",
+            "citation": "MOLECULAR BIOLOGY OF THE CELL 13, 244A-244A, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:q3CdL3IzO_QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synthetic lethal analysis indicates shared and distinct functions of MAD1, MAD2, and MAD3",
+            "pub_year": "2002",
+            "citation": "MOLECULAR BIOLOGY OF THE CELL 13, 171A-171A, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:SpbeaW3--B0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Electrocorticographic studies of ERD/ERS",
+            "pub_year": "2002",
+            "citation": "INTERNATIONAL JOURNAL OF PSYCHOPHYSIOLOGY 45 (1-2), 24-24, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Dip1O2bNi0gC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Microarray-based analysis of gene expression in rat lung subjected to mechanical ventilation and hyperoxygenation.",
+            "pub_year": "2002",
+            "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 223, U258-U258, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:HbR8gkJAVGIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Statistical Computing and Graphics",
+            "pub_year": "2001",
+            "citation": "The American Statistician 55 (1), 72-72, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:An6A6Jpfc1oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DAVID R. BRILLINGER,\" University of California, Berkeley",
+            "pub_year": "2001",
+            "citation": "Probability, Statistics and Seismology: A Festschrift for David Vere-Jones \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:37UQlXuwjP4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GENERAL OBSTETRICS AND GYNECOLOGY-Fetus-Placenta-Newborn-Cross-correlation of fetal cardiac and somatic activity as an indicator of antenatal neural development-Emergence of \u2026",
+            "pub_year": "2001",
+            "citation": "American Journal of Obstetrics and Gynecology 185 (6), 1421-1428, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Y5dfb0dijaUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing homeostasis through circadian patterns: an application of REACT",
+            "pub_year": "2000",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:jE2MZjpN3IcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variations in circadian regulation of body temperature and heart rate among inbred mouse strains.",
+            "pub_year": "2000",
+            "citation": "FASEB JOURNAL 14 (4), A610-A610, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Ri6SYOTghG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rafael A. Irizarry",
+            "pub_year": "1999",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:PYBJJbyH-FwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genotype Calls and Copy Number Analysis with the oligo Package",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:bVQMTfhMCi4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Statistics Department University of California Berkeley, CA 94720",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:Y0-TYkg6YM4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "De novo detection and accurate False Discovery Rate control of differentially methylated regions from Whole Genome Bisulfite Sequencing: Supplementary Materials",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:AYInfyleIOsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ARIC Manuscript Proposal# 1416",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:YlPif8NxrbYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comprehensive high-throughput arrays for relative methylation",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:SIv7DqKytYAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MD 21205 USA.",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:yxmsSjX2EkcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling of RNA-seq fragment sequence bias reduces systematic errors in transcript abundance estimation",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:wKETBy42zhYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Grundberg, E., Small, KS, Hedman, \u00c5K, Nica, AC, Buil, A., Keildson, S., Bell, JT, Yang, T.-P., Meduri, E., and Barrett, A.(2012). Mapping cis-and trans-regulatory effects \u2026",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:7wO8s98CvbsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplementary material for Removing technical variability in RNA-seq data using conditional quantile normalization",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:1taIhTC69MYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A benchmark for RNA-seq quantification pipelines",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:U4n9YNQMCAIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The quantro user\u2019s guide",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:_OXeSy2IsFwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The bumphunter user\u2019s guide",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:dBIO0h50nwkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic Ties and the Family: The Impact of pater-nity testing on parents and children. Eds. MA Rothstein, TH Murray, GE Kaebnick and M. Anderlik Majumder. Johns Hopkins \u2026",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:WJVC3Jt7v1AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoter hypermethylation in",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nFW-2Q8AAAAJ:ILKRHgRFtOwC",
+        "num_citations": 0
+    }
+]

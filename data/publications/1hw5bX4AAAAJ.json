@@ -1,0 +1,625 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "JTK_CYCLE: an efficient nonparametric algorithm for detecting rhythmic components in genome-scale data sets",
+            "pub_year": "2010",
+            "citation": "Journal of biological rhythms 25 (5), 372-380, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 939,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18366146490523394233",
+        "cites_id": [
+            "18366146490523394233"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression in papillary thyroid carcinoma reveals highly consistent profiles",
+            "pub_year": "2001",
+            "citation": "Proceedings of the National Academy of Sciences 98 (26), 15044-15049, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 510,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6651199556683625938",
+        "cites_id": [
+            "6651199556683625938"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stimulation of the insulin/mTOR pathway delays cone death in a mouse model of retinitis pigmentosa",
+            "pub_year": "2009",
+            "citation": "Nature neuroscience 12 (1), 44-52, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 503,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4878574347694112418",
+        "cites_id": [
+            "4878574347694112418"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MetaCycle: an integrated R package to evaluate periodicity in large scale data",
+            "pub_year": "2016",
+            "citation": "Bioinformatics 32 (21), 3351-3353, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:aqlVkmm33-oC",
+        "num_citations": 357,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11110547842417852862",
+        "cites_id": [
+            "11110547842417852862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Excitatory/inhibitory synaptic imbalance leads to hippocampal hyperexcitability in mouse models of tuberous sclerosis",
+            "pub_year": "2013",
+            "citation": "Neuron 78 (3), 510-522, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 336,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8832591275569719737",
+        "cites_id": [
+            "8832591275569719737"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chipping away at the chip bias: RNA degradation in microarray analysis",
+            "pub_year": "2003",
+            "citation": "Nature genetics 35 (4), 292-293, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:8k81kl-MbHgC",
+        "num_citations": 272,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11180420915948613943,3142006633812847484",
+        "cites_id": [
+            "11180420915948613943",
+            "3142006633812847484"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synergistic function of E2F7 and E2F8 is essential for cell survival and embryonic development",
+            "pub_year": "2008",
+            "citation": "Developmental cell 14 (1), 62-75, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 251,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=268243994852494323",
+        "cites_id": [
+            "268243994852494323"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Guidelines for genome-scale analysis of biological rhythms",
+            "pub_year": "2017",
+            "citation": "Journal of biological rhythms 32 (5), 380-393, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 199,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8842696442350915946",
+        "cites_id": [
+            "8842696442350915946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNA-Seq and molecular docking reveal multi-level pesticide resistance in the bed bug",
+            "pub_year": "2012",
+            "citation": "BMC genomics 13, 1-17, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:UebtZRa9Y70C",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18064723596249715766",
+        "cites_id": [
+            "18064723596249715766"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HOXB4's road map to stem cell expansion",
+            "pub_year": "2007",
+            "citation": "Proceedings of the National Academy of Sciences 104 (43), 16952-16957, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5143440489263187045",
+        "cites_id": [
+            "5143440489263187045"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Accurate quantification of DNA methylation using combined bisulfite restriction analysis coupled with the Agilent 2100 Bioanalyzer platform",
+            "pub_year": "2006",
+            "citation": "Nucleic acids research 34 (3), e17-e17, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13770665170002452300",
+        "cites_id": [
+            "13770665170002452300"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Accurate expression profiling of very small cell populations",
+            "pub_year": "2010",
+            "citation": "PloS one 5 (12), e14418, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 85,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10871515371536162252",
+        "cites_id": [
+            "10871515371536162252"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression profiling using Affymetrix GeneChip microarrays",
+            "pub_year": "2009",
+            "citation": "Microchip Methods in Diagnostics, 35-46, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18294416724933056319",
+        "cites_id": [
+            "18294416724933056319"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic sites hypersensitive to ultraviolet radiation",
+            "pub_year": "2019",
+            "citation": "Proceedings of the National Academy of Sciences 116 (48), 24196-24205, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:dhFuZR0502QC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17165444158147762636",
+        "cites_id": [
+            "17165444158147762636"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA copy number gains in head and neck squamous cell carcinoma",
+            "pub_year": "2006",
+            "citation": "Oncogene 25 (9), 1424-1433, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:qjMakFHDy7sC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12374582671091817300",
+        "cites_id": [
+            "12374582671091817300"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Age-associated disruption of molecular clock expression in skeletal muscle of the spontaneously hypertensive rat",
+            "pub_year": "2011",
+            "citation": "PloS one 6 (11), e27168, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:roLk4NBRz8UC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9626737800588061289",
+        "cites_id": [
+            "9626737800588061289"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantification of DNA methylation in electrofluidics chips (Bio-COBRA)",
+            "pub_year": "2006",
+            "citation": "Nature protocols 1 (1), 52-58, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17078036456183726137",
+        "cites_id": [
+            "17078036456183726137"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of a unique transgenic mouse line that develops megabladder, obstructive uropathy, and renal dysfunction",
+            "pub_year": "2007",
+            "citation": "Journal of the American Society of Nephrology 18 (2), 461-471, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=485147633851853278",
+        "cites_id": [
+            "485147633851853278"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Big results from small samples: evaluation of amplification protocols for gene expression profiling",
+            "pub_year": "2007",
+            "citation": "Journal of Biomolecular Techniques: JBT 18 (3), 150, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2029548983997922343",
+        "cites_id": [
+            "2029548983997922343"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene-resolution analysis of DNA copy number variation using oligonucleotide expression microarrays",
+            "pub_year": "2007",
+            "citation": "BMC genomics 8 (1), 1-13, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1198860116050072796",
+        "cites_id": [
+            "1198860116050072796"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The molecular mechanism of force generation in striated muscle",
+            "pub_year": "1970",
+            "citation": "Proceedings of the National Academy of Sciences 66 (4), 1199-1205, 1970"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:5nxA0vEk-isC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7026324981539069645",
+        "cites_id": [
+            "7026324981539069645"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional profiling of the megabladder mouse: a unique model of bladder dysmorphogenesis",
+            "pub_year": "2008",
+            "citation": "Developmental dynamics: an official publication of the American Association \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:ufrVoPGSRksC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18432521063393362815",
+        "cites_id": [
+            "18432521063393362815"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Triform algorithm: improved sensitivity and specificity in ChIP-Seq peak finding",
+            "pub_year": "2012",
+            "citation": "BMC bioinformatics 13 (1), 1-11, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7346183686357702411",
+        "cites_id": [
+            "7346183686357702411"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Physical principles of active transport and electrical excitability",
+            "pub_year": "1969",
+            "citation": "Biological membranes, 39-57, 1969"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9148263892412289426",
+        "cites_id": [
+            "9148263892412289426"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Living aggregates of non-living parts: a generalized statistical mechanical theory",
+            "pub_year": "1972",
+            "citation": "Progress in Theoretical Biology 2, 1-22, 1972"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17973385138027341897",
+        "cites_id": [
+            "17973385138027341897"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression profiling of the response to interferon-alpha immunotherapy",
+            "pub_year": "2004",
+            "citation": "Cancer Research 64 (7_Supplement), 1080-1081, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8792324451683574352",
+        "cites_id": [
+            "8792324451683574352"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cyclobutane Pyrimidine Dimer Hyperhotspots as Sensitive Indicators of Keratinocyte UV Exposure\u2020",
+            "pub_year": "2022",
+            "citation": "Photochemistry and Photobiology 98 (5), 987-997, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:-f6ydRqryjwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15337048097069800887",
+        "cites_id": [
+            "15337048097069800887"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effects of a phenylbutyrate-derived histone deacetylase inhibitor (HDAC-42) on acid-induced gene expression patterns of SEG-1 human esophageal adenocarcinoma cells",
+            "pub_year": "2006",
+            "citation": "Cancer Research 66 (8_Supplement), 1128-1129, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:WF5omc3nYNoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13625202149361191191",
+        "cites_id": [
+            "13625202149361191191"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Theory of Inherently Macroscopic Processes, with Application to Heat and Active Transport",
+            "pub_year": "1968",
+            "citation": "Nature 219 (5160), 1283-1284, 1968"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:4TOpqqG69KYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18422908710206713345",
+        "cites_id": [
+            "18422908710206713345"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modulation of apoptosis, cell cycle, and MAPK pathways in human SEG-1 esophageal cells by a cranberry extract.",
+            "pub_year": "2006",
+            "citation": "Cancer Epidemiology Biomarkers & Prevention 15 (12_Supplement), B102-B102, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:Se3iqnhoufwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18328324455168037704",
+        "cites_id": [
+            "18328324455168037704"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identifying genes involved in genetic predisposition to papillary thyroid carcinoma.",
+            "pub_year": "2001",
+            "citation": "American Journal of Human Genetics 69 (4), 264-264, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17181161987904746781",
+        "cites_id": [
+            "17181161987904746781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cation pump vs. Nernst potential",
+            "pub_year": "1973",
+            "citation": "The Journal of Membrane Biology 11, 195-196, 1973"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17711484558803626578",
+        "cites_id": [
+            "17711484558803626578"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heat, light and relativity",
+            "pub_year": "1970",
+            "citation": "International Journal of Theoretical Physics 3, 47-55, 1970"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:Zph67rFs4hoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3737685153849291398",
+        "cites_id": [
+            "3737685153849291398"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic UV-hypersensitive sites as sentinels for personal UV exposure",
+            "pub_year": "2020",
+            "citation": "CANCER PREVENTION RESEARCH 13 (7), 25-25, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Abstract PR01: Genomic UV-hypersensitive sites as sentinels for personal UV exposure",
+            "pub_year": "2020",
+            "citation": "Cancer Prevention Research 13 (7_Supplement), PR01-PR01, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Triform: peak finding in ChIP-Seq enrichment profiles for transcription factors",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:0EnyYjriUFMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel phenylbutyrate-derived histone deacetylase inhibitor, S-HDACi-42, mediates acid-associated gene expression changes in Barrett's esophageal adenocarcinoma cells",
+            "pub_year": "2007",
+            "citation": "ANNALS OF SURGICAL ONCOLOGY 14 (2), 77-77, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Basic Science Articles-Genetics and Development-Identification of a Unique Transgenic Mouse Line That Develops Megabladder, Obstructive Uropathy, and Renal Dysfunction",
+            "pub_year": "2007",
+            "citation": "Journal of the American Society of Nephrology 18 (2), 461-471, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histological Subtypes of Canine Lymphoma are Characterized by Unique Gene Expression Profiles",
+            "pub_year": "2005",
+            "citation": "Veterinary and Comparative Oncology 3 (1), 46-46, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplemental Experimental procedures",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation and Reduction of the Bias Caused by RNA Degradation in Microarray Analysis",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "1hw5bX4AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 0
+    }
+]

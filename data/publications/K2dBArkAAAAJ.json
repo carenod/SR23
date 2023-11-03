@@ -1,0 +1,3285 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MYB transcription factors in Arabidopsis",
+            "pub_year": "2010",
+            "citation": "Trends in plant science 15 (10), 573-581, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:8k81kl-MbHgC",
+        "num_citations": 2857,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=594823476594430647",
+        "cites_id": [
+            "594823476594430647"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The R2R3-MYB gene family in Arabidopsis thaliana",
+            "pub_year": "2001",
+            "citation": "Current opinion in plant biology 4 (5), 447-456, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 2153,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17525726170114316913",
+        "cites_id": [
+            "17525726170114316913"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genome of the mesopolyploid crop species Brassica rapa",
+            "pub_year": "2011",
+            "citation": "Nature genetics 43 (10), 1035-1039, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 2036,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8452296745448896827",
+        "cites_id": [
+            "8452296745448896827"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "bZIP transcription factors in Arabidopsis",
+            "pub_year": "2002",
+            "citation": "Trends in plant science 7 (3), 106-111, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 1913,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9553765024066454079",
+        "cites_id": [
+            "9553765024066454079"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The basic helix\u2013loop\u2013helix transcription factor family in plants: a genome-wide study of protein structure and functional diversity",
+            "pub_year": "2003",
+            "citation": "Molecular biology and evolution 20 (5), 735-747, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:qjMakFHDy7sC",
+        "num_citations": 1038,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1644915586683956211",
+        "cites_id": [
+            "1644915586683956211"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential regulation of closely related R2R3\u2010MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling",
+            "pub_year": "2007",
+            "citation": "The Plant Journal 50 (4), 660-677, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:WF5omc3nYNoC",
+        "num_citations": 1008,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4437898246767678941",
+        "cites_id": [
+            "4437898246767678941"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional repression by AtMYB4 controls production of UV-protecting sunscreens in Arabidopsis",
+            "pub_year": "2000",
+            "citation": "The EMBO journal 19 (22), 6150-6161, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 953,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12658199889287617433",
+        "cites_id": [
+            "12658199889287617433"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TT2, TT8, and TTG1 synergistically specify the expression of BANYULS and proanthocyanidin biosynthesis in Arabidopsis thaliana",
+            "pub_year": "2004",
+            "citation": "The Plant Journal 39 (3), 366-380, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 944,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15211872317359928255",
+        "cites_id": [
+            "15211872317359928255"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics",
+            "pub_year": "2003",
+            "citation": "Plant molecular biology 53, 247-259, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 881,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14243509764080821012",
+        "cites_id": [
+            "14243509764080821012"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comprehensive identification of Arabidopsis thaliana MYB transcription factors interacting with R/B\u2010like BHLH proteins",
+            "pub_year": "2004",
+            "citation": "The Plant Journal 40 (1), 22-34, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 823,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3838848412775690840",
+        "cites_id": [
+            "3838848412775690840"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis transcription factor MYB12 is a flavonol-specific regulator of phenylpropanoid biosynthesis",
+            "pub_year": "2005",
+            "citation": "Plant physiology 138 (2), 1083-1096, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 795,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12767485470528096719",
+        "cites_id": [
+            "12767485470528096719"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards functional characterisation of the members of the R2R3\u2010MYB gene family fromArabidopsis thaliana",
+            "pub_year": "1998",
+            "citation": "The Plant Journal 16 (2), 263-276, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 719,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6508725778172881166",
+        "cites_id": [
+            "6508725778172881166"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenylpropanoid biosynthesis and its regulation",
+            "pub_year": "1998",
+            "citation": "Current opinion in plant biology 1 (3), 251-257, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 588,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14165395554706543642",
+        "cites_id": [
+            "14165395554706543642"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genome of the recently domesticated crop plant sugar beet (Beta vulgaris)",
+            "pub_year": "2014",
+            "citation": "Nature 505 (7484), 546-549, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:eflP2zaiRacC",
+        "num_citations": 577,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7158663976128020180,9022925979344342625",
+        "cites_id": [
+            "7158663976128020180",
+            "9022925979344342625"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MYBL2 is a new regulator of flavonoid biosynthesis in Arabidopsis thaliana",
+            "pub_year": "2008",
+            "citation": "The Plant Journal 55 (6), 940-953, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 563,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4555183385034588812,3088793407346258345",
+        "cites_id": [
+            "4555183385034588812",
+            "3088793407346258345"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential combinatorial interactions of cis-acting elements recognized by R2R3-MYB, BZIP, and BHLH factors control light-responsive and tissue-specific \u2026",
+            "pub_year": "2005",
+            "citation": "Plant molecular biology 57, 155-171, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 457,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17885882346361859961",
+        "cites_id": [
+            "17885882346361859961"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The grapevine R2R3-MYB transcription factor VvMYBF1 regulates flavonol synthesis in developing grape berries",
+            "pub_year": "2009",
+            "citation": "Plant physiology 151 (3), 1513-1530, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:IWHjjKOFINEC",
+        "num_citations": 449,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8102827474326292031",
+        "cites_id": [
+            "8102827474326292031"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcription factor HIG1/MYB51 regulates indolic glucosinolate biosynthesis in Arabidopsis thaliana",
+            "pub_year": "2007",
+            "citation": "The Plant Journal 50 (5), 886-901, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:Se3iqnhoufwC",
+        "num_citations": 422,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6691636690700811292",
+        "cites_id": [
+            "6691636690700811292"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis bZIP transcription factor HY5 regulates expression of the PFG1/MYB12 gene in response to light and ultraviolet\u2010B radiation",
+            "pub_year": "2010",
+            "citation": "Plant, cell & environment 33 (1), 88-103, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 406,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6680908519238090527",
+        "cites_id": [
+            "6680908519238090527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GABI-Kat SimpleSearch: new features of the Arabidopsis thaliana T-DNA mutant database",
+            "pub_year": "2012",
+            "citation": "Nucleic acids research 40 (Database Issue), D1211-1215, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 395,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13523452694772391073",
+        "cites_id": [
+            "13523452694772391073"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FRU (BHLH029) is required for induction of iron mobilization genes in Arabidopsis thaliana",
+            "pub_year": "2004",
+            "citation": "FEBS letters 577 (3), 528-534, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:roLk4NBRz8UC",
+        "num_citations": 386,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4883958819674794639",
+        "cites_id": [
+            "4883958819674794639"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light\u2010inducible and constitutively expressed DNA\u2010binding proteins recognizing a plant promoter element with functional relevance in light responsiveness.",
+            "pub_year": "1991",
+            "citation": "The EMBO journal 10 (7), 1777-1786, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 359,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12517094117974720480",
+        "cites_id": [
+            "12517094117974720480"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Update on the Basic Helix-Loop-Helix Transcription Factor Gene Family in Arabidopsis thaliana",
+            "pub_year": "2003",
+            "citation": "The Plant Cell 15 (11), 2497-2502, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 346,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2335990997886993586",
+        "cites_id": [
+            "2335990997886993586"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AtMYB12 regulates caffeoyl quinic acid and flavonol synthesis in tomato: expression in fruit results in very high levels of both types of polyphenol",
+            "pub_year": "2008",
+            "citation": "The Plant Journal 56 (2), 316-326, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 326,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3479247357408026658",
+        "cites_id": [
+            "3479247357408026658"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genome of Xanthomonas campestris pv. campestris B100 and its use for the reconstruction of metabolic pathways involved in xanthan biosynthesis",
+            "pub_year": "2008",
+            "citation": "Journal of biotechnology 134 (1-2), 33-45, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:aqlVkmm33-oC",
+        "num_citations": 297,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=62768646076664960",
+        "cites_id": [
+            "62768646076664960"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large-Scale Identification and Analysis of Genome-Wide Single-Nucleotide Polymorphisms for Mapping in Arabidopsis thaliana",
+            "pub_year": "2003",
+            "citation": "Genome Research 13 (6), 1250-1257, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 283,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16241766028021610520,9153059126031500803",
+        "cites_id": [
+            "16241766028021610520",
+            "9153059126031500803"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of PRODUCTION OF FLAVONOL GLYCOSIDES\u2010dependent flavonol glycoside accumulation in Arabidopsis thaliana plants reveals MYB11\u2010, MYB12\u2010 and \u2026",
+            "pub_year": "2010",
+            "citation": "New Phytologist 188 (4), 985-1000, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:GnPB-g6toBAC",
+        "num_citations": 275,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15228703765221620197",
+        "cites_id": [
+            "15228703765221620197"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of the Arabidopsis thaliana flavonoid 3'-hydroxylase gene and functional expression of the encoded P450 enzyme",
+            "pub_year": "2000",
+            "citation": "Walter de Gruyter 381 (8), 749-753, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 259,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12532668185380028767",
+        "cites_id": [
+            "12532668185380028767"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Iron deficiency-mediated stress regulation of four subgroup Ib BHLH genes in Arabidopsis thaliana",
+            "pub_year": "2007",
+            "citation": "Planta 226, 897-908, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 250,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10286104878945915034",
+        "cites_id": [
+            "10286104878945915034"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A. thaliana TRANSPARENT TESTA 1 is involved in seed coat development and defines the WIP subfamily of plant zinc finger proteins",
+            "pub_year": "2002",
+            "citation": "Genes & development 16 (1), 138-149, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:5nxA0vEk-isC",
+        "num_citations": 248,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5782240730423306719",
+        "cites_id": [
+            "5782240730423306719"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Knock-out mutants from an En-1 mutagenized Arabidopsis thaliana population generate phenylpropanoid biosynthesis phenotypes",
+            "pub_year": "1998",
+            "citation": "Proceedings of the National Academy of Sciences 95 (21), 12432-12437, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 243,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10127194988706754768",
+        "cites_id": [
+            "10127194988706754768"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Multilocus Sequence Survey in Arabidopsis thaliana Reveals a Genome-Wide Departure From a Neutral Model of DNA Sequence Polymorphism",
+            "pub_year": "2005",
+            "citation": "Genetics 169 (3), 1601-1615, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 233,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12030445913728632349,17446261981475132757",
+        "cites_id": [
+            "12030445913728632349",
+            "17446261981475132757"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant genome sequencing\u2014applications for crop improvement",
+            "pub_year": "2014",
+            "citation": "Current opinion in biotechnology 26, 31-37, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:LPZeul_q3PIC",
+        "num_citations": 217,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12575074129255353962",
+        "cites_id": [
+            "12575074129255353962"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complete Genome Sequence and Analysis of the Multiresistant Nosocomial Pathogen Corynebacterium jeikeium K411, a Lipid-Requiring Bacterium of the Human \u2026",
+            "pub_year": "2005",
+            "citation": "Journal of bacteriology 187 (13), 4671-4682, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:0EnyYjriUFMC",
+        "num_citations": 212,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16301102042093049489",
+        "cites_id": [
+            "16301102042093049489"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PcMYB1, a novel plant protein containing a DNA\u2010binding domain with one MYB repeat, interacts in vivo with a light\u2010regulatory promoter unit",
+            "pub_year": "1997",
+            "citation": "The Plant Journal 11 (5), 1079-1093, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 202,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1942912204492951988",
+        "cites_id": [
+            "1942912204492951988"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of UV/blue light-response elements in the Arabidopsis thaliana chalcone synthase promoter using a homologous protoplast transient expression system",
+            "pub_year": "1998",
+            "citation": "Plant Molecular Biology 36, 741-754, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:UebtZRa9Y70C",
+        "num_citations": 199,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5790920998749609117",
+        "cites_id": [
+            "5790920998749609117"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Function search in a large transcription factor gene family in Arabidopsis: assessing the potential of reverse genetics to identify insertional mutations in R2R3 MYB genes",
+            "pub_year": "1999",
+            "citation": "The plant cell 11 (10), 1827-1840, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:ufrVoPGSRksC",
+        "num_citations": 195,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16959337553784975371",
+        "cites_id": [
+            "16959337553784975371"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Toward the identification and regulation of the              Arabidopsis thaliana              ABI3 regulon",
+            "pub_year": "2012",
+            "citation": "Nucleic acids research 40 (17), 8240-8254, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:u_35RYKgDlwC",
+        "num_citations": 176,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12153410396985713108",
+        "cites_id": [
+            "12153410396985713108"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of a pseudo-response regulator gene in life cycle adaptation and domestication of beet",
+            "pub_year": "2012",
+            "citation": "Current Biology 22 (12), 1095-1101, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 153,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9577436674062750179",
+        "cites_id": [
+            "9577436674062750179"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis Thylakoid Protein PAM68 Is Required for Efficient D1 Biogenesis and Photosystem II Assembly",
+            "pub_year": "2010",
+            "citation": "The plant cell 22 (10), 3439-3460, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:k_IJM867U9cC",
+        "num_citations": 152,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11870274686221566347",
+        "cites_id": [
+            "11870274686221566347"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transactivation properties of parsley proline\u2010rich bZIP transcription factors",
+            "pub_year": "2000",
+            "citation": "The Plant Journal 22 (1), 1-8, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 151,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18440898156299513899",
+        "cites_id": [
+            "18440898156299513899"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A              trans             -splicing group I intron and tRNA-hyperediting in the mitochondrial genome of the lycophyte              Isoetes engelmannii",
+            "pub_year": "2009",
+            "citation": "Nucleic acids research 37 (15), 5093-5104, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:dhFuZR0502QC",
+        "num_citations": 150,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15897954066062930850",
+        "cites_id": [
+            "15897954066062930850"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Homodimeric and heterodimeric leucine zipper proteins and nuclear factors from parsley recognize diverse promoter elements with ACGT cores.",
+            "pub_year": "1992",
+            "citation": "The Plant Cell 4 (5), 525-537, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 149,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17480659412737540897",
+        "cites_id": [
+            "17480659412737540897"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "c\u2010MYB oncogene\u2010like genes encoding three MYB repeats occur in all major plant lineages",
+            "pub_year": "2000",
+            "citation": "The Plant Journal 21 (2), 231-235, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:4DMP91E08xMC",
+        "num_citations": 139,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9770092932638266738",
+        "cites_id": [
+            "9770092932638266738"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Elongation\u2010related functions of LEAFY COTYLEDON1 during the development of Arabidopsis thaliana",
+            "pub_year": "2012",
+            "citation": "The Plant Journal 71 (3), 427-442, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:M05iB0D1s5AC",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8313402084735317268",
+        "cites_id": [
+            "8313402084735317268"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploiting single-molecule transcript sequencing for eukaryotic gene prediction",
+            "pub_year": "2015",
+            "citation": "Genome biology 16, 1-13, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:9vf0nzSNQJEC",
+        "num_citations": 134,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10835231366084024946",
+        "cites_id": [
+            "10835231366084024946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polyubiquitin gene expression and structural properties of the ubi4-2 gene in Petroselinum crispum",
+            "pub_year": "1993",
+            "citation": "Plant molecular biology 21, 673-684, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:_kc_bZDykSQC",
+        "num_citations": 130,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5848846381313141346",
+        "cites_id": [
+            "5848846381313141346"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SNP frequency and allelic haplotype structure of Beta vulgaris expressed genes",
+            "pub_year": "2001",
+            "citation": "Molecular Breeding 8, 63-74, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:Zph67rFs4hoC",
+        "num_citations": 127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13806972185775984655",
+        "cites_id": [
+            "13806972185775984655"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome\u2010scale Arabidopsis promoter array identifies targets of the histone acetyltransferase GCN5",
+            "pub_year": "2008",
+            "citation": "The Plant Journal 56 (3), 493-504, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:HDshCWvjkbEC",
+        "num_citations": 124,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10352335189305559321",
+        "cites_id": [
+            "10352335189305559321"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Candidate genes within a 143 kb region of the flower sex locus in Vitis",
+            "pub_year": "2012",
+            "citation": "Molecular Genetics and Genomics 287, 247-259, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:yD5IFk8b50cC",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17436862284535559091",
+        "cites_id": [
+            "17436862284535559091"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole-Genome Sequence of Listeria welshimeri Reveals Common Steps in Genome Reduction with Listeria innocua as Compared to Listeria monocytogenes",
+            "pub_year": "2006",
+            "citation": "Journal of Bacteriology 188 (21), 7405-7415, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16777327752372147153",
+        "cites_id": [
+            "16777327752372147153"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase",
+            "pub_year": "2009",
+            "citation": "Planta 229, 427-445, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2090687705436665759",
+        "cites_id": [
+            "2090687705436665759"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Update on transparent testa mutants from Arabidopsis thaliana: characterisation of new alleles from an isogenic collection",
+            "pub_year": "2014",
+            "citation": "Planta 240, 955-970, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:1qzjygNMrQYC",
+        "num_citations": 114,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12101383405481534505",
+        "cites_id": [
+            "12101383405481534505"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Establishment of a high\u2010efficiency SNP\u2010based framework marker set for Arabidopsis",
+            "pub_year": "2003",
+            "citation": "The Plant Journal 36 (1), 122-140, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 114,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7393951725610518197",
+        "cites_id": [
+            "7393951725610518197"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A unique transcriptome: 1782 positions of RNA editing alter 1406 codon identities in mitochondrial mRNAs of the lycophyte Isoetes engelmannii",
+            "pub_year": "2011",
+            "citation": "Nucleic Acids Research 39 (7), 2890-2902, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1829799593347461196",
+        "cites_id": [
+            "1829799593347461196"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeted identification of short interspersed nuclear element families shows their widespread existence and extreme heterogeneity in plant genomes",
+            "pub_year": "2011",
+            "citation": "The Plant Cell 23 (9), 3117-3128, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9110705555840045722",
+        "cites_id": [
+            "9110705555840045722"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative Genomics and Regulatory Evolution: Conservation and Function of the Chs and Apetala3 Promoters",
+            "pub_year": "2001",
+            "citation": "Molecular Biology and Evolution 18 (10), 1882-1891, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6009246148149452423",
+        "cites_id": [
+            "6009246148149452423"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional analysis of a light-responsive plant bZIP transcriptional regulator.",
+            "pub_year": "1994",
+            "citation": "The Plant Cell 6 (11), 1607-1621, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:4TOpqqG69KYC",
+        "num_citations": 106,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7856539470670796216,1797170370090338600",
+        "cites_id": [
+            "7856539470670796216",
+            "1797170370090338600"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide identification and characterisation of R2R3-MYB genes in sugar beet (Beta vulgaris)",
+            "pub_year": "2014",
+            "citation": "BMC Plant Biology 14 (1), 1-17, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:HE397vMXCloC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2956845872869504050",
+        "cites_id": [
+            "2956845872869504050"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leucoanthocyanidin dioxygenase in Arabidopsis thaliana: characterization of mutant alleles and regulation by MYB\u2013BHLH\u2013TTG1 transcription factor complexes",
+            "pub_year": "2011",
+            "citation": "Gene 484 (1-2), 61-68, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:rO6llkc54NcC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1344713436997045624",
+        "cites_id": [
+            "1344713436997045624"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The lifestyle of Corynebacterium urealyticum derived from its complete genome sequence established by pyrosequencing",
+            "pub_year": "2008",
+            "citation": "Journal of biotechnology 136 (1-2), 11-21, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:hC7cP41nSMkC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14795609035780314641",
+        "cites_id": [
+            "14795609035780314641"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolation and linkage analysis of expressed disease-resistance gene analogues of sugar beet (Beta vulgaris L.)",
+            "pub_year": "2003",
+            "citation": "Genome 46 (1), 70-82, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6077928684608649163",
+        "cites_id": [
+            "6077928684608649163"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A WD40-repeat gene from Malus \u00d7 domestica is a functional homologue of Arabidopsis thaliana TRANSPARENT TESTA GLABRA1",
+            "pub_year": "2010",
+            "citation": "Plant cell reports 29, 285-294, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7414791485946056055",
+        "cites_id": [
+            "7414791485946056055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Iron assimilation and transcription factor controlled synthesis of riboflavin in plants",
+            "pub_year": "2007",
+            "citation": "Planta 226, 147-158, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:-f6ydRqryjwC",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7251611240671270778",
+        "cites_id": [
+            "7251611240671270778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TRANSPARENT TESTA1 interacts with R2R3\u2010MYB factors and affects early and late steps of flavonoid biosynthesis in the endothelium of Arabidopsis thaliana seeds",
+            "pub_year": "2011",
+            "citation": "The Plant Journal 67 (3), 406-419, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:a0OBvERweLwC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18041328868555369627",
+        "cites_id": [
+            "18041328868555369627"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GABI-Kat SimpleSearch: a flanking sequence tag (FST) database for the identification of T-DNA insertion mutants in Arabidopsis thaliana",
+            "pub_year": "2003",
+            "citation": "Bioinformatics 19 (11), 1441-1442, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15983749400035701576",
+        "cites_id": [
+            "15983749400035701576"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "T-DNA\u2013mediated transfer of Agrobacterium tumefaciens chromosomal DNA into plants",
+            "pub_year": "2008",
+            "citation": "Nature Biotechnology 26 (9), 1015-1017, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7800872195850322154",
+        "cites_id": [
+            "7800872195850322154"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes",
+            "pub_year": "2007",
+            "citation": "Theoretical and Applied Genetics 115, 601-615, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:mB3voiENLucC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5312763707169690752",
+        "cites_id": [
+            "5312763707169690752"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The structural features of thousands of T-DNA insertion sites are consistent with a double-strand break repair-based insertion mechanism",
+            "pub_year": "2015",
+            "citation": "Molecular Plant 8 (11), 1651-1664, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:SdhP9T11ey4C",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=929632538391498109",
+        "cites_id": [
+            "929632538391498109"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis thaliana expresses a second functional flavonol synthase",
+            "pub_year": "2009",
+            "citation": "FEBS letters 583 (12), 1981-1986, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:RGFaLdJalmkC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8275445279370952187",
+        "cites_id": [
+            "8275445279370952187"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoter elements of the mustard CHS1 gene are sufficient for light regulation in transgenic plants",
+            "pub_year": "1995",
+            "citation": "Plant Molecular Biology 28, 219-229, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17427955687206515810",
+        "cites_id": [
+            "17427955687206515810"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CPRF4a, a novel plant bZIP protein of the CPRF family: comparative analyses of light-dependent expression, post-transcriptional regulation, nuclear import and heterodimerisation",
+            "pub_year": "1998",
+            "citation": "Molecular and General Genetics MGG 257, 595-605, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9814527211803354112",
+        "cites_id": [
+            "9814527211803354112"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural variation in flavonol accumulation in Arabidopsis is determined by the flavonol glucosyltransferase BGLU6",
+            "pub_year": "2016",
+            "citation": "Journal of experimental botany 67 (5), 1505-1517, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:VL0QpB8kHFEC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12510625121643984444",
+        "cites_id": [
+            "12510625121643984444"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ReadXplorer 2\u2014detailed read mapping analysis and visualization from one single source",
+            "pub_year": "2016",
+            "citation": "Bioinformatics 32 (24), 3702-3708, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:tKAzc9rXhukC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2863085427614433106",
+        "cites_id": [
+            "2863085427614433106"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ultrafast pyrosequencing of Corynebacterium kroppenstedtii DSM44385 revealed insights into the physiology of a lipophilic corynebacterium that lacks mycolic acids",
+            "pub_year": "2008",
+            "citation": "Journal of biotechnology 136 (1-2), 22-30, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2061217121412867976",
+        "cites_id": [
+            "2061217121412867976"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TRANSPARENT TESTA 13 is a tonoplast P3A\u2010ATPase required for vacuolar deposition of proanthocyanidins in Arabidopsis thaliana seeds",
+            "pub_year": "2015",
+            "citation": "The Plant Journal 82 (5), 840-849, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:_B80troHkn4C",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6906452709513308632",
+        "cites_id": [
+            "6906452709513308632"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A systematic survey in Arabidopsis thaliana of transcription factors that modulate circadian parameters",
+            "pub_year": "2008",
+            "citation": "BMC genomics 9 (1), 1-13, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:isC4tDSrTZIC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14596039732717856470",
+        "cites_id": [
+            "14596039732717856470"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions",
+            "pub_year": "2007",
+            "citation": "Nucleic Acids Research 35 (suppl_1), D874-D878, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:TQgYirikUcIC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5236258924283442980",
+        "cites_id": [
+            "5236258924283442980"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reactivation of the methylation-inactivated late E2A promoter of adenovirus type 2 by E1A (13 S) functions",
+            "pub_year": "1988",
+            "citation": "Journal of molecular biology 202 (2), 255-270, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5216323959001334437",
+        "cites_id": [
+            "5216323959001334437"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Construction of a \u2018unigene\u2019cDNA clone set by oligonucleotide fingerprinting allows access to 25 000 potential sugar beet genes",
+            "pub_year": "2002",
+            "citation": "The Plant Journal 32 (5), 845-857, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:qUcmZB5y_30C",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3112678767020117023",
+        "cites_id": [
+            "3112678767020117023"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop wild relative populations of Beta vulgaris allow direct mapping of agronomically important genes",
+            "pub_year": "2017",
+            "citation": "Nature communications 8 (1), 15708, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:z_wVstp3MssC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18133133653619532482",
+        "cites_id": [
+            "18133133653619532482"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fast forward genetics to identify mutations causing a high light tolerant phenotype in Chlamydomonas reinhardtii by whole-genome-sequencing",
+            "pub_year": "2015",
+            "citation": "BMC genomics 16, 1-15, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:Y5dfb0dijaUC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6990841371236750163",
+        "cites_id": [
+            "6990841371236750163"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression analysis of flavonoid biosynthesis genes during Arabidopsis thaliana silique and seed development with a primary focus on the proanthocyanidin biosynthetic pathway",
+            "pub_year": "2010",
+            "citation": "BMC research notes 3 (1), 1-12, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12312196112780256720",
+        "cites_id": [
+            "12312196112780256720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving \u2026",
+            "pub_year": "2007",
+            "citation": "BMC genomics 8 (1), 1-13, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18408132971392133213",
+        "cites_id": [
+            "18408132971392133213"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A simplified method for the analysis of transcription factor\u2013promoter interactions that allows high\u2010throughput data generation",
+            "pub_year": "2007",
+            "citation": "The Plant Journal 50 (5), 911-916, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17134109135509050736",
+        "cites_id": [
+            "17134109135509050736"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GABI\u2010DUPLO: a collection of double mutants to overcome genetic redundancy in Arabidopsis thaliana",
+            "pub_year": "2013",
+            "citation": "The Plant Journal 75 (1), 157-171, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:WbkHhVStYXYC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3801932417446855063",
+        "cites_id": [
+            "3801932417446855063"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Palaeohexaploid ancestry for Caryophyllales inferred from extensive gene\u2010based physical and genetic mapping of the sugar beet genome (Beta vulgaris)",
+            "pub_year": "2012",
+            "citation": "The Plant Journal 70 (3), 528-540, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:ldfaerwXgEUC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4875396952214512734",
+        "cites_id": [
+            "4875396952214512734"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two differentially expressed MATE factor genes from apple complement the Arabidopsis transparent testa12 mutant",
+            "pub_year": "2011",
+            "citation": "Plant Biology 13 (1), 42-50, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16881088121404738723",
+        "cites_id": [
+            "16881088121404738723"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of T-DNA insertion site distribution patterns in Arabidopsis thaliana reveals special features of genes without insertions",
+            "pub_year": "2006",
+            "citation": "Genomics 87 (5), 645-652, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9391087176680913436",
+        "cites_id": [
+            "9391087176680913436"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A De Novo Genome Sequence Assembly of the Arabidopsis thaliana Accession Niederzenz-1 Displays Presence/Absence Variation and Strong Synteny",
+            "pub_year": "2016",
+            "citation": "PLoS One 11 (10), e0164321, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:tzM49s52ZIMC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1725561441244563931",
+        "cites_id": [
+            "1725561441244563931"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "QTL analysis of flowering time and ripening traits suggests an impact of a genomic region on linkage group 1 in Vitis",
+            "pub_year": "2014",
+            "citation": "Theoretical and Applied Genetics 127, 1857-1872, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:bnK-pcrLprsC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11646880067860695881",
+        "cites_id": [
+            "11646880067860695881"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High Contiguity de novo Genome Sequence Assembly of Trifoliate Yam (Dioscorea dumetorum) Using Long Read Sequencing",
+            "pub_year": "2020",
+            "citation": "Genes 11 (3), 274, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:Dip1O2bNi0gC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8556587097392087337",
+        "cites_id": [
+            "8556587097392087337"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Weird fingers: functional analysis of WIP domain proteins",
+            "pub_year": "2010",
+            "citation": "FEBS letters 584 (14), 3116-3122, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1276674257754275098",
+        "cites_id": [
+            "1276674257754275098"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LucTrap vectors are tools to generate luciferase fusions for the quantification of transcript and protein abundance in vivo",
+            "pub_year": "2006",
+            "citation": "Plant Physiology 141 (1), 3-14, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:blknAaTinKkC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11997261188637394710",
+        "cites_id": [
+            "11997261188637394710"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A chromosome-level sequence assembly reveals the structure of the Arabidopsis thaliana Nd-1 genome and its gene set",
+            "pub_year": "2019",
+            "citation": "PLoS One 14 (5), e0216233, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:BUYA1_V_uYcC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3164353354540101607",
+        "cites_id": [
+            "3164353354540101607"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput generation of sequence indexes from T-DNA mutagenized Arabidopsis thaliana lines",
+            "pub_year": "2003",
+            "citation": "Biotechniques 35 (6), 1164-1168, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:r0BpntZqJG4C",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10885204912274849122",
+        "cites_id": [
+            "10885204912274849122"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large scale genomic rearrangements in selected Arabidopsis thaliana T-DNA lines are caused by T-DNA insertion mutagenesis",
+            "pub_year": "2021",
+            "citation": "BMC Genomics 22, 599, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:anf4URPfarAC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2368881694970259843",
+        "cites_id": [
+            "2368881694970259843"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Construction and characterization of a sugar beet (Beta vulgaris) fosmid library",
+            "pub_year": "2008",
+            "citation": "Genome 51 (11), 948-951, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4494473197495346329",
+        "cites_id": [
+            "4494473197495346329"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SMRT sequencing only de novo assembly of the sugar beet (Beta vulgaris) chloroplast genome",
+            "pub_year": "2015",
+            "citation": "Bmc Bioinformatics 16 (1), 1-10, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:5awf1xo2G04C",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8939284447372627283",
+        "cites_id": [
+            "8939284447372627283"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diversity of a Complex Centromeric Satellite and Molecular Characterization of Dispersed Sequence Families in Sugar Beet (Beta vulgaris)",
+            "pub_year": "2008",
+            "citation": "Annals of botany 102 (4), 521-530, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:hMod-77fHWUC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14836333999747281072",
+        "cites_id": [
+            "14836333999747281072"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulatory elements required for light-mediated expression of the Petroselinum crispum chalcone synthase gene",
+            "pub_year": "1991",
+            "citation": "Proceedings of the Society for Experimental Biology and Medicine 45 (6), 1991"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11474302511998181045,14281116475614817069",
+        "cites_id": [
+            "11474302511998181045",
+            "14281116475614817069"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of tonoplast P\u2010ATP ase transporters involved in vacuolar acidification",
+            "pub_year": "2016",
+            "citation": "New Phytologist 211 (3), 1092-1107, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:hkOj_22Ku90C",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1019419366430641871",
+        "cites_id": [
+            "1019419366430641871"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of tt15, a novel transparent testa mutant of Arabidopsis thaliana (L.) Heynh.",
+            "pub_year": "1999",
+            "citation": "Planta 208, 352-357, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1382383757401705895",
+        "cites_id": [
+            "1382383757401705895"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Highly diverse chromoviruses of Beta vulgaris are classified by chromodomains and chromosomal integration",
+            "pub_year": "2013",
+            "citation": "Mobile DNA 4, 1-16, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:u9iWguZQMMsC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3114673572990563780",
+        "cites_id": [
+            "3114673572990563780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EST sequencing, annotation and macroarray transcriptome analysis identify preferentially root-expressed genes in sugar beet",
+            "pub_year": "2002",
+            "citation": "Plant Biology 4 (06), 700-710, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:Fu2w8maKXqMC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17892216663466577124",
+        "cites_id": [
+            "17892216663466577124"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic profiling of heterochromatic satellite DNA",
+            "pub_year": "2011",
+            "citation": "Chromosoma 120 (4), 409-422, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12445430870251024230",
+        "cites_id": [
+            "12445430870251024230"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of a c0t-1 library enables the targeted identification of minisatellite and satellite families in Beta vulgaris",
+            "pub_year": "2010",
+            "citation": "BMC Plant Biology 10 (1), 1-14, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:35N4QoGY0k4C",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3169868042662060050",
+        "cites_id": [
+            "3169868042662060050"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Profiling of extensively diversified plant LINE s reveals distinct plant\u2010specific subclades",
+            "pub_year": "2014",
+            "citation": "The Plant Journal 79 (3), 385-397, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:kRWSkSYxWN8C",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3560441005006193001",
+        "cites_id": [
+            "3560441005006193001"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The R2R3-MYB gene family in banana (Musa acuminata): Genome-wide identification, classification and expression patterns.",
+            "pub_year": "2020",
+            "citation": "PLoS One 15 (10), e0239275, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:86PQX7AUzd4C",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13844215538779290784",
+        "cites_id": [
+            "13844215538779290784"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complete Genome Sequence of Listeria seeligeri, a Nonpathogenic Member of the Genus Listeria",
+            "pub_year": "2010",
+            "citation": "Journal of bacteriology 192 (5), 1473-1474, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8909413837175054983",
+        "cites_id": [
+            "8909413837175054983"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Repeat Composition of CenH3-chromatin and H3K9me2-marked heterochromatin in Sugar Beet (Beta vulgaris)",
+            "pub_year": "2016",
+            "citation": "BMC plant biology 16, 1-16, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:dQ2og3OwTAUC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9121589042702063267",
+        "cites_id": [
+            "9121589042702063267"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diversification, evolution and methylation of short interspersed nuclear element families in sugar beet and related Amaranthaceae species",
+            "pub_year": "2016",
+            "citation": "The Plant Journal 85 (2), 229-244, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:ye4kPcJQO24C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6077562182918972051",
+        "cites_id": [
+            "6077562182918972051"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcriptional regulatorCPRF1: expression analysis and gene structure",
+            "pub_year": "1996",
+            "citation": "Molecular and General Genetics MGG 251, 619-627, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11377556349681207285",
+        "cites_id": [
+            "11377556349681207285"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid gene identification in sugar beet using deep sequencing of DNA from phenotypic pools selected from breeding panels",
+            "pub_year": "2016",
+            "citation": "BMC genomics 17, 236, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:PR6Y55bgFSsC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14256006267432106168",
+        "cites_id": [
+            "14256006267432106168"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Double Msp I RFLP in the human LDL receptor gene.",
+            "pub_year": "1987",
+            "citation": "Nucleic acids research 15 (9), 3943, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:TFP_iSt0sucC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7498639168561448060",
+        "cites_id": [
+            "7498639168561448060"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoter inactivation or inhibition by sequence-specific methylation and mechanisms of reactivation",
+            "pub_year": "1989",
+            "citation": "Cell biophysics 15, 21-27, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11021237031689724517",
+        "cites_id": [
+            "11021237031689724517"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An abundant and heavily truncated non-LTR retrotransposon (LINE) family in Beta vulgaris",
+            "pub_year": "2009",
+            "citation": "Plant molecular biology 71, 585-597, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17886049274147716528",
+        "cites_id": [
+            "17886049274147716528"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high frequency mutation starts sexual reproduction in Volvox carteri",
+            "pub_year": "1984",
+            "citation": "Zeitschrift f\u00fcr Naturforschung C 39 (11-12), 1159-1162, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:kzcrU_BdoSEC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14280648936298268532,12535552852804575821",
+        "cites_id": [
+            "14280648936298268532",
+            "12535552852804575821"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating bioinformatic resources to predict transcription factors interacting with cis-sequences conserved in co-regulated genes",
+            "pub_year": "2014",
+            "citation": "BMC genomics 15 (1), 1-17, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4013838699916296758",
+        "cites_id": [
+            "4013838699916296758"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary reshuffling in the Errantivirus lineage Elbe within the Beta vulgaris genome",
+            "pub_year": "2012",
+            "citation": "The Plant Journal 72 (4), 636-651, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7939810898646297375",
+        "cites_id": [
+            "7939810898646297375"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid diagnosis of familial defective apolipoprotein B-100",
+            "pub_year": "1991",
+            "citation": "Walter de Gruyter, Berlin/New York 29 (6), 395-400, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5822160326314046961",
+        "cites_id": [
+            "5822160326314046961"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoter inhibition by DNA methylation: a reversible signal",
+            "pub_year": "1988",
+            "citation": "Gene 74 (1), 129-133, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:BqipwSGYUEgC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12834156898799370400,1193509658164780662",
+        "cites_id": [
+            "12834156898799370400",
+            "1193509658164780662"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transition to flowering in winter rapeseed during vernalization",
+            "pub_year": "2021",
+            "citation": "Plant, Cell & Environment 44 (2), 506-518, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:hCrLmN-GePgC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16078545849895145557",
+        "cites_id": [
+            "16078545849895145557"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Consideration of non-canonical splice sites improves gene prediction on the Arabidopsis thaliana Niederzenz-1 genome sequence",
+            "pub_year": "2017",
+            "citation": "BMC Research Notes 10 (1), 1-6, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:nrtMV_XWKgEC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11232414780165599142",
+        "cites_id": [
+            "11232414780165599142"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequence of a histone H2A cDNA from parsley.",
+            "pub_year": "1990",
+            "citation": "Nucleic acids research 18 (19), 5897, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:maZDTaKrznsC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2967484556773452319",
+        "cites_id": [
+            "2967484556773452319"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arrangement and expression of integrated adenovirus type 12 DNA in the transformed hamster cell line HA12/7: amplification of Ad12 and c-myc DNAs and evidence for hybrid viral \u2026",
+            "pub_year": "1989",
+            "citation": "Virus research 13 (2), 113-128, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8798475346202571438",
+        "cites_id": [
+            "8798475346202571438"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reliable in silico identification of sequence polymorphisms and their application for extending the genetic map of sugar beet (Beta vulgaris)",
+            "pub_year": "2014",
+            "citation": "PLoS One 9 (10), e110113, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:WA5NYHcadZ8C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12395464202683061699",
+        "cites_id": [
+            "12395464202683061699"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The AtMYB12 activation domain maps to a short C-terminal region of the transcription factor",
+            "pub_year": "2017",
+            "citation": "Zeitschrift f\u00fcr Naturforschung C, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:35r97b3x0nAC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16082936728730382772",
+        "cites_id": [
+            "16082936728730382772"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The CHH motif in sugar beet satellite DNA: a modulator for cytosine methylation",
+            "pub_year": "2014",
+            "citation": "The Plant Journal 78 (6), 937-950, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:q3oQSFYPqjQC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10472568845324242933",
+        "cites_id": [
+            "10472568845324242933"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular analysis of Arabidopsis thaliana transparent testa (tt) genes in Brassica napus",
+            "pub_year": "2003",
+            "citation": "11th International Rapeseed Congress Copenhagen (2003) 1 (BP3.12), 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:tkaPQYYpVKoC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6491293763423911572",
+        "cites_id": [
+            "6491293763423911572"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two distinct cis-acting elements are involved in light-dependent activation of the pea elip promoter",
+            "pub_year": "1994",
+            "citation": "Molecular and General Genetics MGG 245, 371-379, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:lSLTfruPkqcC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14442786829611122247",
+        "cites_id": [
+            "14442786829611122247"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of the Brassica napus flavonol synthase gene family reveals bifunctional flavonol synthases",
+            "pub_year": "2021",
+            "citation": "Frontiers in Plant Science 12, 733762, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:_FM0Bhl9EiAC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2584375586113831237",
+        "cites_id": [
+            "2584375586113831237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Twenty-Five Years of Propagation in Suspension Cell Culture Results in Substantial Alterations of the Arabidopsis Thaliana Genome",
+            "pub_year": "2019",
+            "citation": "Genes 10 (9), 671, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:TIZ-Mc8IlK0C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18001185992651578679,14954670825821266972",
+        "cites_id": [
+            "18001185992651578679",
+            "14954670825821266972"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Survey of sugar beet (Beta vulgaris L.) hAT transposons and MITE-like hATpin derivatives",
+            "pub_year": "2012",
+            "citation": "Plant molecular biology 78, 393-405, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:P5F9QuxV20EC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10082213510814766872",
+        "cites_id": [
+            "10082213510814766872"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional characterisation of banana (Musa spp.) 2-oxoglutarate- dependent dioxygenases involved in flavonoid biosynthesis",
+            "pub_year": "2021",
+            "citation": "Frontiers in Plant Science 12, 701780, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:0izLItjtcgwC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8323082447209256825",
+        "cites_id": [
+            "8323082447209256825"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analyzing synthetic promoters using Arabidopsis protoplasts",
+            "pub_year": "2016",
+            "citation": "Plant Synthetic Promoters: Methods and Protocols, 67-81, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:NJ774b8OgUMC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13832203507146698906",
+        "cites_id": [
+            "13832203507146698906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Familial defective apolipoprotein B-100 in 12 subjects and their kindred",
+            "pub_year": "1992",
+            "citation": "Walter de Gruyter, Berlin/New York 30 (11), 729-736, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1129988591889216740",
+        "cites_id": [
+            "1129988591889216740"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel, robust and mating-competent Chlamydomonas reinhardtii strain with an enhanced transgene expression capacity for algal biotechnology",
+            "pub_year": "2021",
+            "citation": "Biotechnology Reports 31, e00644, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:GtLg2Ama23sC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13423624637102094691",
+        "cites_id": [
+            "13423624637102094691"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome Sequencing of Musa acuminata Dwarf Cavendish Reveals a Duplication of a Large Segment of Chromosome 2",
+            "pub_year": "2020",
+            "citation": "G3: Genes, Genomes, Genetics 10 (1), 37-42, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:hMsQuOkrut0C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15203983777207898728,8872779301745800491",
+        "cites_id": [
+            "15203983777207898728",
+            "8872779301745800491"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An easy-to-use primer design tool to address paralogous loci and T-DNA insertion sites in the genome of Arabidopsis thaliana",
+            "pub_year": "2014",
+            "citation": "Plant Methods 10, 1-10, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:olpn-zPbct0C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7958229189957980407",
+        "cites_id": [
+            "7958229189957980407"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput identification of genetic markers using representational oligonucleotide microarray analysis",
+            "pub_year": "2010",
+            "citation": "Theoretical and applied genetics 121, 549-565, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1369886526020870840",
+        "cites_id": [
+            "1369886526020870840"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomic analysis of temporal shifts in berry development between two grapevine cultivars of the Pinot family reveals potential genes controlling ripening time",
+            "pub_year": "2021",
+            "citation": "BMC Plant Biology 21, 327, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:LO7wyVUgiFcC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5756144624780217",
+        "cites_id": [
+            "5756144624780217"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chloroplast Genome Sequence of Arabidopsis thaliana Accession Landsberg erecta, Assembled from Single-Molecule, Real-Time Sequencing Data",
+            "pub_year": "2016",
+            "citation": "Genome Announcements 4 (5), 10.1128/genomea. 00975-16, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:7T2F9Uy0os0C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2073642192621862822",
+        "cites_id": [
+            "2073642192621862822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Eucaryotic gene inactivation by sequence-specific promoter methylation and the release of the transcription block",
+            "pub_year": "1988",
+            "citation": "Architecture of eukaryotic genes, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:70eg2SAEIzsC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12154081295938729319",
+        "cites_id": [
+            "12154081295938729319"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Partially Phase-Separated Genome Sequence Assembly of the Vitis Rootstock \u2018B\u00f6rner\u2019 (Vitis riparia \u00d7 Vitis cinerea) and Its Exploitation for Marker Development \u2026",
+            "pub_year": "2020",
+            "citation": "Frontiers in plant science 11, 156, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:-FonjvnnhkoC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8833545362658620209",
+        "cites_id": [
+            "8833545362658620209"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional and evolutionary analysis of the Arabidopsis 4R-MYB protein SNAPc4 as part of the SNAP complex",
+            "pub_year": "2021",
+            "citation": "Plant Physiology 185 (3), 1002\u20131020, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:YohjEiUPhakC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12314908647527405548",
+        "cites_id": [
+            "12314908647527405548"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNA-Seq Time Series of Vitis vinifera Bud Development Reveals Correlation of Expression Patterns with the Local Temperature Profile",
+            "pub_year": "2020",
+            "citation": "Plants 9 (11), 1548, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:PVjk1bu6vJQC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18122570708655168655",
+        "cites_id": [
+            "18122570708655168655"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of genes and alleles involved in the control of flowering time in grapevine",
+            "pub_year": "2019",
+            "citation": "PLoS one 14 (7), e0214703, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:lmc2jWPfTJgC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4675689286943169583",
+        "cites_id": [
+            "4675689286943169583"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enhancing the GABI-Kat Arabidopsis thaliana T-DNA Insertion Mutant Database by Incorporating Araport11 Annotation",
+            "pub_year": "2017",
+            "citation": "Plant and Cell Physiology 58 (1), e7-e7, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:2KloaMYe4IUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10344013529519985890",
+        "cites_id": [
+            "10344013529519985890"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression library screening",
+            "pub_year": "1996",
+            "citation": "Plant Gene Isolation, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16034854124864014040",
+        "cites_id": [
+            "16034854124864014040"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A New Apa LI Restriction Fragment Length Polymorphism in the Low Density Lipoprotein Receptor Gene",
+            "pub_year": "1988",
+            "citation": "Walter de Gruyter, Berlin/New York 26 (7), 429-434, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10919421058986196346",
+        "cites_id": [
+            "10919421058986196346"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complete pan-plastome sequences enable high resolution phylogenetic classification of sugar beet and closely related crop wild relatives",
+            "pub_year": "2022",
+            "citation": "BMC Genomics 23, 113, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:sNmaIFBj_lkC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8438133766135278776",
+        "cites_id": [
+            "8438133766135278776"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improved detection of familial defective apolipoprotein B-100 by restriction-site-introducing polymerase chain reaction",
+            "pub_year": "1993",
+            "citation": "Clinical chemistry 39 (9), 2026-2027, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:XD-gHx7UXLsC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17488636101276966380",
+        "cites_id": [
+            "17488636101276966380"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome sequences of both organelles of the grapevine rootstock cultivar \u2018B\u00f6rner\u2019",
+            "pub_year": "2020",
+            "citation": "Microbiology Resource Announcements 9 (15), 10.1128/mra. 01471-19, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:ruyezt5ZtCIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12497560915256938397",
+        "cites_id": [
+            "12497560915256938397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sugar Beet BeetMap-3, and Steps to Improve the Genome Assembly and Genome Sequence Annotation (W875)",
+            "pub_year": "2016",
+            "citation": "Plant and Animal Genome XXIV Conference, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:1yQoGdGgb4wC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7052092154301844129,11060856504328920437",
+        "cites_id": [
+            "7052092154301844129",
+            "11060856504328920437"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combining genomics and metabolomics for the discovery of regulatory genes and their use in metabolic engineering to produce \u2018Healthy Foods\u2019",
+            "pub_year": "2012",
+            "citation": "Acta Hort 941, 73-84, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:ML0RJ9NH7IQC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2275281627513140310",
+        "cites_id": [
+            "2275281627513140310"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Elements involved in light regulation of the parsley chs [chalcone synthase] promoter: cis-acting nucleotide sequences and trans-acting factors",
+            "pub_year": "1992",
+            "citation": "Bulletin de Liaison Groupe Polyphenols 16, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6309997576391508765",
+        "cites_id": [
+            "6309997576391508765"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A fully phased interspecific grapevine rootstock genome sequence representing V. riparia and V. cinerea and allele-aware annotation of the phylloxera resistance locus Rdv1",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.07. 07.499180, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:_5tno0g5mFcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7942593769200142399",
+        "cites_id": [
+            "7942593769200142399"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping-by-Sequencing Reveals Genomic Regions Associated with Seed Quality Parameters in Brassica napus",
+            "pub_year": "2022",
+            "citation": "Genes 13 (7), 1131, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:2VqYfGB8ITEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11335514280853941559",
+        "cites_id": [
+            "11335514280853941559"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reference-based QUantification Of gene Dispensability (QUOD)",
+            "pub_year": "2021",
+            "citation": "Plant methods 17 (1), 1-11, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:FPJr55Dyh1AC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2050312971958602209",
+        "cites_id": [
+            "2050312971958602209"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resources for Reverse Genetics Approaches in Arabidopsis thaliana",
+            "pub_year": "2011",
+            "citation": "Genetics and Genomics of the Brassicaceae, 527-560, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:SP6oXDckpogC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16217940173802241328",
+        "cites_id": [
+            "16217940173802241328"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of mutants from T-DNA insertion populations generated by high-throughput screening.",
+            "pub_year": "2010",
+            "citation": "The handbook of plant mutation screening: mining of natural and induced \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:_xSYboBqXhAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7623421189339505586",
+        "cites_id": [
+            "7623421189339505586"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format",
+            "pub_year": "2009",
+            "citation": "Source Code for Biology and Medicine 4, 1-4, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10643700247522512089",
+        "cites_id": [
+            "10643700247522512089"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Three R2R3-MYB transcription factors from banana (Musa acuminata) activate structural anthocyanin biosynthesis genes as part of an MBW complex",
+            "pub_year": "2023",
+            "citation": "BMC Research Notes 16 (1), 1-9, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:3htObqc8RwsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11291215540635460,3877949142280230155",
+        "cites_id": [
+            "11291215540635460",
+            "3877949142280230155"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phased grapevine genome sequence of an Rpv12 carrier for biotechnological exploration of resistance to Plasmopara viticola",
+            "pub_year": "2023",
+            "citation": "Frontiers in Plant Science 14, 1180982, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:ODE9OILHJdcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Repeat turnover meets stable chromosomes: repetitive DNA sequences mark speciation and gene pool boundaries in sugar beet and wild beets",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.09. 01.555723, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:F9fV5C73w3QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcription factors operate on a limited vocabulary of binding motifs in Arabidopsis thaliana",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.08. 28.555073, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:a3BOlSfXSfwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dataset for\" Transcription factors operate on a limited vocabulary of binding motifs in Arabidopsis thaliana\"",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:LhH-TYMQEocC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "De novo ONT long read assembly of the A. thaliana f3h/fls1/ans triple mutant",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:yqoGN6RLRZoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural and functional annotation files for crop wild relatives of sugar beet",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:r_AWSJRzSzQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pangenome of cultivated beet and crop wild relatives reveals parental relationships of a tetraploid wild beet",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.06. 28.546919, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:HeT0ZceujKMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic characterization of a nematode tolerance locus in sugar beet",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.06. 22.546034, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:yMeIxYmEMEAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural and functional annotation and mRNA coverage/length files for KWS2320ONT_v1. 0 and U2BvONT_v1. 0",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:KbBQZpvPDL4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification and functional annotation of candidate genes for the control of phenotypic differences between early and late ripening'Pinot'cultivars.",
+            "pub_year": "2022",
+            "citation": "Julius-K\u00fchn-Archiv, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:fFSKOagxvKUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic characterization of the phylloxera resistance QTL Rdv1 in both haplotypes of the grapevine roostock variety'B\u00f6rner'.",
+            "pub_year": "2022",
+            "citation": "Julius-K\u00fchn-Archiv, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:OR75R8vi5nAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of the Rpv12 locus in a haplotype-separated grapevine genome sequence.",
+            "pub_year": "2022",
+            "citation": "Julius-K\u00fchn-Archiv, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:OcBU2YAGkTUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phase-separated genome sequence assembly of the grapevine cultivar Gf. 99-03 and its annotation",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:4vMrXwiscB8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contig sequences derived from selected \u2018B\u00f6rner\u2019BACs assigned to either of the two parental haplotypes* V. riparia* or* V. cinerea* of the* Vitis* rootstock \u2018B\u00f6rner\u2019",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:dBIO0h50nwkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromosome-scale haplotype genome sequence assemblies of \u2018B\u00f6rner\u2019and corresponding genome sequence annotations",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplementary material related to MBS analysis of seed quality parameters in Brassica napus",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:DUooU5lO8OsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\" novisys-novel viticulture systems for sustainable production and products\": Schlussbericht: Ver\u00f6ffentlichung der Ergebnisse des Forschungsvorhabens: BMBF F\u00f6rderinitiative \u2026",
+            "pub_year": "2021",
+            "citation": "Universit\u00e4t Bielefeld, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:HtS1dXgVpQUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis thaliana methylation pattern analysis based on ONT sequence reads",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:8d8msizDQcsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-resistente Vitis Unterlagen-Entwicklung innovativer, international wettbewerbsf\u00e4higer Unterlagen f\u00fcr den Weinbau der n\u00f6rdlichen Anbauregionen (MuReViU \u2026",
+            "pub_year": "2020",
+            "citation": "Universit\u00e4t Bielefeld, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:yFnVuubrUp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reference-based QUantification Of gene Dispensability (QUOD)-test dataset",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:5qfkUJPXOUwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dioscorea dumetorum genome sequence v1. 0",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:XoXfffV-tXoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dataset describing RNA editing sites in the chloroplast genome of'Boerner'(Vitis riparia x Vitis cinerea)",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:foquWX3nUaYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dataset describing RNA editing sites in the mitochondrial genome of'Boerner'(Vitis riparia x Vitis cinerea)",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:HbR8gkJAVGIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An allele frequency-dependent methodology for mapping and characterising a newly discovered major gene for self-compatibility in perennial ryegrass (Lolium perenne L.)",
+            "pub_year": "2019",
+            "citation": "EGF-EUCARPIA-Symposium-2019: Improving Sown Grasslands through Breeding and \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:DJbcl8HfkQkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromosome-level Assembly Reveals the Niederzenz (Nd-1) Genome Structure and Gene Set",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:rmuvC79q63oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Description and mapping positions of BoeWGS1. 0 contigs",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:oNZyr7d5Mn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heterozygous SNVs between BoeWGS1. 0 and PN40024",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:M7yex6snE4oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome assemblies of Musa acuminata Dwarf Cavendish",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:VaXvl8Fpj5cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An allele frequency-dependent methodology for mapping and characterising a newly discovered major gene for self-compatibility in perennial ryegrass (Lolium perenne L.)",
+            "pub_year": "2019",
+            "citation": "Improving sown grasslands through breeding and management: proceedings of \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:LI9QrySNdTsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Small sequence variants between the Musa acuminata cultivars Dwarf Cavendish and DH Pahang",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:g3aElNc5_aQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Beta vulgaris spp. maritima draft genome sequence assembly and structural prediction of protein coding genes",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:Ri6SYOTghG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NoViSys: Novel Viticulture Systems for sus-tainable production and products",
+            "pub_year": "2015",
+            "citation": "Berichte aus dem Julius K\u00fchn-Institut, 32, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:LjlpjdlvIbIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetics of flowering time in grapevine",
+            "pub_year": "2015",
+            "citation": "Berichte aus dem Julius K\u00fchn-Institut 181, 39, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:WqliGbK-hY8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An easy-to-use primer design tool to address paralogous loci and T-DNA insertion sites in the genome of Arabidopsis thaliana",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:HtEfBTGE9r8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Genomics Revolution and its Impact on Future Biotechnology",
+            "pub_year": "2014",
+            "citation": "Journal of Biotechnology 190, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:Mojj43d5GZwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insertionslinien als Werkzeuge f\u00fcr funktionelle Genomforschung",
+            "pub_year": "2013",
+            "citation": "BIOspektrum 19, 639-641, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using the GUS Reporter Gene for Quantitative Studies of Promotor Activity in A. thaliana Seedlings",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:tuHXwOkdijsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Die Entschl\u00fcsselung der S\u00fc\u00dfen: GABI-Future-Projekt erstellt Referenzsequenz des Genoms der Zuckerr\u00fcbe",
+            "pub_year": "2011",
+            "citation": "GenomXPress 2011 (2), 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping of GABI-Kat Flanking Sequence Tags from A. thaliana to the TAIR9 Annotation Data Set",
+            "pub_year": "2009",
+            "citation": "German Conference on Bioinformatics 2009, 50, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:abG-DnoFyZgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The use of regulatory genes in metabolic engineering to produce \u2018healthy foods\u2019",
+            "pub_year": "2008",
+            "citation": "Abstracts of the 1st International Conference on Plant Secondary Metabolism, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:umqufdRvDiIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Horizontaler Transfer von chromosomalen bakteriellen Genen aus Agrobakterien zu Pflanzen",
+            "pub_year": "2008",
+            "citation": "GenomXPress 2008 (4), 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:NhqRSupF_l8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COMBINING GENOMICS AND METABOLOMICS FOR THE DISCOVERY OF REGULATORY GENES AND THEIR USE IN METABOLIC ENGINEERING TO PRODUCE'HEALTHY FOODS'",
+            "pub_year": "2007",
+            "citation": "I International Symposium on Genetic Modifications-Challenges and \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GABI-BEET-PHYSICAL-MAP: Genomkartierung erm\u00f6glicht detaillierten Einblick in die Erbinformation Zuckerr\u00fcbe",
+            "pub_year": "2007",
+            "citation": "GenomXPress 2007 (Sonderausgabe (S07-2)), 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Freier Zugang zu genetischen Pflanzenressourcen",
+            "pub_year": "2005",
+            "citation": "GenomXPress 2005 (3), 2005"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomic tools for Arabidopsis available at the MPIZ",
+            "pub_year": "2003",
+            "citation": "biotechnologia 4 (63), 19-31, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:KxtntwgDAa4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA-protein interactions",
+            "pub_year": "2002",
+            "citation": "Practical Approach to Plant Molecular Biology 1, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:UxriW0iASnsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "F-Workbench: a database-driven environment for the analysis of transcription factors.",
+            "pub_year": "2001",
+            "citation": "German Conference on Bioinformatics, 233, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:tOudhMTPpwUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Etablierung von cDNA-Microarrays f\u00fcr differentielle Genexpressionsanalyse bei Arabidopsis thaliana",
+            "pub_year": "2000",
+            "citation": "BIOforum 23 (4), 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:D03iK_w7-QYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rekombinante Genproben in der Diagnostik der famili\u00e4ren Hypercholesterin\u00e4mie",
+            "pub_year": "1990",
+            "citation": "Der Kassenarzt 30 (7), 1990"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diagnosis of Familial Hypercholesterolemia using DNA probes for the Low-density Lipoprotein Receptor gene",
+            "pub_year": "1990",
+            "citation": "DNA-Polymorphism in Forensic and Medicine 1, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inhibition Eines Viralen Promotors Durch Sequenz-spezifische Methylierung: Aufhebung Des Transkriptionsblockes Durch E1A-Transaktivierung",
+            "pub_year": "1988",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SPECIES SPECIFICITY AND CONTROL MECHANISMS OF VIRAL PROMOTERS",
+            "pub_year": "1987",
+            "citation": "BIOLOGICAL CHEMISTRY HOPPE-SEYLER 368 (3), 177-178, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:D_sINldO8mEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequence-Specific DNA Methylation: Promoter Inactivation and Release of the Expression Block",
+            "pub_year": "1987",
+            "citation": "Tumor Cell Differentiation: Biology and Pharmacology, 215-230, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multilocus sequence survey in Arabidopsis thaliana reveals a genome-wide",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K2dBArkAAAAJ:bKqednn6t2AC",
+        "num_citations": 0
+    }
+]

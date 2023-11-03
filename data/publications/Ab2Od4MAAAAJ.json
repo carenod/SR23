@@ -1,0 +1,34 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Valorisation of pectin-rich agro-industrial residues by yeasts: potential and challenges",
+            "pub_year": "2020",
+            "citation": "Applied Microbiology and Biotechnology 104, 6527-6547, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ab2Od4MAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3351583971671589470",
+        "cites_id": [
+            "3351583971671589470"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PHYTOCHROME-INTERACTING FACTORS: a promising tool to improve crop productivity",
+            "pub_year": "2022",
+            "citation": "Journal of Experimental Botany 73 (12), 3881-3897, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "Ab2Od4MAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6910317044728644617",
+        "cites_id": [
+            "6910317044728644617"
+        ]
+    }
+]

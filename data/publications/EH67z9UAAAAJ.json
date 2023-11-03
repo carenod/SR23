@@ -1,0 +1,99 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bacterial infection disrupts clock gene expression to attenuate immune responses",
+            "pub_year": "2020",
+            "citation": "Current Biology 30 (9), 1740-1747. e6, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "EH67z9UAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12384424260268897145",
+        "cites_id": [
+            "12384424260268897145"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The LNK Gene Family: At the Crossroad between Light Signaling and the Circadian Clock",
+            "pub_year": "2018",
+            "citation": "Genes 10 (1), 2, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EH67z9UAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2288308653585751529",
+        "cites_id": [
+            "2288308653585751529"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Role for Pre-mRNA-PROCESSING PROTEIN 40C in the Control of Growth, Development, and Stress Tolerance in Arabidopsis thaliana",
+            "pub_year": "2019",
+            "citation": "Frontiers in Plant Science 10, 1019, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EH67z9UAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2408995822465215504",
+        "cites_id": [
+            "2408995822465215504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Immunogenicity and reactogenicity of heterologous immunization against SARS CoV-2 using Sputnik V, ChAdOx1-S, BBIBP-CorV, Ad5-nCoV, and mRNA-1273",
+            "pub_year": "2022",
+            "citation": "Cell Reports Medicine 3 (8), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EH67z9UAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16298811793702148566",
+        "cites_id": [
+            "16298811793702148566"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The 5\u02b9-3\u02b9 mRNA Decay Pathway Modulates the Plant Circadian Network in Arabidopsis",
+            "pub_year": "2022",
+            "citation": "Plant and Cell Physiology 63 (11), 1709-1719, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EH67z9UAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3620310868795061907,16018133735662591672",
+        "cites_id": [
+            "3620310868795061907",
+            "16018133735662591672"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Humoral response and neutralising capacity at 6 months post-vaccination against COVID-19 among institutionalised older adults in Argentina",
+            "pub_year": "2022",
+            "citation": "Frontiers in immunology 13, 992370, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EH67z9UAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3951732382368842091",
+        "cites_id": [
+            "3951732382368842091"
+        ]
+    }
+]

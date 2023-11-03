@@ -1,0 +1,633 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "mTOR signaling regulates central and peripheral circadian clock function",
+            "pub_year": "2018",
+            "citation": "PLoS genetics 14 (5), e1007369, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 160,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13518407921702624044",
+        "cites_id": [
+            "13518407921702624044"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cryptochrome 1 regulates the circadian clock through dynamic interactions with the BMAL1 C terminus",
+            "pub_year": "2015",
+            "citation": "Nature structural & molecular biology 22 (6), 476-484, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13240547782099461077",
+        "cites_id": [
+            "13240547782099461077"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Machine learning helps identify CHRONO as a circadian clock component",
+            "pub_year": "2014",
+            "citation": "PLoS biology 12 (4), e1001840, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13548816051375958342",
+        "cites_id": [
+            "13548816051375958342"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combined application of BDNF to the eye and brain enhances ganglion cell survival and function in the cat after optic nerve injury",
+            "pub_year": "2010",
+            "citation": "Investigative ophthalmology & visual science 51 (1), 327-334, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7338644729500937788",
+        "cites_id": [
+            "7338644729500937788"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell Type-Specific Functions of Period Genes Revealed by Novel Adipocyte and Hepatocyte Circadian Clock Models",
+            "pub_year": "2014",
+            "citation": "journal.pgen 10 (4), 2014"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:UebtZRa9Y70C",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17351904701713401728",
+        "cites_id": [
+            "17351904701713401728"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NRF2 regulates core and stabilizing circadian clock loops, coupling redox and timekeeping in Mus musculus",
+            "pub_year": "2018",
+            "citation": "Elife 7, e31656, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:_kc_bZDykSQC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10338776696062502299",
+        "cites_id": [
+            "10338776696062502299"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring cell-autonomous circadian clock rhythms of gene expression using luciferase bioluminescence reporters.",
+            "pub_year": "2012",
+            "citation": "Journal of visualized experiments: JoVE, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18121485690707291489",
+        "cites_id": [
+            "18121485690707291489"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal and spatial distribution of immunoreactive PER1 and PER2 proteins in the suprachiasmatic nucleus and peri-suprachiasmatic region of the diurnal grass rat (Arvicanthis \u2026",
+            "pub_year": "2006",
+            "citation": "Brain Research 1073, 348-358, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11513298472348631806",
+        "cites_id": [
+            "11513298472348631806"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phase preference for the display of activity is associated with the phase of extra-suprachiasmatic nucleus oscillators within and between species",
+            "pub_year": "2010",
+            "citation": "Neuroscience 170 (3), 758-772, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:qjMakFHDy7sC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5614897116716204939",
+        "cites_id": [
+            "5614897116716204939"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Acute effects of light on the brain and behavior of diurnal Arvicanthis niloticus and nocturnal Mus musculus",
+            "pub_year": "2015",
+            "citation": "Physiology & behavior 138, 75-86, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:5nxA0vEk-isC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8157019808446806243",
+        "cites_id": [
+            "8157019808446806243"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Daily rhythms and sex differences in vasoactive intestinal polypeptide, VIPR2 receptor and arginine vasopressin mRNA in the suprachiasmatic nucleus of a diurnal rodent \u2026",
+            "pub_year": "2009",
+            "citation": "European Journal of Neuroscience 30 (8), 1537-1543, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8810720023677703671",
+        "cites_id": [
+            "8810720023677703671"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Responses of brain and behavior to changing day-length in the diurnal grass rat (Arvicanthis niloticus)",
+            "pub_year": "2013",
+            "citation": "Neuroscience 234, 31-39, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7050193714402280433",
+        "cites_id": [
+            "7050193714402280433"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The substructure of the suprachiasmatic nucleus: similarities between nocturnal and diurnal spiny mice",
+            "pub_year": "2010",
+            "citation": "Brain Behavior and Evolution 75 (1), 9-22, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6392625617312920571",
+        "cites_id": [
+            "6392625617312920571"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The NRON complex controls circadian clock function through regulated PER and CRY nuclear translocation",
+            "pub_year": "2019",
+            "citation": "Scientific reports 9 (1), 11883, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:4DMP91E08xMC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5265390877321921230",
+        "cites_id": [
+            "5265390877321921230"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Daily rhythms in PER1 within and beyond the suprachiasmatic nucleus of female grass rats (Arvicanthis niloticus)",
+            "pub_year": "2008",
+            "citation": "Neuroscience 156 (1), 48-58, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4563634626367595479",
+        "cites_id": [
+            "4563634626367595479"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of restricted feeding cycle on the locomotor activity rhythm in the mouse Mus booduga",
+            "pub_year": "2000",
+            "citation": "Physiology & behavior 70 (1-2), 81-87, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=786826435519643459",
+        "cites_id": [
+            "786826435519643459"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PER2 rhythms in the amygdala and bed nucleus of the stria terminalis of the diurnal grass rat (Arvicanthis niloticus)",
+            "pub_year": "2010",
+            "citation": "Neuroscience letters 473 (3), 220-223, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3371111480187392328",
+        "cites_id": [
+            "3371111480187392328"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A highly enantioselective asymmetric Darzens reaction catalysed by proline based efficient organocatalysts for the synthesis of di-and tri-substituted epoxides",
+            "pub_year": "2017",
+            "citation": "Chemical Communications 53 (79), 10926-10929, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11308222433145460124",
+        "cites_id": [
+            "11308222433145460124"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rhythms in expression of PER1 protein in the amygdala and bed nucleus of the stria terminalis of the diurnal grass rat (Arvicanthis niloticus)",
+            "pub_year": "2008",
+            "citation": "Neuroscience letters 441 (1), 86-89, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17545978369894521116",
+        "cites_id": [
+            "17545978369894521116"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oral administration of nicotinamide mononucleotide increases nicotinamide adenine dinucleotide level in an animal brain",
+            "pub_year": "2022",
+            "citation": "Nutrients 14 (2), 300, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3273665319391318216",
+        "cites_id": [
+            "3273665319391318216"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Compartmentalized expression of light-induced clock genes in the suprachiasmatic nucleus of the diurnal grass rat (Arvicanthis niloticus)",
+            "pub_year": "2009",
+            "citation": "Neuroscience 161 (4), 960-969, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14750751536780364676",
+        "cites_id": [
+            "14750751536780364676"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tyrosine hydroxylase positive neurons and their contacts with vasoactive intestinal polypeptide-containing fibers in the hypothalamus of the diurnal murid rodent, Arvicanthis \u2026",
+            "pub_year": "2007",
+            "citation": "Journal of Chemical Neuroanatomy 33 (3), 131-139, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10146775456402410680",
+        "cites_id": [
+            "10146775456402410680"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intensity\u2010dependent phase\u2010adjustments in the locomotor activity rhythm of the nocturnal field mouse Mus booduga",
+            "pub_year": "2002",
+            "citation": "Journal of Experimental Zoology 292 (5), 444-459, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:WF5omc3nYNoC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16079611179110917652",
+        "cites_id": [
+            "16079611179110917652"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plastic oscillators and fixed rhythms: changes in the phase of clock-gene rhythms in the PVN are not reflected in the phase of the melatonin rhythm of grass rats",
+            "pub_year": "2015",
+            "citation": "Neuroscience 288, 178-186, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:8k81kl-MbHgC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=191404628729980877",
+        "cites_id": [
+            "191404628729980877"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probing the circadian pacemaker of a mouse using two light pulses",
+            "pub_year": "2000",
+            "citation": "Journal of Biological Rhythms 15 (1), 67-73, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:Se3iqnhoufwC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14117470681896277897",
+        "cites_id": [
+            "14117470681896277897"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Entrainment of circadian locomotor activity rhythm of the nocturnal field mouse Mus booduga using daily injections of melatonin",
+            "pub_year": "2003",
+            "citation": "Journal of Experimental Zoology Part A: Comparative Experimental Biology 296 \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:ufrVoPGSRksC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11268455188166318158",
+        "cites_id": [
+            "11268455188166318158"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Melatonin enhances the sensitivity of circadian pacemakers to light in the nocturnal field mouse Mus booduga",
+            "pub_year": "2003",
+            "citation": "Journal of Experimental Zoology Part A: Comparative Experimental Biology 297 \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10253981828675442722",
+        "cites_id": [
+            "10253981828675442722"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An aerobic oxidation of alcohols into carbonyl synthons using bipyridyl-cinchona based palladium catalyst",
+            "pub_year": "2021",
+            "citation": "RSC advances 11 (52), 32942-32954, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:dhFuZR0502QC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16770449693013678776",
+        "cites_id": [
+            "16770449693013678776"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effect of Behavioural Feedback on Circadian Clocks of the Nocturnal Field Mouse Mus booduga",
+            "pub_year": "2004",
+            "citation": "Biological Rhythm Research 35 (3), 213-227, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:roLk4NBRz8UC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10715376790170706542",
+        "cites_id": [
+            "10715376790170706542"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Naked mole-rat and Damaraland mole-rat exhibit lower respiration in mitochondria, cellular and organismal levels",
+            "pub_year": "2022",
+            "citation": "Biochimica et Biophysica Acta (BBA)-Bioenergetics 1863 (7), 148582, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15794047665408256561",
+        "cites_id": [
+            "15794047665408256561"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Catalytic hydrogenation of aldehydes and ketones using cinchona\u2013bipyridyl-based palladium catalyst",
+            "pub_year": "2019",
+            "citation": "Journal of the Iranian Chemical Society 16, 373-384, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1298753370860857332",
+        "cites_id": [
+            "1298753370860857332"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Entrainment of locomotor activity rhythm to periodic injections of melatonin in the nocturnal field mouse Mus booduga",
+            "pub_year": "2003",
+            "citation": "J. Exp. Zool. A 296, 30-37, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:IWHjjKOFINEC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11445242710755894201",
+        "cites_id": [
+            "11445242710755894201"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Early Time-Restricted Feeding Amends Circadian Clock Function and Improves Metabolic Health in Male and Female Nile Grass Rats",
+            "pub_year": "2022",
+            "citation": "Medicines 9 (2), 15, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7000340220743170148",
+        "cites_id": [
+            "7000340220743170148"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neutron elastic scattering studies of biological molecules and complexes",
+            "pub_year": "1981",
+            "citation": "International Journal of Quantum Chemistry 20 (2), 449-459, 1981"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3371607828002274322",
+        "cites_id": [
+            "3371607828002274322"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developing Mammalian Cellular Clock Models Using Firefly Luciferase Reporter",
+            "pub_year": "2018",
+            "citation": "Reporter Gene Assays: Methods and Protocols, 49-64, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:4TOpqqG69KYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17297407681512253159",
+        "cites_id": [
+            "17297407681512253159"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombinant cells and methods of using such cells to identify circadian rhythm modulators",
+            "pub_year": "2016",
+            "citation": "US Patent App. 14/391,944, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:Zph67rFs4hoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13879379346501797801",
+        "cites_id": [
+            "13879379346501797801"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Irradiance dependency of UV-A induced phase shifts in the locomotor activity rhythm of the field mouse Mus booduga",
+            "pub_year": "2000",
+            "citation": "Chronobiol Int 17, 777-782., 2000"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8946533716029404907",
+        "cites_id": [
+            "8946533716029404907"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-Tissue Time-Domain NMR Metabolomics Investigation of Time-Restricted Feeding in Male and Female Nile Grass Rats",
+            "pub_year": "2022",
+            "citation": "Metabolites 12 (7), 657, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11648510289006208808",
+        "cites_id": [
+            "11648510289006208808"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rate of living theory re-visited: mitochondrial, cellular, and whole-organism metabolism in Siberian hamster and the long-lived Damaraland mole rat",
+            "pub_year": "2021",
+            "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 61, E1307-E1308, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Investigating time-restricted feeding and metabolic sexual dimorphism in Nile grass rats by time-domain NMR lipid profiling",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "38AAmqEAAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    }
+]

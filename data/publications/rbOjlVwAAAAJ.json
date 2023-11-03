@@ -1,0 +1,1396 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Polycomb-group gene regulates homeotic gene expression in Arabidopsis",
+            "pub_year": "1997",
+            "citation": "Nature 386 (6620), 44-51, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 895,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=535859182669864572",
+        "cites_id": [
+            "535859182669864572"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic and Genetic Diversity within the Pseudomonas fluorescens Complex",
+            "pub_year": "2016",
+            "citation": "Plos ONE 11 (4), 2016"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 246,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5136669495994235443,16105084116779002160",
+        "cites_id": [
+            "5136669495994235443",
+            "16105084116779002160"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The maize transposable element system Ac/Ds as a mutagen in Arabidopsis: identification of an albino mutation induced by Ds insertion.",
+            "pub_year": "1993",
+            "citation": "Proceedings of the National Academy of Sciences 90 (21), 10370-10374, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 183,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7295619729728266160",
+        "cites_id": [
+            "7295619729728266160"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotypic Selection and Phase Variation Occur during Alfalfa Root Colonization by Pseudomonas fluorescens F113",
+            "pub_year": "2002",
+            "citation": "Journal of bacteriology 184 (6), 1587-1596, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 177,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15854028199493923657",
+        "cites_id": [
+            "15854028199493923657"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polychlorinated Biphenyl Rhizoremediation by Pseudomonas fluorescens F113 Derivatives, Using a Sinorhizobium meliloti nod System To Drive bph Gene \u2026",
+            "pub_year": "2005",
+            "citation": "Applied and environmental microbiology 71 (5), 2687-2694, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 164,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17983796384734184131,10233152646891291711",
+        "cites_id": [
+            "17983796384734184131",
+            "10233152646891291711"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pseudomonas fluorescens F113 mutant with enhanced competitive colonization ability and improved biocontrol activity against fungal root pathogens",
+            "pub_year": "2011",
+            "citation": "Applied and environmental microbiology 77 (15), 5412-5419, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:ufrVoPGSRksC",
+        "num_citations": 149,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9285460301418483659",
+        "cites_id": [
+            "9285460301418483659"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of Pseudomonas fluorescens F113 genes implicated in flagellar filament synthesis and their role in competitive root colonization",
+            "pub_year": "2004",
+            "citation": "Microbiology 150 (11), 3889-3897, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 144,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15777885343932832654,11510542756828507683",
+        "cites_id": [
+            "15777885343932832654",
+            "11510542756828507683"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Colonization behaviour of Pseudomonas fluorescens and Sinorhizobium meliloti in the alfalfa (Medicago sativa) rhizosphere",
+            "pub_year": "2003",
+            "citation": "Plant and Soil 251, 47-54, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 122,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9066756563292000615",
+        "cites_id": [
+            "9066756563292000615"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rhizosphere Selection of Highly Motile Phenotypic Variants of Pseudomonas fluorescens with Enhanced Competitive Colonization Ability",
+            "pub_year": "2006",
+            "citation": "Applied and environmental microbiology 72 (5), 3429-3434, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:qjMakFHDy7sC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16776735392493374869",
+        "cites_id": [
+            "16776735392493374869"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient rhizosphere colonization by Pseudomonas fluorescens f113 mutants unable to form biofilms on abiotic surfaces",
+            "pub_year": "2010",
+            "citation": "Environmental microbiology 12 (12), 3185-3195, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15946489948069121359",
+        "cites_id": [
+            "15946489948069121359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome sequence reveals that Pseudomonas fluorescens F113 possesses a large and diverse array of systems for rhizosphere function and host interaction",
+            "pub_year": "2013",
+            "citation": "BMC genomics 14 (1), 1-17, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9338406487518734172",
+        "cites_id": [
+            "9338406487518734172"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome sequence of the biocontrol strain Pseudomonas fluorescens F113",
+            "pub_year": "2012",
+            "citation": "Journal of bacteriology 194 (5), 1273-1274, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15270362594655396540",
+        "cites_id": [
+            "15270362594655396540"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The introduction of genetically modified microorganisms designed for rhizoremediation induces changes on native bacteria in the rhizosphere but not in the surrounding soil",
+            "pub_year": "2007",
+            "citation": "The ISME journal 1 (3), 215-223, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9279727900255856832",
+        "cites_id": [
+            "9279727900255856832"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two site-specific recombinases are implicated in phenotypic variation and competitive rhizosphere colonization in Pseudomonas fluorescens",
+            "pub_year": "2005",
+            "citation": "Microbiology 151 (3), 975-983, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6364740041644338921",
+        "cites_id": [
+            "6364740041644338921"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Changes in bacterial populations and in biphenyl dioxygenase gene diversity in a polychlorinated biphenyl-polluted soil after introduction of willow trees for rhizoremediation",
+            "pub_year": "2007",
+            "citation": "Applied and Environmental Microbiology 73 (19), 6224-6232, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14034757277817463505",
+        "cites_id": [
+            "14034757277817463505"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Metagenomic insights into the bacterial functions of a diesel-degrading consortium for the rhizoremediation of diesel-polluted soil",
+            "pub_year": "2019",
+            "citation": "Genes 10 (6), 456, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:JQOojiI6XY0C",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3740776442658773412",
+        "cites_id": [
+            "3740776442658773412"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant flavonoids target Pseudomonas syringae pv. tomato DC3000 flagella and type III secretion system",
+            "pub_year": "2013",
+            "citation": "Environmental microbiology reports 5 (6), 841-850, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:8k81kl-MbHgC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2322527529881508228",
+        "cites_id": [
+            "2322527529881508228"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Gac-Rsm and SadB signal transduction pathways converge on AlgU to downregulate motility in Pseudomonas fluorescens",
+            "pub_year": "2012",
+            "citation": "PloS one 7 (2), e31765, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:roLk4NBRz8UC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12802914633314871542",
+        "cites_id": [
+            "12802914633314871542"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of flgZ as a Flagellar Gene Encoding a PilZ Domain Protein That Regulates Swimming Motility and Biofilm Formation in Pseudomonas",
+            "pub_year": "2014",
+            "citation": "PloS one 9 (2), e87608, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:mB3voiENLucC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5698026968509260316",
+        "cites_id": [
+            "5698026968509260316"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Metagenomic analysis of a biphenyl-degrading soil bacterial consortium reveals the metabolic roles of specific populations",
+            "pub_year": "2018",
+            "citation": "Frontiers in microbiology 9, 232, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4871120406650993674",
+        "cites_id": [
+            "4871120406650993674"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Classification of isolates from pseudomonas fluorescens complex into phylogenomic groups based in group specific markers",
+            "pub_year": "2017",
+            "citation": "Frontiers in Microbiology 15 (8), 413, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14821034885719685980",
+        "cites_id": [
+            "14821034885719685980"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Immunolocalization of DNA at nucleolar structural components in onion cells",
+            "pub_year": "1989",
+            "citation": "Chromosoma 98 (5), 368-377, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:4DMP91E08xMC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=612263306335253175",
+        "cites_id": [
+            "612263306335253175"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Three independent signalling pathways repress motility in Pseudomonas fluorescens F113",
+            "pub_year": "2009",
+            "citation": "Microbial biotechnology 2 (4), 489-498, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11785583772967597497",
+        "cites_id": [
+            "11785583772967597497"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nitrogenase inhibition in nodules from pea plants grown under salt stress occurs at the physiological level and can be alleviated by B and Ca",
+            "pub_year": "2006",
+            "citation": "Plant and Soil 280, 135-142, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12837161703172447974",
+        "cites_id": [
+            "12837161703172447974"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification and localization of a nucleolin homologue in onion nucleoli",
+            "pub_year": "1992",
+            "citation": "Exp Cell Res 199, 74-84, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12713820370711519900,16957817661262537548",
+        "cites_id": [
+            "12713820370711519900",
+            "16957817661262537548"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ds elements on all five Arabidopsis chromosomes and assessment of their utility for transposon tagging",
+            "pub_year": "1997",
+            "citation": "The Plant Journal 11 (1), 145-148, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:aqlVkmm33-oC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3807461967297389904",
+        "cites_id": [
+            "3807461967297389904"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the frequency of inheritance of transposed Ds elements in Arabidopsis after activation by a CaMV 35S promoter fusion to the Ac transposase gene",
+            "pub_year": "1993",
+            "citation": "Molecular and General Genetics MGG 241, 627-636, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5187183380585854888",
+        "cites_id": [
+            "5187183380585854888"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide analysis of the FleQ direct regulon in Pseudomonas fluorescens F113 and Pseudomonas putida KT2440",
+            "pub_year": "2018",
+            "citation": "Scientific reports 8 (1), 13145, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18178937227154795540",
+        "cites_id": [
+            "18178937227154795540"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AmrZ is a global transcriptional regulator implicated in iron uptake and environmental adaption in P. fluorescensF113",
+            "pub_year": "2014",
+            "citation": "BMC genomics 15, 1-10, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7279148391707494701",
+        "cites_id": [
+            "7279148391707494701"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Life cycle as a stable trait in the evaluation of diversity of Nostoc from biofilms in rivers",
+            "pub_year": "2011",
+            "citation": "FEMS Microbiology Ecology 76 (2), 185-198, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:0EnyYjriUFMC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10683605981108367949",
+        "cites_id": [
+            "10683605981108367949"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antisense\u2010mediated depletion of potato leaf \u03c93 fatty acid desaturase lowers linolenic acid content and reduces gene activation in response to wounding",
+            "pub_year": "1999",
+            "citation": "European journal of biochemistry 262 (2), 283-290, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5230465497055374266",
+        "cites_id": [
+            "5230465497055374266"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AmrZ is a major determinant of c-di-GMP levels in Pseudomonas fluorescens F113",
+            "pub_year": "2018",
+            "citation": "Scientific Reports 8 (1), 1979, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8420591973070227095",
+        "cites_id": [
+            "8420591973070227095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chemotactic motility of Pseudomonas fluorescens F113 under aerobic and denitrification conditions",
+            "pub_year": "2015",
+            "citation": "Plos ONE 10 (7), 2015"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:f2IySw72cVMC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5176565675498353933",
+        "cites_id": [
+            "5176565675498353933"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pseudomonas fluorescens F113 type VI secretion systems mediate bacterial killing and adaption to the rhizosphere microbiome",
+            "pub_year": "2021",
+            "citation": "Scientific Reports 11 (1), 5772, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:uLbwQdceFCQC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5015688713862663856",
+        "cites_id": [
+            "5015688713862663856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the biodegradative and adaptive potential of the novel polychlorinated biphenyl degrader Rhodococcus sp. WAY2 revealed by its complete genome sequence",
+            "pub_year": "2020",
+            "citation": "Microbial genomics 6 (4), 2020"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:7T2F9Uy0os0C",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17902334730753306558",
+        "cites_id": [
+            "17902334730753306558"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Drosophila anti-rna polymerase ii antibody recognizes a plant nucleolar antigen, rna polymerase i, which is mostly localized in fibrillar centres",
+            "pub_year": "1991",
+            "citation": "Journal of cell science 100 (1), 99-107, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6966432357384065639",
+        "cites_id": [
+            "6966432357384065639"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Soil microbiome structure and function in ecopiles used to remediate petroleum-contaminated soil",
+            "pub_year": "2021",
+            "citation": "Frontiers in Environmental Science 9, 39, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:W5xh706n7nkC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13393433655763785618",
+        "cites_id": [
+            "13393433655763785618"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional Organization of the Region Encoding the Synthesis of the Flagellar Filament in Pseudomonas fluorescens",
+            "pub_year": "2008",
+            "citation": "Journal of bacteriology 190 (11), 4106-4109, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:UebtZRa9Y70C",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13089241469335675647",
+        "cites_id": [
+            "13089241469335675647"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative Genomics of the Rhodococcus Genus Shows Wide Distribution of Biodegradation Traits",
+            "pub_year": "2020",
+            "citation": "Microorganisms 8 (5), 774, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:UHK10RUVsp4C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1696862287465523655",
+        "cites_id": [
+            "1696862287465523655"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pseudomonas fluorescens F113 Can Produce a Second Flagellar Apparatus, Which Is Important for Plant Root Colonization",
+            "pub_year": "2016",
+            "citation": "Frontiers in Microbiology 7, 1471, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:p2g8aNsByqUC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18321838176841684028",
+        "cites_id": [
+            "18321838176841684028"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular and genetic analysis of the control of flowering time in response to daylength in Arabidopsis thaliana",
+            "pub_year": "1993",
+            "citation": "Flowering Newsletter, 27-32, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:IWHjjKOFINEC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4250978816065958481",
+        "cites_id": [
+            "4250978816065958481"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MucR is necessary for galactoglucan production in Sinorhizobium meliloti EFB1",
+            "pub_year": "2000",
+            "citation": "Molecular plant-microbe interactions 13 (1), 129-135, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16313391220175947233,5304182562061605057",
+        "cites_id": [
+            "16313391220175947233",
+            "5304182562061605057"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PCR Use of Highly Conserved DNA Regions for Identification of Sinorhizobium meliloti",
+            "pub_year": "2000",
+            "citation": "Applied and environmental microbiology 66 (8), 3621-3623, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:WF5omc3nYNoC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8602818820155389074",
+        "cites_id": [
+            "8602818820155389074"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interchromatin granules in plant nuclei",
+            "pub_year": "1989",
+            "citation": "Biology of the Cell 67 (3), 331-339, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4587223570387650564",
+        "cites_id": [
+            "4587223570387650564"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative genomics of the Pseudomonas corrugata subgroup reveals high species diversity and allows the description of Pseudomonas ogarae sp. nov.",
+            "pub_year": "2021",
+            "citation": "Microbial genomics 7 (6), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:tKAzc9rXhukC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10772828410941244404",
+        "cites_id": [
+            "10772828410941244404"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MucR and MucS activate exp genes transcription and galactoglucan production in Sinorhizobium meliloti EFB1",
+            "pub_year": "2002",
+            "citation": "Molecular plant-microbe interactions 15 (1), 54-59, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:Se3iqnhoufwC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6677129642084654547",
+        "cites_id": [
+            "6677129642084654547"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In Silico Characterization and Phylogenetic Distribution of Extracellular Matrix Components in the Model Rhizobacteria Pseudomonas fluorescens F113 and Other \u2026",
+            "pub_year": "2020",
+            "citation": "Microorganisms 8 (11), 1740, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:Fu2w8maKXqMC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11084608953347633956",
+        "cites_id": [
+            "11084608953347633956"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The diguanylate cyclase AdrA regulates flagellar biosynthesis in Pseudomonas fluorescens F113 through SadB",
+            "pub_year": "2019",
+            "citation": "Scientific reports 9 (1), 8096, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:HE397vMXCloC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9990758755212812089",
+        "cites_id": [
+            "9990758755212812089"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phylogenomic Analyses of Bradyrhizobium Reveal Uneven Distribution of the Lateral and Subpolar Flagellar Systems, Which Extends to Rhizobiales",
+            "pub_year": "2019",
+            "citation": "Microorganisms 7 (2), 50, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:LPZeul_q3PIC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14701314460470886729",
+        "cites_id": [
+            "14701314460470886729"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Colonizaci\u00f3n de la rizosfera por pseudomonas",
+            "pub_year": "2011",
+            "citation": "Fundamentos y aplicaciones agroambientales de las interacciones beneficiosas \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:abG-DnoFyZgC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4254800610571874045",
+        "cites_id": [
+            "4254800610571874045"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A partner\u2010switching system controls activation of mixed\u2010linkage \u03b2\u2010glucan synthesis by c\u2010di\u2010GMP in Sinorhizobium meliloti",
+            "pub_year": "2019",
+            "citation": "Environmental microbiology 21 (9), 3379-3391, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:t6usbXjVLHcC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5654531268741832593",
+        "cites_id": [
+            "5654531268741832593"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Further investigations on the functional role of two nuclear bodies in onion cells",
+            "pub_year": "1992",
+            "citation": "Protoplasma 167, 175-182, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:dhFuZR0502QC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5225883181062993071",
+        "cites_id": [
+            "5225883181062993071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Implications for the function-structure relationship in the nucleolus after immunolocalization of DNA in onion cells",
+            "pub_year": "1990",
+            "citation": "Nuclear structure and function, 231-235, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=63139674502596973",
+        "cites_id": [
+            "63139674502596973"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Motility, Biofilm Formation, and Rhizosphere Colonization by Pseudomonas fluorescens F113",
+            "pub_year": "2013",
+            "citation": "Molecular Microbial Ecology of the Rhizosphere 1, 723-732, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4113488473507437104",
+        "cites_id": [
+            "4113488473507437104"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene SMb21071 of plasmid pSymB is required for osmoadaptation of Sinorhizobium meliloti 1021 and is implicated in modifications of cell surface \u2026",
+            "pub_year": "2009",
+            "citation": "Canadian journal of microbiology 55 (10), 1145-1152, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6662232890727993770",
+        "cites_id": [
+            "6662232890727993770"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomic analysis of Pseudomonas ogarae F113 reveals the antagonistic roles of AmrZ and FleQ during rhizosphere adaption",
+            "pub_year": "2022",
+            "citation": "Microbial Genomics 8 (1), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:fEOibwPWpKIC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17958007533669941857",
+        "cites_id": [
+            "17958007533669941857"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of extracellular matrix components by AmrZ is mediated by c-di-GMP in Pseudomonas ogarae F113",
+            "pub_year": "2022",
+            "citation": "Scientific Reports 12 (1), 11914, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:z_wVstp3MssC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2708687782976190032",
+        "cites_id": [
+            "2708687782976190032"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What makes rhizobia rhizosphere colonizers?",
+            "pub_year": "2017",
+            "citation": "Environmental Microbiology 19 (11), 4379-4381, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:Tiz5es2fbqcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3578253093938634584",
+        "cites_id": [
+            "3578253093938634584"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biocontrol of Fungal Root Pathogens by Fluorescent Pseudomonas",
+            "pub_year": "2013",
+            "citation": "Beneficial Plant-microbial Interactions: Ecology and Applications. Edited by \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4265346426992965032",
+        "cites_id": [
+            "4265346426992965032"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Metagenomics of bacterial consortia for the bioremediation of organic pollutants",
+            "pub_year": "2022",
+            "citation": "Good Microbes in Medicine, Food Production, Biotechnology, Bioremediation \u2026, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:XD-gHx7UXLsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16779280094779477354",
+        "cites_id": [
+            "16779280094779477354"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of inorganic and organic P availability on N fixing capacity of Vicia villosa",
+            "pub_year": "2019",
+            "citation": "First Joint Meeting on Soil and Plant System Sciences (SPSS 2019). Natural \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:zLWjf1WUPmwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9238507680247486576",
+        "cites_id": [
+            "9238507680247486576"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phase variation in plant-associated Pseudomonads",
+            "pub_year": "2014",
+            "citation": "Plasticity in plant-growth-promoting and phytopathogenic bacteria, 55-79, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3093730306889100930",
+        "cites_id": [
+            "3093730306889100930"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In vitro differentiation of JMML mononuclear cells to CD1a+ dendritic cells is not GM-CSF dependent.",
+            "pub_year": "2000",
+            "citation": "Blood 96 (11), 748A-748A, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:uc_IGeMz5qoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6025752307516104883",
+        "cites_id": [
+            "6025752307516104883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A human autoantiserum recognizes a major nucleolar protein in onion cells",
+            "pub_year": "1990",
+            "citation": "Cell Biology International Reports 14, 129, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13488718043206557892",
+        "cites_id": [
+            "13488718043206557892"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Field scale biodegradation of total petroleum hydrocarbons and soil restoration by Ecopiles: microbiological analysis of the process",
+            "pub_year": "2023",
+            "citation": "Frontiers in Microbiology 14, 1158130, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:ML0RJ9NH7IQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaption of Pseudomonas ogarae F113 to the Rhizosphere Environment\u2014The AmrZ-FleQ Hub",
+            "pub_year": "2023",
+            "citation": "Microorganisms 11 (4), 1037, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:4MWp96NkSFoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Influence of Water Management on Iron Phosphorus Interaction in Rice Rhizosphere",
+            "pub_year": "2023",
+            "citation": "-, 1-1, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:BwyfMAYsbu0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Macroporous Silicone Chips for Decoding Microbial Dark Matter in Environmental Microbiomes",
+            "pub_year": "2022",
+            "citation": "ACS Applied Materials & Interfaces 14 (44), 49592-49603, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:t7zJ5fGR-2UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SOIL BURNING & RAINFALL SIMULATIONS: PRELIMINARY RESULTS OF A LAB SCALE EXPERIMENT",
+            "pub_year": "2022",
+            "citation": "*-*, 1-1, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:EkHepimYqZsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BioEnPro4TO: advanced indoor and vertical farm models in circular economy, innovative solutions for sustainable urban farming",
+            "pub_year": "2021",
+            "citation": "III International Symposium on Soilless Culture and Hydroponics: Innovation \u2026, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:nrtMV_XWKgEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rhizosphere microbiota drives biogeochemical arsenic transformations in rice paddies amended with sulfate",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:0KyAp5RtaNEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thioarsenate formation in paddy soils",
+            "pub_year": "2019",
+            "citation": "Environmental Arsenic in a Changing World: Proceedings of the 7th \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:URolC5Kub84C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Redox-driven mineralogical changes in Fe (hydr) oxides across particle-size SOM fractions",
+            "pub_year": "2019",
+            "citation": "First Joint Meeting on Soil and Plant System Sciences (SPSS 2019). Natural \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:yB1At4FlUx8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dissolved organic carbon retention by coprecipitation during the oxidation of ferrous iron (EGU2018-3906)",
+            "pub_year": "2018",
+            "citation": "Geophysical Research Abstracts 20, 3906-3906, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:AvfA0Oy_GE0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arsenic mobility in natural and synthetic coprecipitation products",
+            "pub_year": "2016",
+            "citation": "Arsenic Research and Global Sustainability: Proceedings of the Sixth \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:epqYDVWIO7EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Influence of conventional and non-conventional Si amendments/fertilizers on the release of As from paddy soils and the uptake of As and Si by the rice plant",
+            "pub_year": "2016",
+            "citation": "ASA-CSSA-SSSA 2016 Meeting. Resilience emerging from scarcity and abundance \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:vDijr-p_gm4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Continuous flooding selects for bacterial populations involved in arsenic cycle in rice rhizosphere",
+            "pub_year": "2015",
+            "citation": "The microbial continuity across changing ecosystems, 175-175, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:uWiczbcajpAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nella rizosfera del riso la sommersione continua seleziona popolazioni batteriche coinvolte nel ciclo dell'arsenico",
+            "pub_year": "2015",
+            "citation": "ISTISAN CONGRESSI 15 (C/3), 8-8, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:ipzZ9siozwsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Iron-reducing bacteria in rice rhizosphere contribute to arsenic mobilization under flooded conditions",
+            "pub_year": "2015",
+            "citation": "Rhizosphere 4 Book of abstracts, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:9Nmd_mFXekcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cluster of Adenovirus in a pediatric haemato-oncology ward: Is this an outbreak?",
+            "pub_year": "2011",
+            "citation": "INTERNATIONAL JOURNAL OF MEDICAL MICROBIOLOGY 301, 39-39, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:BUYA1_V_uYcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Repression of motility in Pseudomonas fluorescens F113 by the GacAS and SadB pathways occurs through activation of the production of the AlgT sigma factor",
+            "pub_year": "2010",
+            "citation": "Biological Nitrogen Fixation and Plant-Associated Microorganisms 15, 133, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:8AbLer7MMksC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional Organization of the Region",
+            "pub_year": "2008",
+            "citation": "J. Bacteriol 190 (11), 4106, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:KxtntwgDAa4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Is biofilm formation a requirement for rhizosphere colonization?",
+            "pub_year": "2008",
+            "citation": "Biology of Plant-Microbe Interactions, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the impact of introduction of GMOs designed for rhizoremediation on soil and rhizosphere bacterial communities",
+            "pub_year": "2007",
+            "citation": "In Biosorption and Bioremediation, 183-186, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PLANT-MICROBE INTERACTIONS-Two site-specific recombinases are implicated in phenotypic variation and competitive rhizosphere colonization in Pseudomonas fluorescens",
+            "pub_year": "2005",
+            "citation": "Microbiology-Reading 151 (3), 975-984, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:SP6oXDckpogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role of Site-specific recombinases and motility in Alfalfa rhizosphere colonization by Pseudomonas fluorescens F113.",
+            "pub_year": "2004",
+            "citation": "Advances in Molecular Genetics of Plant Microbe Interactions. 4, 561-564, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:_xSYboBqXhAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Further investigations on the functional role of two nuclear bodies in onion cells",
+            "pub_year": "1992",
+            "citation": "protoplasma 167, 175-182, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:-_dYPAW6P2MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of genes required for photperiodic control of flowering time in Arabidopsis thaliana",
+            "pub_year": "1992",
+            "citation": "Plant Science Research Ltd. and John Innes Institute, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spanish Society of Microbiology",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:ZfRJV9d4-WMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplementary material of: Analysis of the biodegradative and adaptive potential of the novel PCB degrader Rhodococcus sp. WAY2 revealed by its complete genome sequence",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:kzcrU_BdoSEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mecanismos de adaptaci\u00f3n de las bacterias al ambiente rizosf\u00e9rico. Caracterizaci\u00f3n de consorcios bacterianos para tecnolog\u00edas agr\u00edcolas y de medio ambiente (RIZOSFERA-UAM)",
+            "citation": "Appl Environ Microbiol 77, 5412-9, 0"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:_Ybze24A_UAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Session II SII-CP-02 AmrZ es un regulador transcripcional global en Pseudomonas fluorescens F113.",
+            "citation": "II IBEROAMERICAN CONFERENCE ON BENEFICIAL PLANT-MICROORGANISM-ENVIRONMENT \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:u9iWguZQMMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Session V SV-CP-11 Regulation of cellulose-like polysaccharide synthesis in Sinorhizobium meliloti.",
+            "citation": "II IBEROAMERICAN CONFERENCE ON BENEFICIAL PLANT-MICROORGANISM-ENVIRONMENT \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:dshw04ExmUIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mecanismos de adaptaci\u00f3n de P. fluorescens F113 al ambiente rizosf\u00e9rico",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Session IV SIV-CO-2 Movimiento y quimiot\u00e1xis en Pseudomonas fluorescens F113, influencia en una colonizaci\u00f3n competente de la rizosfera de las plantas.",
+            "citation": "II IBEROAMERICAN CONFERENCE ON BENEFICIAL PLANT-MICROORGANISM-ENVIRONMENT \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "rbOjlVwAAAAJ:P5F9QuxV20EC",
+        "num_citations": 0
+    }
+]

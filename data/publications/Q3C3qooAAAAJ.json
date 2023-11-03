@@ -1,0 +1,837 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Root microbiota drive direct integration of phosphate stress and immunity",
+            "pub_year": "2017",
+            "citation": "Nature 543 (7646), 513-518, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 646,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13827827846125114306",
+        "cites_id": [
+            "13827827846125114306"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A single bacterial genus maintains root growth in a complex microbiome",
+            "pub_year": "2020",
+            "citation": "Nature 587 (7832), 103-108, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:u9iWguZQMMsC",
+        "num_citations": 223,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11666530355976359782,8299386241397607752",
+        "cites_id": [
+            "11666530355976359782",
+            "8299386241397607752"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The plant microbiome: from ecology to reductionism and beyond",
+            "pub_year": "2020",
+            "citation": "Annual review of microbiology 74, 81-100, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 211,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16419568988425810500",
+        "cites_id": [
+            "16419568988425810500"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A gene encoding maize caffeoyl-CoA O-methyltransferase confers quantitative resistance to multiple pathogens",
+            "pub_year": "2017",
+            "citation": "Nature Genetics 49 (9), 1364-1372, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 187,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12405206183499840490,2941096693988542811",
+        "cites_id": [
+            "12405206183499840490",
+            "2941096693988542811"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Design of synthetic bacterial communities for predictable plant phenotypes",
+            "pub_year": "2018",
+            "citation": "PLoS biology 16 (2), e2003962, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 182,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14451929271525028487",
+        "cites_id": [
+            "14451929271525028487"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Beyond pathogens: microbiota interactions with the plant immune system",
+            "pub_year": "2019",
+            "citation": "Current opinion in microbiology 49, 7-17, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 167,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3508746142135910591",
+        "cites_id": [
+            "3508746142135910591"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide assessment of efficiency and specificity in CRISPR/Cas9 mediated multiple site targeting in Arabidopsis",
+            "pub_year": "2016",
+            "citation": "PloS one 11 (9), e0162169, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:TFP_iSt0sucC",
+        "num_citations": 160,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7330531626982823560",
+        "cites_id": [
+            "7330531626982823560"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effects of soil phosphorus content on plant microbiota are driven by the plant phosphate starvation response",
+            "pub_year": "2019",
+            "citation": "PLoS Biology 17 (11), e3000534, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 141,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17140831207795001036,4220313240806386296",
+        "cites_id": [
+            "17140831207795001036",
+            "4220313240806386296"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-Resolution Transcript Profiling of the Atypical Biotrophic Interaction between Theobroma cacao and the Fungal Pathogen Moniliophthora perniciosa",
+            "pub_year": "2014",
+            "citation": "The Plant Cell 26 (11), 4245-4269, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 123,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5989982257639063481",
+        "cites_id": [
+            "5989982257639063481"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome and secretome analysis of the hemibiotrophic fungal pathogen, Moniliophthora roreri, which causes frosty pod rot disease of cacao: mechanisms of the biotrophic and \u2026",
+            "pub_year": "2014",
+            "citation": "BMC genomics 15 (1), 1-25, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6884315630834022276",
+        "cites_id": [
+            "6884315630834022276"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pseudomonas syringae type III effector HopBB1 promotes host transcriptional repressor degradation to regulate phytohormone responses and virulence",
+            "pub_year": "2017",
+            "citation": "Cell host & microbe 21 (2), 156-168, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:maZDTaKrznsC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16081646444754205733",
+        "cites_id": [
+            "16081646444754205733"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genome sequence of Propionibacterium acidipropionici provides insights into its biotechnological and industrial potential",
+            "pub_year": "2012",
+            "citation": "BMC genomics 13, 1-20, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13550835200390195895",
+        "cites_id": [
+            "13550835200390195895"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The hemibiotrophic cacao pathogen Moniliophthora perniciosa depends on a mitochondrial alternative oxidase for biotrophic development",
+            "pub_year": "2012",
+            "citation": "New Phytologist 194 (4), 1025-1034, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=237498870905118331",
+        "cites_id": [
+            "237498870905118331"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Specific modulation of the root immune system by a community of commensal bacteria",
+            "pub_year": "2021",
+            "citation": "Proceedings of the National Academy of Sciences 118 (16), e2100678118, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6808709746374007761",
+        "cites_id": [
+            "6808709746374007761"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Saccharomyces cerevisiae transcriptional reprograming due to bacterial contamination during industrial scale bioethanol production",
+            "pub_year": "2015",
+            "citation": "Microbial cell factories 14, 1-13, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:IWHjjKOFINEC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15134366667182043303",
+        "cites_id": [
+            "15134366667182043303"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional Diversification of Cerato-Platanins in Moniliophthora perniciosa as Seen by Differential Expression and Protein Function Specialization",
+            "pub_year": "2013",
+            "citation": "Molecular plant-microbe interactions 26 (11), 1281-1293, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:roLk4NBRz8UC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18177423875696802720",
+        "cites_id": [
+            "18177423875696802720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contrasting nitrogen fertilization treatments impact xylem gene expression and secondary cell wall lignification in Eucalyptus",
+            "pub_year": "2014",
+            "citation": "BMC plant biology 14 (1), 1-17, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17737257762568776816",
+        "cites_id": [
+            "17737257762568776816"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Suppression of plant immunity by fungal chitinase-like effectors",
+            "pub_year": "2018",
+            "citation": "Current Biology 28 (18), 3023-3030. e5, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:70eg2SAEIzsC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5604763044560545081",
+        "cites_id": [
+            "5604763044560545081"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time for chocolate: current understanding and new perspectives on cacao witches\u2019 broom disease research",
+            "pub_year": "2015",
+            "citation": "PLoS Pathogens 11 (10), e1005130, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:mB3voiENLucC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17843048750882224819",
+        "cites_id": [
+            "17843048750882224819"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Fungal Pathogen Moniliophthora perniciosa Has Genes Similar to Plant PR-1 That Are Highly Expressed during Its Interaction with Cacao",
+            "pub_year": "2012",
+            "citation": "PLOS ONE 7 (9), e45929, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13245669492109764566",
+        "cites_id": [
+            "13245669492109764566"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The crystal structure of necrosis-and ethylene-inducing protein 2 from the causal agent of cacao\u2019s Witches\u2019 Broom disease reveals key elements for its activity",
+            "pub_year": "2011",
+            "citation": "Biochemistry 50 (45), 9901-9910, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7538783192183587115",
+        "cites_id": [
+            "7538783192183587115"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effector-Triggered Immune Response in Arabidopsis thaliana Is a Quantitative Trait",
+            "pub_year": "2016",
+            "citation": "Genetics 204 (1), 337-353, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:r0BpntZqJG4C",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=216613920336441805",
+        "cites_id": [
+            "216613920336441805"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Root-exuded coumarin shapes the root microbiome",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (22), 5629-5631, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:lSLTfruPkqcC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1988759132703776367",
+        "cites_id": [
+            "1988759132703776367"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Xylem transcription profiles indicate potential metabolic responses for economically relevant characteristics of Eucalyptusspecies",
+            "pub_year": "2013",
+            "citation": "BMC genomics 14, 1-13, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:WF5omc3nYNoC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14298450951676332926",
+        "cites_id": [
+            "14298450951676332926"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photosynthate Regulation of the Root System Architecture Mediated by the Heterotrimeric G Protein Complex in Arabidopsis",
+            "pub_year": "2016",
+            "citation": "Frontiers in plant science 7, 1255, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14674201347589332909",
+        "cites_id": [
+            "14674201347589332909"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ceratocystis cacaofunesta genome analysis reveals a large expansion of extracellular phosphatidylinositol-specific phospholipase-C genes (PI-PLC)",
+            "pub_year": "2018",
+            "citation": "Bmc Genomics 19, 1-24, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9306569322899939406",
+        "cites_id": [
+            "9306569322899939406"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global analyses of Ceratocystis cacaofunesta mitochondria: from genome to proteome",
+            "pub_year": "2013",
+            "citation": "BMC genomics 14 (1), 1-16, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10604875207778258346",
+        "cites_id": [
+            "10604875207778258346"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A potential role for an extracellular methanol oxidase secreted by Moniliophthora perniciosa in Witches\u2019 broom disease in cacao",
+            "pub_year": "2012",
+            "citation": "Fungal genetics and biology 49 (11), 922-932, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:qjMakFHDy7sC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4465380099778131177",
+        "cites_id": [
+            "4465380099778131177"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant pathogenesis\u2013related proteins of the cacao fungal pathogen Moniliophthora perniciosa differ in their lipid-binding specificities",
+            "pub_year": "2017",
+            "citation": "Journal of Biological Chemistry 292 (50), 20558-20569, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7022690999654239294",
+        "cites_id": [
+            "7022690999654239294"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic analyses and expression evaluation of thaumatin-like gene family in the cacao fungal pathogen Moniliophthora perniciosa",
+            "pub_year": "2015",
+            "citation": "Biochemical and biophysical research communications 466 (4), 629-636, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2799740324568371150",
+        "cites_id": [
+            "2799740324568371150"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tradict enables accurate prediction of eukaryotic transcriptional states from 100 marker genes",
+            "pub_year": "2017",
+            "citation": "Nature communications 8 (1), 15309, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6676443976026481323,9295372580640771678",
+        "cites_id": [
+            "6676443976026481323",
+            "9295372580640771678"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel receptor\u2010like kinases in cacao contain PR\u20101 extracellular domains",
+            "pub_year": "2013",
+            "citation": "Molecular plant pathology 14 (6), 602-609, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:ufrVoPGSRksC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5770835502467187288",
+        "cites_id": [
+            "5770835502467187288"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Beneficial Microbiota Interacting With the Plant Immune System",
+            "pub_year": "2021",
+            "citation": "Frontiers in Plant Science, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:8AbLer7MMksC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10990915193087872041,10069235632098545642",
+        "cites_id": [
+            "10990915193087872041",
+            "10069235632098545642"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "De Novo Assembly of Candida sojae and Candida boidinii Genomes, Unexplored Xylose-Consuming Yeasts with Potential for Renewable Biochemical Production",
+            "pub_year": "2016",
+            "citation": "Genome announcements 4 (1), 10.1128/genomea. 01551-15, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:TQgYirikUcIC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8763486706072151057",
+        "cites_id": [
+            "8763486706072151057"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flavonoid supplementation affects the expression of genes involved in cell wall formation and lignification metabolism and increases sugar content and saccharification in the \u2026",
+            "pub_year": "2014",
+            "citation": "BMC Plant Biology 14 (1), 1-17, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2474400950326039647",
+        "cites_id": [
+            "2474400950326039647"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Moniliophthora perniciosa, the causal agent of witches\u2019 broom disease of cacao, interferes with cytokinin metabolism during infection of Micro\u2010Tom tomato and \u2026",
+            "pub_year": "2021",
+            "citation": "New Phytologist 231 (1), 365-381, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:vRqMK49ujn8C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6557889676620653257",
+        "cites_id": [
+            "6557889676620653257"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomics, transcriptomics, and beyond: the fifteen years of cacao\u2019s witches\u2019 broom disease genome project",
+            "pub_year": "2016",
+            "citation": "Cacao diseases: a history of old enemies and new encounters, 179-210, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5589448746811143055",
+        "cites_id": [
+            "5589448746811143055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant-microbiome crosstalk and disease development",
+            "pub_year": "2023",
+            "citation": "Current Opinion in Plant Biology 72, 102351, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:bnK-pcrLprsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4860261488874030331",
+        "cites_id": [
+            "4860261488874030331"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Infection by Moniliophthora perniciosa reprograms tomato Micro-Tom physiology, establishes a sink, and increases secondary cell wall synthesis",
+            "pub_year": "2022",
+            "citation": "Journal of Experimental Botany 73 (11), 3651-3670, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=972480263001599221",
+        "cites_id": [
+            "972480263001599221"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A single bacterial genus maintains root development in a complex microbiome",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 645655, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:J-pR_7NvFogC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1085948290305934815",
+        "cites_id": [
+            "1085948290305934815"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Endogenous salicylic acid suppresses de novo root regeneration from leaf explants",
+            "pub_year": "2023",
+            "citation": "PLoS Genetics 19 (3), e1010636, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:XiVPGOgt02cC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10719169235002544774",
+        "cites_id": [
+            "10719169235002544774"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptive evolution of Moniliophthora PR-1 proteins towards its pathogenic lifestyle",
+            "pub_year": "2021",
+            "citation": "BMC Ecology and Evolution 21 (1), 1-16, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:738O_yMBCRsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14390148174692253910",
+        "cites_id": [
+            "14390148174692253910"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MAMP-triggered Medium Alkalinization of Plant Cell Cultures",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:a0OBvERweLwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5578961384606076832",
+        "cites_id": [
+            "5578961384606076832"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In Planta Study Localizes an Effector Candidate from Austropuccinia psidii Strain MF-1 to the Nucleus and Demonstrates In Vitro Cuticular Wax-Dependent \u2026",
+            "pub_year": "2023",
+            "citation": "Journal of Fungi 9 (8), 848, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:eMMeJKvmdy0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Microbiome-mediated metabolic defence",
+            "pub_year": "2023",
+            "citation": "Nature Plants, 1-2, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:AXPGKjj_ei8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of auxin in the virulence of the cacao pathogen Moniliophthora perniciosa",
+            "pub_year": "2021",
+            "citation": "MOLECULAR PLANT-MICROBE INTERACTIONS 34 (7), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ADR1-L2 helper NLR signals through a TIR-domain containing NLR.",
+            "pub_year": "2019",
+            "citation": "2019 IS-MPMI XVIII Congress, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:u_35RYKgDlwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Helper NLRs\u2013How is their cell death and resistance function regulated?",
+            "pub_year": "2019",
+            "citation": "2019 IS-MPMI XVIII Congress, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:rO6llkc54NcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dissecting the Moniliophthora Perniciosa x Host Interaction Using 'micro-Tom' Tomato As a Proxy: A Functional Genomic Approach",
+            "pub_year": "2019",
+            "citation": "Plant and Animal Genome XXVII Conference (January 12-16, 2019), 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetics: Early Online, published on July 13, 2016 as 10.1534/genetics. 116.190678",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:geHnlv5EZngC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural studies of alternative oxidase (AOX) from moniliophthora perniciosa, the causal agent of witches' broom disease in cacao: a membrane-associated protein",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[BDC] Gradiente de pr\u00f3tons na mitoc\u00f4ndria",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:k_IJM867U9cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[BDC] Estrutura b\u00e1sica de uma c\u00e9lula bacteriana",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Microbiome-mediated metabolic defence",
+            "citation": "Nature plants, 0"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:Mojj43d5GZwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Atypical Infection By Moniliophthora perniciosa Reprograms Primary Metabolism and Generates Sink in Symptomatic Tissues of \u201cMicro-Tom",
+            "citation": "Plant and Animal Genome XXVI Conference (January 13-17, 2018), 0"
+        },
+        "filled": false,
+        "author_pub_id": "Q3C3qooAAAAJ:yD5IFk8b50cC",
+        "num_citations": 0
+    }
+]

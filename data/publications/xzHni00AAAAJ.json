@@ -1,0 +1,386 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Down-regulation of a host microRNA by a Herpesvirus saimiri noncoding RNA",
+            "pub_year": "2010",
+            "citation": "Science 328 (5985), 1563-1566, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 505,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13209088786391845357",
+        "cites_id": [
+            "13209088786391845357"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coupling of transcription with alternative splicing: RNA pol II promoters modulate SF2/ASF and 9G8 effects on an exonic splicing enhancer",
+            "pub_year": "1999",
+            "citation": "Molecular cell 4 (2), 251-258, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 390,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4813393906311037581",
+        "cites_id": [
+            "4813393906311037581"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "miR-29 and miR-30 regulate B-Myb expression during cellular senescence",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (2), 522-527, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 237,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3869743742572717341",
+        "cites_id": [
+            "3869743742572717341"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nuclear export and retention signals in the RS domain of SR proteins",
+            "pub_year": "2002",
+            "citation": "Molecular and cellular biology 22 (19), 6871-6882, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 205,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17893290918048494607",
+        "cites_id": [
+            "17893290918048494607"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antagonistic effects of T-Ag and VP16 reveal a role for RNA pol II elongation on alternative splicing",
+            "pub_year": "2001",
+            "citation": "The EMBO journal 20 (20), 5759-5768, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 185,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10870350584631745756",
+        "cites_id": [
+            "10870350584631745756"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reversible phosphorylation differentially affects nuclear and cytoplasmic functions of splicing factor 2/alternative splicing factor",
+            "pub_year": "2005",
+            "citation": "Proceedings of the National Academy of Sciences 102 (42), 15042-15047, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:qjMakFHDy7sC",
+        "num_citations": 168,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1996227895192726798",
+        "cites_id": [
+            "1996227895192726798"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A primate herpesvirus uses the integrator complex to generate viral microRNAs",
+            "pub_year": "2011",
+            "citation": "Molecular cell 43 (6), 982-992, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 123,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11597195428375335151",
+        "cites_id": [
+            "11597195428375335151"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MicroRNA-9 controls dendritic development by targeting REST",
+            "pub_year": "2014",
+            "citation": "Elife 3, e02755, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3018430798268097173",
+        "cites_id": [
+            "3018430798268097173"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential transcriptional profiles identify microglial-and macrophage-specific gene markers expressed during virus-induced neuroinflammation",
+            "pub_year": "2019",
+            "citation": "Journal of Neuroinflammation 16, 1-20, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:Se3iqnhoufwC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11285688258663429698",
+        "cites_id": [
+            "11285688258663429698"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel SR-related protein is required for the second step of Pre-mRNA splicing",
+            "pub_year": "2005",
+            "citation": "Molecular and cellular biology 25 (8), 2969-2980, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18356436788273022515",
+        "cites_id": [
+            "18356436788273022515"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A viral Sm-class RNA base-pairs with mRNAs and recruits microRNAs to inhibit apoptosis",
+            "pub_year": "2017",
+            "citation": "Nature 550 (7675), 275-279, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17207950545009139181",
+        "cites_id": [
+            "17207950545009139181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNase III-independent microRNA biogenesis in mammalian cells",
+            "pub_year": "2012",
+            "citation": "Rna 18 (12), 2166-2173, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5400263489321389052",
+        "cites_id": [
+            "5400263489321389052"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A rapid and efficient protocol to purify biologically active recombinant proteins from mammalian cells",
+            "pub_year": "2005",
+            "citation": "Protein expression and purification 42 (1), 54-58, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=504341628792307381",
+        "cites_id": [
+            "504341628792307381"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Noncoding RNPs of viral origin",
+            "pub_year": "2011",
+            "citation": "Cold Spring Harbor perspectives in biology 3 (3), a005165, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12353409251706181791",
+        "cites_id": [
+            "12353409251706181791"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Down-regulation of a host microRNA by a viral noncoding RNA",
+            "pub_year": "2010",
+            "citation": "Cold Spring Harbor symposia on quantitative biology 75, 321-324, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=40708070171836439",
+        "cites_id": [
+            "40708070171836439"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The challenge of viral snRNPs",
+            "pub_year": "2006",
+            "citation": "Cold Spring Harbor symposia on quantitative biology 71, 377-384, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12672638557844511226",
+        "cites_id": [
+            "12672638557844511226"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Viral miRNA adaptor differentially recruits miRNAs to target mRNAs through alternative base-pairing",
+            "pub_year": "2019",
+            "citation": "Elife 8, e50530, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:UebtZRa9Y70C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17240550520814840155",
+        "cites_id": [
+            "17240550520814840155"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Allosteric regulation of noncoding RNA function by microRNAs",
+            "pub_year": "2022",
+            "citation": "Nucleic acids research 50 (11), 6511-6520, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:8k81kl-MbHgC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6940040858868046231",
+        "cites_id": [
+            "6940040858868046231"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning noncoding RNA biology from viruses",
+            "pub_year": "2022",
+            "citation": "Mammalian Genome 33 (2), 412-420, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:0EnyYjriUFMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14322546157237035507",
+        "cites_id": [
+            "14322546157237035507"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel roles for Sm-class RNAs in the regulation of gene expression",
+            "pub_year": "2018",
+            "citation": "RNA biology 15 (7), 856-862, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:roLk4NBRz8UC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13366575010586074030",
+        "cites_id": [
+            "13366575010586074030"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Down-regulation of a host microRNA by a Herpesvirus saimiri noncoding RNA (vol 328, pg 1563, 2010)",
+            "pub_year": "2010",
+            "citation": "Science 329 (5998), 1467-1467, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:WF5omc3nYNoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6579139610359992296",
+        "cites_id": [
+            "6579139610359992296"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shaping the host cell environment with viral noncoding RNAs",
+            "pub_year": "2023",
+            "citation": "Seminars in Cell & Developmental Biology 146, 20-30, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modulation of TREM-1 activation in macrophages alters the development of acute seizures",
+            "pub_year": "2019",
+            "citation": "JOURNAL OF NEUROVIROLOGY 25 (SUPPL 1), S12-S13, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulating the activity of microRNPs in vertebrate cells",
+            "pub_year": "2009",
+            "citation": "The FASEB Journal 23, 90.3-90.3, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional characterisation of a novel arginine/serine-rich splicing factor",
+            "pub_year": "2003",
+            "citation": "PQDT-Global, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "xzHni00AAAAJ:ufrVoPGSRksC",
+        "num_citations": 0
+    }
+]

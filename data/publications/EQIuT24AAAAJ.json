@@ -1,0 +1,946 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complementary signaling pathways regulate the unfolded protein response and are required for C. elegans development",
+            "pub_year": "2001",
+            "citation": "Cell 107 (7), 893-903, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:5nxA0vEk-isC",
+        "num_citations": 796,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7159157486556013633",
+        "cites_id": [
+            "7159157486556013633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bioluminescence imaging of individual fibroblasts reveals persistent, independently phased circadian rhythms of clock gene expression",
+            "pub_year": "2004",
+            "citation": "Current Biology 14 (24), 2289-2295, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 773,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8818384801483010174",
+        "cites_id": [
+            "8818384801483010174"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The unfolded protein response in nutrient sensing and differentiation",
+            "pub_year": "2002",
+            "citation": "Nature Reviews Molecular Cell Biology 3 (6), 411-421, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 770,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9436518154298583977",
+        "cites_id": [
+            "9436518154298583977"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intercellular coupling confers robustness against mutations in the SCN circadian clock network",
+            "pub_year": "2007",
+            "citation": "Cell 129 (3), 605-616, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 768,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13294512448206458394",
+        "cites_id": [
+            "13294512448206458394"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cryptochrome mediates circadian regulation of cAMP signaling and hepatic gluconeogenesis",
+            "pub_year": "2010",
+            "citation": "Nature medicine 16 (10), 1152-1156, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 583,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12642821257955451237",
+        "cites_id": [
+            "12642821257955451237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ligand-independent dimerization activates the stress response kinases IRE1 and PERK in the lumen of the endoplasmic reticulum",
+            "pub_year": "2000",
+            "citation": "Journal of Biological Chemistry 275 (32), 24881-24885, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 494,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15969806440025705841",
+        "cites_id": [
+            "15969806440025705841"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A genome-wide RNAi screen for modifiers of the circadian clock in human cells",
+            "pub_year": "2009",
+            "citation": "Cell 139 (1), 199-210, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 467,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4851773762466707822",
+        "cites_id": [
+            "4851773762466707822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Redundant function of REV-ERB\u03b1 and \u03b2 and non-essential role for Bmal1 cycling in transcriptional regulation of intracellular circadian rhythms",
+            "pub_year": "2008",
+            "citation": "PLoS genetics 4 (2), e1000023, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 427,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6826619225896494359",
+        "cites_id": [
+            "6826619225896494359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The crystal structure of human IRE1 luminal domain reveals a conserved dimerization interface required for activation of the unfolded protein response",
+            "pub_year": "2006",
+            "citation": "Proceedings of the national academy of sciences 103 (39), 14343-14348, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:8k81kl-MbHgC",
+        "num_citations": 418,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13047410886915037639",
+        "cites_id": [
+            "13047410886915037639"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A chemical biology approach reveals period shortening of the mammalian circadian clock by specific inhibition of GSK-3\u03b2",
+            "pub_year": "2008",
+            "citation": "Proceedings of the National Academy of Sciences 105 (52), 20746-20751, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:qjMakFHDy7sC",
+        "num_citations": 304,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5170671288402203363",
+        "cites_id": [
+            "5170671288402203363"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Delay in feedback repression by cryptochrome 1 is required for circadian clock function",
+            "pub_year": "2011",
+            "citation": "Cell 144 (2), 268-281, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 288,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11168290717596370667",
+        "cites_id": [
+            "11168290717596370667"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The unfolded protein response",
+            "pub_year": "2003",
+            "citation": "Journal of cell science 116 (10), 1861-1862, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 276,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15741707073944776980",
+        "cites_id": [
+            "15741707073944776980"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Emergence of noise-induced oscillations in the central circadian pacemaker",
+            "pub_year": "2010",
+            "citation": "PLoS biology 8 (10), e1000513, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 226,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8524475646695549646",
+        "cites_id": [
+            "8524475646695549646"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A model of the cell-autonomous mammalian circadian clock",
+            "pub_year": "2009",
+            "citation": "Proceedings of the National Academy of Sciences 106 (27), 11107-11112, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 222,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8889417067247412137",
+        "cites_id": [
+            "8889417067247412137"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mammalian circadian signaling networks and therapeutic targets",
+            "pub_year": "2007",
+            "citation": "Nature chemical biology 3 (10), 630-639, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 217,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8364505505314227626",
+        "cites_id": [
+            "8364505505314227626"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Guidelines for genome-scale analysis of biological rhythms",
+            "pub_year": "2017",
+            "citation": "Journal of biological rhythms 32 (5), 380-393, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 199,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8842696442350915946",
+        "cites_id": [
+            "8842696442350915946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian regulation of ATP release in astrocytes",
+            "pub_year": "2011",
+            "citation": "Journal of Neuroscience 31 (23), 8342-8350, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 181,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16575296975885280004",
+        "cites_id": [
+            "16575296975885280004"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The protein kinase/endoribonuclease IRE1\u03b1 that signals the unfolded protein response has a luminal N-terminal ligand-independent dimerization domain",
+            "pub_year": "2002",
+            "citation": "Journal of Biological Chemistry 277 (21), 18346-18356, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 163,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14494125418212752921",
+        "cites_id": [
+            "14494125418212752921"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "mTOR signaling regulates central and peripheral circadian clock function",
+            "pub_year": "2018",
+            "citation": "PLoS genetics 14 (5), e1007369, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:a0OBvERweLwC",
+        "num_citations": 160,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13518407921702624044",
+        "cites_id": [
+            "13518407921702624044"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure and intermolecular interactions of the luminal dimerization domain of human IRE1\u03b1",
+            "pub_year": "2003",
+            "citation": "Journal of Biological Chemistry 278 (20), 17680-17687, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 159,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6765545622564507655",
+        "cites_id": [
+            "6765545622564507655"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Translational control of entrainment and synchrony of the suprachiasmatic circadian clock by mTOR/4E-BP1 signaling",
+            "pub_year": "2013",
+            "citation": "Neuron 79 (4), 712-724, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:4DMP91E08xMC",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14487132862032006297",
+        "cites_id": [
+            "14487132862032006297"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cryptochrome 1 regulates the circadian clock through dynamic interactions with the BMAL1 C terminus",
+            "pub_year": "2015",
+            "citation": "Nature structural & molecular biology 22 (6), 476-484, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:O3NaXMp0MMsC",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13240547782099461077",
+        "cites_id": [
+            "13240547782099461077"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Machine learning helps identify CHRONO as a circadian clock component",
+            "pub_year": "2014",
+            "citation": "PLoS biology 12 (4), e1001840, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:dhFuZR0502QC",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13548816051375958342",
+        "cites_id": [
+            "13548816051375958342"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell Type-Specific Functions of Period Genes Revealed by Novel Adipocyte and Hepatocyte Circadian Clock Models",
+            "pub_year": "2014",
+            "citation": "PLoS genetics 10 (4), e1004244, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17351904701713401728",
+        "cites_id": [
+            "17351904701713401728"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of a novel cryptochrome differentiating domain required for feedback repression in circadian clock function",
+            "pub_year": "2012",
+            "citation": "Journal of Biological Chemistry 287 (31), 25917-25926, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17037892318059309954",
+        "cites_id": [
+            "17037892318059309954"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NRF2 regulates core and stabilizing circadian clock loops, coupling redox and timekeeping in Mus musculus",
+            "pub_year": "2018",
+            "citation": "Elife 7, e31656, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10338776696062502299",
+        "cites_id": [
+            "10338776696062502299"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light-regulated translational control of circadian behavior by eIF4E phosphorylation",
+            "pub_year": "2015",
+            "citation": "Nature neuroscience 18 (6), 855-862, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:GnPB-g6toBAC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8745017048482947615",
+        "cites_id": [
+            "8745017048482947615"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring cell-autonomous circadian clock rhythms of gene expression using luciferase bioluminescence reporters",
+            "pub_year": "2012",
+            "citation": "JoVE (Journal of Visualized Experiments), e4234, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18121485690707291489",
+        "cites_id": [
+            "18121485690707291489"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Construction and characterization of the soybean leaf metalloproteinase cDNA",
+            "pub_year": "1997",
+            "citation": "FEBS letters 404 (2-3), 283-288, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:_kc_bZDykSQC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6800129394280263837",
+        "cites_id": [
+            "6800129394280263837"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A slow conformational switch in the BMAL1 transactivation domain modulates circadian rhythms",
+            "pub_year": "2017",
+            "citation": "Molecular cell 66 (4), 447-457. e7, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:zA6iFVUQeVQC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13420060739469114612",
+        "cites_id": [
+            "13420060739469114612"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CREBH couples circadian clock with hepatic lipid metabolism",
+            "pub_year": "2016",
+            "citation": "Diabetes 65 (11), 3369-3383, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:fPk4N6BV_jEC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16033047191294708522",
+        "cites_id": [
+            "16033047191294708522"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The unfolded protein response represses differentiation through the RPD3\u2010SIN3 histone deacetylase",
+            "pub_year": "2004",
+            "citation": "The EMBO journal 23 (11), 2281-2292, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:UebtZRa9Y70C",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2522006560680970389",
+        "cites_id": [
+            "2522006560680970389"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The eIF2\u03b1 kinase GCN2 modulates period and rhythmicity of the circadian clock by translational control of Atf4",
+            "pub_year": "2019",
+            "citation": "Neuron 104 (4), 724-735. e6, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:pyW8ca7W8N0C",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9087820424762572938",
+        "cites_id": [
+            "9087820424762572938"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time-restricted feeding of a high-fat diet in male C57BL/6 mice reduces adiposity but does not protect against increased systemic inflammation",
+            "pub_year": "2018",
+            "citation": "Applied Physiology, Nutrition, and Metabolism 43 (10), 1033-1042, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:yD5IFk8b50cC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5975577552487856749",
+        "cites_id": [
+            "5975577552487856749"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NF-\u03baB modifies the mammalian circadian clock through interaction with the core clock protein BMAL1",
+            "pub_year": "2021",
+            "citation": "PLoS genetics 17 (11), e1009933, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:tOudhMTPpwUC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17377430742512908716",
+        "cites_id": [
+            "17377430742512908716"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kava as a clinical nutrient: promises and challenges",
+            "pub_year": "2020",
+            "citation": "Nutrients 12 (10), 3044, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:08ZZubdj9fEC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1929167203390815522",
+        "cites_id": [
+            "1929167203390815522"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cry1\u2212/\u2212 Circadian Rhythmicity Depends on SCN Intercellular Coupling",
+            "pub_year": "2012",
+            "citation": "Journal of biological rhythms 27 (6), 443-452, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2223524675324066940",
+        "cites_id": [
+            "2223524675324066940"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protein kinase p38\u03b1 signaling in dendritic cells regulates colon inflammation and tumorigenesis",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (52), E12313-E12322, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:D03iK_w7-QYC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7725489512685076597",
+        "cites_id": [
+            "7725489512685076597"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mammalian retinal M\u00fcller cells have circadian clock function",
+            "pub_year": "2016",
+            "citation": "Molecular Vision 22, 275, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:u_35RYKgDlwC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13685014604798147932",
+        "cites_id": [
+            "13685014604798147932"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The NRON complex controls circadian clock function through regulated PER and CRY nuclear translocation",
+            "pub_year": "2019",
+            "citation": "Scientific reports 9 (1), 11883, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:f2IySw72cVMC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5265390877321921230",
+        "cites_id": [
+            "5265390877321921230"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systems level understanding of circadian integration with cell physiology",
+            "pub_year": "2020",
+            "citation": "Journal of molecular biology 432 (12), 3547-3564, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:u9iWguZQMMsC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7319138601789691316",
+        "cites_id": [
+            "7319138601789691316"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian synchrony: sleep, nutrition, and physical activity",
+            "pub_year": "2021",
+            "citation": "Frontiers in network physiology 1, 732243, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14967277022348890821",
+        "cites_id": [
+            "14967277022348890821"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Defining the age-dependent and tissue-specific circadian transcriptome in male mice",
+            "pub_year": "2023",
+            "citation": "Cell reports 42 (1), 2023"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:olpn-zPbct0C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8828815995219755630",
+        "cites_id": [
+            "8828815995219755630"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Innovations in Geroscience to enhance mobility in older adults",
+            "pub_year": "2020",
+            "citation": "Experimental Gerontology 142, 111123, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:vRqMK49ujn8C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13394155721565280981",
+        "cites_id": [
+            "13394155721565280981"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cloning of 1-aminocyclopropane-1-carboxylate (ACC) synthetase cDNA and the inhibition of fruit ripening by its antisense RNA in transgenic tomato plants.",
+            "pub_year": "1998",
+            "citation": "Chinese journal of biotechnology 14 (2), 75-84, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:70eg2SAEIzsC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=799363757657168901",
+        "cites_id": [
+            "799363757657168901"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Likelihood-based tests for detecting circadian rhythmicity and differential circadian patterns in transcriptomic applications",
+            "pub_year": "2021",
+            "citation": "Briefings in Bioinformatics 22 (6), bbab224, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:geHnlv5EZngC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5207991254323529579",
+        "cites_id": [
+            "5207991254323529579"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prevalence of cycling genes and drug targets calls for prospective chronotherapeutics",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (45), 15869-15870, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:k_IJM867U9cC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12016634162541643741",
+        "cites_id": [
+            "12016634162541643741"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cloning and characterization of an Arabidopsis thaliana cDNA homologous to the matrix metalloproteinases",
+            "pub_year": "1998",
+            "citation": "Plant Physiol. 117, 1127, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:ldfaerwXgEUC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2214811672068506694",
+        "cites_id": [
+            "2214811672068506694"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reuniting the body \u201cneck up and neck down\u201d to understand cognitive aging: the nexus of geroscience and neuroscience",
+            "pub_year": "2022",
+            "citation": "The Journals of Gerontology: Series A 77 (1), e1-e9, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:eflP2zaiRacC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15430094355567913607",
+        "cites_id": [
+            "15430094355567913607"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cooperation between bHLH transcription factors and histones for DNA access",
+            "pub_year": "2023",
+            "citation": "Nature, 1-9, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:SdhP9T11ey4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5918533925534687317",
+        "cites_id": [
+            "5918533925534687317"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of multi-omics in single cells",
+            "pub_year": "2018",
+            "citation": "Ann Biotechnol 2, 1007, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:PELIpwtuRlgC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8072507902913249957",
+        "cites_id": [
+            "8072507902913249957"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developing Mammalian Cellular Clock Models Using Firefly Luciferase Reporter",
+            "pub_year": "2018",
+            "citation": "Reporter Gene Assays: Methods and Protocols, 49-64, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:dfsIfKJdRG4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17297407681512253159",
+        "cites_id": [
+            "17297407681512253159"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian Rhythm Effects on the Molecular Regulation of Physiological Systems",
+            "pub_year": "2011",
+            "citation": "Comprehensive Physiology 12 (1), 2769-2798, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:9vf0nzSNQJEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10271331453592203605",
+        "cites_id": [
+            "10271331453592203605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integration of genome-scale data identifies candidate sleep regulators",
+            "pub_year": "2023",
+            "citation": "Sleep 46 (2), zsac279, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:eMMeJKvmdy0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18180020735813936585",
+        "cites_id": [
+            "18180020735813936585"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimental design and power calculation in omics circadian rhythmicity detection",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.01. 19.476930, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:5ugPr518TE4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14634150199777428102",
+        "cites_id": [
+            "14634150199777428102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A wrinkle in time: circadian biology in pulmonary vascular health and disease",
+            "pub_year": "2022",
+            "citation": "American Journal of Physiology-Lung Cellular and Molecular Physiology 322 (1 \u2026, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:kRWSkSYxWN8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6329880744884273349",
+        "cites_id": [
+            "6329880744884273349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimental design and power calculation in omics circadian rhythmicity detection using the cosinor model",
+            "pub_year": "2023",
+            "citation": "Statistics in Medicine 42 (18), 3236-3258, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:JoZmwDi-zQgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PSMD11 modulates circadian clock function through PER and CRY nuclear translocation",
+            "pub_year": "2023",
+            "citation": "Plos one 18 (3), e0283463, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:_B80troHkn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detailed Clinical and Functional Studies of New MTOR Variants in Smith-Kingsmore Syndrome Reveal Deficits of Circadian and Sleep Homeostasis",
+            "pub_year": "2022",
+            "citation": "medRxiv, 2022.02. 15.22269076, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:XiVPGOgt02cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian Rhythm Effects on the Molecular Regulation of Physiological Systems",
+            "pub_year": "2022",
+            "citation": "Comprehensive Physiology 12 (1), 2769-2798, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EQIuT24AAAAJ:dTyEYWd-f8wC",
+        "num_citations": 0
+    }
+]

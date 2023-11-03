@@ -1,0 +1,4671 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New handbook for standardised measurement of plant functional traits worldwide",
+            "pub_year": "2013",
+            "citation": "Australian Journal of botany 61, 167-234, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:owLR8QvbtFgC",
+        "num_citations": 3896,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5373136547268227511,18386124239945067709",
+        "cites_id": [
+            "5373136547268227511",
+            "18386124239945067709"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TRY\u2013a global database of plant traits",
+            "pub_year": "2011",
+            "citation": "Global change biology 17 (9), 2905-2935, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 2528,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4922912965000452516,17475948219354472158",
+        "cites_id": [
+            "4922912965000452516",
+            "17475948219354472158"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TRY plant trait database\u2013enhanced coverage and open access",
+            "pub_year": "2020",
+            "citation": "Global change biology 26 (1), 119-188, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:GFxP56DSvIMC",
+        "num_citations": 1003,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8376979480554799346",
+        "cites_id": [
+            "8376979480554799346"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf hydraulics",
+            "pub_year": "2006",
+            "citation": "Annu. Rev. Plant Biol. 57, 361-381, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1003,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9153159986245798520",
+        "cites_id": [
+            "9153159986245798520"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The determinants of leaf turgor loss point and prediction of drought tolerance of species and biomes: a global meta\u2010analysis",
+            "pub_year": "2012",
+            "citation": "Ecology letters 15 (5), 393-405, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 850,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=400483706592628572",
+        "cites_id": [
+            "400483706592628572"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The \u2018hydrology\u2019of leaves: co\u2010ordination of structure and function in temperate woody species",
+            "pub_year": "2003",
+            "citation": "Plant, Cell & Environment 26 (8), 1343-1356, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 807,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17751436971287740104",
+        "cites_id": [
+            "17751436971287740104"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf venation: structure, function, development, evolution, ecology and applications in the past, present and future",
+            "pub_year": "2013",
+            "citation": "New phytologist 198 (4), 983-1000, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:mB3voiENLucC",
+        "num_citations": 665,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4715306493267757025",
+        "cites_id": [
+            "4715306493267757025"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Meta-analysis reveals that hydraulic traits explain cross-species patterns of drought-induced tree mortality across the globe",
+            "pub_year": "2016",
+            "citation": "Proceedings of the National Academy of Sciences 113 (18), 5024-5029, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Mojj43d5GZwC",
+        "num_citations": 648,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13774113375833963927",
+        "cites_id": [
+            "13774113375833963927"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global climatic drivers of leaf size",
+            "pub_year": "2017",
+            "citation": "Science 357 (6354), 917-921, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:EkHepimYqZsC",
+        "num_citations": 612,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6703207791782540110",
+        "cites_id": [
+            "6703207791782540110"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CTFS\u2010Forest GEO: a worldwide network monitoring forests in an era of global change",
+            "pub_year": "2015",
+            "citation": "Global change biology 21 (2), 528-549, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:WbkHhVStYXYC",
+        "num_citations": 588,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15312509857263419251",
+        "cites_id": [
+            "15312509857263419251"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf structural diversity is related to hydraulic capacity in tropical rain forest trees",
+            "pub_year": "2006",
+            "citation": "Ecology 87 (2), 483-491, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:qjMakFHDy7sC",
+        "num_citations": 439,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8493781822543135311",
+        "cites_id": [
+            "8493781822543135311"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What is conservation physiology? Perspectives on an increasingly integrated and essential science",
+            "pub_year": "2013",
+            "citation": "Conservation Physiology 1 (1), cot001, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 435,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=688424956573722236,1621423536011413280",
+        "cites_id": [
+            "688424956573722236",
+            "1621423536011413280"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decline of leaf hydraulic conductance with dehydration: relationship to leaf size and venation architecture",
+            "pub_year": "2011",
+            "citation": "Plant Physiology 156 (2), 832-843, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:roLk4NBRz8UC",
+        "num_citations": 418,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11825049308978455382",
+        "cites_id": [
+            "11825049308978455382"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The correlations and sequence of plant stomatal, hydraulic, and wilting responses to drought",
+            "pub_year": "2016",
+            "citation": "Proceedings of the National Academy of Sciences 113 (46), 13098-13103, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ye4kPcJQO24C",
+        "num_citations": 400,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9594259769820040393",
+        "cites_id": [
+            "9594259769820040393"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global importance of large\u2010diameter trees",
+            "pub_year": "2018",
+            "citation": "Global Ecology and Biogeography 27 (7), 849-864, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:gsN89kCJA0AC",
+        "num_citations": 387,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1091357896303551248",
+        "cites_id": [
+            "1091357896303551248"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ecological differentiation in xylem cavitation resistance is associated with stem and leaf structural traits",
+            "pub_year": "2011",
+            "citation": "Plant, Cell & Environment 34 (1), 137-148, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 385,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13332660898942294318",
+        "cites_id": [
+            "13332660898942294318"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Which is a better predictor of plant traits: temperature or precipitation?",
+            "pub_year": "2014",
+            "citation": "Journal of Vegetation Science 25 (5), 1167-1180, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 368,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12099959392631812333",
+        "cites_id": [
+            "12099959392631812333"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developmentally based scaling of leaf venation architecture explains global ecological patterns",
+            "pub_year": "2012",
+            "citation": "Nature Communications 3 (1), 837, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:4TOpqqG69KYC",
+        "num_citations": 337,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3808821332300267123",
+        "cites_id": [
+            "3808821332300267123"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Viewing leaf structure and evolution from a hydraulic perspective",
+            "pub_year": "2010",
+            "citation": "Functional Plant Biology 37 (6), 488-498, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 316,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2347074994392233419",
+        "cites_id": [
+            "2347074994392233419"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hydraulics and life history of tropical dry forest tree species: coordination of species\u2019 drought and shade tolerance",
+            "pub_year": "2011",
+            "citation": "New phytologist 191 (2), 480-495, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Zph67rFs4hoC",
+        "num_citations": 295,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11947170319041607705",
+        "cites_id": [
+            "11947170319041607705"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How does biomass distribution change with size and differ among species? An analysis for 1200 plant species from five continents",
+            "pub_year": "2015",
+            "citation": "New Phytologist 208 (3), 736-749, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:J-pR_7NvFogC",
+        "num_citations": 293,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18210658920046029817",
+        "cites_id": [
+            "18210658920046029817"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The hydraulic conductance of the angiosperm leaf lamina: a comparison of three measurement methods",
+            "pub_year": "2002",
+            "citation": "Journal of experimental botany 53 (378), 2177-2184, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 289,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11799522811948707325",
+        "cites_id": [
+            "11799522811948707325"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The combined impacts of deep shade and drought on the growth and biomass allocation of shade-tolerant woody seedlings",
+            "pub_year": "2002",
+            "citation": "Oecologia 131, 175-185, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 273,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14457276367151473339",
+        "cites_id": [
+            "14457276367151473339"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global analysis of plasticity in turgor loss point, a key drought tolerance trait",
+            "pub_year": "2014",
+            "citation": "Ecology letters 17 (12), 1580-1590, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 262,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5534144359025795759",
+        "cites_id": [
+            "5534144359025795759"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Responses of temperate woody seedlings to shade and drought: do trade\u2010offs limit potential niche differentiation?",
+            "pub_year": "2004",
+            "citation": "Oikos 107 (1), 110-127, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 234,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4686938237414918643",
+        "cites_id": [
+            "4686938237414918643"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant diversity increases with the strength of negative density dependence at the global scale",
+            "pub_year": "2017",
+            "citation": "Science 356 (6345), 1389-1392, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:uJ-U7cs_P_0C",
+        "num_citations": 232,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7831054601187515694",
+        "cites_id": [
+            "7831054601187515694"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diversity of hydraulic traits in nine Cordia species growing in tropical forests with contrasting precipitation",
+            "pub_year": "2007",
+            "citation": "New Phytologist 175 (4), 686-698, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:WF5omc3nYNoC",
+        "num_citations": 227,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11422592456428297775",
+        "cites_id": [
+            "11422592456428297775"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf hydraulic architecture correlates with regeneration irradiance in tropical rainforest trees",
+            "pub_year": "2005",
+            "citation": "New Phytologist 167 (2), 403-413, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 221,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=778047128211451628",
+        "cites_id": [
+            "778047128211451628"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How do leaf veins influence the worldwide leaf economic spectrum? Review and synthesis",
+            "pub_year": "2013",
+            "citation": "Journal of experimental botany 64 (13), 4053-4080, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 219,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4329421175659223763",
+        "cites_id": [
+            "4329421175659223763"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf shrinkage with dehydration: coordination with hydraulic vulnerability and drought tolerance",
+            "pub_year": "2014",
+            "citation": "Plant Physiology 164 (4), 1772-1788, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:D03iK_w7-QYC",
+        "num_citations": 218,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15054153294075962169",
+        "cites_id": [
+            "15054153294075962169"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid determination of comparative drought tolerance traits: using an osmometer to predict turgor loss point",
+            "pub_year": "2012",
+            "citation": "Methods in Ecology and Evolution 3 (5), 880-888, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:blknAaTinKkC",
+        "num_citations": 218,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9052498361174496386",
+        "cites_id": [
+            "9052498361174496386"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hydraulic analysis of water flow through leaves of sugar maple and red oak",
+            "pub_year": "2004",
+            "citation": "Plant Physiology 134 (4), 1824-1833, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 218,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=581138593650226321",
+        "cites_id": [
+            "581138593650226321"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of C4 plants: a new hypothesis for an interaction of CO2 and water relations mediated by plant hydraulics",
+            "pub_year": "2012",
+            "citation": "Philosophical Transactions of the Royal Society B: Biological Sciences 367 \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 217,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17099953905621000527",
+        "cites_id": [
+            "17099953905621000527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How strong is intracanopy leaf plasticity in temperate deciduous trees?",
+            "pub_year": "2006",
+            "citation": "American Journal of Botany 93 (6), 829-839, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ufrVoPGSRksC",
+        "num_citations": 209,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7403405057029363045",
+        "cites_id": [
+            "7403405057029363045"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Outside-xylem vulnerability, not xylem embolism, controls leaf hydraulic decline during dehydration",
+            "pub_year": "2017",
+            "citation": "Plant physiology 173 (2), 1197-1210, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:hkOj_22Ku90C",
+        "num_citations": 206,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16553244277781995592",
+        "cites_id": [
+            "16553244277781995592"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural determinants of leaf light-harvesting capacity and photosynthetic potentials",
+            "pub_year": "2006",
+            "citation": "Progress in botany, 385-419, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 203,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18441931085436286072",
+        "cites_id": [
+            "18441931085436286072"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf mesophyll conductance and leaf hydraulic conductance: an introduction to their measurement and coordination",
+            "pub_year": "2013",
+            "citation": "Journal of Experimental Botany 64 (13), 3965-3981, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 192,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17785932009948349381",
+        "cites_id": [
+            "17785932009948349381"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drought tolerance as predicted by leaf water potential at turgor loss point varies strongly across species within an Amazonian forest",
+            "pub_year": "2015",
+            "citation": "Functional Ecology 29 (10), 1268-1277, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 191,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6551003007754659131",
+        "cites_id": [
+            "6551003007754659131"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How does leaf anatomy influence water transport outside the xylem?",
+            "pub_year": "2015",
+            "citation": "Plant Physiology 168 (4), 1616-1635, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 190,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5449470897568266045",
+        "cites_id": [
+            "5449470897568266045"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hydraulic basis for the evolution of photosynthetic productivity",
+            "pub_year": "2016",
+            "citation": "Nature plants 2 (6), 1-8, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:eMMeJKvmdy0C",
+        "num_citations": 189,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14601928351783961635",
+        "cites_id": [
+            "14601928351783961635"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The functional morphology of juvenile plants tolerant of strong summer drought in shaded forest understories in southern Spain",
+            "pub_year": "2003",
+            "citation": "Plant Ecology 168, 139-163, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 189,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6569206383465193549",
+        "cites_id": [
+            "6569206383465193549"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decoding leaf hydraulics with a spatially explicit model: principles of venation architecture and implications for its evolution",
+            "pub_year": "2010",
+            "citation": "The American Naturalist 175 (4), 447-460, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Se3iqnhoufwC",
+        "num_citations": 183,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6694524573731769239",
+        "cites_id": [
+            "6694524573731769239"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf palmate venation and vascular redundancy confer tolerance of hydraulic disruption",
+            "pub_year": "2008",
+            "citation": "Proceedings of the National Academy of Sciences 105 (5), 1567-1572, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:UebtZRa9Y70C",
+        "num_citations": 179,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6409197799208818337",
+        "cites_id": [
+            "6409197799208818337"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf Trait Diversification and Design in Seven Rare Taxa of the Hawaiian Plantago Radiation",
+            "pub_year": "2009",
+            "citation": "International Journal of Plant Sciences 170 (1), 61-75, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 174,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3425268188567386207",
+        "cites_id": [
+            "3425268188567386207"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coordination of stem and leaf hydraulic conductance in southern C alifornia shrubs: a test of the hydraulic segmentation hypothesis",
+            "pub_year": "2014",
+            "citation": "New Phytologist 203 (3), 842-850, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:P5F9QuxV20EC",
+        "num_citations": 170,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7812091171863344377",
+        "cites_id": [
+            "7812091171863344377"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping local and global variability in plant trait distributions",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (51), E10937-E10946, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:4MWp96NkSFoC",
+        "num_citations": 168,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1963332560890856790",
+        "cites_id": [
+            "1963332560890856790"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pitfalls and possibilities in the analysis of biomass allocation patterns in plants",
+            "pub_year": "2012",
+            "citation": "Frontiers in plant science 3, 259, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 155,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16780959798626774851",
+        "cites_id": [
+            "16780959798626774851"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative water use of native and invasive plants at multiple scales: a global meta\u2010analysis",
+            "pub_year": "2010",
+            "citation": "Ecology 91 (9), 2705-2715, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 154,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6065052489752130875",
+        "cites_id": [
+            "6065052489752130875"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamics of leaf hydraulic conductance with water status: quantification and analysis of species differences under steady state",
+            "pub_year": "2012",
+            "citation": "Journal of Experimental Botany 63 (2), 643-658, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:qUcmZB5y_30C",
+        "num_citations": 150,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13112975035113188537",
+        "cites_id": [
+            "13112975035113188537"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The dependence of leaf hydraulic conductance on irradiance during HPFM measurements: any role for stomatal response?",
+            "pub_year": "2005",
+            "citation": "Journal of Experimental Botany 56 (412), 737-744, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 147,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5666399822075527616",
+        "cites_id": [
+            "5666399822075527616"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hydraulic architecture of leaf venation in Laurus nobilis L.",
+            "pub_year": "2002",
+            "citation": "Plant, Cell & Environment 25 (11), 1445-1450, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 147,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4098552009625777072",
+        "cites_id": [
+            "4098552009625777072"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How does moss photosynthesis relate to leaf and canopy structure? Trait relationships for 10 Hawaiian species of contrasting light habitats",
+            "pub_year": "2010",
+            "citation": "New phytologist 185 (1), 156-172, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 144,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11102916886406503885",
+        "cites_id": [
+            "11102916886406503885"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measurements of stem xylem hydraulic conductivity in the laboratory and field",
+            "pub_year": "2012",
+            "citation": "Methods in Ecology and Evolution 3 (4), 685-694, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 143,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14309832559193195714",
+        "cites_id": [
+            "14309832559193195714"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Why do species of woody seedlings change rank in relative growth rate between low and high irradiance?",
+            "pub_year": "2001",
+            "citation": "Functional Ecology 15 (2), 145-154, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3975344431155011622",
+        "cites_id": [
+            "3975344431155011622"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ecosystem traits linking functional traits to macroecology",
+            "pub_year": "2019",
+            "citation": "Trends in Ecology & Evolution 34 (3), 200-210, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:YohjEiUPhakC",
+        "num_citations": 140,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1513281766539294913",
+        "cites_id": [
+            "1513281766539294913"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The anatomical and compositional basis of leaf mass per area",
+            "pub_year": "2017",
+            "citation": "Ecology letters 20 (4), 412-425, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:_Ybze24A_UAC",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13906091240575977553",
+        "cites_id": [
+            "13906091240575977553"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fossil leaf economics quantified: calibration, Eocene case study, and implications",
+            "pub_year": "2007",
+            "citation": "Paleobiology 33 (4), 574-589, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:0EnyYjriUFMC",
+        "num_citations": 132,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5587800901082293593",
+        "cites_id": [
+            "5587800901082293593"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combined impacts of irradiance and dehydration on leaf hydraulic conductance: insights into vulnerability and stomatal control",
+            "pub_year": "2012",
+            "citation": "Plant, Cell & Environment 35 (5), 857-871, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 131,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4578916481849537233",
+        "cites_id": [
+            "4578916481849537233"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The causes and consequences of leaf hydraulic decline with dehydration",
+            "pub_year": "2017",
+            "citation": "Journal of Experimental Botany 68 (16), 4479-4496, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:0KyAp5RtaNEC",
+        "num_citations": 124,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11314803426061243888",
+        "cites_id": [
+            "11314803426061243888"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A stomatal safety-efficiency trade-off constrains responses to leaf dehydration",
+            "pub_year": "2019",
+            "citation": "Nature communications 10 (1), 3398, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:DJbcl8HfkQkC",
+        "num_citations": 123,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6775163236518770332",
+        "cites_id": [
+            "6775163236518770332"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The rapid light response of leaf hydraulic conductance: new evidence from two experimental methods",
+            "pub_year": "2008",
+            "citation": "Plant, Cell & Environment 31 (12), 1803-1812, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 122,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8957076732675129155",
+        "cites_id": [
+            "8957076732675129155"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf vein xylem conduit diameter influences susceptibility to embolism and hydraulic decline",
+            "pub_year": "2017",
+            "citation": "New Phytologist 213 (3), 1076-1092, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:VL0QpB8kHFEC",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1501686122521227651",
+        "cites_id": [
+            "1501686122521227651"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of bundle sheath extensions and life form in stomatal responses to leaf water status",
+            "pub_year": "2011",
+            "citation": "Plant Physiology 156 (2), 962-973, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:hC7cP41nSMkC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17631580117187554253",
+        "cites_id": [
+            "17631580117187554253"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Atmospheric and soil drought reduce nocturnal conductance in live oaks",
+            "pub_year": "2007",
+            "citation": "Tree Physiology 27 (4), 611-620, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11460811848477460144",
+        "cites_id": [
+            "11460811848477460144"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf life span and the leaf economic spectrum in the context of whole plant architecture",
+            "pub_year": "2014",
+            "citation": "Journal of Ecology 102 (2), 328-336, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:abG-DnoFyZgC",
+        "num_citations": 118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8517099884188517757",
+        "cites_id": [
+            "8517099884188517757"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ForestGEO: Understanding forest diversity and dynamics through a global observatory network",
+            "pub_year": "2021",
+            "citation": "Biological Conservation 253, 108907, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ALROH1vI_8AC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5112002529593298983",
+        "cites_id": [
+            "5112002529593298983"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The cohesion-tension theory",
+            "pub_year": "2004",
+            "citation": "New Phytologist 163 (3), 451-452, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:5nxA0vEk-isC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10115589361838970993",
+        "cites_id": [
+            "10115589361838970993"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thresholds for leaf damage due to dehydration: declines of hydraulic function, stomatal conductance and cellular integrity precede those for photochemistry",
+            "pub_year": "2019",
+            "citation": "New Phytologist 223 (1), 134-149, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:DUooU5lO8OsC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11541920890034738102",
+        "cites_id": [
+            "11541920890034738102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variation of stomatal traits from cold temperate to tropical forests and association with water use efficiency",
+            "pub_year": "2018",
+            "citation": "Functional Ecology 32 (1), 20-28, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ipzZ9siozwsC",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1781624905326000853",
+        "cites_id": [
+            "1781624905326000853"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measurement of leaf hydraulic conductance and stomatal conductance and their responses to irradiance and dehydration using the Evaporative Flux Method (EFM)",
+            "pub_year": "2012",
+            "citation": "JoVE (Journal of Visualized Experiments), e4179, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:TFP_iSt0sucC",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12048334969701845015",
+        "cites_id": [
+            "12048334969701845015"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant trait networks: improved resolution of the dimensionality of adaptation",
+            "pub_year": "2020",
+            "citation": "Trends in Ecology & Evolution 35 (10), 908-918, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:0CzhzZyukY4C",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12528307366388310693",
+        "cites_id": [
+            "12528307366388310693"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic variation in leaf pigment, optical and photosynthetic function among diverse phenotypes of Metrosideros polymorpha grown in a common garden",
+            "pub_year": "2007",
+            "citation": "Oecologia 151, 387-400, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11668742200924164182",
+        "cites_id": [
+            "11668742200924164182"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A methodology to derive global maps of leaf traits using remote sensing and climate data",
+            "pub_year": "2018",
+            "citation": "Remote sensing of environment 218, 69-88, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:PoWvk5oyLR8C",
+        "num_citations": 106,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14386127036418872259",
+        "cites_id": [
+            "14386127036418872259"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Does climate directly influence NPP globally?",
+            "pub_year": "2016",
+            "citation": "Global Change Biology 22 (1), 12-24, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:5ugPr518TE4C",
+        "num_citations": 104,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13603445893474749305",
+        "cites_id": [
+            "13603445893474749305"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The sites of evaporation within leaves",
+            "pub_year": "2017",
+            "citation": "Plant Physiology 173 (3), 1763-1782, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:JQOojiI6XY0C",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=882745605000381393",
+        "cites_id": [
+            "882745605000381393"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differentiation of leaf water flux and drought tolerance traits in hemiepiphytic and non\u2010hemiepiphytic Ficus tree species",
+            "pub_year": "2010",
+            "citation": "Functional Ecology 24 (4), 731-740, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:dhFuZR0502QC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9201983573859197776",
+        "cites_id": [
+            "9201983573859197776"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of leaf form correlates with tropical\u2013temperate transitions in Viburnum (Adoxaceae)",
+            "pub_year": "2012",
+            "citation": "Proceedings of the Royal Society B: Biological Sciences 279 (1744), 3905-3913, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:k_IJM867U9cC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12560430352788024713",
+        "cites_id": [
+            "12560430352788024713"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf hydraulics and its implications in plant structure and function",
+            "pub_year": "2005",
+            "citation": "Vascular transport in plants, 93-114, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6980512110647164877",
+        "cites_id": [
+            "6980512110647164877"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adjustment of structure and function of Hawaiian Metrosideros polymorpha at high vs. low precipitation",
+            "pub_year": "2007",
+            "citation": "Functional Ecology, 1063-1071, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:4DMP91E08xMC",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1583089540079126420",
+        "cites_id": [
+            "1583089540079126420"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global root traits (GRooT) database",
+            "pub_year": "2021",
+            "citation": "Global Ecology and Biogeography 30 (1), 25-37, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:2tRrZ1ZAMYUC",
+        "num_citations": 95,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12454293339938451402",
+        "cites_id": [
+            "12454293339938451402"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hawaiian native forest conserves water relative to timber plantation: species and stand traits influence water use",
+            "pub_year": "2009",
+            "citation": "Ecological Applications 19 (6), 1429-1443, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 95,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16501638489214801281",
+        "cites_id": [
+            "16501638489214801281"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Xylem traits mediate a trade\u2010off between resistance to freeze\u2013thaw\u2010induced embolism and photosynthetic capacity in overwintering evergreens",
+            "pub_year": "2011",
+            "citation": "New Phytologist 191 (4), 996-1005, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:-f6ydRqryjwC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=638240304591604333",
+        "cites_id": [
+            "638240304591604333"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scaling of xylem vessels and veins within the leaves of oak species",
+            "pub_year": "2008",
+            "citation": "Biology Letters 4 (3), 302-306, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17984710037067525856",
+        "cites_id": [
+            "17984710037067525856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Relating leaf photosynthetic rate to whole-plant growth: drought and shade effects on seedlings of four Quercus species",
+            "pub_year": "2008",
+            "citation": "Functional Plant Biology 35 (8), 725-737, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:aqlVkmm33-oC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6606743189372981899",
+        "cites_id": [
+            "6606743189372981899"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light\u2010induced plasticity in leaf hydraulics, venation, anatomy, and gas exchange in ecologically diverse Hawaiian lobeliads",
+            "pub_year": "2015",
+            "citation": "New Phytologist 207 (1), 43-58, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:D_sINldO8mEC",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4049716886898670290",
+        "cites_id": [
+            "4049716886898670290"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimal plant water economy",
+            "pub_year": "2017",
+            "citation": "Plant, cell & environment 40 (6), 881-896, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:9vf0nzSNQJEC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18156548109037642013",
+        "cites_id": [
+            "18156548109037642013"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential allocation to photosynthetic and non-photosynthetic nitrogen fractions among native and invasive species",
+            "pub_year": "2013",
+            "citation": "PloS one 8 (5), e64502, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:hMod-77fHWUC",
+        "num_citations": 85,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10494878246770716499",
+        "cites_id": [
+            "10494878246770716499"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The developmental basis of stomatal density and flux",
+            "pub_year": "2016",
+            "citation": "Plant Physiology 171 (4), 2358-2363, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:_B80troHkn4C",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5814220084392455239",
+        "cites_id": [
+            "5814220084392455239"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf pressure-volume curve parameters",
+            "pub_year": "2011",
+            "citation": "PrometheusWiki website: http://prometheuswiki. org/tiki-index. php, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:1taIhTC69MYC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14019142811426522291",
+        "cites_id": [
+            "14019142811426522291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The handbook for standardized field and laboratory measurements in terrestrial climate change experiments and observational studies (ClimEx)",
+            "pub_year": "2020",
+            "citation": "Methods in Ecology and Evolution 11 (1), 22-37, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ZzlSgRqYykMC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=777130035627224241",
+        "cites_id": [
+            "777130035627224241"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Anatomical constraints to nonstomatal diffusion conductance and photosynthesis in lycophytes and bryophytes",
+            "pub_year": "2019",
+            "citation": "New Phytologist 222 (3), 1256-1270, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:FAceZFleit8C",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15130846546578363027",
+        "cites_id": [
+            "15130846546578363027"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Native trees show conservative water use relative to invasive trees: results from a removal experiment in a Hawaiian wet forest",
+            "pub_year": "2014",
+            "citation": "Conservation Physiology 2 (1), cou016, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5992900795963370339",
+        "cites_id": [
+            "5992900795963370339"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Allometry of cells and tissues within leaves",
+            "pub_year": "2013",
+            "citation": "American Journal of Botany 100 (10), 1936-1948, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=741710078477145403",
+        "cites_id": [
+            "741710078477145403"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variation in leaf chlorophyll concentration from tropical to cold-temperate forests: association with gross primary productivity",
+            "pub_year": "2018",
+            "citation": "Ecological Indicators 85, 383-389, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Z5m8FVwuT1cC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6880410221251221434",
+        "cites_id": [
+            "6880410221251221434"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf water storage increases with salinity and aridity in the mangrove Avicennia marina: integration of leaf structure, osmotic adjustment and access to multiple \u2026",
+            "pub_year": "2017",
+            "citation": "Plant, Cell & Environment 40 (8), 1576-1591, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:W5xh706n7nkC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8377216103271666465",
+        "cites_id": [
+            "8377216103271666465"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Forest structure in low-diversity tropical forests: a study of Hawaiian wet and dry forests",
+            "pub_year": "2014",
+            "citation": "PloS one 9 (8), e103268, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:XiSMed-E-HIC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17392627138162331137",
+        "cites_id": [
+            "17392627138162331137"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The major veins of mesomorphic leaves revisited: tests for conductive overload in Acer saccharum (Aceraceae) and Quercus rubra (Fagaceae)",
+            "pub_year": "2003",
+            "citation": "American Journal of Botany 90 (1), 32-39, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13328626367370429134",
+        "cites_id": [
+            "13328626367370429134"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tree height and leaf drought tolerance traits shape growth responses across droughts in a temperate broadleaf forest",
+            "pub_year": "2021",
+            "citation": "New Phytologist 231 (2), 601-616, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:otzGkya1bYkC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9261022591052440595",
+        "cites_id": [
+            "9261022591052440595"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Turning over a new \u2018leaf\u2019: multiple functional significances of leaves versus phyllodes in Hawaiian Acacia koa",
+            "pub_year": "2010",
+            "citation": "Plant, Cell & Environment 33 (12), 2084-2100, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12398212223145285312",
+        "cites_id": [
+            "12398212223145285312"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detecting forest response to droughts with global observations of vegetation water content",
+            "pub_year": "2021",
+            "citation": "Global change biology 27 (23), 6005-6024, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:CB2v5VPnA5kC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8391240045728844525",
+        "cites_id": [
+            "8391240045728844525"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ABA accumulation in dehydrating leaves is associated with decline in cell volume, not turgor pressure",
+            "pub_year": "2018",
+            "citation": "Plant Physiology 176 (1), 489-495, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:URolC5Kub84C",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16666415261202245863",
+        "cites_id": [
+            "16666415261202245863"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ecology of hemiepiphytism in fig species is based on evolutionary correlation of hydraulics and carbon economy",
+            "pub_year": "2011",
+            "citation": "Ecology 92 (11), 2117-2130, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11664098786907152726",
+        "cites_id": [
+            "11664098786907152726"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Embracing 3D complexity in leaf carbon\u2013water exchange",
+            "pub_year": "2019",
+            "citation": "Trends in plant science 24 (1), 15-24, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:XoXfffV-tXoC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11251719021927420944",
+        "cites_id": [
+            "11251719021927420944"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extending the generality of leaf economic design principles in the cycads, an ancient lineage",
+            "pub_year": "2015",
+            "citation": "New Phytologist 206 (2), 817-829, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5909157784808606822",
+        "cites_id": [
+            "5909157784808606822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Causes of Leaf Hydraulic Vulnerability and Its Influence on Gas Exchange in Arabidopsis thaliana",
+            "pub_year": "2018",
+            "citation": "Plant physiology 178 (4), 1584-1601, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:5qfkUJPXOUwC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12897347992160615550",
+        "cites_id": [
+            "12897347992160615550"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PrometheusWiki contributors. 2011",
+            "pub_year": "2011",
+            "citation": "Leaf pressure\u2013volume curve parameters. PrometheusWiki, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:w1MjKQ0l0TYC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9446437965251201019",
+        "cites_id": [
+            "9446437965251201019"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How are leaves plumbed inside a branch? Differences in leaf-to-leaf hydraulic sectoriality among six temperate tree species",
+            "pub_year": "2005",
+            "citation": "Journal of Experimental Botany 56 (418), 2267-2273, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:_kc_bZDykSQC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1712322779374212370",
+        "cites_id": [
+            "1712322779374212370"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global allocation rules for patterns of biomass partitioning",
+            "pub_year": "2002",
+            "citation": "Science 296 (5575), 1923-1923, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:8k81kl-MbHgC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9782573403123885871",
+        "cites_id": [
+            "9782573403123885871"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Density\u2010dependent seedling mortality varies with light availability and species abundance in wet and dry Hawaiian forests",
+            "pub_year": "2016",
+            "citation": "Journal of Ecology 104 (3), 773-780, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:t6usbXjVLHcC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7461519594994291681",
+        "cites_id": [
+            "7461519594994291681"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of light quality on leaf and shoot hydraulic properties: a case study in silver birch (Betula pendula)",
+            "pub_year": "2011",
+            "citation": "Plant, cell & environment 34 (7), 1079-1087, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:IWHjjKOFINEC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13933037037436239495",
+        "cites_id": [
+            "13933037037436239495"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An extensive suite of functional traits distinguishes Hawaiian wet and dry forests and enables prediction of species vital rates",
+            "pub_year": "2019",
+            "citation": "Functional Ecology 33 (4), 712-734, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:0N-VGjzr574C",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4536548465764461162",
+        "cites_id": [
+            "4536548465764461162"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant hydraulics as a central hub integrating plant and ecosystem function: meeting report for \u2018Emerging Frontiers in Plant Hydraulics\u2019(Washington, DC, May 2015)",
+            "pub_year": "2016",
+            "citation": "Plant, Cell & Environment 39 (9), 2085-2094, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:WA5NYHcadZ8C",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5320448119866264141",
+        "cites_id": [
+            "5320448119866264141"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The anatomical determinants of leaf hydraulic function",
+            "pub_year": "2015",
+            "citation": "Functional and ecological xylem anatomy, 255-271, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:eflP2zaiRacC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3749042892860009587",
+        "cites_id": [
+            "3749042892860009587"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Are leaves \u2018freewheelin'? Testing for a W heeler\u2010type effect in leaf xylem hydraulic decline",
+            "pub_year": "2015",
+            "citation": "Plant, Cell & Environment 38 (3), 534-543, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:SP6oXDckpogC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4573160991062850497",
+        "cites_id": [
+            "4573160991062850497"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Does global stoichiometric theory apply to bryophytes? Tests across an elevation\u00d7 soil age ecosystem matrix on Mauna Loa, Hawaii",
+            "pub_year": "2011",
+            "citation": "Journal of Ecology 99 (1), 122-134, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:HDshCWvjkbEC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11769713031430595669",
+        "cites_id": [
+            "11769713031430595669"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NOTE. ISOLATION OF FOUR NEW STRAINS OF CHLAMYDOMONAS REINHARDTII (CHLOROPHYTA) FROM SOIL SAMPLES1",
+            "pub_year": "1994",
+            "citation": "Journal of phycology 30 (4), 770-773, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:q3oQSFYPqjQC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14657051647249453723",
+        "cites_id": [
+            "14657051647249453723"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Climate sensitive size-dependent survival in tropical trees",
+            "pub_year": "2018",
+            "citation": "Nature ecology & evolution 2 (9), 1436-1442, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:-FonjvnnhkoC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9825661764552471323",
+        "cites_id": [
+            "9825661764552471323"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stronger seasonal adjustment in leaf turgor loss point in lianas than trees in an Amazonian forest",
+            "pub_year": "2017",
+            "citation": "Biology letters 13 (1), 20160819, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:dQ2og3OwTAUC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1457839536220250862",
+        "cites_id": [
+            "1457839536220250862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf hydraulic conductance varies with vein anatomy across Arabidopsis thaliana wild\u2010type and leaf vein mutants",
+            "pub_year": "2015",
+            "citation": "Plant, Cell & Environment 38 (12), 2735-2746, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:kRWSkSYxWN8C",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7960265953924621967",
+        "cites_id": [
+            "7960265953924621967"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Are fern stomatal responses to different stimuli coordinated? Testing responses to light, vapor pressure deficit, and CO2 for diverse species grown under \u2026",
+            "pub_year": "2014",
+            "citation": "New Phytologist 204 (1), 92-104, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15353145794040864057",
+        "cites_id": [
+            "15353145794040864057"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drought tolerance as a driver of tropical forest assembly: resolving spatial signatures for multiple processes",
+            "pub_year": "2016",
+            "citation": "Ecology 97 (2), 503-514, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12868940589863220416",
+        "cites_id": [
+            "12868940589863220416"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hydraulically\u2010vulnerable trees survive on deep\u2010water access during droughts in a tropical forest",
+            "pub_year": "2021",
+            "citation": "New Phytologist 231 (5), 1798-1813, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:nRpfm8aw39MC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3399178446616351234",
+        "cites_id": [
+            "3399178446616351234"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regional forcing explains local species diversity and turnover on tropical islands",
+            "pub_year": "2018",
+            "citation": "Global Ecology and Biogeography 27 (4), 474-486, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:EYYDruWGBe4C",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13197033683850850692",
+        "cites_id": [
+            "13197033683850850692"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting habitat affinities of plant species using commonly measured functional traits",
+            "pub_year": "2017",
+            "citation": "Journal of Vegetation Science 28 (5), 1082-1095, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:VLnqNzywnoUC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9630272552484237998",
+        "cites_id": [
+            "9630272552484237998"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hydraulic conductance of Acacia phyllodes (foliage) is driven by primary nerve (vein) conductance and density",
+            "pub_year": "2012",
+            "citation": "Plant, Cell & Environment 35 (1), 158-168, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:r0BpntZqJG4C",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5876478545316808410",
+        "cites_id": [
+            "5876478545316808410"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Osmotic and hydraulic adjustment of mangrove saplings to extreme salinity",
+            "pub_year": "2016",
+            "citation": "Tree physiology 36 (12), 1562-1572, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:JoZmwDi-zQgC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18199578520932196844",
+        "cites_id": [
+            "18199578520932196844"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developmental and biophysical determinants of grass leaf size worldwide",
+            "pub_year": "2021",
+            "citation": "Nature 592 (7853), 242-247, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:cK4Rrx0J3m0C",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13201139905184822604",
+        "cites_id": [
+            "13201139905184822604"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Speed versus endurance tradeoff in plants: Leaves with higher photosynthetic rates show stronger seasonal declines",
+            "pub_year": "2017",
+            "citation": "Scientific reports 7 (1), 42085, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:uLbwQdceFCQC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9094604108509519005",
+        "cites_id": [
+            "9094604108509519005"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Evolution of Photosynthetic Anatomy in Viburnum (Adoxaceae)",
+            "pub_year": "2013",
+            "citation": "International Journal of Plant Sciences 174 (9), 1277-1291, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7570654489364658889",
+        "cites_id": [
+            "7570654489364658889"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crossovers in seedling relative growth rates between low and high irradiance: analyses and ecological potential (reply to Kitajima & Bolker 2003)",
+            "pub_year": "2003",
+            "citation": "Functional Ecology 17 (2), 281-287, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14909107435249992663",
+        "cites_id": [
+            "14909107435249992663"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf and stem physiological responses to summer and winter extremes of woody species across temperate ecosystems",
+            "pub_year": "2014",
+            "citation": "Oikos 123 (11), 1281-1290, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2699941964633205274",
+        "cites_id": [
+            "2699941964633205274"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drivers of morphological diversity and distribution in the Hawaiian fern flora: trait associations with size, growth form, and environment",
+            "pub_year": "2011",
+            "citation": "American Journal of Botany 98 (6), 956-966, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17588844839064813249",
+        "cites_id": [
+            "17588844839064813249"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf rehydration capacity: associations with other indices of drought tolerance and environment",
+            "pub_year": "2018",
+            "citation": "Plant, Cell & Environment 41 (11), 2638-2653, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:kz9GbA2Ns4gC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9214870268627243901",
+        "cites_id": [
+            "9214870268627243901"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ecological variation in leaf biomechanics and its scaling with tissue structure across three mediterranean\u2010climate plant communities",
+            "pub_year": "2013",
+            "citation": "Functional Ecology 27 (2), 544-554, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:isC4tDSrTZIC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12179461136140893094",
+        "cites_id": [
+            "12179461136140893094"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prediction of leaf water potential and relative water content using terahertz radiation spectroscopy",
+            "pub_year": "2020",
+            "citation": "Plant Direct 4 (4), e00197, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:LgRImbQfgY4C",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9947213575326696335",
+        "cites_id": [
+            "9947213575326696335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resolving Australian analogs for an Eocene Patagonian paleorainforest using leaf size and floristics",
+            "pub_year": "2015",
+            "citation": "American Journal of Botany 102 (7), 1160-1173, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:1qzjygNMrQYC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8948987578047447333",
+        "cites_id": [
+            "8948987578047447333"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Seedling recruitment factors in low\u2010diversity Hawaiian wet forest: towards global comparisons among tropical forests",
+            "pub_year": "2013",
+            "citation": "Ecosphere 4 (2), 1-19, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:BqipwSGYUEgC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2971247841570130604",
+        "cites_id": [
+            "2971247841570130604"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contrasting Structure and Function of Pubescent and Glabrous Varieties of Hawaiian Metrosideros polymorpha (Myrtaceae) at High Elevation",
+            "pub_year": "2008",
+            "citation": "Biotropica 40 (1), 113-118, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:maZDTaKrznsC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=102819972656493565",
+        "cites_id": [
+            "102819972656493565"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Trait multi-functionality in plant stress response",
+            "pub_year": "2020",
+            "citation": "Integrative and Comparative Biology 60 (1), 98-112, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:P7Ujq4OLJYoC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15400498106962662767",
+        "cites_id": [
+            "15400498106962662767"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf mass per area is independent of vein length per area: avoiding pitfalls when modelling phenotypic integration (reply to)",
+            "pub_year": "2014",
+            "citation": "Journal of experimental botany 65 (18), 5115-5123, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:u9iWguZQMMsC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5365211907201988611",
+        "cites_id": [
+            "5365211907201988611"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Soybean leaf hydraulic conductance does not acclimate to growth at elevated [CO2] or temperature in growth chambers or in the field",
+            "pub_year": "2013",
+            "citation": "Annals of botany 112 (5), 911-918, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:GnPB-g6toBAC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3645074210929228380",
+        "cites_id": [
+            "3645074210929228380"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The heterogeneity and spatial patterning of structure and physiology across the leaf surface in giant leaves of Alocasia macrorrhiza",
+            "pub_year": "2013",
+            "citation": "PloS one 8 (6), e66016, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8824456446024422415",
+        "cites_id": [
+            "8824456446024422415"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bundle sheath lignification mediates the linkage of leaf hydraulics and venation",
+            "pub_year": "2018",
+            "citation": "Plant, cell & environment 41 (2), 342-353, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:uWiczbcajpAC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10297050818780640779",
+        "cites_id": [
+            "10297050818780640779"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Causes of variation in leaf-level drought tolerance within an Amazonian forest",
+            "pub_year": "2016",
+            "citation": "Journal of Plant Hydraulics 3, e004, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:HE397vMXCloC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12606522135049259614",
+        "cites_id": [
+            "12606522135049259614"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Patterns of nitrogen\u2010fixing tree abundance in forests across Asia and America",
+            "pub_year": "2019",
+            "citation": "Journal of Ecology 107 (6), 2598-2610, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:IUKN3-7HHlwC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4419617893281184028",
+        "cites_id": [
+            "4419617893281184028"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Trade\u2010offs in seedling growth and survival within and across tropical forest microhabitats",
+            "pub_year": "2014",
+            "citation": "Ecology and Evolution 4 (19), 3755-3767, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Tiz5es2fbqcC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16360810844135298064",
+        "cites_id": [
+            "16360810844135298064"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant hydraulics: new discoveries in the pipeline",
+            "pub_year": "2008",
+            "citation": "New Phytologist, 590-593, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5952846888952009850",
+        "cites_id": [
+            "5952846888952009850"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf drought tolerance cannot be inferred from classic leaf traits in a tropical rainforest",
+            "pub_year": "2020",
+            "citation": "Journal of Ecology 108 (3), 1030-1045, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:LhH-TYMQEocC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9224625949873649493",
+        "cites_id": [
+            "9224625949873649493"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dry\u2010season decline in tree sapflux is correlated with leaf turgor loss point in a tropical rainforest",
+            "pub_year": "2018",
+            "citation": "Functional Ecology 32 (10), 2285-2297, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:M7yex6snE4oC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18146752865892613691",
+        "cites_id": [
+            "18146752865892613691"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Burning questions for a warming and changing world: 15 unknowns in plant abiotic stress",
+            "pub_year": "2023",
+            "citation": "The Plant Cell 35 (1), 67-108, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:NDuN12AVoxsC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=836340526808793107",
+        "cites_id": [
+            "836340526808793107"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human impacts on leaf economics in heterogeneous landscapes: the effect of harvesting non\u2010timber forest products from African mahogany across habitats and climates",
+            "pub_year": "2011",
+            "citation": "Journal of Applied Ecology 48 (4), 844-852, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12394751044865329475",
+        "cites_id": [
+            "12394751044865329475"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf water potential measurements using the pressure chamber: Synthetic testing of assumptions towards best practices for precision and accuracy",
+            "pub_year": "2022",
+            "citation": "Plant, Cell & Environment 45 (7), 2037-2061, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Ade32sEp0pkC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3307038644007107905",
+        "cites_id": [
+            "3307038644007107905"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf turgor loss point shapes local and regional distributions of evergreen but not deciduous tropical trees",
+            "pub_year": "2021",
+            "citation": "New Phytologist 230 (2), 485-496, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:U4n9YNQMCAIC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15126881152150080220",
+        "cites_id": [
+            "15126881152150080220"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "When facilitation meets clonal integration in forest canopies",
+            "pub_year": "2020",
+            "citation": "New Phytologist 225 (1), 135-142, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:OcBU2YAGkTUC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7209644005807711864",
+        "cites_id": [
+            "7209644005807711864"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Disentangling the functional trait correlates of spatial aggregation in tropical forest trees",
+            "pub_year": "2019",
+            "citation": "Ecology 100 (3), e02591, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:GtLg2Ama23sC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4022189513266042883",
+        "cites_id": [
+            "4022189513266042883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Relationships between specific leaf area and leaf composition in succulent and non-succulent species of contrasting semi-desert communities in south-eastern Spain",
+            "pub_year": "2015",
+            "citation": "Journal of Arid Environments 118, 69-83, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5512793046592889195",
+        "cites_id": [
+            "5512793046592889195"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Making the best of the worst of times: traits underlying combined shade and drought tolerance of Ruscus aculeatus and Ruscus microglossum (Asparagaceae)",
+            "pub_year": "2013",
+            "citation": "Functional Plant Biology 41 (1), 11-24, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8069353372352114015",
+        "cites_id": [
+            "8069353372352114015"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Harvesting water from unsaturated atmospheres: deliquescence of salt secreted onto leaf surfaces drives reverse sap flow in a dominant arid climate mangrove, Avicennia marina",
+            "pub_year": "2021",
+            "citation": "New Phytologist 231 (4), 1401-1414, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:PaBasH6fAo0C",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13986212438996885822",
+        "cites_id": [
+            "13986212438996885822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Why are leaves hydraulically vulnerable?",
+            "pub_year": "2016",
+            "citation": "Journal of Experimental Botany 67 (17), 4917-4919, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:dTyEYWd-f8wC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15823774396803011245",
+        "cites_id": [
+            "15823774396803011245"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shoot surface water uptake enables leaf hydraulic recovery in Avicennia marina",
+            "pub_year": "2019",
+            "citation": "New Phytologist 224 (4), 1504-1511, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:HtS1dXgVpQUC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15636390972856596470",
+        "cites_id": [
+            "15636390972856596470"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Seedling response to water stress in valley oak (Quercus lobata) is shaped by different gene networks across populations",
+            "pub_year": "2019",
+            "citation": "Molecular Ecology 28 (24), 5248-5264, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:KbBQZpvPDL4C",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=461211988098803927",
+        "cites_id": [
+            "461211988098803927"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of leaf structure and drought tolerance in species of Californian Ceanothus",
+            "pub_year": "2018",
+            "citation": "American Journal of Botany 105 (10), 1672-1687, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3116748678186287025",
+        "cites_id": [
+            "3116748678186287025"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coordinated decline of leaf hydraulic and stomatal conductances under drought is not linked to leaf xylem embolism for different grapevine cultivars",
+            "pub_year": "2020",
+            "citation": "Journal of Experimental Botany 71 (22), 7286-7300, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:lgwcVrK6X84C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7598540666856222713",
+        "cites_id": [
+            "7598540666856222713"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The humidity inside leaves and why you should care: implications of unsaturation of leaf intercellular airspaces",
+            "pub_year": "2019",
+            "citation": "American Journal of Botany 106 (5), 618, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:9c2xU6iGI7YC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16821144909785448797",
+        "cites_id": [
+            "16821144909785448797"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying leaf vein traits",
+            "pub_year": "2013",
+            "citation": "Prometheus Wiki, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:yB1At4FlUx8C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13538032937830235099",
+        "cites_id": [
+            "13538032937830235099"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf trait network architecture shifts with species\u2010richness and climate across forests at continental scale",
+            "pub_year": "2022",
+            "citation": "Ecology Letters 25 (6), 1442-1457, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:SjuI4pbJlxcC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2032600607726218717",
+        "cites_id": [
+            "2032600607726218717"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Is hemiepiphytism an adaptation to high irradiance? Testing seedling responses to light levels and drought in hemiepiphytic and non\u2010hemiepiphytic Ficus",
+            "pub_year": "2013",
+            "citation": "Physiologia Plantarum 148 (1), 74-86, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1082555508355059236",
+        "cites_id": [
+            "1082555508355059236"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A unique web resource for physiology, ecology and the environmental sciences: PrometheusWiki",
+            "pub_year": "2010",
+            "citation": "Functional Plant Biology 37 (8), 687-693, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14300100950783693405",
+        "cites_id": [
+            "14300100950783693405"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shifts in bryophyte carbon isotope ratio across an elevation\u00d7 soil age matrix on Mauna Loa, Hawaii: do bryophytes behave like vascular plants?",
+            "pub_year": "2011",
+            "citation": "Oecologia 166, 11-22, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10412633790203261201",
+        "cites_id": [
+            "10412633790203261201"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scaling of Frond Form in Hawaiian Tree Fern Cibotium glaucum: Compliance with Global Trends and Application for Field Estimation",
+            "pub_year": "2008",
+            "citation": "Biotropica 40 (6), 686-691, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:TQgYirikUcIC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11757840115116822155",
+        "cites_id": [
+            "11757840115116822155"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bacterial leaf nodule symbiosis in Ardisia (Myrsinaceae): does it contribute to seedling growth capacity?",
+            "pub_year": "2005",
+            "citation": "Plant Biology 7 (05), 495-500, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9761131661684696593",
+        "cites_id": [
+            "9761131661684696593"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distribution of biomass dynamics in relation to tree size in forests across the world",
+            "pub_year": "2022",
+            "citation": "New Phytologist 234 (5), 1664-1677, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:LPtt_HFRSbwC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=341782731933481928",
+        "cites_id": [
+            "341782731933481928"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tree canopies reflect mycorrhizal composition",
+            "pub_year": "2021",
+            "citation": "Geophysical Research Letters 48 (10), e2021GL092764, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:7BrZ7Jt4UNcC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12188118066136800329",
+        "cites_id": [
+            "12188118066136800329"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimum epidermal conductance (gmin, aka cuticular conductance)",
+            "pub_year": "2011",
+            "citation": "PrometheusWiki 35, 257-262, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:-_dYPAW6P2MC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13278684246276709804",
+        "cites_id": [
+            "13278684246276709804"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Covariation between leaf hydraulics and biomechanics is driven by leaf density in Mediterranean shrubs",
+            "pub_year": "2019",
+            "citation": "Trees 33, 507-519, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:bz8QjSJIRt4C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17203356046645092679",
+        "cites_id": [
+            "17203356046645092679"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf vein length per unit area is not intrinsically dependent on image magnification: avoiding measurement artifacts for accuracy and precision",
+            "pub_year": "2014",
+            "citation": "Plant Physiology 166 (2), 829-838, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:p2g8aNsByqUC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8902450070354523600",
+        "cites_id": [
+            "8902450070354523600"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Digital data collection in forest dynamics plots",
+            "pub_year": "2010",
+            "citation": "Methods in Ecology and Evolution 1 (3), 274-279, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8081076840092813475",
+        "cites_id": [
+            "8081076840092813475"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shifting access to pools of shoot water sustains gas exchange and increases stem hydraulic safety during seasonal atmospheric drought",
+            "pub_year": "2021",
+            "citation": "Plant, cell & environment 44 (9), 2898-2911, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:MpfHP-DdYjUC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16116143671135104495",
+        "cites_id": [
+            "16116143671135104495"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting ecosystem productivity based on plant community traits",
+            "pub_year": "2022",
+            "citation": "Trends in Plant Science, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:U_HPUtbDl20C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11954631604782137710",
+        "cites_id": [
+            "11954631604782137710"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Repeated range expansion and niche shift in a volcanic hotspot archipelago: Radiation of C4 Hawaiian Euphorbia subgenus Chamaesyce (Euphorbiaceae)",
+            "pub_year": "2018",
+            "citation": "Ecology and evolution 8 (16), 8523-8536, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:oNZyr7d5Mn4C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2328446100642359535",
+        "cites_id": [
+            "2328446100642359535"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Trait convergence and diversification arising from a complex evolutionary history in Hawaiian species of Scaevola",
+            "pub_year": "2016",
+            "citation": "Oecologia 181, 1083-1100, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:AXPGKjj_ei8C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15666918459905158642",
+        "cites_id": [
+            "15666918459905158642"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional traits indicate faster resource acquisition for alien herbs than native shrubs in an urban Mediterranean shrubland",
+            "pub_year": "2020",
+            "citation": "Biological Invasions 22, 2699-2712, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:zCSUwVk65WsC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2931247326012821110",
+        "cites_id": [
+            "2931247326012821110"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OpenNahele: the open Hawaiian forest plot database",
+            "pub_year": "2018",
+            "citation": "Biodiversity data journal, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:edDO8Oi4QzsC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12457881492539278205",
+        "cites_id": [
+            "12457881492539278205"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Climatic sensitivity of species\u2019 vegetative and reproductive phenology in a Hawaiian montane wet forest",
+            "pub_year": "2020",
+            "citation": "Biotropica 52 (5), 825-835, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:bKqednn6t2AC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13549420475951265319",
+        "cites_id": [
+            "13549420475951265319"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Why is C4 photosynthesis so rare in trees?",
+            "pub_year": "2020",
+            "citation": "Journal of Experimental Botany 71 (16), 4629-4638, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:AHdEip9mkN0C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8419287270080710475",
+        "cites_id": [
+            "8419287270080710475"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thermal sensitivity across forest vertical profiles: patterns, mechanisms, and ecological implications",
+            "pub_year": "2023",
+            "citation": "New Phytologist 237 (1), 22-47, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Br1UauaknNIC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6334137741499888573",
+        "cites_id": [
+            "6334137741499888573"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The second warning to humanity: contributions and solutions from conservation physiology",
+            "pub_year": "2021",
+            "citation": "Conservation Physiology 9 (1), coab038, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:IaI1MmNe2tcC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2600822532603547619",
+        "cites_id": [
+            "2600822532603547619"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Response to Comment on \u201cPlant diversity increases with the strength of negative density dependence at the global scale\u201d",
+            "pub_year": "2018",
+            "citation": "Science 360 (6391), eaar5245, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:MLfJN-KU85MC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10684971647768038844",
+        "cites_id": [
+            "10684971647768038844"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PrometheusWiki contributors",
+            "pub_year": "2017",
+            "citation": "Leaf pressurevolume curve parameters,\" PrometheusWiki, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:PYBJJbyH-FwC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2991965455798701906",
+        "cites_id": [
+            "2991965455798701906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New handbook for standardised measurement of plant functional traits worldwide. Aust. Bot. 61, 167\u2013234",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:4hFrxpcac9AC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15413611794908383294,1323571894669849421",
+        "cites_id": [
+            "15413611794908383294",
+            "1323571894669849421"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Forest fluxes and mortality response to drought: model description (ORCHIDEE-CAN-NHA r7236) and evaluation at the Caxiuan\u00e3 drought experiment",
+            "pub_year": "2022",
+            "citation": "Geoscientific Model Development 15 (20), 7809-7833, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:RoXSNcbkSzsC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6892041053770219286,5369892641736231234",
+        "cites_id": [
+            "6892041053770219286",
+            "5369892641736231234"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Negative density dependence contributes to global patterns of plant biodiversity",
+            "pub_year": "2017",
+            "citation": "2017 ESA Annual Meeting (August 6--11), 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:5icHVeHT4IsC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5497948153581048150",
+        "cites_id": [
+            "5497948153581048150"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating the mesophyll surface area per leaf area from leaf cell and tissue dimensions measured from transverse cross\u2010sections",
+            "pub_year": "2013",
+            "citation": "WWW document] URL http://prometheuswiki. publish. csiro. au/tiki-index. php, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:AvfA0Oy_GE0C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11750831617755503107",
+        "cites_id": [
+            "11750831617755503107"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf habit affects the distribution of drought sensitivity but not water transport efficiency in the tropics",
+            "pub_year": "2022",
+            "citation": "Ecology letters 25 (12), 2637-2650, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:mKu_rENv82IC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3669208729375076397",
+        "cites_id": [
+            "3669208729375076397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hydraulic determination of leaf nutrient concentrations in cycads",
+            "pub_year": "2018",
+            "citation": "Mem. NY Bot. Gard 117, 179-192, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:86PQX7AUzd4C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7242154522353863929",
+        "cites_id": [
+            "7242154522353863929"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Holding a leaf up to the light",
+            "pub_year": "2013",
+            "citation": "BioScience 63 (12), 981-982, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7713179744247877998",
+        "cites_id": [
+            "7713179744247877998"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Testing the association of relative growth rate and adaptation to climate across natural ecotypes of Arabidopsis",
+            "pub_year": "2022",
+            "citation": "New Phytologist 236 (2), 413-432, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:jFemdcug13IC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1364482975213903164",
+        "cites_id": [
+            "1364482975213903164"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Testing for ion-mediated enhancement of the hydraulic conductance of the leaf xylem in diverse angiosperms",
+            "pub_year": "2017",
+            "citation": "Journal of Plant Hydraulics 4, e-004, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:tKAzc9rXhukC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16384763382150132996",
+        "cites_id": [
+            "16384763382150132996"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The global spectrum of plant form and function: enhanced species-level trait dataset",
+            "pub_year": "2022",
+            "citation": "Scientific Data 9 (1), 755, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:6_hjMsCP8ZoC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8294651860248988640",
+        "cites_id": [
+            "8294651860248988640"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Do leaf nitrogen resorption dynamics align with the slow\u2010fast continuum? A test at the intraspecific level",
+            "pub_year": "2022",
+            "citation": "Functional Ecology 36 (5), 1315-1328, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:CdxZDUztZiMC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6662286804651197627",
+        "cites_id": [
+            "6662286804651197627"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hydraulic\u2010stomatal coordination in tree seedlings: tight correlation across environments and ontogeny in Acer pseudoplatanus",
+            "pub_year": "2021",
+            "citation": "New Phytologist 232 (3), 1297-1310, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:kw52XkFRtyQC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10625941835489729152",
+        "cites_id": [
+            "10625941835489729152"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contrasting adaptation and optimization of stomatal traits across communities at continental scale",
+            "pub_year": "2022",
+            "citation": "Journal of Experimental Botany 73 (18), 6405-6416, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:prdVHNxh-e8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9731074801130714563",
+        "cites_id": [
+            "9731074801130714563"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scaling between stomatal size and density in forest plants",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.04. 25.441252, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:LdasjJ6CEcoC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13508173120543518218",
+        "cites_id": [
+            "13508173120543518218"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant responses to deep shade plus drought",
+            "pub_year": "2001",
+            "citation": "University of Cambridge, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:8AbLer7MMksC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18333857658361032755",
+        "cites_id": [
+            "18333857658361032755"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaves as bottlenecks: The contribution of tree leaves to hydraulic resistance within the soil\u2212 plant\u2212 atmosphere continuum",
+            "pub_year": "2023",
+            "citation": "Plant, Cell & Environment 46 (3), 736-746, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:-95Q15plzcUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1113723776961333859",
+        "cites_id": [
+            "1113723776961333859"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf trichomes reduce boundary layer conductance",
+            "pub_year": "2022",
+            "citation": "Authorea Preprints, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:hsZV8lGYWTMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5484031155107152104",
+        "cites_id": [
+            "5484031155107152104"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reconstructing leaf area from fragments: testing three methods using a fossil paleogene species",
+            "pub_year": "2020",
+            "citation": "American Journal of Botany 107 (12), 1786-1797, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:1lhNe0rCu4AC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13496050247968190667",
+        "cites_id": [
+            "13496050247968190667"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Response to comment on Coomes et al. \u2018Scaling of xylem vessels and veins within the leaves of oak species\u2019",
+            "pub_year": "2009",
+            "citation": "Biology Letters 5 (3), 381-382, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:NXb4pA-qfm4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7876743117659638515",
+        "cites_id": [
+            "7876743117659638515"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thresholds for persistent leaf photochemical damage predict plant drought resilience in a tropical rainforest",
+            "pub_year": "2023",
+            "citation": "New Phytologist, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:w0F2JDEymm0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15860936639761796983",
+        "cites_id": [
+            "15860936639761796983"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ecosystem wilting point defines drought response and recovery of a Quercus\u2010Carya forest",
+            "pub_year": "2023",
+            "citation": "Global Change Biology 29 (7), 2015-2029, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:O0nohqN1r9EC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7119214841627619084",
+        "cites_id": [
+            "7119214841627619084"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-stemmed habit in trees contributes climate resilience in tropical dry forest",
+            "pub_year": "2022",
+            "citation": "Sustainability 14 (11), 6779, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:DBa1UEJaJKAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15974091501886964696",
+        "cites_id": [
+            "15974091501886964696"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The global vulnerability of plant xylem",
+            "pub_year": "2021",
+            "citation": "AGU Fall Meeting Abstracts 2021, B31F-07, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:XUvXOeBm_78C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8820825800448355565",
+        "cites_id": [
+            "8820825800448355565"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biogeographic Drivers of Evolutionary Radiations",
+            "pub_year": "2021",
+            "citation": "Frontiers in Ecology and Evolution 9, 644328, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:MhiOAD_qIWkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1058289677128984979",
+        "cites_id": [
+            "1058289677128984979"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Soil Water Potentials (1990-2018) from a calibrated ELM-FATES, and rooting depth analyses scripts, PA-BCI, Panama",
+            "pub_year": "2020",
+            "citation": "Los Alamos National Lab.(LANL), Los Alamos, NM (United States), 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:WC9gN4BGCRcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7668189641583690641",
+        "cites_id": [
+            "7668189641583690641"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using a broad suite of traits, including hydraulics, for robust prediction of species and forest vital rates in space and time",
+            "pub_year": "2018",
+            "citation": "AGU Fall Meeting Abstracts 2018, B11B-2146, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:sNmaIFBj_lkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15659140449821158575",
+        "cites_id": [
+            "15659140449821158575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of gas-exchange by leaf outside-xylem hydraulic conductance in Arabidopsis thaliana ",
+            "pub_year": "2018",
+            "citation": "2018 ESA Annual Meeting (August 5--10), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:yqoGN6RLRZoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12813928366892909553",
+        "cites_id": [
+            "12813928366892909553"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Long-term patterns of climate, tree growth, and tree mortality in permanent forest plots of Hawaii island",
+            "pub_year": "2014",
+            "citation": "AGU fall meeting abstracts 2014, B51B-0027, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2741031101202777897",
+        "cites_id": [
+            "2741031101202777897"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PrometheusWiki: Protocols, methods, explanations and updated standards for ecological and environmental plant physiology",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:oi2SiIJ9l4AC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9936419122484016867",
+        "cites_id": [
+            "9936419122484016867"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The dynamic multi\u2010functionality of leaf water transport outside the xylem",
+            "pub_year": "2023",
+            "citation": "New Phytologist 239 (6), 2099-2107, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ziOE8S1-AIUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Low baseline intraspecific variation in leaf pressure\u2010volume traits: biophysical basis and implications for spectroscopic sensing",
+            "pub_year": "2023",
+            "citation": "Physiologia Plantarum, e13974, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:YsrPvlHIBpEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ghosts of dry seasons past: Legacy of severe drought enhances mangrove salinity tolerance through coordinated cellular osmotic and elastic adjustments",
+            "pub_year": "2023",
+            "citation": "Plant, Cell & Environment, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:FiDNX6EVdGUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linking vegetation to climate using ecosystem pressure-volume relationships",
+            "pub_year": "2023",
+            "citation": "Authorea Preprints, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:KNjnJ3z-R6IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and Systems for Detecting Water Status in Plants Using Terahertz Radiation",
+            "pub_year": "2023",
+            "citation": "US Patent App. 17/755,523, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:raTqNPD5sRQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf vein topology confers water transport efficiency",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:pAkWuXOU-OoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Water status and ecosystem function of California native oaks vary with topography and microclimate",
+            "pub_year": "2022",
+            "citation": "AGU Fall Meeting Abstracts 2022, GC32C-04, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:VN7nJs4JPk0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of trehalose and polyacrylate-based hydrogels on tomato growth under drought",
+            "pub_year": "2022",
+            "citation": "AoB Plants 14 (4), plac030, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:AXkvAH5U_nMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant hydraulics and rainfall niches: a mechanistic approach to explain species distributions across tropical biomes",
+            "pub_year": "2021",
+            "citation": "AGU Fall Meeting Abstracts 2021, B43A-04, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:yxmsSjX2EkcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of drought tolerance across California native oaks",
+            "pub_year": "2020",
+            "citation": "2020 ESA Annual Meeting (August 3-6), 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:WHdLCjDvYFkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of Drought Tolerance Across California Native Oaks",
+            "pub_year": "2020",
+            "citation": "AGU Fall Meeting Abstracts 2020, B082-0014, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:j7_hQOaDUrUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Risky trees in safe waters? Drought-sensitive trees survive on deep water access in a tropical forest community",
+            "pub_year": "2020",
+            "citation": "AGU Fall Meeting Abstracts 2020, B116-0018, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:CaZNVDsoPx4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TRY plant trait database\u2013enhanced coverage and open access",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:L1USKYWJimsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional traits predict climate distributions of species and ecosystems across the California Floristic Province",
+            "pub_year": "2019",
+            "citation": "AGU Fall Meeting 2019, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:fFSKOagxvKUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional traits predict climate distributions of species and ecosystems across the California Floristic Province",
+            "pub_year": "2019",
+            "citation": "AGU Fall Meeting Abstracts 2019, B51A-05, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Ak0FvsSvgGUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resolving interannual climate sensitivity of tree growth and forest productivity by integrating tree-rings, leaf hydraulic traits, and forest census data",
+            "pub_year": "2019",
+            "citation": "AGU Fall Meeting Abstracts 2019, B54B-03, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:r_AWSJRzSzQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hydraulic Control of Carbon Dioxide and Water Fluxes at the Ecosystem Scale",
+            "pub_year": "2019",
+            "citation": "AGU Fall Meeting Abstracts 2019, H51M-1660, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:HeT0ZceujKMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional traits predict plant species' climate distributions across the Hawaiian Islands",
+            "pub_year": "2019",
+            "citation": "AGU Fall Meeting Abstracts 2019, B44D-05, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:yMeIxYmEMEAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Anatomical constraints to nonstomatal diffusion conductance and photosynthesis in lycophytes and bryophytes",
+            "pub_year": "2019",
+            "citation": "University Of Tasmania, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:-nhnvRiOwuoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Turgor loss point as indicator for tropical tree species distribution along a steep rainfall gradient",
+            "pub_year": "2018",
+            "citation": "AGU Fall Meeting Abstracts 2018, B11B-2148, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:umqufdRvDiIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The control of stomata by leaf water status: Trade-off between safety and efficiency",
+            "pub_year": "2018",
+            "citation": "2018 ESA Annual Meeting (August 5--10), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:kVjdVfd2voEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Testing for a trade-off between growth and drought tolerance in Arabidopsis ecotypes",
+            "pub_year": "2018",
+            "citation": "2018 ESA Annual Meeting (August 5--10), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:QD3KBmkZPeQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An extensive suite of functional traits distinguishes Hawaiian forests and enables prediction of species vital rates",
+            "pub_year": "2018",
+            "citation": "2018 ESA Annual Meeting (August 5--10), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:4xDN1ZYqzskC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The sequence of drought-induced leaf injury: Evaluating structural damage and functional decline",
+            "pub_year": "2018",
+            "citation": "2018 ESA Annual Meeting (August 5--10), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:43bX7VzcjpAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Front Cover: Global Ecology and Biogeography Volume 27, Issue 7",
+            "pub_year": "2018",
+            "citation": "Global Ecology and Biogeography 27 (7), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:WZBGuue-350C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A longer exciton pathway",
+            "pub_year": "2018",
+            "citation": "Science 360 (6391), 870-872, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:WC23djZS0W4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The causes of leaf hydraulic vulnerability and its influence on gas exchange in Arabidopsis thaliana 2",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:jgBuDB5drN8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Repeated range expansion and niche shift in a volcanic hotspot archipelago: Radiation of C",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:lvd772isFD0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Testing assumptions and best practices of using the pressure chamber, or, How I learned to stop worrying and love the bomb",
+            "pub_year": "2018",
+            "citation": "University of California, Davis, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:OTTXONDVkokC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf hydraulic vulnerability influences sapflow responses to vapor pressure deficit in Los Angeles urban trees",
+            "pub_year": "2017",
+            "citation": "2017 ESA Annual Meeting (August 6--11), 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:vDZJ-YLwNdEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How do functional and physiological traits organize communities and influence biogeographic climate distributions? Tests across California communities",
+            "pub_year": "2017",
+            "citation": "2017 ESA Annual Meeting (August 6--11), 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:artPoR2Yc-kC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The anatomical and compositional basis of leaf mass per area",
+            "pub_year": "2017",
+            "citation": "Wiley-Blackwell Publishing Ltd., 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:3htObqc8RwsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Outside-xylem vulnerability, not Xylem embolism, controls leaf hydraulic decline during dehydration",
+            "pub_year": "2017",
+            "citation": "American Society of Plant Biologists, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ODE9OILHJdcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Outside-xylem vulnerability, not xylem embolism, controls leaf hydraulic decline during dehydration 2",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ML0RJ9NH7IQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Seasonal response of tree water transport in a rainforest is revealed by leaf water potential at turgor loss point",
+            "pub_year": "2016",
+            "citation": "TH\u00b5SE, 219, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Fu2w8maKXqMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluating the Correlations and Sequence of Plant Drought Responses: Coordination Among Stomatal, Hydraulic, and Wilting Traits",
+            "pub_year": "2016",
+            "citation": "AGU Fall Meeting Abstracts 2016, B11B-0451, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:j8SEvjWlNXcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Revisiting drought impact on tree mortality and carbon fluxes in ORCHIDEE-CAN DGVM",
+            "pub_year": "2016",
+            "citation": "AGU Fall Meeting Abstracts 2016, B11B-0448, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:fEOibwPWpKIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rethinking plant functional types in Earth System Models: pan-tropical analysis of tree survival across environmental gradients",
+            "pub_year": "2016",
+            "citation": "AGU Fall Meeting Abstracts 2016, B34C-04, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:tzM49s52ZIMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using gas exchange and water potential to determine stomatal closure in plants",
+            "pub_year": "2016",
+            "citation": "101st ESA Annual Meeting (August 7--12, 2016), 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:gKiMpY-AVTkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stomatal trait-based ecology: variation within and among Hawaiian tropical forests and relationship with other functional traits",
+            "pub_year": "2016",
+            "citation": "101st ESA Annual Meeting (August 7--12, 2016), 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:tH6gc1N1XXoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Repeated range expansion and niche shift in a volcanic hotspot archipelago: radiation of Hawaiian Euphorbia (Euphorbiaceae)",
+            "pub_year": "2016",
+            "citation": "bioRxiv, 056580, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:tkaPQYYpVKoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Corrigendum to: new handbook for standardised measurement of plant functional traits worldwide",
+            "pub_year": "2016",
+            "citation": "Australian Journal of botany 64 (8), 715-716, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:wKETBy42zhYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Corrigendum to: new handbook for standardised measurement of plant functional traits worldwide",
+            "pub_year": "2016",
+            "citation": "Australian Journal of botany 64 (8), 715-716, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:7H_MAutzIkAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods in Ecology and Evolution 2017, 8, 391 doi: 10.1111/2041-210X. 12672",
+            "pub_year": "2016",
+            "citation": "Evolution 3, 880-888, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:LjlpjdlvIbIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Corrigendum to: new handbook for standardised measurement of plant functional traits worldwide",
+            "pub_year": "2016",
+            "citation": "Australian Journal of botany 64 (8), 715-716, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Revisiting mechanisms underlying tree mortality induced by drought in the Amazon: from observation to modeling",
+            "pub_year": "2015",
+            "citation": "AGU Fall Meeting Abstracts 2015, B51D-0459, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:UHK10RUVsp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The relationship of leaf venation architecture to life history in tropical dry forest trees",
+            "pub_year": "2015",
+            "citation": "Association for Tropical Biology and Conservation Annual Meeting, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:7Hz3ACDFbsoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drought tolerance as predicted by leaf water potential at turgor loss point varies strongly across species within an Amazonian forest",
+            "pub_year": "2015",
+            "citation": "Functionnal Ecology 10 (29), 1268-1277.(2015), 2015"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:IRz6iEL74y4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf and stem physiological responses to summer and winter extremes of woody species across temperate ecosystems",
+            "pub_year": "2014",
+            "citation": "John Wiley & Sons, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:XvxMoLDsR5gC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The anatomical determinants of leaf mass per area (LMA) strong predictiveness of a novel, explicit mathematical model across diverse species",
+            "pub_year": "2014",
+            "citation": "2014 ESA Annual Meeting, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:BrmTIyaxlBUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Life of a Leaf",
+            "pub_year": "2013",
+            "citation": "BioScience 63 (12), 981-982, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:8d8msizDQcsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting tree water use and drought tolerance from leaf traits in the Los Angeles urban ecosystem",
+            "pub_year": "2013",
+            "citation": "AGU Fall Meeting Abstracts 2013, B34C-04, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:NhqRSupF_l8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Online at www. amjbot. org",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:4X0JR2_MtJMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decoupling of tropical forest structure and diversity: Stand characteristics, growth, and mortality in wet and dry Hawaiian forests and global comparisons",
+            "pub_year": "2012",
+            "citation": "Ecological Society of America Annual Meeting, Portland, OR, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developmentally-based scaling of leaf venation architecture with leaf size explains global ecological patterns",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary History of the Hawaiian Violets",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u82cf\u94c1\u751f\u7406\u5b66: \u53f6\u7247\u7ed3\u6784, \u6c34\u5206\u8fd0\u8f93, \u517b\u5206\u548c\u5149\u5408\u4f5c\u7528",
+            "pub_year": "2011",
+            "citation": "\u7b2c\u4e5d\u5c4a\u56fd\u9645\u82cf\u94c1\u751f\u7269\u5b66\u5927\u4f1a\u8bba\u6587\u6458\u8981\u96c6, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:M05iB0D1s5AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COS 114-9: Best of both worlds: Gas exchange and hydraulics of shade and drought tolerant species Ruscus aculeatus and R. microglossum (Ruscaceae)",
+            "pub_year": "2010",
+            "citation": "The 95th ESA Annual Meeting, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:rO6llkc54NcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PS 86-118: Electronic data collection methods for tree and seedling census data in forest dynamics plots",
+            "pub_year": "2009",
+            "citation": "The 94th ESA Annual Meeting, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:UxriW0iASnsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PS 71-139: Water transport properties in leaves of the chaparral shrub, Heteromeles arbutifolia, in a post-fire environment",
+            "pub_year": "2009",
+            "citation": "The 94th ESA Annual Meeting, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ldfaerwXgEUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COS 94-10: From frond to fern flora: An analysis of the Hawaiian pteridophyte trait database",
+            "pub_year": "2009",
+            "citation": "The 94th ESA Annual Meeting, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PS 51-103: Structural versus functional leaf trait coordination in the adaptive radiation of Hawaiian violets",
+            "pub_year": "2009",
+            "citation": "The 94th ESA Annual Meeting, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:a0OBvERweLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COS 39-9: Regeneration patterns in a native dominated Hawaiian montane wet forest",
+            "pub_year": "2009",
+            "citation": "The 94th ESA Annual Meeting, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:KxtntwgDAa4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural versus functional leaf trait coordination in the adaptive radiation of the Hawaiian violets",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:dBIO0h50nwkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COS 13-7: Hyperstomaty in Hawaiian Chamaesyce, a remarkable case of adaptive radiation",
+            "pub_year": "2008",
+            "citation": "The 93rd ESA Annual Meeting, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The scaling of leaf venation architecture: General laws, functional implications, and paleo-applications",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:4vMrXwiscB8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The scaling of leaf venation architecture: laws, functional implications and paleo-applications",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:HIFyuExEbWQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Does Hawaiian native forest conserve water? Lower uptake rates at tree and stand scale by Metrosideros polymorpha relative to plantation species",
+            "pub_year": "2007",
+            "citation": "AGU Fall Meeting Abstracts 2007, B24C-06, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:35N4QoGY0k4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COS 135-3: Diversification of hydraulic traits in nine Cordia species growing in tropical rainforests with contrasting precipitation",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:_xSYboBqXhAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FOSSIL LEAF ECONOMICS FROM SCALING PRINCIPLES",
+            "pub_year": "2006",
+            "citation": "2006 Philadelphia Annual Meeting, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:70eg2SAEIzsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hydraulic Pathways in Leaves of Temperate Trees",
+            "pub_year": "2006",
+            "citation": "Harvard Forest, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:BzfGm06jWhQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf Hydraulics and Its Implications in Plant Structure",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:Y5dfb0dijaUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A magic web",
+            "pub_year": "2003",
+            "citation": "NATURE 424 (6945), 132-132, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:WJVC3Jt7v1AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Design of paradise",
+            "pub_year": "2003",
+            "citation": "Nature 424 (6945), 132-132, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:2VqYfGB8ITEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Books and arts-A Magic Web",
+            "pub_year": "2003",
+            "citation": "Nature 424 (6945), 132, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:_5tno0g5mFcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Physiology and Development-The major veins of mesomorphic leaves revisited: Tests for conductive overload in Acer saccharum (Aceraceae) and Quercus rubra (Fagaceae)",
+            "pub_year": "2003",
+            "citation": "American Journal of Botany 90 (1), 32, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:a9-T7VOCCH8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting habitat affinities of plant species using commonly measured functional traits 2",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:mUJArPsKIAAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supporting Information: Thermal sensitivity across forest vertical profiles: patterns, mechanisms, and ecological implications",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:F2UWTTQJPOcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying leaf vein traits Protocol",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:HhcuHIWmDEUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimum epidermal conductance (gmin, aka cuticular conductance) Protocol",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:sszUF3NjhM4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method S1 Data evaluation process of leaf pressure-volume curve",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:PyEswDtIyv0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measuring osmotic potential and turgor loss point using a vapor pressure osmometer Protocol",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:-jrNzM816MMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf pressure-volume curve parameters Protocol",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:rHJHxKgnXwkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Affiliation of co-authors",
+            "citation": "DROUGHT TOLERANCE OF TROPICAL TREE SPECIES, 187, 0"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:jU7OWUQzBzMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developmental basis for the worldwide climatic distribution of grass leaf size",
+            "citation": "2020 ESA Annual Meeting (August 3-6), 0"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:uDGL6kOW6j0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Relationship of relative growth rate with native climate and drought tolerance traits across Arabidopsis ecotypes",
+            "citation": "2020 ESA Annual Meeting (August 3-6), 0"
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:PVgj2kMGcgYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Patterns of nitrogen-fixing tree abundance in forests across Asia and America",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:6yz0xqPARnAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decline of Leaf Hydraulic Conductance with Dehydration: Relationship to Leaf Size and Venation Architecture1 [W][OA]",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:mNrWkgRL2YcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of leaf form correlates with tropical",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:ILKRHgRFtOwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "plants: a new hypothesis for an interaction of 4 Evolution of C",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:L7CI7m0gUJcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data on diversity, abundance, per-capita recruitment, and conspecific and heterospecific negative density dependence of CTFS-ForestGEO plots",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:t7zJ5fGR-2UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ben Trevaskis 479\u2013487",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:5awf1xo2G04C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MF Arndal, IK Schmidt, J. Kongstad",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:eq2jaN3J8jMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rana Munns iii",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:SdhP9T11ey4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plants coping with shade plus drought: responses, tolerance, and ecological implications",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Density-dependent seedling mortality varies with light availability and species abundance in wet and dry tropical forests",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:yD5IFk8b50cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The anatomical basis of leaf water relations across diverse species",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Best of both worlds: Gas exchange and hydraulics of shade and drought tolerant species Ruscus aculeatus and R. microglossum (Ruscaceae)",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:u_35RYKgDlwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New insights into fern stomatal behavior based on leaf responses to light, CO 2, and VPD in a common garden",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HAWAII PERMANENT PLOT NETWORK (HIPPNET): ESSENTIAL UH INFRASTRUCTURE FOR CROSS-CUTTING ECOLOGICAL RESEARCH AND INCREASED RESEARCH PRODUCTIVITY",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "esPRxUoAAAAJ:lSLTfruPkqcC",
+        "num_citations": 0
+    }
+]

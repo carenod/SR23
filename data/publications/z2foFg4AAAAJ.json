@@ -1,0 +1,4321 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular portraits of human breast tumours",
+            "pub_year": "2000",
+            "citation": "nature 406 (6797), 747-752, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 20339,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6516635011466398496,13398873865871126010,73606473239711495",
+        "cites_id": [
+            "6516635011466398496",
+            "13398873865871126010",
+            "73606473239711495"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cluster analysis and display of genome-wide expression patterns",
+            "pub_year": "1998",
+            "citation": "Proceedings of the National Academy of Sciences 95 (25), 14863-14868, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 20183,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1639910448517799628",
+        "cites_id": [
+            "1639910448517799628"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications",
+            "pub_year": "2001",
+            "citation": "Proceedings of the National Academy of Sciences 98 (19), 10869-10874, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 13639,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8581805554248366713,6205140298918407356,2376242031391458921",
+        "cites_id": [
+            "8581805554248366713",
+            "6205140298918407356",
+            "2376242031391458921"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling",
+            "pub_year": "2000",
+            "citation": "Nature 403 (6769), 503-511, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 12097,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4252788137103770636",
+        "cites_id": [
+            "4252788137103770636"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comprehensive Identification of Cell Cycle\u2013regulated Genes of the Yeast Saccharomyces cerevisiae by Microarray Hybridization",
+            "pub_year": "1998",
+            "citation": "Molecular biology of the cell 9 (12), 3273-3297, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 6464,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14244909121447777121",
+        "cites_id": [
+            "14244909121447777121"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic expression programs in the response of yeast cells to environmental changes",
+            "pub_year": "2000",
+            "citation": "Molecular biology of the cell 11 (12), 4241-4257, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:qjMakFHDy7sC",
+        "num_citations": 5721,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9616305844689097044",
+        "cites_id": [
+            "9616305844689097044"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic variation in gene expression patterns in human cancer cell lines",
+            "pub_year": "2000",
+            "citation": "Nature genetics 24 (3), 227-235, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 2719,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10290679639735384882",
+        "cites_id": [
+            "10290679639735384882"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcriptional program in the response of human fibroblasts to serum",
+            "pub_year": "1999",
+            "citation": "science 283 (5398), 83-87, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 2627,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=987121986487594024",
+        "cites_id": [
+            "987121986487594024"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcriptional program of sporulation in budding yeast",
+            "pub_year": "1998",
+            "citation": "Science 282 (5389), 699-705, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:EUQCXRtRnyEC",
+        "num_citations": 2423,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15527989498602218504",
+        "cites_id": [
+            "15527989498602218504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of genes and genomes on the Drosophila phylogeny",
+            "pub_year": "2007",
+            "citation": "Nature 450 (7167), 203-218, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 2197,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3049257773076821134,10575870608807347764",
+        "cites_id": [
+            "3049257773076821134",
+            "10575870608807347764"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide analysis of DNA copy-number changes using cDNA microarrays",
+            "pub_year": "1999",
+            "citation": "Nature genetics 23 (1), 41-46, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 1999,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18321955603959679748",
+        "cites_id": [
+            "18321955603959679748"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insights into social insects from the genome of the honeybee Apis mellifera",
+            "pub_year": "2006",
+            "citation": "Nature 443 (7114), 931, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 1966,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13365446349699557013,9202377993348205924",
+        "cites_id": [
+            "13365446349699557013",
+            "9202377993348205924"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A gene expression database for the molecular pharmacology of cancer",
+            "pub_year": "2000",
+            "citation": "Nature genetics 24 (3), 236-244, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 1824,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14822358032856893368",
+        "cites_id": [
+            "14822358032856893368"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[12] DNA arrays for analysis of gene expression",
+            "pub_year": "1999",
+            "citation": "Methods in enzymology 303, 179-205, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 1487,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9859433855259038586",
+        "cites_id": [
+            "9859433855259038586"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In vivo enhancer analysis of human conserved non-coding sequences",
+            "pub_year": "2006",
+            "citation": "Nature 444 (7118), 499-502, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:roLk4NBRz8UC",
+        "num_citations": 1294,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10175726840649639472",
+        "cites_id": [
+            "10175726840649639472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tools for neuroanatomy and neurogenetics in Drosophila",
+            "pub_year": "2008",
+            "citation": "Proceedings of the National Academy of Sciences 105 (28), 9715-9720, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:hC7cP41nSMkC",
+        "num_citations": 939,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3031702439112997242",
+        "cites_id": [
+            "3031702439112997242"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploiting transcription factor binding site clustering to identify cis-regulatory modules involved in pattern formation in the Drosophila genome",
+            "pub_year": "2002",
+            "citation": "Proceedings of the National Academy of Sciences 99 (2), 757-762, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:WF5omc3nYNoC",
+        "num_citations": 749,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3667004655029928089",
+        "cites_id": [
+            "3667004655029928089"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "'Gene shaving'as a method for identifying distinct sets of genes with similar expression patterns",
+            "pub_year": "2000",
+            "citation": "Genome biology 1 (2), 1-21, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 737,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18025612882737496677",
+        "cites_id": [
+            "18025612882737496677"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discovery of functional elements in 12 Drosophila genomes using evolutionary signatures",
+            "pub_year": "2007",
+            "citation": "Nature 450 (7167), 219-232, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 705,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=348171736278122254",
+        "cites_id": [
+            "348171736278122254"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring the conditional coregulation of yeast gene expression through fuzzy k-means clustering",
+            "pub_year": "2002",
+            "citation": "Genome biology 3 (11), 1-22, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:Se3iqnhoufwC",
+        "num_citations": 592,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3514141758765478010",
+        "cites_id": [
+            "3514141758765478010"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The stanford microarray database",
+            "pub_year": "2001",
+            "citation": "Nucleic acids research 29 (1), 152-155, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 584,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14222243447703365772",
+        "cites_id": [
+            "14222243447703365772"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression informatics\u2014it's all in your mine",
+            "pub_year": "1999",
+            "citation": "Nature genetics 21 (1), 51-55, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ufrVoPGSRksC",
+        "num_citations": 579,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3540155354897587457",
+        "cites_id": [
+            "3540155354897587457"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcription Factors Bind Thousands of Active and Inactive Regions in the Drosophila Blastoderm",
+            "pub_year": "2008",
+            "citation": "PLoS biology 6 (2), e27, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 568,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4328121602778379815",
+        "cites_id": [
+            "4328121602778379815"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of eukaryotic mRNAs that are translated at reduced cap binding complex eIF4F concentrations using a cDNA microarray",
+            "pub_year": "1999",
+            "citation": "Proceedings of the National Academy of Sciences 96 (23), 13118-13123, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:UebtZRa9Y70C",
+        "num_citations": 528,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6953225527293456275",
+        "cites_id": [
+            "6953225527293456275"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Noise minimization in eukaryotic gene expression",
+            "pub_year": "2004",
+            "citation": "PLoS biology 2 (6), e137, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 475,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1826539140891547780",
+        "cites_id": [
+            "1826539140891547780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Similarities and differences in genome-wide expression data of six organisms",
+            "pub_year": "2004",
+            "citation": "PLoS biology 2 (1), e9, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:pS0ncopqnHgC",
+        "num_citations": 457,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1815334097832960552",
+        "cites_id": [
+            "1815334097832960552"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Widespread Discordance of Gene Trees with Species Tree in Drosophila: Evidence for Incomplete Lineage Sorting",
+            "pub_year": "2006",
+            "citation": "PLoS genetics 2 (10), e173, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 418,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13161451108949766841",
+        "cites_id": [
+            "13161451108949766841"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "0. & Botstein, D.(1998) Proc",
+            "citation": "Natl. Acad. Sci. USA95, 14863-14868, 0"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:Br1UauaknNIC",
+        "num_citations": 388,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7390627946285222823",
+        "cites_id": [
+            "7390627946285222823"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developmental roles of 21 Drosophila transcription factors are determined by quantitative differences in binding to an overlapping set of thousands of genomic \u2026",
+            "pub_year": "2009",
+            "citation": "Genome biology 10, 1-26, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 378,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1262722608019248191",
+        "cites_id": [
+            "1262722608019248191"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Awesome Power of Yeast Evolutionary Genetics: New Genome Sequences and Strain Resources for the Saccharomyces sensu stricto Genus",
+            "pub_year": "2011",
+            "citation": "G3: Genes| Genomes| Genetics 1 (1), 11-25, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:dfsIfKJdRG4C",
+        "num_citations": 355,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3434695798373912048",
+        "cites_id": [
+            "3434695798373912048"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Zelda Binding in the Early Drosophila melanogaster Embryo Marks Regions Subsequently Activated at the Maternal-to-Zygotic Transition",
+            "pub_year": "2011",
+            "citation": "PLoS genetics 7 (10), e1002266, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:eJXPG6dFmWUC",
+        "num_citations": 349,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16979761796009506980",
+        "cites_id": [
+            "16979761796009506980"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ongoing immunoglobulin somatic mutation in germinal center B cell-like but not in activated B cell-like diffuse large cell lymphomas",
+            "pub_year": "2000",
+            "citation": "Proceedings of the National Academy of Sciences 97 (18), 10209-10213, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:8k81kl-MbHgC",
+        "num_citations": 339,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17818981305441162616",
+        "cites_id": [
+            "17818981305441162616"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The lymphochip: a specialized cDNA microarray for the genomic-scale analysis of gene expression in normal and malignant lymphocytes",
+            "pub_year": "1999",
+            "citation": "Cold Spring Harbor symposia on quantitative biology 64, 71-78, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:0EnyYjriUFMC",
+        "num_citations": 338,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5206251839394411114",
+        "cites_id": [
+            "5206251839394411114"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sepsid even-skipped Enhancers Are Functionally Conserved in Drosophila Despite Lack of Sequence Conservation",
+            "pub_year": "2008",
+            "citation": "PLoS genetics 4 (6), e1000106, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:mB3voiENLucC",
+        "num_citations": 331,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7473522144833335734",
+        "cites_id": [
+            "7473522144833335734"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomic analysis of the rates of protein evolution",
+            "pub_year": "2005",
+            "citation": "Proceedings of the National Academy of Sciences 102 (15), 5483-5488, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:Zph67rFs4hoC",
+        "num_citations": 317,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8454367182369534025",
+        "cites_id": [
+            "8454367182369534025"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large-scale identification of secreted and membrane-associated gene products using DNA microarrays",
+            "pub_year": "2000",
+            "citation": "Nature genetics 25 (1), 58-62, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 317,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=86726759151935209",
+        "cites_id": [
+            "86726759151935209"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A quantitative spatiotemporal atlas of gene expression in the Drosophila blastoderm",
+            "pub_year": "2008",
+            "citation": "Cell 133 (2), 364-374, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:q3oQSFYPqjQC",
+        "num_citations": 306,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12736147825678847",
+        "cites_id": [
+            "12736147825678847"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HOOK: a program for finding novel molecular architectures that satisfy the chemical and steric requirements of a macromolecule binding site",
+            "pub_year": "1994",
+            "citation": "Proteins: Structure, Function, and Bioinformatics 19 (3), 199-221, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 304,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14454117145240431091",
+        "cites_id": [
+            "14454117145240431091"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large-Scale Turnover of Functional Transcription Factor Binding Sites in Drosophila",
+            "pub_year": "2006",
+            "citation": "PLoS computational biology 2 (10), e130, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:_kc_bZDykSQC",
+        "num_citations": 302,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5805876408100495030",
+        "cites_id": [
+            "5805876408100495030"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Imputing missing data for gene expression arrays",
+            "pub_year": "1999",
+            "citation": "Stanford University Statistics Department Technical report, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:RHpTSmoSYBkC",
+        "num_citations": 300,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6674284010881942775",
+        "cites_id": [
+            "6674284010881942775"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Binding of the influenza A virus to cell-surface receptors: structures of five hemagglutinin\u2013sialyloligosaccharide complexes determined by X-ray crystallography",
+            "pub_year": "1997",
+            "citation": "Virology 232 (1), 19-31, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 289,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15194085018784019841",
+        "cites_id": [
+            "15194085018784019841"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational identification of developmental enhancers: conservation and function of transcription factor binding-site clusters in Drosophila melanogaster and Drosophila \u2026",
+            "pub_year": "2004",
+            "citation": "Genome biology 5, 1-24, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 277,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4886622915466568984,3900908171874328677",
+        "cites_id": [
+            "4886622915466568984",
+            "3900908171874328677"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conservation and Evolution of Cis-Regulatory Systems in Ascomycete Fungi",
+            "pub_year": "2004",
+            "citation": "PLoS biology 2 (12), e398, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 276,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4327969625013446547",
+        "cites_id": [
+            "4327969625013446547"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Delineating developmental and metabolic pathways in  vivo by expression profiling using the RIKEN set of 18,816  full-length enriched mouse cDNA arrays",
+            "pub_year": "2001",
+            "citation": "Proceedings of the National Academy of Sciences 98 (5), 2199-2204, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:5nxA0vEk-isC",
+        "num_citations": 274,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16633257431216225861",
+        "cites_id": [
+            "16633257431216225861"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coevolution of gene expression among interacting proteins",
+            "pub_year": "2004",
+            "citation": "Proceedings of the National Academy of Sciences 101 (24), 9033-9038, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 269,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=401579149160787984",
+        "cites_id": [
+            "401579149160787984"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NELF and GAGA Factor Are Linked to Promoter-Proximal Pausing at Many Genes in Drosophila",
+            "pub_year": "2008",
+            "citation": "Molecular and cellular biology 28 (10), 3290-3300, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 265,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3916217320991273339",
+        "cites_id": [
+            "3916217320991273339"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Association of cohesin and Nipped-B with transcriptionally active regions of the Drosophila melanogaster genome",
+            "pub_year": "2008",
+            "citation": "Chromosoma 117, 89-102, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 252,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10355084915079003065",
+        "cites_id": [
+            "10355084915079003065"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of chromatin accessibility in directing the widespread, overlapping patterns of Drosophila transcription factor binding",
+            "pub_year": "2011",
+            "citation": "Genome biology 12, 1-17, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:g5m5HwL7SMYC",
+        "num_citations": 236,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=704045923029608110",
+        "cites_id": [
+            "704045923029608110"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid quantitative profiling of complex microbial populations",
+            "pub_year": "2006",
+            "citation": "Nucleic acids research 34 (1), e5-e5, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 233,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6030902651680138491",
+        "cites_id": [
+            "6030902651680138491"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Population genetic variation in gene expression is associated with phenotypic variation in Saccharomyces cerevisiae",
+            "pub_year": "2004",
+            "citation": "Genome biology 5 (4), 1-14, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 232,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14742881434364876357",
+        "cites_id": [
+            "14742881434364876357"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Budapest open access initiative",
+            "pub_year": "2002",
+            "citation": "ARL Bimonthly 48, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 231,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16342197590494610155",
+        "cites_id": [
+            "16342197590494610155"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Binding Site Turnover Produces Pervasive Quantitative Changes in Transcription Factor Binding between Closely Related Drosophila Species",
+            "pub_year": "2010",
+            "citation": "PLoS biology 8 (3), e1000343, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:k_IJM867U9cC",
+        "num_citations": 224,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11075394582113367127",
+        "cites_id": [
+            "11075394582113367127"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Noncanonical Compensation of Zygotic X Transcription in Early Drosophila melanogaster Development Revealed through Single-Embryo RNA-Seq",
+            "pub_year": "2011",
+            "citation": "PLoS biology 9 (2), e1000590, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:u_35RYKgDlwC",
+        "num_citations": 222,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17036713811514137015",
+        "cites_id": [
+            "17036713811514137015"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MONKEY: identifying conserved transcription-factor binding sites in multiple alignments using a binding site-specific evolutionary model",
+            "pub_year": "2004",
+            "citation": "Genome biology 5 (12), 1-15, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:4TOpqqG69KYC",
+        "num_citations": 208,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7069915263536975019",
+        "cites_id": [
+            "7069915263536975019"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Position specific variation in the rate of evolution in transcription factor binding sites",
+            "pub_year": "2003",
+            "citation": "BMC evolutionary biology 3 (1), 1-13, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:aqlVkmm33-oC",
+        "num_citations": 204,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10099906506637649763",
+        "cites_id": [
+            "10099906506637649763"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative Models of the Mechanisms That Control Genome-Wide Patterns of Transcription Factor Binding during Early Drosophila Development",
+            "pub_year": "2011",
+            "citation": "PLoS genetics 7 (2), e1001290, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:SeFeTyx0c_EC",
+        "num_citations": 201,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12402543673443701060",
+        "cites_id": [
+            "12402543673443701060"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Aging and gene expression in the primate brain",
+            "pub_year": "2005",
+            "citation": "PLoS biology 3 (9), e274, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:TQgYirikUcIC",
+        "num_citations": 201,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314084054846417751",
+        "cites_id": [
+            "8314084054846417751"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Clustering methods for the analysis of DNA microarray data",
+            "pub_year": "1999",
+            "citation": "Dept. Statist., Stanford Univ., Stanford, CA, Tech. Rep, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:vbGhcppDl1QC",
+        "num_citations": 200,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9086494267249594055",
+        "cites_id": [
+            "9086494267249594055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Establishment of regions of genomic activity during the Drosophila maternal to zygotic transition",
+            "pub_year": "2014",
+            "citation": "Elife 3, e03737, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:tuHXwOkdijsC",
+        "num_citations": 193,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14962563731588654168",
+        "cites_id": [
+            "14962563731588654168"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of embryonic stem cell lineage commitment by core promoter factor, TAF3",
+            "pub_year": "2011",
+            "citation": "Cell 146 (5), 720-731, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:abG-DnoFyZgC",
+        "num_citations": 185,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11158739483914054260",
+        "cites_id": [
+            "11158739483914054260"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Serendipitous discovery of Wolbachia genomes in multiple Drosophilaspecies",
+            "pub_year": "2005",
+            "citation": "Genome biology 6 (3), 1-8, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:HDshCWvjkbEC",
+        "num_citations": 173,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18291362462218971836",
+        "cites_id": [
+            "18291362462218971836"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A second-generation assembly of the Drosophila simulans genome provides new insights into patterns of lineage-specific divergence",
+            "pub_year": "2013",
+            "citation": "Genome research 23 (1), 89-98, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:XiVPGOgt02cC",
+        "num_citations": 168,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7253695845765840993",
+        "cites_id": [
+            "7253695845765840993"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene family innovation, conservation and loss on the animal stem lineage",
+            "pub_year": "2018",
+            "citation": "elife 7, e34226, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:LgRImbQfgY4C",
+        "num_citations": 167,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5326599895053338326",
+        "cites_id": [
+            "5326599895053338326"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Benchmarking tools for the alignment of functional noncoding DNA",
+            "pub_year": "2004",
+            "citation": "BMC bioinformatics 5, 1-17, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:4DMP91E08xMC",
+        "num_citations": 164,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11068565725043498987",
+        "cites_id": [
+            "11068565725043498987"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative validation of the D. melanogaster modENCODE transcriptome annotation",
+            "pub_year": "2014",
+            "citation": "Genome research 24 (7), 1209-1223, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:MLfJN-KU85MC",
+        "num_citations": 163,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13819145300177138565",
+        "cites_id": [
+            "13819145300177138565"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of regulatory elements using a feature selection method",
+            "pub_year": "2002",
+            "citation": "Bioinformatics 18 (9), 1167-1175, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:dhFuZR0502QC",
+        "num_citations": 159,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17375412806826805470",
+        "cites_id": [
+            "17375412806826805470"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mice infected with low-virulence strains of Toxoplasma gondii lose their innate aversion to cat urine, even after extensive parasite clearance",
+            "pub_year": "2013",
+            "citation": "PloS one 8 (9), e75246, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:uJ-U7cs_P_0C",
+        "num_citations": 156,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5746082436541068802",
+        "cites_id": [
+            "5746082436541068802"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probing lymphocyte biology by genomic-scale gene expression analysis",
+            "pub_year": "1998",
+            "citation": "Journal of clinical immunology 18, 373-379, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 156,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1829586359966829783",
+        "cites_id": [
+            "1829586359966829783"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA regions bound at low occupancy by transcription factors do not drive patterned reporter gene expression in Drosophila",
+            "pub_year": "2012",
+            "citation": "Proceedings of the National Academy of Sciences 109 (52), 21330-21335, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:5awf1xo2G04C",
+        "num_citations": 155,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18218977719055827093",
+        "cites_id": [
+            "18218977719055827093"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dense Bicoid hubs accentuate binding along the morphogen gradient",
+            "pub_year": "2017",
+            "citation": "Genes & Development 31 (17), 1784-1794, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:HeT0ZceujKMC",
+        "num_citations": 154,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12031999322480939234",
+        "cites_id": [
+            "12031999322480939234"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Three-dimensional morphology and gene expression in the Drosophilablastoderm at cellular resolution I: data acquisition pipeline",
+            "pub_year": "2006",
+            "citation": "Genome biology 7 (12), 1-21, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 152,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13578761791664433002",
+        "cites_id": [
+            "13578761791664433002"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global gene expression profiles for life stages of the deadly amphibian pathogen Batrachochytrium dendrobatidis",
+            "pub_year": "2008",
+            "citation": "Proceedings of the National Academy of Sciences 105 (44), 17034-17039, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:blknAaTinKkC",
+        "num_citations": 147,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4040372856141068779",
+        "cites_id": [
+            "4040372856141068779"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genome of the crustacean Parhyale hawaiensis, a model for animal development, regeneration, immunity and lignocellulose digestion",
+            "pub_year": "2016",
+            "citation": "elife 5, e20062, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:HIFyuExEbWQC",
+        "num_citations": 146,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6704019409173921059",
+        "cites_id": [
+            "6704019409173921059"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of chromatin structures on DNA processing for genomic analyses",
+            "pub_year": "2009",
+            "citation": "PloS one 4 (8), e6700, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 143,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15351843535456700995",
+        "cites_id": [
+            "15351843535456700995"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of oligonucleotide sequences that direct the movement of the Escherichia coli FtsK translocase",
+            "pub_year": "2005",
+            "citation": "Proceedings of the National Academy of Sciences 102 (49), 17618-17623, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9609516082631244704",
+        "cites_id": [
+            "9609516082631244704"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic multifactor hubs interact transiently with sites of active transcription in Drosophila embryos",
+            "pub_year": "2018",
+            "citation": "Elife 7, e40497, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:otzGkya1bYkC",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17766108574986832859",
+        "cites_id": [
+            "17766108574986832859"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid global spread of wRi-like Wolbachia across multiple Drosophila",
+            "pub_year": "2018",
+            "citation": "Current Biology 28 (6), 963-971. e8, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:BJbdYPG6LGMC",
+        "num_citations": 130,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14890900595410180912",
+        "cites_id": [
+            "14890900595410180912"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide transcriptional response of Silurana (Xenopus) tropicalis to infection with the deadly chytrid fungus",
+            "pub_year": "2009",
+            "citation": "PloS one 4 (8), e6494, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:70eg2SAEIzsC",
+        "num_citations": 130,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11668986939805840507",
+        "cites_id": [
+            "11668986939805840507"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A condensin-like dosage compensation complex acts at a distance to control expression throughout the genome",
+            "pub_year": "2009",
+            "citation": "Genes & development 23 (5), 602-618, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:GnPB-g6toBAC",
+        "num_citations": 130,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15752467502519790909",
+        "cites_id": [
+            "15752467502519790909"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phylogenetic motif detection by expectation-maximization on evolutionary mixtures",
+            "pub_year": "2003",
+            "citation": "Biocomputing 2004, 324-335, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13316019671630549151",
+        "cites_id": [
+            "13316019671630549151"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spellman pT, Brown pO, Botstein D",
+            "pub_year": "1998",
+            "citation": "Cluster analysis and display of genome-wide expression patterns. Proc Natl \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:L1USKYWJimsC",
+        "num_citations": 125,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=375598564024321659",
+        "cites_id": [
+            "375598564024321659"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystallographic detection of a second ligand binding site in influenza virus hemagglutinin.",
+            "pub_year": "1992",
+            "citation": "Proceedings of the National Academy of Sciences 89 (1), 324-328, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:-f6ydRqryjwC",
+        "num_citations": 124,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17785469939539394961",
+        "cites_id": [
+            "17785469939539394961"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visualizing associations between genome sequences and gene expression data using genome-mean expression profiles",
+            "pub_year": "2001",
+            "citation": "Bioinformatics 17 (suppl_1), S49-S55, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:IWHjjKOFINEC",
+        "num_citations": 119,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13503224161325407567",
+        "cites_id": [
+            "13503224161325407567"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drosophila Embryogenesis Scales Uniformly across Temperature in Developmentally Diverse Species",
+            "pub_year": "2014",
+            "citation": "PLoS genetics 10 (4), e1004293, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ZfRJV9d4-WMC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13254075382433388401",
+        "cites_id": [
+            "13254075382433388401"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extensive Divergence of Transcription Factor Binding in Drosophila Embryos with Highly Conserved Gene Expression",
+            "pub_year": "2013",
+            "citation": "PLoS genetics 9 (9), e1003748, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:hkOj_22Ku90C",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6208359931106929156,13273977073172122895",
+        "cites_id": [
+            "6208359931106929156",
+            "13273977073172122895"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ScanAlyze",
+            "pub_year": "1999",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:QUX0mv85b1cC",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15060448120015932846",
+        "cites_id": [
+            "15060448120015932846"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Association mapping from sequencing reads using k-mers",
+            "pub_year": "2018",
+            "citation": "Elife 7, e32920, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:yMeIxYmEMEAC",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4912737134902149653",
+        "cites_id": [
+            "4912737134902149653"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide analysis of alternative pre-mRNA splicing and RNA-binding specificities of the Drosophila hnRNP A/B family members",
+            "pub_year": "2009",
+            "citation": "Molecular cell 33 (4), 438-449, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ns9cj8rnVeAC",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10928425214819569463",
+        "cites_id": [
+            "10928425214819569463"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene shaving: a new class of clustering methods for expression arrays",
+            "pub_year": "2000",
+            "citation": "Stanford Technical Report, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:qUcmZB5y_30C",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2114071630798308794",
+        "cites_id": [
+            "2114071630798308794"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bethesda statement on open access publishing",
+            "pub_year": "2003",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:epqYDVWIO7EC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5121812950382822271",
+        "cites_id": [
+            "5121812950382822271"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary Mirages: Selection on Binding Site Composition Creates the Illusion of Conserved Grammars in Drosophila Enhancers",
+            "pub_year": "2010",
+            "citation": "PLoS genetics 6 (1), e1000829, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:RYcK_YlVTxYC",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17000730379295910949",
+        "cites_id": [
+            "17000730379295910949"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Convergence of topological domain boundaries, insulators, and polytene interbands revealed by high-resolution mapping of chromatin contacts in the early Drosophila melanogaster \u2026",
+            "pub_year": "2017",
+            "citation": "Elife 6, e29550, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:r_AWSJRzSzQC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10270868795532855139",
+        "cites_id": [
+            "10270868795532855139"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Why PLoS became a publisher",
+            "pub_year": "2003",
+            "citation": "PLoS biology 1 (1), e36, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:TFP_iSt0sucC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=531276497980353465",
+        "cites_id": [
+            "531276497980353465"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GATA: a graphic alignment tool for comparative sequence analysis",
+            "pub_year": "2005",
+            "citation": "BMC bioinformatics 6 (1), 1-8, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:isC4tDSrTZIC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14528089179566568629",
+        "cites_id": [
+            "14528089179566568629"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bethesda statement on open access publishing",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:RGFaLdJalmkC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15522563619580835467",
+        "cites_id": [
+            "15522563619580835467"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Publishing in the time of COVID-19",
+            "pub_year": "2020",
+            "citation": "Elife 9, e57162, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:O0nohqN1r9EC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15862602826897660388",
+        "cites_id": [
+            "15862602826897660388"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automatic image analysis for gene expression patterns of fly embryos",
+            "pub_year": "2007",
+            "citation": "BMC cell biology 8, 1-13, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:JV2RwH3_ST0C",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=590237966848992421",
+        "cites_id": [
+            "590237966848992421"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PointCloudXplore: Visual analysis of 3D gene expression data using physical views and parallel coordinates.",
+            "pub_year": "2006",
+            "citation": "EuroVis, 203-210, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:BqipwSGYUEgC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15189011260044310197,15226915733061363756,10457750529881531136",
+        "cites_id": [
+            "15189011260044310197",
+            "15226915733061363756",
+            "10457750529881531136"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Building a\" GenBank\" of the published literature",
+            "pub_year": "2001",
+            "citation": "Science 291 (5512), 2318-2319, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2888493117922812203",
+        "cites_id": [
+            "2888493117922812203"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phylogenetically and spatially conserved word pairs associated with gene expression changes in yeasts",
+            "pub_year": "2003",
+            "citation": "Proceedings of the seventh annual international conference on Research in \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:r0BpntZqJG4C",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5065497098819713746",
+        "cites_id": [
+            "5065497098819713746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequencing mRNA from cryo-sliced Drosophila embryos to determine genome-wide spatial patterns of gene expression",
+            "pub_year": "2013",
+            "citation": "PloS one 8 (8), e71820, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:PR6Y55bgFSsC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3445237063007171895",
+        "cites_id": [
+            "3445237063007171895"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An essential role for zygotic expression in the pre-cellular Drosophila embryo",
+            "pub_year": "2013",
+            "citation": "PLoS genetics 9 (4), e1003428, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:_Ybze24A_UAC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9794705500220759076",
+        "cites_id": [
+            "9794705500220759076"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insights into the evolution of Darwin\u2019s finches from comparative analysis of the Geospiza magnirostris genome sequence",
+            "pub_year": "2013",
+            "citation": "BMC genomics 14, 1-15, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ZuybSZzF8UAC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7705335601794463904",
+        "cites_id": [
+            "7705335601794463904"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional activation of the zygotic genome in Drosophila",
+            "pub_year": "2015",
+            "citation": "Current topics in developmental biology 113, 85-112, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:_FM0Bhl9EiAC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6161923431317529842",
+        "cites_id": [
+            "6161923431317529842"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detecting the limits of regulatory element conservation and divergence estimation using pairwise and multiple alignments",
+            "pub_year": "2006",
+            "citation": "BMC bioinformatics 7 (1), 1-14, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:iH-uZ7U-co4C",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9659734871616611157",
+        "cites_id": [
+            "9659734871616611157"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust manipulation of the behavior of Drosophila melanogaster by a fungal pathogen in the laboratory",
+            "pub_year": "2018",
+            "citation": "Elife 7, e34414, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:wMgC3FpKEyYC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=659980173294659497,2777054817554555701",
+        "cites_id": [
+            "659980173294659497",
+            "2777054817554555701"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid global phaseout of animal agriculture has the potential to stabilize greenhouse gas levels for 30 years and offset 68 percent of CO2 emissions this century",
+            "pub_year": "2022",
+            "citation": "PLoS Climate 1 (2), e0000010, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:PkcyUWeTMh0C",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9275564042303310762",
+        "cites_id": [
+            "9275564042303310762"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of direct T-box target genes in the developing zebrafish mesoderm",
+            "pub_year": "2009",
+            "citation": "Oxford University Press for The Company of Biologists Limited 136 (5), 749-760, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:3s1wT3WcHBgC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5364241263700677203",
+        "cites_id": [
+            "5364241263700677203"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A conserved developmental patterning network produces quantitatively different output in multiple species of Drosophila",
+            "pub_year": "2011",
+            "citation": "PLoS Genetics 7 (10), e1002346, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9803572329350747348",
+        "cites_id": [
+            "9803572329350747348"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating data clustering and visualization for the analysis of 3d gene expression data",
+            "pub_year": "2008",
+            "citation": "IEEE/ACM Transactions on Computational Biology and Bioinformatics 7 (1), 64-79, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:HoB7MX3m0LUC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10057051082308198341",
+        "cites_id": [
+            "10057051082308198341"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The yeast mitochondrial transport proteins: new sequences and consensus residues, lack of direct relation between consensus residues and transmembrane helices, expression \u2026",
+            "pub_year": "2000",
+            "citation": "Biochimica et Biophysica Acta (BBA)-Biomembranes 1467 (1), 207-218, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11882514850548119385",
+        "cites_id": [
+            "11882514850548119385"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improving transcriptome assembly through error correction of high-throughput sequence reads",
+            "pub_year": "2013",
+            "citation": "PeerJ 1, e113, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:uLbwQdceFCQC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=158529275348831776",
+        "cites_id": [
+            "158529275348831776"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A molecular atlas of the developing ectoderm defines neural, neural crest, placode, and nonneural progenitor identity in vertebrates",
+            "pub_year": "2017",
+            "citation": "PLoS biology 15 (10), e2004045, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:u-coK7KVo8oC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13769928893951786054",
+        "cites_id": [
+            "13769928893951786054"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Big genomes facilitate the comparative identification of regulatory elements",
+            "pub_year": "2009",
+            "citation": "PLoS One 4 (3), e4688, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:NaGl4SEjCO4C",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14617772653431572815",
+        "cites_id": [
+            "14617772653431572815"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dual functions of TAF7L in adipocyte differentiation",
+            "pub_year": "2013",
+            "citation": "Elife 2, e00170, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ye4kPcJQO24C",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15166492229278656496",
+        "cites_id": [
+            "15166492229278656496"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kinetic sculpting of the seven stripes of the Drosophila even-skipped gene",
+            "pub_year": "2020",
+            "citation": "Elife 9, e61635, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:F1b5ZUV5XREC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17045606402946277080",
+        "cites_id": [
+            "17045606402946277080"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u2018A Troublesome Inheritance.\u2019",
+            "pub_year": "2014",
+            "citation": "New York Times Book Review, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:EsEWqaRxkBgC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9909778647280122095",
+        "cites_id": [
+            "9909778647280122095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Fitness Landscapes of cis-Acting Binding Sites in Different Promoter and Environmental Contexts",
+            "pub_year": "2010",
+            "citation": "PLoS genetics 6 (7), e1001042, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:P5F9QuxV20EC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4772760191415969945",
+        "cites_id": [
+            "4772760191415969945"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Silent but not static: accelerated base-pair substitution in silenced chromatin of budding yeasts",
+            "pub_year": "2008",
+            "citation": "PLoS genetics 4 (11), e1000247, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:J_g5lzvAfSwC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13249794695490328775",
+        "cites_id": [
+            "13249794695490328775"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2018",
+            "citation": "US Patent 10,039,306, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:4hFrxpcac9AC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14849148577594661918",
+        "cites_id": [
+            "14849148577594661918"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detecting DNA regulatory motifs by incorporating positional trends in information content",
+            "pub_year": "2004",
+            "citation": "Genome biology 5, 1-21, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:hMod-77fHWUC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8128724721042783681",
+        "cites_id": [
+            "8128724721042783681"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pledging intellectual property for COVID-19",
+            "pub_year": "2020",
+            "citation": "Nature Biotechnology 38 (10), 1146-1149, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ziOE8S1-AIUC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11217146726056102580",
+        "cites_id": [
+            "11217146726056102580"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plan U: Universal access to scientific and medical research via funder preprint mandates",
+            "pub_year": "2019",
+            "citation": "PLoS biology 17 (6), e3000273, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:6bLC7aUMtPcC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2499743932951368801",
+        "cites_id": [
+            "2499743932951368801"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Careful Look at Binding Site Reorganization in the even-skipped Enhancers of Drosophila and Sepsids",
+            "pub_year": "2008",
+            "citation": "PLoS genetics 4 (11), e1000268, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1152303598367145098",
+        "cites_id": [
+            "1152303598367145098"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Implementing a\" publish, then review\" model of publishing",
+            "pub_year": "2020",
+            "citation": "Elife 9, e64910, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:raTqNPD5sRQC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12861974751278847224,13317847937355926422",
+        "cites_id": [
+            "12861974751278847224",
+            "13317847937355926422"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Paths of glorious proteases",
+            "pub_year": "1999",
+            "citation": "Nature genetics 23 (4), 378-379, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:OR75R8vi5nAC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11437252710533510048",
+        "cites_id": [
+            "11437252710533510048"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supervised detection of regulatory motifs in DNA sequences",
+            "pub_year": "2003",
+            "citation": "Statistical Applications in Genetics and Molecular Biology 2 (1), 2003"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:NMxIlDl6LWMC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6937794746317692256",
+        "cites_id": [
+            "6937794746317692256"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cluster analysis and display of genome-wide expression patterns (vol 95, pg 14863, 1998)",
+            "pub_year": "1999",
+            "citation": "Proceedings of the National academy of Sciences of the United States of \u2026, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ce2CqMG-AY4C",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12698011194822245800,15293034843952940862",
+        "cites_id": [
+            "12698011194822245800",
+            "15293034843952940862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ecology of the Drosophila-yeast mutualism in wineries",
+            "pub_year": "2018",
+            "citation": "PloS one 13 (5), e0196440, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:vDZJ-YLwNdEC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13086044276534404484",
+        "cites_id": [
+            "13086044276534404484"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Patterns of chromatin accessibility along the anterior-posterior axis in the early Drosophila embryo",
+            "pub_year": "2018",
+            "citation": "PLoS genetics 14 (5), e1007367, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:Bg7qf7VwUHIC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4869404646713576254",
+        "cites_id": [
+            "4869404646713576254"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of the transcriptome, nucleotide sequence polymorphism, and natural selection in the desert adapted mouse Peromyscus eremicus",
+            "pub_year": "2014",
+            "citation": "PeerJ 2, e642, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:e_rmSamDkqQC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8766551467175599952",
+        "cites_id": [
+            "8766551467175599952"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Convergent evolution of gene expression in two high-toothed stickleback populations",
+            "pub_year": "2018",
+            "citation": "PLoS Genetics 14 (6), e1007443, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:tH6gc1N1XXoC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11708017196939486359",
+        "cites_id": [
+            "11708017196939486359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identifying cis-regulatory sequences by word profile similarity",
+            "pub_year": "2009",
+            "citation": "PloS one 4 (9), e6901, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ZHo1McVdvXMC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17913170244551502465",
+        "cites_id": [
+            "17913170244551502465"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Design of a combinatorial DNA microarray for protein-DNA interaction studies",
+            "pub_year": "2006",
+            "citation": "Bmc Bioinformatics 7 (1), 1-10, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:vV6vV6tmYwMC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3415432040680575397",
+        "cites_id": [
+            "3415432040680575397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2015",
+            "citation": "US Patent App. 14/752,540, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:N5tVd3kTz84C",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17712903505691023930,16239585069930289851",
+        "cites_id": [
+            "17712903505691023930",
+            "16239585069930289851"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploratory screening of genes and clusters from microarray experiments",
+            "pub_year": "2002",
+            "citation": "Statistica Sinica, 47-59, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:O3NaXMp0MMsC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17990651498571313447",
+        "cites_id": [
+            "17990651498571313447"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2021",
+            "citation": "US Patent 10,986,848, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:HtEfBTGE9r8C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1663162454486615456",
+        "cites_id": [
+            "1663162454486615456"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sex Bias and Maternal Contribution to Gene Expression Divergence in Drosophila Blastoderm Embryos",
+            "pub_year": "2015",
+            "citation": "PLoS genetics 11 (10), e1005592, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:LO7wyVUgiFcC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5213701583943801646",
+        "cites_id": [
+            "5213701583943801646"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probing the Informational and regulatory plasticity of a transcription factor DNA\u2013binding domain",
+            "pub_year": "2012",
+            "citation": "PLoS genetics 8 (3), e1002614, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8945182926659550736",
+        "cites_id": [
+            "8945182926659550736"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stable Host Gene Expression in the Gut of Adult Drosophila melanogaster with Different Bacterial Mono-Associations",
+            "pub_year": "2016",
+            "citation": "PLoS One 11 (11), e0167357, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:_5tno0g5mFcC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1028806195228847646",
+        "cites_id": [
+            "1028806195228847646"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single molecule imaging in live embryos using lattice light-sheet microscopy",
+            "pub_year": "2018",
+            "citation": "Nanoscale Imaging: Methods and Protocols, 541-559, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:4xDN1ZYqzskC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=916732945590073585",
+        "cites_id": [
+            "916732945590073585"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide measurement of spatial expression in patterning mutants of Drosophila melanogaster",
+            "pub_year": "2017",
+            "citation": "F1000Research 6, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:6ZxmRoH8BuwC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18266575694813510729",
+        "cites_id": [
+            "18266575694813510729"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Low-cost, low-input RNA-seq protocols perform nearly as well as high-input protocols",
+            "pub_year": "2015",
+            "citation": "PeerJ 3, e869, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:HbR8gkJAVGIC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10426284731445962164",
+        "cites_id": [
+            "10426284731445962164"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2019",
+            "citation": "US Patent 10,172,381, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:artPoR2Yc-kC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9613329210289907066",
+        "cites_id": [
+            "9613329210289907066"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Saccharomyces cerevisiae mitochondria are required for optimal attractiveness to Drosophila melanogaster",
+            "pub_year": "2014",
+            "citation": "PloS one 9 (12), e113899, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:PoWvk5oyLR8C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16788132604332414022",
+        "cites_id": [
+            "16788132604332414022"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Entomophthovirus: an insect-derived iflavirus that infects a behavior manipulating fungal pathogen of dipterans",
+            "pub_year": "2018",
+            "citation": "BioRxiv, 371526, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:buQ7SEKw-1sC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4249267779247715542",
+        "cites_id": [
+            "4249267779247715542"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Research bought, then paid for",
+            "pub_year": "2012",
+            "citation": "New York Times 10, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:g3aElNc5_aQC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3954720464769633774",
+        "cites_id": [
+            "3954720464769633774"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flexible promoter architecture requirements for coactivator recruitment",
+            "pub_year": "2006",
+            "citation": "BMC molecular biology 7 (1), 1-18, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:lSLTfruPkqcC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8951175610485722083",
+        "cites_id": [
+            "8951175610485722083"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Primate-specific evolution of an LDLR enhancer",
+            "pub_year": "2006",
+            "citation": "Genome biology 7 (8), 1-9, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ldfaerwXgEUC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17176063258510311852",
+        "cites_id": [
+            "17176063258510311852"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Clustering gene expression patterns of fly embryos",
+            "pub_year": "2006",
+            "citation": "3rd IEEE International Symposium on Biomedical Imaging: Nano to Macro, 2006 \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:2P1L_qKh6hAC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14616216153196925109",
+        "cites_id": [
+            "14616216153196925109"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole Genome Sequences of 23 Species from the Drosophila montium Species Group (Diptera: Drosophilidae): A Resource for Testing Evolutionary Hypotheses",
+            "pub_year": "2020",
+            "citation": "G3: Genes, Genomes, Genetics 10 (5), 1443-1455, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:MAUkC_7iAq8C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8610978402916554392",
+        "cites_id": [
+            "8610978402916554392"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sex-specific embryonic gene expression in species with newly evolved sex chromosomes",
+            "pub_year": "2014",
+            "citation": "PLoS genetics 10 (2), e1004159, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ML0RJ9NH7IQC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15908346028670502410",
+        "cites_id": [
+            "15908346028670502410"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coupling visualization and data analysis for knowledge discovery from multi-dimensional scientific data",
+            "pub_year": "2010",
+            "citation": "Procedia computer science 1 (1), 1757-1764, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:D03iK_w7-QYC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2304004892020442659",
+        "cites_id": [
+            "2304004892020442659"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2019",
+            "citation": "US Patent App. 15/985,694, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:7wO8s98CvbsC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11560438372082725246",
+        "cites_id": [
+            "11560438372082725246"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "All motifs are NOT created equal: structural properties of transcription factor-DNA interactions and the inference of sequence specificity",
+            "pub_year": "2005",
+            "citation": "Genome Biology 6 (5), P7, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:M05iB0D1s5AC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2493650522926225177",
+        "cites_id": [
+            "2493650522926225177"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Technical report Department of Statistics",
+            "pub_year": "1999",
+            "citation": "stanford University, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:Ade32sEp0pkC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5554228702368977796",
+        "cites_id": [
+            "5554228702368977796"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Peer review without gatekeeping",
+            "pub_year": "2022",
+            "citation": "Elife 11, e83889, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:SAZ1SQo2q1kC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15154780239387991626",
+        "cites_id": [
+            "15154780239387991626"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2021",
+            "citation": "US Patent 11,013,250, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:q-HalDI95KYC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7506570492513002933",
+        "cites_id": [
+            "7506570492513002933"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A phylogeny for the Drosophila montium species group: a model clade for comparative analyses",
+            "pub_year": "2021",
+            "citation": "Molecular phylogenetics and evolution 158, 107061, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:kF1pexMAQbMC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1151611754656055397",
+        "cites_id": [
+            "1151611754656055397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2021",
+            "citation": "US Patent 10,993,462, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:LPtt_HFRSbwC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2708309296059659197",
+        "cites_id": [
+            "2708309296059659197"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of essential workers in the context of social distancing for epidemic control",
+            "pub_year": "2021",
+            "citation": "PLoS One 16 (8), e0255680, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:KNjnJ3z-R6IC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9429344712713661718",
+        "cites_id": [
+            "9429344712713661718"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Patterns of Genome-Wide Diversity and Population Structure in the Drosophila athabasca Species Complex",
+            "pub_year": "2017",
+            "citation": "Molecular Biology and Evolution 34 (8), 1912-1923, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:bKqednn6t2AC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11859512924101252061",
+        "cites_id": [
+            "11859512924101252061"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Zelda potentiates transcription factor binding to zygotic enhancers by increasing local chromatin accessibility during early Drosophila melanogaster embryogenesis",
+            "pub_year": "2018",
+            "citation": "BioRxiv, 380857, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:48xauSegjOkC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16940708651982432908",
+        "cites_id": [
+            "16940708651982432908"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2020",
+            "citation": "US Patent 10,863,761, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:MhiOAD_qIWkC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5928233751632076840",
+        "cites_id": [
+            "5928233751632076840"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PLoS Medicine\u2014 A Medical Journal for the Internet Age",
+            "pub_year": "2004",
+            "citation": "PLoS Medicine 1 (1), e31, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:35N4QoGY0k4C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11278485973211336058",
+        "cites_id": [
+            "11278485973211336058"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Determining physical constraints in transcriptional initiation complexes using DNA sequence analysis",
+            "pub_year": "2007",
+            "citation": "PLoS One 2 (11), e1199, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:zA6iFVUQeVQC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16939913478565297510",
+        "cites_id": [
+            "16939913478565297510"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method and compositions for consumables",
+            "pub_year": "2014",
+            "citation": "US Patent App. 13/941,211, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:NyGDZy8z5eUC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13491611562919170792",
+        "cites_id": [
+            "13491611562919170792"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coupling pre-prints and post-publication peer review for fast, cheap, fair, and effective science publishing",
+            "pub_year": "2016",
+            "citation": "Blog post. Published: January 21, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:mNrWkgRL2YcC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3919859747550668910",
+        "cites_id": [
+            "3919859747550668910"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A model for sequential evolution of ligands by exponential enrichment (SELEX) data",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:Y5dfb0dijaUC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4203196414049699570",
+        "cites_id": [
+            "4203196414049699570"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "We need to act now",
+            "pub_year": "2020",
+            "citation": "Elife 9, e59636, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:pAkWuXOU-OoC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2178932236587115685",
+        "cites_id": [
+            "2178932236587115685"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2012",
+            "citation": "Patent WO2013010042A1 12, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:JTqpx9DYBaYC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4118650282273164994",
+        "cites_id": [
+            "4118650282273164994"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of DNA microarrays to monitor differential gene expression in yeast and humans.",
+            "pub_year": "1997",
+            "citation": "Faseb Journal 11 (9), A1126-A1126, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:-_dYPAW6P2MC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16127907952632497150",
+        "cites_id": [
+            "16127907952632497150"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural variation among wild and industrial strains of Penicillium chrysogenum",
+            "pub_year": "2014",
+            "citation": "PloS one 9 (5), e96784, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:KUbvn5osdkgC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3405016201196298172",
+        "cites_id": [
+            "3405016201196298172"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PLoS Computational Biology: A New Community Journal",
+            "pub_year": "2005",
+            "citation": "PLoS Computational Biology 1 (1), e4, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:WbkHhVStYXYC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314241856148370702",
+        "cites_id": [
+            "8314241856148370702"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Clustering methods for the analysis of DNA microarray data [technical report]",
+            "pub_year": "1999",
+            "citation": "Stanford (CA): Department of Statistics, Stanford University, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:Xz60mAmATU4C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9322466015937150120",
+        "cites_id": [
+            "9322466015937150120"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Borresen-\u2010Dale AL (2001) Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications",
+            "citation": "Proc Natl Acad Sci U S A 98, 19, 0"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ILKRHgRFtOwC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4764909033596130791",
+        "cites_id": [
+            "4764909033596130791"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ancestral animal genetic toolkit revealed by diverse choanoflagellate transcriptomes",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 211789, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:gKiMpY-AVTkC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12128720129863432140",
+        "cites_id": [
+            "12128720129863432140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of an evolutionary model to provide evidence for a wide heterogeneity of required affinities between transcription factors and their binding sites in yeast",
+            "pub_year": "2008",
+            "citation": "Biocomputing 2008, 489-500, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9774035887860189582",
+        "cites_id": [
+            "9774035887860189582"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole genome phylogeny of the Drosophila melanogster species subgroup: Widespread discordance with species tree and evidence for incomplete lineage sorting",
+            "pub_year": "2006",
+            "citation": "PLoS Genet 2 (10), 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:pqnbT2bcN3wC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5918971103946129738",
+        "cites_id": [
+            "5918971103946129738"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Should the scientific literature be privately owned and controlled?",
+            "pub_year": "2001",
+            "citation": "Nature, 1-1, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:rO6llkc54NcC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14181269247467752806",
+        "cites_id": [
+            "14181269247467752806"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COVID-19: save lives with open intellectual-property licences",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7818), 683-683, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:YsrPvlHIBpEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16550090322793015376",
+        "cites_id": [
+            "16550090322793015376"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oxygen changes drive non-uniform scaling in Drosophila melanogaster embryogenesis",
+            "pub_year": "2015",
+            "citation": "F1000Research 4, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:GtLg2Ama23sC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5919664188033294826",
+        "cites_id": [
+            "5919664188033294826"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pointcloudexplore 2: Visual exploration of 3D gene expression",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:tkaPQYYpVKoC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16225463417174714606",
+        "cites_id": [
+            "16225463417174714606"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Public-access group supports PubMed Central",
+            "pub_year": "2002",
+            "citation": "Nature 419 (6903), 111-111, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:fPk4N6BV_jEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=80355341510373449",
+        "cites_id": [
+            "80355341510373449"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene cluster treeview",
+            "pub_year": "2001",
+            "citation": "Stanford University (http://genomewww. stanford. edu/serum), 2001"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:zwpXiJ37cpgC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4190131576774781409",
+        "cites_id": [
+            "4190131576774781409"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Atlas\u2026 t, patterns from every cell",
+            "pub_year": "2017",
+            "citation": "Science 358 (6360), 172-173, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:Aul-kAQHnToC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2940511695624865291",
+        "cites_id": [
+            "2940511695624865291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating motifs under order restrictions",
+            "pub_year": "2005",
+            "citation": "Statistical Applications in Genetics and Molecular Biology 4 (1), 2005"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:a0OBvERweLwC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14346256953385235857",
+        "cites_id": [
+            "14346256953385235857"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Weisenburge, r DD",
+            "pub_year": "2000",
+            "citation": "Armitage, JO, Warnke, R, Levy R, Wilson, W, Grever, MR, Byrd, JC, Botstein \u2026, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:DyXnQzXoVgIC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14728641781596223237,14291864689981123169",
+        "cites_id": [
+            "14728641781596223237",
+            "14291864689981123169"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2021",
+            "citation": "US Patent App. 17/108,102, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:DrR-2ekChdkC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7402757753147570893",
+        "cites_id": [
+            "7402757753147570893"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2021",
+            "citation": "US Patent App. 17/081,938, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:An6A6Jpfc1oC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4932864369768997505",
+        "cites_id": [
+            "4932864369768997505"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Or22 allelic variation alone does not explain differences in discrimination of yeast-produced volatiles by D. melanogaster",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 186064, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:8xutWZnSdmoC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=660755847609703031",
+        "cites_id": [
+            "660755847609703031"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Enigmatic Conservation of a Rap1 Binding Site in the Saccharomyces cerevisiae HMR-E Silencer",
+            "pub_year": "2012",
+            "citation": "G3: Genes| Genomes| Genetics 2 (12), 1555-1562, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:eq2jaN3J8jMC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11168585112396909889",
+        "cites_id": [
+            "11168585112396909889"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene Cluster",
+            "pub_year": "1998",
+            "citation": "Hierarchical clustering, self-organizing maps (SOMs), k-means clustering \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:CB2v5VPnA5kC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17052706538697292609",
+        "cites_id": [
+            "17052706538697292609"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "0. & Staudt, LM (1998) J",
+            "citation": "Clin. Immunol 18, 373-379, 0"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:rTD5ala9j4wC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5788727460941691450",
+        "cites_id": [
+            "5788727460941691450"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutation of sequences flanking and separating transcription factor binding sites in a Drosophila enhancer significantly alter its output",
+            "pub_year": "2018",
+            "citation": "Biorxiv, 379974, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:CaZNVDsoPx4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12868660370708239748",
+        "cites_id": [
+            "12868660370708239748"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chronic ethanol ingestion impairs Drosophila melanogaster health in a microbiome-dependent manner",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:5MTHONV0fEkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16559648509446674509",
+        "cites_id": [
+            "16559648509446674509"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Non-respiratory functions of Saccharomyces cerevisiae mitochondria are required for optimal attractiveness to Drosophila melanogaster",
+            "pub_year": "2014",
+            "citation": "BioRxiv, 007336, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:LI9QrySNdTsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9747800730041818089",
+        "cites_id": [
+            "9747800730041818089"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Open access: the sooner the better",
+            "pub_year": "2009",
+            "citation": "Science 325 (5938), 266-266, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:bFI3QPDXJZMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6396353960899798073",
+        "cites_id": [
+            "6396353960899798073"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: transcription factors bind thousands of active and inactive regions in the Drosophila blastoderm",
+            "pub_year": "2008",
+            "citation": "PLoS Biology 6 (7), e190, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:TIZ-Mc8IlK0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5540613430698802564",
+        "cites_id": [
+            "5540613430698802564"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Public Access to Public Science: Recommendations for the California Stem Cell Institute's Policies Regarding Grantee-Produced Journal Articles",
+            "pub_year": "2006",
+            "citation": "Berkeley Tech. LJ 21, 1177, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:4MWp96NkSFoC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5101618963034877578",
+        "cites_id": [
+            "5101618963034877578"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A cDNA microarray gene expression database for cancer drug discovery",
+            "pub_year": "1999",
+            "citation": "Nature Genetics 23 (3), 81-81, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:pyW8ca7W8N0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4988654607201867406",
+        "cites_id": [
+            "4988654607201867406"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression profiling predicts clinical outcome of breast cancer",
+            "pub_year": "1998",
+            "citation": "Proc Natl Acad Sci 95 (25), 14863-14868, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:kWvqk_afx_IC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1139688998852255566",
+        "cites_id": [
+            "1139688998852255566"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-nucleus RNA-sequencing in pre-cellularization Drosophila melanogaster embryos",
+            "pub_year": "2022",
+            "citation": "Plos one 17 (6), e0270471, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:mWEH9CqjF64C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17918530884705508418",
+        "cites_id": [
+            "17918530884705508418"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2022",
+            "citation": "US Patent App. 17/531,491, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:SIv7DqKytYAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16520897121222194750",
+        "cites_id": [
+            "16520897121222194750"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2022",
+            "citation": "US Patent App. 17/531,442, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:sA9dB-pw3HoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=321840402695078351",
+        "cites_id": [
+            "321840402695078351"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for consumables",
+            "pub_year": "2021",
+            "citation": "US Patent App. 17/156,458, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:69ZgNCALVd0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17075141290169683771",
+        "cites_id": [
+            "17075141290169683771"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rigorous review and editorial oversight of clinical preprints",
+            "pub_year": "2021",
+            "citation": "Elife 10, e67528, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:eO3_k5sD8BwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5164570557745668123",
+        "cites_id": [
+            "5164570557745668123"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ending animal agriculture would stabilize greenhouse gas levels for 30 years and offset 70 percent of CO2 emissions this century",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:DkZNVXde3BIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3369650383952761222",
+        "cites_id": [
+            "3369650383952761222"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ten Years of PLoS\u2021 Computational Biology: A Decade of Appreciation and Innovation",
+            "pub_year": "2015",
+            "citation": "PLoS computational biology 11 (6), e1004317, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:4fGpz3EwCPoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7176262429066797503",
+        "cites_id": [
+            "7176262429066797503"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatial promoter recognition signatures may enhance transcription factor specificity in yeast",
+            "pub_year": "2013",
+            "citation": "Plos one 8 (1), e53778, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:VL0QpB8kHFEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13157641548358223799",
+        "cites_id": [
+            "13157641548358223799"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA dealt wrong hand on cover",
+            "pub_year": "2010",
+            "citation": "Nature 467 (7314), 401-401, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:b0M2c_1WBrUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7367248817820297032",
+        "cites_id": [
+            "7367248817820297032"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Population genetic variation in gene expression is associated with phenotypic variation in",
+            "pub_year": "2004",
+            "citation": "Saccharomyces cerevisiae, 1-14, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:TlpoogIpr_IC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17931125769151418027",
+        "cites_id": [
+            "17931125769151418027"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional clustering of genes using microarray gene expression data",
+            "pub_year": "1999",
+            "citation": "Nature Genetics 23 (3), 75-75, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:_xSYboBqXhAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16864378939791313554",
+        "cites_id": [
+            "16864378939791313554"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "4. Chu, S., DeRisi, J., Eisen, M., Mulholland, J., Botstein, D., Brown, PO, and Herskowitz, I.(1998). The Transcriptional Program of Sporulation in Budding Yeast. Science 282 \u2026",
+            "pub_year": "1998",
+            "citation": "Science 282, 699-705, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:kzcSZmkxUKAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=555723450734928215",
+        "cites_id": [
+            "555723450734928215"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of a 10,000 gene cDNA microarray to analyze gene expression patterns in hematological disorders.",
+            "pub_year": "1997",
+            "citation": "Blood 90 (10), 2480-2480, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:2KloaMYe4IUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12153306086225434895",
+        "cites_id": [
+            "12153306086225434895"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intrinsic protein disorder is insufficient to drive subnuclear clustering in embryonic transcription factors",
+            "pub_year": "2023",
+            "citation": "BioRxiv, 2023.03. 27.534457, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:unp9ATQDT5gC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8722888835897685087",
+        "cites_id": [
+            "8722888835897685087"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Not just Salk",
+            "pub_year": "2017",
+            "citation": "Science 357 (6356), 1105-1106, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:SnGPuo6Feq8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=526559845143462906",
+        "cites_id": [
+            "526559845143462906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Or22 allelic variation alone does not explain differences in discrimination of yeast-produced volatiles byD. melanogaster",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:qe6vwMD2xtsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7815723904566407303",
+        "cites_id": [
+            "7815723904566407303"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A chromatin extension model for insulator function based on comparison of high-resolution chromatin conformation capture and polytene banding maps",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 129577, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ODE9OILHJdcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2144155151461429796",
+        "cites_id": [
+            "2144155151461429796"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Readings for Module 6: Clustering.",
+            "pub_year": "2003",
+            "citation": "Molecular Biology of the Cell 9, 3273-3297, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:CNPyR2KL9-0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7317837453637932504",
+        "cites_id": [
+            "7317837453637932504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "UC Berkeley Division of Biostatistics Working Paper Series",
+            "pub_year": "2003",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:wbdj-CoPYUoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14921188621195580290",
+        "cites_id": [
+            "14921188621195580290"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression profiling using a mouse full-length 20 K cDNA microarray",
+            "pub_year": "1999",
+            "citation": "Nature Genetics 23 (3), 66-67, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:u9iWguZQMMsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7187053132474247274",
+        "cites_id": [
+            "7187053132474247274"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Constructing a quantitative spatio-temporal atlas of gene expression in Drosophila blastoderm",
+            "citation": "Cell (Accepted January 2008), 0"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:UuEBAcK4md4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=379189257862683004",
+        "cites_id": [
+            "379189257862683004"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unified bursting strategies in ectopic and endogenous even-skipped expression patterns",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.02. 09.527927, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:z6xuaG2dYH0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leveraging genomic redundancy to improve inference and alignment of orthologous proteins",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.01. 24.525427, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:-6RzNnnwWf8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "M\u00e9todo de fabrica\u00e7\u00e3o de r\u00e9plica de queijo n\u00e3o l\u00e1ctea compreendendo um coacervado e produto obtido a partir do mesmo",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:c1e4I3QdEKYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Early Dosage Compensation of Zygotically-Expressed Genes in Drosophila melanogaster Is Mediated Through a Post-Transcriptional Regulatory Mechanism",
+            "pub_year": "2022",
+            "citation": "University of California, Berkeley, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:UmS_249rOGwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Embryo-to-embryo variability in RNAi knockdown efficiency of dKDM5/lid in Drosophila melanogaster",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.04. 29.442033, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:SGW5VrABaM0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Eliminating Animal Agriculture Would Negate 56 Percent of Anthropogenic Greenhouse Gas Emissions Through 2100",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:2l5NCbZemmgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method of producing a flavoured cultured non-dairy product",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:MIg0yeAD4ggC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of the maternal factor Zelda on zygotic enhancer activity in the Drosophila embryo",
+            "pub_year": "2018",
+            "citation": "bioRxiv, 385070, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ALROH1vI_8AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TRANSCRIPTIONAL RESPONSES TO ETHANOL INGESTION IN THE INSECT MODEL DROSOPHILA MELANOGASTER",
+            "pub_year": "2018",
+            "citation": "ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH 42, 158A-158A, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:7H_MAutzIkAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kinetic sculpting of the seven stripes of theDrosophila even-skippedgene",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:H_jBuBxbQIAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptome sequencing of 19 diverse species of choanoflagellates",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:CdxZDUztZiMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Microbiome-by-ethanol interactions impact Drosophila melanogaster fitness and physiology",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 217240, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:T_ojBgVMvoEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatially uniform establishment of chromatin accessibility in the early Drosophila embryo",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 195073, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:GFxP56DSvIMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MICROBIALLY-MEDIATED ALCOHOL RESISTANCE: A MODEL SYSTEM USING FRUIT FLIES, THEIRMICROBIOTA, AND INGESTED ALCOHOL",
+            "pub_year": "2017",
+            "citation": "ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH 41, 304A-304A, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:fbc8zXXH2BUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u5305\u542b\u51dd\u805a\u7269\u7684\u975e\u4e73\u88fd\u5e72\u916a\u4eff\u54c1",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:A8cqit5AE6sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stable host gene expression in the gut of adultDrosophila melanogasterwith different bacterial mono-associations",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:NMlhSUseqAsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oxygen changes drive non-uniform scaling in Drosophila embryogenesis melanogaster [version 1; referees: 2 approved",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:rHJHxKgnXwkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize RNA polymerase IV complexes and their control of gene function",
+            "pub_year": "2015",
+            "citation": "University of California, Berkeley, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:5bg8sr1QxYwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Non-dairy cheese replica comprising a coacervate",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:__bU50VfleQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of methods for Low-volume RNA-seq",
+            "pub_year": "2014",
+            "citation": "bioRxiv, 006130, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:gsN89kCJA0AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The topology of Hox gene networks during limb morphogenesis of the crustacean Parhyale hawaiensis",
+            "pub_year": "2013",
+            "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 53, E253-E253, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:kzcrU_BdoSEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Virtual in situs: Sequencing mRNA from cryo-sliced Drosophila embryos to determine genome-wide spatial patterns of gene expression",
+            "pub_year": "2013",
+            "citation": "arXiv preprint arXiv:1302.4693, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:1yWc8FF-_SYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Zelda Binding in the Early Drosophila melanogaster Embryo Marks Regions Subsequently",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:AzKEL7Gb_04C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "2010 Index IEEE/ACM Transactions on Computational Biology and Bioinformatics Vol. 7",
+            "pub_year": "2010",
+            "citation": "IEEE/ACM Transactions on Computational Biology and Bioinformatics 7 (4), 1, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:J-pR_7NvFogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring the Genetic Basis of Variation in Gene Predictions with a Synthetic Association Study",
+            "pub_year": "2010",
+            "citation": "Plos one 5 (7), e11645, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:xtRiw3GOFMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Libre acc\u00e8s \u00e0 l\u2019information scientifique",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:0N-VGjzr574C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sepsid even-skipped Enhancers Are Functionally Conserved in Drosophila Despite Lack of",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:uWiczbcajpAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Virtual embryos as tools for 3d gene expression analyses",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:fFSKOagxvKUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Virtual embryos as tools for 3D gene expression analyses",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:jL-93Qbq4QoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomic analysis of the rates of protein evolution (vol 102, pg 5483, 2005)",
+            "pub_year": "2006",
+            "citation": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:FiDNX6EVdGUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Provisional DOI: 10.1371/journal. pgen. 0020173. eor",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:LPZeul_q3PIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "T-box transcription factor specificity in the zebrafish mesoderm.",
+            "pub_year": "2005",
+            "citation": "DEVELOPMENTAL BIOLOGY 283 (2), 606-606, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:tKAzc9rXhukC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topics in Computational Biology and Genomics",
+            "pub_year": "2005",
+            "citation": "University of California, Berkeley, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Graduate group in Biophysics and Center for Integrative Genomics, University of California, Berkeley Email: amoses@ ocf. berkeley. edu",
+            "pub_year": "2003",
+            "citation": "Pacific Symposium on Biocomputing 2004: Hawaii, USA, 6-10 January 2004, 324, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:NXb4pA-qfm4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA Chip Revolution Microarrays and Single Nucleotide Polymorphism (SNP)",
+            "pub_year": "2003",
+            "citation": "Nature Encyclopedia of the Human Genome 2, 53, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:NxmKEeNBbOMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phylogenetically and Spatially Conserved Word Pairs Associated with Gene Expression Changes in Yeasts Derek Y. Chiang Dept of Molecular and Cell Biology, UC Berkeley",
+            "pub_year": "2003",
+            "citation": "Proceedings of the... Annual International Conference on Research in \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:-yGd096yOn8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "S\u00fcnd\u00fcz Keles",
+            "pub_year": "2002",
+            "citation": "Journal of Royal Statistical Society Series B, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:Tiz5es2fbqcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topics in Genomics and Computational Biology",
+            "pub_year": "2002",
+            "citation": "University of California, Berkeley, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:SP6oXDckpogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "S-cerevisiae Cbk1p and Mob2p control cortical remodeling during polarized growth and mitotic exit",
+            "pub_year": "2001",
+            "citation": "MOLECULAR BIOLOGY OF THE CELL 12, 137A-137A, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:BUYA1_V_uYcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of Regulatory Elements Using A Feature Selection Method",
+            "pub_year": "2001",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:D_sINldO8mEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From gene expression to the bedside: A high-throughput approach for identifying serum diagnostic markers and immunotherapy targets in human malignancies using DNA microarrays",
+            "pub_year": "2001",
+            "citation": "Nature Genetics 27 (4), 50-50, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:sSrBHYA8nusC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression in large B-cell lymphoma using cDNA microarray technology.",
+            "pub_year": "1999",
+            "citation": "BLOOD 94 (10), 698A-698A, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:7T2F9Uy0os0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of gene expression in normal and malignant lymphocytes using the Lymphochip cDNA microarray",
+            "pub_year": "1999",
+            "citation": "Nature Genetics 23 (3), 30-31, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sunduz Keles",
+            "pub_year": "1999",
+            "citation": "Biostatistics 2000, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:CHSYGLWDkRkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA MICROARRAYS AS\" MICROSCOPES\" FOR WATCHING A GENOME IN ACTION",
+            "pub_year": "1998",
+            "citation": "\u65e5\u672c\u5206\u5b50\u751f\u7269\u5b66\u4f1a\u5e74\u4f1a\u30d7\u30ed\u30b0\u30e9\u30e0\u30fb\u8b1b\u6f14\u8981\u65e8\u96c6 21, 172, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:uWQEDVKXjbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fagioli, Laura, 291 Fredrikson, Gunilla Nordin, 272 Frenzke, Marie, 48 Fujii, Asami, 142 Fukui, Michiaki, 89",
+            "pub_year": "1998",
+            "citation": "Journal of Clinical Immunology 18 (6), 1998"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:W5xh706n7nkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Impact of Post-Genome Science on Comparative Physiology: Model Species and'Bespoke'Solutions",
+            "pub_year": "1993",
+            "citation": "Proc Nat Acad Sci USA 98, 8, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:NhqRSupF_l8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Financial model",
+            "citation": "Journals\". plos. org. Retrieved 2012, 04-17, 0"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:D_tqNUsBuKoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In Vivo Enhancer Analysis of Human Conserved Noncoding Sequences",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:oi2SiIJ9l4AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PLOS Computational Biology would like to thank all those who served on the Editorial Board in 2017: Mark Alber Samuel Alizon",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:jFemdcug13IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplemental Material for Jans et al.",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:j7_hQOaDUrUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kapitel 2: Einteilung und Klassifikation maligner Erkrankungen",
+            "citation": "Cancer Res 55, 4264-4267, 0"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:ZzlSgRqYykMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ecdysozoan Sequencing Proposal",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:OTTXONDVkokC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Low-virulence Strains of Toxoplasma gondii Result in Permanent Loss of Innate Fear of Cats in Mice, Even after Parasite Clearance'",
+            "citation": "arXiv preprint arXiv:1304.0479, 0"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:WJVC3Jt7v1AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On computational analysis of quantitative, 3D spatial expression in Drosophila blastoderm",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:a9-T7VOCCH8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gromov PS, Ostergaard M, Gromova I, Celis JE (2002) human proteomic databases: a power-ful resource for functional genomics in health and disease. Prog Biophys Biol 80: 3\u201322",
+            "citation": "J Invest Dermatol 121, 1459-68, 0"
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:xtoqd-5pKcoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Applications of Visualization and Data Clustering to 3D Gene Expression Data",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:-FonjvnnhkoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplemental materials Comparative Analysis of the D. melanogaster modENCODE Transcriptome Annotation",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:kz9GbA2Ns4gC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NELF and GAGA Factor Are Linked to",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:yB1At4FlUx8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Zelda (the coolest transcription factor ever) is a master regulator of embryonic adolescence",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:fEOibwPWpKIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "THE ANNALS",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:olpn-zPbct0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Proposal for Comparative Genomics in Support the modENCODE Project",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of transcriptome analysis to tumour progression Fran\u00e7ois Radvanyi",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "z2foFg4AAAAJ:p2g8aNsByqUC",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,4661 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The auxin signalling network translates dynamic input into robust patterning at the shoot apex",
+            "pub_year": "2011",
+            "citation": "Molecular systems biology 7 (1), 508, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:roLk4NBRz8UC",
+        "num_citations": 582,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1992224451378640554",
+        "cites_id": [
+            "1992224451378640554"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multiscale model of plant topological structures",
+            "pub_year": "1998",
+            "citation": "Journal of theoretical biology 191 (1), 1-46, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 445,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6415486808788100497",
+        "cites_id": [
+            "6415486808788100497"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computer simulations reveal properties of the cell-cell signaling network at the shoot apex in Arabidopsis",
+            "pub_year": "2006",
+            "citation": "Proceedings of the National Academy of Sciences 103 (5), 1627-1632, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 405,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11551187615022563963,9135515481666020777",
+        "cites_id": [
+            "11551187615022563963",
+            "9135515481666020777"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OpenAlea: a visual programming and component-based software platform for plant modelling",
+            "pub_year": "2008",
+            "citation": "Functional plant biology 35 (10), 751-760, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 381,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7518931154219645575",
+        "cites_id": [
+            "7518931154219645575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional-structural plant modelling",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 350,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14243583106593880841",
+        "cites_id": [
+            "14243583106593880841"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Imaging plant growth in 4D: robust tissue reconstruction and lineaging at cell resolution",
+            "pub_year": "2010",
+            "citation": "Nature methods 7 (7), 547-553, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Se3iqnhoufwC",
+        "num_citations": 335,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11751757297429225863",
+        "cites_id": [
+            "11751757297429225863"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Representing and encoding plant architecture: a review",
+            "pub_year": "2000",
+            "citation": "Annals of forest science 57 (5), 413-438, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 318,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13654556398542505465",
+        "cites_id": [
+            "13654556398542505465"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A method for describing plant architecture which integrates topology and geometry",
+            "pub_year": "1999",
+            "citation": "Annals of botany 84 (3), 343-357, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 299,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6510946138727481084",
+        "cites_id": [
+            "6510946138727481084"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cytokinin signalling inhibitory fields provide robustness to phyllotaxis",
+            "pub_year": "2014",
+            "citation": "Nature 505 (7483), 417-421, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:hkOj_22Ku90C",
+        "num_citations": 260,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12432216386167257125",
+        "cites_id": [
+            "12432216386167257125"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systems Analysis of Auxin Transport in the Arabidopsis Root Apex",
+            "pub_year": "2014",
+            "citation": "The Plant Cell 26 (3), 862-875, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:kzcrU_BdoSEC",
+        "num_citations": 202,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5369878738027593252",
+        "cites_id": [
+            "5369878738027593252"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flux-Based Transport Enhancement as a Plausible Unifying Mechanism for Auxin Transport in Meristem Development",
+            "pub_year": "2008",
+            "citation": "PLoS computational biology 4 (10), e1000207, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 200,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1692849522156364820",
+        "cites_id": [
+            "1692849522156364820"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lateral root morphogenesis is dependent on the mechanical properties of the overlaying tissues",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (13), 5229-5234, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:q3oQSFYPqjQC",
+        "num_citations": 186,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16852786478159923950",
+        "cites_id": [
+            "16852786478159923950"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "L-Py: an L-system simulation framework for modeling plant architecture development based on a dynamic language",
+            "pub_year": "2012",
+            "citation": "Frontiers in plant science 3, 76, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 168,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7179302913052347276",
+        "cites_id": [
+            "7179302913052347276"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measuring and analysing plants with the AMAPmod software",
+            "pub_year": "1997",
+            "citation": "CSIRO, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:qjMakFHDy7sC",
+        "num_citations": 167,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7567186652323315401,15271947856806800975",
+        "cites_id": [
+            "7567186652323315401",
+            "15271947856806800975"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of the three-dimensional architecture of walnut trees using digitising.",
+            "pub_year": "1997",
+            "citation": "The Finnish Society of Forest Science and The Finnish Forest Research Institute, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 165,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17497126743380235935",
+        "cites_id": [
+            "17497126743380235935"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin fluxes in the root apex co-regulate gravitropism and lateral root initiation",
+            "pub_year": "2008",
+            "citation": "Journal of Experimental Botany 59 (1), 55-66, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:ufrVoPGSRksC",
+        "num_citations": 164,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17378294424667356829",
+        "cites_id": [
+            "17378294424667356829"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring plant topological structure with the AMAPmod software: an outline.",
+            "pub_year": "1997",
+            "citation": "The Finnish Society of Forest Science and The Finnish Forest Research Institute, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 156,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10442230406013375603",
+        "cites_id": [
+            "10442230406013375603"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PlantGL: a Python-based geometric library for 3D plant modelling at different scales",
+            "pub_year": "2009",
+            "citation": "Graphical models 71 (1), 1-21, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 149,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12444271927555599679",
+        "cites_id": [
+            "12444271927555599679"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An auxin-mediated shift toward growth isotropy promotes organ formation at the shoot meristem in Arabidopsis",
+            "pub_year": "2014",
+            "citation": "Current biology 24 (19), 2335-2342, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:-_dYPAW6P2MC",
+        "num_citations": 144,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1307087634753630200",
+        "cites_id": [
+            "1307087634753630200"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systems analysis of shoot apical meristem growth and development: integrating hormonal and mechanical signaling",
+            "pub_year": "2012",
+            "citation": "The Plant Cell 24 (10), 3907-3919, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:blknAaTinKkC",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18135705395318970734",
+        "cites_id": [
+            "18135705395318970734"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MAppleT: simulation of apple tree development using mixed stochastic and biomechanical models",
+            "pub_year": "2008",
+            "citation": "Functional Plant Biology 35 (10), 936-950, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3188554362280661900",
+        "cites_id": [
+            "3188554362280661900"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring within\u2010tree architectural development of two apple tree cultivars over 6 years",
+            "pub_year": "2003",
+            "citation": "Annals of Botany 91 (1), 91-104, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 139,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314417993086189301",
+        "cites_id": [
+            "8314417993086189301"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A computational framework for 3D mechanical modeling of plant morphogenesis with cellular resolution",
+            "pub_year": "2015",
+            "citation": "PLoS computational biology 11 (1), e1003950, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:t7zJ5fGR-2UC",
+        "num_citations": 133,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=268826394645437878",
+        "cites_id": [
+            "268826394645437878"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterisation of structural tree root architecture using 3D digitising and AMAPmod software",
+            "pub_year": "1999",
+            "citation": "Plant and soil 211 (2), 241-258, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 126,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6955904065613530079",
+        "cites_id": [
+            "6955904065613530079"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Root system markup language: toward a unified root architecture description language",
+            "pub_year": "2015",
+            "citation": "Plant physiology 167 (3), 617-627, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:nrtMV_XWKgEC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12389287125522953736",
+        "cites_id": [
+            "12389287125522953736"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Foliage randomness and light interception in 3\u2010D digitized trees: an analysis from multiscale discretization of the canopy",
+            "pub_year": "2005",
+            "citation": "Plant, Cell & Environment 28 (9), 1158-1170, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7703848072837477349",
+        "cites_id": [
+            "7703848072837477349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interactive design of bonsai tree models",
+            "pub_year": "2003",
+            "citation": "Computer Graphics Forum 22 (3), 591-599, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8454456910879814028",
+        "cites_id": [
+            "8454456910879814028"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure from silhouettes: a new paradigm for fast sketch\u2010based design of trees",
+            "pub_year": "2009",
+            "citation": "Computer Graphics Forum 28 (2), 541-550, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Zph67rFs4hoC",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=812658638140830545",
+        "cites_id": [
+            "812658638140830545"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural root architecture of 5-year-old Pinus pinaster measured by 3D digitising and analysed with AMAPmod",
+            "pub_year": "1999",
+            "citation": "Plant and Soil 217 (1-2), 49-63, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:WF5omc3nYNoC",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11903954970820193837",
+        "cites_id": [
+            "11903954970820193837"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integration of hormonal signaling networks and mobile microRNAs is required for vascular patterning in Arabidopsis roots",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (2), 857-862, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:UHK10RUVsp4C",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6760947233671025703",
+        "cites_id": [
+            "6760947233671025703"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A distance measure between plant architectures",
+            "pub_year": "2000",
+            "citation": "Annals of Forest Science 57 (5), 445-461, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 106,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13578541022787013878",
+        "cites_id": [
+            "13578541022787013878"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An auxin transport-based model of root branching in Arabidopsis thaliana",
+            "pub_year": "2008",
+            "citation": "PLoS One 3 (11), e3673, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:0EnyYjriUFMC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15385335608172828192",
+        "cites_id": [
+            "15385335608172828192"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploration of a plant architecture database with the AMAPmod software illustrated on an apple tree hybrid family",
+            "pub_year": "1999",
+            "citation": "Agronomie 19 (3-4), 163-184, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2892268805037005985",
+        "cites_id": [
+            "2892268805037005985"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Similarities and gradients in growth unit branching patterns during ontogeny in \u2018Fuji\u2019apple trees: a stochastic approach",
+            "pub_year": "2006",
+            "citation": "Journal of experimental Botany 57 (12), 3131-3143, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:5nxA0vEk-isC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18373365976540771506",
+        "cites_id": [
+            "18373365976540771506"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sugar availability suppresses the auxin\u2010induced strigolactone pathway to promote bud outgrowth",
+            "pub_year": "2020",
+            "citation": "New Phytologist 225 (2), 866-879, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Ncwx4PHgTB8C",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5297082089283985428",
+        "cites_id": [
+            "5297082089283985428"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A protocol to analyse cellular dynamics during plant development",
+            "pub_year": "2005",
+            "citation": "The Plant Journal 44 (6), 1045-1053, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:UebtZRa9Y70C",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15007316534158100571",
+        "cites_id": [
+            "15007316534158100571"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal integration of auxin information for the regulation of patterning",
+            "pub_year": "2020",
+            "citation": "Elife 9, e55832, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:viYOxJONeN0C",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18020945633660702141",
+        "cites_id": [
+            "18020945633660702141"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional\u2013structural plant models: a growing paradigm for plant studies",
+            "pub_year": "2014",
+            "citation": "Annals of botany 114 (4), 599-603, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:35r97b3x0nAC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17742222796539098094",
+        "cites_id": [
+            "17742222796539098094"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cellular heterogeneity in pressure and growth emerges from tissue topology and geometry",
+            "pub_year": "2020",
+            "citation": "Current Biology 30 (8), 1504-1516. e8, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:JpYjwmnXVqYC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10349534687461806972",
+        "cites_id": [
+            "10349534687461806972"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiscale systems analysis of root growth and development: modeling beyond the network and cellular scales",
+            "pub_year": "2012",
+            "citation": "The Plant Cell 24 (10), 3892-3906, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:TFP_iSt0sucC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9565772963790550933",
+        "cites_id": [
+            "9565772963790550933"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient and robust reconstruction of botanical branching structure from laser scanned points",
+            "pub_year": "2009",
+            "citation": "2009 11th IEEE International Conference on Computer-Aided Design and \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:qUcmZB5y_30C",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8039396491849553475",
+        "cites_id": [
+            "8039396491849553475"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contact area\u2013dependent cell communication and the morphological invariance of ascidian embryogenesis",
+            "pub_year": "2020",
+            "citation": "Science 369 (6500), eaar5663, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:R3JqVFXIqpYC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6406889110235134332",
+        "cites_id": [
+            "6406889110235134332"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Microtubule-mediated wall anisotropy contributes to leaf blade flattening",
+            "pub_year": "2020",
+            "citation": "Current Biology 30 (20), 3972-3985. e6, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:7EeV9ZTah7MC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3658636748269027496",
+        "cites_id": [
+            "3658636748269027496"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reconstructing plant architecture from 3D laser scanner data",
+            "pub_year": "2010",
+            "citation": "6th International Workshop on Functional-Structural Plant Models, 12--17, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:HDshCWvjkbEC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15981814133541116274",
+        "cites_id": [
+            "15981814133541116274"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational models for integrative and developmental biology",
+            "pub_year": "2002",
+            "citation": "Univerite d\u2019Evry, LaMI, Tech. Rep, 72-2002, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5278178996414879487",
+        "cites_id": [
+            "5278178996414879487"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Toward a quantification of self-similarity in plants",
+            "pub_year": "2005",
+            "citation": "Fractals 13 (02), 91-109, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:8k81kl-MbHgC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17471911919875616884",
+        "cites_id": [
+            "17471911919875616884"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiscale framework for modeling and analyzing light interception by trees",
+            "pub_year": "2008",
+            "citation": "Multiscale Modeling & Simulation 7 (2), 910-933, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:aqlVkmm33-oC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14069896102939937801",
+        "cites_id": [
+            "14069896102939937801"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Definition of Architectural Ideotypes for Good Yield Capacity in Coffea canephora",
+            "pub_year": "2006",
+            "citation": "Annals of Botany 97 (3), 405-411, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7454120051316603496",
+        "cites_id": [
+            "7454120051316603496"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light regulation of axillary bud outgrowth along plant axes: an overview of the roles of sugars and hormones",
+            "pub_year": "2019",
+            "citation": "Frontiers in plant science 10, 1296, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:RtDPZMhf-s8C",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15011143258058892192",
+        "cites_id": [
+            "15011143258058892192"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Physical models of plant development",
+            "pub_year": "2014",
+            "citation": "Annual Review of Cell and Developmental Biology 30, 59-78, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:VL0QpB8kHFEC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16008712437163303754",
+        "cites_id": [
+            "16008712437163303754"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DTW schemes for continuous speech recognition: a unified view",
+            "pub_year": "1989",
+            "citation": "Computer Speech and Language 3 (2), 169-198, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Zo6E4E6iJKMC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16176389179702767866",
+        "cites_id": [
+            "16176389179702767866"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cortical tension overrides geometrical cues to orient microtubules in confined protoplasts",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (51), 32731-32738, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:-1WLWRmjvKAC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1355112298299720373",
+        "cites_id": [
+            "1355112298299720373"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative assessment of automatic reconstructions of branching systems obtained from laser scanning",
+            "pub_year": "2014",
+            "citation": "Annals of Botany 114 (4), 853-862, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:JoZmwDi-zQgC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8608411069486107870",
+        "cites_id": [
+            "8608411069486107870"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Data-Driven Integrative Model of Sepal Primordium Polarity in Arabidopsis",
+            "pub_year": "2011",
+            "citation": "The Plant Cell 23 (12), 4318-4333, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15429315345814034025",
+        "cites_id": [
+            "15429315345814034025"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling and Simulation of biological processes in the context of genomics, chapter \u201cComputational Models for Integrative and Developmental Biology\u201d",
+            "pub_year": "2002",
+            "citation": "Hermes, July, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15074416155090076274",
+        "cites_id": [
+            "15074416155090076274"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A critical appraisal of the box counting method to assess the fractal dimension of tree crowns",
+            "pub_year": "2006",
+            "citation": "Advances in Visual Computing: Second International Symposium, ISVC 2006 Lake \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1988203339053264545",
+        "cites_id": [
+            "1988203339053264545"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Survey on computer representations of trees for realistic and efficient rendering",
+            "pub_year": "2006",
+            "citation": "LIRIS UMR CNRS 5205, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:4DMP91E08xMC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14299116996796293009",
+        "cites_id": [
+            "14299116996796293009"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MorphoNet: an interactive online morphological browser to explore complex multi-scale data",
+            "pub_year": "2019",
+            "citation": "Nature communications 10 (1), 2812, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:h0mLeC6b6wcC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11837007746430814700",
+        "cites_id": [
+            "11837007746430814700"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant architecture modelling: virtual plants and complex systems",
+            "pub_year": "2018",
+            "citation": "Annual Plant Reviews online, 238-287, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:kRWSkSYxWN8C",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5710537150133130427",
+        "cites_id": [
+            "5710537150133130427"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding patchy landscape dynamics: towards a landscape language",
+            "pub_year": "2012",
+            "citation": "Public Library of Science 7 (9), e46064, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:P5F9QuxV20EC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10044164049123717449",
+        "cites_id": [
+            "10044164049123717449"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How young trees cope with removal of whole or parts of shoots: An analysis of local and distant responses to pruning in 1\u2010year\u2010old apple (Malus\u00d7 domestica; Rosaceae) trees",
+            "pub_year": "2011",
+            "citation": "American journal of botany 98 (11), 1737-1751, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4172004324287061951",
+        "cites_id": [
+            "4172004324287061951"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A stochastic multicellular model identifies biological watermarks from disorders in self-organized patterns of phyllotaxis",
+            "pub_year": "2016",
+            "citation": "Elife 5, e14093, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:DPkBdyRpVwQC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15205479652536745417",
+        "cites_id": [
+            "15205479652536745417"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NMR investigation of functionalized magnetic nanoparticles Fe3O4 as T1\u2013T2 contrast agents",
+            "pub_year": "2014",
+            "citation": "Powder technology 255, 60-65, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:XiSMed-E-HIC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10331689817718574313",
+        "cites_id": [
+            "10331689817718574313"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying the degree of self-nestedness of trees: application to the structural analysis of plants",
+            "pub_year": "2009",
+            "citation": "IEEE/ACM Transactions on Computational Biology and Bioinformatics 7 (4), 688-703, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:maZDTaKrznsC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9992330677972308334",
+        "cites_id": [
+            "9992330677972308334"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An edit distance between quotiented trees",
+            "pub_year": "2003",
+            "citation": "Algorithmica 36 (1), 1-39, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5963034797680266210",
+        "cites_id": [
+            "5963034797680266210"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multiscale analysis of early flower development in Arabidopsis provides an integrated view of molecular regulation and growth control",
+            "pub_year": "2021",
+            "citation": "Developmental Cell 56 (4), 540-556. e8, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:NN0YOz9s3UgC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13041188190307620135",
+        "cites_id": [
+            "13041188190307620135"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating the fractal dimension of plants using the two-surface method: An analysis based on 3D-digitized tree foliage",
+            "pub_year": "2006",
+            "citation": "Fractals 14 (03), 149-163, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7704559079202126077",
+        "cites_id": [
+            "7704559079202126077"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D digitizing based on tree topology: application to study the variability of apple quality within the canopy",
+            "pub_year": "1998",
+            "citation": "V International Symposium on Computer Modelling in Fruit Research and \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:4TOpqqG69KYC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=180778442480978765",
+        "cites_id": [
+            "180778442480978765"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel profile based model for virtual representation of quasi-symmetric plant organs",
+            "pub_year": "2011",
+            "citation": "Computers and Electronics in Agriculture 75 (1), 113-124, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:dhFuZR0502QC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11910144714270471472",
+        "cites_id": [
+            "11910144714270471472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cauliflower fractal forms arise from perturbations of floral gene networks",
+            "pub_year": "2021",
+            "citation": "Science 373 (6551), 192-197, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:jenZ_en7QtoC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2367677786795442261",
+        "cites_id": [
+            "2367677786795442261"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phyllotaxis as geometric canalization during plant development",
+            "pub_year": "2020",
+            "citation": "Development 147 (19), dev165878, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:7LPp1NROPxwC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11889520416265630881",
+        "cites_id": [
+            "11889520416265630881"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coupling water fluxes with cell wall mechanics in a multicellular model of plant development",
+            "pub_year": "2019",
+            "citation": "PLoS computational biology 15 (6), e1007121, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:qS3OQCqhxh0C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9645074369783699803,2403066247235130501",
+        "cites_id": [
+            "9645074369783699803",
+            "2403066247235130501"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phyllotaxis: from patterns of organogenesis at the meristem to shoot architecture",
+            "pub_year": "2016",
+            "citation": "Wiley Interdisciplinary Reviews: Developmental Biology 5 (4), 460-473, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:VdWZULf8Gq0C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14963528461143985069",
+        "cites_id": [
+            "14963528461143985069"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling of light transmission under heterogeneous forest canopy: an appraisal of the effect of the precision level of crown description",
+            "pub_year": "2012",
+            "citation": "Annals of forest science 69 (2), 181-193, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:BqipwSGYUEgC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6698364674394913489",
+        "cites_id": [
+            "6698364674394913489"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Skeletonization of plant point cloud data using stochastic optimization framework",
+            "pub_year": "2020",
+            "citation": "Frontiers in Plant Science 11, 773, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:CXI6bF9CpJ4C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4709047571539358847",
+        "cites_id": [
+            "4709047571539358847"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simple envelope-based reconstruction methods can infer light partitioning among individual plants in sparse and dense herbaceous canopies",
+            "pub_year": "2012",
+            "citation": "Agricultural and Forest Meteorology 166, 98-112, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:KxtntwgDAa4C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10799323842807129015",
+        "cites_id": [
+            "10799323842807129015"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hyperstructures, genome analysis and I-cells",
+            "pub_year": "2002",
+            "citation": "Acta Biotheoretica 50, 357-373, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=282684689922394119",
+        "cites_id": [
+            "282684689922394119"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of plant cell wall stiffness by mechanical stress: a mesoscale physical model",
+            "pub_year": "2019",
+            "citation": "Journal of mathematical biology 78 (3), 625-653, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:9Gmr9OE0IYAC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7903738740553521046,4076804815619918893",
+        "cites_id": [
+            "7903738740553521046",
+            "4076804815619918893"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pattern identification and characterization reveal permutations of organs as a key genetically controlled property of post-meristematic phyllotaxis",
+            "pub_year": "2013",
+            "citation": "Journal of theoretical biology 338, 94-110, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:5awf1xo2G04C",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=312392654845197000",
+        "cites_id": [
+            "312392654845197000"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Device and method for characterizing movements",
+            "pub_year": "2012",
+            "citation": "US Patent App. 13/143,319, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:fLJJVVwU7EQC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5559135732141475898",
+        "cites_id": [
+            "5559135732141475898"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Organ geometry channels reproductive cell fate in the Arabidopsis ovule primordium",
+            "pub_year": "2021",
+            "citation": "Elife 10, e66031, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:CoqsOaBEKcQC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4127478414097436399",
+        "cites_id": [
+            "4127478414097436399"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating physiology and architecture in models of fruit expansion",
+            "pub_year": "2016",
+            "citation": "Frontiers in plant science 7, 1739, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:qkvbYSGtNvkC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4759293695363982335",
+        "cites_id": [
+            "4759293695363982335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The flux-based PIN allocation mechanism can generate either canalyzed or diffuse distribution patterns depending on geometry and boundary conditions",
+            "pub_year": "2013",
+            "citation": "PloS one 8 (1), e54802, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:eflP2zaiRacC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12213175020813557525",
+        "cites_id": [
+            "12213175020813557525"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interactions between light and plant architecture in an agroforestry walnut tree",
+            "pub_year": "1997",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15365593050206003271",
+        "cites_id": [
+            "15365593050206003271"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ALEA: A software for integrating analysis and simulation tools for 3D architecture and ecophysiology",
+            "pub_year": "2004",
+            "citation": "4th International Workshop on Functional-Structural Plant Models, 406, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6605451982489117319",
+        "cites_id": [
+            "6605451982489117319"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A methodology for the exploration of fruit tree structures",
+            "pub_year": "1996",
+            "citation": "VI International Symposium on Integrated Canopy, Rootstock, Environmental \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6185179779960134818",
+        "cites_id": [
+            "6185179779960134818"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wood elasticity of several Coffea canephora Pierre clones. A new trait to be included in selection schemes",
+            "pub_year": "2000",
+            "citation": "Agronomie 20 (4), 439-444, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:_kc_bZDykSQC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9151802786524732476",
+        "cites_id": [
+            "9151802786524732476"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multi-scale model of the interplay between cell signalling and hormone transport in specifying the root meristem of Arabidopsis thaliana",
+            "pub_year": "2016",
+            "citation": "Journal of theoretical biology 404, 182-205, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:pPdjnrZQtPEC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4458529428137784063",
+        "cites_id": [
+            "4458529428137784063"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatio-temporal registration of 3D microscopy image sequences of Arabidopsis floral meristems",
+            "pub_year": "2016",
+            "citation": "2016 IEEE 13th International Symposium on Biomedical Imaging (ISBI), 1127-1130, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:zDMysJqCCKgC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5412743389558691416",
+        "cites_id": [
+            "5412743389558691416"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AMAPmod introduction and reference manual",
+            "pub_year": "1999",
+            "citation": "CIRAD: Marie-H\u00e9l\u00e8ne Lafond, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:vRqMK49ujn8C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3164222997300740735",
+        "cites_id": [
+            "3164222997300740735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of pruning on the apple tree: from tree architecture to modeling",
+            "pub_year": "2008",
+            "citation": "IX International Symposium on Integrating Canopy, Rootstock and \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:r0BpntZqJG4C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=794697105019406957",
+        "cites_id": [
+            "794697105019406957"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating Markov chain models and L-systems to simulate the architectural development of apple trees",
+            "pub_year": "2004",
+            "citation": "VII International Symposium on Modelling in Fruit Research and Orchard \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17704983768444415545",
+        "cites_id": [
+            "17704983768444415545"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An automated image-processing pipeline for high-throughput analysis of root architecture in OpenAlea",
+            "pub_year": "2013",
+            "citation": "7th International Conference on Functional-Structural Plant Models, 85-87, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:PELIpwtuRlgC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4092011431655815729",
+        "cites_id": [
+            "4092011431655815729"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proceedings of the 4th International Workshop on Functional-Structural Plant Models, Montpellier France",
+            "pub_year": "2004",
+            "citation": "4. International workshop on functional-structural plant models (FSPM), 1-423, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:abG-DnoFyZgC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4157827417904080202,10713853672553936929",
+        "cites_id": [
+            "4157827417904080202",
+            "10713853672553936929"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Vers une repr\u00e9sentation formelle des plantes",
+            "pub_year": "1997",
+            "citation": "Mod\u00e9lisation et Simulation de l\u2019Architecture des V\u00e9g\u00e9taux, INRA \u00c9ditions \u2026, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9653087991606624285",
+        "cites_id": [
+            "9653087991606624285"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contact-dependent cell-cell communications drive morphological invariance during ascidian embryogenesis",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 238741, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:YifW7xAlWS4C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2555930009833943094",
+        "cites_id": [
+            "2555930009833943094"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In vivo quantitative NMR imaging of fruit tissues during growth using Spoiled Gradient Echo sequence",
+            "pub_year": "2014",
+            "citation": "Magnetic Resonance Imaging 32 (10), 1418-1427, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:evX43VCCuoAC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1823493764845536008",
+        "cites_id": [
+            "1823493764845536008"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatio-temporal registration of embryo images",
+            "pub_year": "2014",
+            "citation": "2014 IEEE 11th International Symposium on Biomedical Imaging (ISBI), 778-781, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:dQ2og3OwTAUC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10401614050218793418",
+        "cites_id": [
+            "10401614050218793418"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ivermectin-based control of onchocerciasis in northern Cameroon: individual factors influencing participation in community treatment",
+            "pub_year": "1996",
+            "citation": "Transactions of the Royal Society of Tropical Medicine and Hygiene 90 (3 \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:UamA9ItEL6YC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5882364627040343449",
+        "cites_id": [
+            "5882364627040343449"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DRACO-STEM: an automatic tool to generate high-quality 3d meshes of shoot apical meristem tissue at cell resolution",
+            "pub_year": "2017",
+            "citation": "Frontiers in Plant Science 8, 353, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Q5bjhRmoBfUC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12209546490920163278",
+        "cites_id": [
+            "12209546490920163278"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient and robust tree model reconstruction from laser scanned data points",
+            "pub_year": "2009",
+            "citation": "Proceedings of the 11th IEEE International conference on Computer-Aided \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4035266210898357705",
+        "cites_id": [
+            "4035266210898357705"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D plant phenotyping: All you need is labelled point cloud data",
+            "pub_year": "2020",
+            "citation": "European conference on computer vision, 244-260, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:TAWzVH7WYHIC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4867416381864609545",
+        "cites_id": [
+            "4867416381864609545"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using mechanics in the modelling of meristem morphogenesis",
+            "pub_year": "2007",
+            "citation": "5th International Workshop on functional-structural plant models, 52, 1--4, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1512036059998437046",
+        "cites_id": [
+            "1512036059998437046"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Study of the distribution of human filariasis in West Province of Cameroon",
+            "pub_year": "1997",
+            "citation": "Bulletin de la Societe de Pathologie Exotique (1990) 90 (5), 327-330, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:b15ltGHXyxQC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13110248628010359896",
+        "cites_id": [
+            "13110248628010359896"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotyping and modeling of root hydraulic architecture reveal critical determinants of axial water transport",
+            "pub_year": "2022",
+            "citation": "Plant Physiology 190 (2), 1289-1306, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:TXgqPU86QykC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4596877605599998471",
+        "cites_id": [
+            "4596877605599998471"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Space occupation by tree crowns obeys fractals laws: evidence from 3D digitized plants",
+            "pub_year": "2004",
+            "citation": "4th International Workshop on Functional-Structural Plant Models, 79-83, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:hC7cP41nSMkC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13848469750808443599",
+        "cites_id": [
+            "13848469750808443599"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introduction aux structures multi-\u00e9chelles. Applications \u00e0 la repr\u00e9sentation des plantes.",
+            "pub_year": "2003",
+            "citation": "Universit\u00e9 de Montpellier 2, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:fBUZQ4zhMLYC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1069154599596057381",
+        "cites_id": [
+            "1069154599596057381"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What shoots can teach about theories of plant form",
+            "pub_year": "2021",
+            "citation": "Nature Plants 7 (6), 716-724, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Xt3t5HrhCpYC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9745739398150473804",
+        "cites_id": [
+            "9745739398150473804"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of deep learning algorithms for 3D instance segmentation of confocal image datasets",
+            "pub_year": "2021",
+            "citation": "Bioinformatics, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:seU1ZbiIO-YC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15403813855012415942,5566725072219770349",
+        "cites_id": [
+            "15403813855012415942",
+            "5566725072219770349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative assessment of automatic reconstructions of branching systems",
+            "pub_year": "2013",
+            "citation": "7th International Conference on Functional-Structural Plant Models, 64-66, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Z8CpXElfgm4C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12918374334750367414",
+        "cites_id": [
+            "12918374334750367414"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D visualisation and quantitative analysis of plant root systems using helical CT scanning",
+            "pub_year": "2004",
+            "citation": "Proc. 4th Int. Workshop on Functional-Structural Plant Models, 7-11, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:bUkhZ_yRbTwC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10914676225151233446",
+        "cites_id": [
+            "10914676225151233446"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimal mappings with minimum number of connected components in tree-to-tree comparison problems",
+            "pub_year": "2003",
+            "citation": "Journal of Algorithms 48 (2), 385-406, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:IWHjjKOFINEC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4948986557824592459",
+        "cites_id": [
+            "4948986557824592459"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "L-systems and MTGs: Integrating simulation and formal analysis of architectural plant models.",
+            "pub_year": "2002",
+            "citation": "ESM, 418-422, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1207744022219089605",
+        "cites_id": [
+            "1207744022219089605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From spatio-temporal morphogenetic gradients to rhythmic patterning at the shoot apex",
+            "pub_year": "2018",
+            "citation": "BioRxiv, 469718, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:rn9M3PrGu7MC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3876743751394425422",
+        "cites_id": [
+            "3876743751394425422"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Combinatorial Model of Phyllotaxis Perturbations in Arabidopsis thaliana",
+            "pub_year": "2011",
+            "citation": "Annual Symposium on Combinatorial Pattern Matching, 323-335, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:hMod-77fHWUC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=745912514115779762",
+        "cites_id": [
+            "745912514115779762"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Competition-based model of pruning: Applications to apple trees",
+            "pub_year": "2010",
+            "citation": "6th International workshop on functional-structural plant models, 87-89, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18314417675222090888",
+        "cites_id": [
+            "18314417675222090888"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "L-Py, an open L-systems framework in Python",
+            "pub_year": "2010",
+            "citation": "6th International Workshop on Functional-Structural Plant Models, 116-119, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:isC4tDSrTZIC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9740850164302201708",
+        "cites_id": [
+            "9740850164302201708"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Geom module manual: I user guide",
+            "pub_year": "2001",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1194187768628989518",
+        "cites_id": [
+            "1194187768628989518"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AMAPmod v1. 8. Introduction and reference manual",
+            "pub_year": "1997",
+            "citation": "cirad, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7494305147860980552",
+        "cites_id": [
+            "7494305147860980552"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating turgor-induced stress patterns in multilayered plant tissues",
+            "pub_year": "2019",
+            "citation": "Bulletin of Mathematical Biology 81 (8), 3362-3384, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:VofzgsFG4o0C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7531325926088507936",
+        "cites_id": [
+            "7531325926088507936"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flexible Tactile Sensors for Multidigital Dexterous In\u2010Hand Manipulation",
+            "pub_year": "2013",
+            "citation": "Flexible Robotics: Applications to Multiscale Manipulations, 181-242, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:XOE35tnTnDYC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15284167382671914172",
+        "cites_id": [
+            "15284167382671914172"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OpenAlea: An open-source platform for the integration of heterogeneous FSPM components",
+            "pub_year": "2007",
+            "citation": "FSPM07-5th International Workshop on Functional-Structural Plant Models, P36 \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4666506475084427316",
+        "cites_id": [
+            "4666506475084427316"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic study on the physical properties of Coffea arabica L. wood",
+            "pub_year": "2006",
+            "citation": "Trees 20, 587-592, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:-f6ydRqryjwC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3469598528899495475",
+        "cites_id": [
+            "3469598528899495475"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A structural method for assessing self-similarity in plants",
+            "pub_year": "2004",
+            "citation": "Fourth International Workshop on Functional-Structural Trees Models, 56--61, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10223826090206125096",
+        "cites_id": [
+            "10223826090206125096"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variability in the rigidity of Coffea canephora Pierre stems determined by acoustic analysis",
+            "pub_year": "2002",
+            "citation": "Trees 16, 23-27, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:TQgYirikUcIC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=278568318787549947",
+        "cites_id": [
+            "278568318787549947"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Restitution virtuelle de plantes r\u00e9elles: un nouvel outil pour l'aide \u00e0 l'analyse de donn\u00e9es botaniques et agronomiques",
+            "pub_year": "1996",
+            "citation": "INRIA, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9034675963249243877",
+        "cites_id": [
+            "9034675963249243877"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transferring PointNet++ segmentation from virtual to real plants",
+            "pub_year": "2021",
+            "citation": "ICCV 2021-International Conference on Computer Vision, 1-3, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:zBYNw3HCx4kC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8134250402090434065",
+        "cites_id": [
+            "8134250402090434065"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Approximation of trees by self-nested trees",
+            "pub_year": "2019",
+            "citation": "2019 proceedings of the twenty-first workshop on algorithm engineering and \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:BeIT3YV5QzEC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3228343924742472905",
+        "cites_id": [
+            "3228343924742472905"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Meshing meristems-an iterative mesh optimization method for modeling plant tissue at cell resolution",
+            "pub_year": "2015",
+            "citation": "Bioimaging, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:XD-gHx7UXLsC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6043627048797578742",
+        "cites_id": [
+            "6043627048797578742"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating architecture and physiological perspectives in fruit development",
+            "pub_year": "2013",
+            "citation": "7th International Conference on Functional-Structural Plant Models, 127-130, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:dTyEYWd-f8wC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18273292408226019147",
+        "cites_id": [
+            "18273292408226019147"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a formal expression of morphogenesis: a mechanics based integration of cell growth at tissue scale",
+            "pub_year": "2007",
+            "citation": "Proceedings of the 7th International Workshop on Information Processing in \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:t6usbXjVLHcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15278991292153845089",
+        "cites_id": [
+            "15278991292153845089"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation of apple tree development using mixed statistical and biomechanical models",
+            "pub_year": "2007",
+            "citation": "5th International Workshop on Functional-Structural Plant Models, 31, 1--4, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:mB3voiENLucC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15005269435408708340",
+        "cites_id": [
+            "15005269435408708340"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a dynamic model of the Arabidopsis meristem",
+            "pub_year": "2003",
+            "citation": "Mod\u00e9lisation et simulation de processus biologiques dans le contexte de la \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4605490374688677776",
+        "cites_id": [
+            "4605490374688677776"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SpikeCell: a deterministic spiking neuron",
+            "pub_year": "2002",
+            "citation": "Neural Networks 15 (7), 873-879, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:fhMX52Pd6iQC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1310364622707174446",
+        "cites_id": [
+            "1310364622707174446"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An algorithm for comparing unordered tree graphs based on a minimum cost mapping with minimal connectivity",
+            "pub_year": "1999",
+            "citation": "Third Conference on orders, Algorithms and Applications, 115-116, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=395801863931487533",
+        "cites_id": [
+            "395801863931487533"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topology and geometry measurement of root and shoot architecture of Pinus pinaster",
+            "pub_year": "1998",
+            "citation": "2. International workshop, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:9wUeeRLfbNYC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14183263748906217431",
+        "cites_id": [
+            "14183263748906217431"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A graph-based approach for simultaneous semantic and instance segmentation of plant 3D point clouds",
+            "pub_year": "2022",
+            "citation": "Frontiers in Plant Science 13, 1012669, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:LGA7_l5-FVwC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10258214607937314658",
+        "cites_id": [
+            "10258214607937314658"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Post-transcriptional regulation of transcription factor codes in immature neurons drives neuronal diversity",
+            "pub_year": "2022",
+            "citation": "Cell reports 39 (13), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:qE25ZKhNtbAC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16884726605403692812",
+        "cites_id": [
+            "16884726605403692812"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developmental constraints modulate reproductive fate and plasticity within the Arabidopsis ovule primordium",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.07. 30.226670, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:eb1hsBXB1ukC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9470764758392878995",
+        "cites_id": [
+            "9470764758392878995"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MTG as a standard representation of plants in FSPMs",
+            "pub_year": "2020",
+            "citation": "Institute of Horticultural Production Systems, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:g-FVFPYC6a8C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3963144266863887056",
+        "cites_id": [
+            "3963144266863887056"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Algorithmic height compression of unordered trees",
+            "pub_year": "2016",
+            "citation": "Journal of Theoretical Biology 389, 237-252, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:L7CI7m0gUJcC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4924046670169577359",
+        "cites_id": [
+            "4924046670169577359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell pairings for ascidian embryo registration",
+            "pub_year": "2015",
+            "citation": "2015 IEEE 12th International Symposium on Biomedical Imaging (ISBI), 298-301, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:uc_IGeMz5qoC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13103250612276766957",
+        "cites_id": [
+            "13103250612276766957"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OpenAlea 2.0: Architecture of an integrated modeling environment on the web",
+            "pub_year": "2013",
+            "citation": "7. International Conference on Functional Structure Plant Models, np, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:eq2jaN3J8jMC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6179282014578096990",
+        "cites_id": [
+            "6179282014578096990"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contribution \u00e0 l\u2019\u00e9tude de la r\u00e9partition des filarioses humaines dans la Province de l\u2019Ouest du Cameroun",
+            "pub_year": "1997",
+            "citation": "Bull Soc Pathol Exot 90 (5), 327-30, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:J1AsQIbV7j8C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7092935080697081331",
+        "cites_id": [
+            "7092935080697081331"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Influence of workload on auditory evoked potentials in a single-stimulus paradigm",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Kr09a2QcR50C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11566972317560868178",
+        "cites_id": [
+            "11566972317560868178"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generating 3D volumetric meshes of internal and external fruit structure",
+            "pub_year": "2012",
+            "citation": "IV International Symposium on Models for Plant Growth, Environmental Control \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:D03iK_w7-QYC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16331042289995782389",
+        "cites_id": [
+            "16331042289995782389"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reconstruction methods to estimate light partitioning among individual plants in crowded canopies",
+            "pub_year": "2010",
+            "citation": "Proceedings of 6th international workshop on Plant Structural-Functional \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:WA5NYHcadZ8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9997061286137729158",
+        "cites_id": [
+            "9997061286137729158"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introduction to OpenAlea, a platform for plant modeling",
+            "pub_year": "2010",
+            "citation": "28th International Horticultural Congress, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:tkaPQYYpVKoC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7252095568623385125",
+        "cites_id": [
+            "7252095568623385125"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analyzing perturbations in phyllotaxis of Arabidopsis thaliana",
+            "pub_year": "2010",
+            "citation": "6th International Workshop on Functional-Structural Plant Models, 185-187, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7780614942082716575",
+        "cites_id": [
+            "7780614942082716575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enhanced linearized location estimators with optimization-based combinations of radiolocation measurements",
+            "pub_year": "2009",
+            "citation": "2009 IEEE 20th International Symposium on Personal, Indoor and Mobile Radio \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:qKtbcrzMvwAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14397759012506995657",
+        "cites_id": [
+            "14397759012506995657"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Study of two ANN digital implementations of a radar detector candidate to an on-board satellite experiment",
+            "pub_year": "1999",
+            "citation": "International Work-Conference on Artificial Neural Networks, 615-624, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:1zNUifcpCKoC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9559340069733161903",
+        "cites_id": [
+            "9559340069733161903"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mesure et repr\u00e9sentation des plantes.",
+            "pub_year": "1998",
+            "citation": "INRA, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:1qzjygNMrQYC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11513316081048201408",
+        "cites_id": [
+            "11513316081048201408"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How to get representations of real plants in computers for exploring their botanical organisation",
+            "pub_year": "1995",
+            "citation": "IV International Symposium on Computer Modelling in Fruit Research and \u2026, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17397458642988267607",
+        "cites_id": [
+            "17397458642988267607"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The post-transcriptional regulation of TFs in immature motoneurons shapes the axon-muscle connectome",
+            "pub_year": "2021",
+            "citation": "BioRxiv, 2021.10. 22.465474, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:yGgOC45Jz5YC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8564760292641157751",
+        "cites_id": [
+            "8564760292641157751"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Geometry reconstruction of plants",
+            "pub_year": "2020",
+            "citation": "Intelligent image analysis for plant phenotyping, 119-142, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:KmkpU35IWjAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3130145692524404686",
+        "cites_id": [
+            "3130145692524404686"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A microtubule-mediated mechanical feedback controls leaf blade development in three dimensions",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 604710, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:AOeXN74AWYwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8182077173010887546",
+        "cites_id": [
+            "8182077173010887546"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OpenAleaLab: An open-source multi-paradigm-multi-language software framework for modeling morphogenesis",
+            "pub_year": "2016",
+            "citation": "FSPMA, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:8Z0Dsp3hPRYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7768467005160221638",
+        "cites_id": [
+            "7768467005160221638"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3-d Tessellation of Plant Tissue-A Dual Optimization Approach to Cell-Level Meristem Reconstruction from Microscopy Images",
+            "pub_year": "2015",
+            "citation": "2015 International Conference on 3D Vision, 443-451, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Yj1HztTP_LkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2737045025386729603",
+        "cites_id": [
+            "2737045025386729603"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimal 3D reconstruction of plants canopy from terrestrial laser scanner data by fusion of the 3D point information and the intensity value",
+            "pub_year": "2013",
+            "citation": "7th International Conference on Functional-Structural Plant Models, 58-60, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:9vf0nzSNQJEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5218951719087188504",
+        "cites_id": [
+            "5218951719087188504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a 3D virtual fruit model integrating fruit architecture and physiology",
+            "pub_year": "2012",
+            "citation": "Acta Horticulturae, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:k_IJM867U9cC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11997699923379831037",
+        "cites_id": [
+            "11997699923379831037"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic study on several mechanical properties of the wood of Coffea arabica and Coffea canephora coffee trees",
+            "pub_year": "2010",
+            "citation": "International Conference on Coffee Science, Bali, Indonesia. ASIC, 638-642, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:SdhP9T11ey4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16262411392858082268",
+        "cites_id": [
+            "16262411392858082268"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a quantitative assessment of architectures for FSPM",
+            "pub_year": "2010",
+            "citation": "6th International Workshop on Functional-Structural Plant Models, 7-9, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:olpn-zPbct0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15279143639796542906",
+        "cites_id": [
+            "15279143639796542906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OpenAlea: a platform for plant modelling, analysis and simulation",
+            "pub_year": "2006",
+            "citation": "Python Conference Europython, 16 p., 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:JQOojiI6XY0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11672308139035361906",
+        "cites_id": [
+            "11672308139035361906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9liser le vivant: cr\u00e9er des plantes virtuelles pour comprendre, simuler, tester",
+            "pub_year": "2005",
+            "citation": "Interstices, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2245012419169417055",
+        "cites_id": [
+            "2245012419169417055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ALEA: Atelier logiciel libre pour la mod\u00e9lisation des plantes",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12060225519867991648",
+        "cites_id": [
+            "12060225519867991648"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GEOM module manual. II",
+            "pub_year": "2001",
+            "citation": "Developper guide, 600, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:5ugPr518TE4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17794585604105184150,605966022554943925",
+        "cites_id": [
+            "17794585604105184150",
+            "605966022554943925"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploration et analyse de l'architecture des arbres fruitiers.",
+            "pub_year": "1998",
+            "citation": "INRA, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:tOudhMTPpwUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7813275736778571666",
+        "cites_id": [
+            "7813275736778571666"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mesures de l'architecture des plantes par digitalisation 3D",
+            "pub_year": "1998",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2773077346336817209",
+        "cites_id": [
+            "2773077346336817209"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mesures et digitalisation de la structure topologique et g\u00e9om\u00e9trique des plantes",
+            "pub_year": "1997",
+            "citation": "CIRAD-GERDAT, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16634269260413763376",
+        "cites_id": [
+            "16634269260413763376"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conception d'une m\u00e9thodologie d'analyse des plantes \u00e0 \u00e9chelle macroscopique",
+            "pub_year": "1996",
+            "citation": "CNRS, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:flnLHN-H2asC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6286443225433218278",
+        "cites_id": [
+            "6286443225433218278"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust Plant Cell Tracking in Fluorescence Microscopy 3D+ T Series",
+            "pub_year": "2022",
+            "citation": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI), 1-4, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:0_RpHV3rhqYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9071748201848458989",
+        "cites_id": [
+            "9071748201848458989"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of Imp and Syp RBPs in precise neuronal elimination by apoptosis through the regulation of TFs",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.11. 06.467542, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:IZcclEPD2KUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9264673292875391285",
+        "cites_id": [
+            "9264673292875391285"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The making of cauliflowers: the story of unsuccessful flowers",
+            "pub_year": "2021",
+            "citation": "BioRxiv, 2021.02. 12.427428, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Lr5Uwm59ZTwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10414102529555880568",
+        "cites_id": [
+            "10414102529555880568"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-precision 3D segmentation of plants combining spectral clustering and quotient graph techniques: a multi-level approach",
+            "pub_year": "2020",
+            "citation": "9th International Conference on Functional-Structural Plant Models, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:6tHXJaRVc1QC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9612721414476789170",
+        "cites_id": [
+            "9612721414476789170"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Organ geometry channels cell fate in the Arabidopsis ovule primordium",
+            "pub_year": "2020",
+            "citation": "BioRxiv, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:6jbE1kO3aKAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7998760978722237916",
+        "cites_id": [
+            "7998760978722237916"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phyllotaxis: a remarkable example of developmental canalization in plants",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:4_XrlajHzhgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10972512946303333391",
+        "cites_id": [
+            "10972512946303333391"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiscale mechanical model for cell division orientation in developing biological systems",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 785337, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:_9EdYq_GCQ0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17804071032527508271",
+        "cites_id": [
+            "17804071032527508271"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OpenAlea",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:JzGFD3-rS6kC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8972420214343663772",
+        "cites_id": [
+            "8972420214343663772"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PigWatch: early automated detection of tail biting and aggression",
+            "pub_year": "2018",
+            "citation": "69. Annual Meeting of the European Federation of Animal Science (EAAP) 24, np, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:RRCMsQZi3KMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16025728401658530974",
+        "cites_id": [
+            "16025728401658530974"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reducing algorithm complexity in trees",
+            "pub_year": "2016",
+            "citation": "FSPMA 2016-IEEE International Conference on Functional-Structural Plant \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:7cqQt8SKcR0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3356324204930265907",
+        "cites_id": [
+            "3356324204930265907"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lossy compression of trees via linear directed acyclic graphs",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:4PzMk9GH2tkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3929303219285171442",
+        "cites_id": [
+            "3929303219285171442"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combining Finite Element Method and L-Systems Using Natural Information Flow Propagation to Simulate Growing Dynamical Systems",
+            "pub_year": "2014",
+            "citation": "International Conference on Theory and Practice of Natural Computing, 218-230, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:z_wVstp3MssC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13257145937241250222",
+        "cites_id": [
+            "13257145937241250222"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a 3D virtual fruit model integrating fruit architecture and physiology",
+            "pub_year": "2011",
+            "citation": "9th International Symposium on Modelling in Fruit Research and Orchard \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:w_Qt3Pluy5YC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10525052871344858423",
+        "cites_id": [
+            "10525052871344858423"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of mechanics in morphogenesis",
+            "pub_year": "2010",
+            "citation": "6th International Workshop on Functional-Structural Plant Models, 135-137, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:HE397vMXCloC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=491693637888751176",
+        "cites_id": [
+            "491693637888751176"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling strategies using visual programming in OpenAlea",
+            "pub_year": "2010",
+            "citation": "University of California, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9488174244157897846",
+        "cites_id": [
+            "9488174244157897846"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling of light transmission under heterogeneous forest canopy: model description and validation",
+            "pub_year": "2007",
+            "citation": "5th International Workshop on Functional-Structural Plant Models, 58, 1--4, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15926354387742591923",
+        "cites_id": [
+            "15926354387742591923"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling directional anisotropy of thermal infrared measurements over a pine forest canopy",
+            "pub_year": "2006",
+            "citation": "Second recent advances in quantitative remote sensing. 2006; 2 \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:UBSsHvkqiq4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11963030068778160408",
+        "cites_id": [
+            "11963030068778160408"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Une m\u00e9thode structurelle pour \u00e9valuer les propri\u00e9t\u00e9s d autosimilarit\u00e9 des plantes",
+            "pub_year": "2002",
+            "citation": "Self Similarity And Applications Workshop, electronique, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6144964088694828006,7745745598805963098",
+        "cites_id": [
+            "6144964088694828006",
+            "7745745598805963098"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cellular automata, reaction-diffusion and multiagents systems for artificial cell modelling",
+            "pub_year": "2002",
+            "citation": "Modelling and simulation of biological processes in the context of genomics \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9842951224701578911",
+        "cites_id": [
+            "9842951224701578911"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiscale geometric representation of heterogeneous stands",
+            "pub_year": "2001",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:738O_yMBCRsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7466092675993001843",
+        "cites_id": [
+            "7466092675993001843"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural root architecture of 5-year-old Pinus pinaster measured by 3D digitising and analysed with AMAPmod",
+            "pub_year": "2000",
+            "citation": "The Supporting Roots of Trees and Woody Plants: Form, Function and \u2026, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:RGFaLdJalmkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8819414511722021728",
+        "cites_id": [
+            "8819414511722021728"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploration d'une base de donn\u00e9es architecturales \u00e0 l'aide du logiciel AMAPmod: application \u00e0 une famille d'hybrides de pommiers",
+            "pub_year": "1999",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:6nNZn6i0kyMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12204867347843136319",
+        "cites_id": [
+            "12204867347843136319"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating topological and geometric information for digitizing plant architecture",
+            "pub_year": "1998",
+            "citation": "CIRAD-AMIS, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:6CdnuHuKHxIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9306946595289041806",
+        "cites_id": [
+            "9306946595289041806"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Une m\u00e9thode de comparaison structurelle d'arborescences non ordonn\u00e9es",
+            "pub_year": "1998",
+            "citation": "CIRAD-AMIS, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:MKvDIwB-zewC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4357212785137383077",
+        "cites_id": [
+            "4357212785137383077"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A distance measure between plant architectures based on the comparison of their topological structures",
+            "pub_year": "1998",
+            "citation": "Second International Workshop on Functional-Structural Trees Models, 11-12, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:SP6oXDckpogC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11827075185196832231",
+        "cites_id": [
+            "11827075185196832231"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of random walks on space of unordered trees using efficient metric simulation",
+            "pub_year": "2023",
+            "citation": "Discrete Applied Mathematics 341, 290-307, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:NAGhd4NKCV8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Water fluxes contribute to growth patterning in shoot meristems",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.08. 27.554993, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:RL3Vt95MvH0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring symmetries in plant architectures",
+            "pub_year": "2023",
+            "citation": "10th International Conference on Functional-Structural Plant Models, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:yxAilOxaV9sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "L-Py Documentation",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:22N0J9dj6kwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cauliflowers or how the perseverance of a plant to make flowers produces an amazing fractal structure",
+            "pub_year": "2023",
+            "citation": "Comptes Rendus. Biologies 346 (G1), 75-83, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:yhXl426oeGMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From genes to plAnt Architecture the shoot ApicAl meristem in All its stAtes",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:iHaZ0gpiSgoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Revisiting PIN1 polarity interpretation at the SAM based on automated multi-level reconstruction of PIN1 polarities from confocal images",
+            "pub_year": "2022",
+            "citation": "From genes to plant architecture: the shoot apical meristem in all its states, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:k4O5U3vRA4YC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of lateral meristems: how is sugar availability involved in the environmental control of axillary bud outgrowth?",
+            "pub_year": "2022",
+            "citation": "From genes to plant architecture: the shoot apical meristem in all its states, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:ZtJ3RtM1NaMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introduction to Computational Modeling of Multicellular Tissues",
+            "pub_year": "2022",
+            "citation": "Plant Systems Biology: Methods and Protocols, 107-145, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:-1RNHcZo4Y8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cauliflower fractal forms arise from perturbations of floral gene networks (vol 373, 192, 2021)",
+            "pub_year": "2021",
+            "citation": "SCIENCE 374 (6573), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:3A6oGT7R4jcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BVPy: A FEniCS-based Python package to ease the expression and study of boundary value problems in Biology.",
+            "pub_year": "2021",
+            "citation": "Journal of Open Source Software 6 (59), 2831, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:oea97a5D_h0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "6 Geometry Reconstruction",
+            "pub_year": "2020",
+            "citation": "Intelligent Image Analysis for Plant Phenotyping, 119, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:9KdEqzwCTsEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bipartite non-locality beyond Bell inequalities by means of multivariable correlations",
+            "pub_year": "2020",
+            "citation": "arXiv preprint arXiv:2004.12968, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:54MofcL-yxcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Skeletonization of Plant Point Cloud Data in Stochastic Optimization Framework",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.02. 15.950519, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:vuU-T12QLgwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotyping and modeling of water transport in roots",
+            "pub_year": "2020",
+            "citation": "iCROPM 2020-Satellite workshop: Phenotyping and modeling of plant anchorage \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:hUq98zRk74IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Axillary bud outgrowth regulation by light intensity: Modelling hormone and sugar interactions",
+            "pub_year": "2020",
+            "citation": "Institute of Horticultural Production Systems, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:D2lc7i8A8ooC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gillespie and his Algorithms and Special Issue: Multiscale Modelling of Tissue Growth and Shape Introduction",
+            "pub_year": "2019",
+            "citation": "BULLETIN OF MATHEMATICAL BIOLOGY 81 (8), 3214-3218, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:NKe3Q23MlFgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introduction (Special Issue\" Multiscale Modelling of Tissue Growth and Shape\")",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:6w2ZCmoKEM0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying cell polarities in confocal images using 3D wall meshes",
+            "pub_year": "2019",
+            "citation": "IAMPS 2019-7th International Workshop on Image Analysis Methods in the Plant \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:1tvASLRm6poC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sugar availability is involved in rose bud outgrowth stimulation following a temporary light intensity restriction during the vegetative development of the main stem",
+            "pub_year": "2019",
+            "citation": "International Symposium on Advanced Technologies and Management for \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:q7hqJx8pYzEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cuando las plantas hacen matem\u00e1ticas",
+            "pub_year": "2019",
+            "citation": "Investigaci\u00f3n y ciencia, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:H7WDvlwkmv8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling branching under different light intensity regimes: Integrating the role of hormones and sugars",
+            "pub_year": "2019",
+            "citation": "ISHS, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:7Pm5v_kJJ6IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stress-based regulation of multicellular plant growth: a finite element modeling approach applied to planar leaf morphogenesis",
+            "pub_year": "2018",
+            "citation": "ICSB 2018-19th International Conference on Systems Biology, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:EKd_EOGQzkMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards an automated assessment of pig behaviors on farm",
+            "pub_year": "2018",
+            "citation": "69. Annual Meeting of the European Federation of Animal Science (EAAP) 24, np, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:5OQWvpknaCIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling Curvature Effects Using L-Systems: From Discrete and Deterministic to Continuous and Stochastic",
+            "pub_year": "2017",
+            "citation": "Theory and Practice of Natural Computing: 6th International Conference, TPNC \u2026, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:as11RrW_MxEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling physiological regulation of bud burst by sucrose and auxin",
+            "pub_year": "2016",
+            "citation": "IEEE International Conference on Functional-Structural Plant Growth Modeling \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:4JjQL45tqTYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multicellular modelling of plant tissues as hydraulic systems",
+            "pub_year": "2016",
+            "citation": "HortiModel2016: V International Symposium on Models for Plant Growth \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:RMVrO4bo-SsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coupling mechanical and hydraulic processes in multicellular models of plant development.",
+            "pub_year": "2016",
+            "citation": "W8\u2013Computing a tissue: Modeling multicellular systems \u00abECCB2016\", 2 p., 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:0SnApaDgcCoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sucrose interacts with auxin in the burst of axillary buds",
+            "pub_year": "2016",
+            "citation": "11e colloque National de la Soci\u00e9t\u00e9 Fran\u00e7aise de Biologie V\u00e9g\u00e9tale, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:ztWeZN2wRXQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How does water flow through the roots",
+            "pub_year": "2016",
+            "citation": "Gordon Research Conferences \u201cSalt & Water Stress in Plants, From Molecules \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:BPyjDV4UkSoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lossy compression of unordered rooted trees",
+            "pub_year": "2016",
+            "citation": "2016 Data Compression Conference (DCC), 581-581, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:CaJTFBI5vqAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An introduction to modeling the initiation of the floral primordium",
+            "pub_year": "2016",
+            "citation": "From Molecules to Living Organisms: An Interplay Between Biology and Physics \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:uSQurnFbQXsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PEBAY-PEYROULA Eva Institut de Biologie Structurale, Universit\u00e9 Joseph Fourier, CNRS, CEA, Grenoble, France ZIEGLER Christine Department of Membrane Protein Crystallography \u2026",
+            "pub_year": "2016",
+            "citation": "From Molecules to Living Organisms: An Interplay Between Biology and Physics \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:_wawhP5Vwy0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coupling physiology and mechanics in multicellular models of plant growth",
+            "pub_year": "2015",
+            "citation": "2015-8th Plant Biomechanics International Conference, np, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:uDl620nrkPcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Toward a mechanical model of 3D fruit development",
+            "pub_year": "2015",
+            "citation": "International Symposium on Modelling in Fruit Research and Orchard \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Sx7WuSFExYwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Building a root hydraulic architecture with keyboard and pipettes",
+            "pub_year": "2015",
+            "citation": "Modeling plant development from the organ to the whole plant scale, np, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:5CmvP2Up3ZUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combined genetic, genomic and physiological approaches to characterize flowering in Fragaria",
+            "pub_year": "2015",
+            "citation": "Plant and Animal Genomes XXIII, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:2POsdo3tyOAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Toward a mechanical model of 3D fruit development",
+            "pub_year": "2015",
+            "citation": "10. International Symposium on Modelling in Fruit Research and Orchard \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:5jwsdJSnGWIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combined genetic, genomic and physiological approaches to characterize flowering in Fragaria [W324]",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:4p5LGG1h9z0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Iterative Mesh Optimization Method for 3D Meristem Reconstruction at Cell Level",
+            "pub_year": "2015",
+            "citation": "Biomedical Engineering Systems and Technologies: 8th International Joint \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:oJBA3oede64C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling the mechanical regulation of morphogenesis in plants",
+            "pub_year": "2014",
+            "citation": "9th European Conference on Mathematical and Theoretical Biology, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:DQQjGlBKAuwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CyberPlantS: a European initiative towards collaborative plant modeling",
+            "pub_year": "2013",
+            "citation": "7th International conference on functional-structural plant models (FSPM \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:4MWp96NkSFoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "M\u00e9diation Scientifique: une facette de nos m\u00e9tiers de la recherche",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:J-pR_7NvFogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Du jardin au mod\u00e8le informatique: la phyllotaxie",
+            "pub_year": "2013",
+            "citation": "Interstices, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:sArNgO4T4MoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proceedings of the 7th International Conference on Functional-Structural Plant Models, Saariselk\u00e4, Finland, 9-14 June 2013",
+            "pub_year": "2013",
+            "citation": "Finnish Society of Forest Science, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:1cQOl6Zi554C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards identifying the dynamic cellular patterns underlying early Arabidopsis floral development",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:0z-ogHnYXbUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measurements and classification of Arabidopsis\" mutants exhibiting differences in the phyllotactic pattern",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:6syOTa9L3GQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "a 3D Interactive Software Suite for Plants Architecture Modelling",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:_Re3VWB3Y0AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RSA extraction from 2D images for processing high-throughput data",
+            "pub_year": "2012",
+            "citation": "CSHL: Automated Imaging & High-Throughput Phenotyping, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:PR6Y55bgFSsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Final Report of the ModSysC2020 Working Group-Data, Models and Theories for Complex Systems: new challenges and opportunities",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scientific workflow for reusing plant/FSPM models",
+            "pub_year": "2011",
+            "citation": "MODSIM2011. 19th International Congress on Modelling and Simulation, 968-974, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a 3D Virtual Fruit Model Integrating Fruit Architecture and Physiology",
+            "pub_year": "2011",
+            "citation": "IX International Symposium on Modelling in Fruit Research and Orchard \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:EkHepimYqZsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Syst\u00e8me et proc\u00e9d\u00e9 de reconnaissance de gestes",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:pa8xeX_DvI4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lossy compression of plant architectures",
+            "pub_year": "2010",
+            "citation": "6th International Workshop on Functional-Structural Plant Models, 10--13, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:P6jpBLdrFncC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Du g\u00e8ne \u00e0 la fleur",
+            "pub_year": "2010",
+            "citation": "Les Cahiers de l'INRIA-La Recherche, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:u9iWguZQMMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lossy compression of tree architectures",
+            "pub_year": "2010",
+            "citation": "6th International Workshop on Functional-Structural Plant Models, 12-15, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:p2g8aNsByqUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method for estimating movement of a solid (publication of an application)",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:QBSR9U3j2CEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "9 Plant architecture modelling",
+            "pub_year": "2009",
+            "citation": "Annual Plant Reviews, Plant Architecture and its Manipulation 17, 238, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Abad, Francisco, 169 B Botsch, Mario, 153 Boudon, F., 1 C",
+            "pub_year": "2009",
+            "citation": "Graphical Models 71, 242, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:eMMeJKvmdy0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a virtual meristem",
+            "pub_year": "2009",
+            "citation": "Comparative Biochemistry and Physiology, Part A 2 (153), S220, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sharing efforts for modelling plant systems: from publications to reusable software components",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:35N4QoGY0k4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method and device for detecting a substantially invariant axis of rotation",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:HPvNdXBGwkEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9liser les plantes et leurs utilisations",
+            "pub_year": "2008",
+            "citation": "LISA (Lettre de l'INRIA Sophia Antipolis), np, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:ye4kPcJQO24C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling auxin \ufb02uxes and Arabidopsis root rami\ufb01cation at different scales",
+            "pub_year": "2007",
+            "citation": "5th International Workshop on Functional-Structural Plant Models, 5, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Fu2w8maKXqMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Self-similar Analysis of Plant Architecture Reveals Hierarchical Classes of Meristem States",
+            "pub_year": "2007",
+            "citation": "5th International Workshop on Functional Structural Plant Models, 481-484, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating biomechanical and markov chain models into an L-system simulation of architectural development of apple trees",
+            "pub_year": "2007",
+            "citation": "VIII International Symposium on Modelling in Fruit Research and Orchard \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:a0OBvERweLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling auxin fluxes and Arabidopsis root ramification at different scales",
+            "pub_year": "2007",
+            "citation": "5th International Workshop on Functional-Structural Plant Models, 11, 1--3, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "La mod\u00e9lisation comme outil d\u2019analyse pour la biologie du d\u00e9veloppement",
+            "pub_year": "2006",
+            "citation": "m\u00e9decine/sciences 22 (10), 814-816, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:sSrBHYA8nusC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling as a tool for analysis in developmental biology",
+            "pub_year": "2006",
+            "citation": "Medecine Sciences: M/S 22 (10), 814-816, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling of biological complex systems in the context of genomics. An account of a multidisciplinary thematic seminar held in Montpellier (France) in April 2005",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:GdooyxxgJVwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling of complex biological systems in the context of genomics: an account of a multidisciplinary thematic seminar held in Montpellier (France) in April 2005",
+            "pub_year": "2006",
+            "citation": "Journal of Biological Physics and Chemistry 6, 103-107, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:_Ybze24A_UAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Des plantes virtuelles pour comprendre les plantes r\u00e9elles",
+            "pub_year": "2006",
+            "citation": "Pour la science 52, 76-81, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:XiVPGOgt02cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a model for organ initiation patterns at the shoot apical meristem",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:QjNCP7ux8QYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation des plantes: vers la compr\u00e9hension de l'interaction g\u00e8ne-forme",
+            "pub_year": "2005",
+            "citation": "INRIA, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:UxriW0iASnsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant systems biology: linking theory and experiment. Talks. ST5. Toward a model for organ initiation patterns at the shoot apical meristem",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:70eg2SAEIzsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Space occupation by tree crowns obeys fractals: evidence from 3D digitized plants",
+            "pub_year": "2004",
+            "citation": "4. International Workshop on functional-structural plant models, np, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:vbGhcppDl1QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proceedings of the 4th International workshop on functional-structural plant models (FSPM), abstracts of papers and posters, 7-11 June 2004, Montpellier, France",
+            "pub_year": "2004",
+            "citation": "CIRAD-AMAP, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:VxjqAHCqNGUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tree growth: consequences of leaf traits for whole tree performance",
+            "pub_year": "2004",
+            "citation": "CIRAD-AMAP, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Cx2ibDnldiAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating the architectural development of apple trees",
+            "pub_year": "2004",
+            "citation": "CIRAD-AMAP, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:B3FOqHPlNUQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AMAPmod: visao geral",
+            "pub_year": "2003",
+            "citation": "EMBRAPA, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:08ZZubdj9fEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling and simulation of biological processes in the context of genomics",
+            "pub_year": "2003",
+            "citation": "Journal of Biological Physics and Chemistry 3, 106-110, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3A (Versao 2.0): aquisi\u00e7ao da arquitetura das arvores",
+            "pub_year": "2002",
+            "citation": "Workshop international sobre digitaliza\u00e7ao para arquitetura tridimensional \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:rO6llkc54NcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hyperstructures, genome analysis and i-cell",
+            "pub_year": "2002",
+            "citation": "Acta Biotheoretica 50, 357-373, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:ZfRJV9d4-WMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Volume 50 Index of Authors",
+            "pub_year": "2002",
+            "citation": "Acta Biotheoretica 50, 377-378, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:WbkHhVStYXYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of agricultural character observation to predict the production of Coffea canephora Pierre.",
+            "pub_year": "2001",
+            "citation": "19\u00e8me Colloque Scientifique International sur le Caf\u00e9, Trieste, Italy, 14-18 \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:afceBpUbn5YC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of agricultural character observation to predict the production of Coffea canephora PierreUtilisation des caracteres architecturaux pour predire la production chez Coffea \u2026",
+            "pub_year": "2001",
+            "citation": "19. International Scientific Colloquium on Coffee14-18 May 2001Trieste (Italia), 2001"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:_aaHSq4heJsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Utilisation des caract\u00e8res architecturaux pour pr\u00e9dire la production chez Coffea canephora Pierre",
+            "pub_year": "2001",
+            "citation": "ASIC, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:NJ774b8OgUMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "L-systems and MTGs: Integration of a simulation system to analyse plant models",
+            "pub_year": "2001",
+            "citation": "Third International Workshop on Functional-Structural Trees Models, 11-12, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topology and geometry measurements of root and shoot architecture of P. pinaster",
+            "pub_year": "2000",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:lo0OIn9KAZgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Representing and encoding plant architecture: a review [geometry, topology, scales of representation]",
+            "pub_year": "2000",
+            "citation": "Annals of Forest Science (France), 2000"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:tzM49s52ZIMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetique et amelioration des plantes-Elasticite du bois de plusieurs clones de Coffea canephora Pierre. Un nouveau caractere a considerer dans les schemas de selection",
+            "pub_year": "2000",
+            "citation": "Agronomie-Sciences des Productions Vegetales et de l'Environnement 20 (4), 439, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A distance measure between plant architectures [topological structure of plants, plant comparison, analytical method]",
+            "pub_year": "2000",
+            "citation": "Annals of Forest Science (France), 2000"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Constructing parametric models of trees from digitised datasets",
+            "pub_year": "1999",
+            "citation": "CIRAD, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:JO0bfRJr_gQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inter\u00e9s y utilizacion de la modelizcion arquitectural para el mejoramiento gen\u00e9tico del caf\u00e9",
+            "pub_year": "1999",
+            "citation": "Estacion Central de Investigaciones de Caf\u00e9 y Cacao, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:RIrVDUe1hjoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Numerisation en 3D de la topologie des arbres: application a la variabilite de la qualite des pommes a l'interieur de la canopee",
+            "pub_year": "1999",
+            "citation": "Bulletin OILB SROP (France).(1999). v. 22 (6). Ce fascicule fait partie \u2026, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:N5tVd3kTz84C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ATP\" Aplication de la mod\u00e9lisation architecturale \u00e0 la s\u00e9lection des plantes p\u00e9rennes\". Rapport de mission 16-28 Novembre 1998. UR2PI, Point-Noire, Congo",
+            "pub_year": "1998",
+            "citation": "CIRAD-AMIS-AMAP, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:4Q5OFK1iulkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[Measurement and representation of plants].[French]",
+            "pub_year": "1998",
+            "citation": "Colloque sur les Recherches Fruitieres (France). P4410., 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:u76CbRzuV8AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mise en place d'un protocole d'observation de l'architecture de caf\u00e9iers arabica. Mission au Costa Rica du 18 au 28 avril 1998",
+            "pub_year": "1998",
+            "citation": "CIRAD-CP, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:rjBKtydo3wgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sp\u00e9cifications fonctionnelles du logiciel AMAPCOD. Version 1.2",
+            "pub_year": "1998",
+            "citation": "CIRAD-AMIS, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:Ln2xPWQ6zl8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Le codage des plantes utilis\u00e9 dans AMAPmod. Version 1",
+            "pub_year": "1998",
+            "citation": "CIRAD-AMIS, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:CREiCvMVTUAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measurement and representation of plants",
+            "pub_year": "1998",
+            "citation": "Colloque sur les Recherches Fruiti\u00e8res (France), 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Investigation and analysis of fruit tree architecture",
+            "pub_year": "1998",
+            "citation": "Colloque sur les Recherches Fruiti\u00e8res (France), 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:NhqRSupF_l8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Un outil d'int\u00e9gration d'informations multiples relatives aux v\u00e9g\u00e9taux",
+            "pub_year": "1998",
+            "citation": "Groupe d'etude de l'arbre, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:yD5IFk8b50cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D digitization of aerial architecture of apple trees: use for studying variability of apple quality in tree, related with vegetative context",
+            "pub_year": "1998",
+            "citation": "Colloque sur les Recherches Fruiti\u00e8res (France), 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Un algorithme de comparaison d'arborescences non ordonn\u00e9es appliqu\u00e9 \u00e0 la comparaison de la structure topologique des plantes",
+            "pub_year": "1998",
+            "citation": "ENSAM, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "La digitalisation 3D de l'architecture a\u00e9rienne de pommiers: son utilisation pour \u00e9tudier la variabilit\u00e9 de la qualit\u00e9 des pommes dans l'arbre, en relation avec leur contexte \u2026",
+            "pub_year": "1998",
+            "citation": "INRA, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:GnPB-g6toBAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a mathematical representation of plants.",
+            "pub_year": "1997",
+            "citation": "Mod\u00e9lisation et simulation de l'architecture des v\u00e9g\u00e9taux., 139-171, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:HoaxrAv1AIcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ATP\" Application de la mod\u00e9lisation architecturale \u00e0 la s\u00e9lection des plantes p\u00e9rennes\". Rapport de Mission 4-11 D\u00e9cembre 1997",
+            "pub_year": "1997",
+            "citation": "CIRAD-AMIS-AMAP, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:yuCoZvLJRl8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Module de visualisation des plantes en 3D \u00e0 partir d'un MTG. Rapport technique",
+            "pub_year": "1997",
+            "citation": "CIRAD, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:zQyJfvL_HJsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CIRAD, Unit\u00e9 de mod\u00e9lisation des plantes INRA, Laboratoire d'Arboricult. Fruiti\u00e8re",
+            "pub_year": "1996",
+            "citation": "International Symposium on Computer Modelling in Fruit Research and Orchard \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:9u2w3wkYHSMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interaction entre ph\u00e9nom\u00e8nes de flexion et architecture chez les arbres fruitiers",
+            "pub_year": "1995",
+            "citation": "Universit\u00e9 de Montpellier 2, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:TlqgXrSKREMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proposition d'un cadre algorithmique unifi\u00e9 pour la compr\u00e9hension de la parole continue",
+            "pub_year": "1990",
+            "citation": "Compi\u00e8gne, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:753uPZTt4RUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comptes Rendus Biologies",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:KG521SxztIwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Journ\u00e9es Plantes et Peuplements Virtuels 27-28 mars, ENS Lyon",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:0xcHesCNKywC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling physiological regulation of bud burst by sucrose and auxin",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:E9jS3u5z5twC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COMPUTING A TISSUE MODELING MULTICELLULAR SYSTEMS",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:z5I2ou_Dk_MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HAL Id: hal-00831780",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:uSZH581ylUkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A stochastic multicellular model identifies biological watermarks from disorders in self-organized patterns of phyllotaxis",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:KrOX6H5u0oYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Les cahiers du laboratoire Leibniz",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:SSsxPzPPytkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplementary information for the article: Coupling water fluxes with cell wall mechanics in a multicellular model of plant development. Calculations for Lockhart-Ortega models",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:ZgPQhQxLujAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Une m \u95a0 hode structurelle pour \u95a2 aluer les propri \u95a0\u959f d autosimilarit  des plantes",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:JZsVLox4iN8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "KEYNOTE: Functional-structural modelling with L-systems: Where from and where to",
+            "citation": "Publishers: Finnish Society of Forest Science, Vantaa, Finland Finnish \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:JTutsjMeBaAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling Sugar maple development along its whole ontogeny: modelling hypotheses and calibration methodology",
+            "citation": "Publishers: Finnish Society of Forest Science, Vantaa, Finland Finnish \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:aAWV-AKBBEQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Meshing Meristems",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:8baWPQ8fTxwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient and robust reconstruction of botanical branching",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:zGnLiCkldm4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating the fractal dimension of plants using the two-surface method. An analysis based on 3D-digitized tree foliage.",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:LPZeul_q3PIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative 4D description and modelling of cell shape changes during ascidian gastrulation",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:geHnlv5EZngC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "4 th International workshop on functional-structural plant models(Montpellier, 7-11 June 2004, abstracts)",
+            "citation": "UMR AMAP, 0"
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:dshw04ExmUIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cellular Automata, Reaction-Diffusion and Multiagents Systems for Artificial Cell Modeling",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "gEZglZkAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 0
+    }
+]

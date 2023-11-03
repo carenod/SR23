@@ -1,0 +1,2824 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Highly integrated single-base resolution maps of the epigenome in Arabidopsis",
+            "pub_year": "2008",
+            "citation": "Cell 133 (3), 523-536, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 2668,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9520274195257926818",
+        "cites_id": [
+            "9520274195257926818"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lamin B1 depletion in senescent cells triggers large-scale changes in gene expression and the chromatin landscape",
+            "pub_year": "2013",
+            "citation": "Genes & development 27 (16), 1787-1799, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 486,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3799331264230395641",
+        "cites_id": [
+            "3799331264230395641"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A link between RNA metabolism and silencing affecting Arabidopsis development",
+            "pub_year": "2008",
+            "citation": "Developmental cell 14 (6), 854-866, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 436,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17351111179025921388",
+        "cites_id": [
+            "17351111179025921388"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nuclear m6A reader YTHDC1 regulates alternative polyadenylation and splicing during mouse oocyte development",
+            "pub_year": "2018",
+            "citation": "PLoS genetics 14 (5), e1007412, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:fh9oGOwZoyMC",
+        "num_citations": 396,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11742792916025428076",
+        "cites_id": [
+            "11742792916025428076"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Next is now: new technologies for sequencing of genomes, transcriptomes, and beyond",
+            "pub_year": "2009",
+            "citation": "Current opinion in plant biology 12 (2), 107-118, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 366,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17459658241130977570",
+        "cites_id": [
+            "17459658241130977570"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide high-resolution mapping of exosome substrates reveals hidden features in the Arabidopsis transcriptome",
+            "pub_year": "2007",
+            "citation": "Cell 131 (7), 1340-1353, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:qjMakFHDy7sC",
+        "num_citations": 348,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6175123475723689667",
+        "cites_id": [
+            "6175123475723689667"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Loss of NAD homeostasis leads to progressive and reversible degeneration of skeletal muscle",
+            "pub_year": "2016",
+            "citation": "Cell metabolism 24 (2), 269-282, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:4oLgDUE9yTUC",
+        "num_citations": 296,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5797082838215247881",
+        "cites_id": [
+            "5797082838215247881"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis dwf7/ste1 Mutant Is Defective in the \u03947 Sterol C-5 Desaturation Step Leading to Brassinosteroid Biosynthesis",
+            "pub_year": "1999",
+            "citation": "The Plant Cell 11 (2), 207-221, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 290,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=44012650382581074,11837675488991955432",
+        "cites_id": [
+            "44012650382581074",
+            "11837675488991955432"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis dwarf1 mutant is defective in the conversion of 24-methylenecholesterol to campesterol in brassinosteroid biosynthesis",
+            "pub_year": "1999",
+            "citation": "Plant physiology 119 (3), 897-908, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 279,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9447495889794158111",
+        "cites_id": [
+            "9447495889794158111"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mili and Miwi target RNA repertoire reveals piRNA biogenesis and function of Miwi in spermiogenesis",
+            "pub_year": "2012",
+            "citation": "Nature structural & molecular biology 19 (8), 773-781, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 251,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=267305092025345027",
+        "cites_id": [
+            "267305092025345027"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dysregulation of the epigenetic landscape of normal aging in Alzheimer\u2019s disease",
+            "pub_year": "2018",
+            "citation": "Nature neuroscience 21 (4), 497-505, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:c96biSVJ3QQC",
+        "num_citations": 243,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14465139611783895716,11508843258394579005",
+        "cites_id": [
+            "14465139611783895716",
+            "11508843258394579005"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local admixture of amplified and diversified secreted pathogenesis determinants shapes mosaic Toxoplasma gondii genomes",
+            "pub_year": "2016",
+            "citation": "Nature communications 7 (1), 10147, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:_xSYboBqXhAC",
+        "num_citations": 241,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10117727656456413402",
+        "cites_id": [
+            "10117727656456413402"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ETHYLENE-INSENSITIVE5 encodes a 5\u2032\u2192 3\u2032 exoribonuclease required for regulation of the EIN3-targeting F-box proteins EBF1/2",
+            "pub_year": "2006",
+            "citation": "Proceedings of the National Academy of Sciences 103 (36), 13286-13293, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 222,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1858784825301611531",
+        "cites_id": [
+            "1858784825301611531"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "H3K36 methylation promotes longevity by enhancing transcriptional fidelity",
+            "pub_year": "2015",
+            "citation": "Genes & development 29 (13), 1362-1376, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:rO6llkc54NcC",
+        "num_citations": 194,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=785248336470325981",
+        "cites_id": [
+            "785248336470325981"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatial and functional relationships among Pol V-associated loci, Pol IV-dependent siRNAs, and cytosine methylation in the Arabidopsis epigenome",
+            "pub_year": "2012",
+            "citation": "Genes & development 26 (16), 1825-1836, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 178,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=260878424214658379",
+        "cites_id": [
+            "260878424214658379"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two plant viral suppressors of silencing require the ethylene-inducible host transcription factor RAV2 to block RNA silencing",
+            "pub_year": "2010",
+            "citation": "PLoS pathogens 6 (1), e1000729, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 166,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2297147491125346291",
+        "cites_id": [
+            "2297147491125346291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "N6-methyladenosine inhibits local ribonucleolytic cleavage to stabilize mRNAs in Arabidopsis",
+            "pub_year": "2018",
+            "citation": "Cell reports 25 (5), 1146-1157. e3, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:E6AQKB9d7D8C",
+        "num_citations": 164,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7127916767001641163",
+        "cites_id": [
+            "7127916767001641163"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The functions of RNA-dependent RNA polymerases in Arabidopsis",
+            "pub_year": "2011",
+            "citation": "The Arabidopsis Book/American Society of Plant Biologists 9, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:roLk4NBRz8UC",
+        "num_citations": 164,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12376898396236465448",
+        "cites_id": [
+            "12376898396236465448"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global analysis of ribosome-associated noncoding RNAs unveils new modes of translational regulation",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (46), E10018-E10027, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:htV_5D2kmyYC",
+        "num_citations": 162,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14848047647916764810",
+        "cites_id": [
+            "14848047647916764810"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-Wide Double-Stranded RNA Sequencing Reveals the Functional Significance of Base-Paired RNAs in Arabidopsis",
+            "pub_year": "2010",
+            "citation": "PLoS genetics 6 (9), e1001141, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 157,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16672773692133925817",
+        "cites_id": [
+            "16672773692133925817"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detection of Pol IV/RDR2-dependent transcripts at the genomic scale in Arabidopsis reveals features and regulation of siRNA biogenesis",
+            "pub_year": "2015",
+            "citation": "Genome research 25 (2), 235-245, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:RGFaLdJalmkC",
+        "num_citations": 154,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10935934010280483664",
+        "cites_id": [
+            "10935934010280483664"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulatory Impact of RNA Secondary Structure across the Arabidopsis Transcriptome",
+            "pub_year": "2012",
+            "citation": "The Plant Cell 24 (11), 4346-4359, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:5nxA0vEk-isC",
+        "num_citations": 152,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15901714353714998919",
+        "cites_id": [
+            "15901714353714998919"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global analysis of RNA secondary structure in two metazoans",
+            "pub_year": "2012",
+            "citation": "Cell reports 1 (1), 69-82, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:Se3iqnhoufwC",
+        "num_citations": 146,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10841126024993660838",
+        "cites_id": [
+            "10841126024993660838"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HAMR: high-throughput annotation of modified ribonucleotides",
+            "pub_year": "2013",
+            "citation": "Rna 19 (12), 1684-1692, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:r0BpntZqJG4C",
+        "num_citations": 131,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14143133781981525784",
+        "cites_id": [
+            "14143133781981525784"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transformation of the intestinal epithelium by the MSI2 RNA-binding protein",
+            "pub_year": "2015",
+            "citation": "Nature communications 6 (1), 6517, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9999376362457710103",
+        "cites_id": [
+            "9999376362457710103"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dicer-2 processes diverse viral RNA species",
+            "pub_year": "2013",
+            "citation": "PloS one 8 (2), e55458, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 124,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3301352559481258291",
+        "cites_id": [
+            "3301352559481258291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional analysis and transcriptomic profiling of iPSC-derived macrophages and their application in modeling Mendelian disease",
+            "pub_year": "2015",
+            "citation": "Circulation research 117 (1), 17-28, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 123,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10975862161837756520",
+        "cites_id": [
+            "10975862161837756520"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global analysis of the RNA-protein interaction and RNA secondary structure landscapes of the Arabidopsis nucleus",
+            "pub_year": "2015",
+            "citation": "Molecular cell 57 (2), 376-388, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:70eg2SAEIzsC",
+        "num_citations": 114,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=410047112329392400",
+        "cites_id": [
+            "410047112329392400"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Essential Role for endogenous siRNAs during meiosis in mouse oocytes",
+            "pub_year": "2015",
+            "citation": "PLoS genetics 11 (2), e1005013, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:ldfaerwXgEUC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4835049277614834136",
+        "cites_id": [
+            "4835049277614834136"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An endogenous F-box protein regulates ARGONAUTE1 in Arabidopsis thaliana",
+            "pub_year": "2010",
+            "citation": "Silence 1, 1-10, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:WF5omc3nYNoC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17090605767042975200",
+        "cites_id": [
+            "17090605767042975200"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The macronuclear genome of Stentor coeruleus reveals tiny introns in a giant cell",
+            "pub_year": "2017",
+            "citation": "Current Biology 27 (4), 569-575, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:PjKh-f16SfUC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17955658194442395465",
+        "cites_id": [
+            "17955658194442395465"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Msi family of RNA-binding proteins function redundantly as intestinal oncoproteins",
+            "pub_year": "2015",
+            "citation": "Cell reports 13 (11), 2440-2455, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:f2IySw72cVMC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6523019019676191750",
+        "cites_id": [
+            "6523019019676191750"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNase-mediated protein footprint sequencing reveals protein-binding sites throughout the human transcriptome",
+            "pub_year": "2014",
+            "citation": "Genome biology 15 (1), 1-16, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4149768726646889445",
+        "cites_id": [
+            "4149768726646889445"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The conservation and function of RNA secondary structure in plants",
+            "pub_year": "2016",
+            "citation": "Annual review of plant biology 67, 463-488, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 91,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5359999148249518778",
+        "cites_id": [
+            "5359999148249518778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide mapping of uncapped and cleaved transcripts reveals a role for the nuclear mRNA cap-binding complex in cotranslational RNA decay in Arabidopsis",
+            "pub_year": "2016",
+            "citation": "The Plant Cell 28 (10), 2385-2397, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:XzWLPxS1ir4C",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10036681967169486795",
+        "cites_id": [
+            "10036681967169486795"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Changes in the transcriptome of human astrocytes accompanying oxidative stress-induced senescence",
+            "pub_year": "2016",
+            "citation": "Frontiers in aging neuroscience 8, 208, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:kRWl-cVF35UC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5018667639377482535",
+        "cites_id": [
+            "5018667639377482535"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A MicroRNA precursor surveillance system in quality control of MicroRNA synthesis",
+            "pub_year": "2014",
+            "citation": "Molecular cell 55 (6), 868-879, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:GnPB-g6toBAC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13121791885663877721",
+        "cites_id": [
+            "13121791885663877721"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DASHR: database of small human noncoding RNAs",
+            "pub_year": "2016",
+            "citation": "Nucleic acids research 44 (D1), D216-D222, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7874304358408063976",
+        "cites_id": [
+            "7874304358408063976"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Paternal poly (ADP-ribose) metabolism modulates retention of inheritable sperm histones and early embryonic gene expression",
+            "pub_year": "2014",
+            "citation": "PLoS genetics 10 (5), e1004317, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5380760341671712173",
+        "cites_id": [
+            "5380760341671712173"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping the genome landscape using tiling array technology",
+            "pub_year": "2007",
+            "citation": "Current opinion in plant biology 10 (5), 534-542, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9112105071472778288",
+        "cites_id": [
+            "9112105071472778288"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "mRNA adenosine methylase (MTA) deposits m6A on pri-miRNAs to modulate miRNA biogenesis in Arabidopsis thaliana",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (35), 21785-21795, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:jmwITWCuk8IC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7984505941100685476",
+        "cites_id": [
+            "7984505941100685476"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inactivation of yeast Isw2 chromatin remodeling enzyme mimics longevity effect of calorie restriction via induction of genotoxic stress response",
+            "pub_year": "2014",
+            "citation": "Cell metabolism 19 (6), 952-966, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5030409781676231726",
+        "cites_id": [
+            "5030409781676231726"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluating the impact of sequencing depth on transcriptome profiling in human adipose",
+            "pub_year": "2013",
+            "citation": "PloS one 8 (6), e66883, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:_kc_bZDykSQC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4671681752117231853",
+        "cites_id": [
+            "4671681752117231853"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tissue-specific RNA-Seq in human evoked inflammation identifies blood and adipose LincRNA signatures of cardiometabolic diseases",
+            "pub_year": "2014",
+            "citation": "Arteriosclerosis, thrombosis, and vascular biology 34 (4), 902-912, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:blknAaTinKkC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1031406357146642291",
+        "cites_id": [
+            "1031406357146642291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The long noncoding RNA landscape in hypoxic and inflammatory renal epithelial injury",
+            "pub_year": "2015",
+            "citation": "American Journal of Physiology-Renal Physiology 309 (11), F901-F913, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4636476065103371172",
+        "cites_id": [
+            "4636476065103371172"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNA polymerase V targets transcriptional silencing components to promoters of protein\u2010coding genes",
+            "pub_year": "2013",
+            "citation": "The Plant Journal 73 (2), 179-189, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:0EnyYjriUFMC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14174882854632402556",
+        "cites_id": [
+            "14174882854632402556"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "IRE1B degrades RNAs encoding proteins that interfere with the induction of autophagy by ER stress in Arabidopsis thaliana",
+            "pub_year": "2018",
+            "citation": "Autophagy 14 (9), 1562-1573, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:yIh087D13zsC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9039694353061380782",
+        "cites_id": [
+            "9039694353061380782"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide TOP2A DNA cleavage is biased toward translocated and highly transcribed loci",
+            "pub_year": "2017",
+            "citation": "Genome research 27 (7), 1238-1249, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:Ib8FQH8mdS0C",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14860798102671064411",
+        "cites_id": [
+            "14860798102671064411"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HIPPIE: a high-throughput identification pipeline for promoter interacting enhancer elements",
+            "pub_year": "2015",
+            "citation": "Bioinformatics 31 (8), 1290-1292, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17116910664850877822",
+        "cites_id": [
+            "17116910664850877822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Utilizing tiling microarrays for whole\u2010genome analysis in plants",
+            "pub_year": "2008",
+            "citation": "The plant journal 53 (4), 636-644, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6833057389905116893",
+        "cites_id": [
+            "6833057389905116893"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A regulator that inhibits transcription by targeting an intersubunit interaction of the RNA polymerase holoenzyme",
+            "pub_year": "2004",
+            "citation": "Proceedings of the National Academy of Sciences 101 (13), 4554-4559, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12035001818022854837",
+        "cites_id": [
+            "12035001818022854837"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cytoplasmic poly (A) binding protein-1 binds to genomically encoded sequences within mammalian mRNAs",
+            "pub_year": "2016",
+            "citation": "Rna 22 (1), 61-74, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14490733882114995814",
+        "cites_id": [
+            "14490733882114995814"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomic changes due to cytoplasmic TDP-43 expression reveal dysregulation of histone transcripts and nuclear chromatin",
+            "pub_year": "2015",
+            "citation": "PLoS One 10 (10), e0141836, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:u_35RYKgDlwC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13799832376757118607",
+        "cites_id": [
+            "13799832376757118607"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improved genome-wide mapping of uncapped and cleaved transcripts in eukaryotes\u2014GMUCT 2.0",
+            "pub_year": "2014",
+            "citation": "Methods 67 (1), 64-73, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:4DMP91E08xMC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10845320582003391489",
+        "cites_id": [
+            "10845320582003391489"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic era analyses of RNA secondary structure and RNA-binding proteins reveal their significance to post-transcriptional regulation in plants",
+            "pub_year": "2013",
+            "citation": "Plant Science 205, 55-62, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8885365524062791188",
+        "cites_id": [
+            "8885365524062791188"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rsd family proteins make simultaneous interactions with regions 2 and 4 of the primary sigma factor",
+            "pub_year": "2008",
+            "citation": "Molecular microbiology 70 (5), 1136-1151, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15950404701783207786",
+        "cites_id": [
+            "15950404701783207786"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A family of anti-\u03c370 proteins in T4-type phages and bacteria that are similar to AsiA, a transcription inhibitor and co-activator of bacteriophage T4",
+            "pub_year": "2004",
+            "citation": "Journal of molecular biology 344 (5), 1183-1197, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16983452892613292953",
+        "cites_id": [
+            "16983452892613292953"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interrogation of nonconserved human adipose lincRNAs identifies a regulatory role of linc-ADAL in adipocyte metabolism",
+            "pub_year": "2018",
+            "citation": "Science translational medicine 10 (446), eaar5987, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:0765WKWsAZMC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5034123981314304420",
+        "cites_id": [
+            "5034123981314304420"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A global view of RNA-protein interactions identifies post-transcriptional regulators of root hair cell fate",
+            "pub_year": "2017",
+            "citation": "Developmental Cell 41 (2), 204-220. e5, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:K_bBBR5tcgMC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7817954585239698958",
+        "cites_id": [
+            "7817954585239698958"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of poly (A)-tail G-content on Arabidopsis PAB binding and their role in enhancing translational efficiency",
+            "pub_year": "2019",
+            "citation": "Genome Biology 20 (1), 1-12, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:0IGl3jR3yJEC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15291806200312042549",
+        "cites_id": [
+            "15291806200312042549"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The small and large ribosomal subunits depend on each other for stability and accumulation",
+            "pub_year": "2019",
+            "citation": "Life science alliance 2 (2), 2019"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:njwWRc9PkvUC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10273214027787525606",
+        "cites_id": [
+            "10273214027787525606"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chemical modifications mark alternatively spliced and uncapped messenger RNAs in Arabidopsis",
+            "pub_year": "2015",
+            "citation": "The Plant Cell 27 (11), 3024-3037, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15065248176726619216",
+        "cites_id": [
+            "15065248176726619216"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "N6\u2010methyladenosine and RNA secondary structure affect transcript stability and protein abundance during systemic salt stress in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "Plant Direct 4 (7), e00239, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:U073gGq-K-4C",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4841240786614071467",
+        "cites_id": [
+            "4841240786614071467"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global Transcriptional Profiling of Diapause and Climatic Adaptation in Drosophila melanogaster",
+            "pub_year": "2016",
+            "citation": "Molecular Biology and Evolution 33 (3), 707-720, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8753901972798217780",
+        "cites_id": [
+            "8753901972798217780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant 24-nt reproductive phasiRNAs from intramolecular duplex mRNAs in diverse monocots",
+            "pub_year": "2018",
+            "citation": "Genome Research 28 (9), 1333-1344, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:-2axzXc1YoMC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1482830968462273400",
+        "cites_id": [
+            "1482830968462273400"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the host transcriptome from demyelinating spinal cord of murine coronavirus-infected mice",
+            "pub_year": "2013",
+            "citation": "PLoS One 8 (9), e75346, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:aqlVkmm33-oC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11394868843570126856",
+        "cites_id": [
+            "11394868843570126856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Repressed synthesis of ribosomal proteins generates protein-specific cell cycle and morphological phenotypes",
+            "pub_year": "2013",
+            "citation": "Molecular biology of the cell 24 (23), 3620-3633, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17324718557966572067",
+        "cites_id": [
+            "17324718557966572067"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Messenger RNA 5\u2032 NAD+ capping is a dynamic regulatory epitranscriptome mark that is required for proper response to abscisic acid in Arabidopsis",
+            "pub_year": "2021",
+            "citation": "Developmental cell 56 (1), 125-140. e6, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:WrvHtiK_1SgC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16545328931408152350",
+        "cites_id": [
+            "16545328931408152350"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput identification of long-range regulatory elements and their target promoters in the human genome",
+            "pub_year": "2013",
+            "citation": "Nucleic acids research 41 (9), 4835-4846, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8758343644681150597",
+        "cites_id": [
+            "8758343644681150597"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Terpene metabolic engineering via nuclear or chloroplast genomes profoundly and globally impacts off\u2010target pathways through metabolite signalling",
+            "pub_year": "2016",
+            "citation": "Plant biotechnology journal 14 (9), 1862-1875, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:abG-DnoFyZgC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11280121948453418156",
+        "cites_id": [
+            "11280121948453418156"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CoRAL: predicting non-coding RNAs from small RNA-sequencing data",
+            "pub_year": "2013",
+            "citation": "Nucleic acids research 41 (14), e137-e137, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1351223352156681086",
+        "cites_id": [
+            "1351223352156681086"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New insights into the plant epitranscriptome",
+            "pub_year": "2018",
+            "citation": "Journal of experimental botany 69 (20), 4659-4665, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:Sb6Hpx6U9PIC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7862340632022040035",
+        "cites_id": [
+            "7862340632022040035"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Electronic cigarette exposure disrupts blood-brain barrier integrity and promotes neuroinflammation",
+            "pub_year": "2020",
+            "citation": "Brain, behavior, and immunity 88, 363-380, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:FV77Gu53xKkC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12534373332257817779",
+        "cites_id": [
+            "12534373332257817779"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An altered\u2010specificity DNA\u2010binding mutant of Escherichia coli\u03c370 facilitates the analysis of \u03c370 function in vivo",
+            "pub_year": "2005",
+            "citation": "Molecular microbiology 56 (5), 1208-1219, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:ufrVoPGSRksC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3544853213396889921",
+        "cites_id": [
+            "3544853213396889921"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EPIC-CoGe: managing and analyzing genomic data",
+            "pub_year": "2018",
+            "citation": "Bioinformatics 34 (15), 2651-2653, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:kVDlchZkYg4C",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14305087494687548653",
+        "cites_id": [
+            "14305087494687548653"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcription is just the beginning of gene expression regulation: the functional significance of RNA-binding proteins to post-transcriptional processes in plants",
+            "pub_year": "2019",
+            "citation": "Plant and Cell Physiology 60 (9), 1939-1952, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:CQQJn-Gxto4C",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9173866497203943670",
+        "cites_id": [
+            "9173866497203943670"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis mRNA secondary structure correlates with protein function and domains",
+            "pub_year": "2013",
+            "citation": "Plant signaling & behavior 8 (6), e24301, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:Zph67rFs4hoC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10231836666290720958",
+        "cites_id": [
+            "10231836666290720958"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide approaches for RNA structure probing",
+            "pub_year": "2016",
+            "citation": "RNA Processing: Disease and Genome-wide Probing, 29-59, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:UxriW0iASnsC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9384340003587183867",
+        "cites_id": [
+            "9384340003587183867"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Read mapping and transcript assembly: a scalable and high-throughput workflow for the processing and analysis of ribonucleic acid sequencing data",
+            "pub_year": "2020",
+            "citation": "Frontiers in genetics 10, 1361, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:rMJ1_5uPwdAC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3032904485209506905",
+        "cites_id": [
+            "3032904485209506905"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The nucleotides they are a-changin\u2019: function of RNA binding proteins in post-transcriptional messenger RNA editing and modification in Arabidopsis",
+            "pub_year": "2018",
+            "citation": "Current opinion in plant biology 45, 88-95, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:uwjMLcW8QH4C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13923786589062501772",
+        "cites_id": [
+            "13923786589062501772"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protein interaction profile sequencing (PIP\u2010seq)",
+            "pub_year": "2016",
+            "citation": "Current protocols in molecular biology 116 (1), 27.5. 1-27.5. 15, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:AkQCnCHIR28C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=64296434710961225",
+        "cites_id": [
+            "64296434710961225"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reading the epitranscriptome: new techniques and perspectives",
+            "pub_year": "2017",
+            "citation": "The Enzymes 41, 269-298, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:LpWf3qrnWeoC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9038718351004050304",
+        "cites_id": [
+            "9038718351004050304"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comprehensive database of high-throughput sequencing-based RNA secondary structure probing data (Structure Surfer)",
+            "pub_year": "2016",
+            "citation": "BMC bioinformatics 17, 1-9, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:KxtntwgDAa4C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3362868991356292975",
+        "cites_id": [
+            "3362868991356292975"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SAVoR: a server for sequencing annotation and visualization of RNA structures",
+            "pub_year": "2012",
+            "citation": "Nucleic acids research 40 (W1), W59-W64, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2693268918571540539",
+        "cites_id": [
+            "2693268918571540539"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The LIN28B\u2013IMP1 post-transcriptional regulon has opposing effects on oncogenic signaling in the intestine",
+            "pub_year": "2018",
+            "citation": "Genes & development 32 (15-16), 1020-1034, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:dVnQPkO1q_gC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=593483802445865505",
+        "cites_id": [
+            "593483802445865505"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptome-wide measurement of plant RNA secondary structure",
+            "pub_year": "2015",
+            "citation": "Current opinion in plant biology 27, 36-43, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18186656586710840493",
+        "cites_id": [
+            "18186656586710840493"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PNPase knockout results in mtDNA loss and an altered metabolic gene expression program",
+            "pub_year": "2018",
+            "citation": "PloS one 13 (7), e0200925, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:dDz6LBb16w8C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2557630289060243997",
+        "cites_id": [
+            "2557630289060243997"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CoGe LoadExp+: A web\u2010based suite that integrates next\u2010generation sequencing data analysis workflows and visualization",
+            "pub_year": "2017",
+            "citation": "Plant Direct 1 (2), 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:08Fspu5RUkwC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5711219495804811670",
+        "cites_id": [
+            "5711219495804811670"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromatin dynamics during the differentiation of long-term hematopoietic stem cells to multipotent progenitors",
+            "pub_year": "2017",
+            "citation": "Blood Advances 1 (14), 887-898, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:f36TrmluGJsC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1789771077924915201",
+        "cites_id": [
+            "1789771077924915201"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptome-wide ribonuclease-mediated protein footprinting to identify RNA\u2013protein interaction sites",
+            "pub_year": "2015",
+            "citation": "Methods 72, 76-85, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3551217248567087101",
+        "cites_id": [
+            "3551217248567087101"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of epitranscriptomic marks on post-transcriptional regulation in plants",
+            "pub_year": "2021",
+            "citation": "Briefings in Functional Genomics 20 (2), 113-124, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:epZwgehlCS8C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10324822688162242720",
+        "cites_id": [
+            "10324822688162242720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis bioinformatics resources: The current state, challenges, and priorities for the future",
+            "pub_year": "2019",
+            "citation": "Plant Direct 3 (1), e00109, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:6g4f2aSzPAQC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5554182372822854157,4506266966025929552",
+        "cites_id": [
+            "5554182372822854157",
+            "4506266966025929552"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential Regulation of LET-7 by LIN28B Isoform\u2013Specific Functions",
+            "pub_year": "2018",
+            "citation": "Molecular Cancer Research 16 (3), 403-416, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:wGcU5kTjeNkC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8534251795174479041",
+        "cites_id": [
+            "8534251795174479041"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using machine learning and high-throughput RNA sequencing to classify the precursors of small non-coding RNAs",
+            "pub_year": "2014",
+            "citation": "Methods 67 (1), 28-35, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11882694479299352770",
+        "cites_id": [
+            "11882694479299352770"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HAMR: high-throughput annotation of modified ribonucleotides",
+            "pub_year": "2019",
+            "citation": "Epitranscriptomics: Methods and Protocols, 51-67, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:1u-ON_Kw9acC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11950835915506590074",
+        "cites_id": [
+            "11950835915506590074"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification and functional annotation of long intergenic non-coding RNAs in Brassicaceae",
+            "pub_year": "2022",
+            "citation": "The Plant Cell 34 (9), 3233-3260, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:cjqyVjQpDKAC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14735209251965534270",
+        "cites_id": [
+            "14735209251965534270"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "mRNA N6\u2010methyladenosine is critical for cold tolerance in Arabidopsis",
+            "pub_year": "2022",
+            "citation": "The Plant Journal 111 (4), 1052-1068, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:99tJykcxT8kC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9202520537693176674",
+        "cites_id": [
+            "9202520537693176674"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In silico identification of RNA modifications from high-throughput sequencing data using HAMR",
+            "pub_year": "2017",
+            "citation": "RNA Methylation: Methods and Protocols, 211-229, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:RTQXeVVbsVUC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1660710870778258855",
+        "cites_id": [
+            "1660710870778258855"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Does RNA secondary structure drive translation or vice versa?",
+            "pub_year": "2018",
+            "citation": "Nature Structural & Molecular Biology 25 (8), 641-643, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:wEOyVsangm4C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12154064217743309242",
+        "cites_id": [
+            "12154064217743309242"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole-genome microarrays: applications and technical issues",
+            "pub_year": "2009",
+            "citation": "Plant Systems Biology, 39-56, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:UebtZRa9Y70C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18129348518216020346",
+        "cites_id": [
+            "18129348518216020346"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global analysis of RNA-dependent RNA polymerase-dependent small RNAs reveals new substrates and functions for these proteins and SGS3 in Arabidopsis",
+            "pub_year": "2021",
+            "citation": "Non-coding RNA 7 (2), 28, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:38z6pN3vtwoC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14920018246129323168",
+        "cites_id": [
+            "14920018246129323168"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNA structure, binding, and coordination in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "Wiley Interdisciplinary Reviews: RNA 8 (5), e1426, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:SN5MtqHu-psC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17827025666921667740",
+        "cites_id": [
+            "17827025666921667740"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high-throughput sequencing-based methodology to identify all uncapped and cleaved RNA molecules in eukaryotic genomes",
+            "pub_year": "2011",
+            "citation": "MicroRNAs in Development: Methods and Protocols, 209-223, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4395312316827578165",
+        "cites_id": [
+            "4395312316827578165"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protein interaction profile sequencing (PIP\u2010seq) in plants",
+            "pub_year": "2016",
+            "citation": "Current Protocols in Plant Biology 1 (1), 163-183, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=723452006727561723",
+        "cites_id": [
+            "723452006727561723"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An artificial activator that contacts a normally occluded surface of the RNA polymerase holoenzyme",
+            "pub_year": "2005",
+            "citation": "Journal of molecular biology 353 (3), 497-506, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:8k81kl-MbHgC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4373246226058630193",
+        "cites_id": [
+            "4373246226058630193"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Elucidation of DNA methylation on N6-adenine with deep learning",
+            "pub_year": "2020",
+            "citation": "Nature Machine Intelligence 2 (8), 466-475, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:VoowTMkWmDwC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9227344844860659020",
+        "cites_id": [
+            "9227344844860659020"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using protein interaction profile sequencing (PIP-seq) to identify RNA secondary structure and RNA\u2013protein interaction sites of long noncoding RNAs in plants",
+            "pub_year": "2019",
+            "citation": "Plant Long Non-Coding RNAs: Methods and Protocols, 343-361, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:TcjEerm5wdgC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2175049590097904756",
+        "cites_id": [
+            "2175049590097904756"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shedding some blue light on alternative promoter usage in plants",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (30), 7654-7656, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:KaXSsrgGW_gC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7324134495906713774",
+        "cites_id": [
+            "7324134495906713774"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The covalent nucleotide modifications within plant mRNAs: what we know, how we find them, and what should be done in the future",
+            "pub_year": "2023",
+            "citation": "The Plant Cell 35 (6), 1801-1816, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:JguT149iTAcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2264848820727224420",
+        "cites_id": [
+            "2264848820727224420"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A conserved long intergenic non-coding RNA containing snoRNA sequences, lncCOBRA1, affects Arabidopsis germination and development",
+            "pub_year": "2022",
+            "citation": "Frontiers in Plant Science 13, 906603, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:Jnwaj-qfA0gC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12782254403295620068",
+        "cites_id": [
+            "12782254403295620068"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data-independent acquisition for the detection of mononucleoside RNA modifications by mass spectrometry",
+            "pub_year": "2022",
+            "citation": "Journal of the American Society for Mass Spectrometry 33 (5), 885-893, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:BhdUJeZOhtEC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2987388173033747464",
+        "cites_id": [
+            "2987388173033747464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The epigenome and beyond: how does non-genetic inheritance change our view of evolution?",
+            "pub_year": "2021",
+            "citation": "Integrative and Comparative Biology 61 (6), 2199-2207, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:xqLzqkGRDkQC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=572916825676480935",
+        "cites_id": [
+            "572916825676480935"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using RNA affinity purification followed by mass spectrometry to identify RNA-binding proteins (RBPs)",
+            "pub_year": "2020",
+            "citation": "RNA Tagging: Methods and Protocols, 241-253, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:RIp7fglqhzwC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18136021809660369691",
+        "cites_id": [
+            "18136021809660369691"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Covalent RNA modifications and their budding crosstalk with plant epigenetic processes",
+            "pub_year": "2022",
+            "citation": "Current Opinion in Plant Biology 69, 102287, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:hL4nnw0dEwcC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3678249688070369502",
+        "cites_id": [
+            "3678249688070369502"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HIPPIE2: a method for fine-scale identification of physically interacting chromatin regions",
+            "pub_year": "2020",
+            "citation": "NAR Genomics and Bioinformatics 2 (2), lqaa022, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:FlNF6OXwGF0C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9086455791724479718",
+        "cites_id": [
+            "9086455791724479718"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A global view of RNA-protein interactions reveals novel root hair cell fate regulators",
+            "pub_year": "2017",
+            "citation": "Developmental cell 41 (2), 204, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:Oyjq9-gOPoEC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8652960931799103760",
+        "cites_id": [
+            "8652960931799103760"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput nuclease-mediated probing of RNA secondary structure in plant transcriptomes",
+            "pub_year": "2015",
+            "citation": "Plant Functional Genomics: Methods and Protocols, 41-70, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:M05iB0D1s5AC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11399055020409858087",
+        "cites_id": [
+            "11399055020409858087"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic changes in RNA\u2013protein interactions and RNA secondary structure in mammalian erythropoiesis",
+            "pub_year": "2021",
+            "citation": "Life Science Alliance 4 (9), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:TCU5Z9gcobAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4636321245697286812",
+        "cites_id": [
+            "4636321245697286812"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computationally characterizing protein-bound long noncoding RNAs and their secondary structure using protein interaction profile sequencing (PIP-seq) in plants",
+            "pub_year": "2019",
+            "citation": "Plant Long Non-Coding RNAs: Methods and Protocols, 363-380, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:q93lAJlLO_MC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2538845511605538809",
+        "cites_id": [
+            "2538845511605538809"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Incorporating concomitant medications into genome-wide analyses for the study of complex disease and drug response",
+            "pub_year": "2016",
+            "citation": "Frontiers in Genetics 7, 138, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:ziRtHtnO-_kC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5699744367712804853",
+        "cites_id": [
+            "5699744367712804853"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pathogen-induced m6A dynamics affect plant immunity",
+            "pub_year": "2023",
+            "citation": "The Plant Cell, koad224, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:utCHnwRdBgEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2980624969556866816",
+        "cites_id": [
+            "2980624969556866816"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Diversity and Functions of Plant RNA Modifications: What We Know and Where We Go from Here",
+            "pub_year": "2023",
+            "citation": "Annual Review of Plant Biology 74, 53-85, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:TdcqFaaFpGIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16632947003988816583",
+        "cites_id": [
+            "16632947003988816583"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The identification of conserved sequence features of co\u2010translationally decayed mRNAs and upstream open reading frames in angiosperm transcriptomes",
+            "pub_year": "2023",
+            "citation": "Plant Direct 7 (1), e479, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:GKX6TSFDq9oC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16444168979952388422",
+        "cites_id": [
+            "16444168979952388422"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tissue slice preparation for Visium analysis",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:12oLulcdP1kC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17221212930624330350",
+        "cites_id": [
+            "17221212930624330350"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Snap-frozen tissue preparation",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:Fv7Qhv_DOnIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7033233931645885194",
+        "cites_id": [
+            "7033233931645885194"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Removal of the female reproductive system en bloc",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:LNbnizmRdgkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=587409901986892646",
+        "cites_id": [
+            "587409901986892646"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tissue Fixation Preparation",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:m7gEShFDljgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7356601549785834677",
+        "cites_id": [
+            "7356601549785834677"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tissue Dissociation for Multiome Analysis Using S2 Singulator",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:rhSvDnGaX0QC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18038990503923110932",
+        "cites_id": [
+            "18038990503923110932"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Post-Surgical Dissection of Ovaries",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:-EqDysdaREAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13201476063326847779",
+        "cites_id": [
+            "13201476063326847779"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Post-Surgical Dissection of Uterine Body",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:ib87rSy7x5MC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4580034237951082687",
+        "cites_id": [
+            "4580034237951082687"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Manual Tissue Dissociation for Multiome Analysis",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:ent5SSDJ8eoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12929136326883781030",
+        "cites_id": [
+            "12929136326883781030"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OCT-Embedded Tissue Preparation",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:Rv_tw8sP9O4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1239722099746381463",
+        "cites_id": [
+            "1239722099746381463"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "H&E staining for 10X Genomics Visium imaging",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:w2v21TepJGQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11055706551157353801",
+        "cites_id": [
+            "11055706551157353801"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "KMT2A\u2010MAML2 rearrangement emerged and regressed during neuroblastoma therapy without leukemia after 12.8\u2010year follow\u2010up",
+            "pub_year": "2022",
+            "citation": "Pediatric blood & cancer 69 (1), e29344, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:c5UgKxj1dGoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13735510077714303951",
+        "cites_id": [
+            "13735510077714303951"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NAD-seq for profiling the NAD+ capped transcriptome of Arabidopsis thaliana",
+            "pub_year": "2021",
+            "citation": "STAR protocols 2 (4), 100901, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:vfT5ieZw1WcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=262890512950231821",
+        "cites_id": [
+            "262890512950231821"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: The small and large ribosomal subunits depend on each other for stability and accumulation",
+            "pub_year": "2019",
+            "citation": "Life Sci Alliance 2, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:dw2rCEx0FpQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12598999477175570149",
+        "cites_id": [
+            "12598999477175570149"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolation and sequencing of AGO-bound RNAs reveals characteristics of mammalian stem-loop processing in vivo",
+            "pub_year": "2018",
+            "citation": "bioRxiv, 294488, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:bsl25C5uMOsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15006068888833706840",
+        "cites_id": [
+            "15006068888833706840"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CoGe LoadExp+: A web-based suite that integrates next-gen sequencing data analysis workflows and visualization",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 118802, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:SxVRRePJDnEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12234882577815389944",
+        "cites_id": [
+            "12234882577815389944"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput methodology for identifying RNA-protein interactions transcriptome-wide",
+            "pub_year": "2015",
+            "citation": "US Patent 9,097,708, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:z_Yq-I-xR0AC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12782344709650568863",
+        "cites_id": [
+            "12782344709650568863"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic Sampling of the Female Reproductive System for Molecular Characterization",
+            "pub_year": "2023",
+            "citation": "Current Protocols 3 (8), e848, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:unKmnnpx3RcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Focus on RNA biology",
+            "pub_year": "2023",
+            "citation": "The Plant Cell 35 (6), 1617-1618, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:JOhajB-2wfwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transferable deep learning enables identification of multiple types of RNA modifications using nanopore direct RNA sequencing",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:SsmmYIE5d0AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inhibition of Ribosome Assembly and Ribosome Translation Has Distinctly Different Effects on Abundance and Paralogue Composition of Ribosomal Protein mRNAs in Saccharomyces \u2026",
+            "pub_year": "2023",
+            "citation": "Msystems 8 (1), e01098-22, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:hy8If-OszRcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unusual X chromosome inactivation maintenance in female alveolar type 2 cells is correlated with increased numbers of X-linked escape genes and sex-biased gene expression",
+            "pub_year": "2023",
+            "citation": "Stem Cell Reports 18 (2), 489-502, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:4G0aqHQeUQIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protocols for Molecular Characterization of the Female Reproductive System",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:ZXswLDrTefgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The fold makes all the difference in COOLAIR-mediated regulation of plant flowering time",
+            "pub_year": "2022",
+            "citation": "Developmental Cell 57 (19), 2254-2256, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:_TA463COvscC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of Key Determinants of Cerebral Malaria Development and Inhibition Pathways",
+            "pub_year": "2022",
+            "citation": "Mbio 13 (1), e03708-21, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:6FFC2c45_UYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mosaic changes to the global transcriptome in response to inhibiting ribosome formation versus inhibition of ribosome function",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.10. 15.341230, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:jEJjQKk8aPQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Compositions and methods for the modulation of root hair production and stress responses in plants",
+            "pub_year": "2020",
+            "citation": "US Patent 10,526,614, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:wRp7bqO99tsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HiPR: High-throughput probabilistic RNA structure inference",
+            "pub_year": "2020",
+            "citation": "Computational and Structural Biotechnology Journal 18, 1539-1547, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:ix4AEQmNN7wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global analysis of changes in RNA-protein interactions and RNA secondary structure following excitotoxic neuronal injury in Rattus norvegicus",
+            "pub_year": "2019",
+            "citation": "JOURNAL OF NEUROVIROLOGY 25 (SUPPL 1), S21-S21, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:Kp2F6cy7E28C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Determining the Function of the Novel Long Intergenic Non-Coding RNA CONSERVED IN BRASSICA1 in Arabidopsis",
+            "pub_year": "2019",
+            "citation": "Plant and Animal Genome XXVII Conference (January 12-16, 2019), 2019"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:vkAjbg6qVbQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Acknowledgement to Reviewers of Non-Coding RNA in 2018",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:w_dVLYmSw0MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sa1664-The Lin28B-Imp1 Axis Directs a Post-Transcriptional Regulon of Oncogenic Signaling in the Intestine",
+            "pub_year": "2018",
+            "citation": "Gastroenterology 154 (6), S-346, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:V6rzEKW62mYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput methodology for identifying RNA-protein interactions transcriptome-wide",
+            "pub_year": "2017",
+            "citation": "US Patent 9,797,887, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:isC4tDSrTZIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptome analysis reveals the differences between cellular response to ribosomal stress and translational stress",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 203356, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:MTuJV9umhWMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "IMP1 plays a protective role in LIN28B\u2010associated intestinal tumorigenesis by regulating ER stress and cell junction assembly",
+            "pub_year": "2017",
+            "citation": "The FASEB Journal 31, 1041.2-1041.2, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:SLTdnKVCdHAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Macronuclear Genome of $\\textit {Stentor coeruleus} $ Reveals Tiny Introns in a Giant Cell",
+            "pub_year": "2017",
+            "citation": "Elsevier (Cell Press), 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:LnJLeQ70pnUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Acknowledgement to Reviewers of Non-Coding RNA in 2016",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:6sXp-ElUWUkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HiPPIE2: Identifying the Transcription Factors Mediating Enhancer-Target Gene Regulation in the Human Genome",
+            "pub_year": "2017",
+            "citation": "HUMAN HEREDITY 83 (1), 45-46, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:TGemctCAZTQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nucleolar Stress: Elucidating the Cellular Response Mechanism of Saccharomyces cerevisiae Upon the Repression of Essential Ribosomal Protein Synthesis",
+            "pub_year": "2017",
+            "citation": "University of Maryland, Baltimore County, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:3I1Fh14WnZcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Let us know how access to this document benefits you.",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:As9-p0eyQpQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Connections between cell senescence, chromatin, and neurodegeneration",
+            "pub_year": "2015",
+            "citation": "Experimental Gerontology, 93-94, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Compositions and Methods for the Detection of DNA Cleavage Complexes",
+            "pub_year": "2014",
+            "citation": "US Patent App. 14/122,277, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomic Profiling of Isogenic PBMC-derived and iPSC-derived Macrophages and Their Polarization",
+            "pub_year": "2014",
+            "citation": "Circulation 130 (suppl_2), A18159-A18159, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel Long Intergenic Noncoding RNAs Modulate Adipose Functions in Human",
+            "pub_year": "2014",
+            "citation": "Circulation 130 (suppl_2), A20439-A20439, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modulation of Novel Long Intergenic Noncoding RNAs in Human Macrophage Polarization",
+            "pub_year": "2014",
+            "citation": "Arteriosclerosis, Thrombosis, and Vascular Biology 34 (suppl_1), A364-A364, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tissue-Specific RNAseq Identifies Novel and Cardiometabolic Disease--Associated Long Intergenic Noncoding RNAs in Human Adipose",
+            "pub_year": "2014",
+            "citation": "Arteriosclerosis, Thrombosis, and Vascular Biology 34 (suppl_1), A219-A219, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:lSLTfruPkqcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic approaches for studying transcriptional and post-transcriptional processes.",
+            "pub_year": "2014",
+            "citation": "Methods (San Diego, Calif.) 67 (1), 1-2, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:hMod-77fHWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Role of Swi/snf Complex in Aba-Dependent Drought Responsive Gene Expression in Arabidopsis Thaliana",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:VETmZaymeusC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P3-064 CHARACTERIZING THE ALZHEIMER\u2019S DISEASE PREFRONTAL CORTEX TRANSCRIPTOME BY MULTIPLE RNA-SEQUENCING",
+            "pub_year": "2013",
+            "citation": "Alzheimer's & Dementia 9, P574-P574, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural variation in the histone demethylase, KDM4C, influences cell proliferation through the regulation of specific genes",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:A8NefVh_EAoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanisms in Leukemia-Associated Chromosomal Translocations: Novel, High-Throughput Sequencing Method to Detect Topoisomerase II (TOP2) Cleavage Complexes Genome-Wide with \u2026",
+            "pub_year": "2011",
+            "citation": "Blood 118 (21), 3445, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:mB3voiENLucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiclass RNA function classification using next-generation sequencing",
+            "pub_year": "2011",
+            "citation": "2011 IEEE 1st International Conference on Computational Advances in Bio and \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two Plant Viral Suppressors of Silencing Require the Ethylene-Inducible Host",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:hKIHPWh8nngC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Selected Publications",
+            "pub_year": "2010",
+            "citation": "Paleoceanography, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:klLsoiHXwFYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolation and sequencing of AGO-bound RNAs reveals characteristics of",
+            "pub_year": "2009",
+            "citation": "development 17, 3011-3016, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:CQikpi1_-5oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u30bf\u30a4\u30ea\u30f3\u30b0\u30a2\u30ec\u30fc\u3092\u7528\u3044\u305f RNA \u5206\u89e3\u7d4c\u8def\u306e\u89b3\u6e2c",
+            "pub_year": "2007",
+            "citation": "\u65e5\u672c\u690d\u7269\u751f\u7406\u5b66\u4f1a\u5e74\u4f1a\u304a\u3088\u3073\u30b7\u30f3\u30dd\u30b8\u30a6\u30e0 \u8b1b\u6f14\u8981\u65e8\u96c6 \u7b2c 48 \u56de\u65e5\u672c\u690d\u7269\u751f\u7406\u5b66\u4f1a\u5e74\u4f1a \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:kiFE3DPpsncC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A glimpse at RNA degradation pathways using tiling microarrays",
+            "pub_year": "2007",
+            "citation": "PLANT AND CELL PHYSIOLOGY 48, S10-S10, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INAUGURAL ARTICLE by a Recently Elected Academy Member: ETHYLENE-INSENSITIVE5 encodes a 5\u2032\u2192 3\u2032 exoribonuclease required for regulation of the EIN3-targeting F-box proteins \u2026",
+            "pub_year": "2006",
+            "citation": "Proceedings of the National Academy of Sciences of the United States of \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular interactions of Escherichia coli sigma (70) region 4 involved in transcription initiation",
+            "pub_year": "2005",
+            "citation": "Harvard University, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:bu5pTcyXo34C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "People, Power, Places: Perspectives in Vernacular Architecture VIII",
+            "pub_year": "2003",
+            "citation": "Journal of American Folklore 116 (462), 495-496, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:2MSJ22rj538C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Book Review: Towards a Practical Guide to the Therapy of the Borderline Patient",
+            "pub_year": "1987",
+            "citation": "Jefferson Journal of Psychiatry 5 (2), 14, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:B9dQ7Cd3MGsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Book Review: The Feel of the Road",
+            "pub_year": "1987",
+            "citation": "Jefferson Journal of Psychiatry 5 (1), 11, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:lfn0f_u3g34C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reports of the MASC Subcommittees",
+            "citation": "Plant Cell 29, 5-19, 0"
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:qwlfnX_dBN8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "neurodevelopmental anomalies",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:t3SSBJTuMXcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chemical Modifications Mark Alternatively Spliced and Uncapped Messenger RNAs in ArabidopsisOPEN",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:viPVbuMW504C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TEXT S1 INVENTORY",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:maZDTaKrznsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Next-generation sequencing library preparation using the Bioruptor.",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "vlI9WiYAAAAJ:4TOpqqG69KYC",
+        "num_citations": 0
+    }
+]

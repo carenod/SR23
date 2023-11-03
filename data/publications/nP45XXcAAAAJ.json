@@ -1,0 +1,2943 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular basis of thermosensing: a two-component signal transduction thermometer in Bacillus subtilis",
+            "pub_year": "2001",
+            "citation": "The EMBO journal 20 (7), 1681-1691, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 493,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4946290514360856396",
+        "cites_id": [
+            "4946290514360856396"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of membrane lipid fluidity by molecular thermosensors",
+            "pub_year": "2004",
+            "citation": "Journal of bacteriology 186 (20), 6681-6688, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 343,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5808448221256333912",
+        "cites_id": [
+            "5808448221256333912"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Bacillus subtilis Gene Induced by Cold Shock Encodes a Membrane Phospholipid Desaturase",
+            "pub_year": "1998",
+            "citation": "Journal of bacteriology 180 (8), 2194-2200, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 324,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6390614691514971308",
+        "cites_id": [
+            "6390614691514971308"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thermal regulation of membrane lipid fluidity in bacteria",
+            "pub_year": "1983",
+            "citation": "Trends in Biochemical Sciences 8 (2), 49-52, 1983"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:kRWSkSYxWN8C",
+        "num_citations": 240,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17433786927134403711",
+        "cites_id": [
+            "17433786927134403711"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural plasticity and catalysis regulation of a thermosensor histidine kinase",
+            "pub_year": "2009",
+            "citation": "Proceedings of the National Academy of Sciences 106 (38), 16185-16190, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 223,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=480344675984338856",
+        "cites_id": [
+            "480344675984338856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of fatty acid desaturation: a mechanism conserved from bacteria to humans",
+            "pub_year": "2006",
+            "citation": "Molecular microbiology 62 (6), 1507-1514, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 219,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3400037543588764828,10665263424962925863",
+        "cites_id": [
+            "3400037543588764828",
+            "10665263424962925863"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FapR, a bacterial transcription factor involved in global regulation of membrane lipid biosynthesis",
+            "pub_year": "2003",
+            "citation": "Developmental cell 4 (5), 663-672, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:8AbLer7MMksC",
+        "num_citations": 192,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16400130986367040878",
+        "cites_id": [
+            "16400130986367040878"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thermal regulation of membrane fluidity in Escherichia coli. Effects of overproduction of beta-ketoacyl-acyl carrier protein synthase I.",
+            "pub_year": "1983",
+            "citation": "Journal of Biological Chemistry 258 (4), 2098-2101, 1983"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:yD5IFk8b50cC",
+        "num_citations": 181,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12530386395959473008",
+        "cites_id": [
+            "12530386395959473008"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanism of membrane fluidity optimization: isothermal control of the Bacillus subtilis acyl\u2010lipid desaturase",
+            "pub_year": "2002",
+            "citation": "Molecular microbiology 45 (5), 1379-1388, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:KxtntwgDAa4C",
+        "num_citations": 157,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14424055140764408234",
+        "cites_id": [
+            "14424055140764408234"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temperature sensing by membranes",
+            "pub_year": "2014",
+            "citation": "Annual review of microbiology 68, 101-116, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:qUcmZB5y_30C",
+        "num_citations": 153,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5409523635270001541",
+        "cites_id": [
+            "5409523635270001541"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Membrane thickness cue for cold sensing in a bacterium",
+            "pub_year": "2010",
+            "citation": "Current Biology 20 (17), 1539-1544, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5050202539316775615",
+        "cites_id": [
+            "5050202539316775615"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Membrane Fluidity Sensor DesK of Bacillus subtilis Controls the Signal Decay of Its Cognate Response Regulator",
+            "pub_year": "2004",
+            "citation": "Journal of bacteriology 186 (9), 2655-2663, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 139,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13365884628036369971",
+        "cites_id": [
+            "13365884628036369971"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evidence that the Essential Response Regulator YycF in Streptococcus pneumoniae Modulates Expression of Fatty Acid Biosynthesis Genes and Alters Membrane \u2026",
+            "pub_year": "2005",
+            "citation": "Journal of bacteriology 187 (7), 2357-2367, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13699916175208265399",
+        "cites_id": [
+            "13699916175208265399"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biosynthesis and function of membrane lipids",
+            "pub_year": "1993",
+            "citation": "Bacillus subtilis and other Gram\u2010positive Bacteria: Biochemistry, Physiology \u2026, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:Se3iqnhoufwC",
+        "num_citations": 130,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2081873239962801557",
+        "cites_id": [
+            "2081873239962801557"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural basis of lipid biosynthesis regulation in Gram\u2010positive bacteria",
+            "pub_year": "2006",
+            "citation": "The EMBO journal 25 (17), 4074-4083, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 123,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13338688143878958763",
+        "cites_id": [
+            "13338688143878958763"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Citrate Transport System of Lactococcus lactis subsp. lactis biovar diacetylactis Is Induced by Acid Stress",
+            "pub_year": "1998",
+            "citation": "Applied and environmental microbiology 64 (3), 850-857, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3161017259811102164",
+        "cites_id": [
+            "3161017259811102164"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional Control of the Low-Temperature-Inducible des Gene, Encoding the \u03945 Desaturase of Bacillus subtilis",
+            "pub_year": "1999",
+            "citation": "Journal of Bacteriology 181 (22), 7028-7033, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8722716371416535716",
+        "cites_id": [
+            "8722716371416535716"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Bacillus subtilis desaturase: a model to understand phospholipid modification and temperature sensing",
+            "pub_year": "2005",
+            "citation": "Archives of microbiology 183, 229-235, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:qjMakFHDy7sC",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=699784520099518729",
+        "cites_id": [
+            "699784520099518729"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coupling of Fatty Acid and Phospholipid Synthesis in Bacillus subtilis",
+            "pub_year": "2007",
+            "citation": "Journal of bacteriology 189 (16), 5816-5824, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 104,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2986731167339311390",
+        "cites_id": [
+            "2986731167339311390"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Bacillus subtilis Acyl Lipid Desaturase Is a \u03945 Desaturase",
+            "pub_year": "2003",
+            "citation": "Journal of bacteriology 185 (10), 3228-3231, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 104,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1988893186213889097",
+        "cites_id": [
+            "1988893186213889097"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanism of Citrate Metabolism inLactococcus lactis: Resistance against Lactate Toxicity at Low pH",
+            "pub_year": "1999",
+            "citation": "Journal of bacteriology 181 (5), 1451-1457, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:blknAaTinKkC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5790689019247435903",
+        "cites_id": [
+            "5790689019247435903"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brucella abortus Synthesizes Phosphatidylcholine from Choline Provided by the Host",
+            "pub_year": "2006",
+            "citation": "Journal of Bacteriology 188 (5), 1929-1934, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3976922221411398528",
+        "cites_id": [
+            "3976922221411398528"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bacillus subtilis DesR functions as a phosphorylation-activated switch to control membrane lipid fluidity",
+            "pub_year": "2004",
+            "citation": "Journal of Biological Chemistry 279 (38), 39340-39347, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12375167233356223108",
+        "cites_id": [
+            "12375167233356223108"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Response of Bacillus subtilis to Cerulenin and Acquisition of Resistance",
+            "pub_year": "2001",
+            "citation": "Journal of bacteriology 183 (10), 3032-3040, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:a0OBvERweLwC",
+        "num_citations": 95,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12579024698165495310",
+        "cites_id": [
+            "12579024698165495310"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Membrane topology of the acyl-lipid desaturase from Bacillus subtilis",
+            "pub_year": "2002",
+            "citation": "Journal of Biological Chemistry 277 (50), 48099-48106, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2311532672847295360",
+        "cites_id": [
+            "2311532672847295360"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Derived amino acid sequence and identification of active site residues of Escherichia coli beta-hydroxydecanoyl thioester dehydrase.",
+            "pub_year": "1988",
+            "citation": "Journal of Biological Chemistry 263 (10), 4641-4646, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16685617143618465889",
+        "cites_id": [
+            "16685617143618465889"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oral immunization with live Lactococcus lactis expressing rotavirus VP8* subunit induces specific immune response in mice",
+            "pub_year": "2011",
+            "citation": "Journal of Virological Methods 175 (1), 28-37, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10975442818416787477",
+        "cites_id": [
+            "10975442818416787477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic and Biochemical Analyses of Escherichia coli Mutants Altered in the Temperature-Dependent Regulation of Membrane Lipid Composition",
+            "pub_year": "1983",
+            "citation": "Journal of bacteriology 154 (1), 221-230, 1983"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:maZDTaKrznsC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8089645341514642141",
+        "cites_id": [
+            "8089645341514642141"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "cis\u2010Unsaturated fatty acids specifically inhibit a signal\u2010transducing protein kinase required for initiation of sporulation in Bacillus subtilis",
+            "pub_year": "1992",
+            "citation": "Molecular Microbiology 6 (20), 2909-2917, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8841269066127726504",
+        "cites_id": [
+            "8841269066127726504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rotavirus vp7 antigen produced by Lactococcus lactis induces neutralizing antibodies in mice",
+            "pub_year": "2005",
+            "citation": "Journal of applied microbiology 99 (5), 1158-1164, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:RGFaLdJalmkC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9103588575619448006",
+        "cites_id": [
+            "9103588575619448006"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A lipid-mediated conformational switch modulates the thermosensing activity of DesK",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (9), 3579-3584, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:lSLTfruPkqcC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9668268163358261169",
+        "cites_id": [
+            "9668268163358261169"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA supercoiling and thermal regulation of unsaturated fatty acid synthesis in Bacillus subtilis",
+            "pub_year": "1994",
+            "citation": "Molecular Microbiology 11 (5), 933-941, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:LPZeul_q3PIC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16530435196305266291",
+        "cites_id": [
+            "16530435196305266291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization and reconstitution of a 4Fe-4S adenylyl sulfate/phosphoadenylyl sulfate reductase from Bacillus subtilis",
+            "pub_year": "2004",
+            "citation": "Journal of Biological Chemistry 279 (9), 7850-7855, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4765165499390095574",
+        "cites_id": [
+            "4765165499390095574"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High affinity L-triiodothyronine binding sites on washed rat erythrocyte membranes.",
+            "pub_year": "1983",
+            "citation": "Journal of Biological Chemistry 258 (11), 6690-6692, 1983"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:p2g8aNsByqUC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14981730095623380553",
+        "cites_id": [
+            "14981730095623380553"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of the synthesis of unsaturated fatty acids by growth temperature in Bacillus subtilis",
+            "pub_year": "1993",
+            "citation": "Molecular microbiology 8 (3), 535-542, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1278116704319216455",
+        "cites_id": [
+            "1278116704319216455"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Acid-Inducible Transcription of the Operon Encoding the Citrate Lyase Complex of Lactococcus lactis Biovar diacetylactis CRL264",
+            "pub_year": "2004",
+            "citation": "Journal of bacteriology 186 (17), 5649-5660, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:mB3voiENLucC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6102346589395849961",
+        "cites_id": [
+            "6102346589395849961"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genes encoding the biotin carboxyl carrier protein and biotin carboxylase subunits of Bacillus subtilis acetyl coenzyme A carboxylase, the first enzyme of fatty acid synthesis",
+            "pub_year": "1995",
+            "citation": "Journal of bacteriology 177 (23), 7003-7006, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:XiSMed-E-HIC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15116209744337566442",
+        "cites_id": [
+            "15116209744337566442"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of a soluble diacylglycerol kinase required for lipoteichoic acid production in Bacillus subtilis",
+            "pub_year": "2007",
+            "citation": "Journal of Biological Chemistry 282 (30), 21738-21745, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17932254204114447341",
+        "cites_id": [
+            "17932254204114447341"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bacillus subtilis acyl carrier protein is encoded in a cluster of lipid biosynthesis genes",
+            "pub_year": "1996",
+            "citation": "Journal of bacteriology 178 (16), 4794-4800, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:geHnlv5EZngC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16381774777682918268",
+        "cites_id": [
+            "16381774777682918268"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Bacillus subtilis cysP gene encodes a novel sulphate permease related to the inorganic phosphate transporter (Pit) family",
+            "pub_year": "2000",
+            "citation": "Microbiology 146 (4), 815-821, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4869382035915756207",
+        "cites_id": [
+            "4869382035915756207"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel amidotransferase required for lipoic acid cofactor assembly in Bacillus subtilis",
+            "pub_year": "2011",
+            "citation": "Molecular microbiology 80 (2), 350-363, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:WF5omc3nYNoC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1919582719753976575",
+        "cites_id": [
+            "1919582719753976575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Activation of the bacterial thermosensor DesK involves a serine zipper dimerization motif that is modulated by bilayer thickness",
+            "pub_year": "2015",
+            "citation": "Proceedings of the National Academy of Sciences 112 (20), 6353-6358, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10250937171492572487",
+        "cites_id": [
+            "10250937171492572487"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Serine/threonine protein kinase PrkA of the human pathogen Listeria monocytogenes: Biochemical characterization and identification of interacting partners \u2026",
+            "pub_year": "2011",
+            "citation": "Journal of proteomics 74 (9), 1720-1734, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11513401355519142636",
+        "cites_id": [
+            "11513401355519142636"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A coiled coil switch mediates cold sensing by the thermosensory protein DesK",
+            "pub_year": "2015",
+            "citation": "Molecular microbiology 98 (2), 258-271, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:dshw04ExmUIC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14467218159216605730",
+        "cites_id": [
+            "14467218159216605730"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Allosteric activation of bacterial response regulators: the role of the cognate histidine kinase beyond phosphorylation",
+            "pub_year": "2014",
+            "citation": "MBio 5 (6), 10.1128/mbio. 02105-14, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=958588808310127366",
+        "cites_id": [
+            "958588808310127366"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signal sensing and transduction by histidine kinases as unveiled through studies on a temperature sensor",
+            "pub_year": "2017",
+            "citation": "Accounts of chemical research 50 (6), 1359-1366, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:roLk4NBRz8UC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2262933519820953271",
+        "cites_id": [
+            "2262933519820953271"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cloning of the citrate permease gene of Lactococcus lactis subsp. lactis biovar diacetylactis and expression in Escherichia coli",
+            "pub_year": "1990",
+            "citation": "Applied and environmental microbiology 56 (7), 2099-2103, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:rO6llkc54NcC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11476402394716865269",
+        "cites_id": [
+            "11476402394716865269"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel two\u2010gene requirement for the octanoyltransfer reaction of Bacillus subtilis lipoic acid biosynthesis",
+            "pub_year": "2011",
+            "citation": "Molecular microbiology 80 (2), 335-349, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4332019336911543226",
+        "cites_id": [
+            "4332019336911543226"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional Control of the Sulfur-RegulatedcysH Operon, Containing Genes Involved inl-Cysteine Biosynthesis in Bacillus subtilis",
+            "pub_year": "2000",
+            "citation": "Journal of Bacteriology 182 (20), 5885-5892, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12749125599213097880",
+        "cites_id": [
+            "12749125599213097880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bilayer hydrophobic thickness and integral membrane protein function",
+            "pub_year": "2011",
+            "citation": "Current Protein and Peptide Science 12 (8), 760-766, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16206200740403826680",
+        "cites_id": [
+            "16206200740403826680"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phosphatidylethanolamine Synthesis Is Required for Optimal Virulence of Brucella abortus",
+            "pub_year": "2008",
+            "citation": "Journal of bacteriology 190 (24), 8197-8203, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6661386676512355651",
+        "cites_id": [
+            "6661386676512355651"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Citrate utilization gene cluster of the Lactococcus lactis biovar diacetylactis: organization and regulation of expression",
+            "pub_year": "1995",
+            "citation": "Molecular and General Genetics MGG 246, 590-599, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:ufrVoPGSRksC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14128886105741840281",
+        "cites_id": [
+            "14128886105741840281"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional in vitro assembly of the integral membrane bacterial thermosensor DesK",
+            "pub_year": "2009",
+            "citation": "Protein expression and purification 66 (1), 39-45, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5231501348260788464",
+        "cites_id": [
+            "5231501348260788464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signalling pathways controlling fatty acid desaturation",
+            "pub_year": "2008",
+            "citation": "Lipids in health and disease, 71-99, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3371766403406778155",
+        "cites_id": [
+            "3371766403406778155"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensing membrane thickness: Lessons learned from cold stress",
+            "pub_year": "2016",
+            "citation": "Biochimica et Biophysica Acta (BBA)-Molecular and Cell Biology of Lipids \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1005629793061832144",
+        "cites_id": [
+            "1005629793061832144"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "L-Cysteine biosynthesis in Bacillus subtilis: identification, sequencing, and functional characterization of the gene coding for phosphoadenylylsulfate sulfotransferase",
+            "pub_year": "1997",
+            "citation": "Journal of bacteriology 179 (3), 976-981, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:738O_yMBCRsC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15400812147113525853",
+        "cites_id": [
+            "15400812147113525853"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of membrane lipid homeostasis by lipid-bilayer associated sensors: a mechanism conserved from bacteria to humans",
+            "pub_year": "2019",
+            "citation": "Progress in Lipid Research 76, 100996, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:JQOojiI6XY0C",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15292144957836378105",
+        "cites_id": [
+            "15292144957836378105"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role of ferredoxin and flavodoxins in Bacillus subtilis fatty acid desaturation",
+            "pub_year": "2011",
+            "citation": "Journal of Bacteriology 193 (16), 4043-4048, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:u_35RYKgDlwC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11625403182390026364",
+        "cites_id": [
+            "11625403182390026364"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "De novo fatty acid synthesis is required for establishment of cell type\u2010specific gene transcription during sporulation in Bacillus subtilis",
+            "pub_year": "1998",
+            "citation": "Molecular microbiology 29 (5), 1215-1224, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:isC4tDSrTZIC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7628838977496284883",
+        "cites_id": [
+            "7628838977496284883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Citrate transport in Lactococcus lactis biovar diacetylactis: Expression of the plasmid-borne citrate permease P",
+            "pub_year": "1994",
+            "citation": "FEMS microbiology letters 118 (1-2), 75-82, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:q3oQSFYPqjQC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17274640171209538416",
+        "cites_id": [
+            "17274640171209538416"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differences in Cold Adaptation of Bacillus subtilis under Anaerobic and Aerobic Conditions",
+            "pub_year": "2010",
+            "citation": "Journal of bacteriology 192 (16), 4164-4171, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8618489572058873245",
+        "cites_id": [
+            "8618489572058873245"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional control of membrane lipid synthesis in bacteria",
+            "pub_year": "2005",
+            "citation": "Current opinion in microbiology 8 (2), 149-153, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=404606007508943526",
+        "cites_id": [
+            "404606007508943526"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Overproduction of cis-Vaccenic Acid and Altered Temperature Control of Fatty Acid Synthesis in a Mutant of Escherichia coli",
+            "pub_year": "1982",
+            "citation": "Journal of bacteriology 151 (3), 1608-1611, 1982"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:5nxA0vEk-isC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2520262386384414785",
+        "cites_id": [
+            "2520262386384414785"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural insights into bacterial resistance to cerulenin",
+            "pub_year": "2014",
+            "citation": "The FEBS journal 281 (10), 2324-2338, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:u9iWguZQMMsC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15067906616114555293",
+        "cites_id": [
+            "15067906616114555293"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bacillus subtilis Cysteine Synthetase Is a Global Regulator of the Expression of Genes Involved in Sulfur Assimilation",
+            "pub_year": "2005",
+            "citation": "Journal of bacteriology 187 (22), 7631-7638, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=699108275045360472",
+        "cites_id": [
+            "699108275045360472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Endocannabinoids in Caenorhabditis elegans are essential for the mobilization of cholesterol from internal reserves",
+            "pub_year": "2018",
+            "citation": "Scientific reports 8 (1), 6398, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:eMMeJKvmdy0C",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8797074365796306036",
+        "cites_id": [
+            "8797074365796306036"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural Basis for Feed-Forward Transcriptional Regulation of Membrane Lipid Homeostasis in Staphylococcus aureus",
+            "pub_year": "2013",
+            "citation": "PLoS pathogens 9 (1), e1003108, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13968549469750565950",
+        "cites_id": [
+            "13968549469750565950"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CitI, a transcription factor involved in regulation of citrate metabolism in lactic acid bacteria",
+            "pub_year": "2005",
+            "citation": "Journal of bacteriology 187 (15), 5146-5155, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14959942765347279586",
+        "cites_id": [
+            "14959942765347279586"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The stringent response plays a key role in Bacillus subtilis survival of fatty acid starvation",
+            "pub_year": "2017",
+            "citation": "Molecular microbiology 103 (4), 698-712, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:TQgYirikUcIC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6319229264470070020",
+        "cites_id": [
+            "6319229264470070020"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Novel Role of Malonyl-ACP in Lipid Homeostasis,",
+            "pub_year": "2010",
+            "citation": "Biochemistry 49 (14), 3161-3167, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:eflP2zaiRacC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17068581045511243487",
+        "cites_id": [
+            "17068581045511243487"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thyroid hormone actions and membrane fluidity Blocking action thyroxine on triiodothyronine effect",
+            "pub_year": "1977",
+            "citation": "FEBS letters 84 (1), 199-203, 1977"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11038330221969501026",
+        "cites_id": [
+            "11038330221969501026"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of type II fatty acid synthase in Gram-positive bacteria",
+            "pub_year": "2008",
+            "citation": "Current opinion in microbiology 11 (2), 148-152, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6393842801099147798",
+        "cites_id": [
+            "6393842801099147798"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New osmoregulated beta (1-3), beta (1-6) glucosyltransferase (s) in Azospirillum brasilense",
+            "pub_year": "1994",
+            "citation": "Journal of bacteriology 176 (16), 4890-4898, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12307450055650246767",
+        "cites_id": [
+            "12307450055650246767"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A malonyl\u2010CoA\u2010dependent switch in the bacterial response to a dysfunction of lipid metabolism",
+            "pub_year": "2008",
+            "citation": "Molecular microbiology 68 (4), 987-996, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4279429982377976815",
+        "cites_id": [
+            "4279429982377976815"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolation and Characterization of Unsaturated Fatty Acid Auxotrophs of Streptococcus pneumoniae and Streptococcus mutans",
+            "pub_year": "2007",
+            "citation": "Journal of bacteriology 189 (22), 8139-8144, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:tOudhMTPpwUC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15826635903314740192",
+        "cites_id": [
+            "15826635903314740192"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cerulenin inhibits unsaturated fatty acids synthesis in Bacillus subtilis by modifying the input signal of DesK thermosensor",
+            "pub_year": "2014",
+            "citation": "Microbiologyopen 3 (2), 213-224, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:bnK-pcrLprsC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18256937879954839780",
+        "cites_id": [
+            "18256937879954839780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional Control of the Citrate-InduciblecitMCDEFGRP Operon, Encoding Genes Involved in Citrate Fermentation in Leuconostoc paramesenteroides",
+            "pub_year": "2000",
+            "citation": "Journal of bacteriology 182 (14), 3904-3912, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:XiVPGOgt02cC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18310354202656573687",
+        "cites_id": [
+            "18310354202656573687"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of Bacillus subtilis DesK thermosensor by lipids",
+            "pub_year": "2013",
+            "citation": "Biochemical Journal 451 (2), 269-275, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8556148654468210521",
+        "cites_id": [
+            "8556148654468210521"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of fatty acid desaturation in Bacillus subtilis",
+            "pub_year": "2003",
+            "citation": "Prostaglandins, leukotrienes and essential fatty acids 68 (2), 187-190, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9040679517058353707",
+        "cites_id": [
+            "9040679517058353707"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cloning and molecular characterization of the citrate utilization citMCDEFGRP cluster of Leuconostoc paramesenteroides",
+            "pub_year": "1999",
+            "citation": "FEMS microbiology letters 174 (2), 231-238, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11696580604472397560",
+        "cites_id": [
+            "11696580604472397560"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional activation of the citrate permease P gene ofLactococcus lactis biovardiacetylactis by an insertion sequence-like element present in plasmid pCIT264",
+            "pub_year": "1996",
+            "citation": "Molecular and General Genetics MGG 250, 428-436, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16375272268503400132",
+        "cites_id": [
+            "16375272268503400132"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thermosensing via transmembrane protein\u2013lipid interactions",
+            "pub_year": "2015",
+            "citation": "Biochimica Et Biophysica Acta (BBA)-Biomembranes 1848 (9), 1757-1764, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17647744948471252611",
+        "cites_id": [
+            "17647744948471252611"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression of the Agrobacterium tumefaciens chvB virulence region in Azospirillum spp",
+            "pub_year": "1990",
+            "citation": "Journal of bacteriology 172 (5), 2563-2567, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:_kc_bZDykSQC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4118051041366487785",
+        "cites_id": [
+            "4118051041366487785"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring the biosynthesis of unsaturated fatty acids in Bacillus cereus ATCC 14579 and functional characterization of novel acyl-lipid desaturases",
+            "pub_year": "2013",
+            "citation": "Applied and environmental microbiology 79 (20), 6271-6279, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16808084906624618605",
+        "cites_id": [
+            "16808084906624618605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synthesis of sn-glycerol 3-phosphate, a key precursor of membrane lipids, in Bacillus subtilis",
+            "pub_year": "1995",
+            "citation": "Journal of bacteriology 177 (20), 5899-5905, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:f2IySw72cVMC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12778016064976636567",
+        "cites_id": [
+            "12778016064976636567"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A lipA (yutB) mutant, encoding lipoic acid synthase, provides insight into the interplay between branched-chain and unsaturated fatty acid biosynthesis in Bacillus subtilis",
+            "pub_year": "2009",
+            "citation": "Journal of bacteriology 191 (24), 7447-7455, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:P5F9QuxV20EC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13900682541792928100",
+        "cites_id": [
+            "13900682541792928100"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Membrane cooperative enzymes. High molecular specificity for blocking action of thyroxine on triiodothyronine effect in rat erythrocyte and Escherichia coli systems.",
+            "pub_year": "1978",
+            "citation": "Journal of Biological Chemistry 253 (17), 6255-6259, 1978"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10413427928227764322",
+        "cites_id": [
+            "10413427928227764322"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oligomerization of Bacillus subtilis DesR is required for fine tuning regulation of membrane fluidity",
+            "pub_year": "2009",
+            "citation": "Biochimica et Biophysica Acta (BBA)-General Subjects 1790 (10), 1238-1243, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:5ugPr518TE4C",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18200683720066431347",
+        "cites_id": [
+            "18200683720066431347"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolation and characterization of Bacillus subtilis mutants blocked in the synthesis of pantothenic acid",
+            "pub_year": "1991",
+            "citation": "Journal of bacteriology 173 (13), 4240-4242, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15816935404478003964",
+        "cites_id": [
+            "15816935404478003964"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The single transmembrane segment of minimal sensor DesK senses temperature via a membrane-thickness caliper",
+            "pub_year": "2016",
+            "citation": "Journal of bacteriology 198 (21), 2945-2954, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:4TOpqqG69KYC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4129863580249045892",
+        "cites_id": [
+            "4129863580249045892"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FapR: from control of membrane lipid homeostasis to a biotechnological tool",
+            "pub_year": "2016",
+            "citation": "Frontiers in molecular biosciences 3, 64, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9907904799917639508",
+        "cites_id": [
+            "9907904799917639508"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Remodeling of membrane phospholipids by bacterial desaturases",
+            "pub_year": "2013",
+            "citation": "Stearoyl-CoA Desaturase Genes in Lipid Metabolism, 209-231, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13715608055968355252",
+        "cites_id": [
+            "13715608055968355252"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Growth-rate regulation of the Bacillus subtilis accBC operon encoding subunits of acetyl-CoA carboxylase, the first enzyme of fatty acid synthesis",
+            "pub_year": "2001",
+            "citation": "Archives of microbiology 175, 234-237, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:0EnyYjriUFMC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2410666442747675531",
+        "cites_id": [
+            "2410666442747675531"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transmembrane prolines mediate signal sensing and decoding in Bacillus subtilis DesK histidine kinase",
+            "pub_year": "2019",
+            "citation": "MBio 10 (6), 10.1128/mbio. 02564-19, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:NJ774b8OgUMC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1221984100655543685",
+        "cites_id": [
+            "1221984100655543685"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The properties of citrate transport catalyzed by CitP of Lactococcus lactis ssp. lactis biovar diacetylactis",
+            "pub_year": "1996",
+            "citation": "FEMS microbiology letters 142 (2-3), 265-269, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16280523829632569390",
+        "cites_id": [
+            "16280523829632569390"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Membrane fluidity adjusts the insertion of the transacylase PlsX to regulate phospholipid biosynthesis in Gram-positive bacteria",
+            "pub_year": "2020",
+            "citation": "Journal of Biological Chemistry 295 (7), 2136-2147, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:7T2F9Uy0os0C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14548995546907187837",
+        "cites_id": [
+            "14548995546907187837"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional and functional characterization of the gene encoding acyl carrier protein in Bacillus subtilis",
+            "pub_year": "2010",
+            "citation": "Microbiology 156 (2), 484-495, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:hMod-77fHWUC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8640388903153965144",
+        "cites_id": [
+            "8640388903153965144"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects on Bacillus subtilis of conditional expression of the accBC operon encoding subunits of acetyl coenzyme A carboxylase, the first enzyme of fatty acid synthesis",
+            "pub_year": "1998",
+            "citation": "Microbiology 144 (4), 895-903, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1743757334446402458",
+        "cites_id": [
+            "1743757334446402458"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Revisiting the cell biology of the acyl\u2010ACP: phosphate transacylase PlsX suggests that the phospholipid synthesis and cell division machineries are not coupled in B acillus \u2026",
+            "pub_year": "2016",
+            "citation": "Molecular microbiology 100 (4), 621-634, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13730309741533878712",
+        "cites_id": [
+            "13730309741533878712"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thermal regulation of membrane lipid fluidity by a two\u2010component system in Bacillus subtilis",
+            "pub_year": "2011",
+            "citation": "Biochemistry and Molecular Biology Education 39 (5), 362-366, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:D03iK_w7-QYC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12648253756618200519",
+        "cites_id": [
+            "12648253756618200519"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of an insertion sequence-like element identified in plasmid pCIT264 from Lactococcus lactis subsp. lactis biovar diacetylactis",
+            "pub_year": "1996",
+            "citation": "FEMS microbiology letters 136 (3), 289-295, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:aqlVkmm33-oC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4469065366114382679",
+        "cites_id": [
+            "4469065366114382679"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression of cloned genes by in vivo insertion of tac promoter using a mini-Mu bacteriophage",
+            "pub_year": "1988",
+            "citation": "Gene 65 (2), 305-314, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10464534395349933504",
+        "cites_id": [
+            "10464534395349933504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "One-step gene amplification by Mu-mediated transposition of E. coli genes to a multicopy plasmid",
+            "pub_year": "1981",
+            "citation": "Gene 15 (1), 27-32, 1981"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=266330385795802472",
+        "cites_id": [
+            "266330385795802472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The phosphatidic acid pathway enzyme PlsX plays both catalytic and channeling roles in bacterial phospholipid synthesis",
+            "pub_year": "2020",
+            "citation": "Journal of Biological Chemistry 295 (7), 2148-2159, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:fEOibwPWpKIC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8863824892068485154",
+        "cites_id": [
+            "8863824892068485154"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Vectorial signalling mechanism required for cell\u2013cell communication during sporulation in Bacillus subtilis",
+            "pub_year": "2012",
+            "citation": "Molecular microbiology 83 (2), 261-274, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:r0BpntZqJG4C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7030234264170121987",
+        "cites_id": [
+            "7030234264170121987"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transfer of Plasmids between Bacillus subtilis and Streptococcus lactis",
+            "pub_year": "1988",
+            "citation": "Applied and environmental microbiology 54 (5), 1309-1311, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9360011361782820663",
+        "cites_id": [
+            "9360011361782820663"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cloning of mini-Mu bacteriophage in cosmids: in vivo packaging into phage lambda heads",
+            "pub_year": "1985",
+            "citation": "Gene 39 (1), 55-59, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:abG-DnoFyZgC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13567117804717869487",
+        "cites_id": [
+            "13567117804717869487"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Playing with transmembrane signals",
+            "pub_year": "2011",
+            "citation": "Communicative & Integrative Biology 4 (1), 69-71, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=503821463661734174",
+        "cites_id": [
+            "503821463661734174"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of expression of the Lactococcus lactis subsp. lactis biovar diacetylactis citrate transport system",
+            "pub_year": "1998",
+            "citation": "Le Lait 78 (1), 11-16, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16681324703488499099",
+        "cites_id": [
+            "16681324703488499099"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effect of fatty acid supplementation on membrane fluidity in microorganisms",
+            "pub_year": "1988",
+            "citation": "Physiological Regulation of Membrane Fluidity 3, 119-149, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3979998903307978772",
+        "cites_id": [
+            "3979998903307978772"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of Novel thermosensors in Gram-Positive pathogens",
+            "pub_year": "2020",
+            "citation": "Frontiers in Molecular Biosciences 7, 592747, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:b1wdh0AR-JQC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10252665714712271548",
+        "cites_id": [
+            "10252665714712271548"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Revisiting the coupling of fatty acid to phospholipid synthesis in bacteria with FapR regulation",
+            "pub_year": "2020",
+            "citation": "Molecular Microbiology 114 (4), 653-663, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:BwyfMAYsbu0C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9228313330788966283",
+        "cites_id": [
+            "9228313330788966283"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural determinant of functionality in acyl lipid desaturases",
+            "pub_year": "2018",
+            "citation": "Journal of Lipid Research 59 (10), 1871-1879, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:JoZmwDi-zQgC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4177184700886052740",
+        "cites_id": [
+            "4177184700886052740"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lipid biosynthesis",
+            "pub_year": "2014",
+            "citation": "Academic Press, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=102361887824625501",
+        "cites_id": [
+            "102361887824625501"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Solving an old puzzle in phospholipid biosynthesis",
+            "pub_year": "2006",
+            "citation": "Nature Chemical Biology 2 (11), 573-574, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:ldfaerwXgEUC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10187675692676734612",
+        "cites_id": [
+            "10187675692676734612"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular mechanisms of low temperature sensing bacteria.",
+            "pub_year": "2005",
+            "citation": "Annals of Hepatology 4 (3), 216-217, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:08ZZubdj9fEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15868984545789965254",
+        "cites_id": [
+            "15868984545789965254"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Windogradsky Column: A Simple and Inexpensive Approach to Teach Environmental Biochemistry.",
+            "pub_year": "1991",
+            "citation": "Biochemical education 19 (3), 143-47, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15695811405715634027",
+        "cites_id": [
+            "15695811405715634027"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A cos-mini-Mu vector for in vivo DNA cloning",
+            "pub_year": "1987",
+            "citation": "Gene 51 (1), 85-90, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:TFP_iSt0sucC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7374033455173459824",
+        "cites_id": [
+            "7374033455173459824"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In vivo cloning of DNA into multicopy cosmids by mini-Mu-cosduction",
+            "pub_year": "1986",
+            "citation": "Molecular and General Genetics MGG 205, 546-549, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:HDshCWvjkbEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1925550722440872445",
+        "cites_id": [
+            "1925550722440872445"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effect of cold exposure on rat erythrocyte membrane-bound acetylcholinesterase",
+            "pub_year": "1978",
+            "citation": "J. biol. Chem 253, 6249-6254, 1978"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:LI9QrySNdTsC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6915785004320773093",
+        "cites_id": [
+            "6915785004320773093"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of membrane lipid homeostasis in bacteria",
+            "pub_year": "2010",
+            "citation": "Handbook of hydrocarbon and lipid microbiology, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:B3FOqHPlNUQC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16338956396498070628",
+        "cites_id": [
+            "16338956396498070628"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kinetics Characterization of Taurocholic Transport in Lactobacillus reuteri",
+            "pub_year": "2001",
+            "citation": "Current Microbiology 42, 18-20, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4792775006465578824",
+        "cites_id": [
+            "4792775006465578824"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Demonstration of the presence of an inducible\u03b2-lactamase inAzospirillum lipoferum",
+            "pub_year": "1989",
+            "citation": "Current Microbiology 18, 33-35, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:NhqRSupF_l8C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16529997375556241320",
+        "cites_id": [
+            "16529997375556241320"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pesticide action: Different response of erythrocyte membrane acetylcholinesterase to inhibition by organophosphorus compounds under varied dietary conditions",
+            "pub_year": "1980",
+            "citation": "Pesticide Biochemistry and Physiology 14 (1), 1-4, 1980"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:IWHjjKOFINEC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5234029807102279583",
+        "cites_id": [
+            "5234029807102279583"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of cell-envelope synthesis for envelope growth and cytoplasmic density in Bacillus subtilis",
+            "pub_year": "2022",
+            "citation": "PNAS nexus 1 (4), pgac134, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:86PQX7AUzd4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17040328079752417622",
+        "cites_id": [
+            "17040328079752417622"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of membrane lipid homeostasis in bacteria upon temperature change",
+            "pub_year": "2019",
+            "citation": "Biogenesis of Fatty Acids, Lipids and Membranes, Handbook of Hydrocarbon and \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17495775258887584439",
+        "cites_id": [
+            "17495775258887584439"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of the mini-Mu phage for the isolation of lac transcriptional fusions in Bacillus subtilis genes",
+            "pub_year": "1993",
+            "citation": "Gene 123 (1), 39-44, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9290187753617212035",
+        "cites_id": [
+            "9290187753617212035"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environmental biochemistry\u2014A new approach for teaching the cycles of the elements",
+            "pub_year": "1988",
+            "citation": "Biochemical Education 16 (4), 205-208, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:WA5NYHcadZ8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5651468894089420834",
+        "cites_id": [
+            "5651468894089420834"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cannabinoids activate the insulin pathway to modulate mobilization of cholesterol in C. elegans",
+            "pub_year": "2022",
+            "citation": "PLoS Genetics 18 (11), e1010346, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:rmuvC79q63oC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14840718864409483488",
+        "cites_id": [
+            "14840718864409483488"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interhelical H-bonds modulate the activity of a polytopic transmembrane kinase",
+            "pub_year": "2021",
+            "citation": "Biomolecules 11 (7), 938, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:-FonjvnnhkoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10138742475225260736",
+        "cites_id": [
+            "10138742475225260736"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Defining Caenorhabditis elegans as a model system to investigate lipoic acid metabolism",
+            "pub_year": "2020",
+            "citation": "Journal of Biological Chemistry 295 (44), 14973-14986, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:EYYDruWGBe4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5183540705776308875",
+        "cites_id": [
+            "5183540705776308875"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A genetic screen for mutations affecting temperature sensing in Bacillus subtilis",
+            "pub_year": "2019",
+            "citation": "Microbiology 165 (1), 90-101, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:dTyEYWd-f8wC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14505531022380580471",
+        "cites_id": [
+            "14505531022380580471"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A systematic approach towards elucidation of the mode of action of a bacterial thermosensor",
+            "pub_year": "2012",
+            "citation": "Biophysical Journal 102 (3), 493a-494a, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:SP6oXDckpogC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14945935199549295293",
+        "cites_id": [
+            "14945935199549295293"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How does thermosensor DesK measure membrane thickness? Tryptophan fluorescence and mutagenesis analysis",
+            "pub_year": "2012",
+            "citation": "Biophysical Journal 102 (3), 494a, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1328377216836699458",
+        "cites_id": [
+            "1328377216836699458"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular cloning of rotavirus genome",
+            "pub_year": "1986",
+            "citation": "Medicina, Buenos Aires 46, 693-697, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:-f6ydRqryjwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5667690561572281481",
+        "cites_id": [
+            "5667690561572281481"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inhibition of cyclic 3\u2032 5\u2032 monophosphate synthesis in rat testis by L-triiodothyronine",
+            "pub_year": "1981",
+            "citation": "Molecular and Cellular Biochemistry 34, 185-190, 1981"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:vRqMK49ujn8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16180482135527613550",
+        "cites_id": [
+            "16180482135527613550"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Homeostatic control of membrane lipid biosynthesis in bacteria",
+            "pub_year": "2020",
+            "citation": "Lipid signaling and metabolism, 1-22, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:p__nRnzSRKYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1269869480223711256",
+        "cites_id": [
+            "1269869480223711256"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using a microbial physiologic and genetic approach to investigate how bacteria sense physical stimuli",
+            "pub_year": "2014",
+            "citation": "Biochemistry and Molecular Biology Education 42 (5), 427-434, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7367279106127701065",
+        "cites_id": [
+            "7367279106127701065"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sistemas de utilizaci\u00f3n del citrato en bacterias \u00e1cido l\u00e1cticas",
+            "pub_year": "2008",
+            "citation": "Consejo Superior de Investigaciones Cient\u00edficas (Espa\u00f1a), 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:tkaPQYYpVKoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3757761822057143637",
+        "cites_id": [
+            "3757761822057143637"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Getting the signals across: networking inside and out.",
+            "pub_year": "2005",
+            "citation": "Current Opinion in Microbiology 8 (2), 113-115, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:BrmTIyaxlBUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17214636297123198354",
+        "cites_id": [
+            "17214636297123198354"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impaired cholesterol transport from aged astrocytes to neurons can be rescued by cannabinoids.",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.07. 24.550299, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:_FM0Bhl9EiAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of novel thermosensors in gram-positive pathogens (vol 7, 592747, 2022)",
+            "pub_year": "2022",
+            "citation": "FRONTIERS IN MOLECULAR BIOSCIENCES 9, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:Ri6SYOTghG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Corrigendum: Identification of novel thermosensors in gram-positive pathogens",
+            "pub_year": "2022",
+            "citation": "Frontiers in Molecular Biosciences 9, 1007054, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:_axFR9aDTf0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unsaturated fatty acids profiling in live C. elegans using real-time NMR spectroscopy",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.04. 02.438181, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:M7yex6snE4oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interhelical H-Bonds Modulate the Activity of a Polytopic Transmembrane Kinase. Biomolecules 2021, 11, 938",
+            "pub_year": "2021",
+            "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:edDO8Oi4QzsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synthesis of a deuterated standard for the quantification of 2-Arachidonoylglycerol in Caenorhabditis elegans",
+            "pub_year": "2019",
+            "citation": "JoVE (Journal of Visualized Experiments), e59882, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:kzcrU_BdoSEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Erratum: Endocannabinoid 2-arachidonoyl glycerol increases the transcription of daf-7 in ASI neurons. microPublication Biology",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:ML0RJ9NH7IQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Endocannabinoid 2-arachidonoyl glycerol increases the transcription of daf-7 in ASI neurons",
+            "pub_year": "2018",
+            "citation": "Micropublication Biology 2018, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:4MWp96NkSFoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Production of biodiesel from glycerine",
+            "pub_year": "2015",
+            "citation": "US Patent App. 14/239,228, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:4DMP91E08xMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ENDOCANNABINOIDS IN Caenorhabditis elegans DAUER DIAPAUSE REGULATION",
+            "pub_year": "2014",
+            "citation": "BIOCELL 38, 70-70, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:WbkHhVStYXYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MECHANISM OF SIGNAL DETECTION AND SIGNAL TRANSDUCTION IN THE THERMOSENSOR DESK",
+            "pub_year": "2014",
+            "citation": "BIOCELL 38, 187-187, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:Tiz5es2fbqcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "REGULATION OF LIPID BIOSYNTHESIS IN GRAM-POSITIVE BACTERIA",
+            "pub_year": "2014",
+            "citation": "BIOCELL 38, 137-137, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:UxriW0iASnsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MS69. O05",
+            "pub_year": "2014",
+            "citation": "Acta Cryst 70, C1050, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FATTY ACID BIOSYNTHESIS ENZYMES HAVE A CRUCIAL ROLE IN Caenorhabditis elegans DEVELOPMENT",
+            "pub_year": "2014",
+            "citation": "BIOCELL 38, 120-120, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:70eg2SAEIzsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ROLE OF Staphylococcus aureus SAOUHSC01313-SAOUHSC01314 TCS IN THE SUSCEPTIBILITY TO STRESS FACTORS",
+            "pub_year": "2014",
+            "citation": "BIOCELL 38, 141-142, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:GnPB-g6toBAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ENZYMATIC DIVERSITY IN LIPOIC ACID MODIFICATION OF PROTEINS",
+            "pub_year": "2014",
+            "citation": "BIOCELL 38, 51-51, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SIGNAL DETECTION AND TARGET GENE INDUCTION BY THE Bacillus subtilis TWO COMPONENT SYSTEM YvfT-YvfU",
+            "pub_year": "2014",
+            "citation": "BIOCELL 38, 143-143, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ACTIVATION OF THE TERMOSENSOR DESK INVOLVES REVERSIBLE FORMATION OF A TRANSMEMBRANE SERINE ZIPPER",
+            "pub_year": "2014",
+            "citation": "BIOCELL 38, 83-83, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:UebtZRa9Y70C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PROTEIN LIPOYLATION IN THE NEMATODE Caenorhabditis elegans",
+            "pub_year": "2014",
+            "citation": "BIOCELL 38, 105-105, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Production of biodiesel from glycerine",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:UHK10RUVsp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mode of Action of the Bacterial Thermosensor Desk Involved in Regulating Membrane Fluidity",
+            "pub_year": "2013",
+            "citation": "Biophysical Journal 104 (2), 595a, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thermosensor Desk Measures Membrane Thickness",
+            "pub_year": "2011",
+            "citation": "Biophysical Journal 100 (3), 637a, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:k_IJM867U9cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conformational Plasticity of Histidine Kinases is Key for Signal Transduction",
+            "pub_year": "2011",
+            "citation": "ACTA CRYSTALLOGRAPHICA A-FOUNDATION AND ADVANCES 67, C341-C341, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:_Ybze24A_UAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "38 Regulation of Membrane Lipid Homeostasis in Bacteria",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:zLWjf1WUPmwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Engineering a Thermosensor To Dissect a Transmembrane Signaling System",
+            "pub_year": "2010",
+            "citation": "Biophysical Journal 98 (3), 88a, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:J-pR_7NvFogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Systematic Approach Towards Elucidation of the Mode of Action of a Bacterial Thermosensor",
+            "pub_year": "2010",
+            "citation": "Biophysical Journal 98 (3), 88a, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:D_sINldO8mEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3.5 Quantitative real-time RT-PCR",
+            "pub_year": "2010",
+            "citation": "Genomics and Applied Biology 1 (2), 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:_xSYboBqXhAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thermal regulation of unsaturated fatty acid biosynthesis in bacteria",
+            "pub_year": "2010",
+            "citation": "Chemistry and Physics of Lipids, S18, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanisms of Signaling and Regulation of Membrane Properties by a Bacterial thermosensor",
+            "pub_year": "2009",
+            "citation": "Biophysical Journal 96 (3), 213a-214a, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of type II fatty acid synthase in Gram-positive bacteria Gustavo E Schujman and Diego de Mendoza",
+            "pub_year": "2008",
+            "citation": "Current Opinion in Microbiology 11, 148-152, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:4fGpz3EwCPoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural basis of lipid biosynthesis regulation in Gram-positive bacteria",
+            "pub_year": "2008",
+            "citation": "ACTA CRYSTALLOGRAPHICA A-FOUNDATION AND ADVANCES 64, C26-C27, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:uLbwQdceFCQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "YerQ is a soluble diacylglycerol kinase in Bacillus subtilis required for lipoteichoic acid synthesis",
+            "pub_year": "2007",
+            "citation": "The FASEB Journal 21 (6), LB8-LB8, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:1qzjygNMrQYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell regulation",
+            "pub_year": "2005",
+            "citation": "Current opinion in microbiology 8 (2), 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:lmc2jWPfTJgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evidence that the Essential Response Regulator YycF in Streptococcus pneumoniae Modulates Expression of Fatty Acid Biosynthesis Genes and Alters Membrane Composition",
+            "pub_year": "2005",
+            "citation": "American Society for Microbiology, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:SdhP9T11ey4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ENZYME CATALYSIS AND REGULATION-Characterization and Reconstitution of a 4Fe-4S Adenylyl Sulfate/Phosphoadenylyl Sulfate Reductase from Bacillus subtilis.",
+            "pub_year": "2004",
+            "citation": "Journal of Biological Chemistry 279 (9), 7850-7855, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MECHANISMS OF SIGNAL TRANSDUCTION-Bacillus subtilis DesR functions as a phosphorylation-activated switch to control membrane lipid fluidity.",
+            "pub_year": "2004",
+            "citation": "Journal of Biological Chemistry 279 (38), 39340-39347, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:8k81kl-MbHgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GENETICS AND MOLECULAR BIOLOGY-The Bacillus subtilis cysP gene encodes a novel sulphate permease related to the inorganic phosphate transporter (Pit) family",
+            "pub_year": "2000",
+            "citation": "Microbiology-Reading 146 (4), 815-822, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:5awf1xo2G04C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GENETICS AND MOLECULAR BIOLOGY-Transcriptional Control of the Citrate-Inducible citMCDEFGRP Operon, Encoding Genes Involved in Citrate Fermentation in Leuconostoc paramesenteroides",
+            "pub_year": "2000",
+            "citation": "Journal of Bacteriology 182 (14), 3904-3912, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expresi\u00f3n de las distintas formas del ant\u00edgeno de superficie del virus de la Hepatitis B EN Bacillus subtilis",
+            "pub_year": "1990",
+            "citation": "Expresi\u00f3n de las distintas formas del ant\u00edgeno de superficie del virus de la \u2026, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:Zph67rFs4hoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OVERPRODUCTION OF CIS-VACCENIC ACID AND ALTERED TEMPERATURE CONTROL OF FATTY ACID SYNTHESIS IN A MUTANT OF ESCHERICHIA COLI",
+            "pub_year": "1982",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:ipzZ9siozwsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Association of triiodothyronine binding activity to soluble adenylate cyclase in testicular preparations",
+            "pub_year": "1981",
+            "citation": "Molecular and Cellular Biochemistry 36, 23-27, 1981"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NN-LINKED BIAZOLES. II: ATTEMPTED ROUTES TO THE BENZIMIDAZOL-1-YL RADICAL. SYNTHESIS OF 2, 2'-DIMETHYL-1, 1'-BIBENZIMIDAZOLE",
+            "pub_year": "1981",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:0KyAp5RtaNEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "N, N'-LINKED BIAZOLES. I: SYNTHESIS AND PHYSICO-CHEMICAL STUDY OF 1-PYRROLYL-AND 1, 2, 4-TRIAZOL-4-YL-LINKED BIAZOLES",
+            "pub_year": "1980",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:uc_IGeMz5qoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "REGULATION BY TRIIODOTHYRONINE OF SOLUBLE ADENYLYL CYCLASE AND CYCLIC-AMP LEVELS IN RAT TESTES",
+            "pub_year": "1979",
+            "citation": "FEDERATION PROCEEDINGS 38 (3), 317-317, 1979"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:VaXvl8Fpj5cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LIPIDS AND LIPOPROTEINS IN SUBJECTS AT 1,000 AND 3,500 METER ALTITUDES",
+            "pub_year": "1979",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:t7zJ5fGR-2UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EFFECT OF COLD EXPOSURE ON RAT ERYTHROCYTE MEMBRANE-BOUND ACETYLCHOLINESTERASE. ROLE OF THYROTROPIN IN THE THYROID HORMONES INTERPLAY",
+            "pub_year": "1978",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:z_wVstp3MssC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "THYROID HORMONE ACTIONS AND MEMBRANE FLUIDITY. BLOCKING ACTION THYROXINE ON TRIIODOTHYRONINE EFFECT.",
+            "pub_year": "1977",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:tKAzc9rXhukC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HORMONE ACTION AND MEMBRANE FLUIDITY-INTERPLAY OF TRIIODOTHYRONINE, THYROXINE AND THYROTROPIN ON HILL COEFFICIENT OF RAT ERYTHROCYTE MEMBRANE-BOUND ACETYL CHOLINESTERASE",
+            "pub_year": "1976",
+            "citation": "FEDERATION PROCEEDINGS 35 (3), 594-594, 1976"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:35N4QoGY0k4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SYSTEMES AROMATIQUES A 10 ELECTRONS PI DERIVES DE L'AZA-3A-PENTALENE. XIII. ETUDE DE LA TAUTOMERIE ANNULAIRE DU S-TRIAZOLO (4, 3-A) BENZIMIDAZOLE ET DU PYRAZOLO (1, 5-A \u2026",
+            "pub_year": "1975",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:EkHepimYqZsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SYSTEMES AROMATIQUES A 10 ELECTRONS PI DERIVES DE L'AZA-3A-PENTALENE. X. SERIE DU S-TRIAZOLO (4, 3-A) BENZIMIDAZOLE",
+            "pub_year": "1974",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:XD-gHx7UXLsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SYSTEMES AROMATIQUES A 10 ELECTRONS PI DERIVES DE L'AZA-3A PENTALENE. XVI. RECHERCHES DANS LA SERIE DU BENZIMIDAZO (1, 2-A) BENZIMIDAZOLE (NOTE DE LABORATOIRE)",
+            "pub_year": "1974",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:VLnqNzywnoUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polyunsaturated fatty acids mediate cholesterol trafficking in C. elegans",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:GtLg2Ama23sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Situaciones y pr\u00e1cticas recurrentes en la investigaci\u00f3n educativa",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:xtoqd-5pKcoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mi Servicio Social en MEC-EDUPAZ, UNAM durante la Pandemia COVID19",
+            "citation": "\" PATRIMONIO\": Econom\u00eda Cultural y Educaci\u00f3n para la Paz (MEC-EDUPAZ) 2 (20 \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:S16KYo8Pm5AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization AND Reconstitution OF A 4F E 4S Adenylyl Sulfate (APS)/Phospho-Adenylyl Sulfate (PAPS) Reductase FROM Bacillus SUBTILIS",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:e_rmSamDkqQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Membrane fluidity adjusts the insertion of the transacylase PlsX to regulate phospholipid biosynthesis in Gram-positive bacteria Diego E. Sastre1, Luis GM Basso2, Beatriz \u2026",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:vDijr-p_gm4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Bacillus subtilis Acyl Lipid Desaturase",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:HE397vMXCloC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "494a Tuesday, February 28, 2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:t6usbXjVLHcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The next issue of this journal Cell regulation",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "nP45XXcAAAAJ:BqipwSGYUEgC",
+        "num_citations": 0
+    }
+]

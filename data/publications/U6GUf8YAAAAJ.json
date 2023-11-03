@@ -1,0 +1,916 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes function as thermosensors in Arabidopsis",
+            "pub_year": "2016",
+            "citation": "Science 354 (6314), 886-889, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 704,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=265221557585787237",
+        "cites_id": [
+            "265221557585787237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimental validation of a predicted feedback loop in the multi\u2010oscillator clock of Arabidopsis thaliana",
+            "pub_year": "2006",
+            "citation": "Molecular systems biology 2 (1), 59, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 489,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15376770396618312801",
+        "cites_id": [
+            "15376770396618312801"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extension of a genetic network model by iterative experimentation and mathematical analysis",
+            "pub_year": "2005",
+            "citation": "Molecular systems biology 1 (1), 2005.0013, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 478,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11614586839506010003",
+        "cites_id": [
+            "11614586839506010003"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measuring single-cell gene expression dynamics in bacteria using fluorescence time-lapse microscopy",
+            "pub_year": "2012",
+            "citation": "Nature protocols 7 (1), 80-88, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:Se3iqnhoufwC",
+        "num_citations": 410,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18444643901279948150",
+        "cites_id": [
+            "18444643901279948150"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Molecular Basis of Temperature Compensation in the Arabidopsis Circadian Clock",
+            "pub_year": "2006",
+            "citation": "The Plant Cell 18 (5), 1177-1187, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 396,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2259040792113033866",
+        "cites_id": [
+            "2259040792113033866"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FLOWERING LOCUS C Mediates Natural Variation in the High-Temperature Response of the Arabidopsis Circadian Clock",
+            "pub_year": "2006",
+            "citation": "The Plant Cell 18 (3), 639-650, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 346,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1391334843632452576",
+        "cites_id": [
+            "1391334843632452576"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling genetic networks with noisy and varied experimental data: the circadian clock in Arabidopsis thaliana",
+            "pub_year": "2005",
+            "citation": "Journal of theoretical biology 234 (3), 383-393, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 294,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7094871729085082368",
+        "cites_id": [
+            "7094871729085082368"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using movies to analyse gene circuit dynamics in single cells",
+            "pub_year": "2009",
+            "citation": "Nature Reviews Microbiology 7 (5), 383-392, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:qjMakFHDy7sC",
+        "num_citations": 286,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1889477291917392720",
+        "cites_id": [
+            "1889477291917392720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Standards for plant synthetic biology: a common syntax for exchange of DNA parts",
+            "pub_year": "2015",
+            "citation": "New Phytologist 208 (1), 13-19, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:_kc_bZDykSQC",
+        "num_citations": 259,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11508053699992015977",
+        "cites_id": [
+            "11508053699992015977"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ELF3 controls thermoresponsive growth in Arabidopsis",
+            "pub_year": "2015",
+            "citation": "Current biology 25 (2), 194-199, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 231,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16910043034756121216",
+        "cites_id": [
+            "16910043034756121216"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stochastic pulse regulation in bacterial stress response",
+            "pub_year": "2011",
+            "citation": "Science 334 (6054), 366, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:ufrVoPGSRksC",
+        "num_citations": 231,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10958137921731462883",
+        "cites_id": [
+            "10958137921731462883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Microbial individuality: how single-cell heterogeneity enables population level strategies",
+            "pub_year": "2015",
+            "citation": "Current opinion in microbiology 24, 104-112, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 146,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18238074781285889999",
+        "cites_id": [
+            "18238074781285889999"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nitrate modulates stem cell dynamics in Arabidopsis shoot meristems through cytokinins",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (6), 1382-1387, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:hC7cP41nSMkC",
+        "num_citations": 143,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17501597488453779826,17292227705484999456",
+        "cites_id": [
+            "17501597488453779826",
+            "17292227705484999456"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rate of environmental change determines stress response specificity",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (10), 4140-4145, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:0EnyYjriUFMC",
+        "num_citations": 138,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16312563206752990028",
+        "cites_id": [
+            "16312563206752990028"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling of natural convection flows with large temperature differences: a benchmark problem for low Mach number solvers. Part 1. Reference solutions",
+            "pub_year": "2005",
+            "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 39 (3), 609-616, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 138,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16740310334771469447",
+        "cites_id": [
+            "16740310334771469447"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prediction of photoperiodic regulators from quantitative gene circuit models",
+            "pub_year": "2009",
+            "citation": "Cell 139 (6), 1170-1179, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17748888405182137277",
+        "cites_id": [
+            "17748888405182137277"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Weather and seasons together demand complex biological clocks",
+            "pub_year": "2009",
+            "citation": "Current Biology 19 (22), 1961-1964, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 115,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1360320319602384056",
+        "cites_id": [
+            "1360320319602384056"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coordination of robust single cell rhythms in the Arabidopsis circadian clock via spatial waves of gene expression",
+            "pub_year": "2018",
+            "citation": "Elife 7, e31700, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:-f6ydRqryjwC",
+        "num_citations": 91,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14677954800664167450",
+        "cites_id": [
+            "14677954800664167450"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global parameter search reveals design principles of the mammalian circadian clock",
+            "pub_year": "2008",
+            "citation": "BMC systems biology 2, 1-9, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16857619672438060867",
+        "cites_id": [
+            "16857619672438060867"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light inputs shape the Arabidopsis circadian system",
+            "pub_year": "2011",
+            "citation": "The Plant Journal 66 (3), 480-491, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8675321812993963357",
+        "cites_id": [
+            "8675321812993963357"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fluctuations of the transcription factor ATML1 generate the pattern of giant cells in the Arabidopsis sepal",
+            "pub_year": "2017",
+            "citation": "Elife 6, e19131, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7309749025877203765",
+        "cites_id": [
+            "7309749025877203765"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Metal hydride switchable mirrors: Factors influencing dynamic range and stability",
+            "pub_year": "2006",
+            "citation": "Solar Energy Materials and Solar Cells 90 (4), 485-490, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15022963927864076220",
+        "cites_id": [
+            "15022963927864076220"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Escherichia coli can survive stress by noisy growth modulation",
+            "pub_year": "2018",
+            "citation": "Nature communications 9 (1), 5333, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:mB3voiENLucC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7381121355263708776",
+        "cites_id": [
+            "7381121355263708776"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developmental mechanisms underlying variable, invariant and plastic phenotypes",
+            "pub_year": "2016",
+            "citation": "Annals of botany 117 (5), 733-748, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:4TOpqqG69KYC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3565326427616016955",
+        "cites_id": [
+            "3565326427616016955"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Widespread inter\u2010individual gene expression variability in Arabidopsis thaliana",
+            "pub_year": "2019",
+            "citation": "Molecular systems biology 15 (1), e8591, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2643360671415845379",
+        "cites_id": [
+            "2643360671415845379"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell size control driven by the circadian clock and environment in cyanobacteria",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (48), E11415-E11424, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:IWHjjKOFINEC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13924111000834490350",
+        "cites_id": [
+            "13924111000834490350"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coordinated circadian timing through the integration of local inputs in Arabidopsis thaliana",
+            "pub_year": "2019",
+            "citation": "PLoS biology 17 (8), e3000407, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:BqipwSGYUEgC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14064037726242394746",
+        "cites_id": [
+            "14064037726242394746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isoform switching facilitates period control in the Neurospora crassa circadian clock",
+            "pub_year": "2008",
+            "citation": "Molecular Systems Biology 4 (1), 164, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13697765673539841962",
+        "cites_id": [
+            "13697765673539841962"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular time sharing through dynamic pulsing in single cells",
+            "pub_year": "2018",
+            "citation": "Cell systems 6 (2), 216-229. e15, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5902948386387324768",
+        "cites_id": [
+            "5902948386387324768"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inheritance of cell-cycle duration in the presence of periodic forcing",
+            "pub_year": "2018",
+            "citation": "Physical Review X 8 (2), 021035, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13053105841412533523",
+        "cites_id": [
+            "13053105841412533523"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Frequency doubling in the cyanobacterial circadian clock",
+            "pub_year": "2016",
+            "citation": "Molecular Systems Biology 12 (12), 896, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:aqlVkmm33-oC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8679113687828292512",
+        "cites_id": [
+            "8679113687828292512"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Does gene expression noise play a functional role in plants?",
+            "pub_year": "2020",
+            "citation": "Trends in plant science 25 (10), 1041-1051, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:70eg2SAEIzsC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10680168100174330283",
+        "cites_id": [
+            "10680168100174330283"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reducing the complexity of mathematical models for the plant circadian clock by distributed delays",
+            "pub_year": "2019",
+            "citation": "Journal of Theoretical Biology 463, 155-166, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14369049196102330091",
+        "cites_id": [
+            "14369049196102330091"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stochastic pulsing of gene expression enables the generation of spatial patterns in Bacillus subtilis biofilms",
+            "pub_year": "2020",
+            "citation": "Nature communications 11 (1), 950, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14239190087370211362",
+        "cites_id": [
+            "14239190087370211362"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The circadian clock coordinates plant development through specificity at the tissue and cellular level",
+            "pub_year": "2020",
+            "citation": "Current Opinion in Plant Biology 53, 65-72, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3025666890157086429",
+        "cites_id": [
+            "3025666890157086429"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An ABA-GA bistable switch can account for natural variation in the variability of Arabidopsis seed germination time",
+            "pub_year": "2021",
+            "citation": "Elife 10, e59485, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8897855679309005314",
+        "cites_id": [
+            "8897855679309005314"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interpretation of morphogen gradients by a synthetic bistable circuit",
+            "pub_year": "2020",
+            "citation": "Nature communications 11 (1), 5545, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3028849077718337196",
+        "cites_id": [
+            "3028849077718337196"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Co-expression networks from gene expression variability between genetically identical seedlings can reveal novel regulatory relationships",
+            "pub_year": "2020",
+            "citation": "Frontiers in plant science 11, 599464, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:ldfaerwXgEUC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17224041746856039300",
+        "cites_id": [
+            "17224041746856039300"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tunable phenotypic variability through an autoregulatory alternative sigma factor circuit",
+            "pub_year": "2021",
+            "citation": "Molecular Systems Biology 17 (7), e9832, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:M05iB0D1s5AC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1242096460395803321",
+        "cites_id": [
+            "1242096460395803321"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How bacteria choose a lifestyle",
+            "pub_year": "2013",
+            "citation": "Nature 503 (7477), 476-477, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:5nxA0vEk-isC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13479652228882678774",
+        "cites_id": [
+            "13479652228882678774"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatially specific mechanisms and functions of the plant circadian clock",
+            "pub_year": "2022",
+            "citation": "Plant Physiology 190 (2), 938-951, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:yD5IFk8b50cC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=249681464152875743",
+        "cites_id": [
+            "249681464152875743"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A spatial model of the plant circadian clock reveals design principles for coordinated timing",
+            "pub_year": "2022",
+            "citation": "Molecular Systems Biology 18 (3), e10140, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10539046168274335505",
+        "cites_id": [
+            "10539046168274335505"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cut the noise or couple up: Coordinating circadian and synthetic clocks",
+            "pub_year": "2021",
+            "citation": "Iscience 24 (9), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15151171771322685536",
+        "cites_id": [
+            "15151171771322685536"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell size control driven by the circadian clock and environment in cyanobacteria",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 183558, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6963660565041559170",
+        "cites_id": [
+            "6963660565041559170"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A spatial model of the plant circadian clock reveals design principles for coordinated timing under noisy environments",
+            "pub_year": "2020",
+            "citation": "BioRxiv, 2020.09. 13.294785, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16769162655921015781",
+        "cites_id": [
+            "16769162655921015781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correlations of single-cell division times with and without periodic forcing",
+            "pub_year": "2017",
+            "citation": "arXiv preprint arXiv:1710.00349, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:qUcmZB5y_30C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=391806453908267394",
+        "cites_id": [
+            "391806453908267394"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High Spatial Resolution Luciferase Imaging of the Arabidopsis thaliana Circadian Clock",
+            "pub_year": "2022",
+            "citation": "Plant Circadian Networks: Methods and Protocols, 47-55, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10168510091301637355",
+        "cites_id": [
+            "10168510091301637355"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Noisy transcription under the spotlight",
+            "pub_year": "2021",
+            "citation": "Nature Plants 7 (8), 996-997, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:u_35RYKgDlwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10364628238867615075",
+        "cites_id": [
+            "10364628238867615075"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanistic modelling of flowering regulators based on molecular data",
+            "pub_year": "2006",
+            "citation": "Comparative Biochemistry and Physiology-Part A: Molecular & Integrative \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:roLk4NBRz8UC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17815019421650317656",
+        "cites_id": [
+            "17815019421650317656"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The \u03c3B alternative sigma factor circuit modulates noise to generate different types of pulsing dynamics",
+            "pub_year": "2023",
+            "citation": "PLOS Computational Biology 19 (8), e1011265, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The alternative sigma factor RpoD4 pulses at division and links the circadian clock and the cell cycle in Synechococcus elongatus",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.06. 28.546855, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Research data supporting Cell size control driven by the circadian clock and environment in cyanobacteria",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:RGFaLdJalmkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Research Data supporting Coordination of robust single cell rhythms in the Arabidopsis circadian clock via spatial waves of gene expression",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Research data supporting\" Nitrate modulates stem cell dynamics in Arabidopsis shoot meristems through cytokinins\"",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:TFP_iSt0sucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional phenotypic variability via growth rate mediated feedback in Escherichia coli",
+            "pub_year": "2017",
+            "citation": "EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS 46, S136-S136, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:HDshCWvjkbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A systems biology approach to the Arabidopsis circadian clock",
+            "pub_year": "2006",
+            "citation": "University of Warwick, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identifying genetic networks in noisy and varied experimental data: The circadian clock in Arabidopsis thaliana",
+            "pub_year": "2004",
+            "citation": "APS March Meeting Abstracts 2004, N8. 004, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:WF5omc3nYNoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural variation in ELF3 controls thermoresponsive growth in Arabidopsis",
+            "citation": "CURRENT-BIOLOGY 500, 14-00888R1, 0"
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:maZDTaKrznsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Place in the Sun: Creating bespoke spectral recipes using a simple LED Array",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:TQgYirikUcIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplemental Information ELF3 Controls Thermoresponsive Growth in Arabidopsis",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "U6GUf8YAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 0
+    }
+]

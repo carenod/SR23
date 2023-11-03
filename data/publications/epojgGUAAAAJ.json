@@ -1,0 +1,2124 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Demonstration of CRISPR/Cas9/sgRNA-mediated targeted gene modification in Arabidopsis, tobacco, sorghum and rice",
+            "pub_year": "2013",
+            "citation": "Nucleic acids research 41 (20), e188-e188, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 1445,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5825604496095747275",
+        "cites_id": [
+            "5825604496095747275"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-efficiency TALEN-based gene editing produces disease-resistant rice",
+            "pub_year": "2012",
+            "citation": "Nature biotechnology 30 (5), 390-392, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 1265,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16159135781342275055",
+        "cites_id": [
+            "16159135781342275055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TAL nucleases (TALNs): hybrid proteins composed of TAL effectors and FokI DNA-cleavage domain",
+            "pub_year": "2011",
+            "citation": "Nucleic acids research 39 (1), 359-372, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 789,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7339584611741343489",
+        "cites_id": [
+            "7339584611741343489"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "R gene expression induced by a type-III effector triggers disease resistance in rice",
+            "pub_year": "2005",
+            "citation": "Nature 435 (7045), 1122-1125, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 731,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1133916363761685741",
+        "cites_id": [
+            "1133916363761685741"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Os8N3 is a host disease-susceptibility gene for bacterial blight of rice",
+            "pub_year": "2006",
+            "citation": "Proceedings of the National Academy of Sciences 103 (27), 10503-10508, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 656,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3986370554683632280",
+        "cites_id": [
+            "3986370554683632280"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large chromosomal deletions and heritable small genetic changes induced by CRISPR/Cas9 in rice",
+            "pub_year": "2014",
+            "citation": "Nucleic Acids Research 42 (17), 10903-10914, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:5nxA0vEk-isC",
+        "num_citations": 639,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5013117550460119117",
+        "cites_id": [
+            "5013117550460119117"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modularly assembled designer TAL effector nucleases for targeted gene knockout and gene replacement in eukaryotes",
+            "pub_year": "2011",
+            "citation": "Nucleic acids research 39 (14), 6315-6325, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 639,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9685695015058316391",
+        "cites_id": [
+            "9685695015058316391"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rice xa13 Recessive Resistance to Bacterial Blight Is Defeated by Induction of the Disease Susceptibility Gene Os-11N3",
+            "pub_year": "2010",
+            "citation": "The plant cell 22 (11), 3864-3876, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:ufrVoPGSRksC",
+        "num_citations": 492,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=189901917791595095",
+        "cites_id": [
+            "189901917791595095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene targeting by the TAL effector PthXo2 reveals cryptic resistance gene for bacterial blight of rice",
+            "pub_year": "2015",
+            "citation": "The Plant Journal 82 (4), 632-643, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:X4-KO54GjGYC",
+        "num_citations": 452,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12703081040939092373",
+        "cites_id": [
+            "12703081040939092373"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Broad-spectrum resistance to bacterial blight in rice using genome editing",
+            "pub_year": "2019",
+            "citation": "Nature biotechnology 37 (11), 1344-1350, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:Nw_I7GeUguwC",
+        "num_citations": 450,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13201698382944769212",
+        "cites_id": [
+            "13201698382944769212"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport",
+            "pub_year": "2015",
+            "citation": "Nature genetics 47 (12), 1489-1493, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:sbeIDTyQOFgC",
+        "num_citations": 360,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302",
+        "cites_id": [
+            "14940779386657346302"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Agrobacterium\u2010delivered CRISPR/Cas9 system for high\u2010frequency targeted mutagenesis in maize",
+            "pub_year": "2017",
+            "citation": "Plant biotechnology journal 15 (2), 257-268, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:oursBaop5wYC",
+        "num_citations": 324,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7508554862221578896",
+        "cites_id": [
+            "7508554862221578896"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lateral organ boundaries 1 is a disease susceptibility gene for citrus bacterial canker disease",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (4), E521-E529, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:8k81kl-MbHgC",
+        "num_citations": 306,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6705928606792009861",
+        "cites_id": [
+            "6705928606792009861"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A male-expressed rice embryogenic trigger redirected for asexual propagation through seeds",
+            "pub_year": "2019",
+            "citation": "Nature 565 (7737), 91-95, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:hefNtdE4IMkC",
+        "num_citations": 302,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6677409423058806907",
+        "cites_id": [
+            "6677409423058806907"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The virulence factor AvrXa7 of Xanthomonas oryzae pv. oryzae is a type III secretion pathway-dependent nuclear-localized double-stranded DNA-binding protein",
+            "pub_year": "2000",
+            "citation": "Proceedings of the National Academy of Sciences 97 (17), 9807-9812, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:qjMakFHDy7sC",
+        "num_citations": 290,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7515155095909132816",
+        "cites_id": [
+            "7515155095909132816"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The regulatory status of genome\u2010edited crops",
+            "pub_year": "2016",
+            "citation": "Plant biotechnology journal 14 (2), 510-518, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:e84hm74t-eoC",
+        "num_citations": 278,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14451944287147303224",
+        "cites_id": [
+            "14451944287147303224"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two type III effector genes of Xanthomonas oryzae pv. oryzae control the induction of the host genes OsTFIIA\u03b31 and OsTFX1 during bacterial blight of rice",
+            "pub_year": "2007",
+            "citation": "Proceedings of the National Academy of Sciences 104 (25), 10720-10725, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 270,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5709655222637465371",
+        "cites_id": [
+            "5709655222637465371"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diverse members of the AvrBs3/PthA family of type III effectors are major virulence determinants in bacterial blight disease of rice",
+            "pub_year": "2004",
+            "citation": "Molecular plant-microbe interactions 17 (11), 1192-1200, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 252,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4932321077551718902",
+        "cites_id": [
+            "4932321077551718902"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prospects for understanding avirulence gene function",
+            "pub_year": "2000",
+            "citation": "Current opinion in plant biology 3 (4), 291-298, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 248,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9095207825656113042",
+        "cites_id": [
+            "9095207825656113042"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Highly efficient A\u00b7 T to G\u00b7 C base editing by Cas9n-guided tRNA adenosine deaminase in rice",
+            "pub_year": "2018",
+            "citation": "Molecular plant 11 (4), 631-634, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:Oo1CbQkBAzEC",
+        "num_citations": 245,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10636900459715722311",
+        "cites_id": [
+            "10636900459715722311"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Host and Pathogen Factors Controlling the Rice-Xanthomonas oryzae Interaction",
+            "pub_year": "2009",
+            "citation": "Plant physiology 150 (4), 1677-1686, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:WF5omc3nYNoC",
+        "num_citations": 245,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1202823561651364317",
+        "cites_id": [
+            "1202823561651364317"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of designer nucleases for targeted gene and genome editing in plants",
+            "pub_year": "2016",
+            "citation": "Plant Biotechnology Journal 14 (2), 483-495, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:SpPTWFSNUtQC",
+        "num_citations": 238,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10966816339395162706",
+        "cites_id": [
+            "10966816339395162706"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AvrXa10 contains an acidic transcriptional activation domain in the functionally conserved C terminus",
+            "pub_year": "1998",
+            "citation": "Molecular Plant-Microbe Interactions 11 (8), 824-832, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 235,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12785384185463596157",
+        "cites_id": [
+            "12785384185463596157"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient CRISPR/Cas9-mediated gene editing in Arabidopsis thaliana and inheritance of modified genes in the T2 and T3 generations",
+            "pub_year": "2014",
+            "citation": "PloS one 9 (6), e99225, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 231,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4476411514091040340",
+        "cites_id": [
+            "4476411514091040340"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "XA23 is an executor R protein and confers broad-spectrum disease resistance in rice",
+            "pub_year": "2015",
+            "citation": "Molecular plant 8 (2), 290-302, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:uAPFzskPt0AC",
+        "num_citations": 226,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6543652342673158512",
+        "cites_id": [
+            "6543652342673158512"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SWEET 11 and 15 as key players in seed filling in rice",
+            "pub_year": "2018",
+            "citation": "New Phytologist 218 (2), 604-615, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:yJjnfzR0HrkC",
+        "num_citations": 176,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15991925570522116602",
+        "cites_id": [
+            "15991925570522116602"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sugar flux and signaling in plant\u2013microbe interactions",
+            "pub_year": "2018",
+            "citation": "The Plant Journal 93 (4), 675-685, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:w2UhwfzvF0QC",
+        "num_citations": 161,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2513688395517242035",
+        "cites_id": [
+            "2513688395517242035"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of an Agrobacterium\u2010delivered CRISPR/Cas9 system for wheat genome editing",
+            "pub_year": "2019",
+            "citation": "Plant biotechnology journal 17 (8), 1623-1635, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:7VEv-pLvLSsC",
+        "num_citations": 154,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4046126655752879970",
+        "cites_id": [
+            "4046126655752879970"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heritable site\u2010specific mutagenesis using TALEN s in maize",
+            "pub_year": "2015",
+            "citation": "Plant biotechnology journal 13 (7), 1002-1010, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:V_vSwabWVtYC",
+        "num_citations": 150,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4782183606114523081",
+        "cites_id": [
+            "4782183606114523081"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Code-assisted discovery of TAL effector targets in bacterial leaf streak of rice reveals contrast with bacterial blight and a novel susceptibility gene",
+            "pub_year": "2014",
+            "citation": "PLoS Pathogens 10 (2), e1003972, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17660991884058641776",
+        "cites_id": [
+            "17660991884058641776"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TALEN-mediated genome editing: prospects and perspectives",
+            "pub_year": "2014",
+            "citation": "Biochemical Journal 462 (1), 15-24, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 141,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10260857106175794788",
+        "cites_id": [
+            "10260857106175794788"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The unfolded protein response triggers site-specific regulatory ubiquitylation of 40S ribosomal proteins",
+            "pub_year": "2015",
+            "citation": "Molecular cell 59 (1), 35-49, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:ufKn5pxu7C0C",
+        "num_citations": 140,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2860025243771312546",
+        "cites_id": [
+            "2860025243771312546"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interfering TAL effectors of Xanthomonas oryzae neutralize R-gene-mediated plant disease resistance",
+            "pub_year": "2016",
+            "citation": "Nature communications 7 (1), 13435, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:DQNrXyjhriIC",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16032420773694864071",
+        "cites_id": [
+            "16032420773694864071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impaired phloem loading in zmsweet13a,b,c sucrose transporter triple knock\u2010out mutants in Zea mays",
+            "pub_year": "2018",
+            "citation": "New phytologist 218 (2), 594-603, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:qCpRzq7zkD8C",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785166453508429204",
+        "cites_id": [
+            "9785166453508429204"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutagenesis of 18 type III effectors reveals virulence function of XopZPXO99 in Xanthomonas oryzae pv. oryzae",
+            "pub_year": "2010",
+            "citation": "Molecular plant-microbe interactions 23 (7), 893-902, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:roLk4NBRz8UC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16857019690250348408",
+        "cites_id": [
+            "16857019690250348408"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Avoidance of Host Recognition by Alterations in the Repetitive and C-Terminal Regions of AvrXa7, a Type III Effector of Xanthomonas oryzae pv. oryzae",
+            "pub_year": "2005",
+            "citation": "Molecular plant-microbe interactions 18 (2), 142-149, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1455623437041054799",
+        "cites_id": [
+            "1455623437041054799"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A quick guide to CRISPR sgRNA design tools",
+            "pub_year": "2015",
+            "citation": "GM crops & food 6 (4), 266-276, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:0ngZmJvimKcC",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11140896869287850262",
+        "cites_id": [
+            "11140896869287850262"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New variants of CRISPR RNA\u2010guided genome editing enzymes",
+            "pub_year": "2017",
+            "citation": "Plant biotechnology journal 15 (8), 917-926, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:gV6rEsy15s0C",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13192754164778364902",
+        "cites_id": [
+            "13192754164778364902"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant microRNAs display differential 3\u2032 truncation and tailing modifications that are ARGONAUTE1 dependent and conserved across species",
+            "pub_year": "2013",
+            "citation": "The Plant Cell 25 (7), 2417-2428, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:Zph67rFs4hoC",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13692325972684831367",
+        "cites_id": [
+            "13692325972684831367"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell RNA sequencing of developing maize ears facilitates functional analysis and trait candidate gene discovery",
+            "pub_year": "2021",
+            "citation": "Developmental cell 56 (4), 557-568. e6, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:sJK75vZXtG0C",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13180484491743248343",
+        "cites_id": [
+            "13180484491743248343"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The C terminus of AvrXa10 can be replaced by the transcriptional activation domain of VP16 from the herpes simplex virus",
+            "pub_year": "1999",
+            "citation": "The Plant Cell 11 (9), 1665-1674, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16845410932997397480",
+        "cites_id": [
+            "16845410932997397480"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nuclease activity of TAL effector and FokI fusion protein",
+            "pub_year": "2011",
+            "citation": "US Patent App. 13/025,305, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:oqD4_j7ulsYC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17225735578354371247",
+        "cites_id": [
+            "17225735578354371247"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TALEN-mediated homologous recombination produces site-directed DNA base change and herbicide-resistant rice",
+            "pub_year": "2016",
+            "citation": "Journal of Genetics and Genomics 43 (5), 297-305, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:ukw-9cB-YDkC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4402641206157325866",
+        "cites_id": [
+            "4402641206157325866"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The application of synthetic biology to elucidation of plant mono-, sesqui-, and diterpenoid metabolism",
+            "pub_year": "2015",
+            "citation": "Molecular plant 8 (1), 6-16, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:RfUwGJFMQ-0C",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9332104241267126294",
+        "cites_id": [
+            "9332104241267126294"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Designer TAL effectors induce disease susceptibility and resistance to Xanthomonas oryzae pv. oryzae in rice",
+            "pub_year": "2013",
+            "citation": "Molecular Plant 6 (3), 781-789, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:Se3iqnhoufwC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13328942490632450030",
+        "cites_id": [
+            "13328942490632450030"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The SCAR/WAVE complex polarizes PAN receptors and promotes division asymmetry in maize",
+            "pub_year": "2015",
+            "citation": "Nature Plants 1 (2), 1-8, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:v_xunPV0uK0C",
+        "num_citations": 91,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6440193968232636527",
+        "cites_id": [
+            "6440193968232636527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diagnostic kit for rice blight resistance",
+            "pub_year": "2019",
+            "citation": "Nature biotechnology 37 (11), 1372-1379, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:Tfl4UtY-dJUC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14150292265891285833",
+        "cites_id": [
+            "14150292265891285833"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of the hrpF pathogenicity peninsula of Xanthomonas oryzae pv. oryzae",
+            "pub_year": "2005",
+            "citation": "Molecular plant-microbe interactions 18 (6), 546-554, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16583530056561079940",
+        "cites_id": [
+            "16583530056561079940"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Investigation of the chemical interface in the soybean\u2013aphid and rice\u2013bacteria interactions using MALDI-mass spectrometry imaging",
+            "pub_year": "2015",
+            "citation": "Analytical chemistry 87 (10), 5294-5301, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:cNe27ouKFcQC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12872817010576063305",
+        "cites_id": [
+            "12872817010576063305"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The maize heterotrimeric G protein \u03b2 subunit controls shoot meristem development and immune responses",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (3), 1799-1805, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:Gpwnp1kGG20C",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16131796070741717268",
+        "cites_id": [
+            "16131796070741717268"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeted mutagenesis in tetraploid switchgrass (Panicum virgatum L.) using CRISPR/Cas9",
+            "pub_year": "2018",
+            "citation": "Plant biotechnology journal 16 (2), 381-393, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:PVqtIyvKoSUC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4974149631868149532",
+        "cites_id": [
+            "4974149631868149532"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiple genes recruited from hormone pathways partition maize diterpenoid defences",
+            "pub_year": "2019",
+            "citation": "Nature Plants 5 (10), 1043-1056, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:nWoA1JPTheMC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2594437929148204609",
+        "cites_id": [
+            "2594437929148204609"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TALE activation of endogenous genes in Chlamydomonas reinhardtii",
+            "pub_year": "2014",
+            "citation": "Algal Research 5, 52-60, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:yIeBiWEAh44C",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9328582390982414685",
+        "cites_id": [
+            "9328582390982414685"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The broadly effective recessive resistance gene xa5 of rice is a virulence effector\u2010dependent quantitative trait for bacterial blight",
+            "pub_year": "2016",
+            "citation": "The Plant Journal 86 (2), 186-194, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:MDX3w3dAD3YC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17790337553955933230",
+        "cites_id": [
+            "17790337553955933230"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Considerations in adapting CRISPR/Cas9 in nongenetic model plant systems",
+            "pub_year": "2020",
+            "citation": "Applications in Plant Sciences 8 (1), e11314, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:T8_be82Iz5gC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15481190687957305307",
+        "cites_id": [
+            "15481190687957305307"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Translational genomics of grain size regulation in wheat",
+            "pub_year": "2017",
+            "citation": "Theoretical and Applied Genetics 130, 1765-1771, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:sgsej9ZJWHMC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8997031300518098763",
+        "cites_id": [
+            "8997031300518098763"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic elucidation of interconnected antibiotic pathways mediating maize innate immunity",
+            "pub_year": "2020",
+            "citation": "Nature plants 6 (11), 1375-1388, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:ShjGdcaqzI0C",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7938353074254182257",
+        "cites_id": [
+            "7938353074254182257"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Xa1 allelic R genes activate rice blight resistance suppressed by interfering TAL effectors",
+            "pub_year": "2020",
+            "citation": "Plant Communications, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:cB__R-XWw9UC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4832484703302343939",
+        "cites_id": [
+            "4832484703302343939"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inferring roles in defense from metabolic allocation of rice diterpenoids",
+            "pub_year": "2018",
+            "citation": "The Plant Cell 30 (5), 1119-1131, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:rqnDXT1GswoC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8810386134831633713",
+        "cites_id": [
+            "8810386134831633713"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inoculation and virulence assay for bacterial blight and bacterial leaf streak of rice",
+            "pub_year": "2013",
+            "citation": "Rice Protocols, 249-255, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:qsWQJNntlusC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14842609042890584355",
+        "cites_id": [
+            "14842609042890584355"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Agrobacterium\u2010delivered CRISPR/Cas9 system for targeted mutagenesis in sorghum",
+            "pub_year": "2020",
+            "citation": "Plant Biotechnology Journal 18 (2), 319, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:8uzoZH4hB9AC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11976015914865819792",
+        "cites_id": [
+            "11976015914865819792"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRISPR/Cas9-based gene editing using egg cell-specific promoters in Arabidopsis and soybean",
+            "pub_year": "2020",
+            "citation": "Frontiers in Plant Science 11, 800, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:rFyVMFCKTwsC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8316586384626959189",
+        "cites_id": [
+            "8316586384626959189"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The broad bacterial blight resistance of rice line CBB23 is triggered by a novel transcription activator\u2010like (TAL) effector of Xanthomonas oryzae pv. oryzae",
+            "pub_year": "2014",
+            "citation": "Molecular plant pathology 15 (4), 333-341, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10868118924260527837",
+        "cites_id": [
+            "10868118924260527837"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene editing with TALEN and CRISPR/Cas in rice",
+            "pub_year": "2017",
+            "citation": "Progress in molecular biology and translational science 149, 81-98, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:tBlTYpvFGQIC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9110978565665263863",
+        "cites_id": [
+            "9110978565665263863"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using the ubiquitin-modified proteome to monitor distinct and spatially restricted protein homeostasis dysfunction",
+            "pub_year": "2016",
+            "citation": "Molecular & cellular proteomics 15 (8), 2576-2593, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:SWgZeABleR0C",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12311835607213015173",
+        "cites_id": [
+            "12311835607213015173"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TAL effector nuclease (TALEN) engineering",
+            "pub_year": "2013",
+            "citation": "Enzyme Engineering: Methods and Protocols, 63-72, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:UebtZRa9Y70C",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7730928855449097252",
+        "cites_id": [
+            "7730928855449097252"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of CRISPR/Cas9 to Tragopogon (Asteraceae), an evolutionary model for the study of polyploidy",
+            "pub_year": "2018",
+            "citation": "Molecular Ecology Resources 18 (6), 1427-1443, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:CMvovTBb2okC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5789976400372820640",
+        "cites_id": [
+            "5789976400372820640"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interdependent evolution of biosynthetic gene clusters for momilactone production in rice",
+            "pub_year": "2021",
+            "citation": "The Plant Cell 33 (2), 290-305, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:zzCxg_vo7cAC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10238413304541434314",
+        "cites_id": [
+            "10238413304541434314"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Xa7 resistance gene guards the rice susceptibility gene SWEET14 against exploitation by the bacterial blight pathogen",
+            "pub_year": "2021",
+            "citation": "Plant communications 2 (3), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:eFf2swCANGcC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10969969940044389755",
+        "cites_id": [
+            "10969969940044389755"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A CRISPR/Cas9\u2010based genome\u2010editing system for yam (Dioscorea spp.)",
+            "pub_year": "2021",
+            "citation": "Plant Biotechnology Journal 19 (4), 645, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:oYLFIHfuHKwC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9165609283767112331",
+        "cites_id": [
+            "9165609283767112331"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Disruption of miRNA sequences by TALENs and CRISPR/Cas9 induces varied lengths of miRNA production",
+            "pub_year": "2020",
+            "citation": "Plant Biotechnology Journal 18 (7), 1526-1536, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:3vbIHxFL9FgC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1921506272625238764",
+        "cites_id": [
+            "1921506272625238764"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Achieving plant genome editing while bypassing tissue culture",
+            "pub_year": "2020",
+            "citation": "Trends in plant science 25 (5), 427-429, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:9LpHyFPp1DQC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7542111070095482722",
+        "cites_id": [
+            "7542111070095482722"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping the mammalian ribosome quality control complex interactome using proximity labeling approaches",
+            "pub_year": "2018",
+            "citation": "Molecular biology of the cell 29 (10), 1258-1269, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:8p8iYwVyaVcC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13983909601306558486",
+        "cites_id": [
+            "13983909601306558486"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TALEN utilization in rice genome modifications",
+            "pub_year": "2014",
+            "citation": "Methods 69 (1), 9-16, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:4n0clTBhZ78C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10862472858588845569",
+        "cites_id": [
+            "10862472858588845569"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential activities of maize plant elicitor peptides as mediators of immune signaling and herbivore resistance",
+            "pub_year": "2020",
+            "citation": "The Plant Journal 104 (6), 1582-1602, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:wBLCggQE-ToC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3671377641166038035",
+        "cites_id": [
+            "3671377641166038035"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Non-TAL Effectors From Xanthomonas oryzae pv. oryzae Suppress Peptidoglycan-Triggered MAPK Activation in Rice",
+            "pub_year": "2018",
+            "citation": "Frontiers in Plant Science 9, 1857, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:DquSII9TDu4C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13348888165446753836",
+        "cites_id": [
+            "13348888165446753836"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant biosystems design research roadmap 1.0",
+            "pub_year": "2020",
+            "citation": "BioDesign Research, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:ojlX30-wUrgC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4816092536155590838",
+        "cites_id": [
+            "4816092536155590838"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-efficiency plastome base editing in rice with TAL cytosine deaminase",
+            "pub_year": "2021",
+            "citation": "Molecular Plant 14 (9), 1412-1414, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:GJVTs2krol4C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9477280681052502472",
+        "cites_id": [
+            "9477280681052502472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complete genome sequence of the African strain AXO1947 of Xanthomonas oryzae pv. oryzae",
+            "pub_year": "2016",
+            "citation": "Genome announcements 4 (1), 10.1128/genomea. 01730-15, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:X5YyAB84Iw4C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16545196430998847893",
+        "cites_id": [
+            "16545196430998847893"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A (conditional) role for labdane\u2010related diterpenoid natural products in rice stomatal closure",
+            "pub_year": "2021",
+            "citation": "New phytologist 230 (2), 698-709, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:a2necdfpwlEC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5210719522810423593",
+        "cites_id": [
+            "5210719522810423593"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRISPR\u2010induced miRNA156\u2010recognition element mutations in TaSPL13 improve multiple agronomic traits in wheat",
+            "pub_year": "2023",
+            "citation": "Plant Biotechnology Journal 21 (3), 536-548, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:nU66GSXDKhoC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17000014701312984434",
+        "cites_id": [
+            "17000014701312984434"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Grand challenges in genome editing in plants",
+            "pub_year": "2020",
+            "citation": "Frontiers in Genome Editing 2, 2, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:3MwzVuqRcA0C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2699411101796436912",
+        "cites_id": [
+            "2699411101796436912"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OsSWEET11b, a potential sixth leaf blight susceptibility gene involved in sugar transport\u2010dependent male fertility",
+            "pub_year": "2022",
+            "citation": "New Phytologist 234 (3), 975-989, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:wkm4DBaukwsC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3940956722299727995",
+        "cites_id": [
+            "3940956722299727995"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of CRISPR/Cas9 for targeted mutagenesis in sorghum",
+            "pub_year": "2020",
+            "citation": "Current Protocols in Plant Biology 5 (2), e20112, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:S2WlVNSe3u4C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9560395881928118744",
+        "cites_id": [
+            "9560395881928118744"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The specific responses of Acari community to Bt cotton cultivation in agricultural soils in northern China",
+            "pub_year": "2013",
+            "citation": "Applied soil ecology 66, 1-7, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:4oJvMfeQlr8C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16780835128921990709",
+        "cites_id": [
+            "16780835128921990709"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dissecting the labdane\u2010related diterpenoid biosynthetic gene clusters in rice reveals directional cross\u2010cluster phytotoxicity",
+            "pub_year": "2022",
+            "citation": "New Phytologist 233 (2), 878-889, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:CCeGMaHljPEC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6129297065036432218",
+        "cites_id": [
+            "6129297065036432218"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional Analysis of the teosinte branched 1 Gene in the Tetraploid Switchgrass (Panicum virgatum L.) by CRISPR/Cas9-Directed Mutagenesis",
+            "pub_year": "2020",
+            "citation": "Frontiers in Plant Science 11, 572193, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:Nufq_to8ts0C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8896254544916373317",
+        "cites_id": [
+            "8896254544916373317"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome editing in grass plants",
+            "pub_year": "2019",
+            "citation": "aBIOTECH 1 (1), 1-17, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:inmFHauC9wsC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=754180721658564420",
+        "cites_id": [
+            "754180721658564420"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRISPR/Cas9 for mutagenesis in rice",
+            "pub_year": "2019",
+            "citation": "Transgenic Plants: Methods and Protocols, 279-293, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:cRMvf6lLvU8C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3887618343764278104",
+        "cites_id": [
+            "3887618343764278104"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulatory aspects of genome-edited crops",
+            "pub_year": "2016",
+            "citation": "In Vitro Cellular & Developmental Biology-Plant 52, 349-353, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:u3T1itk59dMC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=714703343302181871",
+        "cites_id": [
+            "714703343302181871"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Agrobacterium-Mediated CRISPR/Cas9 Platform for Genome Editing in Maize",
+            "pub_year": "2019",
+            "citation": "Plant Genome Editing with CRISPR Systems: Methods and Protocols, 121-143, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:j5aT6aphRxQC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16624716903366408587",
+        "cites_id": [
+            "16624716903366408587"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rice diterpenoid phytoalexins are involved in defence against parasitic nematodes and shape rhizosphere nematode communities",
+            "pub_year": "2022",
+            "citation": "New Phytologist 235 (3), 1231-1245, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:vD2iS2Kej30C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13728074222271072014",
+        "cites_id": [
+            "13728074222271072014"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An efficient method to clone TAL effector genes from Xanthomonas oryzae using Gibson assembly",
+            "pub_year": "2019",
+            "citation": "Molecular Plant Pathology 20 (10), 1453-1462, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:d4tt_xEv1X8C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8676827048745618081",
+        "cites_id": [
+            "8676827048745618081"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prospects of feral crop de novo redomestication",
+            "pub_year": "2022",
+            "citation": "Plant and Cell Physiology 63 (11), 1641-1653, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:NXYAu82O0W8C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13588771655170095677",
+        "cites_id": [
+            "13588771655170095677"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The SUMO ligase MMS21 profoundly influences maize development through its impact on genome activity and stability",
+            "pub_year": "2021",
+            "citation": "PLoS genetics 17 (10), e1009830, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:IT1MJ6E3JesC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8772649136577557083",
+        "cites_id": [
+            "8772649136577557083"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeted mutation of GA20ox-2 gene using CRISPR/Cas9 system generated semi-dwarf phenotype in rice",
+            "pub_year": "2020",
+            "citation": "IOP Conference Series: Earth and Environmental Science 482 (1), 012027, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:ujxm2eEBZHIC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3722522293965087574",
+        "cites_id": [
+            "3722522293965087574"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polarly localized WPR proteins interact with PAN receptors and the actin cytoskeleton during maize stomatal development",
+            "pub_year": "2023",
+            "citation": "The Plant Cell 35 (1), 469-487, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:eAUscmXIlQ8C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12149714786682113986",
+        "cites_id": [
+            "12149714786682113986"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Paternal imprinting of dosage-effect defective1 contributes to seed weight xenia in maize",
+            "pub_year": "2022",
+            "citation": "Nature Communications 13 (1), 5366, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:_9Xh93LWpsYC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4211669793748044342",
+        "cites_id": [
+            "4211669793748044342"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Creating large chromosomal deletions in rice using CRISPR/Cas9",
+            "pub_year": "2019",
+            "citation": "Plant Genome Editing with CRISPR Systems: Methods and Protocols, 47-61, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:Vztgr1qGG8IC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16009192513857314888",
+        "cites_id": [
+            "16009192513857314888"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TALEN-based genome editing in yeast",
+            "pub_year": "2015",
+            "citation": "Genetic Transformation Systems in Fungi, Volume 1, 289-307, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:lK9BDNCuzFgC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3799234691607332737",
+        "cites_id": [
+            "3799234691607332737"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resolving the rules of robustness and resilience in biology across scales",
+            "pub_year": "2021",
+            "citation": "Integrative and Comparative Biology 61 (6), 2163-2179, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:ZysSsiWj_g4C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7571005176145114874",
+        "cites_id": [
+            "7571005176145114874"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sucrose-dependence of sugar uptake, quorum sensing and virulence of the rice blight pathogen Xanthomonas oryzae pv. oryzae",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.08. 22.457195, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:B2rIPIGFPLEC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13538969733401271881",
+        "cites_id": [
+            "13538969733401271881"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prospects of genetic engineering and gene editing in yam improvement",
+            "pub_year": "2019",
+            "citation": "Plant and Animal Genome XXVII Conference (January 12-16, 2019), 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:8RAEygVn5_EC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2003474310805645017",
+        "cites_id": [
+            "2003474310805645017"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impaired phloem loading in genome-edited triple knock-out mutants of SWEET13 sucrose transporters",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 197921, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:VnuxuLaQPLMC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4108116449912311125",
+        "cites_id": [
+            "4108116449912311125"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetically modified plants with resistance to Xanthomonas and other bacterial plant pathogens",
+            "pub_year": "2017",
+            "citation": "US Patent 9,688,997, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:SrKkpNFED5gC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14780751080373126973",
+        "cites_id": [
+            "14780751080373126973"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient CRISPR-Cas9 based cytosine base editors for phytopathogenic bacteria",
+            "pub_year": "2023",
+            "citation": "Communications Biology 6 (1), 56, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:cdwqcPQS8ssC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=898997176429894526",
+        "cites_id": [
+            "898997176429894526"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Potential applications of the CRISPR/Cas technology for genetic improvement of yam (Dioscorea spp.)",
+            "pub_year": "2022",
+            "citation": "Food and Energy Security 11 (1), e330, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:zdX0sdgBH_kC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12444080540287615308",
+        "cites_id": [
+            "12444080540287615308"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Can designer indels be tailored by gene editing? can indels be customized?",
+            "pub_year": "2019",
+            "citation": "Bioessays 41 (12), 1900126, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:qPeb-qHga9sC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=27355059964679141",
+        "cites_id": [
+            "27355059964679141"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop dominance exerts specific effects on foliage\u2010dwelling arthropods in Bacillus thuringiensis cotton",
+            "pub_year": "2015",
+            "citation": "Agricultural and Forest Entomology 17 (3), 225-238, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:htyGaKyDgHMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4861977958145451364",
+        "cites_id": [
+            "4861977958145451364"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The alternate major effector AvrXa7 in bacterial blight of rice evades host resistance by targeting an alternate major host susceptibility gene",
+            "pub_year": "2009",
+            "citation": "Phytopathology 99 (6), S5-S5, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:vxA22ZmNLkoC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1541980309607545510",
+        "cites_id": [
+            "1541980309607545510"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient protein tagging and cis-regulatory element engineering via precise and directional oligonucleotide-based targeted insertion in plants",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.04. 20.537731, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:nOiSByfp82kC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2183643044631687858",
+        "cites_id": [
+            "2183643044631687858"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional Identification of the Xanthomonas oryzae pv. oryzae Type I-C CRISPR-Cas System and Its Potential in Gene Editing Application",
+            "pub_year": "2021",
+            "citation": "Frontiers in Microbiology 12, 686715, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:NZNkWSpQBv0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8320281968313482300",
+        "cites_id": [
+            "8320281968313482300"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interaction of Rice and Xanthomonas TAL Effectors",
+            "pub_year": "2018",
+            "citation": "Rice Genomics, Genetics and Breeding, 375-391, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:q1zXlPLtbUIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10004105298166656305",
+        "cites_id": [
+            "10004105298166656305"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene Editing in Plants",
+            "pub_year": "2017",
+            "citation": "Academic Press, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:CRzUtm-VnGAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10308355893107896421",
+        "cites_id": [
+            "10308355893107896421"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel comprehensive discovery approach for SUMO modified proteins",
+            "pub_year": "2014",
+            "citation": "MOLECULAR & CELLULAR PROTEOMICS 13 (8), S41-S41, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:ybfzIt2tCtgC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16656557749472486316",
+        "cites_id": [
+            "16656557749472486316"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome editing of an African elite rice variety confers resistance against endemic and emerging Xanthomonas oryzae pv. oryzae strains",
+            "pub_year": "2023",
+            "citation": "Elife 12, e84864, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:xa5BkEQK8BgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14715505181017073991",
+        "cites_id": [
+            "14715505181017073991"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High\u2010efficiency prime editing enables new strategies for broad\u2010spectrum resistance to bacterial blight of rice",
+            "pub_year": "2023",
+            "citation": "Plant Biotechnology Journal, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:GtqhT-R7ZnwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11853047016070231868",
+        "cites_id": [
+            "11853047016070231868"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic approaches to dissect plant nonhost resistance mechanisms",
+            "pub_year": "2023",
+            "citation": "Molecular Plant Pathology 24 (3), 272-283, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:1xBWf43XMUgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7355265161837022767",
+        "cites_id": [
+            "7355265161837022767"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New Genome Editing Tools and Resources: Enabling Gene Discovery and Functional Genomics",
+            "pub_year": "2021",
+            "citation": "Frontiers in Genome Editing 3, 771622, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:u0Mu_IsstPMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1081749151106701871",
+        "cites_id": [
+            "1081749151106701871"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Xa1-mediated resistance to tale-containing bacteria",
+            "pub_year": "2018",
+            "citation": "US Patent App. 15/645,072, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:hKjooKYXoHIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13816156095934505102",
+        "cites_id": [
+            "13816156095934505102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRISPR/Cas9-based Gene Editing in Rice and Maize.",
+            "pub_year": "2017",
+            "citation": "IN VITRO CELLULAR & DEVELOPMENTAL BIOLOGY-ANIMAL 53, S23-S23, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:pUxgyZctzPYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2000802780509445139",
+        "cites_id": [
+            "2000802780509445139"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TALENs: molecular scissors for site-specific genome editing in plants.",
+            "pub_year": "2012",
+            "citation": "Scientia Agricultura Sinica 45 (14), 2787-2792, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:_mQi-xiA4oYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13800040290852973846",
+        "cites_id": [
+            "13800040290852973846"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A High-Efficiency CRISPR Platform for Maize Improvement",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:AFXcoJnoRH0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10180085281657897858",
+        "cites_id": [
+            "10180085281657897858"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A dolabralexin-deficient mutant provides insight into specialized diterpenoid metabolism in maize",
+            "pub_year": "2023",
+            "citation": "Plant Physiology 192 (2), 1338-1358, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:xii_ZKWM4-0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome Editing: A Powerful Tool for Ideotype Breeding in Polypoid Grasses.",
+            "pub_year": "2019",
+            "citation": "IN VITRO CELLULAR & DEVELOPMENTAL BIOLOGY-ANIMAL 55, S17-S17, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:i91s68tWr-MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CHAPTER THREE: INFERRING ROLES IN DEFENSE FROM METABOLIC ALLOCATION RICE DITERPENOIDS",
+            "pub_year": "2018",
+            "citation": "investigation of rice diterpenoid phytoalexin biosynthesis 1001, 32, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:oAywNP-vUhwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TALEN and CRISPR-Cas9 in Rice and Disease Control",
+            "pub_year": "2015",
+            "citation": "IN VITRO CELLULAR & DEVELOPMENTAL BIOLOGY-ANIMAL 51, S15-S15, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:adHtZc2wMuEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monomer architecture of tal nuclease or zinc finger nuclease for dna modification",
+            "pub_year": "2015",
+            "citation": "US Patent App. 14/344,526, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:bXQfdp6S9ecC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of designer nucleases for targeted gene and genome editing in plants",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:XtJa11BXPS4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CHAPTER 8: Transcription Activator-Like Effectors: From Pathogenesis to Targeted Genome Editing",
+            "pub_year": "2015",
+            "citation": "Virulence Mechanisms of Plant-Pathogenic Bacteria, 149-159, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:j8pvxH-kN2QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large chromosomal deletions and heritable small genetic changes induced by CRISPR/Cas9 in rice",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:oynPyU19kbsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HIGH EFFICIENCY TALEN-BASED GENE EDITING FOR PRODUCING DISEASE RESISTANCE IN CROP PLANTS",
+            "pub_year": "2014",
+            "citation": "Function and application of TAL effectors, 124, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:NtGNdKbuCngC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TALEN and CRISPR/Cas9 for rice-genome editing",
+            "pub_year": "2014",
+            "citation": "NABC, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:l6Q3WhenKVUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CHAPTER 21: Targeting of the rice transcriptome by TAL effectors of Xanthomonas oryzae",
+            "pub_year": "2011",
+            "citation": "Genome-Enabled Analysis of Plant-Pathogen Interactions, 193-206, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:4QKQTXcH0q8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct transcriptional responses of rice to closely related vascular and non-vascular bacterial pathogens suggests mechanisms of tissue-specific pathogenesis",
+            "pub_year": "2007",
+            "citation": "PHYTOPATHOLOGY 97 (7), S84-S84, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:IHkkN1K1AlAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Finding common rules of robustness and resilience that span multiple levels of biological organization",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "epojgGUAAAAJ:urP0JZOBBUsC",
+        "num_citations": 0
+    }
+]

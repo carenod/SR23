@@ -1,0 +1,114 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wounding triggers callus formation via dynamic hormonal and transcriptional changes",
+            "pub_year": "2017",
+            "citation": "Plant physiology 175 (3), 1158-1174, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "Qal8aaUAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 212,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9326227453360684236",
+        "cites_id": [
+            "9326227453360684236"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone acetylation orchestrates wound-induced transcriptional activation and cellular reprogramming in Arabidopsis",
+            "pub_year": "2019",
+            "citation": "Communications biology 2 (1), 404, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Qal8aaUAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10933417413833959861",
+        "cites_id": [
+            "10933417413833959861"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The CLASSY family controls tissue-specific DNA methylation patterns in Arabidopsis",
+            "pub_year": "2022",
+            "citation": "Nature communications 13 (1), 244, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "Qal8aaUAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=359093679733952233",
+        "cites_id": [
+            "359093679733952233"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The SUMO E3 ligase SIZ1 negatively regulates shoot regeneration",
+            "pub_year": "2020",
+            "citation": "Plant physiology 184 (1), 330-344, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Qal8aaUAAAAJ:qjMakFHDy7sC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5661689214514330387",
+        "cites_id": [
+            "5661689214514330387"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular pathways regulating elongation of aerial plant organs: a focus on light, the circadian clock, and temperature",
+            "pub_year": "2021",
+            "citation": "The Plant Journal 105 (2), 392-420, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Qal8aaUAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17757236476893163037",
+        "cites_id": [
+            "17757236476893163037"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Warm Temperature Promotes Shoot Regeneration in Arabidopsis thaliana",
+            "pub_year": "2022",
+            "citation": "Plant and Cell Physiology 63 (5), 618-634, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "Qal8aaUAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4734292987744571778",
+        "cites_id": [
+            "4734292987744571778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone acetylation orchestrates wound-induced transcriptional activation and cellular reprogramming in Arabidopsis. Commun Biol 2: 1\u201315",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Qal8aaUAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16251533344006117307",
+        "cites_id": [
+            "16251533344006117307"
+        ]
+    }
+]

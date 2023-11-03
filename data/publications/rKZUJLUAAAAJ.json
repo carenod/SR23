@@ -1,0 +1,345 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unified rational protein engineering with sequence-based deep representation learning",
+            "pub_year": "2019",
+            "citation": "Nature methods 16 (12), 1315-1322, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 730,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2098814896437423880,14370128873026784559,3575487195609569954",
+        "cites_id": [
+            "2098814896437423880",
+            "14370128873026784559",
+            "3575487195609569954"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes function as thermosensors in Arabidopsis",
+            "pub_year": "2016",
+            "citation": "Science 354 (6314), 886-889, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 704,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=265221557585787237",
+        "cites_id": [
+            "265221557585787237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Low-N protein engineering with data-efficient deep learning",
+            "pub_year": "2021",
+            "citation": "Nature methods 18 (4), 389-396, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 251,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11253223514751386397",
+        "cites_id": [
+            "11253223514751386397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The evening complex coordinates environmental and endogenous signals in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "Nature plants 3 (7), 1-12, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 220,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12844430249881778633",
+        "cites_id": [
+            "12844430249881778633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-sequence protein structure prediction using a language model and deep learning",
+            "pub_year": "2022",
+            "citation": "Nature Biotechnology 40 (11), 1617-1623, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 165,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8493671875713078948,14657319952377422941",
+        "cites_id": [
+            "8493671875713078948",
+            "14657319952377422941"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pseudomonas syringae type III effector HopBB1 promotes host transcriptional repressor degradation to regulate phytohormone responses and virulence",
+            "pub_year": "2017",
+            "citation": "Cell host & microbe 21 (2), 156-168, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:0EnyYjriUFMC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16081646444754205733",
+        "cites_id": [
+            "16081646444754205733"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The G-Box transcriptional regulatory code in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "Plant physiology 175 (2), 628-640, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:ufrVoPGSRksC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13110322714348061262",
+        "cites_id": [
+            "13110322714348061262"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning microbial interaction networks from metagenomic count data",
+            "pub_year": "2016",
+            "citation": "Journal of Computational Biology 23 (6), 526-535, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:qjMakFHDy7sC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5483593964254516870,14777028133090899408",
+        "cites_id": [
+            "5483593964254516870",
+            "14777028133090899408"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Molecular Basis of Host Specialization in Bean Pathovars of Pseudomonas syringae",
+            "pub_year": "2012",
+            "citation": "Molecular plant-microbe interactions 25 (7), 877-888, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:5nxA0vEk-isC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16176947228247751284",
+        "cites_id": [
+            "16176947228247751284"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Toward machine-guided design of proteins",
+            "pub_year": "2018",
+            "citation": "BioRxiv, 337154, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13543259630587071666",
+        "cites_id": [
+            "13543259630587071666"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variable Suites of Non-effector Genes Are Co-regulated in the Type III Secretion Virulence Regulon across the Pseudomonas syringae Phylogeny",
+            "pub_year": "2014",
+            "citation": "PLoS pathogens 10 (1), e1003807, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3514181679202194362",
+        "cites_id": [
+            "3514181679202194362"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tradict enables accurate prediction of eukaryotic transcriptional states from 100 marker genes",
+            "pub_year": "2017",
+            "citation": "Nature communications 8 (1), 15309, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6676443976026481323,9295372580640771678",
+        "cites_id": [
+            "6676443976026481323",
+            "9295372580640771678"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biological averaging in RNA-seq",
+            "pub_year": "2013",
+            "citation": "arXiv preprint arXiv:1309.0670, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8645045735675808719",
+        "cites_id": [
+            "8645045735675808719"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What to trust in a Magnetotelluric Model",
+            "pub_year": "2004",
+            "citation": "J. Ind. Geophys. Union 8 (2), 157-171, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17085303492679374639",
+        "cites_id": [
+            "17085303492679374639"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Principles of machine learning-guided protein engineering",
+            "pub_year": "2020",
+            "citation": "Harvard University, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8606789841009580167",
+        "cites_id": [
+            "8606789841009580167"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The latent logarithm",
+            "pub_year": "2016",
+            "citation": "arXiv preprint arXiv:1605.06064, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3885715795241276526",
+        "cites_id": [
+            "3885715795241276526"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-sequence protein structure prediction using a language model and deep learning (Oct, 10.1038/s41587-022-01432-w, 2022)",
+            "pub_year": "2022",
+            "citation": "NATURE BIOTECHNOLOGY 40 (11), 1692-1692, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:_kc_bZDykSQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CumbieJasonBotanyPlantPathologyVariableSuitesNon-Effector. pdf",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes function as thermosensors in ",
+            "pub_year": "2016",
+            "citation": "American Association for the Advancement of Science, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variable Suites of Non-effector Genes Are Co-regulated in the Type III Secretion",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AMP: Assembly Matching Pursuit",
+            "pub_year": "2013",
+            "citation": "Biocomputing 2013, 175-187, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Poisson-multivariate normal hierarchical model for measuring microbial conditional independence networks from metagenomic count data",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:roLk4NBRz8UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Model Predictive Control With Obstacle Avoidance for Inertia Actuated AFM Probes Inside a Scanning Electron Microscope.................... S. Liang, M. Boudaoud, P. Morin, J \u2026",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "rKZUJLUAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 0
+    }
+]

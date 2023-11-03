@@ -1,0 +1,4060 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OrthoMCL: identification of ortholog groups for eukaryotic genomes",
+            "pub_year": "2003",
+            "citation": "Genome research 13 (9), 2178-2189, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 5811,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9816247536791701475",
+        "cites_id": [
+            "9816247536791701475"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimum information about a microarray experiment (MIAME)\u2014toward standards for microarray data",
+            "pub_year": "2001",
+            "citation": "Nature genetics 29 (4), 365-371, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:eflP2zaiRacC",
+        "num_citations": 4801,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5213571429523538995",
+        "cites_id": [
+            "5213571429523538995"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PlasmoDB: a functional genomic database for malaria parasites",
+            "pub_year": "2009",
+            "citation": "Nucleic acids research 37 (suppl_1), D539-D543, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 1182,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4544588571488155873",
+        "cites_id": [
+            "4544588571488155873"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TriTrypDB: a functional genomic resource for the Trypanosomatidae",
+            "pub_year": "2010",
+            "citation": "Nucleic acids research 38 (suppl_1), D457-D462, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:0EnyYjriUFMC",
+        "num_citations": 981,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=425498886008659265",
+        "cites_id": [
+            "425498886008659265"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OrthoMCL-DB: querying a comprehensive multi-species collection of ortholog groups",
+            "pub_year": "2006",
+            "citation": "Nucleic acids research 34 (suppl_1), D363-D368, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 952,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=911196506500602112",
+        "cites_id": [
+            "911196506500602112"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative genomics of the neglected human malaria parasite Plasmodium vivax",
+            "pub_year": "2008",
+            "citation": "Nature 455 (7214), 757-763, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:3s1wT3WcHBgC",
+        "num_citations": 945,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2968633400697848752",
+        "cites_id": [
+            "2968633400697848752"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PPAR\u03b3 and C/EBP factors orchestrate adipocyte biology via adjacent binding on a genome-wide scale",
+            "pub_year": "2008",
+            "citation": "Genes & development 22 (21), 2941-2952, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:qjMakFHDy7sC",
+        "num_citations": 868,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12759412980487875423",
+        "cites_id": [
+            "12759412980487875423"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoting coherent minimum reporting guidelines for biological and biomedical investigations: the MIBBI project",
+            "pub_year": "2008",
+            "citation": "Nature biotechnology 26 (8), 889-896, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:rO6llkc54NcC",
+        "num_citations": 600,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3512546912471141065",
+        "cites_id": [
+            "3512546912471141065"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prevention of islet allograft rejection with engineered myoblasts expressing FasL in mice",
+            "pub_year": "1996",
+            "citation": "Science 273 (5271), 109-112, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:D_sINldO8mEC",
+        "num_citations": 593,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13917435196176786400",
+        "cites_id": [
+            "13917435196176786400"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Design and implementation of microarray gene expression markup language (MAGE-ML)",
+            "pub_year": "2002",
+            "citation": "Genome biology 3 (9), 1-9, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:ZHo1McVdvXMC",
+        "num_citations": 588,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5768648980900006781",
+        "cites_id": [
+            "5768648980900006781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ToxoDB: an integrated Toxoplasma gondii database resource",
+            "pub_year": "2007",
+            "citation": "Nucleic acids research 36 (suppl_1), D553-D556, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 508,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7579519775418541255",
+        "cites_id": [
+            "7579519775418541255"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoter features related to tissue specificity as measured by Shannon entropy",
+            "pub_year": "2005",
+            "citation": "Genome biology 6 (4), 1-24, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 480,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=198628673618545183",
+        "cites_id": [
+            "198628673618545183"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using OrthoMCL to assign proteins to OrthoMCL\u2010DB groups or to cluster proteomes into new ortholog groups",
+            "pub_year": "2011",
+            "citation": "Current protocols in bioinformatics 35 (1), 6.12. 1-6.12. 19, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 460,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9469156951461172820",
+        "cites_id": [
+            "9469156951461172820"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PlasmoDB: the              Plasmodium              genome resource. A database integrating experimental and computational data",
+            "pub_year": "2003",
+            "citation": "Nucleic acids research 31 (1), 212-215, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 449,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3361131538240750547",
+        "cites_id": [
+            "3361131538240750547"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coexisting proinflammatory and antioxidative endothelial transcription profiles in a disturbed flow region of the adult porcine aorta",
+            "pub_year": "2004",
+            "citation": "Proceedings of the National Academy of Sciences 101 (8), 2482-2487, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:zA6iFVUQeVQC",
+        "num_citations": 446,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8622527363742706872",
+        "cites_id": [
+            "8622527363742706872"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative analysis of RNA-Seq alignment algorithms and the RNA-Seq unified mapper (RUM)",
+            "pub_year": "2011",
+            "citation": "Bioinformatics 27 (18), 2518-2528, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:UxriW0iASnsC",
+        "num_citations": 398,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11375052365019971124",
+        "cites_id": [
+            "11375052365019971124"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Defining the mammalian CArGome",
+            "pub_year": "2006",
+            "citation": "Genome research 16 (2), 197-207, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 381,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=611648968926378721",
+        "cites_id": [
+            "611648968926378721"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling biomedical experimental processes with OBI",
+            "pub_year": "2010",
+            "citation": "Journal of biomedical semantics 1 (1), 1-11, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:_xSYboBqXhAC",
+        "num_citations": 324,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5741017999054046792",
+        "cites_id": [
+            "5741017999054046792"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ontology for biomedical investigations",
+            "pub_year": "2016",
+            "citation": "PloS one 11 (4), e0154556, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:WZBGuue-350C",
+        "num_citations": 322,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9073086805698939095",
+        "cites_id": [
+            "9073086805698939095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "K2/Kleisli and GUS: Experiments in integrated access to genomic data sources",
+            "pub_year": "2001",
+            "citation": "IBM systems journal 40 (2), 512-531, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 303,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13089655662440226311",
+        "cites_id": [
+            "13089655662440226311"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A molecular profile of a hematopoietic stem cell niche",
+            "pub_year": "2002",
+            "citation": "Proceedings of the National Academy of Sciences 99 (20), 13061-13066, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:u_35RYKgDlwC",
+        "num_citations": 283,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=115180594429036198",
+        "cites_id": [
+            "115180594429036198"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The MGED Ontology: a resource for semantics-based description of microarray experiments",
+            "pub_year": "2006",
+            "citation": "Bioinformatics 22 (7), 866-873, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 264,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14633724235699850112",
+        "cites_id": [
+            "14633724235699850112"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FungiDB: an integrated bioinformatic resource for fungi and oomycetes",
+            "pub_year": "2018",
+            "citation": "Journal of Fungi 4 (1), 39, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:yFnVuubrUp4C",
+        "num_citations": 257,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1140902802577723366",
+        "cites_id": [
+            "1140902802577723366"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Propagation of adipogenic signals through an epigenomic transition state",
+            "pub_year": "2010",
+            "citation": "Genes & development 24 (10), 1035-1044, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 257,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1785733511217992281",
+        "cites_id": [
+            "1785733511217992281"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A simple spreadsheet-based, MIAME-supportive format for microarray data: MAGE-TAB",
+            "pub_year": "2006",
+            "citation": "BMC bioinformatics 7, 1-18, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:a0OBvERweLwC",
+        "num_citations": 256,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5258914992093689335",
+        "cites_id": [
+            "5258914992093689335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GiardiaDB and TrichDB: integrated genomic resources for the eukaryotic protist pathogens Giardia lamblia and Trichomonas vaginalis",
+            "pub_year": "2009",
+            "citation": "Nucleic acids research 37 (suppl_1), D526-D530, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:8k81kl-MbHgC",
+        "num_citations": 244,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1793531804578580553",
+        "cites_id": [
+            "1793531804578580553"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chronic endoplasmic reticulum stress activates unfolded protein response in arterial endothelium in regions of susceptibility to atherosclerosis",
+            "pub_year": "2009",
+            "citation": "Circulation research 105 (5), 453-461, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:b0M2c_1WBrUC",
+        "num_citations": 238,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12572324287459165125",
+        "cites_id": [
+            "12572324287459165125"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Microarray databases: standards and ontologies",
+            "pub_year": "2002",
+            "citation": "nature genetics 32 (4), 469-473, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:fPk4N6BV_jEC",
+        "num_citations": 236,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17621061164031690028",
+        "cites_id": [
+            "17621061164031690028"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomes of the major human pancreatic cell types",
+            "pub_year": "2011",
+            "citation": "Diabetologia 54, 2832-2844, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 227,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15372522009255451501",
+        "cites_id": [
+            "15372522009255451501"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Standards for microarray data",
+            "pub_year": "2002",
+            "citation": "Science 298 (5593), 539-539, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:dfsIfKJdRG4C",
+        "num_citations": 211,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1396376929535871031",
+        "cites_id": [
+            "1396376929535871031"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "STAC: A method for testing the significance of DNA copy number aberrations across multiple array-CGH experiments",
+            "pub_year": "2006",
+            "citation": "Genome research 16 (9), 1149-1158, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 208,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13647962681174796510",
+        "cites_id": [
+            "13647962681174796510"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "VEuPathDB: the eukaryotic pathogen, vector and host bioinformatics resource center",
+            "pub_year": "2022",
+            "citation": "Nucleic Acids Research 50 (D1), D898-D911, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:cK4Rrx0J3m0C",
+        "num_citations": 199,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15998616572980074453",
+        "cites_id": [
+            "15998616572980074453"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expansion of adult \u03b2-cell mass in response to increased metabolic demand is dependent on HNF-4\u03b1",
+            "pub_year": "2007",
+            "citation": "Genes & development 21 (7), 756-769, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 199,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1648786164503974432",
+        "cites_id": [
+            "1648786164503974432"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Plasmodium genome database",
+            "pub_year": "2002",
+            "citation": "Nature 419 (6906), 490-492, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 197,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11187117494861984568",
+        "cites_id": [
+            "11187117494861984568"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EuPathDB: the eukaryotic pathogen genomics database resource",
+            "pub_year": "2017",
+            "citation": "Nucleic acids research 45 (D1), D581-D591, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:0N-VGjzr574C",
+        "num_citations": 194,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11209962835793954059",
+        "cites_id": [
+            "11209962835793954059"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ontogeny of erythroid gene expression",
+            "pub_year": "2013",
+            "citation": "Blood, The Journal of the American Society of Hematology 121 (6), e5-e13, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:XiVPGOgt02cC",
+        "num_citations": 194,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5760913765637530101",
+        "cites_id": [
+            "5760913765637530101"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LKB1 regulates pancreatic \u03b2 cell size, polarity, and function",
+            "pub_year": "2009",
+            "citation": "Cell metabolism 10 (4), 296-308, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 176,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13984382719820070499",
+        "cites_id": [
+            "13984382719820070499"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "G gamma beta+ hereditary persistence of fetal hemoglobin: cosmid cloning and identification of a specific mutation 5'to the G gamma gene.",
+            "pub_year": "1984",
+            "citation": "Proceedings of the National Academy of Sciences 81 (15), 4894-4898, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:yD5IFk8b50cC",
+        "num_citations": 173,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15039350200955582525",
+        "cites_id": [
+            "15039350200955582525"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PlasmoDB: the Plasmodium genome resource. An integrated database providing tools for  accessing, analyzing and mapping expression  and sequence data (both \u2026",
+            "pub_year": "2002",
+            "citation": "Nucleic acids research 30 (1), 87-90, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 165,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1508914291843804256",
+        "cites_id": [
+            "1508914291843804256"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EuPathDB: a portal to eukaryotic pathogen databases",
+            "pub_year": "2010",
+            "citation": "Nucleic acids research 38 (suppl_1), D415-D419, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 163,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2175663199984173998",
+        "cites_id": [
+            "2175663199984173998"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene discovery in the apicomplexa as revealed by EST sequencing and assembly of a comparative gene database",
+            "pub_year": "2003",
+            "citation": "Genome Research 13 (3), 443-454, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 153,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14896288689751639004",
+        "cites_id": [
+            "14896288689751639004"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Submission of microarray data to public repositories",
+            "pub_year": "2004",
+            "citation": "PLoS biology 2 (9), e317, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:BrmTIyaxlBUC",
+        "num_citations": 151,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16151819847372450467",
+        "cites_id": [
+            "16151819847372450467"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fidelity and enhanced sensitivity of differential transcription profiles following linear amplification of nanogram amounts of endothelial mRNA",
+            "pub_year": "2003",
+            "citation": "Physiological Genomics 13 (2), 147-156, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 139,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18297458958979132229",
+        "cites_id": [
+            "18297458958979132229"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generation of patterns from gene expression data by assigning confidence to differentially expressed genes",
+            "pub_year": "2000",
+            "citation": "Bioinformatics 16 (8), 685-698, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 132,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10874361690476335734",
+        "cites_id": [
+            "10874361690476335734"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational modeling of the Plasmodium falciparum interactome reveals protein function on a genome-wide scale",
+            "pub_year": "2006",
+            "citation": "Genome research 16 (4), 542-549, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:Se3iqnhoufwC",
+        "num_citations": 131,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5290128724596490027",
+        "cites_id": [
+            "5290128724596490027"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimum information specification for in situ hybridization and immunohistochemistry experiments (MISFISHIE)",
+            "pub_year": "2008",
+            "citation": "Nature biotechnology 26 (3), 305-312, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:bFI3QPDXJZMC",
+        "num_citations": 130,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=255406943080618512",
+        "cites_id": [
+            "255406943080618512"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Functional Genomics Experiment model (FuGE): an extensible framework for standards in functional genomics",
+            "pub_year": "2007",
+            "citation": "Nature Biotechnology 25 (10), 1127-1133, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:D03iK_w7-QYC",
+        "num_citations": 130,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14627231457093586631",
+        "cites_id": [
+            "14627231457093586631"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ApiDB: integrated resources for the apicomplexan bioinformatics resource center",
+            "pub_year": "2007",
+            "citation": "Nucleic acids research 35 (suppl_1), D427-D430, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14044823992276339338",
+        "cites_id": [
+            "14044823992276339338"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AmoebaDB and MicrosporidiaDB: functional genomic resources for Amoebozoa and Microsporidia species",
+            "pub_year": "2010",
+            "citation": "Nucleic acids research 39 (suppl_1), D612-D619, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 125,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=183505695796929596",
+        "cites_id": [
+            "183505695796929596"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting gene ontology functions from ProDom and CDD protein domains",
+            "pub_year": "2002",
+            "citation": "Genome research 12 (4), 648-655, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:WF5omc3nYNoC",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3602582867899053285",
+        "cites_id": [
+            "3602582867899053285"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Desmin/vimentin intermediate filaments are dispensable for many aspects of myogenesis.",
+            "pub_year": "1991",
+            "citation": "The Journal of cell biology 114 (5), 953-966, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:_Ybze24A_UAC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16395007353409966312",
+        "cites_id": [
+            "16395007353409966312"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EuPathDB: the eukaryotic pathogen database",
+            "pub_year": "2012",
+            "citation": "Nucleic acids research 41 (D1), D684-D691, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:bnK-pcrLprsC",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7403158439422631264",
+        "cites_id": [
+            "7403158439422631264"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CLO: the cell line ontology",
+            "pub_year": "2014",
+            "citation": "Journal of biomedical semantics 5 (1), 1-10, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:zLWjf1WUPmwC",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18239219193198225223",
+        "cites_id": [
+            "18239219193198225223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A practical false discovery rate approach to identifying patterns of differential expression in microarray data",
+            "pub_year": "2005",
+            "citation": "Bioinformatics 21 (11), 2684-2690, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:roLk4NBRz8UC",
+        "num_citations": 102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9354856352511024421",
+        "cites_id": [
+            "9354856352511024421"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomics of the endocrine pancreas: the pancreas clone set and PancChip, new resources for diabetes research",
+            "pub_year": "2002",
+            "citation": "Diabetes 51 (7), 1997-2004, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:ufrVoPGSRksC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8244514163109635650,10388720621329310854",
+        "cites_id": [
+            "8244514163109635650",
+            "10388720621329310854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Immune response and myoblasts that express Fas ligand",
+            "pub_year": "1997",
+            "citation": "Science 278 (5341), 1322-1324, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6012278688698417724",
+        "cites_id": [
+            "6012278688698417724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OBO Foundry in 2021: operationalizing open data principles to evaluate ontologies",
+            "pub_year": "2021",
+            "citation": "Database 2021, baab069, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:jgBuDB5drN8C",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12289045616201919271",
+        "cites_id": [
+            "12289045616201919271"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of different labeling methods for two-channel high-density microarray experiments",
+            "pub_year": "2002",
+            "citation": "Physiological Genomics 10 (3), 169-179, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:pyW8ca7W8N0C",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3011815078203395234",
+        "cites_id": [
+            "3011815078203395234"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Immunomodulation of pancreatic islet allografts in mice with CTLA4Ig secreting muscle cells",
+            "pub_year": "1995",
+            "citation": "Transplantation 59 (9), 1313-1318, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:f2IySw72cVMC",
+        "num_citations": 91,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11075032714453855691",
+        "cites_id": [
+            "11075032714453855691"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synaptotagmin 4 regulates pancreatic \u03b2 cell maturation by modulating the Ca2+ sensitivity of insulin secretion vesicles",
+            "pub_year": "2018",
+            "citation": "Developmental cell 45 (3), 347-361. e5, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:ODE9OILHJdcC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16008355778485243913",
+        "cites_id": [
+            "16008355778485243913"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Clustering of genes into regulons using integrated modeling-COGRIM",
+            "pub_year": "2007",
+            "citation": "Genome biology 8, 1-14, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:abG-DnoFyZgC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11110491508986627321",
+        "cites_id": [
+            "11110491508986627321"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insm1 promotes endocrine cell differentiation by modulating the expression of a network of genes that includes Neurog3 and Ripply3",
+            "pub_year": "2014",
+            "citation": "Development 141 (15), 2939-2949, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:ipzZ9siozwsC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17240519306458000176",
+        "cites_id": [
+            "17240519306458000176"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data standards for Omics data: the basis of data sharing and reuse",
+            "pub_year": "2011",
+            "citation": "Bioinformatics for Omics Data: Methods and Protocols, 31-69, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:TFP_iSt0sucC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16601667478601482441",
+        "cites_id": [
+            "16601667478601482441"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of FuGO: an ontology for functional genomics investigations",
+            "pub_year": "2006",
+            "citation": "OMICS: A journal of integrative biology 10 (2), 199-204, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3501148892736644743",
+        "cites_id": [
+            "3501148892736644743"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The MGED ontology: a framework for describing functional genomics experiments",
+            "pub_year": "2003",
+            "citation": "Comparative and functional genomics 4 (1), 127-132, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:5nxA0vEk-isC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=747985762832595962",
+        "cites_id": [
+            "747985762832595962"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Renal gene and protein expression signatures for prediction of kidney disease progression",
+            "pub_year": "2009",
+            "citation": "The American journal of pathology 174 (6), 2073-2085, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9936968346088685512,6692749797542050058",
+        "cites_id": [
+            "9936968346088685512",
+            "6692749797542050058"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neuron-specific mRNA complexity responses during hippocampal apoptosis after traumatic brain injury",
+            "pub_year": "2004",
+            "citation": "Journal of Neuroscience 24 (12), 2866-2876, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13858890425580251480",
+        "cites_id": [
+            "13858890425580251480"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A simple, efficient method for the separate isolation of RNA and DNA from the same cells.",
+            "pub_year": "1990",
+            "citation": "Biotechniques 8 (2), 154-156, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9511877674445899275",
+        "cites_id": [
+            "9511877674445899275"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional program of the endocrine pancreas in mice and humans",
+            "pub_year": "2003",
+            "citation": "Diabetes 52 (7), 1604-1610, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:UebtZRa9Y70C",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16663645560245504599",
+        "cites_id": [
+            "16663645560245504599"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional Genomics of the \u03b2-Cell: Short-Chain 3-Hydroxyacyl-Coenzyme A Dehydrogenase Regulates Insulin Secretion Independent of K+ Currents",
+            "pub_year": "2007",
+            "citation": "Molecular Endocrinology 21 (3), 765-773, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:4TOpqqG69KYC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8834268670980180430",
+        "cites_id": [
+            "8834268670980180430"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dual lineage-specific expression of Sox17 during mouse embryogenesis",
+            "pub_year": "2012",
+            "citation": "Stem cells 30 (10), 2297-2308, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:geHnlv5EZngC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2787983833417925211",
+        "cites_id": [
+            "2787983833417925211"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pancreatic islet and progenitor cell surface markers with cell sorting potential",
+            "pub_year": "2012",
+            "citation": "Diabetologia 55, 154-165, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:vRqMK49ujn8C",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2306894869881035571",
+        "cites_id": [
+            "2306894869881035571"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coronary artery endothelial transcriptome in vivo: identification of endoplasmic reticulum stress and enhanced reactive oxygen species by gene connectivity network analysis",
+            "pub_year": "2011",
+            "citation": "Circulation: Cardiovascular Genetics 4 (3), 243-252, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:hC7cP41nSMkC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3303115551570731000",
+        "cites_id": [
+            "3303115551570731000"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RAD and the RAD Study-Annotator: an approach to collection, organization and exchange of all relevant information for high-throughput gene expression studies",
+            "pub_year": "2004",
+            "citation": "Bioinformatics 20 (4), 452-459, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4840748453285299888",
+        "cites_id": [
+            "4840748453285299888"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arterial endothelial methylome: differential DNA methylation in athero-susceptible disturbed flow regions in vivo",
+            "pub_year": "2015",
+            "citation": "BMC genomics 16 (1), 1-15, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:LI9QrySNdTsC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13622111026889080315",
+        "cites_id": [
+            "13622111026889080315"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis and management of microarray gene expression data",
+            "pub_year": "2007",
+            "citation": "Current protocols in molecular biology 77 (1), 19.6. 1-19.6. 30, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8249426997827474847",
+        "cites_id": [
+            "8249426997827474847"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing the significance of conserved genomic aberrations using high resolution genomic microarrays",
+            "pub_year": "2007",
+            "citation": "PLoS Genetics 3 (8), e143, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:CHSYGLWDkRkC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18026613696165192604",
+        "cites_id": [
+            "18026613696165192604"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Much room for improvement in deposition rates of expression microarray datasets",
+            "pub_year": "2008",
+            "citation": "Nature Methods 5 (12), 991-991, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:P5F9QuxV20EC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14354530959620457372",
+        "cites_id": [
+            "14354530959620457372"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An object model and database for functional genomics",
+            "pub_year": "2004",
+            "citation": "Bioinformatics 20 (10), 1583-1590, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:Zph67rFs4hoC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15905986108334105816",
+        "cites_id": [
+            "15905986108334105816"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human fetal globin DNA sequences suggest novel conversion event",
+            "pub_year": "1984",
+            "citation": "Nucleic Acids Research 12 (11), 4469-4479, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14340599893666610096",
+        "cites_id": [
+            "14340599893666610096"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PlasmoDB v5: new looks, new genomes",
+            "pub_year": "2006",
+            "citation": "Trends in parasitology 22 (12), 543-546, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:NhqRSupF_l8C",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1868166785194465513",
+        "cites_id": [
+            "1868166785194465513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A relational schema for both array-based and SAGE gene expression experiments",
+            "pub_year": "2001",
+            "citation": "Bioinformatics 17 (4), 300-308, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:EUQCXRtRnyEC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13194132713970384547",
+        "cites_id": [
+            "13194132713970384547"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MicrobiomeDB: a systems biology platform for integrating, mining and analyzing microbiome experiments",
+            "pub_year": "2018",
+            "citation": "Nucleic acids research 46 (D1), D684-D691, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:dBIO0h50nwkC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6313026596396888215",
+        "cites_id": [
+            "6313026596396888215"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FasL\u2014Too much of a good thing?",
+            "pub_year": "1997",
+            "citation": "Nature medicine 3 (7), 727-728, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:xtRiw3GOFMkC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16556683728901177839",
+        "cites_id": [
+            "16556683728901177839"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Concordance of a point mutation 5'to the G gamma globin gene with G gamma beta+. Hereditary persistence of fetal hemoglobin in the black population",
+            "pub_year": "1984",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:5ugPr518TE4C",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13040800954907061440",
+        "cites_id": [
+            "13040800954907061440"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EpoDB: a prototype database for the analysis of genes expressed during vertebrate erythropoiesis",
+            "pub_year": "1999",
+            "citation": "Nucleic acids research 27 (1), 200-203, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:_kc_bZDykSQC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2394220251302681246",
+        "cites_id": [
+            "2394220251302681246"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Standardized metadata for human pathogen/vector genomic sequences",
+            "pub_year": "2014",
+            "citation": "PloS one 9 (6), e99979, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:uc_IGeMz5qoC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3367591636982984038",
+        "cites_id": [
+            "3367591636982984038"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PlasmoDB: An integrative database of the Plasmodium falciparum genome. Tools for accessing and analyzing finished and unfinished sequence data",
+            "pub_year": "2001",
+            "citation": "Nucleic Acids Research 29 (1), 66-69, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:hkOj_22Ku90C",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3256459133695664102",
+        "cites_id": [
+            "3256459133695664102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling kidney disease using ontology: insights from the Kidney Precision Medicine Project",
+            "pub_year": "2020",
+            "citation": "Nature Reviews Nephrology 16 (11), 686-696, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:PVgj2kMGcgYC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8544583579937482511",
+        "cites_id": [
+            "8544583579937482511"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Globin gene expression in hereditary persistence of fetal haemoglobin and (delta beta)(0)-thalassaemia.",
+            "pub_year": "1988",
+            "citation": "Oxford surveys on eukaryotic genes 5, 163-203, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:1qzjygNMrQYC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14585389986798115066",
+        "cites_id": [
+            "14585389986798115066"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ApiEST\u2010DB: analyzing clustered EST data of the apicomplexan parasites",
+            "pub_year": "2004",
+            "citation": "Nucleic acids research 32 (suppl_1), D326-D328, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:4DMP91E08xMC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16391295185343694184",
+        "cites_id": [
+            "16391295185343694184"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OBIB-a novel ontology for biobanking",
+            "pub_year": "2016",
+            "citation": "Journal of biomedical semantics 7 (1), 1-9, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:-FonjvnnhkoC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6364851568315916630",
+        "cites_id": [
+            "6364851568315916630"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using non-parametric methods in the context of multiple testing to determine differentially expressed genes",
+            "pub_year": "2002",
+            "citation": "Methods of Microarray Data Analysis: Papers from CAMDA\u201900, 37-55, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:M3ejUd6NZC8C",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1759195288241996011",
+        "cites_id": [
+            "1759195288241996011"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systems biology-defined NF-\u03baB regulons, interacting signal pathways and networks are implicated in the malignant phenotype of head and neck cancer cell lines \u2026",
+            "pub_year": "2008",
+            "citation": "Genome biology 9, 1-22, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:dshw04ExmUIC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1230246199700917120",
+        "cites_id": [
+            "1230246199700917120"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pancreatic inflammation redirects acinar to \u03b2 cell reprogramming",
+            "pub_year": "2016",
+            "citation": "Cell reports 17 (8), 2028-2041, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:ruyezt5ZtCIC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17504637558848707891",
+        "cites_id": [
+            "17504637558848707891"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian variable selection and data integration for biological regulatory networks",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13277800795594853906",
+        "cites_id": [
+            "13277800795594853906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The underlying principles of scientific publication",
+            "pub_year": "2002",
+            "citation": "Bioinformatics (Oxford, England) 18 (11), 1409, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=698633297390135481",
+        "cites_id": [
+            "698633297390135481"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Standards for microarray data: an open letter.",
+            "pub_year": "2004",
+            "citation": "Environmental Health Perspectives 112 (12), A666-7, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:Ehil0879vHcC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12319383347862771449",
+        "cites_id": [
+            "12319383347862771449"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A guide to microarray experiments-an open letter to the scientific journals",
+            "pub_year": "2002",
+            "citation": "The Lancet 360 (9338), 1019, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10461932850805631179",
+        "cites_id": [
+            "10461932850805631179"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stat and interferon genes identified by network analysis differentially regulate primitive and definitive erythropoiesis",
+            "pub_year": "2013",
+            "citation": "BMC systems biology 7, 1-13, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:eMMeJKvmdy0C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3493763584296895528",
+        "cites_id": [
+            "3493763584296895528"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression of the affected A gamma globin gene associated with Greek nondeletion hereditary persistence of fetal hemoglobin",
+            "pub_year": "1987",
+            "citation": "Molecular and cellular biology, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13792089255005270894",
+        "cites_id": [
+            "13792089255005270894"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequences of human repetitive DNA, non-\u03b1-globin genes, and major histocompatibility locus genes I. Repeated-sequence DNA",
+            "pub_year": "1983",
+            "citation": "Cold Spring Harbor Symposia on Quantitative Biology 47, 1079-1086, 1983"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:aqlVkmm33-oC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17263765918511027302",
+        "cites_id": [
+            "17263765918511027302"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Annotare\u2014a tool for annotating high-throughput biomedical investigations and resulting data",
+            "pub_year": "2010",
+            "citation": "Bioinformatics 26 (19), 2470-2471, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15367278624735719639",
+        "cites_id": [
+            "15367278624735719639"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of the Minimum Information Specification forIn SituHybridization and Immunohistochemistry Experiments (MISFISHIE)",
+            "pub_year": "2006",
+            "citation": "Omics: a journal of integrative biology 10 (2), 205-208, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:dhFuZR0502QC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12548627676606914820",
+        "cites_id": [
+            "12548627676606914820"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Top-down standards will not serve systems biology",
+            "pub_year": "2006",
+            "citation": "Nature 440 (7080), 24, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:KxtntwgDAa4C",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1276618887699159453",
+        "cites_id": [
+            "1276618887699159453"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating computationally assembled mouse transcript sequences with the Mouse Genome Informatics (MGI) database",
+            "pub_year": "2003",
+            "citation": "Genome biology 4, 1-8, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:IWHjjKOFINEC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8054394502882847582",
+        "cites_id": [
+            "8054394502882847582"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maintaining data integrity in microarray data management",
+            "pub_year": "2003",
+            "citation": "Biotechnology and bioengineering 84 (7), 795-800, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1905587068311057852",
+        "cites_id": [
+            "1905587068311057852"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "iterativeWGCNA: iterative refinement to improve module detection from WGCNA co-expression networks",
+            "pub_year": "2017",
+            "citation": "BioRxiv, 234062, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:cWzG1nlazyYC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7884527318806456328",
+        "cites_id": [
+            "7884527318806456328"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Emerging topic: flow-related epigenetic regulation of endothelial phenotype through DNA methylation",
+            "pub_year": "2014",
+            "citation": "Vascular pharmacology 62 (2), 88-93, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:XD-gHx7UXLsC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5340906159271814403",
+        "cites_id": [
+            "5340906159271814403"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ontodog: a web-based ontology community view generation tool",
+            "pub_year": "2014",
+            "citation": "Bioinformatics 30 (9), 1340-1342, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:RYcK_YlVTxYC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=790454818345717103",
+        "cites_id": [
+            "790454818345717103"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatial phenotyping of the endocardial endothelium as a function of intracardiac hemodynamic shear stress",
+            "pub_year": "2017",
+            "citation": "Journal of biomechanics 50, 11-19, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11320217707567851315",
+        "cites_id": [
+            "11320217707567851315"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NIAGADS: the NIA genetics of Alzheimer's disease data storage site",
+            "pub_year": "2016",
+            "citation": "Alzheimer's & Dementia 12 (11), 1200-1203, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:SpbeaW3--B0C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14751729119545584918",
+        "cites_id": [
+            "14751729119545584918"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Osmium-labeled polysaccharides for atomic microscopy",
+            "pub_year": "1980",
+            "citation": "Journal of molecular biology 138 (4), 673-683, 1980"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:kh2fBNsKQNwC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5706672647555412577",
+        "cites_id": [
+            "5706672647555412577"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies",
+            "pub_year": "2019",
+            "citation": "Gates Open Research 3, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:fbc8zXXH2BUC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6076226033626859911,6536918847388542640",
+        "cites_id": [
+            "6076226033626859911",
+            "6536918847388542640"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The strategies WDK: a graphical search interface and web development kit for functional genomics databases",
+            "pub_year": "2011",
+            "citation": "Database 2011, bar027, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:tS2w5q8j5-wC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2896022693537313829",
+        "cites_id": [
+            "2896022693537313829"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regional determinants of arterial endothelial phenotype dominate the impact of gender or short-term exposure to a high-fat diet",
+            "pub_year": "2005",
+            "citation": "Biochemical and biophysical research communications 332 (1), 142-148, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:-f6ydRqryjwC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13771431168046823277",
+        "cites_id": [
+            "13771431168046823277"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of an Application Ontology for Beta Cell Genomics Based On the Ontology for Biomedical Investigations.",
+            "pub_year": "2013",
+            "citation": "ICBO, 62-67, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:NJ774b8OgUMC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12506999262690446263",
+        "cites_id": [
+            "12506999262690446263"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prelesional arterial endothelial phenotypes in hypercholesterolemia: universal ABCA1 upregulation contrasts with region-specific gene expression in vivo",
+            "pub_year": "2010",
+            "citation": "American Journal of Physiology-Heart and Circulatory Physiology 298 (1 \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:isC4tDSrTZIC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17585119103665631202",
+        "cites_id": [
+            "17585119103665631202"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conservation and divergence of known apicomplexan transcriptional regulons",
+            "pub_year": "2010",
+            "citation": "BMC genomics 11 (1), 1-13, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3451965923183701777",
+        "cites_id": [
+            "3451965923183701777"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An open letter to the scientific journals",
+            "pub_year": "2002",
+            "citation": "Bioinformatics 18 (11), 1409-1409, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12410158632183126297",
+        "cites_id": [
+            "12410158632183126297"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[17] Using Ontologies to Annotate Microarray Experiments",
+            "pub_year": "2006",
+            "citation": "Methods in enzymology 411, 325-339, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:p2g8aNsByqUC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2622540285950144759",
+        "cites_id": [
+            "2622540285950144759"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local CTLA4Ig synergizes with one-dose anti-LFA-1 to achieve long-term acceptance of pancreatic islet allografts",
+            "pub_year": "1994",
+            "citation": "Transplantation proceedings 26 (6), 3296, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:uWQEDVKXjbEC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1431482431526779466",
+        "cites_id": [
+            "1431482431526779466"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A framework for global collaborative data management for malaria research",
+            "pub_year": "2015",
+            "citation": "The American journal of tropical medicine and hygiene 93 (3 Suppl), 124, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:vbGhcppDl1QC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16443854887920501101",
+        "cites_id": [
+            "16443854887920501101"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EPConDB: a web resource for gene expression related to pancreatic development, beta-cell function and diabetes",
+            "pub_year": "2007",
+            "citation": "Nucleic acids research 35 (suppl_1), D751-D755, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:TQgYirikUcIC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15310816488501366271",
+        "cites_id": [
+            "15310816488501366271"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wrestling with SUMO and bio-ontologies",
+            "pub_year": "2006",
+            "citation": "Nature biotechnology 24 (1), 21-22, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:nZcligLrVowC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8963677425547353073",
+        "cites_id": [
+            "8963677425547353073"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plasmodium research in the postgenomic era",
+            "pub_year": "2006",
+            "citation": "Trends in parasitology 22 (1), 1-4, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:SP6oXDckpogC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=272528094294927198",
+        "cites_id": [
+            "272528094294927198"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular Analysis of Deletion and Nondeletion Hereditary Persistence of Fetal Hemoglobin and Identification of a New Mutation Causing \u03b2\u2010Thalassemiaa",
+            "pub_year": "1985",
+            "citation": "Annals of the New York Academy of Sciences 445 (1), 159-169, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=460059352885160996",
+        "cites_id": [
+            "460059352885160996"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrated regional cardiac hemodynamic imaging and RNA sequencing reveal corresponding heterogeneity of ventricular wall shear stress and endocardial transcriptome",
+            "pub_year": "2016",
+            "citation": "Journal of the American Heart Association 5 (4), e003170, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:M7yex6snE4oC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13061509873672110533",
+        "cites_id": [
+            "13061509873672110533"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EpoDB: a database of genes expressed during vertebrate erythropoiesis",
+            "pub_year": "1998",
+            "citation": "Nucleic acids research 26 (1), 288-289, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:HDshCWvjkbEC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15366551824202468854",
+        "cites_id": [
+            "15366551824202468854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local immunomodulation to promote co-stimulatory blockade",
+            "pub_year": "1995",
+            "citation": "Clinical transplantation 9 (3), 215-218, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:XiSMed-E-HIC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9485778636104069087",
+        "cites_id": [
+            "9485778636104069087"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel tool for standardizing clinical data in a semantically rich model",
+            "pub_year": "2020",
+            "citation": "Journal of Biomedical Informatics 112, 100086, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:NyGDZy8z5eUC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3156053823615494249",
+        "cites_id": [
+            "3156053823615494249"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of unknown adult stem cell samples by large scale data integration and artificial neural networks",
+            "pub_year": "2009",
+            "citation": "Biocomputing 2009, 356-367, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:tOudhMTPpwUC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2742916572961843500",
+        "cites_id": [
+            "2742916572961843500"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational analysis of constraints on noncoding regions, coding regions and gene expression in relation to Plasmodium phenotypic diversity",
+            "pub_year": "2008",
+            "citation": "PLoS One 3 (9), e3122, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:u9iWguZQMMsC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7966378045160302342",
+        "cites_id": [
+            "7966378045160302342"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The SOFG anatomy entry list (SAEL): an annotation tool for functional genomics data: Report of a workshop on integration of anatomy ontologies, held at the MRC human genetics \u2026",
+            "pub_year": "2004",
+            "citation": "Comparative and functional genomics 5 (6\u20107), 521-527, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:qUcmZB5y_30C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13685747441888277724",
+        "cites_id": [
+            "13685747441888277724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phospho-proteomic discovery of novel signal transducers including thioredoxin-interacting protein as mediators of erythropoietin-dependent human erythropoiesis",
+            "pub_year": "2020",
+            "citation": "Experimental hematology 84, 29-44, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:F1b5ZUV5XREC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14214422046333353115",
+        "cites_id": [
+            "14214422046333353115"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Microarray data standards: an open letter",
+            "pub_year": "2004",
+            "citation": "Environmental health perspectives 112 (12), A666-A667, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5501313934803755860",
+        "cites_id": [
+            "5501313934803755860"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retroviral transfer of genes into erythroid progenitors derived from human peripheral blood.",
+            "pub_year": "1990",
+            "citation": "Experimental hematology 18 (11), 1164-1170, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:mB3voiENLucC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=630779864711410021",
+        "cites_id": [
+            "630779864711410021"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of mutations associated with deletion and nondeletion hereditary persistence of fetal hemoglobin.",
+            "pub_year": "1985",
+            "citation": "Progress in Clinical and Biological Research 191, 107-124, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15552091031560580880",
+        "cites_id": [
+            "15552091031560580880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Suggestions for galaxy workflow design using semantically annotated services",
+            "pub_year": "2012",
+            "citation": "Formal Ontology in Information Systems, 29-42, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6181907256613091599",
+        "cites_id": [
+            "6181907256613091599"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OBI consortium",
+            "pub_year": "2010",
+            "citation": "Modeling biomedical experimental processes with OBI, S7, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:Ri6SYOTghG4C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13245693092024163500",
+        "cites_id": [
+            "13245693092024163500"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Jr Concordance of a point mutation 5'to the G gamma globin gene with G gamma beta+. Hereditary persistence of fetal hemoglobin in the black population",
+            "pub_year": "1984",
+            "citation": "Blood 64 (6), 1292-1296, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:gVv57TyPmFsC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11683177839350267036",
+        "cites_id": [
+            "11683177839350267036"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biological structure determination through atomic microscopy",
+            "pub_year": "1979",
+            "citation": "Chemica Scripta 14 (1-5), 263-266, 1979"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:WJVC3Jt7v1AC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2601690804101082296",
+        "cites_id": [
+            "2601690804101082296"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A developmental lineage-based gene co-expression network for mouse pancreatic \u03b2-cells reveals a role for Zfp800 in pancreas development",
+            "pub_year": "2021",
+            "citation": "Development 148 (6), dev196964, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:lgwcVrK6X84C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11732786152756458816",
+        "cites_id": [
+            "11732786152756458816"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel genes identified by manual annotation and microarray expression analysis in the pancreas",
+            "pub_year": "2006",
+            "citation": "Genomics 88 (6), 752-761, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:WbkHhVStYXYC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2558525609667225991",
+        "cites_id": [
+            "2558525609667225991"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maturation and developmental stage-related changes in fetal globin gene expression are reproduced in transiently transfected primary adult human erythroblasts",
+            "pub_year": "1999",
+            "citation": "Experimental hematology 27 (1), 46-53, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:Tiz5es2fbqcC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=475836413989273923",
+        "cites_id": [
+            "475836413989273923"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Malaria study data integration and information retrieval based on OBO Foundry ontologies.",
+            "pub_year": "2016",
+            "citation": "ICBO/BioCreative, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:FPJr55Dyh1AC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10947007602635548423",
+        "cites_id": [
+            "10947007602635548423"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ontology representation and ANOVA analysis of vaccine protection investigation",
+            "pub_year": "2010",
+            "citation": "Bio-Ontologies 2010: Semantic Applications in Life Sciences, 18th Annual \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:maZDTaKrznsC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8477117464221232527",
+        "cites_id": [
+            "8477117464221232527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Erythropoietin and hydroxyurea can act on early erythroid progenitors from adult human peripheral blood to modulate fetal globin mRNA levels.",
+            "pub_year": "1994",
+            "citation": "Experimental hematology 22 (3), 278-282, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1426607507025073814",
+        "cites_id": [
+            "1426607507025073814"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone positions within the nucleosome using platinum labeling and the scanning transmission electron microscope",
+            "pub_year": "1984",
+            "citation": "Journal of Molecular Biology 177 (3), 483-505, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:fEOibwPWpKIC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15929849185346972332",
+        "cites_id": [
+            "15929849185346972332"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phospho-PTM proteomic discovery of novel EPO-modulated kinases and phosphatases, including PTPN18 as a positive regulator of EPOR/JAK2 Signaling",
+            "pub_year": "2020",
+            "citation": "Cellular signalling 69, 109554, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:BJbdYPG6LGMC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14567666232191750926",
+        "cites_id": [
+            "14567666232191750926"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ontology Driven Data Collection for EuPathDB.",
+            "pub_year": "2011",
+            "citation": "ICBO, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:HoB7MX3m0LUC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17592122413097296220",
+        "cites_id": [
+            "17592122413097296220"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AnnotCompute: annotation-based exploration and meta-analysis of genomics experiments",
+            "pub_year": "2011",
+            "citation": "Database 2011, bar045, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:g5m5HwL7SMYC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12313925212970766000",
+        "cites_id": [
+            "12313925212970766000"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomics databases on the web",
+            "pub_year": "2005",
+            "citation": "Cellular Microbiology 7 (8), 1053-1059, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:RHpTSmoSYBkC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4415727873687522892",
+        "cites_id": [
+            "4415727873687522892"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimum information about a functional genomics experiment: the state of microarray standards and their extension to other technologies",
+            "pub_year": "2004",
+            "citation": "Drug Discovery Today: TARGETS 3 (4), 159-164, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:738O_yMBCRsC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3915648991059610595",
+        "cites_id": [
+            "3915648991059610595"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RAD (RNA Abundance Database): an infrastructure for array data analysis",
+            "pub_year": "2001",
+            "citation": "Microarrays: Optical Technologies and Informatics 4266, 68-78, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8425587686380842241",
+        "cites_id": [
+            "8425587686380842241"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large scale transcriptome data integration across multiple tissues to decipher stem cell signatures",
+            "pub_year": "2009",
+            "citation": "Methods in enzymology 467, 229-245, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:r0BpntZqJG4C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11448993010002429194",
+        "cites_id": [
+            "11448993010002429194"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal transcriptome analysis reveals dynamic gene expression patterns driving \u03b2-cell maturation",
+            "pub_year": "2021",
+            "citation": "Frontiers in Cell and Developmental Biology 9, 648791, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:1lhNe0rCu4AC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5861389421727363569",
+        "cites_id": [
+            "5861389421727363569"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P3\u2010020: NIA GENETICS OF ALZHEIMER'S DISEASE DATA STORAGE SITE (NIAGADS): 2014 UPDATE",
+            "pub_year": "2014",
+            "citation": "Alzheimer's & Dementia 10, P634-P635, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:epqYDVWIO7EC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=181814897117715222",
+        "cites_id": [
+            "181814897117715222"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discovery approaches to UPR in athero-susceptible endothelium in vivo",
+            "pub_year": "2011",
+            "citation": "Methods in enzymology 489, 109-126, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:O3NaXMp0MMsC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12231878839412719605",
+        "cites_id": [
+            "12231878839412719605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EpoDB: An erythropoiesis gene expression database in progress",
+            "pub_year": "1996",
+            "citation": "German Conference on Bioinformatics, 52-61, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:08ZZubdj9fEC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14320279429069017082",
+        "cites_id": [
+            "14320279429069017082"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Partial repression of human \u03b3\u2010globin genes by LCR element HS3 when linked to \u03b2\u2010globin genes and LCR element HS2 in MEL cells",
+            "pub_year": "1996",
+            "citation": "American journal of hematology 51 (3), 220-228, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:iH-uZ7U-co4C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14015290946773661014",
+        "cites_id": [
+            "14015290946773661014"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "STEM studies of biological structure",
+            "pub_year": "1982",
+            "citation": "Ultramicroscopy 8 (1-2), 207-218, 1982"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:9c2xU6iGI7YC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17370622748698631619",
+        "cites_id": [
+            "17370622748698631619"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Standardization of assay representation in the Ontology for Biomedical Investigations",
+            "pub_year": "2021",
+            "citation": "Database 2021, baab040, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:43bX7VzcjpAC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7081295024612256319",
+        "cites_id": [
+            "7081295024612256319"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A coordinated approach by public domain bioinformatics resources to aid the fight against Alzheimer\u2019s disease through expert curation of key protein targets",
+            "pub_year": "2020",
+            "citation": "Journal of Alzheimer's Disease 77 (1), 257-273, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:6yz0xqPARnAC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6354100205018875536",
+        "cites_id": [
+            "6354100205018875536"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Ontology for Parasite Lifecycle (OPL): towards a consistent vocabulary of lifecycle stages in parasitic organisms",
+            "pub_year": "2012",
+            "citation": "Journal of biomedical semantics 3 (1), 1-13, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:sSrBHYA8nusC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2314807676430004467",
+        "cites_id": [
+            "2314807676430004467"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Electron microscopy of selectively stained collagen",
+            "pub_year": "1979",
+            "citation": "Proc. 37th Annu. Mtg. Electron Microscopy Soc. Amer, 28-29, 1979"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:tH6gc1N1XXoC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4295618435225252841",
+        "cites_id": [
+            "4295618435225252841"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomics data availability and reusability in the transition from microarray to next-generation sequencing",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2020.12. 31.425022, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:buQ7SEKw-1sC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7123419532517868320",
+        "cites_id": [
+            "7123419532517868320"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NIAGADS Alzheimer\u2019s GenomicsDB: A resource for exploring Alzheimer\u2019s Disease genetic and genomic knowledge",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.09. 23.310276, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:uDGL6kOW6j0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1037895410767583733",
+        "cites_id": [
+            "1037895410767583733"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Performance analysis of differential expression prediction algorithms using simulated array data",
+            "pub_year": "2005",
+            "citation": "Technical Report, University of Pennsylvania, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10281807823598755291",
+        "cites_id": [
+            "10281807823598755291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Technology options and applications of DNA microarrays",
+            "pub_year": "2001",
+            "citation": "Biochip technology, 185-215, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:hMod-77fHWUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11796563206957738901",
+        "cites_id": [
+            "11796563206957738901"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cytosine arabinoside plus hemin treatment of a human erythroid cell line, KMOE, strongly induces embryonic, fetal, and adult \u03b2-like globin genes",
+            "pub_year": "1989",
+            "citation": "Hemoglobin 13 (6), 605-617, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:J-pR_7NvFogC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5823529318385274856",
+        "cites_id": [
+            "5823529318385274856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NIA genetics of Alzheimer\u2019s disease data storage site (NIAGADS): Update 2020: Genetics/genetic factors of Alzheimer's disease",
+            "pub_year": "2020",
+            "citation": "Alzheimer's & Dementia 16, e044284, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:QD3KBmkZPeQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8174391346009726173",
+        "cites_id": [
+            "8174391346009726173"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P1\u2010061: Nia genetics of Alzheimer's disease data storage site (NIAGADS): 2015 update",
+            "pub_year": "2015",
+            "citation": "Alzheimer's & Dementia 11 (7S_Part_8), P362-P362, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:tuHXwOkdijsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6209508132382551472",
+        "cites_id": [
+            "6209508132382551472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enriching the Ontology for Biomedical Investigations (OBI) to Improve its Suitability for Web Service Annotations.",
+            "pub_year": "2011",
+            "citation": "ICBO, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:BqipwSGYUEgC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17978003744186681260",
+        "cites_id": [
+            "17978003744186681260"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Common objects: Think global, act local",
+            "pub_year": "2003",
+            "citation": "OMICS A Journal of Integrative Biology 7 (1), 103-104, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:NMxIlDl6LWMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4948952505178073102",
+        "cites_id": [
+            "4948952505178073102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-resolution BAC-based map of the central portion of mouse chromosome 5",
+            "pub_year": "2001",
+            "citation": "Genome Research 11 (10), 1746-1757, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:blknAaTinKkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=754940465326704431",
+        "cites_id": [
+            "754940465326704431"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Erythroid progenitors in the peripheral blood of children with sickle cell disease.",
+            "pub_year": "1994",
+            "citation": "The American journal of pediatric hematology/oncology 16 (2), 116-119, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:k_IJM867U9cC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7690696825119790882",
+        "cites_id": [
+            "7690696825119790882"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Globin gene expression in hereditary persistence of fetal haemoglobin and 5 (3-thalassemia. In McLean, L.(Ed.) Oxford Surveys of Eukaryotic Genes",
+            "pub_year": "1989",
+            "citation": "Oxford, Oxford University Press, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:ALROH1vI_8AC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1467966778376591050",
+        "cites_id": [
+            "1467966778376591050"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Support for the causal relationship between gamma globin gene promoter mutations and nondeletion forms of hereditary persistence of fetal hemoglobin.",
+            "pub_year": "1987",
+            "citation": "Progress in Clinical and Biological Research 251, 347-361, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:NaGl4SEjCO4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=893215592096214022",
+        "cites_id": [
+            "893215592096214022"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Johns Hopkins University, Baltimore, Maryland.",
+            "pub_year": "1982",
+            "citation": "Ultramicroscopy 8 (1-2), 207-218, 1982"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:mlAyqtXpCwEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1490447466274598197",
+        "cites_id": [
+            "1490447466274598197"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transforming and Unifying Research with Biomedical Ontologies",
+            "citation": "Proceedings of the 9th International Conference on Biological Ontology (ICBO \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:a3BOlSfXSfwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9685731204246315379",
+        "cites_id": [
+            "9685731204246315379"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NIAGADS Alzheimer\u2019s Genomics Database: version GRCh38",
+            "pub_year": "2022",
+            "citation": "Alzheimer's & Dementia 18, e064622, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:1yWc8FF-_SYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1321342045504636112",
+        "cites_id": [
+            "1321342045504636112"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Erratum to: Transcriptomes of the major human pancreatic cell types",
+            "pub_year": "2013",
+            "citation": "Diabetologia 56, 1192-1192, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:8xutWZnSdmoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17214878060817990527",
+        "cites_id": [
+            "17214878060817990527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diagnostic criteria and clinical guidelines standardization to automate case classification.",
+            "pub_year": "2013",
+            "citation": "ICBO, 101-104, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:nrtMV_XWKgEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14376914100245309854",
+        "cites_id": [
+            "14376914100245309854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ontodog: A Web-based Ontology Community View Generator.",
+            "pub_year": "2012",
+            "citation": "ICBO, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:PaBasH6fAo0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7767963637517026927",
+        "cites_id": [
+            "7767963637517026927"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Erratum: Much room for improvement in deposition rates of expression microarray datasets",
+            "pub_year": "2009",
+            "citation": "Nature Methods 6 (1), 109-109, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:35N4QoGY0k4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6485831499743849872",
+        "cites_id": [
+            "6485831499743849872"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ABCA1 is upregulated in athero\u2010protected regions of arteries in response to brief hypercholesterolemia treatment in vivo",
+            "pub_year": "2008",
+            "citation": "The FASEB Journal 22, 902.11-902.11, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:SdhP9T11ey4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14798334857617176050",
+        "cites_id": [
+            "14798334857617176050"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coronary artery endothelial phenotype differences related to atherosusceptibility emerge from a multi\u2010arterial site analysis in adult swine",
+            "pub_year": "2008",
+            "citation": "The FASEB Journal 22, 902.10-902.10, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:tkaPQYYpVKoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4892010417314447254",
+        "cites_id": [
+            "4892010417314447254"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data Integration and Pattern-Finding in Biological Sequence with TESS\u2019s Annotation Grammar and Extraction Language (AnGEL)",
+            "pub_year": "2007",
+            "citation": "International Conference on Data Integration in the Life Sciences, 188-203, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:8AbLer7MMksC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5610248630125643383",
+        "cites_id": [
+            "5610248630125643383"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomics of the \u03b2-cell: SCHAD regulates insulin secretion independent of K currents",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:DJbcl8HfkQkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6603464087424035959",
+        "cites_id": [
+            "6603464087424035959"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PlasmoDB: The Plasmodium Genome Resource",
+            "pub_year": "2005",
+            "citation": "Molecular Approaches to Malaria, 12-23, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:GnPB-g6toBAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10260659541878595125",
+        "cites_id": [
+            "10260659541878595125"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The SOFG Anatomy entry list (SAEL) as an annotation tool for functional genomics experiments",
+            "pub_year": "2004",
+            "citation": "Bio-ontologies Workshop, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:3htObqc8RwsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8985440841736185386",
+        "cites_id": [
+            "8985440841736185386"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MANUAL ANNOTATION OF THE HUMAN AND MOUSE GENE INDEX: WWW. ALLGENES. OR G",
+            "pub_year": "2002",
+            "citation": "Our sponsors, 185, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:B3FOqHPlNUQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9929161251900923214",
+        "cites_id": [
+            "9929161251900923214"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Array-based analysis of gene expression: new candidates for the biological basis of normal and malignant erythroid development",
+            "pub_year": "2000",
+            "citation": "Journal of Pediatric Hematology/Oncology 22 (4), 365, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:JV2RwH3_ST0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=640935717813606621",
+        "cites_id": [
+            "640935717813606621"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local Immunosuppression of Pancreatic Islet Allografts by Cotransplantation of Cells Engineered To Secrete CTLA4Ig",
+            "pub_year": "1993",
+            "citation": "SURGICAL FORUM-CHICAGO-, 444-444, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1026568877886207220",
+        "cites_id": [
+            "1026568877886207220"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retroviral Transfer of a Human Fetal Globin Gene Carrying the-202 G\u03b3\u03b2+-HPFH Mutation into the Human Erythroleukemia Line, KMOE",
+            "pub_year": "1991",
+            "citation": "Hemoglobin 15 (4), 257-268, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:wbdj-CoPYUoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14707959710693182295",
+        "cites_id": [
+            "14707959710693182295"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NIA Genetics of Alzheimer\u2019s Disease Data Storage Site (NIAGADS): 2022 Update",
+            "pub_year": "2022",
+            "citation": "Alzheimer's & Dementia 18, e062285, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:LPtt_HFRSbwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introducing the NIAGADS Alzheimer\u2019s GenomicsDB API: A toolkit for remote exploration of Alzheimer\u2019s disease genetics",
+            "pub_year": "2021",
+            "citation": "Alzheimer's & Dementia 17, e053963, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:v1_lew4L6wgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NIA genetics of Alzheimer\u2019s disease data storage site (NIAGADS): 2021 update",
+            "pub_year": "2021",
+            "citation": "Alzheimer's & Dementia 17, e052258, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:U4n9YNQMCAIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Classifying progression status statements from radiology exams among non-small cell lung cancer patients using natural language processing",
+            "pub_year": "2021",
+            "citation": "medRxiv, 2021.11. 20.21266642, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:7Hz3ACDFbsoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CLINEPIDB. ORG: LOWERING THE BARRIER FOR EXPLORATORY DATA ANALYSIS OF GLOBAL HEALTH STUDIES",
+            "pub_year": "2021",
+            "citation": "AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE 105 (5), 20-20, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:MhiOAD_qIWkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pleiotropy analyses using TADs identify genomic regions affecting risk of AD and stroke: Genetics/genetic factors of Alzheimer's disease",
+            "pub_year": "2020",
+            "citation": "Alzheimer's & Dementia 16, e045975, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:wMgC3FpKEyYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pleiotropy Analyses using TADs identify Genomic Regions affecting risk of AD and stroke",
+            "pub_year": "2020",
+            "citation": "2020 Alzheimer's Association International Conference, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:0CzhzZyukY4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel tool for standardizing clinical data in a realism-based common data model",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.05. 12.091223, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:AHdEip9mkN0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phospho-Proteomic Discovery of Novel EPO Signal Transducers Including TXNIP as a Mediator of EPO-Dependent Human Erythropoiesis",
+            "pub_year": "2020",
+            "citation": "Experimental hematology 84, 29, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:Ak0FvsSvgGUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scaling and Querying a Semantically Rich, Electronic Healthcare Graph.",
+            "pub_year": "2020",
+            "citation": "ICBO/ODLS, 1-11, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:4xDN1ZYqzskC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P4\u2010090: NIA GENETICS OF ALZHEIMER'S DISEASE DATA STORAGE SITE (NIAGADS): UPDATE 2019",
+            "pub_year": "2019",
+            "citation": "Alzheimer's & Dementia 15, P1309-P1309, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:Aul-kAQHnToC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P1\u2010134: NIA GENETICS OF ALZHEIMER'S DISEASE DATA STORAGE SITE (NIAGADS): ALZHEIMER'S GENOMICS DATABASE\u20132019 UPDATE",
+            "pub_year": "2019",
+            "citation": "Alzheimer's & Dementia 15, P288-P289, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:ZzlSgRqYykMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping Data Annotated with the Minimum Information About BIobank data Sharing (MIABIS) 2.0 to the Ontology for Biobanking (OBIB).",
+            "pub_year": "2019",
+            "citation": "ICBO, 1-2, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:WC23djZS0W4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OWLmaker: An Application for Generating OWL Files from Tabular Text.",
+            "pub_year": "2019",
+            "citation": "ICBO, 1-3, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:7wO8s98CvbsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Collaborative, Realism-Based, Electronic Healthcare Graph: Public Data, Common Data Models, and Practical Instantiation.",
+            "pub_year": "2019",
+            "citation": "ICBO, 1-10, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:kVjdVfd2voEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CLINEPIDB: THE CLINICAL EPIDEMIOLOGY DATABASE RESOURCE",
+            "pub_year": "2019",
+            "citation": "AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE 101, 550-550, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:Bg7qf7VwUHIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Standardization of the Histopathology Cancer Report: An Ontological Approach.",
+            "pub_year": "2018",
+            "citation": "ICBO, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:F9fV5C73w3QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P3\u2010130: NIA GENETICS OF ALZHEIMER'S DISEASE DATA STORAGE SITE (NIAGADS): ALZHEIMER'S GENOMICS DATABASE",
+            "pub_year": "2018",
+            "citation": "Alzheimer's & Dementia 14 (7S_Part_21), P1117-P1117, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:r_AWSJRzSzQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P1\u2010157: NIA GENETICS OF ALZHEIMER'S DISEASE DATA STORAGE SITE (NIAGADS): UPDATE 2018",
+            "pub_year": "2018",
+            "citation": "Alzheimer's & Dementia 14 (7S_Part_6), P337-P337, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:yMeIxYmEMEAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[P3\u2013097]: NIA GENETICS OF ALZHEIMER's DISEASE DATA STORAGE SITE (NIAGADS): 2017",
+            "pub_year": "2017",
+            "citation": "Alzheimer's & Dementia 13 (7S_Part_20), P971-P971, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:HIFyuExEbWQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SY 15-2 ENDOTHELIAL EPIGENETICS AND ITS ROLE IN MEDIATING BIOMECHANICAL STRESS OF HYPERTENSION",
+            "pub_year": "2016",
+            "citation": "Journal of Hypertension 34, e371, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:i2xiXl-TujoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P3\u2010093: NIA Genetics of Alzheimer\u2019s Disease Data Storage Site (NIAGADS): 2016 Update",
+            "pub_year": "2016",
+            "citation": "Alzheimer's & Dementia 12, P855-P856, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:foquWX3nUaYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NIAGADS: The NIA Genetics of Alzheimer\u2019s Disease Data Storage Site",
+            "pub_year": "2016",
+            "citation": "Alzheimer\u2019s & Dementia 1 (4), 1, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:4hFrxpcac9AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EUPATHDB: AN INTEGRATED GENOMIC DATA RESOURCE FOR EUKARYOTIC PATHOGENS",
+            "pub_year": "2015",
+            "citation": "AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE 93 (4), 281-282, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:4vMrXwiscB8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential DNA methylation patterns of athero-susceptible and protected endothelial phenotypes in vivo: epigenomic code in arterial endothelial methylome",
+            "pub_year": "2014",
+            "citation": "Atherosclerosis 237 (2), e9, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:uWiczbcajpAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identifying Predictors of Successful Single-Donor Islet Transplantation.: Abstract# 596",
+            "pub_year": "2014",
+            "citation": "Transplantation 98, 210, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:EkHepimYqZsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Defining a Beta Cell: An Objective Gene Signature Framework",
+            "pub_year": "2014",
+            "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 54, E281-E281, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:t7zJ5fGR-2UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P3\u2013018: NIA genetics of Alzheimer's disease data storage site (NIAGADS): 2013 update",
+            "pub_year": "2013",
+            "citation": "Alzheimer's & Dementia 9, P556-P556, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:lvd772isFD0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "e-Blood",
+            "pub_year": "2013",
+            "citation": "BLOOD 121 (6), 2013"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:PoWvk5oyLR8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional annotation of microRNAs in signal transduction pathways via high-throughput cell based screening",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:HbR8gkJAVGIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alignment of Cultured Cell Modeling Across OBO Foundry Ontologies: Key Outcomes, Insights.",
+            "pub_year": "2013",
+            "citation": "ICBO, 120, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:2KloaMYe4IUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "USING NON-PARAMETRIC METHODS IN THE CONTEXT OF MULTIPLE TESTING TO DETERMINE DIFFERENTIALLY EXPRESSED",
+            "pub_year": "2012",
+            "citation": "Methods of Microarray Data Analysis: Papers from CAMDA\u201900, 37, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:ML0RJ9NH7IQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NIA Genetics of Alzheimer\u2019s Disease Data Storage Site (NIAGADS)",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:jL-93Qbq4QoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Journal of Biomedical Semantics",
+            "pub_year": "2012",
+            "citation": "Journal of Biomedical Semantics 3, 5, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:hCrLmN-GePgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discovery Approaches to UPR in Athero-Susceptible Endothelium In Vivo",
+            "pub_year": "2011",
+            "citation": "The Unfolded Protein Response and Cellular Stress, Part A, 109, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:zCSUwVk65WsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Investigating conservation and differentiation in related developmental gene regulatory networks",
+            "pub_year": "2010",
+            "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 50, E64-E64, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:PELIpwtuRlgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Erythron Database: Gene Expression From Primary Murine Embryonic, Fetal and Adult Erythroid Cell Precursors.",
+            "pub_year": "2009",
+            "citation": "Blood 114 (22), 780, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:JoZmwDi-zQgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Annotation-based meta-analysis of microarray experiments",
+            "pub_year": "2009",
+            "citation": "Nature Precedings, 1-1, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:RGFaLdJalmkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Standards for Functional Genomics",
+            "pub_year": "2009",
+            "citation": "Bioinformatics: Tools and Applications, 293-329, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:eJXPG6dFmWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational modeling of the Plasmodium falciparum interactome reveals protein function on a genome-wide scale (vol 16, pg 542, 2006)",
+            "pub_year": "2007",
+            "citation": "GENOME RESEARCH 17 (8), 1244-1244, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:WqliGbK-hY8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A simple spreadsheet-based, MIAME-supportive format for microarray data: MAGE-TAB",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:BzfGm06jWhQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "T1DBase: Integration of public and private genetics, genomics and functional data in type 1 diabetes",
+            "pub_year": "2006",
+            "citation": "DIABETOLOGIA 49, 174-175, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:LjlpjdlvIbIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "By PATRICIA L. WHETZEL, HELEN PARKINSON, and",
+            "pub_year": "2006",
+            "citation": "DNA Microarrays, Part B: Databases and Statistics, 325, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:pqnbT2bcN3wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "STAC: A method for testing the significance of DNA copy number",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:P7Ujq4OLJYoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Letter to the editor in\" Wrestling with SUMO and bio-ontologies\"",
+            "pub_year": "2006",
+            "citation": "Nature Biotechnology, 24 (1): 21-22 24 (PNNL-SA-49465), 2006"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:OP4eGU-M3BUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bioinformatics Advance Access published January 19, 2006",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:HtS1dXgVpQUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PaGE 5.1 Technical Manual",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:J_g5lzvAfSwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Accuracy of a cDNA microarray for monitoring gene expression on pancreatic islets",
+            "pub_year": "2003",
+            "citation": "DIABETES 52, A243-A243, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:9vf0nzSNQJEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Information Management Infrastructure for the Systematic Annotation of Vertebrate Genomes",
+            "pub_year": "2003",
+            "citation": "University of Pennsylvania, Philadelphia, PA, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "of Fetal Hemoglobin and Identification of",
+            "pub_year": "2003",
+            "citation": "Annals of the New York Academy of Sciences 445, 159, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:WHdLCjDvYFkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational Methods and Bioinformatic Tools",
+            "pub_year": "2002",
+            "citation": "Analysing Gene Expression: A Handbook of Methods: Possibilities and Pitfalls \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:lSLTfruPkqcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of different labeling methods",
+            "pub_year": "2002",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:1taIhTC69MYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In memory of Vadim Aleksandrovich Ratner.",
+            "pub_year": "2002",
+            "citation": "Silico Biol. 2 (4), 523-524, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:XvxMoLDsR5gC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomics approaches to the study of human globin-gene switching.",
+            "pub_year": "2001",
+            "citation": "BLOOD 98 (11), 499A-500A, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:5awf1xo2G04C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomics of the developing endocrine pancreas",
+            "pub_year": "2001",
+            "citation": "DIABETES 50, A526-A526, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:dTyEYWd-f8wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In Memory of Chris Overton.",
+            "pub_year": "2000",
+            "citation": "Silico Biol. 1, S27-S28, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:JQOojiI6XY0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "reproduced in transiently transfected primary adult human erythroblasts",
+            "pub_year": "1999",
+            "citation": "Experimental Hematology 27 (1), 46-53, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:nRpfm8aw39MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of globin gene regulation and CACC-box binding transcription factors in primary human erythroblasts.",
+            "pub_year": "1998",
+            "citation": "BLOOD 92 (10), 336A-337A, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:VL0QpB8kHFEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EpoDB: An erythropoiesis database for gene sequence analysis.",
+            "pub_year": "1998",
+            "citation": "BLOOD 92 (10), 196A-197A, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:eq2jaN3J8jMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Immune-Response and Myoblasts That Express Fas Ligand-Response",
+            "pub_year": "1997",
+            "citation": "Science 278 (5341), 1324-1324, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:7BrZ7Jt4UNcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of globin promoters by constructs electroporated into cord or adult blood-derived immature erythroblasts closely matches endogenous usage.",
+            "pub_year": "1996",
+            "citation": "BLOOD 88 (10), 593-593, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:_B80troHkn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Immunomodulation of Islet Allografts with Genetically Modified Muscle Cells",
+            "pub_year": "1996",
+            "citation": "Local Immunosuppression of Organ Transplants, 181-192, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:_Re3VWB3Y0AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "REPRESSION OF HUMAN GAMMA-GLOBIN GENE-EXPRESSION IN LINKED GAMMA-BETA-GENE CONSTRUCTS IN MEL CELLS OCCURS IF BOTH HS3 AND HS2 LCR ELEMENTS ARE PRESENT BUT NOT WITH HS2 ALONE",
+            "pub_year": "1994",
+            "citation": "BLOOD 84 (10), A265-A265, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:ye4kPcJQO24C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PART III. MOLECULAR BASIS OF HEREDITARY PERSISTENCE OF FETAL HEMOGLOBIN AND \u0190, \u00df-THALASSEMIA",
+            "pub_year": "1985",
+            "citation": "Fifth Cooley's Anemia Symposium 445, 159, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:CaZNVDsoPx4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular Analysis of Deletion and Nondeletion Hereditary Persistence of Fetal Hemoglobin and Identification of a New Mutation Causing/3-Thalassemia",
+            "pub_year": "1985",
+            "citation": "Fifth Cooley's Anemia Symposium 1001, 159, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:VaXvl8Fpj5cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PLATINUM ATOM LABELING AND THE DETERMINATION OF THE HISTONE PROTEIN POSITIONS WITHIN THE NUCLEOSOME.",
+            "pub_year": "1983",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:sNmaIFBj_lkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Aebi, U., WE Fowler and PR Smith, Three-dimensional structure of pro-teins determined by electron micro-copy",
+            "pub_year": "1982",
+            "citation": "Ultramicroscopy 8 (239), 239-239, 1982"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:IUKN3-7HHlwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LOW RESOLUTION MAPS OF THE HISTONE POSITIONS WITHIN A NUCLEOSOME",
+            "pub_year": "1982",
+            "citation": "BIOPHYSICAL JOURNAL 37 (2), A7-A7, 1982"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:_5tno0g5mFcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "STRUCTURAL STUDIES OF MACROMOLECULES AND THEIR COMPLEXES THROUGH ELECTRON MICROSCOPY OF LABELED SYSTEMS.",
+            "pub_year": "1981",
+            "citation": "American Chemical Society, Polymer Preprints, Division of Polymer Chemistry \u2026, 1981"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:OTTXONDVkokC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COVALENT MODIFICATION OF ANTI-MYOSIN WITH HEAVY-ATOMS FOR USE IN STEM",
+            "pub_year": "1981",
+            "citation": "JOURNAL OF CELL BIOLOGY 91 (2), A353-A353, 1981"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:IRz6iEL74y4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heavy Atom Labeling in Atomic Microscopy",
+            "pub_year": "1979",
+            "citation": "Trace Metals in Health and Disease: New Roles of Metals in Biochemistry, the \u2026, 1979"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:4fGpz3EwCPoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "STEM MICROSCOPY OF POLYSACCHARIDES AND GLYCOPROTEINS",
+            "pub_year": "1979",
+            "citation": "JOURNAL OF SUPRAMOLECULAR STRUCTURE, 94-94, 1979"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ATOMIC MICROSCOPY OF OSMIUM-LABELED POLYSACCHARIDES",
+            "pub_year": "1978",
+            "citation": "JOURNAL OF CELL BIOLOGY 79 (2), A221-A221, 1978"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:2VqYfGB8ITEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Statistical Analysis of Array CGH (STAC): A Novel Approach to Analyzing Multiple Experiments",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:8d8msizDQcsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Concordance of a Point Mutation 5'to the G7 Globin Gene With Hereditary Persistence of Fetal Hemoglobin in the Black Population",
+            "citation": "BLOOD-THE JOURNAL OF THE AMERICAN SOCIETY OF HEMATOLOGY 1001, 1292, 0"
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Standards and Ontologies for Functional Genomics (SOFG)",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OrthoMCL: application of a graph cluster algorithm to comparative genomics and genome annotation",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "Ay7qAI4AAAAJ:SeFeTyx0c_EC",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,923 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput sequencing of DNA G-quadruplex structures in the human genome",
+            "pub_year": "2015",
+            "citation": "Nature biotechnology 33 (8), 877-881, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:0EnyYjriUFMC",
+        "num_citations": 1031,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11364598492156178548",
+        "cites_id": [
+            "11364598492156178548"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA G-quadruplexes in the human genome: detection, functions and therapeutic potential",
+            "pub_year": "2017",
+            "citation": "Nature reviews Molecular cell biology 18 (5), 279-284, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 715,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=375693692390249235",
+        "cites_id": [
+            "375693692390249235"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "G-quadruplex structures mark human regulatory chromatin",
+            "pub_year": "2016",
+            "citation": "Nature genetics 48 (10), 1267-1272, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:4TOpqqG69KYC",
+        "num_citations": 693,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14736769912566506650",
+        "cites_id": [
+            "14736769912566506650"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visualization and selective chemical targeting of RNA G-quadruplex structures in the cytoplasm of human cells",
+            "pub_year": "2014",
+            "citation": "Nature chemistry 6 (1), 75-80, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 563,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17071749872242942053",
+        "cites_id": [
+            "17071749872242942053"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CX-5461 is a DNA G-quadruplex stabilizer with selective lethality in BRCA1/2 deficient tumours",
+            "pub_year": "2017",
+            "citation": "Nature communications 8 (1), 14432, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 428,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3900880632669155802",
+        "cites_id": [
+            "3900880632669155802"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole genome experimental maps of DNA G-quadruplexes in multiple species",
+            "pub_year": "2019",
+            "citation": "Nucleic acids research 47 (8), 3862-3874, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 281,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15041335532825332634",
+        "cites_id": [
+            "15041335532825332634"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-molecule visualization of DNA G-quadruplex formation in live cells",
+            "pub_year": "2020",
+            "citation": "Nature chemistry 12 (9), 832-837, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 218,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12758523532648449576",
+        "cites_id": [
+            "12758523532648449576"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA G-quadruplex structures mold the DNA methylome",
+            "pub_year": "2018",
+            "citation": "Nature structural & molecular biology 25 (10), 951-957, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 183,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17013445028698626394",
+        "cites_id": [
+            "17013445028698626394"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Selective RNA versus DNA G\u2010quadruplex targeting by in situ click chemistry",
+            "pub_year": "2012",
+            "citation": "Angewandte Chemie 124 (44), 11235-11240, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 174,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5924900857648834958",
+        "cites_id": [
+            "5924900857648834958"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quinone methides tethered to naphthalene diimides as selective G-quadruplex alkylating agents",
+            "pub_year": "2009",
+            "citation": "Journal of the American Chemical Society 131 (36), 13132-13141, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 162,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2163421701027037102",
+        "cites_id": [
+            "2163421701027037102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "G-quadruplex DNA as a molecular target for induced synthetic lethality in cancer cells",
+            "pub_year": "2013",
+            "citation": "Journal of the American Chemical Society 135 (26), 9640-9643, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 139,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12845460078169344937",
+        "cites_id": [
+            "12845460078169344937"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pyridostatin analogues promote telomere dysfunction and long-term growth inhibition in human cancer cells",
+            "pub_year": "2012",
+            "citation": "Organic & biomolecular chemistry 10 (32), 6537-6546, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12063562573541361301",
+        "cites_id": [
+            "12063562573541361301"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An RNA thermoswitch regulates daytime growth in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "Nature plants 6 (5), 522-532, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 134,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16212735006827184724",
+        "cites_id": [
+            "16212735006827184724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Machine learning model for sequence-driven DNA G-quadruplex formation",
+            "pub_year": "2017",
+            "citation": "Scientific reports 7 (1), 14535, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:WF5omc3nYNoC",
+        "num_citations": 118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7928160134329619956",
+        "cites_id": [
+            "7928160134329619956"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA G-quadruplex structures: more than simple roadblocks to transcription?",
+            "pub_year": "2021",
+            "citation": "Nucleic acids research 49 (15), 8419-8431, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 114,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9738700048274966043",
+        "cites_id": [
+            "9738700048274966043"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photogeneration and reactivity of naphthoquinone methides as purine selective DNA alkylating agents",
+            "pub_year": "2010",
+            "citation": "Journal of the American Chemical Society 132 (41), 14625-14637, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6802772305353362123",
+        "cites_id": [
+            "6802772305353362123"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "G-quadruplex ligands exhibit differential G-tetrad selectivity",
+            "pub_year": "2015",
+            "citation": "Chemical Communications 51 (38), 8048-8050, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:qUcmZB5y_30C",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18070426954969477032",
+        "cites_id": [
+            "18070426954969477032"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hybrid ligand\u2013alkylating agents targeting telomeric G-quadruplex structures",
+            "pub_year": "2012",
+            "citation": "Organic & biomolecular chemistry 10 (14), 2798-2806, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 95,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=958884026919863318",
+        "cites_id": [
+            "958884026919863318"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Naphthalene diimide scaffolds with dual reversible and covalent interaction properties towards G-quadruplex",
+            "pub_year": "2011",
+            "citation": "Biochimie 93 (8), 1328-1340, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:ufrVoPGSRksC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8397702580642983087",
+        "cites_id": [
+            "8397702580642983087"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic interactions of G-quadruplexes in humans",
+            "pub_year": "2019",
+            "citation": "Elife 8, e46793, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13299422947103182012",
+        "cites_id": [
+            "13299422947103182012"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chemical-biology approaches to probe DNA and RNA G-quadruplex structures in the genome",
+            "pub_year": "2020",
+            "citation": "Chemical communications 56 (9), 1317-1324, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:4DMP91E08xMC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16064389452633097590",
+        "cites_id": [
+            "16064389452633097590"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reprogramming the mechanism of action of chlorambucil by coupling to a G-quadruplex ligand",
+            "pub_year": "2014",
+            "citation": "Journal of the American Chemical Society 136 (16), 5860-5863, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16757006873344441241",
+        "cites_id": [
+            "16757006873344441241"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proximity-induced H-aggregation of cyanine dyes on DNA-duplexes",
+            "pub_year": "2016",
+            "citation": "The Journal of Physical Chemistry A 120 (50), 9941-9947, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15116820795073147086",
+        "cites_id": [
+            "15116820795073147086"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimental approaches to identify cellular G-quadruplex structures and functions",
+            "pub_year": "2012",
+            "citation": "Methods 57 (1), 84-92, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:UebtZRa9Y70C",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10355648395802242946",
+        "cites_id": [
+            "10355648395802242946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Substituted heterocyclic naphthalene diimides with unexpected acidity. Synthesis, properties, and reactivity",
+            "pub_year": "2009",
+            "citation": "The Journal of Organic Chemistry 74 (22), 8616-8625, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3867774274528204626",
+        "cites_id": [
+            "3867774274528204626"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unraveling mechanisms of chiral induction in double-helical metallopolymers",
+            "pub_year": "2018",
+            "citation": "Journal of the American Chemical Society 140 (32), 10344-10353, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:roLk4NBRz8UC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9617258632727245571",
+        "cites_id": [
+            "9617258632727245571"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An acetylene\u2010bridged 6, 8\u2010purine dimer as a fluorescent switch\u2010on probe for parallel G\u2010quadruplexes",
+            "pub_year": "2013",
+            "citation": "Angewandte Chemie 125 (5), 1468-1471, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7344576836933717623",
+        "cites_id": [
+            "7344576836933717623"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quinone methide generation via photoinduced electron transfer",
+            "pub_year": "2011",
+            "citation": "The Journal of Organic Chemistry 76 (9), 3096-3106, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12398297401143554596",
+        "cites_id": [
+            "12398297401143554596"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure of a (3+1) hybrid G-quadruplex in the PARP1 promoter",
+            "pub_year": "2019",
+            "citation": "Nucleic acids research 47 (3), 1564-1572, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10788515645162733882",
+        "cites_id": [
+            "10788515645162733882"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dual Binding of an Antibody and a Small Molecule Increases the Stability of TERRA G\u2010Quadruplex",
+            "pub_year": "2015",
+            "citation": "Angewandte Chemie International Edition 54 (3), 910-913, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2703211056977248683",
+        "cites_id": [
+            "2703211056977248683"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel naphthalene diimides as activatable precursors of bisalkylating agents, by reduction and base catalysis",
+            "pub_year": "2007",
+            "citation": "The Journal of Organic Chemistry 72 (22), 8354-8360, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5697812772069328678",
+        "cites_id": [
+            "5697812772069328678"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Downregulation of androgen receptor transcription by promoter g-quadruplex stabilization as a potential alternative treatment for castrate-resistant prostate cancer",
+            "pub_year": "2013",
+            "citation": "Biochemistry 52 (8), 1429-1436, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4280560716480749222",
+        "cites_id": [
+            "4280560716480749222"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An activatable cancer-targeted hydrogen peroxide probe for photoacoustic and fluorescence imaging",
+            "pub_year": "2019",
+            "citation": "Cancer research 79 (20), 5407-5417, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8935273936432180092",
+        "cites_id": [
+            "8935273936432180092"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light-mediated in cell downregulation of G-quadruplex-containing genes using a photo-caged ligand",
+            "pub_year": "2013",
+            "citation": "Chemical Communications 49 (76), 8453-8455, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2434844970026198697",
+        "cites_id": [
+            "2434844970026198697"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effect of polymer topology on non-covalent polymer\u2013protein complexation: Miktoarm versus linear mPEG-poly (glutamic acid) copolymers",
+            "pub_year": "2017",
+            "citation": "Polymer Chemistry 8 (14), 2210-2220, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:dhFuZR0502QC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17034721809782576765",
+        "cites_id": [
+            "17034721809782576765"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A short peptide that preferentially binds c-MYC G-quadruplex DNA",
+            "pub_year": "2020",
+            "citation": "Chemical Communications 56 (63), 8940-8943, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:5nxA0vEk-isC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11472601049405347700",
+        "cites_id": [
+            "11472601049405347700"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The unexplored potential of quinone methides in chemical biology",
+            "pub_year": "2019",
+            "citation": "Bioorganic & Medicinal Chemistry 27 (12), 2298-2305, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:Zph67rFs4hoC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12780703637677317891",
+        "cites_id": [
+            "12780703637677317891"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cockayne syndrome b protein selectively resolves and interact with intermolecular DNA G-Quadruplex structures",
+            "pub_year": "2021",
+            "citation": "Journal of the American Chemical Society 143 (49), 20988-21002, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3386828461288250410",
+        "cites_id": [
+            "3386828461288250410"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cation-responsive and photocleavable hydrogels from noncanonical amphiphilic dna nanostructures",
+            "pub_year": "2022",
+            "citation": "Nano Letters 22 (2), 602-611, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:TQgYirikUcIC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9776003662414589942",
+        "cites_id": [
+            "9776003662414589942"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Long-range DNA interactions: inter-molecular G-quadruplexes and their potential biological relevance",
+            "pub_year": "2022",
+            "citation": "Chemical Communications 58 (92), 12753-12762, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:r0BpntZqJG4C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2955076784404356195",
+        "cites_id": [
+            "2955076784404356195"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Short LNA-modified oligonucleotide probes as efficient disruptors of DNA G-quadruplexes",
+            "pub_year": "2022",
+            "citation": "Nucleic Acids Research 50 (13), 7247-7259, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:RHpTSmoSYBkC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8047553295217039673",
+        "cites_id": [
+            "8047553295217039673"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "G-quadruplexes Mark Sites of Methylation Instability Associated with Ageing and Cancer",
+            "pub_year": "2022",
+            "citation": "Genes 13 (9), 1665, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3958494946174371331",
+        "cites_id": [
+            "3958494946174371331"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA G-734 quadruplexes in the human genome: detection, functions and therapeutic potential. Nat. 735 Rev",
+            "pub_year": "2017",
+            "citation": "Mol. Cell. Biol, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17746989539224455308",
+        "cites_id": [
+            "17746989539224455308"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Editorial (Thematic Issue: Quinone Methides Generation: Applications in Chemical Biology)",
+            "pub_year": "2014",
+            "citation": "Current Organic Chemistry 18 (1), 2-2, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:aqlVkmm33-oC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15869968489904820263,13760045272382366996",
+        "cites_id": [
+            "15869968489904820263",
+            "13760045272382366996"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cockayne Syndrome B protein selectively interacts and resolves intermolecular DNA G-quadruplex structures",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.03. 25.436565, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:M3ejUd6NZC8C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14785738122226847669",
+        "cites_id": [
+            "14785738122226847669"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Replication-induced DNA secondary structures drive fork uncoupling and breakage",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.11. 18.517070, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:iH-uZ7U-co4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5351930662064215929,1965640732792483020",
+        "cites_id": [
+            "5351930662064215929",
+            "1965640732792483020"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An activatable contrast agent for photoacoustic imaging to probe oxidative stress in cancer",
+            "pub_year": "2016",
+            "citation": "Age 16, 19, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:maZDTaKrznsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14629021149980975839",
+        "cites_id": [
+            "14629021149980975839"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "G\u2010Quadruplexes as Key Transcriptional Regulators in Neglected Trypanosomatid Parasites",
+            "pub_year": "2023",
+            "citation": "ChemBioChem 24 (12), e202300265, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:blknAaTinKkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PSL Chemical Biology Symposia Third Edition: A Branch of Science in its Explosive Phase",
+            "pub_year": "2023",
+            "citation": "ChemBioChem, e202300093, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The C9Orf72 hexanucleotide repeat expansion aggregates by means of multimolecular G-quadruplex formation",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.01. 31.526399, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:JV2RwH3_ST0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The C9Orf72 hexanucleotide repeat expansion transcript forms insoluble aggregates facilitated by multimolecular G-quadruplex structures",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:k_IJM867U9cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cellular visualization of G-quadruplex RNA via fluorescence lifetime imaging microscopy",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.05. 07.539224, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:hMod-77fHWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "rsc. li/chemcomm",
+            "pub_year": "2022",
+            "citation": "Chem. Commun 58, 12803, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cation and light-responsive frameworks from non-canonical amphiphilic DNA nanostructures",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:mB3voiENLucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring Real-time Temperature Dynamics of a Short RNA Hairpin Using F\u00f6rster Resonance Energy Transfer and Circular Dichroism",
+            "pub_year": "2021",
+            "citation": "Bio-protocol 11 (6), e3950-e3950, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA G-quadruplex structures: more than simple roadblocks to transcription?",
+            "pub_year": "2021",
+            "citation": "Oxford University Press, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:HDshCWvjkbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic interactions of G-quadruplexes in humans",
+            "pub_year": "2019",
+            "citation": "eLife Sciences Publications Ltd, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:TFP_iSt0sucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure of a (3+ 1) hybrid G-quadruplex in the PARP1 promoter",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:isC4tDSrTZIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New Molecular Devices for Selective Structural Modifications of G-Quadruplex Folded Oligonucleotides",
+            "pub_year": "2011",
+            "citation": "Universit\u00e0 degli studi di Padova, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generation and Chemistry of Quinone Methides Targeting G-quadruplexes",
+            "pub_year": "2011",
+            "citation": "Third International meeting on G-quadruplex and G-assembly Book of Abstracts, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:NMxIlDl6LWMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Short LNA-modified oligonucleotide probes as efficient disruptors of DNA G-quadruplexes",
+            "citation": "Oxford University Press, 0"
+        },
+        "filled": false,
+        "author_pub_id": "xhR_5Q0AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 0
+    }
+]

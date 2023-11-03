@@ -1,0 +1,1142 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CTR1, a negative regulator of the ethylene response pathway in Arabidopsis, encodes a member of the raf family of protein kinases",
+            "pub_year": "1993",
+            "citation": "Cell 72 (3), 427-441, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 2284,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18431362949863069054,18439245370872043558",
+        "cites_id": [
+            "18431362949863069054",
+            "18439245370872043558"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EIN2, a bifunctional transducer of ethylene and stress responses in Arabidopsis",
+            "pub_year": "1999",
+            "citation": "Science 284 (5423), 2148-2152, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1549,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16998562639466532720",
+        "cites_id": [
+            "16998562639466532720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Activation of the ethylene gas response pathway in Arabidopsis by the nuclear protein ETHYLENE-INSENSITIVE3 and related proteins",
+            "pub_year": "1997",
+            "citation": "Cell 89 (7), 1133-1144, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 1140,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15837709656099832538",
+        "cites_id": [
+            "15837709656099832538"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic analysis of ethylene signal transduction in Arabidopsis thaliana: five novel mutant loci integrated into a stress response pathway.",
+            "pub_year": "1995",
+            "citation": "Genetics 139 (3), 1393-1409, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 735,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7128455739529158868",
+        "cites_id": [
+            "7128455739529158868"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P{Switch}, a system for spatial and temporal control of gene expression in Drosophila melanogaster",
+            "pub_year": "2001",
+            "citation": "Proceedings of the national academy of sciences 98 (22), 12602-12607, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 459,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17755263099836120797",
+        "cites_id": [
+            "17755263099836120797"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of Drosophila life span by olfaction and food-derived odors",
+            "pub_year": "2007",
+            "citation": "Science 315 (5815), 1133-1137, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 433,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17793955080201597772",
+        "cites_id": [
+            "17793955080201597772"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic spreading of the Drosophila dosage compensation complex from roX RNA genes into flanking chromatin",
+            "pub_year": "1999",
+            "citation": "Cell 98 (4), 513-522, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 337,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14670334688708074980",
+        "cites_id": [
+            "14670334688708074980"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression systems in Drosophila: a synthesis of time and space",
+            "pub_year": "2004",
+            "citation": "TRENDS in Genetics 20 (8), 384-391, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 336,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11728153126620303796",
+        "cites_id": [
+            "11728153126620303796"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "roX1 RNA paints the X chromosome of male Drosophila and is regulated by the dosage compensation system",
+            "pub_year": "1997",
+            "citation": "Cell 88 (4), 445-457, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:qjMakFHDy7sC",
+        "num_citations": 316,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11632554375010475566",
+        "cites_id": [
+            "11632554375010475566"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "mTORC2 controls actin polymerization required for consolidation of long-term memory",
+            "pub_year": "2013",
+            "citation": "Nature neuroscience 16 (4), 441-448, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:_kc_bZDykSQC",
+        "num_citations": 292,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5009030731305454761",
+        "cites_id": [
+            "5009030731305454761"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Role for the Adult Fat Body in Drosophila Male Courtship Behavior",
+            "pub_year": "2007",
+            "citation": "PLoS genetics 3 (1), e16, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 159,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3072092789058353409",
+        "cites_id": [
+            "3072092789058353409"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pharmacogenetic rescue in time and space of the rutabaga memory impairment by using Gene-Switch",
+            "pub_year": "2004",
+            "citation": "Proceedings of the National Academy of Sciences 101 (1), 198-203, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 156,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4791248280884543963",
+        "cites_id": [
+            "4791248280884543963"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular biology and anatomy of Drosophila olfactory associative learning",
+            "pub_year": "2001",
+            "citation": "Bioessays 23 (7), 571-581, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 155,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5013769562268308995",
+        "cites_id": [
+            "5013769562268308995"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatial and temporal control of gene expression in Drosophila using the inducible GeneSwitch GAL4 system. I. Screen for larval nervous system drivers",
+            "pub_year": "2008",
+            "citation": "Genetics 178 (1), 215-234, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:roLk4NBRz8UC",
+        "num_citations": 152,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12430714799792355701",
+        "cites_id": [
+            "12430714799792355701"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Melatonin suppresses nighttime memory formation in zebrafish",
+            "pub_year": "2007",
+            "citation": "Science 318 (5853), 1144-1146, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 151,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16979279998350749917",
+        "cites_id": [
+            "16979279998350749917"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cycling behavior and memory formation",
+            "pub_year": "2009",
+            "citation": "Journal of Neuroscience 29 (41), 12824-12830, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:ufrVoPGSRksC",
+        "num_citations": 149,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3024945250088847995",
+        "cites_id": [
+            "3024945250088847995"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Blue-Light Photoreceptor CRYPTOCHROME Is Expressed in a Subset of Circadian Oscillator Neurons in the Drosophila CNS",
+            "pub_year": "2008",
+            "citation": "Journal of biological rhythms 23 (4), 296-307, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4087665684969260991",
+        "cites_id": [
+            "4087665684969260991"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian modulation of short-term memory in Drosophila",
+            "pub_year": "2009",
+            "citation": "Learning & memory 16 (1), 19-27, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:UebtZRa9Y70C",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8549998763857985081",
+        "cites_id": [
+            "8549998763857985081"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "kurtz, a Novel Nonvisual Arrestin, Is an Essential Neural Gene in Drosophila",
+            "pub_year": "2000",
+            "citation": "Genetics 155 (3), 1281-1295, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:WF5omc3nYNoC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4922143959679243517",
+        "cites_id": [
+            "4922143959679243517"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The retinal determination gene, dachshund, is required for mushroom body cell differentiation",
+            "pub_year": "2000",
+            "citation": "Development 127 (12), 2663-2672, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=239130343927000830",
+        "cites_id": [
+            "239130343927000830"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploratory Activity in Drosophila Requires the kurtz Nonvisual Arrestin",
+            "pub_year": "2007",
+            "citation": "Genetics 175 (3), 1197-1212, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11795908042236030877",
+        "cites_id": [
+            "11795908042236030877"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "G(o) signaling is required for Drosophila associative learning",
+            "pub_year": "2006",
+            "citation": "Nature neuroscience 9 (8), 1036-1040, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17966310034061784424",
+        "cites_id": [
+            "17966310034061784424"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Open\u2010field arena boundary is a primary object of exploration for Drosophila",
+            "pub_year": "2012",
+            "citation": "Brain and behavior 2 (2), 97-108, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:4TOpqqG69KYC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9095192100339920715",
+        "cites_id": [
+            "9095192100339920715"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Carbon Dioxide Sensing Modulates Lifespan and Physiology in Drosophila",
+            "pub_year": "2010",
+            "citation": "PLoS biology 8 (4), e1000356, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:0EnyYjriUFMC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7787396590878497169",
+        "cites_id": [
+            "7787396590878497169"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differentially timed extracellular signals synchronize pacemaker neuron clocks",
+            "pub_year": "2014",
+            "citation": "PLoS biology 12 (9), e1001959, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:BqipwSGYUEgC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=257528975575606383",
+        "cites_id": [
+            "257528975575606383"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantum origins of molecular recognition and olfaction in Drosophila",
+            "pub_year": "2012",
+            "citation": "The Journal of chemical physics 137 (22), 2012"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10077450752319847068",
+        "cites_id": [
+            "10077450752319847068"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conditional expression of UAS-transgenes in the adult eye with a new gene-switch vector system",
+            "pub_year": "2002",
+            "citation": "genesis 34 (1-2), 127-131, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:5nxA0vEk-isC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17872342695791755293",
+        "cites_id": [
+            "17872342695791755293"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The propensity for consuming ethanol in Drosophila requires rutabaga adenylyl cyclase expression within mushroom body neurons",
+            "pub_year": "2012",
+            "citation": "Genes, Brain and Behavior 11 (6), 727-739, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15058183199023437853",
+        "cites_id": [
+            "15058183199023437853"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Go contributes to olfactory reception in Drosophila melanogaster",
+            "pub_year": "2009",
+            "citation": "BMC physiology 9, 1-7, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16035448881979737046",
+        "cites_id": [
+            "16035448881979737046"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic analysis of a seedling stress response to ethylene in Arabidopsis",
+            "pub_year": "1995",
+            "citation": "Philosophical Transactions of the Royal Society of London. Series B \u2026, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:8k81kl-MbHgC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1495868868735269551",
+        "cites_id": [
+            "1495868868735269551"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The opt1 gene ofDrosophila melanogaster encodes  a proton-dependent dipeptide transporter",
+            "pub_year": "1998",
+            "citation": "American Journal of Physiology-Cell Physiology 275 (3), C857-C869, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:Se3iqnhoufwC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6519335135159926313",
+        "cites_id": [
+            "6519335135159926313"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genetics of Drosophila transgenics",
+            "pub_year": "2004",
+            "citation": "Bioessays 26 (11), 1243-1253, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15174003766700811738",
+        "cites_id": [
+            "15174003766700811738"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Presynaptic inhibition of gamma lobe neurons is required for olfactory learning in Drosophila",
+            "pub_year": "2013",
+            "citation": "Current Biology 23 (24), 2519-2527, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:k_IJM867U9cC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4650984064928685977",
+        "cites_id": [
+            "4650984064928685977"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The pre\u2010synaptic Munc13\u20101 binds alcohol and modulates alcohol self\u2010administration in Drosophila",
+            "pub_year": "2013",
+            "citation": "Journal of neurochemistry 126 (6), 715-726, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:IWHjjKOFINEC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7285174026093894484",
+        "cites_id": [
+            "7285174026093894484"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TORC2: a novel target for treating age-associated memory impairment",
+            "pub_year": "2015",
+            "citation": "Scientific reports 5 (1), 15193, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:H30kdXGRGPkC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3390647114598868810",
+        "cites_id": [
+            "3390647114598868810"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Drosophila Nonvisual Arrestin Is Required for the Maintenance of Olfactory Sensitivity",
+            "pub_year": "2006",
+            "citation": "Chemical senses 31 (1), 49-62, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4525210831096009349",
+        "cites_id": [
+            "4525210831096009349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Excision and transposition of two Ds transposons from the bronze mutable 4 Derivative 6856 allele of Zea mays L.",
+            "pub_year": "1990",
+            "citation": "Molecular and General Genetics MGG 221, 475-485, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17119484482327119432",
+        "cites_id": [
+            "17119484482327119432"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional characterization of kurtz, a Drosophila non-visual arrestin, reveals conservation of GPCR desensitization mechanisms",
+            "pub_year": "2008",
+            "citation": "Insect biochemistry and molecular biology 38 (11), 1016-1022, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:Zph67rFs4hoC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15383292691186653920",
+        "cites_id": [
+            "15383292691186653920"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drosophila increase exploration after visually detecting predators",
+            "pub_year": "2017",
+            "citation": "PLoS One 12 (7), e0180749, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:QLZAdv6BrvsC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15795753472866157721",
+        "cites_id": [
+            "15795753472866157721"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling Drosophila Positional Preferences in Open Field Arenas with Directional Persistence and Wall Attraction",
+            "pub_year": "2012",
+            "citation": "Public Library of Science 7 (10), e46570, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13403487634785832169",
+        "cites_id": [
+            "13403487634785832169"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling novelty habituation during exploratory activity in Drosophila",
+            "pub_year": "2013",
+            "citation": "Behavioural processes 97, 63-75, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17404583382137735702",
+        "cites_id": [
+            "17404583382137735702"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The FlyBar: administering alcohol to flies",
+            "pub_year": "2014",
+            "citation": "JoVE (Journal of Visualized Experiments), e50442, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:blknAaTinKkC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7179046187992854104",
+        "cites_id": [
+            "7179046187992854104"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New Series of Drosophila Expression Vectors Suitable for Behavioral Rescue",
+            "pub_year": "1999",
+            "citation": "Biotechniques 27 (1), 54-56, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3602574163785595750",
+        "cites_id": [
+            "3602574163785595750"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ethanol regulates presynaptic activity and sedation through presynaptic Unc13 proteins in Drosophila",
+            "pub_year": "2018",
+            "citation": "eneuro 5 (3), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:fveVehIkgekC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7658559755834176055",
+        "cites_id": [
+            "7658559755834176055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "G (o) activation is required for both appetitive and aversive memory acquisition in Drosophila",
+            "pub_year": "2012",
+            "citation": "Learning & memory 19 (1), 26-34, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:aqlVkmm33-oC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=610788967126550088",
+        "cites_id": [
+            "610788967126550088"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutants of the white ABCG Transporter in Drosophila melanogaster Have Deficient Olfactory Learning and Cholesterol Homeostasis",
+            "pub_year": "2021",
+            "citation": "International Journal of Molecular Sciences 22 (23), 12967, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:bCDyRX4i8-MC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10591370750248430237",
+        "cites_id": [
+            "10591370750248430237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant genes for sensitivity to ethylene and pathogens",
+            "pub_year": "1997",
+            "citation": "US Patent 5,650,553, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17648246214256193932",
+        "cites_id": [
+            "17648246214256193932"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Normal Ethanol Sensitivity and Rapid Tolerance Require the G Protein Receptor Kinase 2 in Ellipsoid Body Neurons in Drosophila",
+            "pub_year": "2020",
+            "citation": "Alcoholism: Clinical and Experimental Research 44 (8), 1686-1699, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:ZnWe2zbntUIC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10766397881141298155",
+        "cites_id": [
+            "10766397881141298155"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploratory activity and habituation of Drosophila in confined domains",
+            "pub_year": "2014",
+            "citation": "The European Physical Journal Special Topics 223, 1787-1803, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4778685396778615318",
+        "cites_id": [
+            "4778685396778615318"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effective models for gene networks and their applications",
+            "pub_year": "2012",
+            "citation": "Biophysical Reviews and Letters 7 (01n02), 41-70, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3274694652236478606",
+        "cites_id": [
+            "3274694652236478606"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MUNC13-1 heterozygosity does not alter voluntary ethanol consumption or sensitivity in mice",
+            "pub_year": "2020",
+            "citation": "Alcohol 83, 89-97, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:rKOGDx9nJ1EC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12046093518069048302",
+        "cites_id": [
+            "12046093518069048302"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential expression of presynaptic Munc13-1 and Munc13-2 in mouse hippocampus following ethanol drinking",
+            "pub_year": "2022",
+            "citation": "Neuroscience 487, 166-183, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:auQHJw8QJBgC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17886999979768834700",
+        "cites_id": [
+            "17886999979768834700"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A theory for the arrangement of sensory organs in Drosophila",
+            "pub_year": "2010",
+            "citation": "Chaos: An Interdisciplinary Journal of Nonlinear Science 20 (1), 2010"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11671047680984102",
+        "cites_id": [
+            "11671047680984102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Accumulation of dehydrodiconiferyl alcohol glucoside in cytokinin habituated cell lines",
+            "pub_year": "1992",
+            "citation": "Physiology and biochemistry of cytokinins in plants, 59-64, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:0lma3NU_mqEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2532180216012715313",
+        "cites_id": [
+            "2532180216012715313"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ionic Liquid Coating-Driven Nanoparticle Delivery to the Brain: Applications for NeuroHIV",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:2VmNxfDIOWgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18420446968718702750",
+        "cites_id": [
+            "18420446968718702750"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Memory formation: Traversing the highwire",
+            "pub_year": "2012",
+            "citation": "Current Biology 22 (21), R927-R929, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:TQgYirikUcIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15040225605989403196",
+        "cites_id": [
+            "15040225605989403196"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic analysis of ethylene signal transduction and the positional cloning of theein2 locus of Arabidopsis thaliana",
+            "pub_year": "1995",
+            "citation": "University of Pennsylvania, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:Rc-B-9qnGaUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18145736522572654812",
+        "cites_id": [
+            "18145736522572654812"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GENETIC INTERACTIONS OF PRESYNAPTIC PROTEINS IN DROSOPHILA SEDATION SENSITIVTY",
+            "pub_year": "2022",
+            "citation": "ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH 46, 127A-127A, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:tDdgxD0hSQMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain Wellness Constellation Program Activities",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:Wu2CBzYYpfQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PRESYNAPTIC MUNC13-1 IS AN ETHANOL BINDING PROTEIN AND EFFECTOR OF ETHANOL SEDATION SENSITIVITY",
+            "pub_year": "2015",
+            "citation": "ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH 39, 71A-71A, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:9xhnSCvx0jcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "UNC-13, A PRESYNAPTIC ALCOHOL RECEPTOR, REGULATES ALCOHOL-RELATED BEHAVIOR IN DROSOPHILA",
+            "pub_year": "2013",
+            "citation": "ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH 37, 71A-71A, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PREFERRED ETHANOL SELF-ADMINISTRATION REQUIRES RUTABAGA EXPRESSION WITHIN MUSHROOM BODY NEURONS",
+            "pub_year": "2012",
+            "citation": "ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH 36, 398A-398A, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:HDshCWvjkbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "REDUCING UNC-13, A PRESYNAPTIC ETHANOL BINDING PROTEIN, IN DROSOPHILA MELANOGASTER INCREASES ETHANOL SELF ADMINSISTRATION",
+            "pub_year": "2012",
+            "citation": "ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH 36, 258A-258A, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A PREFERENCE FOR ETHANOL IN DROSOPHILA MELANOGASTER REQUIRES THE ACTIVITY OF THE RUTABAGA TYPE I ADENYLYL CYCLASE",
+            "pub_year": "2010",
+            "citation": "ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH 34 (6), 40A-40A, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "THE NECESSITY OF GPRK ACTIVITY FOR ETHANOL SEDATION SENSITIVITY IN DROSOPHILA",
+            "pub_year": "2010",
+            "citation": "ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH 34 (6), 190A-190A, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HETEROLOGOUS DESENSITIZATION OF GPCR SIGNALING WITHIN ELLIPSOID BODY NEURONS OF DROSOPHILA MODULATES THE RATE OF ETHANOL SEDATION",
+            "pub_year": "2009",
+            "citation": "ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH 33 (6), 318A-318A, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environmental Cues Driving Exploration in Drosophila melanogaster: Attending the Edge",
+            "pub_year": "2009",
+            "citation": "JOURNAL OF NEUROGENETICS 23, S78-S78, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Agonist-dependent desensitization modulates ethanol sedation in drosophila",
+            "pub_year": "2008",
+            "citation": "ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH 32 (6), 76A-76A, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:mB3voiENLucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Melatonin Suppresses Nighttime Memory Formation in Zebrafish",
+            "pub_year": "2008",
+            "citation": "The FASEB Journal 22, 905.7-905.7, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The takeout gene family is male specifically expressed and plays a role in courtship",
+            "pub_year": "2006",
+            "citation": "JOURNAL OF NEUROGENETICS 20 (3-4), 144-144, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:-f6ydRqryjwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dissecting exploration from open field activity",
+            "pub_year": "2006",
+            "citation": "JOURNAL OF NEUROGENETICS 20 (3-4), 164-165, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:qUcmZB5y_30C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complex circadian regulation of takeout RNA and protein levels",
+            "pub_year": "2006",
+            "citation": "JOURNAL OF NEUROGENETICS 20 (3-4), 157-158, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drosophila Homer regulates sensitivity to ethanol",
+            "pub_year": "2005",
+            "citation": "ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH 29 (5), 10A-10A, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant genes for sensitivity to ethylene and pathogens",
+            "pub_year": "1997",
+            "citation": "Patent NumberUS Patent 5650553, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:qNJvDq80yDAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The shrunken bronze-mutable 4 allelic family: characterization of a\" changed state\", sh bz-m4 derivative 6843B, of the original bz-m4 mutation.",
+            "pub_year": "1990",
+            "citation": "Maydica 35 (4), 339-351, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian modulation of short-term memory in",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "kliUKtEAAAAJ:Xc-mKOjpdrwC",
+        "num_citations": 0
+    }
+]

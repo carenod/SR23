@@ -1,0 +1,4320 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "First operational BRDF, albedo nadir reflectance products from MODIS",
+            "pub_year": "2002",
+            "citation": "Remote sensing of Environment 83 (1-2), 135-148, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 2491,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12479501628211422372",
+        "cites_id": [
+            "12479501628211422372"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Moderate Resolution Imaging Spectroradiometer (MODIS): Land remote sensing for global change research",
+            "pub_year": "1998",
+            "citation": "IEEE transactions on geoscience and remote sensing 36 (4), 1228-1249, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1859,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2362708803832889337",
+        "cites_id": [
+            "2362708803832889337"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prototyping a global algorithm for systematic fire-affected area mapping using MODIS time series data",
+            "pub_year": "2005",
+            "citation": "Remote sensing of environment 97 (2), 137-162, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 683,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1675266604813972777",
+        "cites_id": [
+            "1675266604813972777"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fast automatic precision tree models from terrestrial laser scanner data",
+            "pub_year": "2013",
+            "citation": "Remote Sensing 5 (2), 491-520, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:NJ774b8OgUMC",
+        "num_citations": 642,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4992311566472204033",
+        "cites_id": [
+            "4992311566472204033"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-temporal MODIS\u2013Landsat data fusion for relative radiometric normalization, gap filling, and prediction of Landsat data",
+            "pub_year": "2008",
+            "citation": "Remote Sensing of Environment 112 (6), 3112-3130, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 565,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10276574607483892857",
+        "cites_id": [
+            "10276574607483892857"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Burned area mapping using multi-temporal moderate spatial resolution data\u2014A bi-directional reflectance model-based expectation approach",
+            "pub_year": "2002",
+            "citation": "Remote sensing of environment 83 (1-2), 263-286, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 513,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15796803115134764194",
+        "cites_id": [
+            "15796803115134764194"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retrieval and global assessment of terrestrial chlorophyll fluorescence from GOSAT space measurements",
+            "pub_year": "2012",
+            "citation": "Remote Sensing of Environment 121, 236-251, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 491,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9058212348601213338",
+        "cites_id": [
+            "9058212348601213338"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hyperspectral remote sensing of foliar nitrogen content",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (3), E185-E192, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 463,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12400753651460822498",
+        "cites_id": [
+            "12400753651460822498"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global retrieval of bidirectional reflectance and albedo over land from EOS MODIS and MISR data: Theory and algorithm",
+            "pub_year": "1997",
+            "citation": "Journal of Geophysical Research: Atmospheres 102 (D14), 17143-17161, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:_Re3VWB3Y0AC",
+        "num_citations": 424,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=222412251970671694",
+        "cites_id": [
+            "222412251970671694"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Geostatistical classification for remote sensing: an introduction",
+            "pub_year": "2000",
+            "citation": "Computers & Geosciences 26 (4), 361-371, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 423,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12158426135999672294",
+        "cites_id": [
+            "12158426135999672294"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developments in the'validation'of satellite sensor products for the study of the land surface",
+            "pub_year": "2000",
+            "citation": "International Journal of Remote Sensing 21 (17), 3383-3390, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 323,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4839817656075574083",
+        "cites_id": [
+            "4839817656075574083"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying vegetation biophysical variables from imaging spectroscopy data: a review on retrieval methods",
+            "pub_year": "2019",
+            "citation": "Surveys in Geophysics 40, 589-629, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:7wO8s98CvbsC",
+        "num_citations": 310,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18215994969121542251",
+        "cites_id": [
+            "18215994969121542251"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Third Radiation Transfer Model Intercomparison (RAMI) exercise: Documenting progress in canopy reflectance models",
+            "pub_year": "2007",
+            "citation": "Journal of Geophysical Research: Atmospheres 112 (D9), 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 299,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14606243741223631429",
+        "cites_id": [
+            "14606243741223631429"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Can we measure terrestrial photosynthesis from space directly, using spectral reflectance and fluorescence?",
+            "pub_year": "2007",
+            "citation": "Global Change Biology 13 (7), 1484-1497, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 293,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7845786290223830233",
+        "cites_id": [
+            "7845786290223830233"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MODIS BRDF/albedo product: algorithm theoretical basis document version 5.0",
+            "pub_year": "1999",
+            "citation": "MODIS documentation 23 (4), 42-47, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 283,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3788423308722676890",
+        "cites_id": [
+            "3788423308722676890"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A general method to normalize Landsat reflectance data to nadir BRDF adjusted reflectance",
+            "pub_year": "2016",
+            "citation": "Remote Sensing of Environment 176, 255-271, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:sNmaIFBj_lkC",
+        "num_citations": 268,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3814607862213621933",
+        "cites_id": [
+            "3814607862213621933"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilation of remote sensing into crop growth models: Current status and perspectives",
+            "pub_year": "2019",
+            "citation": "Agricultural and forest meteorology 276, 107609, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:RoXSNcbkSzsC",
+        "num_citations": 248,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=963361724061593301",
+        "cites_id": [
+            "963361724061593301"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D modelling of forest canopy structure for remote sensing simulations in the optical and microwave domains",
+            "pub_year": "2006",
+            "citation": "Remote Sensing of Environment 100 (1), 114-132, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 214,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=77841298675460787",
+        "cites_id": [
+            "77841298675460787"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiation Transfer Model Intercomparison (RAMI) exercise: Results from the second phase",
+            "pub_year": "2004",
+            "citation": "Journal of Geophysical Research: Atmospheres 109 (D6), 2004"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:qjMakFHDy7sC",
+        "num_citations": 211,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14983581707799519617",
+        "cites_id": [
+            "14983581707799519617"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monte Carlo ray tracing in optical canopy reflectance modelling",
+            "pub_year": "2000",
+            "citation": "Remote Sensing Reviews 18 (2-4), 163-196, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:ufrVoPGSRksC",
+        "num_citations": 200,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10142270206046499585",
+        "cites_id": [
+            "10142270206046499585"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Three-dimensional plant modelling for remote sensing simulation studies using the Botanical Plant Modelling System",
+            "pub_year": "1999",
+            "citation": "Agronomie 19 (3-4), 185-210, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 200,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=162371721872213722",
+        "cites_id": [
+            "162371721872213722"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Investigation of the utility of spectral vegetation indices for determining information on coniferous forests",
+            "pub_year": "1998",
+            "citation": "Remote Sensing of Environment 66 (3), 250-272, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:WF5omc3nYNoC",
+        "num_citations": 196,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6444725101885967653",
+        "cites_id": [
+            "6444725101885967653"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing the coupling between surface albedo derived from MODIS and the fraction of diffuse skylight over spatially-characterized landscapes",
+            "pub_year": "2010",
+            "citation": "Remote sensing of environment 114 (4), 738-760, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 188,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2492246168154596169",
+        "cites_id": [
+            "2492246168154596169"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Theoretical noise sensitivity of BRDF and albedo retrieval from the EOS-MODIS and MISR sensors with respect to angular sampling",
+            "pub_year": "2000",
+            "citation": "International journal of remote sensing 21 (1), 81-98, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 183,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16498183334329954835",
+        "cites_id": [
+            "16498183334329954835"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The fourth phase of the radiative transfer model intercomparison (RAMI) exercise: Actual canopy scenarios and conformity testing",
+            "pub_year": "2015",
+            "citation": "Remote Sensing of Environment 169, 418-437, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:kh2fBNsKQNwC",
+        "num_citations": 178,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14334751185928874881",
+        "cites_id": [
+            "14334751185928874881"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Influence of the sky radiance distribution on various formulations of the earth surface albedo",
+            "pub_year": "1994",
+            "citation": "6th International Symposium on Physical Measurements and Signatures in \u2026, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:roLk4NBRz8UC",
+        "num_citations": 175,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13164084745126569478",
+        "cites_id": [
+            "13164084745126569478"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Canopy spectral invariants for remote sensing and model applications",
+            "pub_year": "2007",
+            "citation": "Remote Sensing of Environment 106 (1), 106-122, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 174,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15678334367793263347",
+        "cites_id": [
+            "15678334367793263347"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilating canopy reflectance data into an ecosystem model with an Ensemble Kalman Filter",
+            "pub_year": "2008",
+            "citation": "Remote Sensing of Environment 112 (4), 1347-1364, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:Se3iqnhoufwC",
+        "num_citations": 160,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7578511960160990716",
+        "cites_id": [
+            "7578511960160990716"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An assessment of the MODIS collection 5 leaf area index product for a region of mixed coniferous forest",
+            "pub_year": "2011",
+            "citation": "Remote Sensing of Environment 115 (2), 767-780, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 152,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7977918871251013910",
+        "cites_id": [
+            "7977918871251013910"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating the impact of discrete-return lidar system and survey characteristics over young conifer and broadleaf forests",
+            "pub_year": "2010",
+            "citation": "Remote Sensing of Environment 114 (7), 1546-1560, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:aqlVkmm33-oC",
+        "num_citations": 143,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7345548313829372399",
+        "cites_id": [
+            "7345548313829372399"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the information content of multiple view angle (MVA) images",
+            "pub_year": "1997",
+            "citation": "International journal of remote sensing 18 (9), 1937-1960, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 132,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10513158027854820140",
+        "cites_id": [
+            "10513158027854820140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developing a dual-wavelength full-waveform terrestrial laser scanner to characterize forest canopy structure",
+            "pub_year": "2014",
+            "citation": "Agricultural and Forest Meteorology 198, 7-14, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:LI9QrySNdTsC",
+        "num_citations": 131,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8186577787503895722",
+        "cites_id": [
+            "8186577787503895722"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The fourth radiation transfer model intercomparison (RAMI\u2010IV): Proficiency testing of canopy reflectance models with ISO\u201013528",
+            "pub_year": "2013",
+            "citation": "Journal of Geophysical Research: Atmospheres 118 (13), 6869-6890, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:uJ-U7cs_P_0C",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3964040344742139113",
+        "cites_id": [
+            "3964040344742139113"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Direct retrieval of canopy gap probability using airborne waveform lidar",
+            "pub_year": "2013",
+            "citation": "Remote Sensing of Environment 134, 24-38, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:JoZmwDi-zQgC",
+        "num_citations": 127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6257319676944859519",
+        "cites_id": [
+            "6257319676944859519"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spectral invariants and scattering across multiple scales from within-leaf to canopy",
+            "pub_year": "2007",
+            "citation": "Remote Sensing of Environment 109 (2), 196-206, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:UebtZRa9Y70C",
+        "num_citations": 122,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16739603046963903469",
+        "cites_id": [
+            "16739603046963903469"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An earth observation land data assimilation system (EO-LDAS)",
+            "pub_year": "2012",
+            "citation": "Remote Sensing of Environment 120, 219-235, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=567012091272927055",
+        "cites_id": [
+            "567012091272927055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The RAMI On-line Model Checker (ROMC): A web-based benchmarking facility for canopy reflectance models",
+            "pub_year": "2008",
+            "citation": "Remote Sensing of Environment 112 (3), 1144-1150, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:8k81kl-MbHgC",
+        "num_citations": 106,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6586783369140395577",
+        "cites_id": [
+            "6586783369140395577"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Realistic forest stand reconstruction from terrestrial LiDAR for radiative transfer modelling",
+            "pub_year": "2018",
+            "citation": "Remote Sensing 10 (6), 933, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:WC23djZS0W4C",
+        "num_citations": 104,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18254277071767273496",
+        "cites_id": [
+            "18254277071767273496"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Strong constraint on modelled global carbon uptake using solar-induced chlorophyll fluorescence data",
+            "pub_year": "2018",
+            "citation": "Scientific reports 8 (1), 1973, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:7BrZ7Jt4UNcC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4257888036349050288",
+        "cites_id": [
+            "4257888036349050288"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of regional estimates of winter wheat yield by assimilating three remotely sensed reflectance datasets into the coupled WOFOST\u2013PROSAIL model",
+            "pub_year": "2019",
+            "citation": "European journal of agronomy 102, 1-13, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:CdxZDUztZiMC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10281562766077555618",
+        "cites_id": [
+            "10281562766077555618"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The global impact of clouds on the production of MODIS bidirectional reflectance model-based composites for terrestrial monitoring",
+            "pub_year": "2006",
+            "citation": "IEEE Geoscience and Remote Sensing Letters 3 (4), 452-456, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=26352843512295101",
+        "cites_id": [
+            "26352843512295101"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of land cover uncertainties on estimates of biospheric carbon fluxes",
+            "pub_year": "2008",
+            "citation": "Global Biogeochemical Cycles 22 (4), 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:Zph67rFs4hoC",
+        "num_citations": 91,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18433434840887690312",
+        "cites_id": [
+            "18433434840887690312"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Waveform lidar over vegetation: An evaluation of inversion methods for estimating return energy",
+            "pub_year": "2015",
+            "citation": "Remote Sensing of Environment 164, 208-224, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:foquWX3nUaYC",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1513538444103363521",
+        "cites_id": [
+            "1513538444103363521"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient emulation of radiative transfer codes using Gaussian processes and application to land surface parameter inferences",
+            "pub_year": "2016",
+            "citation": "Remote Sensing 8 (2), 119, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:XvxMoLDsR5gC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12385703027746548187",
+        "cites_id": [
+            "12385703027746548187"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topographic effects in AVHRR NDVI data",
+            "pub_year": "1995",
+            "citation": "Remote Sensing of Environment 54 (3), 223-232, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:5nxA0vEk-isC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14011763018738616186",
+        "cites_id": [
+            "14011763018738616186"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ESA GlobAlbedo Project for mapping the Earth\u2019s land surface albedo for 15 years from European sensors",
+            "pub_year": "2012",
+            "citation": "Geophysical Research Abstracts 13, 10969, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:_Ybze24A_UAC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2823523261823716176",
+        "cites_id": [
+            "2823523261823716176"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measuring forests with dual wavelength lidar: A simulation study over topography",
+            "pub_year": "2012",
+            "citation": "Agricultural and Forest Meteorology 161, 123-133, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:sSrBHYA8nusC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9435470922795656271",
+        "cites_id": [
+            "9435470922795656271"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variability and bias in active and passive ground-based measurements of effective plant, wood and leaf area index",
+            "pub_year": "2018",
+            "citation": "Agricultural and Forest Meteorology 252, 231-240, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:j7_hQOaDUrUC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13781589706858149917",
+        "cites_id": [
+            "13781589706858149917"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D radiative transfer modelling of fire impacts on a two-layer savanna system",
+            "pub_year": "2011",
+            "citation": "Remote Sensing of Environment 115 (8), 1866-1881, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:35N4QoGY0k4C",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7459691740275546268",
+        "cites_id": [
+            "7459691740275546268"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A threshold insensitive method for locating the forest canopy top with waveform lidar",
+            "pub_year": "2011",
+            "citation": "Remote Sensing of Environment 115 (12), 3286-3297, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:maZDTaKrznsC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15885912139257876677",
+        "cites_id": [
+            "15885912139257876677"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retrieval of canopy height using moderate-resolution imaging spectroradiometer (MODIS) data",
+            "pub_year": "2011",
+            "citation": "Remote Sensing of Environment 115 (6), 1595-1601, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:TQgYirikUcIC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3730561428118421753",
+        "cites_id": [
+            "3730561428118421753"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying surface reflectivity for spaceborne lidar via two independent methods",
+            "pub_year": "2009",
+            "citation": "IEEE transactions on geoscience and remote sensing 47 (9), 3262-3271, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:-f6ydRqryjwC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5265574180262862786",
+        "cites_id": [
+            "5265574180262862786"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal constraints on linear BRDF model parameters",
+            "pub_year": "2010",
+            "citation": "IEEE Transactions on Geoscience and Remote Sensing 48 (5), 2445-2450, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1778126583008731592",
+        "cites_id": [
+            "1778126583008731592"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Upscaling as ecological information transfer: a simple framework with application to Arctic ecosystem carbon exchange",
+            "pub_year": "2009",
+            "citation": "Landscape Ecology 24, 971-986, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:HDshCWvjkbEC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=603009604524230877",
+        "cites_id": [
+            "603009604524230877"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of MODIS broadband albedo over an agricultural site with ground measurements and values derived from Earth observation data at a range of spatial scales",
+            "pub_year": "2004",
+            "citation": "International Journal of Remote Sensing 25 (23), 5297-5317, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1990483045597078272",
+        "cites_id": [
+            "1990483045597078272"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The utility of kernel-driven BRDF models in global BRDF and albedo studies",
+            "pub_year": "1995",
+            "citation": "1995 International Geoscience and Remote Sensing Symposium, IGARSS'95 \u2026, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9381028819787096651",
+        "cites_id": [
+            "9381028819787096651"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new global fAPAR and LAI dataset derived from optimal albedo estimates: Comparison with MODIS products",
+            "pub_year": "2016",
+            "citation": "Remote Sensing 8 (4), 275, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:OTTXONDVkokC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2744253870179694973",
+        "cites_id": [
+            "2744253870179694973"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid characterisation of forest structure from TLS and 3D modelling",
+            "pub_year": "2013",
+            "citation": "2013 IEEE International Geoscience and Remote Sensing Symposium-IGARSS, 3387 \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:BUYA1_V_uYcC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5908028014757289768",
+        "cites_id": [
+            "5908028014757289768"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Investigating assumptions of crown archetypes for modelling LiDAR returns",
+            "pub_year": "2013",
+            "citation": "Remote Sensing of Environment 134, 39-49, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:ZfRJV9d4-WMC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17697494507463194532",
+        "cites_id": [
+            "17697494507463194532"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deriving albedo maps for HAPEX-Sahel from ASAS data using kernel-driven BRDF models",
+            "pub_year": "1999",
+            "citation": "Hydrology and Earth System Sciences 3 (1), 1-11, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:0EnyYjriUFMC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11902794846492667197",
+        "cites_id": [
+            "11902794846492667197"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measurement of surface microtopography",
+            "pub_year": "1991",
+            "citation": "Photogrammetric engineering and remote sensing 57 (8), 1075-1078, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:DUooU5lO8OsC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11505478691571143415",
+        "cites_id": [
+            "11505478691571143415"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the potential of CHRIS/PROBA for estimating vegetation canopy properties from space",
+            "pub_year": "2000",
+            "citation": "Remote Sensing Reviews 19 (1-4), 171-189, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1604328760329271206",
+        "cites_id": [
+            "1604328760329271206"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating land surface albedo in the HAPEX-Sahel southern super-site: Inversion of two BRDF models against multiple angle ASAS images",
+            "pub_year": "1997",
+            "citation": "Journal of hydrology 188, 749-778, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4879736264720801852",
+        "cites_id": [
+            "4879736264720801852"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The advanced radiometric ray tracer: ararat for plant canopy reflectance simulation",
+            "pub_year": "1993",
+            "citation": "International Archives of Photogrammetry and Remote Sensing 29, 26-26, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12903516615256068410",
+        "cites_id": [
+            "12903516615256068410"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Botanical plant modelling for remote sensing simulation studies",
+            "pub_year": "1990",
+            "citation": "10th Annual International on Geoscience and Remote Sensing Symposium, 1739-1742, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:wKETBy42zhYC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7834003332455656931,4675588874642976355",
+        "cites_id": [
+            "7834003332455656931",
+            "4675588874642976355"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensitivity of direct canopy gap fraction retrieval from airborne waveform lidar to topography and survey characteristics",
+            "pub_year": "2014",
+            "citation": "Remote Sensing of Environment 143, 15-25, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:AvfA0Oy_GE0C",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9365484613807211149",
+        "cites_id": [
+            "9365484613807211149"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of bias in pan-tropical biomass predictions",
+            "pub_year": "2020",
+            "citation": "Frontiers in Forests and Global Change 3, 12, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:mUJArPsKIAAC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17657779677325998933",
+        "cites_id": [
+            "17657779677325998933"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fluorescence explorer (FLEX): An optimised payload to map vegetation photosynthesis from space",
+            "pub_year": "2006",
+            "citation": "ARC Aerospace Research Central, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:PoWvk5oyLR8C",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3740739376050723356",
+        "cites_id": [
+            "3740739376050723356"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A spectral invariant approach to modelling canopy and leaf scattering",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13465288272580461804",
+        "cites_id": [
+            "13465288272580461804"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of Hymap/E-SAR data with models for optial reflectance and microwave scattering from vegetation canopies",
+            "pub_year": "2002",
+            "citation": "Retrieval of Bio-and Geo-Physical Parameters from SAR Data for Land \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:_kc_bZDykSQC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17057056274827555425",
+        "cites_id": [
+            "17057056274827555425"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global albedo, BRDF and nadir BRDF-adjusted reflectance products from MODIS",
+            "pub_year": "2002",
+            "citation": "IEEE International Geoscience and Remote Sensing Symposium 2, 1188-1190, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:NXb4pA-qfm4C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14115080717481532538",
+        "cites_id": [
+            "14115080717481532538"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A parametric radiative transfer model for sky radiance distribution",
+            "pub_year": "1996",
+            "citation": "Journal of Quantitative Spectroscopy and Radiative Transfer 55 (2), 181-189, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:4DMP91E08xMC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11649441357743948477",
+        "cites_id": [
+            "11649441357743948477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ESA globAlbedo project: Algorithm",
+            "pub_year": "2012",
+            "citation": "2012 IEEE International Geoscience and Remote Sensing Symposium, 5745-5748, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:Tiz5es2fbqcC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7046167670500916260",
+        "cites_id": [
+            "7046167670500916260"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reply to Townsend et al.: Decoupling contributions from canopy structure and leaf optics is critical for remote sensing leaf biochemistry",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (12), E1075-E1075, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:XD-gHx7UXLsC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15794428212590595397",
+        "cites_id": [
+            "15794428212590595397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Testing a new vegetation structure retrieval algorithm from terrestrial lidar scanner data using 3D models",
+            "pub_year": "2012",
+            "citation": "Silvilaser 2012, 12th International Conference on LiDAR Applications for \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11653350615768466267",
+        "cites_id": [
+            "11653350615768466267"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing the accuracy of forest height estimation with long pulse waveform lidar through Monte-Carlo ray tracing",
+            "pub_year": "2008",
+            "citation": "Edinburgh: Silvilaser. September, 17 18, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:qUcmZB5y_30C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15420878927970406338",
+        "cites_id": [
+            "15420878927970406338"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The application of kernel-driven BRDF models and AVHRR data to monitoring land surface dynamics in the Sahel",
+            "pub_year": "1997",
+            "citation": "Chin Jo Rem Sens 1, 155-161, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:4TOpqqG69KYC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2921175137387670692",
+        "cites_id": [
+            "2921175137387670692"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A sensor-invariant atmospheric correction method: Application to Sentinel-2/MSI and Landsat 8/OLI",
+            "pub_year": "2019",
+            "citation": "EarthArXiv, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:-jrNzM816MMC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12484674857571740126",
+        "cites_id": [
+            "12484674857571740126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of FAPAR over croplands using MISR data and the earth observation land data assimilation system (EO-LDAS)",
+            "pub_year": "2017",
+            "citation": "Remote Sensing 9 (7), 656, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:6yz0xqPARnAC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17610666452055104059",
+        "cites_id": [
+            "17610666452055104059"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D canopy modelling as a tool in remote-sensing research",
+            "pub_year": "2007",
+            "citation": "Frontis, 219-229, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:r0BpntZqJG4C",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17256093436433383954",
+        "cites_id": [
+            "17256093436433383954"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LiDAR for vegetation applications",
+            "pub_year": "2007",
+            "citation": "UCL, Gower St, London, UK, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9680921062535216550",
+        "cites_id": [
+            "9680921062535216550"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An investigation of how linear BRDF models deal with the complex scattering processes encountered in a real canopy",
+            "pub_year": "1998",
+            "citation": "IGARSS'98. Sensing and Managing the Environment. 1998 IEEE International \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14367367717501835370",
+        "cites_id": [
+            "14367367717501835370"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topographic effects on surface bidirectional reflectance scaling",
+            "pub_year": "1997",
+            "citation": "Chin Jo Rem Sens 1, 82-93, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:hC7cP41nSMkC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2213051719146515587",
+        "cites_id": [
+            "2213051719146515587"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large-area virtual forests from terrestrial laser scanning data",
+            "pub_year": "2016",
+            "citation": "2016 IEEE international geoscience and remote sensing symposium (IGARSS \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:HtS1dXgVpQUC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2409345200336598349",
+        "cites_id": [
+            "2409345200336598349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reply to Ollinger et al.: remote sensing of leaf nitrogen and emergent ecosystem properties",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (27), E2438-E2438, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:fEOibwPWpKIC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15728314057105479742",
+        "cites_id": [
+            "15728314057105479742"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Salford Advanced Laser Canopy Analyser (SALCA): A multispectral full waveform LiDAR for improved vegetation characterisation",
+            "pub_year": "2010",
+            "citation": "proceedings of the remote sensing and photogrammetry society conference \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:GnPB-g6toBAC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8003043183597744765",
+        "cites_id": [
+            "8003043183597744765"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the radiometric response of a dynamic, 3D structural model of Scots Pine in the optical and microwave domains",
+            "pub_year": "2003",
+            "citation": "IGARSS 2003. 2003 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:IWHjjKOFINEC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5911306445036005126",
+        "cites_id": [
+            "5911306445036005126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Theoretical uncertainties for global satellite-derived burned area estimates",
+            "pub_year": "2019",
+            "citation": "Biogeosciences 16 (16), 3147-3164, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:1DsIQWDZLl8C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8990006163642258249",
+        "cites_id": [
+            "8990006163642258249"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Botanical Plant Modelling System (BPMS): a case study of multiple scattering in a barley canopy",
+            "pub_year": "1998",
+            "citation": "IGARSS'98. Sensing and Managing the Environment. 1998 IEEE International \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14763379186064332139",
+        "cites_id": [
+            "14763379186064332139"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Precise geometric registration of ASAS airborne data for land surface BRDF studies",
+            "pub_year": "1994",
+            "citation": "Proceedings of IGARSS'94-1994 IEEE International Geoscience and Remote \u2026, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6767949770539707057",
+        "cites_id": [
+            "6767949770539707057"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biophysical parameter retrieval from forest and crop canopies in the optical and microwave domains using 3D models of canopy structure",
+            "pub_year": "2003",
+            "citation": "IGARSS 2003. 2003 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:dhFuZR0502QC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2385262673594900292",
+        "cites_id": [
+            "2385262673594900292"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the radiometric response of a dynamic, 3D structural model of wheat in the optical and microwave domains",
+            "pub_year": "2003",
+            "citation": "IGARSS 2003. 2003 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11014769436368185019",
+        "cites_id": [
+            "11014769436368185019"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CHRIS-PROBA: Mission status and prospects for mapping surface biophysical parameters",
+            "pub_year": "2001",
+            "citation": "Proceedings of IGARS, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:cK4Rrx0J3m0C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6535085160238956196",
+        "cites_id": [
+            "6535085160238956196"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global mapping of bidirectional reflectance and albedo for the-EOS MODIS project: the algorithm and the product",
+            "pub_year": "1995",
+            "citation": "1995 International Geoscience and Remote Sensing Symposium, IGARSS'95 \u2026, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5131829273928698538",
+        "cites_id": [
+            "5131829273928698538"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D model simulation of polarimetric radar backscatter and texture of an oil-palm plantation",
+            "pub_year": "1998",
+            "citation": "IGARSS'98. Sensing and Managing the Environment. 1998 IEEE International \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:isC4tDSrTZIC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14216595678673401696",
+        "cites_id": [
+            "14216595678673401696"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Respiratory muscle dysfunction in animal models of hypoxic disease: antioxidant therapy goes from strength to strength",
+            "pub_year": "2017",
+            "citation": "Hypoxia, 75-84, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:mel-f30kHHgC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6502750046785509487",
+        "cites_id": [
+            "6502750046785509487"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Examining BRDF model operation with the botanical plant modelling system",
+            "pub_year": "1997",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:mB3voiENLucC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17170215603694940388",
+        "cites_id": [
+            "17170215603694940388"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decoupling canopy structure and leaf biochemistry: testing the utility of directional area scattering factor (DASF)",
+            "pub_year": "2018",
+            "citation": "Remote Sensing 10 (12), 1911, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:DBa1UEJaJKAC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13546618139016489454",
+        "cites_id": [
+            "13546618139016489454"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New applications of 3D measurement and modelling for quantifying forest structure and biomass",
+            "pub_year": "2014",
+            "citation": "Proceedings of the IC global vegetation monitoring and modeling (GV2M), 208-209, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:q3CdL3IzO_QC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1001225501202201460",
+        "cites_id": [
+            "1001225501202201460"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A temporal-BRDF model-based approach to change detection",
+            "pub_year": "2004",
+            "citation": "IGARSS 2004. 2004 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7787067730923842893",
+        "cites_id": [
+            "7787067730923842893"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mission status of CHRIS/PROBA and its utility for sampling the earth surface BRDF",
+            "pub_year": "2001",
+            "citation": "annual meeting for the Remote Sensing and Photogrammetry Society, St. Louis \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15103651611294012728",
+        "cites_id": [
+            "15103651611294012728"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MODIS BRDF/albedo product: Algorithm theoretical basis documentation, Version 4.0. NASA",
+            "pub_year": "1996",
+            "citation": "EOS ATBD 94, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:MpfHP-DdYjUC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15902552176677900626",
+        "cites_id": [
+            "15902552176677900626"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Traceability of essential climate variables through forest stand reconstruction with terrestrial laser scanning",
+            "pub_year": "2015",
+            "citation": "Proceedings of SilviLaser, 122-124, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:bz8QjSJIRt4C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16339932398313456419",
+        "cites_id": [
+            "16339932398313456419"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ESA's Living Planet Programme: Scientific Acheivements and Future Challenges\u2013Scientific Context of Earth Observation Science Strategy for ESA",
+            "pub_year": "2015",
+            "citation": "Earth Observation Science Strategy, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:kWvqk_afx_IC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10207416264721722269",
+        "cites_id": [
+            "10207416264721722269"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling lidar waveforms to solve for canopy properties",
+            "pub_year": "2010",
+            "citation": "Master, University College London, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:nrtMV_XWKgEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18274098682039485121",
+        "cites_id": [
+            "18274098682039485121"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spectral invariant behaviour of a complex 3D forest canopy",
+            "pub_year": "2007",
+            "citation": "Proceedings of the 10th ISPMSRS meeting, Davos, Switzerland 1214, 16, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:8d8msizDQcsC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4737633450263481053",
+        "cites_id": [
+            "4737633450263481053"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Calibration of an L-system model of winter wheat for remote sensing modelling and inversion",
+            "pub_year": "2004",
+            "citation": "4th International Workshop on Functional\u2013Structural Plant Models, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16368298351339211665",
+        "cites_id": [
+            "16368298351339211665"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of land-surface albedo and biophysical properties using SPOT-4 VGT and semi-empirical BRDF models",
+            "pub_year": "2000",
+            "citation": "Proceedings of International SPOT4 Vegetation Conference, Tukholma, Ruotsi \u2026, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15912908028802877184",
+        "cites_id": [
+            "15912908028802877184"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of the botanical plant modelling system (BPMS) to the analysis of spatial information in remotely sensed imagery",
+            "pub_year": "1999",
+            "citation": "Proc. 25th annual remote sensing society conference, 7\u201310th September \u2026, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10715001202151556250",
+        "cites_id": [
+            "10715001202151556250"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The influence of directional sampling on bidirectional reflectance and albedo retrieval using kernel-driven models",
+            "pub_year": "1996",
+            "citation": "IGARSS'96. 1996 International Geoscience and Remote Sensing Symposium 3 \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=95564561408011663",
+        "cites_id": [
+            "95564561408011663"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retrieval of canopy vertical structure using MODIS data",
+            "pub_year": "2011",
+            "citation": "Remote Sens. Environ 115 (6), 1595-1601, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:ML0RJ9NH7IQC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16572459236573317182",
+        "cites_id": [
+            "16572459236573317182"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D dynamic vegetation modelling of wheat for remote sensing simulations and inversion",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:2KloaMYe4IUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=345625654501357757,8309689710038983675",
+        "cites_id": [
+            "345625654501357757",
+            "8309689710038983675"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of architectural vegetation growth models for remote sensing applications, ESA Final Report, Contract 14940",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:eMMeJKvmdy0C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14487314684573551173",
+        "cites_id": [
+            "14487314684573551173"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Moderate Resolution Imaging Spectroradiometer (MODIS) BRDF and albedo product: preliminary results",
+            "pub_year": "2000",
+            "citation": "IGARSS 2000. IEEE 2000 International Geoscience and Remote Sensing Symposium \u2026, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:tOudhMTPpwUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7962645667716978102",
+        "cites_id": [
+            "7962645667716978102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The use of 3D plant modelling and measurement in remote sensing",
+            "pub_year": "1997",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14582929544762547042",
+        "cites_id": [
+            "14582929544762547042"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Noise sensitivity of BRDF and albedo retrieval from the Earth Observing System MODIS and MISR sensors with respect to angular sampling",
+            "pub_year": "1996",
+            "citation": "Strahler, AH, et al., MODIS BRDF/albedo product: Algorithm theoretical busis \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:hMod-77fHWUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3179833963319048980",
+        "cites_id": [
+            "3179833963319048980"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Increased Mortality in Germany and in the Individual German States During the SARS-CoV-2/COVID-19 Pandemic in 2020 and 2021",
+            "pub_year": "2022",
+            "citation": "Deutsches \u00c4rzteblatt International 119 (33-34), 560, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:4aZ_i-5WJEQC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1109472989423650024",
+        "cites_id": [
+            "1109472989423650024"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Earth observation science strategy for ESA: a new era for scientific advances and societal benefits",
+            "pub_year": "2015",
+            "citation": "Earth Observation Science Strategy, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:ce2CqMG-AY4C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6119671725869395575",
+        "cites_id": [
+            "6119671725869395575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A surface reflectance database for ESA\u2019s Earth Observation Missions (ADAM)",
+            "pub_year": "2013",
+            "citation": "This symposium, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:z_wVstp3MssC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6341184252884339471",
+        "cites_id": [
+            "6341184252884339471"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data assimilation of Sentinel-2 observations: Preliminary results from EO-LDAS and outlook",
+            "pub_year": "2012",
+            "citation": "Proceedings of the First Sentinel-2 Preparatory Symposium, Frascati, Italy \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:7T2F9Uy0os0C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13654952787417406511",
+        "cites_id": [
+            "13654952787417406511"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of a manual measurement method for deriving 3D canopy structure using the BPMS",
+            "pub_year": "1998",
+            "citation": "IGARSS'98. Sensing and Managing the Environment. 1998 IEEE International \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7375620790449665341",
+        "cites_id": [
+            "7375620790449665341"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of a method for estimating the nitrogen requirements of a wheat crop based on an early estimate of cover fraction",
+            "pub_year": "1997",
+            "citation": "Precision agriculture'97: papers presented at the first European Conference \u2026, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:epqYDVWIO7EC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1643864477737350792",
+        "cites_id": [
+            "1643864477737350792"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Production and validation of BRDF and albedo extracted from airborne and spaceborne data",
+            "pub_year": "1997",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:k_IJM867U9cC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11884847849675344864",
+        "cites_id": [
+            "11884847849675344864"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quality assessment of a botanical plant modelling system for remote sensing simulation studies",
+            "pub_year": "1990",
+            "citation": "Remote sensing: global monitoring for earth management, Espoo, June 3-6, 1991, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12135293803460394830",
+        "cites_id": [
+            "12135293803460394830"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian atmospheric correction over land: Sentinel-2/MSI and Landsat 8/OLI",
+            "pub_year": "2022",
+            "citation": "Geoscientific Model Development 15 (21), 7933-7976, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:L_l9e5I586QC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8963341283315227789",
+        "cites_id": [
+            "8963341283315227789"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of clumping on modelling LiDAR waveforms in forest canopies",
+            "pub_year": "2012",
+            "citation": "2012 IEEE International Geoscience and Remote Sensing Symposium, 3391-3394, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:NhqRSupF_l8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4925236317206450847",
+        "cites_id": [
+            "4925236317206450847"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of discrete return and waveform airborne LiDAR derived estimates of fractional cover in an Australian savanna",
+            "pub_year": "2011",
+            "citation": "Proceedings of SilviLaser 2011, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:lSLTfruPkqcC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4401360007516207340",
+        "cites_id": [
+            "4401360007516207340"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating the spatial exchange of carbon through the assimilation of Earth observation derived products using an ensemble Kalman filter",
+            "pub_year": "2008",
+            "citation": "IGARSS 2008-2008 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15285305478973651172",
+        "cites_id": [
+            "15285305478973651172"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling canopy reflectance with spectral invariants",
+            "pub_year": "2007",
+            "citation": "Proceedings of the 10th International Symposium on Physical Measurements and \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:u_35RYKgDlwC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1246894911016087558",
+        "cites_id": [
+            "1246894911016087558"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CTCD CHRIS-Proba activities",
+            "pub_year": "2005",
+            "citation": "Proceedings of the 3rd ESA CHRIS/Proba workshop, 21-23, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2170649823086048106",
+        "cites_id": [
+            "2170649823086048106"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-year southern Africa MODIS burned area product generation and validation",
+            "pub_year": "2003",
+            "citation": "AGU Fall Meeting Abstracts 2003, B22E-02, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:TFP_iSt0sucC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10537781207800914939",
+        "cites_id": [
+            "10537781207800914939"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Burned area mapping from multitemporal surface bidirectional reflectance",
+            "pub_year": "2000",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17806315788759116647",
+        "cites_id": [
+            "17806315788759116647"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The botanical plant modelling system (BPMS)",
+            "pub_year": "1997",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15743265584791805535",
+        "cites_id": [
+            "15743265584791805535"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D plant characterization and modelling aimed at the remote control of winter wheat growth",
+            "pub_year": "1995",
+            "citation": "International Colloquium, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:SGW5VrABaM0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1833539887621376612",
+        "cites_id": [
+            "1833539887621376612"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Botanical plant modelling for remote sensing simulations studies",
+            "pub_year": "1991",
+            "citation": "Proc. IEEE Geoscience and Remote Sensing Symp.(\u2019IGARSS\u201990\u2019), Washington DC \u2026, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:2tRrZ1ZAMYUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18211285256852169773",
+        "cites_id": [
+            "18211285256852169773"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Location, biophysical and agronomic parameters for croplands in northern Ghana",
+            "pub_year": "2022",
+            "citation": "Earth System Science Data 14 (12), 5387-5410, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:H_jBuBxbQIAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4644641204110000703",
+        "cites_id": [
+            "4644641204110000703"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linking remote sensing with APSIM through emulation and Bayesian optimization to improve yield prediction",
+            "pub_year": "2022",
+            "citation": "Remote Sensing 14 (21), 5389, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:KWzIFqRkAKkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17084697367349802539",
+        "cites_id": [
+            "17084697367349802539"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating arbitrary hyperspectral bandsets from multispectral observations via a generic Earth Observation-Land Data Assimilation System (EO-LDAS)",
+            "pub_year": "2018",
+            "citation": "Advances in Space Research 62 (7), 1654-1674, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:CB2v5VPnA5kC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2217952583411876265",
+        "cites_id": [
+            "2217952583411876265"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of the Earth Observation Land Data Assimilation System by the field data of ESA SPARC field campaign",
+            "pub_year": "2013",
+            "citation": "ESA Living Planet Symposium 722, 74, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:rmuvC79q63oC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9652359735194491058",
+        "cites_id": [
+            "9652359735194491058"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decoupling contributions from canopy structure and leaf optics is critical for remote sensing leaf biochemistry (reply to Townsend, et al.)",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 2013 110 (GSFC-E-DAA-TN8428), 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:FAceZFleit8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14243281207458422334",
+        "cites_id": [
+            "14243281207458422334"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using Satellite Measurements of Surface Soil Moisture to Improve Estimates of CO2 and CH4 from Peatlands",
+            "pub_year": "2010",
+            "citation": "ESA Living Planet Symposium 686, 517, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:1yQoGdGgb4wC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10426924768732014091",
+        "cites_id": [
+            "10426924768732014091"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiative Transfer Modelling for the characterization of natural burnt surfaces",
+            "pub_year": "2010",
+            "citation": "UCL,, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:LPZeul_q3PIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4351271012946372864",
+        "cites_id": [
+            "4351271012946372864"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probabilistic calibration of a coupled ecosystem and fire model using satellite data",
+            "pub_year": "2009",
+            "citation": "2009 IEEE International Geoscience and Remote Sensing Symposium 4, IV-81-IV-84, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=510048668582816768",
+        "cites_id": [
+            "510048668582816768"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Satellite monitoring of disturbances in Arctic ecosystems",
+            "pub_year": "2009",
+            "citation": "2009 IEEE International Geoscience and Remote Sensing Symposium 3, III-585 \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1285697202023828803",
+        "cites_id": [
+            "1285697202023828803"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using Satellite Observations in Regional Scale Calculations of Carbon Exchange",
+            "pub_year": "2008",
+            "citation": "The Continental-Scale Greenhouse Gas Balance of Europe, 309-339, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:tkaPQYYpVKoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14882848208811208745",
+        "cites_id": [
+            "14882848208811208745"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Climate and Dynamics-D09111-Third Radiation Transfer Model Intercomparison (RAMI) exercise: Documenting progress in canopy reflectance models (DOI 10.1029/2006JD007821)",
+            "pub_year": "2007",
+            "citation": "Journal of Geophysical Research-Part D-Atmospheres 112 (9), 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:LXmCCkuhhTsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15798435762151636081",
+        "cites_id": [
+            "15798435762151636081"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanisms for Spectral Variation in the Range of Semi-variograms",
+            "pub_year": "2003",
+            "citation": "IGARSS 2003. 2003 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:70eg2SAEIzsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9148643066840567290",
+        "cites_id": [
+            "9148643066840567290"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MODIS BRDF/Albedo Product (MOD43B) User\u2019s Guide",
+            "pub_year": "2003",
+            "citation": "NASA, Washington, DC. Available online at< http://geography. bu. edu/brdf \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:evX43VCCuoAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12038440932302150042",
+        "cites_id": [
+            "12038440932302150042"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Potentials of CHRIS-PROBA for mapping vegetation characteristics from space",
+            "pub_year": "2000",
+            "citation": "Remote Sensing Reviews 19, 171-189, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:jE2MZjpN3IcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8074101889168768922",
+        "cites_id": [
+            "8074101889168768922"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Param\u00e9trisation d'un mod\u00e8le architectural de bl\u00e9 au cours du tallage. Estimation des param\u00e8tres de structure par photogramm\u00e9trie",
+            "pub_year": "1997",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:DkZNVXde3BIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5332328403126468810",
+        "cites_id": [
+            "5332328403126468810"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global BRDF and albedo from the EOS MODIS and MISR sensors.",
+            "pub_year": "1996",
+            "citation": "IRSA, Chinese Academy of Sciences, Beijing, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14446469808314608556",
+        "cites_id": [
+            "14446469808314608556"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating land surface albedo in the HAPEX-Sahel experiment: model-based inversions using ASAS",
+            "pub_year": "1995",
+            "citation": "1995 International Geoscience and Remote Sensing Symposium, IGARSS'95 \u2026, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:BqipwSGYUEgC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2961820249485033128",
+        "cites_id": [
+            "2961820249485033128"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measurement of surface microtopography using helicopter-mounted stereo film cameras and two stereo matching techniques",
+            "pub_year": "1989",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:sJsF-0ZLhtgC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=588644402796285619",
+        "cites_id": [
+            "588644402796285619"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linking Remote Sensing with APSIM through Emulation and Bayesian Optimization to Improve Maize Yield Prediction in the US Midwest",
+            "pub_year": "2022",
+            "citation": "Preprints, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:-6RzNnnwWf8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4024578724181307723",
+        "cites_id": [
+            "4024578724181307723"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Sensor Independent Atmospheric Correction (SIAC) approach applied to Sentinel-2 and Landsat-8 data.",
+            "pub_year": "2019",
+            "citation": "Geophysical Research Abstracts 21, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:w0F2JDEymm0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2980042945655799362",
+        "cites_id": [
+            "2980042945655799362"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Uncertainty Characterisation & Validation within ESA Fire-CCI",
+            "pub_year": "2018",
+            "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:SjuI4pbJlxcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18217126928616860484",
+        "cites_id": [
+            "18217126928616860484"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Land ECVs from QA4ECV using an optimal estimation framework",
+            "pub_year": "2017",
+            "citation": "EGU General Assembly Conference Abstracts, 18977, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:Bg7qf7VwUHIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=989678978362983813",
+        "cites_id": [
+            "989678978362983813"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D Measurements of Tropical Forest Structure for BIOMASS, Morphology and Calibration and Validation of Satellite Observations.",
+            "pub_year": "2016",
+            "citation": "Living Planet Symposium 2016, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:HeT0ZceujKMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14850725091741339166",
+        "cites_id": [
+            "14850725091741339166"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Constructing a large area virtual validation forest stand from terrestrial LiDAR",
+            "pub_year": "2016",
+            "citation": "Living Planet Symposium 2016, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:DyXnQzXoVgIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13409261269090869147",
+        "cites_id": [
+            "13409261269090869147"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Edge-preserving data assimilation for fire monitoring using optical data",
+            "pub_year": "2013",
+            "citation": "EGU General Assembly Conference Abstracts, EGU2013-10485, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:35r97b3x0nAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5136159103418438365",
+        "cites_id": [
+            "5136159103418438365"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Design of the Albedo/fAPAR/LAI Products",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:86PQX7AUzd4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17305345011534361363",
+        "cites_id": [
+            "17305345011534361363"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EO\u2010LDAS Validation Report",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:OR75R8vi5nAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5532184510339095821",
+        "cites_id": [
+            "5532184510339095821"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Earth Observation Land Data Assimilation System (EO-LDAS)",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:-_dYPAW6P2MC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13699201598565633435",
+        "cites_id": [
+            "13699201598565633435"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GlobAlbedo Algorithm Theoretical Basis Document: Version 3.0",
+            "pub_year": "2011",
+            "citation": "UCL, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:EYYDruWGBe4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12306085478296705497",
+        "cites_id": [
+            "12306085478296705497"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On canopy spectral invariants and hyperspectral ray tracing",
+            "pub_year": "2010",
+            "citation": "2010 2nd Workshop on Hyperspectral Image and Signal Processing: Evolution in \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:XiSMed-E-HIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6989532275555115326",
+        "cites_id": [
+            "6989532275555115326"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probabilistic calibration of the SPITFIRE fire spread model using Earth observation data",
+            "pub_year": "2010",
+            "citation": "EGU General Assembly Conference Abstracts, 14851, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:geHnlv5EZngC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9619692045051568528",
+        "cites_id": [
+            "9619692045051568528"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the impact of wildfire on spectral reflectance",
+            "pub_year": "2009",
+            "citation": "2009 IEEE International Geoscience and Remote Sensing Symposium 4, IV-1019 \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1822887165506337109",
+        "cites_id": [
+            "1822887165506337109"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using burned area data to explore fire spread in coupled fire and ecosystem models",
+            "pub_year": "2009",
+            "citation": "EGU General Assembly Conference Abstracts, 6439, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:ldfaerwXgEUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9436032707094748089",
+        "cites_id": [
+            "9436032707094748089"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extracting Tree Heights over Topography with Multi-Spectral Spaceborne Waveform Lidar",
+            "pub_year": "2008",
+            "citation": "IGARSS 2008-2008 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:5awf1xo2G04C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15932878981542102233",
+        "cites_id": [
+            "15932878981542102233"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using Remote Sensing Data to Quantify Changes in Vegetation over Peatland Areas",
+            "pub_year": "2008",
+            "citation": "IGARSS 2008-2008 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4352567667380824638",
+        "cites_id": [
+            "4352567667380824638"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilating reflectance data into a ecosystem model to improve estimates of terrestrial carbon flux",
+            "pub_year": "2007",
+            "citation": "10th International Symposium on Physical Measurements and Signatures in \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:rTD5ala9j4wC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4316346999451447839",
+        "cites_id": [
+            "4316346999451447839"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of system characteristics on discrete return LiDAR: a simulation study over a conifer forest",
+            "pub_year": "2007",
+            "citation": "Remote Sensing of Environment, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:RGFaLdJalmkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=211185172895469671",
+        "cites_id": [
+            "211185172895469671"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coupling a canopy reflectance model with a global vegetation model",
+            "pub_year": "2004",
+            "citation": "IGARSS 2004. 2004 IEEE International Geoscience and Remote Sensing Symposium 1, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:8AbLer7MMksC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9690205223862031488",
+        "cites_id": [
+            "9690205223862031488"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D structural modelling of conifer canopies for remote sensing simulations and parameter estimation",
+            "pub_year": "2004",
+            "citation": "Proc. 4th international workshop on functional\u2013structural plant models, 7-11, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:M05iB0D1s5AC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12772019865473467939",
+        "cites_id": [
+            "12772019865473467939"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The potential for assimilation of EO-measured radiance in terrestrial carbon studies: simulation of the canopy radiation regime",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9388192836976630658",
+        "cites_id": [
+            "9388192836976630658"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An application of stereomatching to the problem of geo-referencing historical air-photos",
+            "pub_year": "2003",
+            "citation": "IGARSS 2003. 2003 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7898099235047172413",
+        "cites_id": [
+            "7898099235047172413"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Geostatistical Modelling for the Retrieval of Forest Structural Parameters",
+            "pub_year": "2002",
+            "citation": "Conference Proceedings of 29th Int. Symposium on Remote Sensing of Environment, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:MhiOAD_qIWkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16009355327949156170",
+        "cites_id": [
+            "16009355327949156170"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "At-launch status of the MODIS BRDF/albedo algorithm: implementation, AVHRR-based prototyping, and future plans",
+            "pub_year": "1998",
+            "citation": "IGARSS'98. Sensing and Managing the Environment. 1998 IEEE International \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:JQOojiI6XY0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18273770393725773967",
+        "cites_id": [
+            "18273770393725773967"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Determination and validation of land-surface biophysical properties using SPOT-4 vegetation and HRVIR: Interim report",
+            "pub_year": "1998",
+            "citation": "University of Wales Swansea, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:a3BOlSfXSfwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9309637033953312937",
+        "cites_id": [
+            "9309637033953312937"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Paremetrisation d'un mod\u0160le architectural de bl \u201aau cours du tallage",
+            "pub_year": "1997",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2251838471262792194",
+        "cites_id": [
+            "2251838471262792194"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic 3D plant modelling: a morphological and structural approach based upon stereo data acquisition",
+            "pub_year": "1996",
+            "citation": "Aspects of Applied Biology (United Kingdom), 1996"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17104858676574538095",
+        "cites_id": [
+            "17104858676574538095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MODIS BRDF/Albedo Product: Algorithm Theoretical Bais Document v3. 2",
+            "pub_year": "1995",
+            "citation": "Boston University, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:ILKRHgRFtOwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17502481595858641965",
+        "cites_id": [
+            "17502481595858641965"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating canopy gap fraction of complex 3D forest scenes of Picea Sitchensis (Sitka Spruce)",
+            "citation": "Proceedings of the ISPRS working group VII/1 workshop ISPMSRS 7, 0"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:vbGhcppDl1QC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12522896194202987615",
+        "cites_id": [
+            "12522896194202987615"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combining multitemporal optical and SAR data for LAI imputation with BiLSTM network",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2307.07434, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:RtRctb2lSbAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Increased Mortality in Germany and in the Individual German States During the SARS-CoV-2/COVID-19 Pandemic in 2020 and 2021",
+            "pub_year": "2023",
+            "citation": "DEUTSCHES ARZTEBLATT INTERNATIONAL 120 (3), 40-40, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:G1UMdFYMoxkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brave (in a) new world: an ethical perspective on chatbots for medical advice",
+            "pub_year": "2023",
+            "citation": "Frontiers in Public Health 11, 1254334, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:YB4bud6kWLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MULTIPLY: A Operational Data assimilation framework for consistent land monitoring using of multiple satellite datasets.",
+            "pub_year": "2019",
+            "citation": "Geophysical Research Abstracts 21, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:FiDNX6EVdGUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A sensor invariant atmospheric correction method for satellite images",
+            "pub_year": "2018",
+            "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:Ade32sEp0pkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Land Surface Processes Analysis Using Sentinel-3 OLCI and Modis Data",
+            "pub_year": "2018",
+            "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:WC9gN4BGCRcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Uncertainty for Burnt Area Products",
+            "pub_year": "2018",
+            "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:6bLC7aUMtPcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating temperature of surface components by synergistically combining optical and thermal radiative transfer models",
+            "pub_year": "2018",
+            "citation": "EGU General Assembly Conference Abstracts, 2559, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:yxmsSjX2EkcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilation of fluorescence products to constrain gross primary production in the terrestrial biosphere model ORCHIDEE",
+            "pub_year": "2018",
+            "citation": "EGU General Assembly Conference Abstracts, 12041, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:-mN3Mh-tlDkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of Land ECVs from QA4ECV for fitness for purpose",
+            "pub_year": "2018",
+            "citation": "EGU General Assembly Conference Abstracts, 14806, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:prdVHNxh-e8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generation of a global burned area product from satellite data: the ESA Fire_cci project",
+            "pub_year": "2018",
+            "citation": "Parte: http://hdl. handle. net/10316.2/44517, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:Xl6nMSl579sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An\u00e1lisis global de \u00e1reas quemadas para la modelizaci\u00f3n clim\u00e1tica: experiencias del proyecto Fire _cci",
+            "pub_year": "2018",
+            "citation": "Tecnolog\u00edas de la informaci\u00f3n geogr\u00e1fica: perspectivas multidisciplinares en \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:WAzi4Gm8nLoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tracking of uncertainty when aggregating from fine to coarse spatial resolution",
+            "pub_year": "2018",
+            "citation": "Parte: http://hdl. handle. net/10316.2/44517, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:uVUOdF_882EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating Soil and Vegetation Parameters using Synergies between Optical and Microwave Observations",
+            "pub_year": "2017",
+            "citation": "AGU Fall Meeting Abstracts 2017, B51C-1810, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:1taIhTC69MYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synergistically combining Optical and Thermal radiative transfer modelswithin the EO-LDAS data assimilation framework to estimate land surfaceand component temperatures from \u2026",
+            "pub_year": "2017",
+            "citation": "AGU Fall Meeting Abstracts 2017, H53N-02, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:FiytvqdAVhgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Earth Observation Land Data Assimilation System (EO\u2010LDAS) Regularization Constraints over Barrax Site",
+            "pub_year": "2017",
+            "citation": "Earth Observation for Land and Emergency Monitoring, 117-139, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:LhH-TYMQEocC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synergistic estimation of surface parameters from jointly using optical and microwave observations in EOLDAS",
+            "pub_year": "2017",
+            "citation": "EGU General Assembly Conference Abstracts, 6529, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:BJbdYPG6LGMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diaphragm muscle adaptation to sustained hypoxia: lessons from animal",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:s9ia6_kGH2AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Search for Efficiency in Arboreal Ray Tracing Applications",
+            "pub_year": "2016",
+            "citation": "AGU Fall Meeting Abstracts 2016, B54B-02, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:AHdEip9mkN0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilating Earth observation data across the UK for estimating greenhouse gas budgets",
+            "pub_year": "2016",
+            "citation": "EGU General Assembly Conference Abstracts, EPSC2016-14720, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:yFnVuubrUp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Model-Data Fusion Approach for Constraining Modeled GPP at Global Scales Using GOME2 SIF Data",
+            "pub_year": "2015",
+            "citation": "AGU Fall Meeting Abstracts 2015, B43H-0649, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:fFSKOagxvKUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EO-LDAS Temporal Regularization for Estimation of fAPAR over an Agriculture Test Site Using MISR Multiangular Information",
+            "pub_year": "2015",
+            "citation": "Sentinel-3 for Science Workshop 734, 39, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:mlAyqtXpCwEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The fourth phase of the radiative transfer model intercomparison (RAMI) exercise",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:w1MjKQ0l0TYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Constraining the retrieval of vegetation properties from remote sensing data",
+            "pub_year": "2015",
+            "citation": "EGU General Assembly Conference Abstracts, 12079, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:PVjk1bu6vJQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New measurements of biomass and structure in tropical forests",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:yMeIxYmEMEAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reconstruction of hyperspectral CHRIS/PROBA signal by the Earth Observation Land Data Assimilation System (EO-LDAS)",
+            "pub_year": "2014",
+            "citation": "40th COSPAR Scientific Assembly 40, A3. 1-8-14, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:k8Z6L05lTy4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Vision For A Land Observing System",
+            "pub_year": "2013",
+            "citation": "ESA Living Planet Symposium 722, 78, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:SpbeaW3--B0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The importance of vegetation structure for coupling models of reflectance and productivity",
+            "pub_year": "2013",
+            "citation": "AGU Fall Meeting Abstracts 2013, B42C-06, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:L7CI7m0gUJcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reply to Ollinger et al.: Remote sensing of leaf nitrogen and emergent ecosystem properties",
+            "pub_year": "2013",
+            "citation": "National Academy of Sciences, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:HtEfBTGE9r8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Earth Observation Land Data Assimilation System for Data from Multiple Wavelength Domains: Water and Energy Balance Components",
+            "pub_year": "2012",
+            "citation": "AGU Fall Meeting Abstracts 2012, H33F-1401, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:tYavs44e6CUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing the potential of chlorophyll fluorescence retrievals from GOSAT space measurements to indicate gross primary production on a global scale",
+            "pub_year": "2012",
+            "citation": "AGU Fall Meeting Abstracts 2012, B53G-03, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:KUbvn5osdkgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel reference site approach to prototyping, calibrating, and validating Earth observation data and products",
+            "pub_year": "2012",
+            "citation": "AGU Fall Meeting Abstracts 2012, IN51E-03, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D-VegetationLab: Scientific Support for accuracy Assessment and Prototyping of EO Data and Products",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:JP7YXuLIOvAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D Vegetation Lab (3DVegLab)-Field Protocol Document",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:M7yex6snE4oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D-VegetationLab-a concept for land surface reference sites",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:-uzm3Y7AvW0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EXPLOITING SURFACE ALBEDO PRODUCTS: EXAMPLES OF ANTICIPATED DOWNSTREAM APPLICATIONS FROM THE GLOBALBEDO PROJECT.",
+            "pub_year": "2010",
+            "citation": "ESA Living Planet Symposium 686, 181, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:D_sINldO8mEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using satellite observations to improve model estimates of CO2 and CH4 flux: a Metropolis Hastings Markov Chain Monte Carlo approach",
+            "pub_year": "2010",
+            "citation": "EGU General Assembly Conference Abstracts, 11615, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:BrmTIyaxlBUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Salford Advanced Laser Canopy Analyser (SALCA): a full waveform, multispectral, terrestrial LiDAR for improved vegetation characterisation",
+            "pub_year": "2010",
+            "citation": "ForestSat, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:qe6vwMD2xtsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Satellite Monitoring of Disturbances in Arctic Ecosystems",
+            "pub_year": "2008",
+            "citation": "AGU Fall Meeting Abstracts 2008, U13B-0051, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:k_7cPK9k7w8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EO instrument developments in the UK Centre for Earth Observation instrumentation",
+            "pub_year": "2008",
+            "citation": "International Astronautical Federation-59th International Astronautical \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:WHdLCjDvYFkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilating Satellite Reflectance Data Into an Ecosystem Model to Constrain Estimates of Terrestrial Carbon Flux.",
+            "pub_year": "2008",
+            "citation": "AGU Fall Meeting Abstracts 2008, B33A-0390, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:HE397vMXCloC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying Surface Reflectivity for Spaceborne Lidar Missions",
+            "pub_year": "2008",
+            "citation": "IGARSS 2008-2008 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:SdhP9T11ey4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilating earth observation data into land surface models",
+            "pub_year": "2008",
+            "citation": "IGARSS 2008-2008 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:WA5NYHcadZ8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Obituary: Professor Michael J Barnsley",
+            "pub_year": "2008",
+            "citation": "The Geographical Journal 174, 182, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:kuK5TVdYjLIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilating MODIS reflectance data into an ecosystem model to improve estimates of terrestrial carbon flux: recent progress",
+            "pub_year": "2007",
+            "citation": "2007 IEEE International Geoscience and Remote Sensing Symposium, 5072-5075, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:LjlpjdlvIbIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Canopy spectral invariants for remote and model applications",
+            "pub_year": "2007",
+            "citation": "US, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:YohjEiUPhakC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Testing carbon flux predictions from Dynamic Vegetation Models using data from Earth Observation satellites.",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:q3oQSFYPqjQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilating earth observation data into a vegetation model using an Ensmble Kalman Filter",
+            "pub_year": "2005",
+            "citation": "The International Archives of the Photogrammetry, Remote Sensing and Spatial \u2026, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:u9iWguZQMMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D modelling of forest canopy structure for remote sensing simulation and parameter estimation",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Burn scar detection in southern Africa using a bi-directional reflectance model based approach",
+            "pub_year": "2003",
+            "citation": "IGARSS 2003. 2003 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:PR6Y55bgFSsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An initial analysis of CHRIS-on-board-PROBA data for the purposes of biophysical parameter mapping over a variety of land cover types",
+            "pub_year": "2003",
+            "citation": "IGARSS 2003. 2003 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reprocessed MODIS BRDF, albedo, and nadir surface reflectance products: quality and applications",
+            "pub_year": "2003",
+            "citation": "EGS-AGU-EUG Joint Assembly, 4554, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "implications for assimilation into dynamic",
+            "pub_year": "2003",
+            "citation": "IEEE International Geoscience and Remote Sensing Symposium Proceedings 3, 1673, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:D_tqNUsBuKoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inter-comparison of phenological measures derived from coarse resolution earth observation and implications for assimilation into dynamic vegetation models.",
+            "pub_year": "2003",
+            "citation": "INTERNATIONAL GEOSCIENCE AND REMOTE SENSING SYMPOSIUM 3, III: 1673-1675, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:SP6oXDckpogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Review of Canopy Reflectance Modelling",
+            "pub_year": "2002",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:738O_yMBCRsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Annual Cycle of MODIS Albedo, Nadir BRDF-Adjusted Reflectance and BRDF Products",
+            "pub_year": "2001",
+            "citation": "AGU Fall Meeting Abstracts 2001, B31A-0075, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MODIS operational bidirectional reflectance and albedo products",
+            "pub_year": "2001",
+            "citation": "IGARSS 2001. Scanning the Present and Resolving the Future. Proceedings \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop Growth Modelling and Architectural Models for Crops",
+            "pub_year": "2001",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:UHK10RUVsp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Land Surface Bidirectional Reflectance and Albedo from the MODerate Resolution Imaging Spectroradiometer (MODIS)",
+            "pub_year": "2001",
+            "citation": "AGU Spring Meeting Abstracts 2001, B32B-02, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring regenerating rain forest and plantation crops in Sabah, Malaysia using ALOS PALSAR, AVNIR-2 and PRISM data",
+            "pub_year": "2001",
+            "citation": "1st Symposium for ALOS data application users, Tokyo, 2001, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:Xz60mAmATU4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of biophysical products derived from large swath sensors for global biosphere monitoring",
+            "pub_year": "2001",
+            "citation": "Joint research Centre, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:a0OBvERweLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Initial Results From the Moderate Resolution Imaging Spectroradiometer (MODIS) BRDF and Albedo Product",
+            "pub_year": "2000",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:UxriW0iASnsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensitivity of a 3D radar backscatter model to changing biophysical parameters of oil-palm",
+            "pub_year": "1999",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:CYCckWUYoCcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of a method for estimating the nitrogen requirements of a wheat crop based on an early estimate of cover fraction",
+            "pub_year": "1997",
+            "citation": "1. European Conference, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:T_ojBgVMvoEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dealing with BRDF heterogeneity thro'estimation of sub-pixel directional reflection assuming a linear mixture model",
+            "pub_year": "1997",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:N5tVd3kTz84C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u5e94\u7528\u6838\u9a71\u52a8 BRDF \u6a21\u578b\u4e0e AVHRR \u6570\u636e\u76d1\u6d4b\u6492\u54c8\u62c9\u571f\u58e4\u8868\u9762\u52a8\u6001\u53d8\u5316 (\u82f1\u6587)",
+            "pub_year": "1997",
+            "citation": "\u9065\u611f\u5b66\u62a5, 163-169, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:eflP2zaiRacC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of kernel-driven BRDF models for monitoring albedo in the Sahel.",
+            "pub_year": "1997",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kilometer-scale global albedo from MODIS",
+            "pub_year": "1996",
+            "citation": "IGARSS'96. 1996 International Geoscience and Remote Sensing Symposium 3 \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quality Assessment Modelling System Of A Botanical Plant For Remote Sensing Simulation Studies",
+            "pub_year": "1991",
+            "citation": "[Proceedings] IGARSS'91 Remote Sensing: Global Monitoring for Earth \u2026, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:-7ulzOJl1JYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Item Removed",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:65Yg0jNCQDAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ESA Climate Change Initiative\u2013Fire_cci D1. 3 Comprehensive Error Characterization Report (CECR)",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:BrOSOlqYqPUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Algorithm Theoretical Basis Document\u2013Aerosol Document Number: GlobAlbedo_Aer_ATBD_V1. 0 Date 10/09/10",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:5bg8sr1QxYwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kilometer-scale global albedo from MODIS",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:oi2SiIJ9l4AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AN\u00c1LISIS GLOBAL DE \u00c1REAS QUEMADAS PARA LA MODELIZACI\u00d3N CLIM\u00c1TICA: EXPERIENCIAS DEL PROYECTO FIRE_CCI",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:O0nohqN1r9EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Burned area detection using edge-preserving data assimilation and a spectral model of burned scenes",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:-95Q15plzcUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid characterisation of forest structure from TLS and 3D modelling",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:Dem6FJhTUoYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "UCL/Swansea CHRIS-PROBA Activities",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:nRpfm8aw39MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of an Architectural Growth Model for Wheat",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:kVjdVfd2voEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Simple Spectral Model of Fire Impacts",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:v1_lew4L6wgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of effectiveness of MISR multiangular data in the Earth Observation Land Data Assimilation System (EO-LDAS)",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:U4n9YNQMCAIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CALL FOR PAPER IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing Special Issue on Quantitative Land Remote Sensing: Inversion Algorithms \u2026",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:ALROH1vI_8AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developing best practice for Burnt Area products",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:otzGkya1bYkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PROBABILISTIC CALIBRATION OF A COUPLED ECOSYSTEM AND FIRE MODEL USING OPTICAL AND THERMAL SATELLITE DATA",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:OcBU2YAGkTUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MODIS Albedo and Reflectance Anisotropy Products for Climate and Vegetation Studies",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:bKqednn6t2AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "for Estimating Vegetation Canopy Properties from Space",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:mNrWkgRL2YcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "KTTZ Wanner* Mike Barnsley",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:HIFyuExEbWQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "REPORT DOCUMENTATION PAGE F\u201d\"\u201d pm\" OMB No. 0704-0188",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:0izLItjtcgwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ZOOZESASP. 475.. CONIPARISON OF HYMAP/E-SAR DATA WITH MODELS FOR OPTICAL REFLECTAN CE AND MICROWAVE SCATTERING FROM VEGETATION CAN OPIES",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:e_rmSamDkqQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The RAMI On-line Model Checker (ROMC)",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:p__nRnzSRKYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MONITORING CANOPY STRUCTURE AND LEAF BIOCHEMISTRY USING MULTIANGLE AND HYPERSPECTRAL DATA",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:j8SEvjWlNXcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using Monte-Carlo ray tracing to investigate the measurement of forest parameters with the Ech-idna\u2122 laser scanner.",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:dQ2og3OwTAUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating the impact of changing airborne lidar sensor and survey properties on estimation of vegetation structure parameters",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:ZuybSZzF8UAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retrieval of structural and biochemical parameters from multiangle, multispectral airborne data over conifer stands",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:VL0QpB8kHFEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prof. Mick Johnson1",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:_B80troHkn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of Discrete Return and Waveform Airborne Lidar Derived Estimates of Fractional Cover in an Australian Savanna",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:Y5dfb0dijaUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating surface lidar reflectivity for A-SCOPE, summary for ESA A-SCOPE Mission Advisory Group, carried out in response to ESA RFQ/3-12259/07/NL/JA",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:AXPGKjj_ei8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiative Transfer Modelling for the characterization of natural burnt surfaces, ESA Final Report: AO/1-5526/07/NL/HE",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:t6usbXjVLHcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "18. Design of Greenhouse Gas Observing Systems (WP 2.15)",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:olpn-zPbct0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wageningen UR Frontis Series, Volume 22 Functional-Structural Plant Modelling in Crop Production",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:5ugPr518TE4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retrieval of structural and biochemical parameters from multiangle, multispectral air-and spaceborne data over mixed conifer stands",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:J-pR_7NvFogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using lidar to characterise tree canopies",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:1qzjygNMrQYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Lumped Parameter model of canopy spectral reflectance for a closed forest canopy",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Example 3D animations",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A scientific support tool for accuracy assessment and prototyping of EO data and products",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of clumping on waveform lidar in modelled forest canopies",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deriving above-ground biomass of mountain birch across Fennoscandian regions from remotely sensed data",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using satellite observations to improve model estimates of CO2 and CH4 from peatlands",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:08ZZubdj9fEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Onthe Potentialof CHRIS/PROBA for EstimatingVegetation Canopy Propertiesfrom Space",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:p2g8aNsByqUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "imulating gap fraction of complex forest scenes",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:dshw04ExmUIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "USING SPOT VEGETATION DATA WITH DYNAMIC VEGETATION MODELS WITHIN THE CENTRE FOR TERRESTRIAL CARBON DYNAMICS (CTCD)",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:KxtntwgDAa4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A probabilistic framework for inverting reflectance data using the PROSPECT model",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CTCD Coordinated Fieldwork Plans: 2004-2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SPECTRA and Hyperspectral Remote Sensing",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:abG-DnoFyZgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel approach to fire detection and characterisation using optical remote sensing",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hyperspectral remote sensing",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:_xSYboBqXhAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retrieval of structural and biochemical parameter information from airborne data over conifer stands",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiative Transfer Modelling for the characterisation of natural burnt surfaces AO/1-5526/07/NL/HE",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:D03iK_w7-QYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retrieval of structural and biochemical parameters from multiangle, multispectral airborne data",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring the relationship between vegetation canopy structural and radiometric behaviour for a closed forest canopy",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retrieval of structural and biochemical parameters from multiangle, multispectral airborne data over conifer stands",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "K8DPnCEAAAAJ:rO6llkc54NcC",
+        "num_citations": 0
+    }
+]

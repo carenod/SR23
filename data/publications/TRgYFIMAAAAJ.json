@@ -1,0 +1,475 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimental validation of a predicted feedback loop in the multi\u2010oscillator clock of Arabidopsis thaliana",
+            "pub_year": "2006",
+            "citation": "Molecular systems biology 2 (1), 59, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 489,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15376770396618312801",
+        "cites_id": [
+            "15376770396618312801"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Molecular Basis of Temperature Compensation in the Arabidopsis Circadian Clock",
+            "pub_year": "2006",
+            "citation": "The Plant Cell 18 (5), 1177-1187, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 396,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2259040792113033866",
+        "cites_id": [
+            "2259040792113033866"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nanopore direct RNA sequencing maps the complexity of Arabidopsis mRNA processing and m6A modification",
+            "pub_year": "2020",
+            "citation": "Elife 9, e49658, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 282,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=867861020505091123",
+        "cites_id": [
+            "867861020505091123"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Delayed fluorescence as a universal tool for the measurement of circadian rhythms in higher plants",
+            "pub_year": "2009",
+            "citation": "The Plant Journal 58 (5), 893-901, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 123,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1248506420383783810",
+        "cites_id": [
+            "1248506420383783810"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The circadian clock rephases during lateral root organ initiation in Arabidopsis thaliana",
+            "pub_year": "2015",
+            "citation": "Nature communications 6 (1), 7641, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 122,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16815106152500866418",
+        "cites_id": [
+            "16815106152500866418"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The circadian regulation of photosynthesis",
+            "pub_year": "2014",
+            "citation": "Photosynthesis research 119, 181-190, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4731434583475145659",
+        "cites_id": [
+            "4731434583475145659"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Full genome re-sequencing reveals a novel circadian clock mutation in Arabidopsis",
+            "pub_year": "2011",
+            "citation": "Genome biology 12 (3), 1-12, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3974944979895669580",
+        "cites_id": [
+            "3974944979895669580"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Distorted Circadian Clock Causes Early Flowering and Temperature-Dependent Variation in Spike Development in the Eps-3Am Mutant of Einkorn Wheat",
+            "pub_year": "2014",
+            "citation": "Genetics 196 (4), 1253-1261, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11329473257286779302",
+        "cites_id": [
+            "11329473257286779302"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coordination of robust single cell rhythms in the Arabidopsis circadian clock via spatial waves of gene expression",
+            "pub_year": "2018",
+            "citation": "Elife 7, e31700, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:5nxA0vEk-isC",
+        "num_citations": 91,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14677954800664167450",
+        "cites_id": [
+            "14677954800664167450"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network balance via CRY signalling controls the Arabidopsis circadian clock over ambient temperatures",
+            "pub_year": "2013",
+            "citation": "Molecular systems biology 9 (1), 650, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:qjMakFHDy7sC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15893857544055497019",
+        "cites_id": [
+            "15893857544055497019"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phosphorylation of Phosphoenolpyruvate Carboxylase Is Essential for Maximal and Sustained Dark CO2 Fixation and Core Circadian Clock Operation in the Obligate \u2026",
+            "pub_year": "2017",
+            "citation": "The Plant Cell 29 (10), 2519-2536, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:0EnyYjriUFMC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1115920592602964384",
+        "cites_id": [
+            "1115920592602964384"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian control of isoprene emissions from oil palm (Elaeis guineensis)",
+            "pub_year": "2006",
+            "citation": "The Plant Journal 47 (6), 960-968, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9026357480435966212",
+        "cites_id": [
+            "9026357480435966212"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HIGH EXPRESSION OF OSMOTICALLY RESPONSIVE GENES1 is required for circadian periodicity through the promotion of nucleo-cytoplasmic mRNA export in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "The Plant Cell 25 (11), 4391-4404, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11119264853490787572",
+        "cites_id": [
+            "11119264853490787572"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inference on periodicity of circadian time series",
+            "pub_year": "2013",
+            "citation": "Biostatistics 14 (4), 792-806, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13663384919990777181",
+        "cites_id": [
+            "13663384919990777181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kalancho\u00eb PPC1 Is Essential for Crassulacean Acid Metabolism and the Regulation of Core Circadian Clock and Guard Cell Signaling Genes",
+            "pub_year": "2020",
+            "citation": "The Plant Cell 32 (4), 1136-1160, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:_kc_bZDykSQC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6324746984202464349",
+        "cites_id": [
+            "6324746984202464349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A fast circadian clock at high temperatures is a conserved feature across Arabidopsis accessions and likely to be important for vegetative yield",
+            "pub_year": "2014",
+            "citation": "Plant, Cell & Environment 37 (2), 327-340, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8863133894739566444",
+        "cites_id": [
+            "8863133894739566444"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coordinated circadian timing through the integration of local inputs in Arabidopsis thaliana",
+            "pub_year": "2019",
+            "citation": "PLoS biology 17 (8), e3000407, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14064037726242394746",
+        "cites_id": [
+            "14064037726242394746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "mRNA 3\u2032 tagging is induced by nonsense-mediated decay and promotes ribosome dissociation",
+            "pub_year": "2012",
+            "citation": "Molecular and Cellular Biology 32 (13), 2585-2595, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17071616804351036140",
+        "cites_id": [
+            "17071616804351036140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "No Time for Spruce: Rapid Dampening of Circadian Rhythms in Picea abies (L. Karst)",
+            "pub_year": "2014",
+            "citation": "Plant and Cell Physiology 55 (3), 535-550, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17657215238908890135",
+        "cites_id": [
+            "17657215238908890135"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comparison of high-throughput techniques for assaying circadian rhythms in plants",
+            "pub_year": "2015",
+            "citation": "Plant Methods 11, 1-7, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:UebtZRa9Y70C",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10194487173293005114",
+        "cites_id": [
+            "10194487173293005114"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high-throughput delayed fluorescence method reveals underlying differences in the control of circadian rhythms in Triticum aestivum and Brassica napus",
+            "pub_year": "2019",
+            "citation": "Plant Methods 15 (1), 1-14, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18216674381834003711",
+        "cites_id": [
+            "18216674381834003711"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nanopore direct RNA sequencing maps an Arabidopsis N6 methyladenosine epitranscriptome",
+            "pub_year": "2019",
+            "citation": "BioRxiv, 706002, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13257529570895653071",
+        "cites_id": [
+            "13257529570895653071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating periodicity of oscillatory time series through resampling techniques",
+            "pub_year": "2011",
+            "citation": "University of Warwick. Centre for Research in Statistical Methodology 2011 (1), 2011"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:ufrVoPGSRksC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10225983033984519085",
+        "cites_id": [
+            "10225983033984519085"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Feh\u00e9 r B, Kevei E, Nagy F, Turner MS, Hall A, Millar AJ. 2006. Experimental validation of a predicted feedback loop in the multi-oscillator clock of Arabidopsis thaliana",
+            "citation": "Molecular Systems Biology 2, 59, 0"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15281361496957732721",
+        "cites_id": [
+            "15281361496957732721"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Silencing PHOSPHOENOLPYRUVATE CARBOXYLASE1 in the Obligate Crassulacean Acid Metabolism Species Kalancho\u00eb laxiflora causes Reversion to C3-like Metabolism and Amplifies \u2026",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 684050, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:4TOpqqG69KYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15935115737252448126",
+        "cites_id": [
+            "15935115737252448126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural variation in circadian rhythm in a worldwide sample of Capsella bursa-pastoris (Brassicaceae)",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:WF5omc3nYNoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7893055875818266042",
+        "cites_id": [
+            "7893055875818266042"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating Periodicity of Oscillatory Time Series through",
+            "pub_year": "2011",
+            "citation": "policies. Please scroll down to view the document, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temperature compensation of the Arabidopsis circadian clock",
+            "pub_year": "2008",
+            "citation": "Comparative Biochemistry and Physiology, Part A 3 (150), S153, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the Effect of Temperature on the Neurospora crassa Circadian Clock",
+            "pub_year": "2005",
+            "citation": "PQDT-Global, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:Se3iqnhoufwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GENES1 Is Required for Circadian Periodicity through the Promotion of Nucleo-Cytoplasmic mRNA Export",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:roLk4NBRz8UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplemental Information for",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TRgYFIMAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    }
+]

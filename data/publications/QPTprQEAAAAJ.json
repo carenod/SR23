@@ -1,0 +1,779 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome sequencing and analysis of the model grass Brachypodium distachyon",
+            "pub_year": "2010",
+            "citation": "Nature 463 (7282), 763-768, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1829,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4832367899727927580",
+        "cites_id": [
+            "4832367899727927580"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput sequencing of Arabidopsis microRNAs: evidence for frequent birth and death of MIRNA genes",
+            "pub_year": "2007",
+            "citation": "PloS one 2 (2), e219, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1279,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9783591614907217259",
+        "cites_id": [
+            "9783591614907217259"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genome of Eucalyptus grandis",
+            "pub_year": "2014",
+            "citation": "Nature 510 (7505), 356-362, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:dhFuZR0502QC",
+        "num_citations": 824,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2293715990490534342",
+        "cites_id": [
+            "2293715990490534342"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-Wide Profiling and Analysis of Arabidopsis siRNAs",
+            "pub_year": "2007",
+            "citation": "PLoS biology 5 (3), e57, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 612,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11016846715303501915",
+        "cites_id": [
+            "11016846715303501915"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network discovery pipeline elucidates conserved time-of-day\u2013specific cis-regulatory modules",
+            "pub_year": "2008",
+            "citation": "PLoS genetics 4 (2), e14, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 550,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8691664984200361553",
+        "cites_id": [
+            "8691664984200361553"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis RNA-dependent RNA polymerases and dicer-like proteins in antiviral defense and small interfering RNA biogenesis during Turnip Mosaic Virus infection",
+            "pub_year": "2010",
+            "citation": "The Plant Cell 22 (2), 481-496, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 532,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1563691346001484886,9286883489100054288",
+        "cites_id": [
+            "1563691346001484886",
+            "9286883489100054288"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unique functionality of 22-nt miRNAs in triggering RDR6-dependent siRNA biogenesis from target transcripts in Arabidopsis",
+            "pub_year": "2010",
+            "citation": "Nature structural & molecular biology 17 (8), 997-1003, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:qjMakFHDy7sC",
+        "num_citations": 454,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3613782595934077199",
+        "cites_id": [
+            "3613782595934077199"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-Wide Analysis of the RNA-DEPENDENT RNA POLYMERASE6/DICER-LIKE4 Pathway in Arabidopsis Reveals Dependency on miRNA- and tasiRNA \u2026",
+            "pub_year": "2007",
+            "citation": "The Plant Cell 19 (3), 926-942, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 435,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9799570776255497033",
+        "cites_id": [
+            "9799570776255497033"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The DIURNAL project: DIURNAL and circadian expression profiling, model-based pattern matching, and promoter analysis",
+            "pub_year": "2007",
+            "citation": "Cold Spring Harbor symposia on quantitative biology 72 (8), 353, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 406,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16049082473793609616",
+        "cites_id": [
+            "16049082473793609616"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MicroRNA Gene Evolution in Arabidopsis lyrata and Arabidopsis thaliana",
+            "pub_year": "2010",
+            "citation": "The Plant Cell 22 (4), 1074-1089, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 268,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7332893596235918479",
+        "cites_id": [
+            "7332893596235918479"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcription factors in light and circadian clock signaling networks revealed by genomewide mapping of direct targets for neurospora white collar complex",
+            "pub_year": "2010",
+            "citation": "Eukaryotic cell 9 (10), 1549-1556, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 245,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5123041930678912883",
+        "cites_id": [
+            "5123041930678912883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AGO1-miR173 complex initiates phased siRNA formation in plants",
+            "pub_year": "2008",
+            "citation": "Proceedings of the National Academy of Sciences 105 (51), 20055-20062, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 216,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5012826249697703072",
+        "cites_id": [
+            "5012826249697703072"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of MIR390a precursor processing-defective mutants in Arabidopsis by direct genome sequencing",
+            "pub_year": "2010",
+            "citation": "Proceedings of the National Academy of Sciences 107 (1), 466-471, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 161,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7317270532001658911",
+        "cites_id": [
+            "7317270532001658911"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational and analytical framework for small RNA profiling by high-throughput sequencing",
+            "pub_year": "2009",
+            "citation": "Rna 15 (5), 992-1002, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 146,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6968251338673263656",
+        "cites_id": [
+            "6968251338673263656"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytophthora-ID. org: a sequence-based Phytophthora identification tool",
+            "pub_year": "2011",
+            "citation": "Plant Disease 95 (3), 337-342, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:WF5omc3nYNoC",
+        "num_citations": 144,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11992331850655756646",
+        "cites_id": [
+            "11992331850655756646"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heterochromatin is required for normal distribution of Neurospora crassa CenH3",
+            "pub_year": "2011",
+            "citation": "Molecular and cellular biology 31 (12), 2528-2542, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:ufrVoPGSRksC",
+        "num_citations": 133,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12180482977979081864",
+        "cites_id": [
+            "12180482977979081864"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "mut-16 and other mutator class genes modulate 22G and 26G siRNA pathways in Caenorhabditis elegans",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (4), 1201-1208, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 132,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17097412509165966828",
+        "cites_id": [
+            "17097412509165966828"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Abiotic stresses modulate landscape of poplar transcriptome via alternative splicing, differential intron retention, and isoform ratio switching",
+            "pub_year": "2018",
+            "citation": "Frontiers in Plant Science 9, 5, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:Wqn_fehR_TUC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16314980806760759575",
+        "cites_id": [
+            "16314980806760759575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ERI-6/7 helicase acts at the first stage of an siRNA amplification pathway that targets recent gene duplications",
+            "pub_year": "2011",
+            "citation": "PLoS genetics 7 (11), e1002369, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:roLk4NBRz8UC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4586402911286777778",
+        "cites_id": [
+            "4586402911286777778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Update of ASRP: the Arabidopsis Small RNA Project database",
+            "pub_year": "2007",
+            "citation": "Nucleic acids research 36 (suppl_1), D982-D985, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17052472767143127282",
+        "cites_id": [
+            "17052472767143127282"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GENE-counter: a computational pipeline for the analysis of RNA-Seq data for gene expression differences",
+            "pub_year": "2011",
+            "citation": "PloS one 6 (10), e25279, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15006968643968234309",
+        "cites_id": [
+            "15006968643968234309"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automated identification of avian vocalizations with deep convolutional neural networks",
+            "pub_year": "2020",
+            "citation": "Remote Sensing in Ecology and Conservation 6 (1), 79-92, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:OqYjx1B7R3oC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12857543389195089829",
+        "cites_id": [
+            "12857543389195089829"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytophthora have distinct endogenous small RNA populations that include short interfering and microRNAs",
+            "pub_year": "2013",
+            "citation": "PLoS One 8 (10), e77181, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13213143238459545975",
+        "cites_id": [
+            "13213143238459545975"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ligand-specific transcriptional mechanisms underlie aryl hydrocarbon receptor-mediated developmental toxicity of oxygenated PAHs",
+            "pub_year": "2015",
+            "citation": "Toxicological Sciences 147 (2), 397-411, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17152729177327861912",
+        "cites_id": [
+            "17152729177327861912"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "De novo transcriptome assembly and analyses of gene expression during photomorphogenesis in diploid wheat Triticum monococcum",
+            "pub_year": "2014",
+            "citation": "PLoS One 9 (5), e96855, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16065733433556158515",
+        "cites_id": [
+            "16065733433556158515"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Caenorhabditis elegans RDE-10/RDE-11 complex regulates RNAi by promoting secondary siRNA amplification",
+            "pub_year": "2012",
+            "citation": "Current biology 22 (10), 881-890, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:Se3iqnhoufwC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1581522178274462701",
+        "cites_id": [
+            "1581522178274462701"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tropical forests can maintain hyperdiversity because of enemies",
+            "pub_year": "2019",
+            "citation": "Proceedings of the National Academy of Sciences (PNAS) 116 (2), 581-586, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:pwA0zy_liR0C",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13303803183731888638",
+        "cites_id": [
+            "13303803183731888638"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Workflow and convolutional neural network for automated identification of animal sounds",
+            "pub_year": "2021",
+            "citation": "Ecological Indicators 124, 107419, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:zaHkCSmj5XkC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13528249969031165710",
+        "cites_id": [
+            "13528249969031165710"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assembly and characterization of the European hazelnut \u2018Jefferson\u2019transcriptome",
+            "pub_year": "2012",
+            "citation": "Crop science 52 (6), 2679-2686, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17568301069050970125",
+        "cites_id": [
+            "17568301069050970125"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A cost\u2010effective maize ear phenotyping platform enables rapid categorization and quantification of kernels",
+            "pub_year": "2021",
+            "citation": "The Plant Journal 106 (2), 566-579, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:CmbFvBriOyMC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15751969915778064320",
+        "cites_id": [
+            "15751969915778064320"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimental metatranscriptomics reveals the costs and benefits of dissolved organic matter photo\u2010alteration for freshwater microbes",
+            "pub_year": "2020",
+            "citation": "Environmental Microbiology 22 (8), 3505-3521, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:aVq8r21TQD4C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10984326337706550929",
+        "cites_id": [
+            "10984326337706550929"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of a nanoflare probe specific to a latency associated transcript for isolation of KHV latently infected cells",
+            "pub_year": "2015",
+            "citation": "Virus research 208, 129-135, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:ITz7TVZQ0sgC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14801342166170863443",
+        "cites_id": [
+            "14801342166170863443"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotypically anchored mRNA and miRNA expression profiling in zebrafish reveals flame retardant chemical toxicity networks",
+            "pub_year": "2021",
+            "citation": "Frontiers in Cell and Developmental Biology 9, 663032, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:HmWvvuJwtxYC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3685462546737149421",
+        "cites_id": [
+            "3685462546737149421"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Ahr2-Dependent wfikkn1 Gene Influences Zebrafish Transcriptome, Proteome, and Behavior",
+            "pub_year": "2022",
+            "citation": "Toxicological Sciences 187 (2), 325-344, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:uGrg30pLAbkC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5659929148772252122",
+        "cites_id": [
+            "5659929148772252122"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Personal Sequence Database: a suite of tools to create and maintain web-accessible sequence databases",
+            "pub_year": "2007",
+            "citation": "BMC bioinformatics 8 (1), 1-7, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:UebtZRa9Y70C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13921213587536051037",
+        "cites_id": [
+            "13921213587536051037"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Content-aware segmentation of objects spanning a Large size range: Application to plankton images",
+            "pub_year": "2022",
+            "citation": "Frontiers in Marine Science 9, 870005, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:n8FNryW2AHIC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1924206222585263436",
+        "cites_id": [
+            "1924206222585263436"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A convolutional neural network and r-shiny app for automated identification and classification of animal sounds",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.07. 15.204685, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:pe4chHNxNLUC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10745060077139225289",
+        "cites_id": [
+            "10745060077139225289"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pnw-Cnet v4: Automated species identification for passive acoustic monitoring",
+            "pub_year": "2022",
+            "citation": "Available at SSRN 4167074, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:0iM-huCvmk0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6939122001436833285,1851224400560666927",
+        "cites_id": [
+            "6939122001436833285",
+            "1851224400560666927"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spotted owls and OpenPower",
+            "pub_year": "2018",
+            "citation": "Linux on Power Developer Portal, IBM Developer. Published November 21, 2018, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:6ScxedgR18sC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16970699672726982235",
+        "cites_id": [
+            "16970699672726982235"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genome of Eucalyptus grandis",
+            "pub_year": "2014",
+            "citation": "Nature 7505 (510), 356-362.(2014), 2014"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:RmcNAhKkducC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12451369677585794738",
+        "cites_id": [
+            "12451369677585794738"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome sequence analysis of the model grass Brachypodium distachyon: insights into grass genome evolution",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:Q_E8KsG3g9MC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3654928235949506880",
+        "cites_id": [
+            "3654928235949506880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Njobvu-AI: An open-source tool for collaborative image labeling and implementation of computer vision models",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2308.16435, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:KEtq3P1Vf8oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Edge computing at sea: high-throughput classification of in-situ plankton imagery for adaptive sampling",
+            "pub_year": "2023",
+            "citation": "Frontiers in Marine Science 10, 1187771, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:gxb_f1p9zx4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Creating High Throughput Low Cost Analysis of Different Labor-Intensive Repetitive Research Processes",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:PuYkdpj8xa4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GoodaleCEnvironmentMoleToxLigandSpecificTranscriptional. pdf",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:mnAcAzq93VMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Center for Genome Research and Biocomputing at Oregon State University",
+            "pub_year": "2011",
+            "citation": "Journal of Biomolecular Techniques: JBT 22 (Suppl), S26, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:8k81kl-MbHgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ERI-6/7 Helicase Acts at the First Stage of an siRNA Amplification Pathway That Targets Recent Gene Duplications",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:MSzX15-gZgkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INAUGURAL ARTICLE by a Recently Elected Academy Member: mut-16 and other mutator class genes modulate 22G and 26G siRNA pathways in Caenorhabditis elegans",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences of the United States of \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Determination of the small RNA biogenesis components DCL and RDR in Phytophthora oomycetes",
+            "pub_year": "2009",
+            "citation": "PHYTOPATHOLOGY 99 (6), S14-S14, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A genome-wide view of small RNAs in Arabidopsis thaliana.",
+            "pub_year": "2007",
+            "citation": "IN VITRO CELLULAR & DEVELOPMENTAL BIOLOGY-ANIMAL 43, S15-S15, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:Zph67rFs4hoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimental metatranscriptomics reveals the costs and benefits of dissolved organic matter",
+            "citation": "Evolution 55, 397-425, 0"
+        },
+        "filled": false,
+        "author_pub_id": "QPTprQEAAAAJ:qwOXE0mbtu4C",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,1605 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Physcomitrella Genome Reveals Evolutionary Insights into the Conquest of Land by Plants",
+            "pub_year": "2008",
+            "citation": "Science 319 (5859), 64-69, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1964,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4352834050845427603",
+        "cites_id": [
+            "4352834050845427603"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A prokaryotic phytochrome",
+            "pub_year": "1997",
+            "citation": "Nature 386 (6626), 663-663, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 430,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=803124655815157601",
+        "cites_id": [
+            "803124655815157601"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The phototropin family of photoreceptors",
+            "pub_year": "2001",
+            "citation": "The Plant Cell 13 (5), 993-997, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 429,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9804026290674120272",
+        "cites_id": [
+            "9804026290674120272"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The structure of a complete phytochrome sensory module in the Pr ground state",
+            "pub_year": "2008",
+            "citation": "Proceedings of the National Academy of Sciences 105 (38), 14709-14714, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 427,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11045567413023770329",
+        "cites_id": [
+            "11045567413023770329"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of recombinant phytochrome from the cyanobacterium\u2009Synechocystis",
+            "pub_year": "1997",
+            "citation": "Proceedings of the National Academy of Sciences 94 (22), 11792-11797, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 214,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13097126754055637877",
+        "cites_id": [
+            "13097126754055637877"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two ground state isoforms and a chromophore D-ring photoflip triggering extensive intramolecular changes in a canonical phytochrome",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (10), 3842-3847, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:roLk4NBRz8UC",
+        "num_citations": 189,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11579040819301121607",
+        "cites_id": [
+            "11579040819301121607"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A chimeric photoreceptor gene, NEOCHROME, has arisen twice during plant evolution",
+            "pub_year": "2005",
+            "citation": "Proceedings of the National Academy of Sciences 102 (38), 13705-13709, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 179,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4642532189378323099",
+        "cites_id": [
+            "4642532189378323099"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light-induced proton release and proton uptake reactions in the cyanobacterial phytochrome Cph1",
+            "pub_year": "2001",
+            "citation": "Biochemistry 40 (38), 11460-11471, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 170,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9455790686291299535",
+        "cites_id": [
+            "9455790686291299535"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome Cph1 from the cyanobacterium Synechocystis PCC6803: Purification, assembly, and quaternary structure",
+            "pub_year": "2001",
+            "citation": "European journal of biochemistry 268 (17), 4720-4730, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:qjMakFHDy7sC",
+        "num_citations": 146,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3150331895567722292",
+        "cites_id": [
+            "3150331895567722292"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ultrafast dynamics of phytochrome from the cyanobacterium Synechocystis, reconstituted with phycocyanobilin and phycoerythrobilin",
+            "pub_year": "2002",
+            "citation": "Biophysical journal 82 (2), 1004-1016, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 136,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6751731409645076000",
+        "cites_id": [
+            "6751731409645076000"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome cytoplasmic signaling",
+            "pub_year": "2013",
+            "citation": "Annual review of plant biology 64, 377-402, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:RHpTSmoSYBkC",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17280914159268965254",
+        "cites_id": [
+            "17280914159268965254"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prokaryotes and phytochrome. The connection to chromophores and signaling",
+            "pub_year": "1999",
+            "citation": "Plant physiology 121 (4), 1059-1068, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3207805495909045844",
+        "cites_id": [
+            "3207805495909045844"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A phytochrome\u2013phototropin light signaling complex at the plasma membrane",
+            "pub_year": "2012",
+            "citation": "Proceedings of the National Academy of Sciences 109 (30), 12231-12236, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:aqlVkmm33-oC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8855727949987838983",
+        "cites_id": [
+            "8855727949987838983"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeted knockout in Physcomitrella reveals direct actions of phytochrome in the cytoplasm",
+            "pub_year": "2004",
+            "citation": "Proceedings of the National Academy of Sciences 101 (38), 13939-13944, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 105,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13407660615148419501",
+        "cites_id": [
+            "13407660615148419501"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light-induced chromophore activity and signal transduction in phytochromes observed by 13C and 15N magic-angle spinning NMR",
+            "pub_year": "2008",
+            "citation": "Proceedings of the National Academy of Sciences 105 (40), 15229-15234, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5402179661023744928",
+        "cites_id": [
+            "5402179661023744928"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Raman spectroscopic and light-induced kinetic characterization of a recombinant phytochrome of the cyanobacterium Synechocystis",
+            "pub_year": "1997",
+            "citation": "Biochemistry 36 (43), 13389-13395, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7963244052334132679",
+        "cites_id": [
+            "7963244052334132679"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probing protein\u2013chromophore interactions in Cph1 phytochrome by mutagenesis",
+            "pub_year": "2006",
+            "citation": "The FEBS journal 273 (7), 1415-1429, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:WF5omc3nYNoC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8455148979605505871",
+        "cites_id": [
+            "8455148979605505871"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heteronuclear solution-state NMR studies of the chromophore in cyanobacterial phytochrome Cph1",
+            "pub_year": "2005",
+            "citation": "Biochemistry 44 (23), 8244-8250, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16346301815820077794",
+        "cites_id": [
+            "16346301815820077794"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spectroscopy and a high-resolution crystal structure of Tyr263 mutants of cyanobacterial phytochrome Cph1",
+            "pub_year": "2011",
+            "citation": "Journal of molecular biology 413 (1), 115-127, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4933294943470634323",
+        "cites_id": [
+            "4933294943470634323"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanism of Cph1 phytochrome assembly from stopped-flow kinetics and circular dichroism",
+            "pub_year": "2003",
+            "citation": "Biochemistry 42 (46), 13684-13697, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:JV2RwH3_ST0C",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18295717240614441789",
+        "cites_id": [
+            "18295717240614441789"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome three-dimensional structures and functions",
+            "pub_year": "2010",
+            "citation": "Biochemical Society Transactions 38 (2), 710-716, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:_kc_bZDykSQC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2563665564660484280",
+        "cites_id": [
+            "2563665564660484280"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromophore structure of cyanobacterial phytochrome Cph1 in the Pr state: reconciling structural and spectroscopic data by QM/MM calculations",
+            "pub_year": "2009",
+            "citation": "Biophysical Journal 96 (10), 4153-4163, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:Zph67rFs4hoC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16439431803527328723",
+        "cites_id": [
+            "16439431803527328723"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "15N MAS NMR Studies of Cph1 Phytochrome:\u2009 Chromophore Dynamics and Intramolecular Signal Transduction",
+            "pub_year": "2006",
+            "citation": "The Journal of Physical Chemistry B 110 (41), 20580-20585, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10103265753024866420",
+        "cites_id": [
+            "10103265753024866420"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Photoreactions of Recombinant Phytochrome from the Cyanobacterium Synechocystis: A Low\u2010Temperature UV\u2013Vis and FT\u2010IR Spectroscopic Study",
+            "pub_year": "2000",
+            "citation": "Photochemistry and Photobiology 71 (5), 655-661, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:UebtZRa9Y70C",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13752851189413204025",
+        "cites_id": [
+            "13752851189413204025"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombinant holophytochrome in Escherichia coli",
+            "pub_year": "2001",
+            "citation": "FEBS letters 508 (3), 459-462, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9195077858701747226",
+        "cites_id": [
+            "9195077858701747226"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light-dependent dimerisation in the N-terminal sensory module of cyanobacterial phytochrome 1",
+            "pub_year": "2005",
+            "citation": "FEBS letters 579 (18), 3970-3974, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:8k81kl-MbHgC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16947484309493739635",
+        "cites_id": [
+            "16947484309493739635"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protonation-dependent structural heterogeneity in the chromophore binding site of cyanobacterial phytochrome Cph1",
+            "pub_year": "2017",
+            "citation": "The journal of physical chemistry B 121 (1), 47-57, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:u9iWguZQMMsC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17765852844447924785",
+        "cites_id": [
+            "17765852844447924785"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome as molecular machine: revealing chromophore action during the Pfr\u2192 Pr photoconversion by magic-angle spinning NMR spectroscopy",
+            "pub_year": "2010",
+            "citation": "Journal of the American Chemical Society 132 (12), 4431-4437, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:4TOpqqG69KYC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2978169404674992443",
+        "cites_id": [
+            "2978169404674992443"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Aphototropic mutants of the moss Ceratodon purpureus with spectrally normal and with spectrally dysfunctional phytochrome",
+            "pub_year": "1996",
+            "citation": "Plant, Cell & Environment 19 (5), 560-568, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:ufrVoPGSRksC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3363331169466902884",
+        "cites_id": [
+            "3363331169466902884"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Non\u2010angiosperm phytochromes and the evolution of vascular plants",
+            "pub_year": "1998",
+            "citation": "Physiologia Plantarum 102 (4), 612-622, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:Se3iqnhoufwC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5727326401024820332",
+        "cites_id": [
+            "5727326401024820332"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tetracycline-regulated reporter gene expression in the moss Physcomitrella patens",
+            "pub_year": "1996",
+            "citation": "Plant molecular biology 30, 199-205, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5987229889611047708",
+        "cites_id": [
+            "5987229889611047708"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The D-ring, not the A-ring, rotates in Synechococcus OS-B\u2032 phytochrome",
+            "pub_year": "2014",
+            "citation": "Journal of Biological Chemistry 289 (5), 2552-2562, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:maZDTaKrznsC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2940724387606890896",
+        "cites_id": [
+            "2940724387606890896"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Solid\u2010state NMR spectroscopy to probe photoactivation in canonical phytochromes",
+            "pub_year": "2013",
+            "citation": "Photochemistry and Photobiology 89 (2), 259-273, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:mB3voiENLucC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5392320839970887831",
+        "cites_id": [
+            "5392320839970887831"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spectroscopic and Photochemical Characterization of the Red\u2010Light Sensitive Photosensory Module of Cph2 from Synechocystis PCC 6803",
+            "pub_year": "2011",
+            "citation": "Photochemistry and Photobiology 87 (1), 160-173, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:4DMP91E08xMC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1996338135348666247",
+        "cites_id": [
+            "1996338135348666247"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fluorescence investigation of the recombinant cyanobacterial phytochrome (Cph1) and its C-terminally truncated monomeric species (Cph1\u03942): implication for holoprotein assembly \u2026",
+            "pub_year": "2002",
+            "citation": "Journal of Photochemistry and Photobiology B: Biology 67 (1), 39-50, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13589730253955666269",
+        "cites_id": [
+            "13589730253955666269"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dimerization and inter-chromophore distance of Cph1 phytochrome from Synechocystis, as monitored by fluorescence homo and hetero energy transfer",
+            "pub_year": "2003",
+            "citation": "Biochemistry 42 (19), 5885-5895, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5897470158160583854",
+        "cites_id": [
+            "5897470158160583854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fluorescence and Photochemistry of Recombinant Phytochrome from the Cyanobacterium Synechocystis",
+            "pub_year": "1998",
+            "citation": "Photochemistry and photobiology 67 (2), 263-267, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:5nxA0vEk-isC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4799990762847332035",
+        "cites_id": [
+            "4799990762847332035"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome from protonemal tissue of the moss Ceratodon purpureus",
+            "pub_year": "1995",
+            "citation": "Journal of plant physiology 147 (3-4), 426-434, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:0EnyYjriUFMC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3440924768445357954",
+        "cites_id": [
+            "3440924768445357954"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D structures of plant phytochrome A as Pr and Pfr from solid-state NMR: implications for molecular function",
+            "pub_year": "2018",
+            "citation": "Frontiers in plant science 9, 498, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:D_sINldO8mEC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12401710814560566030",
+        "cites_id": [
+            "12401710814560566030"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Solid-state NMR spectroscopic study of chromophore\u2013protein interactions in the Pr ground state of plant phytochrome A",
+            "pub_year": "2012",
+            "citation": "Molecular plant 5 (3), 698-715, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:-f6ydRqryjwC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1811739839665856441",
+        "cites_id": [
+            "1811739839665856441"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transgene expression in the moss Ceratodon purpureus",
+            "pub_year": "1999",
+            "citation": "Journal of plant physiology 154 (5-6), 641-650, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8703686148424701615",
+        "cites_id": [
+            "8703686148424701615"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CpPHY2 (PHYCER2), A\" normal\" phytochrome in Ceratodon (Accession No. U56698, PGR 96-067).",
+            "pub_year": "1996",
+            "citation": "Plant Physiol. 112, 446, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5451063235893236601",
+        "cites_id": [
+            "5451063235893236601"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conformational heterogeneity of the Pfr chromophore in plant and cyanobacterial phytochromes",
+            "pub_year": "2015",
+            "citation": "Frontiers in Molecular Biosciences 2, 37, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:SeFeTyx0c_EC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16508674271060776649",
+        "cites_id": [
+            "16508674271060776649"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic nuclear polarization provides new insights into chromophore structure in phytochrome photoreceptors",
+            "pub_year": "2016",
+            "citation": "Angewandte Chemie International Edition 55 (52), 16017-16020, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:p2g8aNsByqUC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16468277049333709537",
+        "cites_id": [
+            "16468277049333709537"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Blue light- and genetically-reversed gravitropic response in protonemata of the moss Ceratodon purpureus",
+            "pub_year": "1998",
+            "citation": "Planta 206, 95-102, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6621401105910401178",
+        "cites_id": [
+            "6621401105910401178"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signaling kinetics of cyanobacterial phytochrome Cph1, a light regulated histidine kinase",
+            "pub_year": "2011",
+            "citation": "Biochemistry 50 (28), 6178-6188, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=175964439906574895",
+        "cites_id": [
+            "175964439906574895"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the collective nature of phytochrome photoactivation",
+            "pub_year": "2011",
+            "citation": "Biochemistry 50 (51), 10987-10989, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:hC7cP41nSMkC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16358250525779080230",
+        "cites_id": [
+            "16358250525779080230"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombinant Phytochrome A in Yeast Differs by its Spectroscopic and Photochemical Properties from the Major phyA\u2032 and is Close to the Minor phyA \u2033: Evidence for \u2026",
+            "pub_year": "2001",
+            "citation": "Photochemistry and Photobiology 73 (6), 692-696, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:M3ejUd6NZC8C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17603944551380353737",
+        "cites_id": [
+            "17603944551380353737"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tyrosine 263 in Cyanobacterial Phytochrome C ph1 Optimizes Photochemistry at the prelumi\u2010R\u2192 lumi\u2010R Step",
+            "pub_year": "2014",
+            "citation": "Photochemistry and photobiology 90 (4), 786-795, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:J_g5lzvAfSwC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17825331436061150017",
+        "cites_id": [
+            "17825331436061150017"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombinant Phytochrome of the Moss Ceratodon purpureus: Heterologous Expression and Kinetic Analysis of Pr\u2192 Pfr Conversion",
+            "pub_year": "1998",
+            "citation": "Photochemistry and photobiology 68 (6), 857-863, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1634016900215993076",
+        "cites_id": [
+            "1634016900215993076"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Somatic hybridisation with aphototropic mutants of the moss Ceratodon purpureus: genome size, phytochrome photoreversibility, tip-cell phototropism and chlorophyll regulation",
+            "pub_year": "1998",
+            "citation": "Journal of plant physiology 153 (3-4), 394-400, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3800357153233061118",
+        "cites_id": [
+            "3800357153233061118"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural insights into photoactivation and signalling in plant phytochromes",
+            "pub_year": "2020",
+            "citation": "Nature Plants 6 (5), 581-588, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:uJ-U7cs_P_0C",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17528912657920884375",
+        "cites_id": [
+            "17528912657920884375"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NMR spectroscopic investigation of mobility and hydrogen bonding of the chromophore in the binding pocket of phytochrome proteins",
+            "pub_year": "2010",
+            "citation": "ChemPhysChem 11 (6), 1248-1257, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10294460237700589856",
+        "cites_id": [
+            "10294460237700589856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bellis perennis: a useful tool for protein localization studies",
+            "pub_year": "2011",
+            "citation": "Planta 234, 759-768, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11390798271328114342",
+        "cites_id": [
+            "11390798271328114342"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role of the Protein Cavity in Phytochrome Chromoprotein Assembly and Double\u2010bond Isomerization: A Comparison with Model Compounds",
+            "pub_year": "2010",
+            "citation": "Photochemistry and photobiology 86 (4), 856-861, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:IWHjjKOFINEC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7027478447910111727",
+        "cites_id": [
+            "7027478447910111727"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The lumi-R intermediates of prototypical phytochromes",
+            "pub_year": "2020",
+            "citation": "The Journal of Physical Chemistry B 124 (20), 4044-4055, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:j8SEvjWlNXcC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3301680265062402690",
+        "cites_id": [
+            "3301680265062402690"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A FULLY AUTOMATED DUAL\u2010WAVELENGTH PHOTOMETER FOR PHYTOCHROME MEASUREMENTS AND ITS APPLICATION TO PHYTOCHROME FROM CHLOROPHYLLCONTAINING EXTRACE",
+            "pub_year": "1994",
+            "citation": "Photochemistry and photobiology 60 (2), 179-183, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3404036154705922017",
+        "cites_id": [
+            "3404036154705922017"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Influence of heterogeneity on the ultrafast photoisomerization dynamics of Pfr in Cph1 phytochrome",
+            "pub_year": "2017",
+            "citation": "Photochemistry and Photobiology 93 (3), 703-712, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:vRqMK49ujn8C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15151436481339284625",
+        "cites_id": [
+            "15151436481339284625"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiplex CRISPR-Cas9 mutagenesis of the phytochrome gene family in Physcomitrium (Physcomitrella) patens",
+            "pub_year": "2021",
+            "citation": "Plant Molecular Biology 107, 327-336, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:KUbvn5osdkgC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12520321890068347990",
+        "cites_id": [
+            "12520321890068347990"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural communication between the chromophore\u2010binding pocket and the N\u2010terminal extension in plant phytochrome phyB",
+            "pub_year": "2017",
+            "citation": "FEBS letters 591 (9), 1258-1265, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:tOudhMTPpwUC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8539640633078988827",
+        "cites_id": [
+            "8539640633078988827"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nuclear phytochrome B regulates leaf flattening through phytochrome interacting factors",
+            "pub_year": "2014",
+            "citation": "Molecular plant 7 (11), 1693-1696, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:35N4QoGY0k4C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4827799518711242288",
+        "cites_id": [
+            "4827799518711242288"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombinant phytochrome of the moss Ceratodon purpureus (CP2): fluorescence spectroscopy and photochemistry",
+            "pub_year": "2000",
+            "citation": "Journal of Photochemistry and Photobiology B: Biology 56 (2-3), 145-153, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7540886888681479425",
+        "cites_id": [
+            "7540886888681479425"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photomorphogenesis in lower plants",
+            "pub_year": "1999",
+            "citation": "Concepts in Photobiology: Photosynthesis and Photomorphogenesis, 835-867, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:dhFuZR0502QC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17991370192643649461",
+        "cites_id": [
+            "17991370192643649461"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRISPR/Cas9-Mediated Knockout of Physcomitrella patens Phytochromes",
+            "pub_year": "2019",
+            "citation": "Phytochromes: Methods and Protocols, 237-263, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:5awf1xo2G04C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2832275979456087484",
+        "cites_id": [
+            "2832275979456087484"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dwelling in the dark: procedures for the crystallography of phytochromes and other photochromic proteins",
+            "pub_year": "2009",
+            "citation": "Acta Crystallographica Section D: Biological Crystallography 65 (11), 1232-1235, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12804229355544008494",
+        "cites_id": [
+            "12804229355544008494"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Holophytochrome-Interacting Proteins in Physcomitrella: Putative Actors in Phytochrome Cytoplasmic Signaling",
+            "pub_year": "2016",
+            "citation": "Frontiers in Plant Science 7, 613, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:uWQEDVKXjbEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4938682170668997471",
+        "cites_id": [
+            "4938682170668997471"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring Chromophore-Binding Pocket: High-Resolution Solid-State 1H\u201313C Interfacial Correlation NMR Spectra with Windowed PMLG Scheme",
+            "pub_year": "2012",
+            "citation": "Applied magnetic resonance 42, 79-88, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:HDshCWvjkbEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16206743266991832504",
+        "cites_id": [
+            "16206743266991832504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Silhouette lift for facial reanimation",
+            "pub_year": "2009",
+            "citation": "Clinical otolaryngology: official journal of ENT-UK; official journal of \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:lmc2jWPfTJgC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=814710332127673949",
+        "cites_id": [
+            "814710332127673949"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes and phytochrome-like proteins in cyanobacteria",
+            "pub_year": "2003",
+            "citation": "Photoreceptors and light signalling, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:TFP_iSt0sucC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2910542158237956910",
+        "cites_id": [
+            "2910542158237956910"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes and phytochrome-like proteins in cyanobacteria",
+            "pub_year": "2003",
+            "citation": "Photoreceptors and light signalling, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2910542158237956910",
+        "cites_id": [
+            "2910542158237956910"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Real time spectral analysis during phytochrome chromophore and chromoprotein purification",
+            "pub_year": "2006",
+            "citation": "International journal of biological macromolecules 39 (1-3), 100-103, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:qUcmZB5y_30C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15448077833295019965",
+        "cites_id": [
+            "15448077833295019965"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Perspectives in plant genetic engineering and biopharmacy.",
+            "pub_year": "1991",
+            "citation": "BioPharm, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:GnPB-g6toBAC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8874302974321653287",
+        "cites_id": [
+            "8874302974321653287"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NMR chemical shift pattern changed by ammonium sulfate precipitation in cyanobacterial phytochrome Cph1",
+            "pub_year": "2015",
+            "citation": "Frontiers in Molecular Biosciences 2, 42, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:zA6iFVUQeVQC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1837943280222595001",
+        "cites_id": [
+            "1837943280222595001"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes and Functions: Studies Using Gene Targeting in Physcomitrella",
+            "pub_year": "2005",
+            "citation": "Light sensing in plants, 103-110, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:TQgYirikUcIC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1290402910316275228",
+        "cites_id": [
+            "1290402910316275228"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid response",
+            "pub_year": "2020",
+            "citation": "Elife 9, e57105, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:-_dYPAW6P2MC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9262587168088392024",
+        "cites_id": [
+            "9262587168088392024"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ultrafast protein response in the Pfr state of Cph1 phytochrome",
+            "pub_year": "2023",
+            "citation": "Photochemical & Photobiological Sciences, 1-12, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:WZBGuue-350C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2729553379909833915",
+        "cites_id": [
+            "2729553379909833915"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of Physcomitrella Phytochrome Mutants via Phototropism and Polarotropism",
+            "pub_year": "2019",
+            "citation": "Phytochromes: Methods and Protocols, 225-236, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:WqliGbK-hY8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15734169263186265520",
+        "cites_id": [
+            "15734169263186265520"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proceedings: Platelet aggregation with ristocetin.",
+            "pub_year": "1973",
+            "citation": "Journal of Clinical Pathology 26 (12), 982, 1973"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:gsN89kCJA0AC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12975849275604533032",
+        "cites_id": [
+            "12975849275604533032"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Electronic personal assessment questionnaire for vascular conditions (ePAQ-VAS): development and validity",
+            "pub_year": "2020",
+            "citation": "Journal of British Surgery 107 (8), 1004-1012, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:uc_IGeMz5qoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17324798894782863450",
+        "cites_id": [
+            "17324798894782863450"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Psychosocial and physical outcomes for women at high familial breast cancer risk",
+            "pub_year": "2010",
+            "citation": "European Journal of Surgical Oncology 36 (11), 1107, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:RGFaLdJalmkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13985746728462217388",
+        "cites_id": [
+            "13985746728462217388"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Joseph Roth and Benno Reifenberg: aspects of the author-editor relationship",
+            "pub_year": "2006",
+            "citation": "Modern Language Review 101 (4), 1044-1054, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:S16KYo8Pm5AC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10222268049027530181",
+        "cites_id": [
+            "10222268049027530181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Looking for evidence of personal growth during internship.",
+            "pub_year": "2003",
+            "citation": "JOURNAL OF GENERAL INTERNAL MEDICINE 18, 275-275, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:fPk4N6BV_jEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13619864158838556015",
+        "cites_id": [
+            "13619864158838556015"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoreceptor dimerization of phytochrome from Synechocystis, as monitored by fluorescence homo and hetero energy transfer",
+            "pub_year": "2003",
+            "citation": "BIOPHYSICAL JOURNAL 84 (2), 291A-291A, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13969932295687413505",
+        "cites_id": [
+            "13969932295687413505"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of A Synechocystis Phytochrome",
+            "pub_year": "1999",
+            "citation": "The Phototrophic Prokaryotes, 195-199, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13913917360322387294",
+        "cites_id": [
+            "13913917360322387294"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of recombinant phytochrome from the cyanobacterium Synechocystis (vol 94, pg 11792, 1997)",
+            "pub_year": "1998",
+            "citation": "Proceedings of the National Academy of Sciences of the United States of \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11979225647365809885",
+        "cites_id": [
+            "11979225647365809885"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resonance Raman spectroscopic study of recombinant phytochromes",
+            "pub_year": "1997",
+            "citation": "Spectroscopy of Biological Molecules: Modern Trends, 129-130, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9152607888929960722",
+        "cites_id": [
+            "9152607888929960722"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PIDDLE: PCR-based, in-frame, directional DNA ligation and expression",
+            "pub_year": "1993",
+            "citation": "Biotechnology techniques 7, 91-98, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:O3NaXMp0MMsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14150074376286434012",
+        "cites_id": [
+            "14150074376286434012"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CHARACTERIZATION OF ASYNECHOCYSTIS PHYTOCHROME",
+            "pub_year": "2012",
+            "citation": "The Phototrophic Prokaryotes, 195, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:g5m5HwL7SMYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tips in tip work for external septorhinoplasty",
+            "pub_year": "2009",
+            "citation": "Clinical Otolaryngology 34 (4), 397-397, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:LI9QrySNdTsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Re: An evaluation of Merocel and Series 5000 nasal packs in patients following nasal surgery: a prospective randomised trial.",
+            "pub_year": "2008",
+            "citation": "Clinical Otolaryngology: Official Journal of ENT-UK; Official Journal of \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:k8Z6L05lTy4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light-induced chromophore activity and signal transduction in phytochromes observed by \u00c2\u00b9\u00c2\u00b3C and \u00c2\u00b9\u00e2 \u00b5N magic-angle spinning NMR",
+            "pub_year": "2008",
+            "citation": "Proceedings of the National Academy of Sciences of the United States of America, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:tS2w5q8j5-wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoreceptors and Light Signalling",
+            "pub_year": "2007",
+            "citation": "Royal Society of Chemistry, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:-FonjvnnhkoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The identification of fern PHY3-like genes from green alga Mougeotia scalaris",
+            "pub_year": "2005",
+            "citation": "J Plant Res 118, 82, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Book preview",
+            "pub_year": "2000",
+            "citation": "interactions 7 (1), 81-84, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:NhqRSupF_l8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromophore-protein-interaction of recombinant phytochrome from the cyanobacterium synechocystis.",
+            "pub_year": "2000",
+            "citation": "BIOPHYSICAL JOURNAL 78 (1), 34A-34A, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:r0BpntZqJG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of recombinant phytochrome from the cyanobacterium Synechocystis",
+            "pub_year": "1998",
+            "citation": "PROCEEDINGS-NATIONAL ACADEMY OF SCIENCES USA 95, 2714-2714, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:WA5NYHcadZ8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Non-angiosperm phytochromes and the evolution of vascular plants: mini review",
+            "pub_year": "1998",
+            "citation": "Physiologia Plantarum (Denmark), 1998"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:lSLTfruPkqcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "E CELL BIOLOGY AND GENE REGULATION-Somatic Hybridisation with Aphototropic Mutants of the Moss Ceratodon purpureus: Genome Size, Phytochrome Photoreversibility, Tip-cell \u2026",
+            "pub_year": "1998",
+            "citation": "Journal of Plant Physiology 153 (3), 394-400, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:isC4tDSrTZIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photobiology of aphototropic mutants of the moss Ceratodon purpureus.",
+            "pub_year": "1997",
+            "citation": "PLANT PHYSIOLOGY 114 (3), 393-393, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:iH-uZ7U-co4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequencing of double-stranded DNA with thionucleotide triphosphates",
+            "pub_year": "1994",
+            "citation": "BioTechniques 16 (5), 817-820, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:NMxIlDl6LWMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u2018Time and space in the depiction of workers\u2019 leisure in Mother Krause\u2019s Journey to Happiness, People on Sunday and Kuhle Wampe\u2019Pre-print This article is published Studies in \u2026",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:e_rmSamDkqQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "i um zyxwvutsrqponm",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:oNZyr7d5Mn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What do mosses tell us about how phytochrome works?",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:eJXPG6dFmWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplemental Information for",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:M05iB0D1s5AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural analysis of cyanobacterial phytochromes",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "j1nCW30AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Into the evening: complex interactions in the Arabidopsis circadian clock",
+            "pub_year": "2016",
+            "citation": "Trends in Genetics 32 (10), 674-686, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "1lo8WO0AAAAJ:qjMakFHDy7sC",
+        "num_citations": 136,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14046246955082206682",
+        "cites_id": [
+            "14046246955082206682"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PCH1 integrates circadian and light-signaling pathways to control photoperiod-responsive growth in Arabidopsis",
+            "pub_year": "2016",
+            "citation": "Elife 5, e13292, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "1lo8WO0AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2114249077937641547",
+        "cites_id": [
+            "2114249077937641547"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic analysis of CAND1\u2013CUL1 interactions in Arabidopsis supports a role for CAND1-mediated cycling of the SCFTIR1 complex",
+            "pub_year": "2008",
+            "citation": "Proceedings of the National Academy of Sciences 105 (24), 8470-8475, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "1lo8WO0AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11879458062987981126",
+        "cites_id": [
+            "11879458062987981126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PCH1 regulates light, temperature, and circadian signaling as a structural component of phytochrome B-photobodies in Arabidopsis",
+            "pub_year": "2019",
+            "citation": "Proceedings of the National Academy of Sciences 116 (17), 8603-8608, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "1lo8WO0AAAAJ:TlpoogIpr_IC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15526913354458427870",
+        "cites_id": [
+            "15526913354458427870"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data on the identification of protein interactors with the Evening Complex and PCH1 in Arabidopsis using tandem affinity purification and mass spectrometry (TAP\u2013MS)",
+            "pub_year": "2016",
+            "citation": "Data in Brief 8, 56-60, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "1lo8WO0AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5613588858014308112",
+        "cites_id": [
+            "5613588858014308112"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes measure photoperiod in Brachypodium",
+            "pub_year": "2019",
+            "citation": "Biorxiv, 697169, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "1lo8WO0AAAAJ:jSAVyFp_754C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14804025028856818205",
+        "cites_id": [
+            "14804025028856818205"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The eta7/csn3-3 Auxin Response Mutant of Arabidopsis Defines a Novel Function for the CSN3 Subunit of the COP9 Signalosome",
+            "pub_year": "2013",
+            "citation": "Plos one 8 (6), e66578, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "1lo8WO0AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11467544260346242033",
+        "cites_id": [
+            "11467544260346242033"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tandem purification of His6-3x FLAG tagged proteins for mass spectrometry from Arabidopsis",
+            "pub_year": "2016",
+            "citation": "Bio-protocol 6 (23), e2060-e2060, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "1lo8WO0AAAAJ:SnGPuo6Feq8C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14993424844349909959",
+        "cites_id": [
+            "14993424844349909959"
+        ]
+    }
+]

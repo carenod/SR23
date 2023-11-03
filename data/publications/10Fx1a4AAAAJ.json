@@ -1,0 +1,577 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cistrome and Epicistrome Features Shape the Regulatory DNA Landscape",
+            "pub_year": "2016",
+            "citation": "Cell 165 (5), 1280-1292, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:kVjdVfd2voEC",
+        "num_citations": 1091,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8137965996561979921",
+        "cites_id": [
+            "8137965996561979921"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomic Diversity in a Global Collection of Arabidopsis thaliana Accessions",
+            "pub_year": "2016",
+            "citation": "Cell 166 (2), 492-505, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:LdasjJ6CEcoC",
+        "num_citations": 561,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14133520150290051181",
+        "cites_id": [
+            "14133520150290051181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Processing and subcellular trafficking of ER-tethered EIN2 control response to ethylene gas",
+            "pub_year": "2012",
+            "citation": "Science 338 (6105), 390-393, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 491,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5418367300815773096",
+        "cites_id": [
+            "5418367300815773096"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cryptochromes Interact Directly with PIFs to Control Plant Growth in Limiting Blue Light",
+            "pub_year": "2016",
+            "citation": "Cell 164 (1-2), 233\u2013245, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:v1_lew4L6wgC",
+        "num_citations": 489,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11147464528622925248",
+        "cites_id": [
+            "11147464528622925248"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A transcription factor hierarchy defines an environmental stress response network",
+            "pub_year": "2016",
+            "citation": "Science 354 (6312), aag1550, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:7Hz3ACDFbsoC",
+        "num_citations": 382,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16242690866988841644",
+        "cites_id": [
+            "16242690866988841644"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal transcriptional response to ethylene gas drives growth hormone cross-regulation in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "eLife 2, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:roLk4NBRz8UC",
+        "num_citations": 371,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14298016009914124565",
+        "cites_id": [
+            "14298016009914124565"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping genome-wide transcription-factor binding sites using DAP-seq.",
+            "pub_year": "2017",
+            "citation": "Nature protocols 12 (8), 1659-1672, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:MpfHP-DdYjUC",
+        "num_citations": 299,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12118266093843491753",
+        "cites_id": [
+            "12118266093843491753"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating proteomic, transcriptional, and interactome data reveals hidden components of signaling and regulatory networks",
+            "pub_year": "2009",
+            "citation": "Science Signalling 2 (81), ra40, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 205,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10192213654702292377",
+        "cites_id": [
+            "10192213654702292377"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pseudomonas aeruginosa Genome Database and PseudoCAP: facilitating community-based, continually updated, genome annotation",
+            "pub_year": "2005",
+            "citation": "Nucleic acids research 33 (suppl_1), D338-D343, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:Se3iqnhoufwC",
+        "num_citations": 186,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9767601572719835117",
+        "cites_id": [
+            "9767601572719835117"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simultaneous reconstruction of multiple signaling pathways via the prize-collecting Steiner forest problem",
+            "pub_year": "2013",
+            "citation": "Journal of computational biology 20 (2), 124-136, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15253381679256020152",
+        "cites_id": [
+            "15253381679256020152"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SteinerNet: a web server for integrating \u2018omic\u2019data to discover hidden components of response pathways",
+            "pub_year": "2012",
+            "citation": "Nucleic Acids Research 40 (W1), W505-W509, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14988007087870665233",
+        "cites_id": [
+            "14988007087870665233"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping transcription factor interactome networks using HaloTag protein arrays",
+            "pub_year": "2016",
+            "citation": "Proceedings of the National Academy of Sciences 113 (29), E4238-E4247, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:cK4Rrx0J3m0C",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1556212416092144570",
+        "cites_id": [
+            "1556212416092144570"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linking Proteomic and Transcriptional Data through the Interactome and Epigenome Reveals a Map of Oncogene-induced Signaling",
+            "pub_year": "2013",
+            "citation": "PLOS Computational Biology 9 (2), e1002887, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:ufrVoPGSRksC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7497338526133618072",
+        "cites_id": [
+            "7497338526133618072"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cannabinoid exposure in rat adolescence reprograms the initial behavioral, molecular, and epigenetic response to cocaine",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (18), 9991-10002, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:kw52XkFRtyQC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=40000735479485020",
+        "cites_id": [
+            "40000735479485020"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Science Forum: Vision, challenges and opportunities for a Plant Cell Atlas",
+            "pub_year": "2021",
+            "citation": "Elife 10, e66877, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:7wO8s98CvbsC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9518269915488925370",
+        "cites_id": [
+            "9518269915488925370"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Piecing together cis\u2010regulatory networks: insights from epigenomics studies in plants",
+            "pub_year": "2018",
+            "citation": "Wiley Interdisciplinary Reviews: Systems Biology and Medicine 10 (3), e1411, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:IaI1MmNe2tcC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17010688253878669663",
+        "cites_id": [
+            "17010688253878669663"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Direct regulation of shikimate, early phenylpropanoid and stilbenoid pathways by Subgroup 2 R2R3\u2010MYBs in grapevine",
+            "pub_year": "2022",
+            "citation": "The Plant Journal, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:WHdLCjDvYFkC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17374596819635101291",
+        "cites_id": [
+            "17374596819635101291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improving plant gene regulatory network inference by integrative analysis of multi-omics and high resolution datasets",
+            "pub_year": "2020",
+            "citation": "Current Opinion in Systems Biology, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:j7_hQOaDUrUC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7077259755081967842",
+        "cites_id": [
+            "7077259755081967842"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of over-represented combinations of transcription factor binding sites in sets of co-expressed genes",
+            "pub_year": "2006",
+            "citation": "Advances in Bioinformatics and Computational Biology 3, 247-56, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12219002912328622490",
+        "cites_id": [
+            "12219002912328622490"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Elucidating the biology of transcription factor\u2013DNA interaction for accurate identification of cis-regulatory elements",
+            "pub_year": "2022",
+            "citation": "Current Opinion in Plant Biology 68, 102232, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:owLR8QvbtFgC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9091475023626668350",
+        "cites_id": [
+            "9091475023626668350"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Response to perspective \u201cSeparation anxiety: An analysis of ethylene-induced cleavage of EIN2",
+            "pub_year": "2013",
+            "citation": "Plant signaling & behavior 8 (8), e25037, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=749365013844496458",
+        "cites_id": [
+            "749365013844496458"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Potentials of single-cell genomics in deciphering cellular phenotypes",
+            "pub_year": "2021",
+            "citation": "Current Opinion in Plant Biology 63, 102059, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:FiytvqdAVhgC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1212932070954645312",
+        "cites_id": [
+            "1212932070954645312"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Major orchestration of shikimate, early phenylpropanoid and stilbenoid pathways by Subgroup 2 R2R3-MYBs in grapevine",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2020.12. 31.424746, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:1taIhTC69MYC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6148231573018458574,13277433204168545018",
+        "cites_id": [
+            "6148231573018458574",
+            "13277433204168545018"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Big Data to the Bench: Transcriptome Analysis for Undergraduates",
+            "pub_year": "2019",
+            "citation": "CBE\u2014Life Sciences Education 18 (2), ar19, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:7BrZ7Jt4UNcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12615178561692930020",
+        "cites_id": [
+            "12615178561692930020"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A constraint optimization framework for discovery of cellular signaling and regulatory networks",
+            "pub_year": "2011",
+            "citation": "Massachusetts Institute of Technology, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:qjMakFHDy7sC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4576890520976969647",
+        "cites_id": [
+            "4576890520976969647"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network modeling of kinase inhibitor polypharmacology reveals pathways targeted in chemical screens",
+            "pub_year": "2017",
+            "citation": "PloS one 12 (10), e0185650, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:PaBasH6fAo0C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6049716614191444795",
+        "cites_id": [
+            "6049716614191444795"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Swimming upstream: identifying proteomic signals that drive transcriptional changes using the interactome and multiple \u201c-omics\u201d datasets",
+            "pub_year": "2012",
+            "citation": "Methods in cell biology 110, 57-80, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=873822415878939286",
+        "cites_id": [
+            "873822415878939286"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The grape MYB24 mediates the coordination of light-induced terpene and flavonol accumulation in response to berry anthocyanin sunscreen depletion",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:7H_MAutzIkAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13339845509253943454",
+        "cites_id": [
+            "13339845509253943454"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identifying biological response pathways",
+            "pub_year": "2013",
+            "citation": "US Patent 8,612,160, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9185588934307997560",
+        "cites_id": [
+            "9185588934307997560"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Uncovering the \u201cZIP code\u201d for bZIP dimers reveals novel motifs, regulatory rules and one billion years of cis-element evolution",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:PYBJJbyH-FwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11219046789228372259",
+        "cites_id": [
+            "11219046789228372259"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA Affinity Purification Sequencing (DAP-Seq) for Mapping Genome-Wide Transcription Factor Binding Sites in Plants",
+            "pub_year": "2022",
+            "citation": "Accelerated Breeding of Cereal Crops, 293-303, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:wKETBy42zhYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6858563742027404119",
+        "cites_id": [
+            "6858563742027404119"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Double DAP-seq uncovered synergistic DNA binding of interacting bZIP transcription factors",
+            "pub_year": "2023",
+            "citation": "Nature Communications 14 (1), 2600, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:jU7OWUQzBzMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1853338136563746790",
+        "cites_id": [
+            "1853338136563746790"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcription Factor Dynamics in Cross-Regulation of Plant Hormone Signaling Pathways",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:CB2v5VPnA5kC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15267713431504932744",
+        "cites_id": [
+            "15267713431504932744"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Next Generation Protein Interactomes for Plant Systems Biology and Biomass Feedstock Research",
+            "pub_year": "2016",
+            "citation": "The Salk Inst. for Biological Studies, La Jolla, CA (United States), 2016"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:nRpfm8aw39MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Abstract B72: A computational approach integrating proteomic, transcriptional, and interactome data for discovery of cellular signaling networks",
+            "pub_year": "2009",
+            "citation": "Cancer Research 69 (23 Supplement), B72-B72, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:43bX7VzcjpAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Theses-Computational and Systems Biology",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational and Systems Biology-Ph. D./Sc. D.",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "10Fx1a4AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,942 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FKF1 and GIGANTEA complex formation is required for day-length measurement in Arabidopsis",
+            "pub_year": "2007",
+            "citation": "Science 318 (5848), 261-265, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 919,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13235626385985402286",
+        "cites_id": [
+            "13235626385985402286"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ELF4\u2013ELF3\u2013LUX complex links the circadian clock to diurnal control of hypocotyl growth",
+            "pub_year": "2011",
+            "citation": "Nature 475 (7356), 398-402, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 790,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9717751211547805236",
+        "cites_id": [
+            "9717751211547805236"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cryptochrome mediates circadian regulation of cAMP signaling and hepatic gluconeogenesis",
+            "pub_year": "2010",
+            "citation": "Nature medicine 16 (10), 1152-1156, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 583,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12642821257955451237",
+        "cites_id": [
+            "12642821257955451237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Xist RNA and the Mechanism of X Chromosome Inactivation",
+            "pub_year": "2002",
+            "citation": "Annual review of genetics 36 (1), 233-278, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 579,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17717289657149132502",
+        "cites_id": [
+            "17717289657149132502"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stable X chromosome inactivation involves the PRC1 Polycomb complex and requires histone MACROH2A1 and the CULLIN3/SPOP ubiquitin E3 ligase",
+            "pub_year": "2005",
+            "citation": "Proceedings of the National Academy of Sciences 102 (21), 7635-7640, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 348,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15179064051048025388",
+        "cites_id": [
+            "15179064051048025388"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LUX ARRHYTHMO encodes a nighttime repressor of circadian gene expression in the Arabidopsis core clock",
+            "pub_year": "2011",
+            "citation": "Current Biology 21 (2), 126-133, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 306,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4060597265802101483",
+        "cites_id": [
+            "4060597265802101483"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Guidelines for genome-scale analysis of biological rhythms",
+            "pub_year": "2017",
+            "citation": "Journal of biological rhythms 32 (5), 380-393, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 199,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8842696442350915946",
+        "cites_id": [
+            "8842696442350915946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient CRISPR/Cas9 Genome Editing of Phytoene desaturase in Cassava",
+            "pub_year": "2017",
+            "citation": "Frontiers in plant science 8, 1780, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 172,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9591691022967961235",
+        "cites_id": [
+            "9591691022967961235"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of evening complex associated proteins in Arabidopsis by affinity purification and mass spectrometry",
+            "pub_year": "2016",
+            "citation": "Molecular & Cellular Proteomics 15 (1), 201-217, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:0EnyYjriUFMC",
+        "num_citations": 155,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15814957445901186491",
+        "cites_id": [
+            "15814957445901186491"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Into the evening: complex interactions in the Arabidopsis circadian clock",
+            "pub_year": "2016",
+            "citation": "Trends in Genetics 32 (10), 674-686, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 136,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14046246955082206682",
+        "cites_id": [
+            "14046246955082206682"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Poly (ADP-ribose) polymerase 1 is inhibited by a histone H2A variant, MacroH2A, and contributes to silencing of the inactive X chromosome",
+            "pub_year": "2007",
+            "citation": "Journal of Biological Chemistry 282 (17), 12851-12859, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5525384075510614208",
+        "cites_id": [
+            "5525384075510614208"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ELF3 recruitment to the PRR9 promoter requires other Evening Complex members in the Arabidopsis circadian clock",
+            "pub_year": "2012",
+            "citation": "Plant signaling & behavior 7 (2), 170-173, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 122,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11680355216120739329",
+        "cites_id": [
+            "11680355216120739329"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular basis of flowering under natural long-day conditions in Arabidopsis",
+            "pub_year": "2018",
+            "citation": "Nature Plants 4 (10), 824-835, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:hC7cP41nSMkC",
+        "num_citations": 119,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6739243021727995720",
+        "cites_id": [
+            "6739243021727995720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A genome resource for green millet Setaria viridis enables discovery of agronomically valuable loci",
+            "pub_year": "2020",
+            "citation": "Nature Biotechnology 38 (10), 1203-1210, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:TFP_iSt0sucC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1364669123853483263",
+        "cites_id": [
+            "1364669123853483263"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping Post-translational Modifications of the Histone Variant MacroH2A1 Using Tandem Mass Spectrometry* S",
+            "pub_year": "2006",
+            "citation": "Molecular & Cellular Proteomics 5 (1), 194-203, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=531861314391347480",
+        "cites_id": [
+            "531861314391347480"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of open stomata1-interacting proteins reveals interactions with sucrose non-fermenting1-related protein kinases2 and with type 2A protein phosphatases that \u2026",
+            "pub_year": "2015",
+            "citation": "Plant physiology 169 (1), 760-779, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:UebtZRa9Y70C",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10202013490171874737",
+        "cites_id": [
+            "10202013490171874737"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A mobile ELF4 delivers circadian temperature information from shoots to roots",
+            "pub_year": "2020",
+            "citation": "Nature plants 6 (4), 416-426, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:mB3voiENLucC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5636252950736820750,2051962994691132404",
+        "cites_id": [
+            "5636252950736820750",
+            "2051962994691132404"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PCH1 integrates circadian and light-signaling pathways to control photoperiod-responsive growth in Arabidopsis",
+            "pub_year": "2016",
+            "citation": "Elife 5, e13292, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2114249077937641547",
+        "cites_id": [
+            "2114249077937641547"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integration of light and photoperiodic signaling in transcriptional nuclear foci",
+            "pub_year": "2015",
+            "citation": "Developmental cell 35 (3), 311-321, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:5nxA0vEk-isC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16434974422305359881",
+        "cites_id": [
+            "16434974422305359881"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Raspberry Pi\u2013powered imaging for plant phenotyping",
+            "pub_year": "2018",
+            "citation": "Applications in Plant Sciences 6 (3), e1031, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:4DMP91E08xMC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=554350253611330571",
+        "cites_id": [
+            "554350253611330571"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Changes in iron availability in Arabidopsis are rapidly sensed in the leaf vasculature and impaired sensing leads to opposite transcriptional programs in leaves and roots",
+            "pub_year": "2018",
+            "citation": "Plant, Cell & Environment 41 (10), 2263-2276, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8223900364122924496",
+        "cites_id": [
+            "8223900364122924496"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MacroH2A allows ATP-dependent chromatin remodeling by SWI/SNF and ACF complexes but specifically reduces recruitment of SWI/SNF",
+            "pub_year": "2008",
+            "citation": "Biochemistry 47 (51), 13726-13732, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:qjMakFHDy7sC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17086556310552286825",
+        "cites_id": [
+            "17086556310552286825"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative, image-based phenotyping methods provide insight into spatial and temporal dimensions of plant disease",
+            "pub_year": "2016",
+            "citation": "Plant physiology 172 (2), 650-660, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10342411026983575691",
+        "cites_id": [
+            "10342411026983575691"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PCH1 regulates light, temperature, and circadian signaling as a structural component of phytochrome B-photobodies in Arabidopsis",
+            "pub_year": "2019",
+            "citation": "Proceedings of the National Academy of Sciences 116 (17), 8603-8608, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15526913354458427870",
+        "cites_id": [
+            "15526913354458427870"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interaction and regulation between lipid mediator phosphatidic acid and circadian clock regulators",
+            "pub_year": "2019",
+            "citation": "The Plant Cell 31 (2), 399-416, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:-f6ydRqryjwC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16864690817722297062",
+        "cites_id": [
+            "16864690817722297062"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developmental regulation of Suz12 localization",
+            "pub_year": "2005",
+            "citation": "Chromosoma 114, 183-192, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13685165808781374305",
+        "cites_id": [
+            "13685165808781374305"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The histone domain of macroH2A1 contains several dispersed elements that are each sufficient to direct enrichment on the inactive X chromosome",
+            "pub_year": "2007",
+            "citation": "Journal of molecular biology 371 (1), 11-18, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4554195442423803518",
+        "cites_id": [
+            "4554195442423803518"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In vitro transcription and start site selection in Schizosaccharomyces pombe",
+            "pub_year": "2002",
+            "citation": "Journal of molecular biology 319 (5), 1005-1013, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:ufrVoPGSRksC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8778783610993169257",
+        "cites_id": [
+            "8778783610993169257"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transgenic overexpression of endogenous FLOWERING LOCUS T-like gene MeFT1 produces early flowering in cassava",
+            "pub_year": "2020",
+            "citation": "PLoS One 15 (1), e0227199, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16714578895096627105",
+        "cites_id": [
+            "16714578895096627105"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data on the identification of protein interactors with the Evening Complex and PCH1 in Arabidopsis using tandem affinity purification and mass spectrometry (TAP\u2013MS)",
+            "pub_year": "2016",
+            "citation": "Data in Brief 8, 56-60, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5613588858014308112",
+        "cites_id": [
+            "5613588858014308112"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimisation of root traits to provide enhanced ecosystem services in agricultural systems: A focus on cover crops",
+            "pub_year": "2022",
+            "citation": "Plant, Cell & Environment 45 (3), 751-770, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:GnPB-g6toBAC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3029083534697006476",
+        "cites_id": [
+            "3029083534697006476"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High light and temperature reduce photosynthetic efficiency through different mechanisms in the C4 model Setaria viridis",
+            "pub_year": "2021",
+            "citation": "Communications biology 4 (1), 1092, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7446768787266850237",
+        "cites_id": [
+            "7446768787266850237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The evening complex is central to the difference between the circadian clocks of Arabidopsis thaliana shoots and roots",
+            "pub_year": "2020",
+            "citation": "Physiologia plantarum 169 (3), 442-451, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16813569022332775245",
+        "cites_id": [
+            "16813569022332775245"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping protein\u2013protein interactions using affinity purification and mass spectrometry",
+            "pub_year": "2017",
+            "citation": "Plant Genomics: Methods and Protocols, 231-249, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:4TOpqqG69KYC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6123992421739275056",
+        "cites_id": [
+            "6123992421739275056"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time will tell: intercellular communication in the plant clock",
+            "pub_year": "2021",
+            "citation": "Trends in plant science 26 (7), 706-719, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:k_IJM867U9cC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4835344270756008972",
+        "cites_id": [
+            "4835344270756008972"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cross\u2010species complementation reveals conserved functions for EARLY FLOWERING 3 between monocots and dicots",
+            "pub_year": "2017",
+            "citation": "Plant Direct 1 (4), e00018, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10226849051087797064",
+        "cites_id": [
+            "10226849051087797064"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid biosensor development using plant hormone receptors as reprogrammable scaffolds",
+            "pub_year": "2022",
+            "citation": "Nature Biotechnology 40 (12), 1855-1861, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:35N4QoGY0k4C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11065153074176325445",
+        "cites_id": [
+            "11065153074176325445"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes measure photoperiod in Brachypodium",
+            "pub_year": "2019",
+            "citation": "Biorxiv, 697169, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:TQgYirikUcIC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14804025028856818205",
+        "cites_id": [
+            "14804025028856818205"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recognition and modification of seX chromosomes",
+            "pub_year": "2005",
+            "citation": "Current opinion in genetics & development 15 (2), 206-213, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1696045489332171783",
+        "cites_id": [
+            "1696045489332171783"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Out of the dark and into the light: a new view of phytochrome photobodies",
+            "pub_year": "2021",
+            "citation": "Frontiers in Plant Science 12, 732947, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:hMod-77fHWUC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6274577743520942124",
+        "cites_id": [
+            "6274577743520942124"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Setaria viridis genome and diversity panel enables discovery of a novel domestication gene",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 744557, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:r0BpntZqJG4C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4786051088497236916",
+        "cites_id": [
+            "4786051088497236916"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative proteomics and phosphoproteomics support a role for Mut9-like kinases in multiple metabolic and signaling pathways in Arabidopsis",
+            "pub_year": "2021",
+            "citation": "Molecular & Cellular Proteomics 20, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8334329758725580991",
+        "cites_id": [
+            "8334329758725580991"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative Phenotyping of Two Commonly Used Chlamydomonas reinhardtii Background Strains: CC-1690 (21gr) and CC-5325 (The CLiP Mutant Library \u2026",
+            "pub_year": "2022",
+            "citation": "Plants 11 (5), 585, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:RGFaLdJalmkC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4477735044944753715",
+        "cites_id": [
+            "4477735044944753715"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRISPR/Cas9-mediated disruption of multiple TFL1-like floral repressors activates flowering in cassava",
+            "pub_year": "2018",
+            "citation": "IN VITRO CELLULAR & DEVELOPMENTAL BIOLOGY-ANIMAL 54, S47-S47, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18353110919859613921",
+        "cites_id": [
+            "18353110919859613921"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tandem purification of His6-3x FLAG tagged proteins for mass spectrometry from Arabidopsis",
+            "pub_year": "2016",
+            "citation": "Bio-protocol 6 (23), e2060-e2060, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14993424844349909959",
+        "cites_id": [
+            "14993424844349909959"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COLD REGULATED GENE 27 and 28 antagonize the transcriptional activity of the RVE8/LNK1/LNK2 circadian complex",
+            "pub_year": "2023",
+            "citation": "Plant Physiology, kiad210, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5199126431553919231",
+        "cites_id": [
+            "5199126431553919231"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using Tandem Affinity Purification to Identify Circadian Clock Protein Complexes from Arabidopsis",
+            "pub_year": "2022",
+            "citation": "Plant Circadian Networks: Methods and Protocols, 189-203, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14755380512644922606",
+        "cites_id": [
+            "14755380512644922606"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High Light and High Temperature Reduce Photosynthesis via Different Mechanisms in the C4 Model Setaria viridis",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.02. 20.431694, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4514194380564072259",
+        "cites_id": [
+            "4514194380564072259"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRISPR/CAS9 genome editing of putative cassava flowering genes",
+            "pub_year": "2016",
+            "citation": "GCP21 3rd International Cassava conference (GCP21-III), 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:dhFuZR0502QC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6742034168046933313",
+        "cites_id": [
+            "6742034168046933313"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Closed Form Model for Molecular Ratchet-Type Chemically Induced Dimerization Modules",
+            "pub_year": "2022",
+            "citation": "Biochemistry 62 (2), 281-291, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6902883674975394890",
+        "cites_id": [
+            "6902883674975394890"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assembly and operation of an imaging system for long-term monitoring of bioluminescent and fluorescent reporters in plants",
+            "pub_year": "2023",
+            "citation": "Plant Methods 19 (1), 19, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Root adaptive responses for improvement of abiotic stress tolerance in Pennycress",
+            "pub_year": "2022",
+            "citation": "Authorea Preprints, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:BqipwSGYUEgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COR27/28 Regulate the Evening Transcriptional Activity of the RVE8-LNK1/2 Circadian Complex",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.05. 16.492168, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:lSLTfruPkqcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian clock factors regulate seed oil accumulation by promoting fatty acid synthesis in Arabidopsis",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.12. 15.520653, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A mobile ELF4 delivers circadian temperature information from shoots to roots",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of chromatin structure by a clade of plant-specfic, circadian clock associated kinases",
+            "pub_year": "2018",
+            "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:IWHjjKOFINEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Investigation Into the Modification, Localization and Function of the Mammalian Histone MacroH2A.",
+            "pub_year": "2006",
+            "citation": "University of California, San Francisco, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:aqlVkmm33-oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LUX ARRHYTHMO",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:M05iB0D1s5AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3 1/20 ENTRAINMENT THEORY",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:ldfaerwXgEUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interrogating Thlaspi arvense (Pennycress) Natural and Induced Variation to Improve Abiotic Stress Tolerance and Oilseed Bioenergy Crop Resilience",
+            "citation": "Plant and Animal Genome XXIX Conference (January 8-12, 2022), 0"
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:70eg2SAEIzsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Short title: PCH1-dependent phyB-photobody signaling in plants",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arena, Simona, 97 Asem, Eli K., 2",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "xOvLCisAAAAJ:isC4tDSrTZIC",
+        "num_citations": 0
+    }
+]

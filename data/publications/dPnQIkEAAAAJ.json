@@ -1,0 +1,3111 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An interpretable mortality prediction model for COVID-19 patients",
+            "pub_year": "2020",
+            "citation": "Nature machine intelligence 2 (5), 283-288, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:fGk8ZXjgAbkC",
+        "num_citations": 1355,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7656831056245444312,15120033501598458739,2324934672411733823,2507760485278843620",
+        "cites_id": [
+            "7656831056245444312",
+            "15120033501598458739",
+            "2324934672411733823",
+            "2507760485278843620"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EARLY FLOWERING4 Recruitment of EARLY FLOWERING3 in the Nucleus Sustains the Arabidopsis Circadian Clock",
+            "pub_year": "2012",
+            "citation": "The Plant Cell 24 (2), 428-443, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:5nxA0vEk-isC",
+        "num_citations": 305,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16284336268265099246",
+        "cites_id": [
+            "16284336268265099246"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Necessary and sufficient conditions for dynamical structure reconstruction of LTI networks",
+            "pub_year": "2008",
+            "citation": "IEEE Transactions on Automatic Control 53 (7), 1670-1674, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 251,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8772709011548536107",
+        "cites_id": [
+            "8772709011548536107"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The circadian oscillator gene GIGANTEA mediates a long-term response of the Arabidopsis thaliana circadian clock to sucrose",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (12), 5104-5109, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 234,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10265431627016807229",
+        "cites_id": [
+            "10265431627016807229"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis Circadian Clock Incorporates a cADPR-Based Feedback Loop",
+            "pub_year": "2007",
+            "citation": "Science 318 (5857), 1789-1792, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 231,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1916811278719989905",
+        "cites_id": [
+            "1916811278719989905"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global stability of relay feedback systems",
+            "pub_year": "2001",
+            "citation": "IEEE Transactions on Automatic Control 46 (4), 550-562, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 218,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4595106352660381884",
+        "cites_id": [
+            "4595106352660381884"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust dynamical network structure reconstruction",
+            "pub_year": "2011",
+            "citation": "Automatica 47 (6), 1230-1235, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 171,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=837308427577968563",
+        "cites_id": [
+            "837308427577968563"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Clinical data based optimal STI strategies for HIV: a reinforcement learning approach",
+            "pub_year": "2006",
+            "citation": "Proceedings of the 45th IEEE Conference on Decision and Control, 667-672, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 167,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7448347471109311281",
+        "cites_id": [
+            "7448347471109311281"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decentralised minimum-time consensus",
+            "pub_year": "2013",
+            "citation": "Automatica 49 (5), 1227-1235, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:lSLTfruPkqcC",
+        "num_citations": 159,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6877483398176853389",
+        "cites_id": [
+            "6877483398176853389"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global analysis of piecewise linear systems using impact maps and surface Lyapunov functions",
+            "pub_year": "2003",
+            "citation": "IEEE Transactions on Automatic Control 48 (12), 2089-2106, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 157,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=292708518733255823",
+        "cites_id": [
+            "292708518733255823"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data driven discovery of cyber physical systems",
+            "pub_year": "2019",
+            "citation": "Nature communications 10 (1), 4894, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:jtOrAYjvdewC",
+        "num_citations": 149,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3290633083641925985",
+        "cites_id": [
+            "3290633083641925985"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PaCER-A fully automated method for electrode trajectory and contact reconstruction in deep brain stimulation",
+            "pub_year": "2018",
+            "citation": "NeuroImage: Clinical 17, 80-89, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:s1ouQE5r0WUC",
+        "num_citations": 149,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11107221229025510137",
+        "cites_id": [
+            "11107221229025510137"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A sparse Bayesian approach to the identification of nonlinear state-space systems",
+            "pub_year": "2015",
+            "citation": "IEEE Transactions on Automatic Control 61 (1), 182-187, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:3BvdIg-l-ZAC",
+        "num_citations": 125,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12337446503125323808",
+        "cites_id": [
+            "12337446503125323808"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linear identification of nonlinear systems: A lifting technique based on the Koopman operator",
+            "pub_year": "2016",
+            "citation": "2016 IEEE 55th Conference on Decision and Control (CDC), 6500-6505, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:nOiSByfp82kC",
+        "num_citations": 116,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14210592128895481397",
+        "cites_id": [
+            "14210592128895481397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Almost Global Consensus on the  -Sphere",
+            "pub_year": "2017",
+            "citation": "IEEE Transactions on Automatic Control 63 (6), 1664-1675, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:2Q0AJrNhS-QC",
+        "num_citations": 102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16844573773201113507",
+        "cites_id": [
+            "16844573773201113507"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sparse network identifiability via compressed sensing",
+            "pub_year": "2016",
+            "citation": "Automatica 68, 9-17, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:vD2iS2Kej30C",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11253408887722202610,2312735944796721364",
+        "cites_id": [
+            "11253408887722202610",
+            "2312735944796721364"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Critical transitions in chronic disease: transferring concepts from ecology to systems medicine",
+            "pub_year": "2015",
+            "citation": "Current opinion in biotechnology 34, 48-55, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:N6_Y7JlWxwsC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6850004164152978413",
+        "cites_id": [
+            "6850004164152978413"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Koopman-based lifting techniques for nonlinear systems identification",
+            "pub_year": "2019",
+            "citation": "IEEE Transactions on Automatic Control 65 (6), 2550-2565, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:pxXbYLTb8EgC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6669300779749473727,13339102591790125089",
+        "cites_id": [
+            "6669300779749473727",
+            "13339102591790125089"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SARS-CoV-2 transmission risk from asymptomatic carriers: results from a mass screening programme in Luxembourg",
+            "pub_year": "2021",
+            "citation": "The Lancet Regional Health\u2013Europe 4, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:CKf5m1HYVjMC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7133322094257504332,9561224311999123041",
+        "cites_id": [
+            "7133322094257504332",
+            "9561224311999123041"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correct biological timing in Arabidopsis requires multiple light-signaling pathways",
+            "pub_year": "2010",
+            "citation": "Proceedings of the National Academy of Sciences 107 (29), 13171-13176, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:WF5omc3nYNoC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13259261629726812819",
+        "cites_id": [
+            "13259261629726812819"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global state synchronization in networks of cyclic feedback systems",
+            "pub_year": "2011",
+            "citation": "IEEE Transactions on Automatic Control 57 (2), 478-483, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12437065640170251761",
+        "cites_id": [
+            "12437065640170251761"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Constructive global analysis of hybrid systems",
+            "pub_year": "2000",
+            "citation": "Massachusetts Institute of Technology, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8006447292762867050",
+        "cites_id": [
+            "8006447292762867050"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Consensus and formation control on SE (3) for switching topologies",
+            "pub_year": "2016",
+            "citation": "Automatica 66, 109-121, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:HqhvjgTjE9cC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9591887657878403627",
+        "cites_id": [
+            "9591887657878403627"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bimodal and hysteretic expression in mammalian cells from a synthetic gene circuit",
+            "pub_year": "2008",
+            "citation": "Plos one 3 (6), e2372, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15754869167963704942",
+        "cites_id": [
+            "15754869167963704942"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A solution for multi-alignment by transformation synchronisation",
+            "pub_year": "2015",
+            "citation": "Proceedings of the IEEE conference on computer vision and pattern \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:adHtZc2wMuEC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1942248215149347741",
+        "cites_id": [
+            "1942248215149347741"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamical structure function identifiability conditions enabling signal structure reconstruction",
+            "pub_year": "2012",
+            "citation": "2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 4635-4641, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14106790561430967809",
+        "cites_id": [
+            "14106790561430967809"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regions of stability for limit cycle oscillations in piecewise linear systems",
+            "pub_year": "2005",
+            "citation": "IEEE Transactions on Automatic Control 50 (11), 1877-1882, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10847014658351810704",
+        "cites_id": [
+            "10847014658351810704"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene regulatory network inference from sparsely sampled noisy data",
+            "pub_year": "2020",
+            "citation": "Nature communications 11 (1), 3493, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:gL9scSG3K_gC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14344172335097268049",
+        "cites_id": [
+            "14344172335097268049"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shape-aware surface reconstruction from sparse 3D point-clouds",
+            "pub_year": "2017",
+            "citation": "Medical image analysis 38, 77-89, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:8gBurD7jEYQC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6685826609613793855",
+        "cites_id": [
+            "6685826609613793855"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust stability analysis of active voltage control for high-power IGBT switching by Kharitonov's theorem",
+            "pub_year": "2015",
+            "citation": "IEEE Transactions on Power Electronics 31 (3), 2584-2595, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:hKjooKYXoHIC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9535676794159511808",
+        "cites_id": [
+            "9535676794159511808"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Output synchronization in networks of cyclic biochemical oscillators",
+            "pub_year": "2007",
+            "citation": "2007 American Control Conference, 3973-3978, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:qjMakFHDy7sC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15654972525586004872",
+        "cites_id": [
+            "15654972525586004872"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-dimensional Kuramoto models on Stiefel manifolds synchronize complex networks almost globally",
+            "pub_year": "2020",
+            "citation": "Automatica 113, 108736, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:M8meJADSprsC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4208695829227306118",
+        "cites_id": [
+            "4208695829227306118"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network identifiability from intrinsic noise",
+            "pub_year": "2016",
+            "citation": "IEEE Transactions on Automatic Control 62 (8), 3717-3728, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:G7txJ4jiatkC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14018434683715778731,4179901184122842536",
+        "cites_id": [
+            "14018434683715778731",
+            "4179901184122842536"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Online fault diagnosis for nonlinear power systems",
+            "pub_year": "2015",
+            "citation": "Automatica 55, 27-36, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:Gb6Hms-Uo9kC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17853951653387089482",
+        "cites_id": [
+            "17853951653387089482"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamical structure functions for the reverse engineering of LTI networks",
+            "pub_year": "2007",
+            "citation": "2007 46th IEEE Conference on Decision and Control, 1516-1522, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9378683355649278759",
+        "cites_id": [
+            "9378683355649278759"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reconstruction of arbitrary biochemical reaction networks: A compressive sensing approach",
+            "pub_year": "2012",
+            "citation": "2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 2334-2339, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:70eg2SAEIzsC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9896291909914532401",
+        "cites_id": [
+            "9896291909914532401"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Representing structure in linear interconnected dynamical systems",
+            "pub_year": "2010",
+            "citation": "49th IEEE Conference on Decision and Control (CDC), 6010-6015, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:Zph67rFs4hoC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5864236676905486759",
+        "cites_id": [
+            "5864236676905486759"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regions of stability for limit cycles of piecewise linear systems",
+            "pub_year": "2003",
+            "citation": "42nd IEEE International Conference on Decision and Control (IEEE Cat. No \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2056428239733238030",
+        "cites_id": [
+            "2056428239733238030"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decentralised final value theorem for discrete-time LTI systems with application to minimal-time distributed consensus",
+            "pub_year": "2009",
+            "citation": "Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:rO6llkc54NcC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8090869596254669527",
+        "cites_id": [
+            "8090869596254669527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FastField: An open-source toolbox for efficient approximation of deep brain stimulation electric fields",
+            "pub_year": "2020",
+            "citation": "Neuroimage 223, 117330, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:PazO6pb-sMwC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14925316209737438885",
+        "cites_id": [
+            "14925316209737438885"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A lifting method for analyzing distributed synchronization on the unit sphere",
+            "pub_year": "2018",
+            "citation": "Automatica 96, 253-258, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:WgvcDLhf7hwC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10523540681511917811",
+        "cites_id": [
+            "10523540681511917811"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mathematical relationships between representations of structure in linear interconnected dynamical systems",
+            "pub_year": "2011",
+            "citation": "Proceedings of the 2011 American Control Conference, 4348-4353, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5258629338435921052",
+        "cites_id": [
+            "5258629338435921052"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of robust model validation using SOSTOOLS to the study of G-protein signaling in yeast",
+            "pub_year": "2005",
+            "citation": "Proceedings of Foundations of System Biology in Engineering, 133-136, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9540143973288918802",
+        "cites_id": [
+            "9540143973288918802"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling COVID-19 dynamics and potential for herd immunity by vaccination in Austria, Luxembourg and Sweden",
+            "pub_year": "2021",
+            "citation": "Journal of Theoretical Biology 530, 110874, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:JhbybO29vGQC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10881838967333714101",
+        "cites_id": [
+            "10881838967333714101"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linear dynamic network reconstruction from heterogeneous datasets",
+            "pub_year": "2017",
+            "citation": "IFAC-PapersOnLine 50 (1), 10586-10591, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:ehoypfNsBj8C",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11278931954364257596",
+        "cites_id": [
+            "11278931954364257596"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decentralised minimal-time dynamic consensus",
+            "pub_year": "2012",
+            "citation": "2012 American control conference (ACC), 800-805, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17447353248080309116",
+        "cites_id": [
+            "17447353248080309116"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synchronisation of partial multi-matchings via non-negative factorisations",
+            "pub_year": "2019",
+            "citation": "Pattern Recognition 92, 146-155, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:i8eIfGGcn98C",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6900621008647556534",
+        "cites_id": [
+            "6900621008647556534"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimal dynamical structure realisations with application to network reconstruction from data",
+            "pub_year": "2009",
+            "citation": "Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15175132998388976562",
+        "cites_id": [
+            "15175132998388976562"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Existence and stability of limit cycles in a macroscopic neuronal population model",
+            "pub_year": "2007",
+            "citation": "Physica D: Nonlinear Phenomena 233 (1), 39-65, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:Se3iqnhoufwC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3576568791913264818",
+        "cites_id": [
+            "3576568791913264818"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fast correspondences for statistical shape models of brain structures",
+            "pub_year": "2016",
+            "citation": "Medical Imaging 2016: Image Processing 9784, 197-204, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:1xBWf43XMUgC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10323485006449228608",
+        "cites_id": [
+            "10323485006449228608"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Constructive synchronization of networked feedback systems",
+            "pub_year": "2010",
+            "citation": "49th IEEE Conference on Decision and Control (CDC), 6710-6715, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10160239696479932086",
+        "cites_id": [
+            "10160239696479932086"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reachability analysis of continuous-time piecewise affine systems",
+            "pub_year": "2008",
+            "citation": "Automatica 44 (12), 3189-3194, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:0EnyYjriUFMC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12527338472576239417",
+        "cites_id": [
+            "12527338472576239417"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Model-based assessment of COVID-19 epidemic dynamics by wastewater analysis",
+            "pub_year": "2022",
+            "citation": "Science of the Total Environment 827, 154235, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:ZpgFv6i7Z4gC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10360202465204281574,5386874388215152806",
+        "cites_id": [
+            "10360202465204281574",
+            "5386874388215152806"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global converegence properties of a consensus protocol on the n-sphere",
+            "pub_year": "2016",
+            "citation": "2016 IEEE 55th Conference on Decision and Control (CDC), 3487-3492, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:L7vk9XBBNxgC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12755125122296864110",
+        "cites_id": [
+            "12755125122296864110"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential effects of day/night cues and the circadian clock on the barley transcriptome",
+            "pub_year": "2020",
+            "citation": "Plant Physiology 183 (2), 765-779, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:J-ba04ztB30C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1064597202877190973",
+        "cites_id": [
+            "1064597202877190973"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamical differential expression (DyDE) reveals the period control mechanisms of the Arabidopsis circadian oscillator",
+            "pub_year": "2019",
+            "citation": "PLoS Computational Biology 15 (1), e1006674, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:w-fwKiQwpQAC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3301123485483565808",
+        "cites_id": [
+            "3301123485483565808"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic controllers for column synchronization of rotation matrices: a QR-factorization approach",
+            "pub_year": "2018",
+            "citation": "Automatica 93, 20-25, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:yCjxvIMm6_oC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10176116618773122453",
+        "cites_id": [
+            "10176116618773122453"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network reconstruction from intrinsic noise: Minimum-phase systems",
+            "pub_year": "2014",
+            "citation": "2014 American Control Conference, 4391-4396, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10635419991264307077",
+        "cites_id": [
+            "10635419991264307077"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying crosstalk in biochemical systems",
+            "pub_year": "2012",
+            "citation": "2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 5528-5535, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13596049962112515649",
+        "cites_id": [
+            "13596049962112515649"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust dynamical network reconstruction",
+            "pub_year": "2010",
+            "citation": "49th IEEE Conference on Decision and Control (CDC), 810-815, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:_kc_bZDykSQC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=975380470040679460",
+        "cites_id": [
+            "975380470040679460"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamical structure analysis of sparsity and minimality heuristics for reconstruction of biochemical networks",
+            "pub_year": "2008",
+            "citation": "2008 47th IEEE Conference on Decision and Control, 173-178, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:ufrVoPGSRksC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10568589452409359621",
+        "cites_id": [
+            "10568589452409359621"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development and validation of a prognostic risk score system for COVID-19 inpatients: a multi-center retrospective study in China",
+            "pub_year": "2022",
+            "citation": "Engineering 8, 116-121, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:w9ZB08sdvuUC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15934805789430365731,6936128598181852822",
+        "cites_id": [
+            "15934805789430365731",
+            "6936128598181852822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linear shape deformation models with local support using graph-based structured matrix factorisation",
+            "pub_year": "2016",
+            "citation": "Proceedings of the IEEE Conference on Computer Vision and Pattern \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:I9gX6wnfuA8C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11488360344178840593",
+        "cites_id": [
+            "11488360344178840593"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Post-operative deep brain stimulation assessment: automatic data integration and report generation",
+            "pub_year": "2018",
+            "citation": "Brain stimulation 11 (4), 863-866, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:43B52WW2E64C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15461504384158162984",
+        "cites_id": [
+            "15461504384158162984"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression of the Parkinson\u2019s disease-associated gene alpha-synuclein is regulated by the neuronal cell fate determinant TRIM32",
+            "pub_year": "2017",
+            "citation": "Molecular neurobiology 54 (6), 4257-4270, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:hEXC_dOfxuUC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7054433651969992520",
+        "cites_id": [
+            "7054433651969992520"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distributed methods for synchronization of orthogonal matrices over graphs",
+            "pub_year": "2017",
+            "citation": "Automatica 80, 243-252, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:za7pDTvVV8kC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14665682571934476844",
+        "cites_id": [
+            "14665682571934476844"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global network identification from reconstructed dynamical structure subnetworks: Applications to biochemical reaction networks",
+            "pub_year": "2015",
+            "citation": "2015 54th IEEE Conference on Decision and Control (CDC), 881-888, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:NXYAu82O0W8C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17825031235203900727",
+        "cites_id": [
+            "17825031235203900727"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network structure preserving model reduction with weak a priori structural information",
+            "pub_year": "2009",
+            "citation": "Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3550516025499132109",
+        "cites_id": [
+            "3550516025499132109"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the natural history of Huntington's disease progression",
+            "pub_year": "2015",
+            "citation": "Journal of Neurology, Neurosurgery & Psychiatry 86 (10), 1143-1149, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:oldoQiaHq2UC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11107377534925780374",
+        "cites_id": [
+            "11107377534925780374"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COVID-19 crisis management in Luxembourg: Insights from an epidemionomic approach",
+            "pub_year": "2021",
+            "citation": "Economics & Human Biology 43, 101051, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:3pYxbvHKFu8C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10849389357146198883",
+        "cites_id": [
+            "10849389357146198883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Almost global convergence to practical synchronization in the generalized Kuramoto model on networks over the n-sphere",
+            "pub_year": "2021",
+            "citation": "Communications Physics 4 (1), 187, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:V63Ir2N1OTwC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11405382213530932693",
+        "cites_id": [
+            "11405382213530932693"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamical SPQEIR model assesses the effectiveness of non-pharmaceutical interventions against COVID-19 epidemic outbreaks",
+            "pub_year": "2021",
+            "citation": "PloS one 16 (5), e0252019, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:0urtJCGzaFQC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3684649332243155219",
+        "cites_id": [
+            "3684649332243155219"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of nonlinear state-space systems from heterogeneous datasets",
+            "pub_year": "2017",
+            "citation": "IEEE Transactions on Control of Network Systems 5 (2), 737-747, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:w7CBUyPWg-0C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18089402055578598106",
+        "cites_id": [
+            "18089402055578598106"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local lyapunov functions for consensus in switching nonlinear systems",
+            "pub_year": "2017",
+            "citation": "IEEE Transactions on Automatic Control 62 (12), 6466-6472, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:MNNNGtAgD4EC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16863209828783867726",
+        "cites_id": [
+            "16863209828783867726"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Uncertainty quantification and global sensitivity analysis of complex chemical processes with a large number of input parameters using compressive polynomial chaos",
+            "pub_year": "2016",
+            "citation": "Chemical Engineering Research and Design 115, 204-213, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:E8ajGqO0XoUC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2036197684507373189",
+        "cites_id": [
+            "2036197684507373189"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On minimal realisations of dynamical structure functions",
+            "pub_year": "2015",
+            "citation": "Automatica 55, 159-164, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:_mQi-xiA4oYC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14504859422706270265",
+        "cites_id": [
+            "14504859422706270265"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust signal-structure reconstruction",
+            "pub_year": "2013",
+            "citation": "52nd IEEE Conference on Decision and Control, 3184-3189, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1445707703285492952",
+        "cites_id": [
+            "1445707703285492952"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The meaning of structure in interconnected dynamic systems",
+            "pub_year": "2011",
+            "citation": "arXiv preprint arXiv:1108.2755, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12977005713342151587",
+        "cites_id": [
+            "12977005713342151587"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "System theoretic approaches to network reconstruction",
+            "pub_year": "2009",
+            "citation": "Control theory and systems biology 1, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:4TOpqqG69KYC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7482805794911004691",
+        "cites_id": [
+            "7482805794911004691"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Performance of early warning signals for disease re-emergence: A case study on COVID-19 data",
+            "pub_year": "2022",
+            "citation": "PLOS Computational Biology 18 (3), e1009958, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:bxPAEoiBajcC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11884856096465194587",
+        "cites_id": [
+            "11884856096465194587"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A minimal realization technique for the dynamical structure function of a class of lti systems",
+            "pub_year": "2015",
+            "citation": "IEEE Transactions on Control of Network Systems 4 (2), 301-311, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:IHkkN1K1AlAC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17693043384965887662",
+        "cites_id": [
+            "17693043384965887662"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "H2 norm based network volatility measures",
+            "pub_year": "2014",
+            "citation": "2014 American Control Conference, 3310-3315, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:M0j1y4EgrScC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10730804263336326429",
+        "cites_id": [
+            "10730804263336326429"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust network reconstruction in polynomial time",
+            "pub_year": "2012",
+            "citation": "2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 4616-4621, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17948114769267548348",
+        "cites_id": [
+            "17948114769267548348"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global stability analysis of on/off systems",
+            "pub_year": "2000",
+            "citation": "Proceedings of the 39th IEEE Conference on Decision and Control (Cat. No \u2026, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11463814651361768513",
+        "cites_id": [
+            "11463814651361768513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell\u2010to\u2010cell and type\u2010to\u2010type heterogeneity of signaling networks: insights from the crowd",
+            "pub_year": "2021",
+            "citation": "Molecular systems biology 17 (10), e10402, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:vkz5F8TaVKkC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13716051336552218965",
+        "cites_id": [
+            "13716051336552218965"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic network reconstruction from heterogeneous datasets",
+            "pub_year": "2021",
+            "citation": "Automatica 123, 109339, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:mS4qin7VKjkC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3561725874193575624",
+        "cites_id": [
+            "3561725874193575624"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comparison of network reconstruction methods for chemical reaction networks",
+            "pub_year": "2009",
+            "citation": "Proceedings of the Foundations for Systems Biology and Engineering \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16555502320388991170",
+        "cites_id": [
+            "16555502320388991170"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Semi-global analysis of relay feedback systems",
+            "pub_year": "1998",
+            "citation": "Proceedings of the 37th IEEE Conference on Decision and Control (Cat. No \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15855694248835440329",
+        "cites_id": [
+            "15855694248835440329"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust synchronization of heterogeneous robot swarms on the sphere",
+            "pub_year": "2020",
+            "citation": "2020 59th IEEE Conference on Decision and Control (CDC), 5798-5803, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:djft3U1LymYC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=219251046252987519",
+        "cites_id": [
+            "219251046252987519"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identifying biochemical reaction networks from heterogeneous datasets",
+            "pub_year": "2015",
+            "citation": "2015 54th IEEE Conference on Decision and Control (CDC), 2525-2530, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:ujxm2eEBZHIC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18319154529065817993",
+        "cites_id": [
+            "18319154529065817993"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust synchronization in networks of cyclic feedback systems",
+            "pub_year": "2008",
+            "citation": "2008 47th IEEE Conference on Decision and Control, 5268-5273, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:8k81kl-MbHgC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2833716578004521516",
+        "cites_id": [
+            "2833716578004521516"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of sparse continuous-time linear systems with low sampling rate: Exploring matrix logarithms",
+            "pub_year": "2016",
+            "citation": "arXiv preprint arXiv:1605.08590, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:VjBpw8Hezy4C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1248475895081624878",
+        "cites_id": [
+            "1248475895081624878"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimising time-series experimental design for modelling of circadian rhythms: the value of transient data",
+            "pub_year": "2016",
+            "citation": "IFAC-PapersOnLine 49 (26), 109-113, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:U5uP8zs9lfgC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5145636924250871072",
+        "cites_id": [
+            "5145636924250871072"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A cost-effective atomic force microscope for undergraduate control laboratories",
+            "pub_year": "2009",
+            "citation": "IEEE Transactions on Education 53 (2), 328-334, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17433020699276003760",
+        "cites_id": [
+            "17433020699276003760"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data-driven network models for genetic circuits from time-series data with incomplete measurements",
+            "pub_year": "2021",
+            "citation": "Journal of the Royal Society Interface 18 (182), 20210413, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:xm1hsP5ya-EC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18218418262631114057",
+        "cites_id": [
+            "18218418262631114057"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards almost global synchronization on the Stiefel manifold",
+            "pub_year": "2018",
+            "citation": "2018 IEEE Conference on Decision and Control (CDC), 496-501, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:cTy_cm4PQvYC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2900117058493018237",
+        "cites_id": [
+            "2900117058493018237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A two-stage approach of multiplicative dimensional reduction and polynomial chaos for global sensitivity analysis and uncertainty quantification with a large number of process \u2026",
+            "pub_year": "2017",
+            "citation": "Journal of the Taiwan Institute of Chemical Engineers 78, 254-264, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:TY5xIG7f_2sC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1980235462435122351",
+        "cites_id": [
+            "1980235462435122351"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shaping pulses to control bistable monotone systems using Koopman operator",
+            "pub_year": "2016",
+            "citation": "IFAC-PapersOnLine 49 (18), 698-703, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:u_mOZUIutIEC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2380231761959566379",
+        "cites_id": [
+            "2380231761959566379"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High precision variational Bayesian inference of sparse linear networks",
+            "pub_year": "2020",
+            "citation": "Automatica 118, 109017, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:eJD0kABLposC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9102402665000266596",
+        "cites_id": [
+            "9102402665000266596"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inverse problems for matrix exponential in system identification: system aliasing",
+            "pub_year": "2016",
+            "citation": "arXiv preprint arXiv:1605.06973, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:rpSJNIKeXWsC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7324575017449248486",
+        "cites_id": [
+            "7324575017449248486"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamical structure function and Granger causality: Similarities and differences",
+            "pub_year": "2015",
+            "citation": "2015 54th IEEE Conference on Decision and Control (CDC), 889-894, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:j8pvxH-kN2QC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17911590498169185310",
+        "cites_id": [
+            "17911590498169185310"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On transitive consistency for linear invertible transformations between euclidean coordinate systems",
+            "pub_year": "2015",
+            "citation": "arXiv preprint arXiv:1509.00728, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:IT1MJ6E3JesC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10924452203150741043",
+        "cites_id": [
+            "10924452203150741043"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distributed Kalman Filter with minimum-time covariance computation",
+            "pub_year": "2013",
+            "citation": "52nd IEEE Conference on Decision and Control, 1995-2000, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9558925316026644707",
+        "cites_id": [
+            "9558925316026644707"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u21122-Gain of Double Integrators with Saturation Nonlinearity",
+            "pub_year": "2001",
+            "citation": "California Institute of Technology, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8379678232010832380,8179042004252252217",
+        "cites_id": [
+            "8379678232010832380",
+            "8179042004252252217"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Necessary conditions for robust stability of a class of nonlinear systems",
+            "pub_year": "1998",
+            "citation": "Automatica 34 (6), 705-714, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8129944275114594992",
+        "cites_id": [
+            "8129944275114594992"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Li Yan et al. reply",
+            "pub_year": "2021",
+            "citation": "Nature Machine Intelligence 3 (1), 28-32, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:RgMnzfD6kpIC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14459992921287320746",
+        "cites_id": [
+            "14459992921287320746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distributed synchronization of euclidean transformations with guaranteed convergence",
+            "pub_year": "2017",
+            "citation": "2017 IEEE 56th Annual Conference on Decision and Control (CDC), 3757-3762, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:Dmoar05iI2YC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6685812716244335456",
+        "cites_id": [
+            "6685812716244335456"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distributed Kalman filtering with minimum-time consensus algorithm",
+            "pub_year": "2017",
+            "citation": "arXiv preprint arXiv:1703.05438, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:TeJ9juy8vcMC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9183978149508115423",
+        "cites_id": [
+            "9183978149508115423"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network reconstruction from intrinsic noise: Non-minimum-phase systems",
+            "pub_year": "2014",
+            "citation": "IFAC Proceedings Volumes 47 (3), 2329-2334, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:AFXcoJnoRH0C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15755222423387469456",
+        "cites_id": [
+            "15755222423387469456"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network reconstruction using knock-out and over-expression data",
+            "pub_year": "2013",
+            "citation": "2013 European Control Conference (ECC), 3627-3632, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:ldfaerwXgEUC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2360557597284794482",
+        "cites_id": [
+            "2360557597284794482"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quadratic surface Lyapunov functions in global stability analysis of saturation systems",
+            "pub_year": "2001",
+            "citation": "Proceedings of the 2001 American Control Conference.(Cat. No. 01CH37148) 6 \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3458258032979948438",
+        "cites_id": [
+            "3458258032979948438"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data-driven discovery of stochastic differential equations",
+            "pub_year": "2022",
+            "citation": "Engineering 17, 244-252, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:jPVjDSAV6m0C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14911979473848771318",
+        "cites_id": [
+            "14911979473848771318"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "R\u00e9nyi entropy in statistical mechanics",
+            "pub_year": "2022",
+            "citation": "Entropy 24 (8), 1080, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:AkvegQHRDQ8C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11289013450917649095",
+        "cites_id": [
+            "11289013450917649095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "System aliasing in dynamic network reconstruction: issues on low sampling frequencies",
+            "pub_year": "2020",
+            "citation": "IEEE Transactions on Automatic Control 66 (12), 5788-5801, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:p-HGrieyzrAC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1374702126985155593",
+        "cites_id": [
+            "1374702126985155593"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of nonlinear sparse networks using sparse Bayesian learning",
+            "pub_year": "2017",
+            "citation": "2017 IEEE 56th Annual Conference on Decision and Control (CDC), 6481-6486, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:zfsRRabFVBUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6417847899782617454",
+        "cites_id": [
+            "6417847899782617454"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing the effect of unknown widespread perturbations in complex systems using the \u03bd-gap",
+            "pub_year": "2015",
+            "citation": "2015 54th IEEE Conference on Decision and Control (CDC), 3193-3198, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:Ul_CLA4dPeMC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6357283732218888969",
+        "cites_id": [
+            "6357283732218888969"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A stochastic framework for the design of transient and steady state behavior of biochemical reaction networks",
+            "pub_year": "2015",
+            "citation": "2015 54th IEEE Conference on Decision and Control (CDC), 3199-3205, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:BPS1z4jHU5cC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10552452498045403201",
+        "cites_id": [
+            "10552452498045403201"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transitively consistent and unbiased multi-image registration using numerically stable transformation synchronisation",
+            "pub_year": "2015",
+            "citation": "Workshop on Spectral Analysis in Medical Imaging (SAMI). MICCAI, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:iKswqCX-FLkC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4958764926250040830",
+        "cites_id": [
+            "4958764926250040830"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Real-time fault diagnosis for large-scale nonlinear power networks",
+            "pub_year": "2013",
+            "citation": "52nd IEEE Conference on Decision and Control, 2340-2345, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1044639867047915750",
+        "cites_id": [
+            "1044639867047915750"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimal-time network reconstruction for DTLTI systems",
+            "pub_year": "2010",
+            "citation": "49th IEEE Conference on Decision and Control (CDC), 2676-2681, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1234069705227264527",
+        "cites_id": [
+            "1234069705227264527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global asymptotic stability of the limit cycle in piecewise linear versions of the Goodwin oscillator",
+            "pub_year": "2008",
+            "citation": "IFAC Proceedings Volumes 41 (2), 3659-3664, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:aqlVkmm33-oC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12469810718629755123",
+        "cites_id": [
+            "12469810718629755123"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reconstruction of biological networks through gene silencing and overexpression",
+            "pub_year": "2007",
+            "citation": "Proceedings of the eighth International Conference on Systems Biology, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:UebtZRa9Y70C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11809745948593478418",
+        "cites_id": [
+            "11809745948593478418"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drosophila circadian rhythms: Stability, robustness analysis, and model reduction",
+            "pub_year": "2004",
+            "citation": "Proc. MTNS, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:4DMP91E08xMC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13441703590033435168",
+        "cites_id": [
+            "13441703590033435168"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Finding surface Lyapunov functions through sum-of-squares programming",
+            "pub_year": "2004",
+            "citation": "Proceedings of the 2004 American Control Conference 2, 1891-1898, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:roLk4NBRz8UC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6830906954924206180",
+        "cites_id": [
+            "6830906954924206180"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Continuous time Gaussian process dynamical models in gene regulatory network inference",
+            "pub_year": "2018",
+            "citation": "arXiv preprint arXiv:1808.08161, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:DwFgw5hZUzMC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14817210504072165735",
+        "cites_id": [
+            "14817210504072165735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian variable selection in linear dynamical systems",
+            "pub_year": "2018",
+            "citation": "arXiv preprint arXiv:1802.05753, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:JavbeY_VQWIC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14058132597412991454",
+        "cites_id": [
+            "14058132597412991454"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global and invariant aspects of consensus on the n-sphere",
+            "pub_year": "2016",
+            "citation": "Proceedings of the 22nd International Symposium on Mathematical Theory of \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:x2hKVfJWtf0C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17532381677094930624",
+        "cites_id": [
+            "17532381677094930624"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian approaches to nonlinear network reconstruction",
+            "pub_year": "2014",
+            "citation": "arXiv preprint arXiv:1408.3549, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:NU-BerS4NX4C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18130734802765178711",
+        "cites_id": [
+            "18130734802765178711"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Surface Lyapunov functions in global stability analysis of saturation systems",
+            "pub_year": "2000",
+            "citation": "Submitted to CDC, Sydney, Australia, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:yZoBfgUKqwcC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7233638564130392070",
+        "cites_id": [
+            "7233638564130392070"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Buffering variability in cell regulation motifs close to criticality",
+            "pub_year": "2022",
+            "citation": "Physical Review E 106 (3), L032402, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:-c_eYhz9dBkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7549819452094494356",
+        "cites_id": [
+            "7549819452094494356"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A state-space approach to sparse dynamic network reconstruction",
+            "pub_year": "2018",
+            "citation": "arXiv preprint arXiv:1811.08677, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:jMZTt8odoasC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16633363156965297961",
+        "cites_id": [
+            "16633363156965297961"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimental design trade-offs for gene regulatory network inference: An in silico study of the yeast Saccharomyces cerevisiae cell cycle",
+            "pub_year": "2017",
+            "citation": "2017 IEEE 56th Annual Conference on Decision and Control (CDC), 423-428, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:hrkNWuzUpWwC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10391558699468246962",
+        "cites_id": [
+            "10391558699468246962"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Finite-time road grade computation for a vehicle platoon",
+            "pub_year": "2014",
+            "citation": "53rd IEEE Conference on Decision and Control, 6105-6110, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:5LPo_wSKItgC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6760975483719477738",
+        "cites_id": [
+            "6760975483719477738"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimal-time uncertain output final value of unknown DT-LTI systems with application to the decentralised network consensus problem",
+            "pub_year": "2010",
+            "citation": "Proceedings of International Symposium on Mathematical Theory of Networks \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6458950755057305515",
+        "cites_id": [
+            "6458950755057305515"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New tools for self-organized pattern formation",
+            "pub_year": "2007",
+            "citation": "BMC Systems Biology 1, 1-2, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:maZDTaKrznsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13764696090569312390",
+        "cites_id": [
+            "13764696090569312390"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New tools for self-organised pattern formation",
+            "pub_year": "2007",
+            "citation": "IET Synthetic Biology 1 (1), 29-31, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16584508135832910867",
+        "cites_id": [
+            "16584508135832910867"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional observability and subspace reconstruction in nonlinear systems",
+            "pub_year": "2022",
+            "citation": "Physical Review Research 4 (4), 043195, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:qkm5LKljiV4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13791150319068002295",
+        "cites_id": [
+            "13791150319068002295"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reply to: Consider the laboratory aspects in developing patient prediction models",
+            "pub_year": "2021",
+            "citation": "Nature Machine Intelligence 3 (1), 19-19, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:beqBT5984LEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2409056200846222578",
+        "cites_id": [
+            "2409056200846222578"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A full bayesian approach to sparse network inference using heterogeneous datasets",
+            "pub_year": "2020",
+            "citation": "IEEE Transactions on Automatic Control 66 (7), 3282-3288, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:-BKJ5vZJwzMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7726878613031685097",
+        "cites_id": [
+            "7726878613031685097"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linear system identification from ensemble snapshot observations",
+            "pub_year": "2019",
+            "citation": "2019 IEEE 58th Conference on Decision and Control (CDC), 7554-7559, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:XUAslYVNQLQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14799626853853188807",
+        "cites_id": [
+            "14799626853853188807"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From diagnosing diseases to predicting diseases",
+            "pub_year": "2019",
+            "citation": "Curious2018: Future Insights in Science and Technology, 95-103, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:Amrzk_ktLr0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16974209710088183070",
+        "cites_id": [
+            "16974209710088183070"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shape-aware 3D Interpolation using Statistical Shape Models",
+            "pub_year": "2015",
+            "citation": "Symposium on Statistical Shape Models and Applications, 11, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:XtJa11BXPS4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14249699713095555102",
+        "cites_id": [
+            "14249699713095555102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimal realization of the dynamical structure function and its application to network reconstruction",
+            "pub_year": "2012",
+            "citation": "arXiv preprint arXiv:1209.3808, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:RGFaLdJalmkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12946824978347352877",
+        "cites_id": [
+            "12946824978347352877"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A linear programming approach to parameter fitting for the Master Equation",
+            "pub_year": "2009",
+            "citation": "IEEE transactions on automatic control 54 (10), 2451-2455, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:HDshCWvjkbEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5237094513867784282",
+        "cites_id": [
+            "5237094513867784282"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control Theory and Systems Biology",
+            "pub_year": "2009",
+            "citation": "Dynamical structure Functions in Network Reconstruction, 265-296, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8653256497310087217",
+        "cites_id": [
+            "8653256497310087217"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global analysis of piecewise linear systems using impact maps and quadratic surface Lyapunov functions: general theory. Submited for publication",
+            "citation": "IEEE Transactions on Automatic Control, 0"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11618470370201456834",
+        "cites_id": [
+            "11618470370201456834"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DBSegment: Fast and robust segmentation of deep brain structures considering domain generalization",
+            "pub_year": "2023",
+            "citation": "Human Brain Mapping 44 (2), 762-778, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:tfDI-GPdlUQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16706837596333146998",
+        "cites_id": [
+            "16706837596333146998"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stages of COVID-19 pandemic and paths to herd immunity by vaccination: dynamical model comparing Austria, Luxembourg and Sweden",
+            "pub_year": "2021",
+            "citation": "medRxiv, 2020.12. 31.20249088, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:4Wrxgq2JVp0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12897162028090155029",
+        "cites_id": [
+            "12897162028090155029"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A rule-based expert system for real-time feedback-control in deep brain stimulation",
+            "pub_year": "2020",
+            "citation": "Current Directions in Biomedical Engineering 6 (3), 103-106, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:NKlx0PmyA3cC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17669545687654689282",
+        "cites_id": [
+            "17669545687654689282"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parameter Estimation and Identification of Nonlinear Systems with the Koopman Operator",
+            "pub_year": "2020",
+            "citation": "The Koopman Operator in Systems and Control: Concepts, Methodologies, and \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:-ZoC36zw86wC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16707101483286542674",
+        "cites_id": [
+            "16707101483286542674"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "All graphs are S 1-synchronizing, what about St (p, n)",
+            "pub_year": "2018",
+            "citation": "Proceedings of the 57th IEEE Conference on Decision and Control, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:ibZ2AwG9z6wC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15751834617077861516",
+        "cites_id": [
+            "15751834617077861516"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prediction of high-dimensional time-series with exogenous variables using extended Koopman operator framework in reproducing kernel Hilbert space",
+            "pub_year": "2017",
+            "citation": "Proc. ITISE, 18-20, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:654Jc7Ppz2kC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8612043673332794042",
+        "cites_id": [
+            "8612043673332794042"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards intrinsic almost global consensus on the n-sphere",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:cdwqcPQS8ssC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1621474726916109831",
+        "cites_id": [
+            "1621474726916109831"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On identification of dynamical structure functions: A sparse bayesian learning approach",
+            "pub_year": "2016",
+            "citation": "arXiv preprint arXiv:1605.09543, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:HKviVsUxM5wC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14388997316181387268",
+        "cites_id": [
+            "14388997316181387268"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global dynamical structure reconstruction from reconstructed dynamical structure subnetworks: Applications to biochemical reaction networks",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:B2rIPIGFPLEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10480162415335206621",
+        "cites_id": [
+            "10480162415335206621"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biexcitability and Bursting Mechanisms in Neural and Genetic Circuits",
+            "pub_year": "2014",
+            "citation": "IFAC Proceedings Volumes 47 (3), 4394-4399, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:pRWBApOjXDcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11980134931086884036",
+        "cites_id": [
+            "11980134931086884036"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding and predicting biological networks using linear system identification",
+            "pub_year": "2014",
+            "citation": "A Systems Theoretic Approach to Systems and Synthetic Biology I: Models and \u2026, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:C-Rn0OCouf8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6763224070422220844",
+        "cites_id": [
+            "6763224070422220844"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fluctuations and limitations of a multi-sector economic model with delays",
+            "pub_year": "2010",
+            "citation": "Proceedings of the 2010 American Control Conference, 6904-6909, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:k_IJM867U9cC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13576873423209131945",
+        "cites_id": [
+            "13576873423209131945"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heterogeneous agent models in economics: A study of heterogenous productivity of sectors",
+            "pub_year": "2008",
+            "citation": "2008 American Control Conference, 336-341, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:TFP_iSt0sucC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12901915681451031674",
+        "cites_id": [
+            "12901915681451031674"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global stability analysis of relay feedback systems",
+            "pub_year": "1999",
+            "citation": "Technical report LIDS-P-2458, MIT, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13197179869301560563",
+        "cites_id": [
+            "13197179869301560563"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Necessary and sufficient conditions for robust stability of a class of nonlinear systems",
+            "pub_year": "1995",
+            "citation": "Proceedings of 1995 34th IEEE Conference on Decision and Control 1, 401-406, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:dhFuZR0502QC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6113258937656098022",
+        "cites_id": [
+            "6113258937656098022"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A minimal realization technique for the dynamical structure function of a class of LTI systems",
+            "citation": "IEEE Transactions on Control of Network Systems, 0"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:4oJvMfeQlr8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7771444956248483727",
+        "cites_id": [
+            "7771444956248483727"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic analysis and optimization of early warning signals for critical transitions using distribution data",
+            "pub_year": "2023",
+            "citation": "iScience, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:h-xndbdg2koC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polarization of Multi-Agent Gradient Flows Over Manifolds With Application to Opinion Dynamics",
+            "pub_year": "2023",
+            "citation": "IEEE Transactions on Automatic Control, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:zGWyAL6qfKUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linear system identifiability from single-cell data",
+            "pub_year": "2022",
+            "citation": "Systems & Control Letters 165, 105287, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:Weau3kkTRIMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Therapeutic maps for a sensor-based evaluation of deep brain stimulation programming",
+            "pub_year": "2021",
+            "citation": "Biomedical Engineering/Biomedizinische Technik 66 (6), 603-611, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:SEKBqlyTJecC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Models and Data for Mombaerts et al.,\" Dynamical Differential Expression (DyDE) Reveals the Period Control Mechanisms of the Arabidopsis Circadian Oscillator\", PLOS \u2026",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:WTQy_8Ay2UsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Approach to Sparse Continuous-time System Identification from Unevenly Sampled Data",
+            "pub_year": "2018",
+            "citation": "arXiv preprint arXiv:1802.10348, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:yNlG6JgpFqoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prediction of High-Dimensional Time Series with Exogenous Variables Using Generalized Koopman Operator Framework in Reproducing Kernel Hilbert Space",
+            "pub_year": "2018",
+            "citation": "Time Series Analysis and Forecasting: Selected Contributions from ITISE 2017 \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:ITz7TVZQ0sgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On definition and inference of nonlinear Boolean dynamic networks",
+            "pub_year": "2017",
+            "citation": "2017 IEEE 56th Annual Conference on Decision and Control (CDC), 429-434, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:7XUxBq3GufIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On Identification of Sparse Multivariable ARX Model: A Sparse Bayesian Learning Approach",
+            "pub_year": "2016",
+            "citation": "arXiv preprint arXiv:1609.09660, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:_IsBomjs8bsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Research Data Supporting\" Nu gap identifies systems alterations in the Arabidopsis thaliana circadian clock\"",
+            "pub_year": "2016",
+            "citation": "University of Cambridge, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:cF7EPgIk0B4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global Optimality Bounds for ICA Algorithms",
+            "pub_year": "2016",
+            "citation": "22nd International Symposium on Mathematical Theory of Networks and Systems, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:e3CVSTJ63dQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Iterative Projection method for Synchronization of Invertible Matrices Over Graphs",
+            "pub_year": "2016",
+            "citation": "22nd International Symposium on Mathematical Theory of Networks and Systems, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:vjZqxyZ7hS4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identifying Biochemical Reaction Networks From Heterogeneous Datasets",
+            "pub_year": "2015",
+            "citation": "IEEE Conference on Decision and Control, Osaka, Japan, December 2015, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:xii_ZKWM4-0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing the effect of unknown widespread perturbations in complex systems using the mu-gap",
+            "pub_year": "2015",
+            "citation": "EEE Conference on Decision and Control, Osaka, Japan, December 2015, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:eAUscmXIlQ8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "H2-Based Network Volatility Measures",
+            "pub_year": "2014",
+            "citation": "American Control Conference, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:_9Xh93LWpsYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of synchronizing biochemical networks via incremental dissipativity",
+            "pub_year": "2014",
+            "citation": "A Systems Theoretic Approach to Systems and Synthetic Biology II: Analysis \u2026, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:kO05sadLmrgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In-silico Robust Reconstruction of the Per-Arnt-Sim Kinase Pathway using Dynamical Structure Functions",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:QKtdBID3u5MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding uctuations and limitations in a multi-sector model of the economy with delays and intrinsic noise",
+            "pub_year": "2010",
+            "citation": "American Control Conference, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:ZysSsiWj_g4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network Structure Preserving Model Reduction: Results of a Simulation Study",
+            "pub_year": "2009",
+            "citation": "The proceedings of the Third International Conference on Foundations of \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Technical notes and correspondence",
+            "pub_year": "2008",
+            "citation": "IEEE Transactions on Automatic Control 53 (7), 1671, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Batch Control of the Master Equation: A Linear Programming Approach",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control theory methods for macro models with stochastic micro foundations",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling and simulation of a Ca2+-based feedback loop in the circadian clock of Arabidopsis",
+            "pub_year": "2008",
+            "citation": "Comparative Biochemistry and Physiology, Part A 3 (150), S45, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:hMod-77fHWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bacteria online-University of Cambridge iGEM 2007 project",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mathematical models of circadian Ca2+ oscillations",
+            "pub_year": "2007",
+            "citation": "Proceedings of the eighth International Conference on Systems Biology, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:mVC4hKzE2FoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamical Structure Functions for the Estimation of LTI Networks with Limited Information",
+            "pub_year": "2006",
+            "citation": "arXiv preprint q-bio/0610008, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Limit cycles in a macroscopic neuronal population model. II. Normal forms and global stability",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:-f6ydRqryjwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On L2 error bounds between systems",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:BqipwSGYUEgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rhythmic regulation of Ca2+ signalling networks",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reachability Analysis of Continuous-Time Piecewise Linear Systems",
+            "pub_year": "2005",
+            "citation": "Proceedings of the 44th IEEE Conference on Decision and Control, 4169-4174, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tradeoffs in networks with positive and negative feedback",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:blknAaTinKkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Constructive global analysis of hybrid systems (Relay feedback, Finite gain)",
+            "pub_year": "2002",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:J4E9jCG1tHUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global asymptotic stability of oscillations with sliding modes",
+            "pub_year": "2002",
+            "citation": "IFAC Proceedings Volumes 35 (1), 173-178, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:mB3voiENLucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quadratic Surface Lyapunov Functions in the Analysis of Feedback Systems with Double Integrators and Saturations",
+            "pub_year": "2002",
+            "citation": "Proceedings of the 10th IEEE Mediterranean Conference on Control and \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:qUcmZB5y_30C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CDS, 107-81 California Institute of Technology Pasadena, CA 91125 jmg@ cds. caltech. edu",
+            "pub_year": "2001",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust stability of a class of nonlinear systems",
+            "pub_year": "1995",
+            "citation": "Massachusetts Institute of Technology, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:isC4tDSrTZIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global analysis of piecewise linear systems using impact maps and quadratic surface Lyapunov functions",
+            "citation": "2001 European Control Conference (ECC), 0"
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:oYwriLWYh5YC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplementary Material for \u201cA Sparse Bayesian Approach to the Identification of Nonlinear State-Space Systems\u201d",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:4QKQTXcH0q8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Fundamental Limit on the Robustness of Complex Systems",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:u_35RYKgDlwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Necessary and Suf\ufb01cient Conditions for Robust Stability of a Class of Nonlinear Systems1",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mathematical models of circadian Ca2+ oscillations",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On L2 error bounds between systems",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of piecewise linear (PWL) feedback systems",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "dPnQIkEAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 0
+    }
+]

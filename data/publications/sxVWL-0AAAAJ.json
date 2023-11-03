@@ -1,0 +1,3354 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using vanishing points for camera calibration and coarse 3D reconstruction from a single image",
+            "pub_year": "2000",
+            "citation": "The Visual Computer 16, 396-410, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 245,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11827927303561315782",
+        "cites_id": [
+            "11827927303561315782"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiance caching for efficient global illumination computation",
+            "pub_year": "2005",
+            "citation": "IEEE Transactions on Visualization and Computer Graphics 11 (5), 550-561, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 183,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8776455082502302783",
+        "cites_id": [
+            "8776455082502302783"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Novel Hemispherical Basis for Accurate and Efficient Rendering.",
+            "pub_year": "2004",
+            "citation": "Rendering Techniques 2004, 321-330, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 176,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2452672538351172731",
+        "cites_id": [
+            "2452672538351172731"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new space subdivision method for ray tracing CSG modelled scenes",
+            "pub_year": "1987",
+            "citation": "The Visual Computer 3, 98-108, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16758491164666595240",
+        "cites_id": [
+            "16758491164666595240"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiance cache splatting: A GPU-friendly global illumination algorithm",
+            "pub_year": "2005",
+            "citation": "ACM SIGGRAPH 2005 Sketches, 36-es, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8973880970313911194",
+        "cites_id": [
+            "8973880970313911194"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A directional occlusion shading model for interactive direct volume rendering",
+            "pub_year": "2009",
+            "citation": "Computer Graphics Forum 28 (3), 855-862, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2591632222365576034",
+        "cites_id": [
+            "2591632222365576034"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The FL-system: a functional L-system for procedural geometric modeling",
+            "pub_year": "2005",
+            "citation": "The Visual Computer 21 (5), 329-339, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12205477755967734648",
+        "cites_id": [
+            "12205477755967734648"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Static load balancing for a parallel ray tracing on a MIMD hypercube",
+            "pub_year": "1989",
+            "citation": "The Visual Computer 5, 109-119, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15451218092517771152",
+        "cites_id": [
+            "15451218092517771152"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Making Radiance and Irradiance Caching Practical: Adaptive Caching and Neighbor Clamping.",
+            "pub_year": "2006",
+            "citation": "Rendering Techniques 2006, 127-138, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:WF5omc3nYNoC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10723470287322598531",
+        "cites_id": [
+            "10723470287322598531"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distributing data and control for ray tracing in parallel",
+            "pub_year": "1994",
+            "citation": "IEEE computer graphics and applications 14 (4), 69-77, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3879345122208595659",
+        "cites_id": [
+            "3879345122208595659"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global illumination in presence of participating media with general properties",
+            "pub_year": "1995",
+            "citation": "Photorealistic Rendering Techniques, 71-86, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:qjMakFHDy7sC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10544895496626425784",
+        "cites_id": [
+            "10544895496626425784"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spherical Fibonacci point sets for illumination integrals",
+            "pub_year": "2013",
+            "citation": "Computer Graphics Forum 32 (8), 134-143, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:u_35RYKgDlwC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3799000039988818570",
+        "cites_id": [
+            "3799000039988818570"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ray tracing on distributed memory parallel computers: strategies for distributing computations and data",
+            "pub_year": "1990",
+            "citation": "INRIA, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10411223435426696983",
+        "cites_id": [
+            "10411223435426696983"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fast depth of field rendering with surface splatting",
+            "pub_year": "2003",
+            "citation": "Proceedings Computer Graphics International 2003, 196-201, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14989990084768531995",
+        "cites_id": [
+            "14989990084768531995"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal coherency for video tone mapping",
+            "pub_year": "2012",
+            "citation": "Applications of Digital Image Processing XXXV 8499, 113-122, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:mB3voiENLucC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2970121915814978113",
+        "cites_id": [
+            "2970121915814978113"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nested radiosity for plant canopies",
+            "pub_year": "1998",
+            "citation": "The Visual Computer 14, 109-125, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18228565888276385152",
+        "cites_id": [
+            "18228565888276385152"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new partitioning method for architectural environments",
+            "pub_year": "1998",
+            "citation": "The Journal of Visualization and Computer Animation 9 (4), 195-213, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=798932359964192421",
+        "cites_id": [
+            "798932359964192421"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ATIP: A Tool for 3D Navigation inside a Single Image with Automatic Camera Calibration.",
+            "pub_year": "2006",
+            "citation": "TPCG, 71-79, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9857457601284023015",
+        "cites_id": [
+            "9857457601284023015"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Zonal brightness coherency for video tone mapping",
+            "pub_year": "2014",
+            "citation": "Signal Processing: Image Communication 29 (2), 229-246, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:dfsIfKJdRG4C",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12170773733203674505",
+        "cites_id": [
+            "12170773733203674505"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new algorithm of space tracing using a CSG model",
+            "pub_year": "1987",
+            "citation": "Eurographics Association, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11221089993754414618",
+        "cites_id": [
+            "11221089993754414618"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improved radiance gradient computation",
+            "pub_year": "2005",
+            "citation": "Proceedings of the 21st Spring Conference on Computer Graphics, 155-159, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:roLk4NBRz8UC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13219320908469263272",
+        "cites_id": [
+            "13219320908469263272"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Style-aware robust color transfer.",
+            "pub_year": "2015",
+            "citation": "CAe@ Expressive, 67-77, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:2KloaMYe4IUC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9970338508180616080",
+        "cites_id": [
+            "9970338508180616080"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A client-server approach to image-based rendering on mobile terminals",
+            "pub_year": "2005",
+            "citation": "INRIA Techniqual Report (France), 2005"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:ufrVoPGSRksC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7092035496201284571",
+        "cites_id": [
+            "7092035496201284571"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal radiance caching",
+            "pub_year": "2006",
+            "citation": "ACM SIGGRAPH 2006 Sketches, 171-es, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:Se3iqnhoufwC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8815647693868208088",
+        "cites_id": [
+            "8815647693868208088"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Image display algorithms for high\u2010and low\u2010dynamic\u2010range display devices",
+            "pub_year": "2007",
+            "citation": "Journal of the Society for Information Display 15 (12), 997-1014, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:M3ejUd6NZC8C",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8500454116150367188",
+        "cites_id": [
+            "8500454116150367188"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fast approximation to spherical harmonic rotation",
+            "pub_year": "2006",
+            "citation": "Proceedings of the 22nd Spring Conference on Computer Graphics, 49-58 PAGE@ 9, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:_kc_bZDykSQC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4887951841668909198,16850899749390068396",
+        "cites_id": [
+            "4887951841668909198",
+            "16850899749390068396"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rendering grass in real time with dynamic lighting",
+            "pub_year": "2008",
+            "citation": "IEEE Computer Graphics and Applications 29 (1), 32-41, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16800610986124279030",
+        "cites_id": [
+            "16800610986124279030"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Image-based modeling of the human eye",
+            "pub_year": "2009",
+            "citation": "IEEE Transactions on Visualization and Computer graphics 15 (5), 815-827, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:isC4tDSrTZIC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17492232544517435585",
+        "cites_id": [
+            "17492232544517435585"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parallel space tracing: An experience on an iPSC hypercube",
+            "pub_year": "1988",
+            "citation": "New Trends in Computer Graphics: Proceedings of CG International\u201988, 170-188, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14225454248597212482",
+        "cites_id": [
+            "14225454248597212482"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Survey of temporal brightness artifacts in video tone mapping",
+            "pub_year": "2014",
+            "citation": "HDRi2014-Second international conference and SME workshop on HDR imaging 9, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:wbdj-CoPYUoC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15385357268951827129",
+        "cites_id": [
+            "15385357268951827129"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A virtual director using hidden markov models",
+            "pub_year": "2016",
+            "citation": "Computer Graphics Forum 35 (8), 51-67, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:uJ-U7cs_P_0C",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5164891848432282400",
+        "cites_id": [
+            "5164891848432282400"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Memory management schemes for radiosity computation in complex environments",
+            "pub_year": "1998",
+            "citation": "Proceedings. Computer Graphics International (Cat. No. 98EX149), 706-714, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:UebtZRa9Y70C",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4898758297381781479,16946168402848859537",
+        "cites_id": [
+            "4898758297381781479",
+            "16946168402848859537"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A VRML97-X3D extension for massive scenery management in virtual worlds",
+            "pub_year": "2004",
+            "citation": "Proceedings of the ninth international conference on 3D Web technology, 145-153, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10360065124268833938",
+        "cites_id": [
+            "10360065124268833938"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Subsurface texture mapping",
+            "pub_year": "2008",
+            "citation": "IEEE Computer Graphics and Applications 28 (1), 34-42, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1239425096307124397",
+        "cites_id": [
+            "1239425096307124397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Remote Interactive Walkthrough of City Models.",
+            "pub_year": "2003",
+            "citation": "PG, 389-393, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:8k81kl-MbHgC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6450650591854764814",
+        "cites_id": [
+            "6450650591854764814"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Remote rendering of massively textured 3D scenes through progressive texture maps",
+            "pub_year": "2003",
+            "citation": "The 3rd IASTED conference on Visualisation, Imaging and Image Processing 2 \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2184900784030441049",
+        "cites_id": [
+            "2184900784030441049"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A spherical Gaussian framework for Bayesian Monte Carlo rendering of glossy surfaces",
+            "pub_year": "2013",
+            "citation": "IEEE Transactions on Visualization and Computer Graphics 19 (10), 1619-1632, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7841392684630009580",
+        "cites_id": [
+            "7841392684630009580"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Haar wavelet: A solution to global illumination with general surface properties",
+            "pub_year": "1995",
+            "citation": "Photorealistic Rendering Techniques, 281-294, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:0EnyYjriUFMC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6369452040404478222",
+        "cites_id": [
+            "6369452040404478222"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Bayesian Monte Carlo approach to global illumination",
+            "pub_year": "2009",
+            "citation": "Computer Graphics Forum 28 (8), 2315-2329, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:J_g5lzvAfSwC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15110075634337027842",
+        "cites_id": [
+            "15110075634337027842"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synchronisation and load balancing for parallel hierarchical radiosity of complex scenes on a heterogeneous computer network",
+            "pub_year": "1999",
+            "citation": "Computer Graphics Forum 18 (4), 201-212, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12225168369912160810",
+        "cites_id": [
+            "12225168369912160810"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An adaptive discretization method for radiosity",
+            "pub_year": "1992",
+            "citation": "Computer Graphics Forum 11 (3), 205-216, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:5nxA0vEk-isC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17690004640399535592",
+        "cites_id": [
+            "17690004640399535592"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimenting with a parallel ray-tracing algorithm on a hypercube machine",
+            "pub_year": "1988",
+            "citation": "INRIA, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:Zph67rFs4hoC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11375358988866920657,4461490478141583958",
+        "cites_id": [
+            "11375358988866920657",
+            "4461490478141583958"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatial directional radiance caching",
+            "pub_year": "2009",
+            "citation": "Computer Graphics Forum 28 (4), 1189-1198, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1061041301985202870",
+        "cites_id": [
+            "1061041301985202870"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Numerical verification of bidirectional reflectance distribution functions for physical plausibility",
+            "pub_year": "2013",
+            "citation": "Proceedings of the South African Institute for Computer Scientists and \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:bFI3QPDXJZMC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4926239162369940265",
+        "cites_id": [
+            "4926239162369940265"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of temporal coherence-based tone mapping on video compression",
+            "pub_year": "2013",
+            "citation": "21st European Signal Processing Conference (EUSIPCO 2013), 1-5, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13067523647746573184",
+        "cites_id": [
+            "13067523647746573184"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rendering trees with indirect lighting in real time",
+            "pub_year": "2008",
+            "citation": "Computer graphics forum 27 (4), 1189-1198, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:TFP_iSt0sucC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13868951392591470563",
+        "cites_id": [
+            "13868951392591470563"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GPS, GIS and video registration for building reconstruction",
+            "pub_year": "2007",
+            "citation": "2007 IEEE International Conference on Image Processing 6, VI-401-VI-404, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17349882894828358320",
+        "cites_id": [
+            "17349882894828358320"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parallel radiosity using a shared virtual memory",
+            "pub_year": "1993",
+            "citation": "First Bilkent Computer Graphics Conference on Advanced Techniques in \u2026, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13936940590550957939",
+        "cites_id": [
+            "13936940590550957939"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A spatial target function for metropolis photon tracing",
+            "pub_year": "2016",
+            "citation": "ACM Transactions on Graphics (TOG) 36 (4), 1, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:EYYDruWGBe4C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11823890214418522624",
+        "cites_id": [
+            "11823890214418522624"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Error-bound wavelength selection for spectral rendering",
+            "pub_year": "1997",
+            "citation": "The Visual Computer 9 (13), 424-434, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:aqlVkmm33-oC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16155118499429583687",
+        "cites_id": [
+            "16155118499429583687"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GPU-based volume rendering for medical imagery",
+            "pub_year": "2010",
+            "citation": "International Journal of Computer and Information Engineering 4 (3), 449-455, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:RHpTSmoSYBkC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9177095782481740922",
+        "cites_id": [
+            "9177095782481740922"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data management scheme for parallel radiosity",
+            "pub_year": "1994",
+            "citation": "Computer-Aided Design 26 (12), 876-882, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:4TOpqqG69KYC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12470494982590590952",
+        "cites_id": [
+            "12470494982590590952"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computation of polarized subsurface BRDF for rendering",
+            "pub_year": "2020",
+            "citation": "Graphics Interface 2014, 201-208, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:olpn-zPbct0C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15240994537096731551",
+        "cites_id": [
+            "15240994537096731551"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiance caching for efficient global illumination computation",
+            "pub_year": "2004",
+            "citation": "INRIA, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:6ZxmRoH8BuwC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14330293464760118470",
+        "cites_id": [
+            "14330293464760118470"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fast wavelet radiosity method",
+            "pub_year": "1994",
+            "citation": "Computer Graphics Forum 13 (3), 407-420, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10225784580583728107",
+        "cites_id": [
+            "10225784580583728107"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A theoretical analysis of global illumination models",
+            "pub_year": "1992",
+            "citation": "Photorealism in Computer Graphics, 57-71, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:4DMP91E08xMC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14395211810369004150",
+        "cites_id": [
+            "14395211810369004150"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Motion-guided quantization for video tone mapping",
+            "pub_year": "2014",
+            "citation": "2014 IEEE International Conference on Multimedia and Expo (ICME), 1-6, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:HE397vMXCloC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11124945816725689706",
+        "cites_id": [
+            "11124945816725689706"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rendering grass terrains in real-time with dynamic lighting",
+            "pub_year": "2006",
+            "citation": "ACM SIGGRAPH 2006 Sketches, 46-es, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16038178229341263932",
+        "cites_id": [
+            "16038178229341263932"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computation of Higher Order Illumination with a Non\u2010Deterministic Approach",
+            "pub_year": "1996",
+            "citation": "Computer Graphics Forum 15 (3), 327-337, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:dhFuZR0502QC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8062578568993861511",
+        "cites_id": [
+            "8062578568993861511"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Anatomically accurate modeling and rendering of the human eye",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:qUcmZB5y_30C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5657782087315058497",
+        "cites_id": [
+            "5657782087315058497"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gps, gis and video fusion for urban modeling",
+            "pub_year": "2007",
+            "citation": "CGI, may, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:hC7cP41nSMkC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7362015081677074235",
+        "cites_id": [
+            "7362015081677074235"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation of the indoor propagation of a 60 GHz electromagnetic wave with a time-dependent radiosity algorithm",
+            "pub_year": "2002",
+            "citation": "Computers & Graphics 26 (1), 125-141, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=762251425778412373",
+        "cites_id": [
+            "762251425778412373"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discontinuity meshing and hierarchical multiwavelet radiosity",
+            "pub_year": "1995",
+            "citation": "Graphics Interface 95, 109-115, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17802602183658944825",
+        "cites_id": [
+            "17802602183658944825"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A two-pass physics-based global lighting model",
+            "pub_year": "1992",
+            "citation": "Proceedings of the conference on Graphics interface'92, 319-328, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14293921953611612262",
+        "cites_id": [
+            "14293921953611612262"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LGRC: A language for image synthesis by ray casting.",
+            "pub_year": "1987",
+            "citation": "TECHNOL. SCI. INF. 6 (3), 221-233, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=833529350272720394",
+        "cites_id": [
+            "833529350272720394"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Image selection in photo albums",
+            "pub_year": "2018",
+            "citation": "Proceedings of the 2018 ACM on International Conference on Multimedia \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=893342982661458951",
+        "cites_id": [
+            "893342982661458951"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transformation of the multivariate generalized Gaussian distribution for image editing",
+            "pub_year": "2017",
+            "citation": "IEEE Transactions on Visualization and Computer Graphics 24 (10), 2813-2826, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:SpbeaW3--B0C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2158185021676102061",
+        "cites_id": [
+            "2158185021676102061"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient quadrature rules for illumination integrals: From quasi Monte Carlo to Bayesian Monte Carlo",
+            "pub_year": "2015",
+            "citation": "Morgan & Claypool Publishers, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:_Re3VWB3Y0AC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10553354538128496164",
+        "cites_id": [
+            "10553354538128496164"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photorealism in computer graphics",
+            "pub_year": "2013",
+            "citation": "Springer Science & Business Media, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:NMxIlDl6LWMC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10351224831726492839",
+        "cites_id": [
+            "10351224831726492839"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rendering grass in real-time with dynamic light sources and shadows",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:r0BpntZqJG4C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=972171461761087778,16707633017194260650",
+        "cites_id": [
+            "972171461761087778",
+            "16707633017194260650"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Remote interactive walkthrough of city models using procedural geometry",
+            "pub_year": "2003",
+            "citation": "INRIA, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10778993856286020560",
+        "cites_id": [
+            "10778993856286020560"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabo-Moresque decor image retrieval system based on mosaic representations",
+            "pub_year": "2001",
+            "citation": "Journal of Cultural Heritage 2 (2), 149-154, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:RGFaLdJalmkC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12364725352242942374",
+        "cites_id": [
+            "12364725352242942374"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Low sampling densities using a psychovisual approach",
+            "pub_year": "1991",
+            "citation": "Eurographics Association, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:IWHjjKOFINEC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2380013445877511757",
+        "cites_id": [
+            "2380013445877511757"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Theoretical developments on polygonal approximation of parametric surfaces for ray tracing",
+            "pub_year": "1988",
+            "citation": "Computer Graphics Forum 7 (4), 257-264, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:-f6ydRqryjwC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12425407805485445041",
+        "cites_id": [
+            "12425407805485445041"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Context in photo albums: Understanding and modeling user behavior in clustering and selection",
+            "pub_year": "2019",
+            "citation": "ACM Transactions on Applied Perception (TAP) 16 (2), 1-20, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:kh2fBNsKQNwC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16306485632522288698",
+        "cites_id": [
+            "16306485632522288698"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tone mapping HDR panoramas for viewing in head mounted displays",
+            "pub_year": "2018",
+            "citation": "Proceedings of the 13th International Joint Conference on Computer Vision \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:5qfkUJPXOUwC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15121031172807187853",
+        "cites_id": [
+            "15121031172807187853"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discrete ordinate method for polarized light transport solution and subsurface BRDF computation",
+            "pub_year": "2014",
+            "citation": "Computers & graphics 45, 17-27, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:WA5NYHcadZ8C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5068075803363005688",
+        "cites_id": [
+            "5068075803363005688"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal coherency in video tone mapping, a survey",
+            "pub_year": "2013",
+            "citation": "HDRi2013-First International Conference and SME Workshop on HDR imaging, 1-6, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:xtoqd-5pKcoC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6651817279488944088",
+        "cites_id": [
+            "6651817279488944088"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptive records for irradiance caching",
+            "pub_year": "2011",
+            "citation": "Computer Graphics Forum 30 (6), 1603-1616, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:ldfaerwXgEUC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9525571946265365481",
+        "cites_id": [
+            "9525571946265365481"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photon\u2010driven Irradiance Cache",
+            "pub_year": "2008",
+            "citation": "Computer Graphics Forum 27 (7), 1971-1978, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:hMod-77fHWUC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7778301103584110043",
+        "cites_id": [
+            "7778301103584110043"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A progressive algorithm for three point transport",
+            "pub_year": "1999",
+            "citation": "Computer Graphics Forum 18 (1), 41-56, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4363475547143246139",
+        "cites_id": [
+            "4363475547143246139"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Qsplat compression",
+            "pub_year": "2004",
+            "citation": "Proceedings of the 3rd international conference on Computer graphics \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13840815558946088460",
+        "cites_id": [
+            "13840815558946088460"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Faster image rendering in animation through motion compensated interpolation",
+            "pub_year": "1993",
+            "citation": "Proceedings of the IFIP TC5/WG5. 2/WG5. 10 CSI International Conference on \u2026, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16476720763175288308",
+        "cites_id": [
+            "16476720763175288308"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A VLSI chip for ray tracing bicubic patches",
+            "pub_year": "1989",
+            "citation": "Eurographics Association, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7322155768010629266",
+        "cites_id": [
+            "7322155768010629266"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Context-aware clustering and assessment of photo collections",
+            "pub_year": "2017",
+            "citation": "Proceedings of the symposium on Computational Aesthetics, 1-10, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:S16KYo8Pm5AC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9157946899718811199",
+        "cites_id": [
+            "9157946899718811199"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Virtual Director Inspired by Real Directors",
+            "pub_year": "2014",
+            "citation": "Workshops at the Twenty-Eighth AAAI Conference on Artificial Intelligence, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:9vf0nzSNQJEC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10414930423250625315",
+        "cites_id": [
+            "10414930423250625315"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visibility-driven progressive volume photon tracing",
+            "pub_year": "2013",
+            "citation": "The Visual Computer 29, 849-859, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:_xSYboBqXhAC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4992786200762123065",
+        "cites_id": [
+            "4992786200762123065"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improving performance and accuracy of local PCA",
+            "pub_year": "2011",
+            "citation": "Computer Graphics Forum 30 (7), 1903-1910, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:sSrBHYA8nusC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16668420807778731048",
+        "cites_id": [
+            "16668420807778731048"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient clustering and visibility calculation for global illumination",
+            "pub_year": "2003",
+            "citation": "Proceedings of the 2nd international conference on Computer graphics \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:k_IJM867U9cC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4281045823112851602",
+        "cites_id": [
+            "4281045823112851602"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introduction to New Ray-tracing Techniques",
+            "pub_year": "1988",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:TQgYirikUcIC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5341871400619592866",
+        "cites_id": [
+            "5341871400619592866"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptive records for volume irradiance caching",
+            "pub_year": "2011",
+            "citation": "The visual computer 27, 655-664, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:738O_yMBCRsC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11986094023354832319",
+        "cites_id": [
+            "11986094023354832319"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation de la lumi\u00e8re en synth\u00e8se d'images: aspects algorithmiques: Informatique graphique",
+            "pub_year": "1995",
+            "citation": "TSI. Technique et science informatiques 14 (10), 1221-1256, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:SdhP9T11ey4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11269366629817253813",
+        "cites_id": [
+            "11269366629817253813"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linear radiosity with error estimation",
+            "pub_year": "1995",
+            "citation": "Rendering Techniques\u2019 95: Proceedings of the Eurographics Workshop in Dublin \u2026, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4883429324397884673",
+        "cites_id": [
+            "4883429324397884673"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LGRC: un langage pour la synth\u00e8se d\u2019image par lancer de rayon",
+            "pub_year": "1986",
+            "citation": "TSI 6, 475-489, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8261429686118050180",
+        "cites_id": [
+            "8261429686118050180"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "IoDEP: Towards an IoT-Data Analysis and Event Processing Architecture for Business Process Incident Management",
+            "pub_year": "2022",
+            "citation": "International Journal of Advanced Computer Science and Applications 13 (4), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:F9fV5C73w3QC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18261579639241560631,17442314410075561436,15019016929969386373",
+        "cites_id": [
+            "18261579639241560631",
+            "17442314410075561436",
+            "15019016929969386373"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Focus-and-context skeleton-based image simplification using saliency maps",
+            "pub_year": "2021",
+            "citation": "Proceedings of the 16th International Joint Conference on Computer Vision \u2026, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:uDGL6kOW6j0C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5841277082248334214",
+        "cites_id": [
+            "5841277082248334214"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light Propagation Maps on Parallel Graphics Architectures.",
+            "pub_year": "2012",
+            "citation": "EGPGV@ Eurographics, 81-88, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:2P1L_qKh6hAC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6926299047316255157",
+        "cites_id": [
+            "6926299047316255157"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring the use of glossy light volumes for interactive global illumination",
+            "pub_year": "2010",
+            "citation": "Proceedings of the 7th International Conference on Computer Graphics \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:JV2RwH3_ST0C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4473158320862915063",
+        "cites_id": [
+            "4473158320862915063"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combining hierarchical radiosity and lods",
+            "pub_year": "2000",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:maZDTaKrznsC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16143170015268581995",
+        "cites_id": [
+            "16143170015268581995"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Une nouvelle approche r\u00e9aliste de simulation d'eclairage dans un environnement diffus",
+            "pub_year": "1991",
+            "citation": "INRIA, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13176086808686922413",
+        "cites_id": [
+            "13176086808686922413"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Vers un modele d'eclairement realiste",
+            "pub_year": "1989",
+            "citation": "INRIA, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:blknAaTinKkC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5248104799104754936",
+        "cites_id": [
+            "5248104799104754936"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimal sample weights for hemispherical integral quadratures",
+            "pub_year": "2019",
+            "citation": "Computer Graphics Forum 38 (1), 59-72, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:ruyezt5ZtCIC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12163303187982948129",
+        "cites_id": [
+            "12163303187982948129"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-dynamic-range image recovery from flash and non-flash image pairs",
+            "pub_year": "2017",
+            "citation": "The Visual Computer 33, 725-735, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:kuK5TVdYjLIC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3820568684331167353",
+        "cites_id": [
+            "3820568684331167353"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shape and Reflectance from RGB-D Images using Time Sequential Illumination.",
+            "pub_year": "2016",
+            "citation": "VISIGRAPP (3: VISAPP), 534-543, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:PoWvk5oyLR8C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2249868005699075875",
+        "cites_id": [
+            "2249868005699075875"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Toward automatic GIS\u2013video initial registration: And application to buildings textures computation",
+            "pub_year": "2012",
+            "citation": "annals of telecommunications-annales des t\u00e9l\u00e9communications 67, 1-13, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:BqipwSGYUEgC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10032031161112104795",
+        "cites_id": [
+            "10032031161112104795"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "KOAN: a versatile tool for parallelizing realistic rendering algorithms",
+            "pub_year": "1991",
+            "citation": "INRIA, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:iH-uZ7U-co4C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4883932452467349753",
+        "cites_id": [
+            "4883932452467349753"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spectral analysis of quadrature rules and fourier truncation-based methods applied to shading integrals",
+            "pub_year": "2019",
+            "citation": "IEEE Transactions on Visualization and Computer Graphics 26 (10), 3022-3036, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:YohjEiUPhakC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11593535207093984325",
+        "cites_id": [
+            "11593535207093984325"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method and device for quantising the floating value of a pixel in an image",
+            "pub_year": "2018",
+            "citation": "US Patent 10,045,024, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:L7CI7m0gUJcC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13041052408059039987",
+        "cites_id": [
+            "13041052408059039987"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient inverse transform methods for VPL selection in global illumination",
+            "pub_year": "2018",
+            "citation": "Multimedia Tools and Applications 77, 13571-13595, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:e_rmSamDkqQC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1148316662356161600",
+        "cites_id": [
+            "1148316662356161600"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transformation of the beta distribution for color transfer",
+            "pub_year": "2018",
+            "citation": "VISIGRAPP (GRAPP), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:8d8msizDQcsC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2668996212784943688",
+        "cites_id": [
+            "2668996212784943688"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method and device for selecting an image dynamic range conversion operator",
+            "pub_year": "2017",
+            "citation": "US Patent 9,767,542, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:yB1At4FlUx8C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12102841519042593861",
+        "cites_id": [
+            "12102841519042593861"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A radiance cache method for highly glossy surfaces",
+            "pub_year": "2016",
+            "citation": "The Visual Computer 32, 1239-1250, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:-_dYPAW6P2MC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7206099899217231618",
+        "cites_id": [
+            "7206099899217231618"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A client-server approach to image-based rendering on mobile terminals",
+            "pub_year": "2005",
+            "citation": "INRIA, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:ipzZ9siozwsC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16905741988883957017",
+        "cites_id": [
+            "16905741988883957017"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Example\u2010Based Colour Transfer for 3D Point Clouds",
+            "pub_year": "2021",
+            "citation": "Computer Graphics Forum 40 (6), 428-446, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:DJbcl8HfkQkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9950569476716706765",
+        "cites_id": [
+            "9950569476716706765"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extensible Spherical Fibonacci Grids",
+            "pub_year": "2019",
+            "citation": "IEEE Transactions on Visualization and Computer Graphics 27 (4), 2341-2354, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:FAceZFleit8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18268216132920693106",
+        "cites_id": [
+            "18268216132920693106"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method and apparatus for dynamic range expansion of ldr video sequence",
+            "pub_year": "2015",
+            "citation": "US Patent App. 14/743,936, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:z_wVstp3MssC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14453437764851392849",
+        "cites_id": [
+            "14453437764851392849"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rendu Progressif bas\u00e9 Metropolis-Hasting dans des sc\u00e8nes \u00e0 contextes topologiques multiples",
+            "pub_year": "2014",
+            "citation": "Revue Electronique Francophone d\u2019Informatique Graphique 8 (1), 2014"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:eflP2zaiRacC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18242714326347124236",
+        "cites_id": [
+            "18242714326347124236"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automatic Aesthetics-based Lighting Design with Global Illumination.",
+            "pub_year": "2014",
+            "citation": "PG (Short Papers), 2014"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:eMMeJKvmdy0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10490972170257117688",
+        "cites_id": [
+            "10490972170257117688"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Progressive volume photon tracing",
+            "pub_year": "2012",
+            "citation": "ACM SIGGRAPH 2012 Talks, 1-1, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:pyW8ca7W8N0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3558538799466133477",
+        "cites_id": [
+            "3558538799466133477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Handling dynamic changes in hierarchical radiosity through interaction meshes",
+            "pub_year": "2000",
+            "citation": "Proceedings the Eighth Pacific Conference on Computer Graphics and \u2026, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:ns9cj8rnVeAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11180514205088734302",
+        "cites_id": [
+            "11180514205088734302"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interactive walk-through using particle tracing",
+            "pub_year": "1995",
+            "citation": "Computer Graphics, 57-69, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3347175170839564809",
+        "cites_id": [
+            "3347175170839564809"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developments in ray-tracing",
+            "pub_year": "1991",
+            "citation": "Advances in Computer Graphics IV, 154-212, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:O3NaXMp0MMsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10023582815385061165",
+        "cites_id": [
+            "10023582815385061165"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lancer de rayon sur des architectures parall\u00e8les: une \u00e9tude de performance",
+            "pub_year": "1989",
+            "citation": "INRIA, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:HoB7MX3m0LUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15134667026220805992",
+        "cites_id": [
+            "15134667026220805992"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HDR-LFNet: inverse tone mapping using fusion network",
+            "pub_year": "2023",
+            "citation": "Computers & Graphics 114, 1-12, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:OR75R8vi5nAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11733514852875122855",
+        "cites_id": [
+            "11733514852875122855"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gaussian process for radiance functions on the sphere",
+            "pub_year": "2022",
+            "citation": "Computer Graphics Forum 41 (6), 67-81, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:fFSKOagxvKUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16854854924457091591,12884479828855099437",
+        "cites_id": [
+            "16854854924457091591",
+            "12884479828855099437"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method and device for processing images",
+            "pub_year": "2019",
+            "citation": "US Patent 10,334,270, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:kz9GbA2Ns4gC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2465983485010992325",
+        "cites_id": [
+            "2465983485010992325"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Perceptual metric for color transfer methods",
+            "pub_year": "2017",
+            "citation": "2017 IEEE International Conference on Image Processing (ICIP), 1237-1241, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:LI9QrySNdTsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6829152155741301462",
+        "cites_id": [
+            "6829152155741301462"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method for tone-mapping a video sequence",
+            "pub_year": "2016",
+            "citation": "US Patent App. 14/893,106, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:BUYA1_V_uYcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4187564718556397512",
+        "cites_id": [
+            "4187564718556397512"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light beam tracing for multi-bounce specular and glossy transport paths",
+            "pub_year": "2014",
+            "citation": "Proceedings of the Southern African Institute for Computer Scientist and \u2026, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:Mojj43d5GZwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15735087411792737105",
+        "cites_id": [
+            "15735087411792737105"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extending backward polygon beam tracing to glossy scattering surfaces",
+            "pub_year": "2011",
+            "citation": "Computer Graphics Forum 30 (6), 1825-1836, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:pqnbT2bcN3wC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13294530940255938993",
+        "cites_id": [
+            "13294530940255938993"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiview Autostereoscopic Displays",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:3s1wT3WcHBgC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17957607988138428397",
+        "cites_id": [
+            "17957607988138428397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Real time acoustic rendering of complex environments including diffraction and curved surfaces",
+            "pub_year": "2006",
+            "citation": "Audio Engineering Society Convention 120, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8822496363466696551",
+        "cites_id": [
+            "8822496363466696551"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Overview of parallel graphics hardware",
+            "pub_year": "2002",
+            "citation": "Practical Parallel Rendering, 133-152, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1989850247436888427",
+        "cites_id": [
+            "1989850247436888427"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using levels of detail to speedup radiosity computation",
+            "pub_year": "1999",
+            "citation": "INRIA, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:RYcK_YlVTxYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16650320614990841436",
+        "cites_id": [
+            "16650320614990841436"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parallel hierarchical radiosity for complex building interiors",
+            "pub_year": "1998",
+            "citation": "INRIA, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:GnPB-g6toBAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9714142335956093500",
+        "cites_id": [
+            "9714142335956093500"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Partitioning complex architectural environments for lighting simulation",
+            "pub_year": "1996",
+            "citation": "Rapport technique 2981, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:rmuvC79q63oC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14410048261508028310",
+        "cites_id": [
+            "14410048261508028310"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Equations adjointes et trac\u00e9 de particule pour le calcul d'illumination globale",
+            "pub_year": "1995",
+            "citation": "INRIA, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:g5m5HwL7SMYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11568024727730359788",
+        "cites_id": [
+            "11568024727730359788"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Physics-Based Lighting Models: Implementation Issues",
+            "pub_year": "1994",
+            "citation": "Photorealistic Rendering in Computer Graphics: Proceedings of the Second \u2026, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:lSLTfruPkqcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=466008588650956253",
+        "cites_id": [
+            "466008588650956253"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation d'\u00e9clairage dans un environnement contenant des milieux semi-transparents",
+            "pub_year": "1994",
+            "citation": "Publication interne- IRISA, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:M05iB0D1s5AC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10437238770875477074",
+        "cites_id": [
+            "10437238770875477074"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using coherence to accelerate radiosity",
+            "pub_year": "1991",
+            "citation": "INRIA, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:B3FOqHPlNUQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15507690438073723079,10869804957651112613",
+        "cites_id": [
+            "15507690438073723079",
+            "10869804957651112613"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Report on the EUROGRAPHICS workshop on photosimulation, realism and physics in computer graphics",
+            "pub_year": "1990",
+            "citation": "Computer Graphics Forum 9 (5), 377-378, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:vV6vV6tmYwMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4039287481154657393",
+        "cites_id": [
+            "4039287481154657393"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Subdivision spatiale et lancer de rayon",
+            "pub_year": "1986",
+            "citation": "INRIA, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:SeFeTyx0c_EC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15256908176657181707",
+        "cites_id": [
+            "15256908176657181707"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Real-time Multi-map Saliency-driven Gaze Behavior for Non-conversational Characters",
+            "pub_year": "2023",
+            "citation": "IEEE Transactions on Visualization and Computer Graphics, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:ALROH1vI_8AC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8837658661662371608",
+        "cites_id": [
+            "8837658661662371608"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computer Vision, Imaging and Computer Graphics Theory and Applications: 15th International Joint Conference, VISIGRAPP 2020 Valletta, Malta, February 27\u201329, 2020, Revised \u2026",
+            "pub_year": "2022",
+            "citation": "Springer Nature, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:OcBU2YAGkTUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4050633420530397702",
+        "cites_id": [
+            "4050633420530397702"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-view Real-time 3D Occupancy Map for Machine-patient Collision Avoidance.",
+            "pub_year": "2021",
+            "citation": "VISIGRAPP (4: VISAPP), 627-636, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:lgwcVrK6X84C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10401254625753672439",
+        "cites_id": [
+            "10401254625753672439"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-purpose bi-local CAT-based guidance filter",
+            "pub_year": "2018",
+            "citation": "Signal Processing: Image Communication 65, 141-153, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:q3CdL3IzO_QC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1561329088119282302",
+        "cites_id": [
+            "1561329088119282302"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automatic light compositing using rendered images",
+            "pub_year": "2016",
+            "citation": "2016 Digital Media Industry & Academic Forum (DMIAF), 176-179, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:epqYDVWIO7EC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7987654612162492993",
+        "cites_id": [
+            "7987654612162492993"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Video Tone Mapping",
+            "pub_year": "2016",
+            "citation": "High Dynamic Range Video, 161-183, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:Dip1O2bNi0gC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6500733392633043909",
+        "cites_id": [
+            "6500733392633043909"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Color transfer between high-dynamic-range images",
+            "pub_year": "2015",
+            "citation": "Applications of Digital Image Processing XXXVIII 9599, 247-259, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:35r97b3x0nAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3111267165295125777",
+        "cites_id": [
+            "3111267165295125777"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High speed sequential illumination with electronic rolling shutter cameras",
+            "pub_year": "2015",
+            "citation": "Proceedings of the IEEE Conference on Computer Vision and Pattern \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:tKAzc9rXhukC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11145420033176738126",
+        "cites_id": [
+            "11145420033176738126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Advances in Computer Graphics IV",
+            "pub_year": "2012",
+            "citation": "Springer Science & Business Media, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6056833959649636498",
+        "cites_id": [
+            "6056833959649636498"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimization du calcul d\u2019illumination globale de scenes int\u00e9rieures/ext\u00e9rieures: niveaux de d\u00e9tails, structuration et r\u00e9flectance bidirectionnelle quelconque",
+            "pub_year": "1996",
+            "citation": "PhD thesis, Katholieke universiteit leuven, Heverlee-Belgium, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:otzGkya1bYkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11592814218987236918",
+        "cites_id": [
+            "11592814218987236918"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploiting spatial coherence to accelerate radiosity",
+            "pub_year": "1993",
+            "citation": "The Visual Computer 10, 46-53, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17824073910551577986",
+        "cites_id": [
+            "17824073910551577986"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computer Vision, Imaging and Computer Graphics Theory and Applications: 16th International Joint Conference, VISIGRAPP 2021, Virtual Event, February 8\u201310, 2021, Revised \u2026",
+            "pub_year": "2023",
+            "citation": "Springer Nature, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:43bX7VzcjpAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-map Saliency-driven Gaze Behavior for Virtual Characters",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:F1b5ZUV5XREC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gaussian Process for Radiance Functions on the  Sphere",
+            "pub_year": "2022",
+            "citation": "Computer Graphics Forum, 2022, vol. 41, num. 6, p. 67-81, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:4X0JR2_MtJMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Semi-automatic CNN Architectural Pruning using the Bayesian Case Model and Dimensionality Reduction Visualization.",
+            "pub_year": "2022",
+            "citation": "VISIGRAPP (3: IVAPP), 203-209, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:PVgj2kMGcgYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Issue Information}}",
+            "pub_year": "2022",
+            "citation": "Computer Graphics Forum 41, 226-244, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:2tRrZ1ZAMYUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Foreword to the special section on Recent Advances in Graphics and Interaction",
+            "pub_year": "2022",
+            "citation": "Elsevier, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:ODE9OILHJdcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method and device for processing images",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:1lhNe0rCu4AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computer Vision, Imaging and Computer Graphics Theory and Applications: 14th International Joint Conference, VISIGRAPP 2019, Prague, Czech Republic, February 25\u201327, 2019 \u2026",
+            "pub_year": "2020",
+            "citation": "Springer Nature, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:2VqYfGB8ITEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tone Mapping HDR Panoramas for Viewing in Head Mounted Displays",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:bz8QjSJIRt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two-Level Adaptive Sampling for Illumination Integrals using Bayesian Monte Carlo.",
+            "pub_year": "2016",
+            "citation": "Eurographics (Short Papers), 65-68, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:p__nRnzSRKYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EUROGRAPHICS 2016: Tutorials Frontmatter",
+            "pub_year": "2016",
+            "citation": "Eurographics Association, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:a3BOlSfXSfwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian Monte Carlo for Global Illumination",
+            "pub_year": "2015",
+            "citation": "Efficient Quadrature Rules for Illumination Integrals: From Quasi Monte \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:HeT0ZceujKMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spherical Fibonacci Point Sets for QMC Estimates of Illumination Integrals",
+            "pub_year": "2015",
+            "citation": "Efficient Quadrature Rules for Illumination Integrals: From Quasi Monte \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:yMeIxYmEMEAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method for tone-mapping a video sequence",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:ubry08Y2EpUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiance cache optimization for global illumination",
+            "pub_year": "2014",
+            "citation": "IRISA Rennes Bretagne Atlantique, \u00e9quipe FRVSense, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:WqliGbK-hY8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian and Quasi Monte Carlo Spherical Integration for Illumination Integrals.",
+            "pub_year": "2014",
+            "citation": "Eurographics (Tutorials), 4, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:W5xh706n7nkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Green's function solution to subsurface light transport for BRDF computation",
+            "pub_year": "2013",
+            "citation": "Proceedings of the 29th Spring Conference on Computer Graphics, 123-130, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:bnK-pcrLprsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Theoretical Analysis of Global",
+            "pub_year": "2013",
+            "citation": "Photorealism in Computer Graphics, 57, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:7T2F9Uy0os0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Verification of Bidirectional Reflectance DistributionFunction Implementations for Physical Plausibility",
+            "pub_year": "2013",
+            "citation": "South African Institute for Computer Scientists and Information \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:kzcrU_BdoSEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Illumination With General Surface Properties",
+            "pub_year": "2012",
+            "citation": "Photorealistic Rendering Techniques, 281, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:NJ774b8OgUMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-Frequency Shadows for Real-Time Rendering of Trees",
+            "pub_year": "2010",
+            "citation": "Journal of Graphics, GPU, and Game Tools 15 (1), 1-12, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:yD5IFk8b50cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "2007 Index IEEE Transactions on Visualization and Computer Graphics Vol. 13",
+            "pub_year": "2008",
+            "citation": "IEEE Transactions on Visualization and Computer Graphics 14 (1), 2008"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:P5F9QuxV20EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Les \u00e9crans multi-vues autost\u00e9r\u00e9oscopiques",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fusion de donn\u00e9es Gps, Sig et Vid\u00e9o pour la reconstruction d'environnements urbains",
+            "pub_year": "2007",
+            "citation": "Orasis 2007, onzi\u00e8me congr\u00e8s francophone des jeunes chercheurs en vision par \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:xtRiw3GOFMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Vers une reconstruction 3D de zones urbaines: mise en correspondance de donn\u00e9es Gps, Sig et Vid\u00e9o",
+            "pub_year": "2007",
+            "citation": "GRETSI 2007, 21e Colloque en Traitement su Signal et des Images, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:a0OBvERweLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The FL-system: a functional L-system for procedural geometric modeling",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:48xauSegjOkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automatisation de la M\u00e9thode de Tour Into The Picture",
+            "pub_year": "2005",
+            "citation": "INRIA, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:K3LRdlH-MEoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automatic Tour Into The Picture",
+            "pub_year": "2005",
+            "citation": "Publication interne- IRISA, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:u9iWguZQMMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "QSplat Compression",
+            "pub_year": "2004",
+            "citation": "Proceedings, 15, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:jgBuDB5drN8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proceedings AFRIGRAPH 2004",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:NyGDZy8z5eUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MOD\u00c9LISATION DE SC\u00c8NES TRIDIMENSIONNELLES \u00c0 PARTIR D\u2019UNE SEULE IMAGE",
+            "pub_year": "2000",
+            "citation": "Publication interne- IRISA, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:LPZeul_q3PIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Faster Progressive Algorithm for Glossy Global Illumination",
+            "pub_year": "1999",
+            "citation": "Computer Graphics Forum 1, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:tS2w5q8j5-wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Un probl\u00e8me d'illumination inverse appliqu\u00e9 aux tunnels routiers",
+            "pub_year": "1999",
+            "citation": "INRIA, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:KxtntwgDAa4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parallel Graphics and Visualisation: Proceedings",
+            "pub_year": "1998",
+            "citation": "Universite de Rennes, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:9Nmd_mFXekcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Progressive Algorithm For Three Point Transport",
+            "pub_year": "1997",
+            "citation": "INRIA, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:dBIO0h50nwkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Color image display and visual perception in computer graphics",
+            "pub_year": "1996",
+            "citation": "Fourth International Conference on Computer-Aided Design and Computer \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:WbkHhVStYXYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structuration de sc\u00e8nes architecturales complexes en vue de simulation d'\u00e9clairage",
+            "pub_year": "1996",
+            "citation": "INRIA, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:tOudhMTPpwUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "IN 47405, USA",
+            "pub_year": "1995",
+            "citation": "Photorealistic Rendering Techniques, 443, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light simulation for image synthesis: algorithmic aspects",
+            "pub_year": "1995",
+            "citation": "TSI-Technique et Science Informatiques-RAIRO 14 (10), 1221-1254, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:eq2jaN3J8jMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RAY TRACING ON DISTRIBUTED EMORY PARALLEL COMPUTERS: STRATEGIES FOR DISTRIBUTING COMPUTATIONS AND DATA",
+            "pub_year": "1990",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:VL0QpB8kHFEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RAY TRACING BIBLIOGRAPHY",
+            "pub_year": "1990",
+            "citation": "Course Notes: SIGGRAPH 1990, 17th International Conference on Computer \u2026, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:buQ7SEKw-1sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "I\u00c6IIHRIIIHRI uunnwlttytnlgulyltmt",
+            "pub_year": "1989",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:eJXPG6dFmWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lancer de rayons sur des architectures parall\u00e8les: une \u00e9tude de performance; Ray-tracing on parallel computers: a performance studies",
+            "pub_year": "1989",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:jL-93Qbq4QoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synth\u00e8se d'image r\u00e9aliste: algorithmes et architectures",
+            "pub_year": "1989",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:vRqMK49ujn8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RAY TRACING BIBLIOGRAPHY",
+            "pub_year": "1988",
+            "citation": "ACM SIGGRAPH 88: Course Notes 15th Annual Conference on Computer Graphics \u2026, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:wMgC3FpKEyYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "S. HAL B",
+            "pub_year": "1987",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:BzfGm06jWhQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thierry PRIOL",
+            "pub_year": "1987",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:hCrLmN-GePgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Un nouvel algorithme de subdivision spatiale adapte a la m\u00e9thode du lancer de rayon et utilisant un mod\u00e8le CSG. A new algorithm of space tracing using a CSG model.(en anglais)",
+            "pub_year": "1987",
+            "citation": "INRIA, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:XiSMed-E-HIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LGRC [LGRC]: un langage pour la synth\u00e8se d'images par lancer de rayons [A language for image synthesis by ray casting]",
+            "pub_year": "1985",
+            "citation": "Universit\u00e9 de Rennes 1. Institut de Recherche en Informatique et Syst\u00e8mes \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:hkOj_22Ku90C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Spatial Target Function for Metropolis Photon Tracing",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:U4n9YNQMCAIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiance Cache Splatting",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:zCSUwVk65WsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synth\u00e8se d'image par lancer de rayon sur un hypercube; Ray tracing on an ipsc hypercube",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:CaZNVDsoPx4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Subdivision spatiale et lancer de rayon; Space subdivision and ray-tracing",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:QD3KBmkZPeQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new space subdivision method for ray tracing CSG modelled scenes; Une nouvelle m\u00e9thode de subdivision spatiale pour le lancer de rayon utilisant la mod\u00e9lisation de type CSG",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:0CzhzZyukY4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimenting with a parallel ray-tracing algorithm on a hypercube machine; Un algorithme parall\u00e8le de lancer de rayon sur un hypercube iPSC",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:6yz0xqPARnAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "WSCG 2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:HtEfBTGE9r8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Vaclav Skala",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:NXb4pA-qfm4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "WSCG 2006 International Programme Committee",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:0izLItjtcgwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ATIP",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:GtLg2Ama23sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COMBINING HIERARCHICAL RADIO\u042bITY AND LOD\u042b",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:_axFR9aDTf0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Image-Based Modeling of the Human Eye",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:oNZyr7d5Mn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reviewer Thanks 2014 Reviewers",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:_Ybze24A_UAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Theoretical Analysis of G 10 hal Illumination Models",
+            "citation": "Photorealism in, 57, 0"
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:JQOojiI6XY0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Special Thanks to CG&A\u2019s Reviewers",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:1yQoGdGgb4wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Micka\u00ebl Ribardi\u00e8re",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:5awf1xo2G04C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Additional material: Automatic Aesthetics-based Lighting Design with Global Illumination",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:AXPGKjj_ei8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HDR Video Coding based on Local LDR Quantization",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:5ugPr518TE4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INTERACTIVE REAL-TIME AURALIZATION SYSTEM OF COMPLEX VOLUMES",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:J-pR_7NvFogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Siames\u2013Eclairage global temps r\u00e9el de sc\u00e8nes 3D exploitant le parall\u00e9lisme et les cartes graphiques",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:8AbLer7MMksC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Master research Internship",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:08ZZubdj9fEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fusion de donn\u00e9es Gps, Sig et Vid\u00e9o pour la reconstruction d\u2019environnements urbains Gps, Gis and Video Fusion for Building Reconstruction",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient Partitioning of architectural Environments",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:uWQEDVKXjbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "WSCG 2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:UxriW0iASnsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Subsurface Texture Mapping (sketches 0238)",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "L\u2019Universit\u00e9 de Rennes 1 Institut de Formation Sup\u00e9rieure en Informatique et Communication",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:b0M2c_1WBrUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3 INTERNE",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:zA6iFVUQeVQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extending Backward Beam Tracing to Glossy Scattering Surfaces",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "sxVWL-0AAAAJ:rO6llkc54NcC",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,780 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrative analysis of 111 reference human epigenomes",
+            "pub_year": "2015",
+            "citation": "Nature 518 (7539), 317-330, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:bz8QjSJIRt4C",
+        "num_citations": 5579,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11708241658422110543,17213695807246352848,2869853020706981174",
+        "cites_id": [
+            "11708241658422110543",
+            "17213695807246352848",
+            "2869853020706981174"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expanded encyclopaedias of DNA elements in the human and mouse genomes",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7818), 699-710, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:0izLItjtcgwC",
+        "num_citations": 883,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648428232262261720",
+        "cites_id": [
+            "648428232262261720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human body epigenome maps reveal noncanonical DNA methylation variation",
+            "pub_year": "2015",
+            "citation": "Nature 523 (7559), 212-216, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:e_rmSamDkqQC",
+        "num_citations": 612,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11182132885442655862,10589325909315074661,15234356514293298406",
+        "cites_id": [
+            "11182132885442655862",
+            "10589325909315074661",
+            "15234356514293298406"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomic diversity in a global collection of Arabidopsis thaliana accessions",
+            "pub_year": "2016",
+            "citation": "Cell 166 (2), 492-505, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:edDO8Oi4QzsC",
+        "num_citations": 561,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14133520150290051181",
+        "cites_id": [
+            "14133520150290051181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular criteria for defining the naive human pluripotent state",
+            "pub_year": "2016",
+            "citation": "Cell stem cell 19 (4), 502-515, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 447,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=965395837997416414",
+        "cites_id": [
+            "965395837997416414"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell methylomes identify neuronal subtypes and regulatory elements in mammalian cortex",
+            "pub_year": "2017",
+            "citation": "Science 357 (6351), 600-604, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:YohjEiUPhakC",
+        "num_citations": 398,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16712053995512002148",
+        "cites_id": [
+            "16712053995512002148"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Abnormalities in human pluripotent cells due to reprogramming mechanisms",
+            "pub_year": "2014",
+            "citation": "Nature 511 (7508), 177-183, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:Z5m8FVwuT1cC",
+        "num_citations": 354,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3051716722896237071",
+        "cites_id": [
+            "3051716722896237071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of Greater Middle Eastern genetic variation for enhanced disease gene discovery",
+            "pub_year": "2016",
+            "citation": "Nature genetics 48 (9), 1071-1076, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:FPJr55Dyh1AC",
+        "num_citations": 307,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12519413096686895304,4364659089661611848",
+        "cites_id": [
+            "12519413096686895304",
+            "4364659089661611848"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenome-wide inheritance of cytosine methylation variants in a recombinant inbred population",
+            "pub_year": "2013",
+            "citation": "Genome research 23 (10), 1663-1674, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:4MWp96NkSFoC",
+        "num_citations": 255,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7722960539401802316",
+        "cites_id": [
+            "7722960539401802316"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An atlas of dynamic chromatin landscapes in mouse fetal development",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7818), 744-751, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:anf4URPfarAC",
+        "num_citations": 248,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11847416689066651567,12851123427177151421,12208647331498539250,10257793366113851914",
+        "cites_id": [
+            "11847416689066651567",
+            "12851123427177151421",
+            "12208647331498539250",
+            "10257793366113851914"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An alternative pluripotent state confers interspecies chimaeric competency",
+            "pub_year": "2015",
+            "citation": "Nature 521 (7552), 316-321, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:LI9QrySNdTsC",
+        "num_citations": 245,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2378668333035338764",
+        "cites_id": [
+            "2378668333035338764"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Non-CG methylation in the human genome",
+            "pub_year": "2015",
+            "citation": "Annual review of genomics and human genetics 16, 55-77, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:S16KYo8Pm5AC",
+        "num_citations": 222,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3896201855839375775",
+        "cites_id": [
+            "3896201855839375775"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimal residual disease detection using a plasma-only circulating tumor DNA assay in patients with colorectal cancer",
+            "pub_year": "2021",
+            "citation": "Clinical Cancer Research 27 (20), 5586-5594, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:6ZxmRoH8BuwC",
+        "num_citations": 183,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=501054820271793975",
+        "cites_id": [
+            "501054820271793975"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The developmental potential of iPSCs is greatly influenced by reprogramming factor selection",
+            "pub_year": "2014",
+            "citation": "Cell stem cell 15 (3), 295-309, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:tYavs44e6CUC",
+        "num_citations": 168,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5133485907406445377",
+        "cites_id": [
+            "5133485907406445377"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proteogenomic database construction driven from large scale RNA-seq data",
+            "pub_year": "2014",
+            "citation": "Journal of proteome research 13 (1), 21-28, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:p__nRnzSRKYC",
+        "num_citations": 127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4228789997064273756",
+        "cites_id": [
+            "4228789997064273756"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An automated proteogenomic method uses mass spectrometry to reveal novel genes in Zea mays",
+            "pub_year": "2014",
+            "citation": "Molecular & Cellular Proteomics 13 (1), 157-167, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:ILKRHgRFtOwC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7900735957270964677",
+        "cites_id": [
+            "7900735957270964677"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatiotemporal DNA methylome dynamics of the developing mouse fetus",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7818), 752-759, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:LO7wyVUgiFcC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5776918494480542549",
+        "cites_id": [
+            "5776918494480542549"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional human oocytes generated by transfer of polar body genomes",
+            "pub_year": "2017",
+            "citation": "Cell stem cell 20 (1), 112-119, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:hCrLmN-GePgC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17997757429015307618",
+        "cites_id": [
+            "17997757429015307618"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improved regulatory element prediction based on tissue-specific local epigenomic signatures",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (9), E1633-E1640, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:5qfkUJPXOUwC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12695610738223785169",
+        "cites_id": [
+            "12695610738223785169"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PHYTOCHROME-INTERACTING FACTORs trigger environmentally responsive chromatin dynamics in plants",
+            "pub_year": "2021",
+            "citation": "Nature genetics 53 (7), 955-961, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:2VqYfGB8ITEC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12290462484034441027,895764277551404010,811247389440426983",
+        "cites_id": [
+            "12290462484034441027",
+            "895764277551404010",
+            "811247389440426983"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic silencing of a multifunctional plant stress regulator",
+            "pub_year": "2019",
+            "citation": "Elife 8, e47835, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:GtLg2Ama23sC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=180334468349539394",
+        "cites_id": [
+            "180334468349539394"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combined genomic and epigenomic assessment of cell-free circulating tumor DNA (ctDNA) improves assay sensitivity in early-stage colorectal cancer (CRC)",
+            "pub_year": "2019",
+            "citation": "Cancer Research 79 (13_Supplement), 916-916, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:9pM33mqn1YgC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=965292825288273110",
+        "cites_id": [
+            "965292825288273110"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Perspectives on ENCODE",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7818), 693-699, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:r_AWSJRzSzQC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12466045730709983789",
+        "cites_id": [
+            "12466045730709983789"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Abstract 916: Combined genomic and epigenomic assessment of cell-free circulating tumor DNA (ctDNA) improves assay sensitivity in early-stage colorectal cancer (CRC)",
+            "pub_year": "2019",
+            "citation": "Cancer Res 79, 916, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:OcBU2YAGkTUC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5076560543866249252",
+        "cites_id": [
+            "5076560543866249252"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MOST+: A de novo motif finding approach combining genomic sequence and heterogeneous genome-wide signatures",
+            "pub_year": "2015",
+            "citation": "BMC genomics 16, 1-12, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:i2xiXl-TujoC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10353235662428614506",
+        "cites_id": [
+            "10353235662428614506"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multimodal circulating tumor DNA (ctDNA) colorectal neoplasia detection assay for asymptomatic and early-stage colorectal cancer (CRC).",
+            "pub_year": "2021",
+            "citation": "Journal of Clinical Oncology 39 (15_suppl), 3536-3536, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:_5tno0g5mFcC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6636953076733064265",
+        "cites_id": [
+            "6636953076733064265"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lee",
+            "pub_year": "24",
+            "citation": "AY, WILLIAMS, BA, TROUT, D., AMRHEIN, H., FANG, R., CHEN, H., LI, B 25, 24"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:OP4eGU-M3BUC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6889553076369974046",
+        "cites_id": [
+            "6889553076369974046"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrated genomic and epigenomic cell-free DNA (cfDNA) analysis for the detection of early-stage colorectal cancer",
+            "pub_year": "2020",
+            "citation": "Cancer Research 80 (16 Supplement), 2316-2316, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:HtEfBTGE9r8C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=87745420093977662",
+        "cites_id": [
+            "87745420093977662"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A two-dimensional thermodynamic model based on Helmholtz free energy for wettability regulation of textured metal surfaces",
+            "pub_year": "2022",
+            "citation": "Applied Surface Science 602, 154364, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:P7Ujq4OLJYoC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14664827037033112704",
+        "cites_id": [
+            "14664827037033112704"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CTF: a CRF-based transcription factor binding sites finding system",
+            "pub_year": "2012",
+            "citation": "Bmc Genomics 13 (8), 1-9, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:tuHXwOkdijsC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7923409711986070021",
+        "cites_id": [
+            "7923409711986070021"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-precision and high-efficiency fabrication of blazed grating by ultrasonic-assisted ultraprecision planing",
+            "pub_year": "2023",
+            "citation": "Journal of Materials Processing Technology 311, 117802, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:F9fV5C73w3QC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=340878021941238735",
+        "cites_id": [
+            "340878021941238735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of a multi-modal blood-based test for the detection of colorectal cancer with sub single molecule sensitivity.",
+            "pub_year": "2022",
+            "citation": "Journal of Clinical Oncology 40 (16_suppl), 3627-3627, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:ODE9OILHJdcC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15343556106159485912",
+        "cites_id": [
+            "15343556106159485912"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analytical validation of a tissue agnostic ctDNA MRD assay using tumor specific methylation and somatic variant profiles in early-stage CRC.",
+            "pub_year": "2020",
+            "citation": "Journal of Clinical Oncology 38 (15_suppl), e15549-e15549, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:8d8msizDQcsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4447676368313572782",
+        "cites_id": [
+            "4447676368313572782"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sa1651 Plasma based cell-free circulating tumor DNA (ctDNA) assessment for non-invasive detection of colorectal cancer (CRC)",
+            "pub_year": "2020",
+            "citation": "Gastroenterology 158 (6), S-369, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:a9-T7VOCCH8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12557582162309610024",
+        "cites_id": [
+            "12557582162309610024"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PHYTOCHROME INTERACTING FACTORs trigger environmentally responsive chromatin dynamics",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 826842, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:_FM0Bhl9EiAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16507142765363964049",
+        "cites_id": [
+            "16507142765363964049"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of a highly-sensitive targeted cell-free DNA epigenomic assay for early-stage multi-cancer screening",
+            "pub_year": "2022",
+            "citation": "Cancer Research 82 (12), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:3htObqc8RwsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1263586892032439020",
+        "cites_id": [
+            "1263586892032439020"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of a highly sensitive multicancer, targeted, cell-free DNA epigenomic assay for integrated screening of lung and colorectal cancer.",
+            "pub_year": "2022",
+            "citation": "Journal of Clinical Oncology 40 (16_suppl), 3542-3542, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:OR75R8vi5nAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6943716124739699513",
+        "cites_id": [
+            "6943716124739699513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "S130 Multimodal Circulating Tumor DNA (ctDNA) Blood-Based Colorectal Cancer (CRC) Screening Test Demonstrates Clinically Meaningful Sensitivity Across Multiple Clinical Parameters",
+            "pub_year": "2021",
+            "citation": "Official journal of the American College of Gastroenterology| ACG 116, S56, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:9c2xU6iGI7YC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1123312011653678528",
+        "cites_id": [
+            "1123312011653678528"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multimodal Circulating Tumor DNA (ctDNA) Blood-Based Colorectal Cancer (CRC) Screening Test Demonstrates Clinically Meaningful Sensitivity Across Multiple Clinical Parameters",
+            "pub_year": "2021",
+            "citation": "AMERICAN JOURNAL OF GASTROENTEROLOGY 116, S56-S56, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:nZcligLrVowC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8379069021691365326",
+        "cites_id": [
+            "8379069021691365326"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tu1132 ASSESSMENT OF AN EARLY VERSION BLOOD BASED MULTIMODAL CFDNA ASSAY FOR THE DETECTION OF COLORECTAL CANCER INCORPORATING THE ASSESSMENT OF CTDNA GENOMIC ALTERATIONS AND \u2026",
+            "pub_year": "2023",
+            "citation": "Gastroenterology 164 (6), S-990, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:Ehil0879vHcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Highly sensitive blood-based multi-cancer screening device with tiered specificity based on diagnostic workflow",
+            "pub_year": "2023",
+            "citation": "Cancer Research 83 (7_Supplement), 3331-3331, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:a3BOlSfXSfwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Author Correction: Tumor aneuploidy predicts survival following immunotherapy across multiple cancers",
+            "pub_year": "2023",
+            "citation": "Nature Genetics 55 (2), 355-355, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:8xutWZnSdmoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods for isolating cell-free dna",
+            "pub_year": "2022",
+            "citation": "US Patent App. 17/389,199, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:yMeIxYmEMEAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Accurate epigenomic estimates of circulating tumor fraction in large-scale clinical data",
+            "pub_year": "2022",
+            "citation": "Lung 276, 203, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:fFSKOagxvKUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-modal blood-based colorectal cancer screening is a viable colorectal cancer screening option\u2013a prospective study",
+            "pub_year": "2022",
+            "citation": "Gastroenterology 162 (7), S42-S43, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:HeT0ZceujKMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Determining tumor fraction for a sample based on methyl binding domain calibration data",
+            "pub_year": "2021",
+            "citation": "US Patent App. 17/219,338, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:cWzG1nlazyYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and systems for improving patient monitoring after surgery",
+            "pub_year": "2021",
+            "citation": "US Patent App. 17/153,742, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:WJVC3Jt7v1AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods, compositions and systems for calibrating epigenetic partitioning assays",
+            "pub_year": "2020",
+            "citation": "US Patent App. 16/670,827, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:FAceZFleit8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P2. 03-06 Detection of ctDNA and Correlation with Tumor Mutation Testing in Early Stage NSCLC",
+            "pub_year": "2019",
+            "citation": "Journal of Thoracic Oncology 14 (10), S684, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:yFnVuubrUp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regional and Cell-Type Specific Reconfiguration of DNA Methylation Patterns During Normal Brain Development and in a Mouse Model of Mental Disorders",
+            "pub_year": "2017",
+            "citation": "NEUROPSYCHOPHARMACOLOGY 43, S352-S353, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:kh2fBNsKQNwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detection of tumor-associated gene inactivation in clinical blood draw via cell-free DNA methylation profiling",
+            "pub_year": "2009",
+            "citation": "Journal of the American Cancer Society 115, 760-769, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "tRsBTUkAAAAJ:KbBQZpvPDL4C",
+        "num_citations": 0
+    }
+]

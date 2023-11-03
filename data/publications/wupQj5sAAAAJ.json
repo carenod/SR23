@@ -1,0 +1,66 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A review of the components of brown seaweeds as potential candidates in cancer therapy",
+            "pub_year": "2016",
+            "citation": "RSC advances 6 (15), 12592-12610, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "wupQj5sAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15903728633115781371",
+        "cites_id": [
+            "15903728633115781371"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TRAIL based therapy: overview of mesenchymal stem cell based delivery and miRNA controlled expression of TRAIL",
+            "pub_year": "2014",
+            "citation": "Asian Pacific Journal of Cancer Prevention 15 (16), 6495-6497, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "wupQj5sAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12540824737312602586",
+        "cites_id": [
+            "12540824737312602586"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome regulates cellular response plasticity and the basic molecular machinery of leaf development",
+            "pub_year": "2021",
+            "citation": "Plant Physiology 186 (2), 1220-1239, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "wupQj5sAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=158156528797309184",
+        "cites_id": [
+            "158156528797309184"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PIF7 controls leaf cell proliferation through an AN3 substitution repression mechanism",
+            "pub_year": "2022",
+            "citation": "Proceedings of the National Academy of Sciences 119 (5), e2115682119, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "wupQj5sAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=46495086759748087",
+        "cites_id": [
+            "46495086759748087"
+        ]
+    }
+]

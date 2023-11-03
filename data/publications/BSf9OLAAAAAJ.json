@@ -1,0 +1,2280 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A general safety framework for learning-based control in uncertain robotic systems",
+            "pub_year": "2018",
+            "citation": "IEEE Transactions on Automatic Control 64 (7), 2737-2752, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:hMod-77fHWUC",
+        "num_citations": 444,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17952535099850367705",
+        "cites_id": [
+            "17952535099850367705"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning-based model predictive control: Toward safe learning in control",
+            "pub_year": "2020",
+            "citation": "Annual Review of Control, Robotics, and Autonomous Systems 3, 269-296, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 443,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17249258266602733459",
+        "cites_id": [
+            "17249258266602733459"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient interior point methods for multistage problems arising in receding horizon control",
+            "pub_year": "2012",
+            "citation": "51st IEEE Conference on Decision and Control, 668-674, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:WF5omc3nYNoC",
+        "num_citations": 415,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13443557382374873615",
+        "cites_id": [
+            "13443557382374873615"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cautious model predictive control using Gaussian process regression",
+            "pub_year": "2019",
+            "citation": "IEEE Transactions on Control Systems Technology 28 (6), 2736-2743, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:TFP_iSt0sucC",
+        "num_citations": 412,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9787021596099524261",
+        "cites_id": [
+            "9787021596099524261"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reachability-based safe learning with Gaussian processes",
+            "pub_year": "2014",
+            "citation": "53rd IEEE Conference on Decision and Control, 1424-1431, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 302,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4936158349441307753",
+        "cites_id": [
+            "4936158349441307753"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning-Based Model Predictive Control for Autonomous Racing",
+            "pub_year": "2019",
+            "citation": "IEEE Robotics and Automation Letters 4 (4), 3363-3370, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 289,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2085475968030411578",
+        "cites_id": [
+            "2085475968030411578"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Real-time suboptimal model predictive control using a combination of explicit MPC and online optimization",
+            "pub_year": "2008",
+            "citation": "47th IEEE Conference on Decision and Control, 4718-4723, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 283,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9220692211361393497,13366084618768942539",
+        "cites_id": [
+            "9220692211361393497",
+            "13366084618768942539"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel computational model of the circadian clock in Arabidopsis that incorporates PRR7 and PRR9",
+            "pub_year": "2006",
+            "citation": "Molecular Systems Biology 2 (1), 2006"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 280,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4693108460368077988,42245483723518707",
+        "cites_id": [
+            "4693108460368077988",
+            "42245483723518707"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Real-time suboptimal model predictive control using a combination of explicit MPC and online optimization",
+            "pub_year": "2011",
+            "citation": "IEEE Transactions on Automatic Control 56 (7), 1524-1534, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 253,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9220692211361393497",
+        "cites_id": [
+            "9220692211361393497"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distributed synthesis and stability of cooperative distributed model predictive control for linear systems",
+            "pub_year": "2016",
+            "citation": "Automatica 69, 117-125, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:mB3voiENLucC",
+        "num_citations": 161,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12777335129160723067",
+        "cites_id": [
+            "12777335129160723067"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On real-time robust model predictive control",
+            "pub_year": "2014",
+            "citation": "Automatica 50 (3), 683-694, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 141,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16344051495110319536",
+        "cites_id": [
+            "16344051495110319536"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linear model predictive safety certification for learning-based control",
+            "pub_year": "2018",
+            "citation": "2018 IEEE Conference on Decision and Control (CDC), 7130-7135, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 139,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9200483415222865948",
+        "cites_id": [
+            "9200483415222865948"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cautious NMPC with gaussian process dynamics for autonomous miniature race cars",
+            "pub_year": "2018",
+            "citation": "2018 European Control Conference (ECC), 1341-1348, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:blknAaTinKkC",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16497648513210083286",
+        "cites_id": [
+            "16497648513210083286"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data-Driven Model Predictive Control for Trajectory Tracking With a Robotic Arm",
+            "pub_year": "2019",
+            "citation": "IEEE Robotics and Automation Letters 4 (4), 3758-3765, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 123,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11774997311650791590",
+        "cites_id": [
+            "11774997311650791590"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Soft Constrained Model Predictive Control With Robust Stability Guarantees",
+            "pub_year": "2014",
+            "citation": "IEEE TRANSACTIONS ON AUTOMATIC CONTROL 59 (5), 1190-1202, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11994776098842378099",
+        "cites_id": [
+            "11994776098842378099"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gaussian Process-Based Predictive Control for Periodic Error Correction",
+            "pub_year": "2015",
+            "citation": "IEEE Transactions on Control Systems Technology 24 (1), 110 - 121, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13555022710794783091",
+        "cites_id": [
+            "13555022710794783091"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A predictive safety filter for learning-based control of constrained nonlinear dynamical systems",
+            "pub_year": "2021",
+            "citation": "Automatica 129, 109597, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11677736607442688162",
+        "cites_id": [
+            "11677736607442688162"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MPC for Tracking Periodic References",
+            "pub_year": "2015",
+            "citation": "IEEE Transactions on Automatic Control 61 (4), 1123-1128, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=762335129815907413",
+        "cites_id": [
+            "762335129815907413"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distributed synthesis and control of constrained linear systems",
+            "pub_year": "2012",
+            "citation": "American Control Conference (ACC), 2012, 6017-6022, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7394172625118173419",
+        "cites_id": [
+            "7394172625118173419"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational aspects of distributed optimization in model predictive control",
+            "pub_year": "2012",
+            "citation": "51st IEEE Annual Conference on Decision and Control (CDC), 6819-6824, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:roLk4NBRz8UC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4956562682105753314",
+        "cites_id": [
+            "4956562682105753314"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probabilistic model predictive safety certification for learning-based control",
+            "pub_year": "2021",
+            "citation": "IEEE Transactions on Automatic Control 67 (1), 176-188, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:RGFaLdJalmkC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1142382600430115493",
+        "cites_id": [
+            "1142382600430115493"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stochastic Model Predictive Control for Linear Systems using Probabilistic Reachable Sets",
+            "pub_year": "2018",
+            "citation": "2018 IEEE Conference on Decision and Control (CDC), 5182-5188, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:BqipwSGYUEgC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6573139353193595964",
+        "cites_id": [
+            "6573139353193595964"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plug and play distributed model predictive control based on distributed invariance and optimization",
+            "pub_year": "2013",
+            "citation": "IEEE 52nd Conference on Decision and Control, 5770-5776, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:5nxA0vEk-isC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13334251151965809666",
+        "cites_id": [
+            "13334251151965809666"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantization Design for Distributed Optimization",
+            "pub_year": "2017",
+            "citation": "IEEE Transactions on Automatic Control 62 (5), 2107-2120, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:dhFuZR0502QC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10361762617808817556",
+        "cites_id": [
+            "10361762617808817556"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recursively feasible stochastic model predictive control using indirect feedback",
+            "pub_year": "2020",
+            "citation": "Automatica 119, 109095, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8701335502172363381",
+        "cites_id": [
+            "8701335502172363381"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recursively Feasible Stochastic Model Predictive Control using Indirect Feedback",
+            "pub_year": "2019",
+            "citation": "arxiv preprint arXiv:1812.06860, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8701335502172363381",
+        "cites_id": [
+            "8701335502172363381"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plug-and-play model predictive control for electric vehicle charging and voltage control in smart grids",
+            "pub_year": "2014",
+            "citation": "53rd IEEE Conference on Decision and Control, 5894-5900, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11983207227620560324",
+        "cites_id": [
+            "11983207227620560324"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Safe exploration of nonlinear dynamical systems: A predictive safety filter for reinforcement learning",
+            "pub_year": "2018",
+            "citation": "arXiv preprint arXiv:1812.05506, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6142597871875337470",
+        "cites_id": [
+            "6142597871875337470"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning a feasible and stabilizing explicit model predictive control law by robust optimization",
+            "pub_year": "2011",
+            "citation": "50th IEEE Conference on Decision and Control, 513 - 519, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2057173328852564345",
+        "cites_id": [
+            "2057173328852564345"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scenario-Based Probabilistic Reachable Sets for Recursively Feasible Stochastic Model Predictive Control",
+            "pub_year": "2019",
+            "citation": "IEEE Control Systems Letters 4 (2), 450-455, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2053030478738212477",
+        "cites_id": [
+            "2053030478738212477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interaction-aware motion prediction for autonomous driving: A multiple model kalman filtering scheme",
+            "pub_year": "2020",
+            "citation": "IEEE Robotics and Automation Letters 6 (1), 80-87, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:yD5IFk8b50cC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4652315616439266634",
+        "cites_id": [
+            "4652315616439266634"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Real-time MPC-Stability through robust MPC design",
+            "pub_year": "2009",
+            "citation": "48th Conference on Decision and Control, 3980-3986, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12888688080949033504",
+        "cites_id": [
+            "12888688080949033504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust Distributed Model Predictive Control of Linear Systems",
+            "pub_year": "2013",
+            "citation": "2013 European Control Conference, 2764-2769, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:UebtZRa9Y70C",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10965685310771517899",
+        "cites_id": [
+            "10965685310771517899"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MPC for tracking periodic reference signals",
+            "pub_year": "2012",
+            "citation": "4th IFAC Nonlinear Model Predictive Control Conference, 490-495, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:ufrVoPGSRksC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2713862308389676004",
+        "cites_id": [
+            "2713862308389676004"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust stability properties of soft constrained MPC",
+            "pub_year": "2010",
+            "citation": "49th IEEE Conference on Decision and Control (CDC), 5276-5282, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9444160290996835921",
+        "cites_id": [
+            "9444160290996835921"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fast Predictive Control: Real-Time Computation and Certification",
+            "pub_year": "2012",
+            "citation": "Nonlinear Model Predictive Control 4 (1), 94-98, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10843258097394936599",
+        "cites_id": [
+            "10843258097394936599"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On simulation and trajectory prediction with gaussian process dynamics",
+            "pub_year": "2020",
+            "citation": "Learning for Dynamics and Control, 424-434, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11505648548915252487",
+        "cites_id": [
+            "11505648548915252487"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Real-time Model Predictive Control",
+            "pub_year": "2011",
+            "citation": "Diss., Eidgen\u00f6ssische Technische Hochschule ETH Z\u00fcrich, Nr. 19524, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16526471562977744138",
+        "cites_id": [
+            "16526471562977744138"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Controller complexity reduction for piecewise affine systems through safe region elimination",
+            "pub_year": "2007",
+            "citation": "46th IEEE Conference on Decision and Control, 4773-4778, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2416993699302874191",
+        "cites_id": [
+            "2416993699302874191"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scalable synthesis of safety certificates from data with application to learning-based control",
+            "pub_year": "2018",
+            "citation": "2018 European Control Conference (ECC), 1691-1697, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:r0BpntZqJG4C",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9740956490944938408",
+        "cites_id": [
+            "9740956490944938408"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Constrained inverse optimal control with application to a human manipulation task",
+            "pub_year": "2019",
+            "citation": "IEEE Transactions on Control Systems Technology, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9703390581247806484",
+        "cites_id": [
+            "9703390581247806484"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plug-and-Play Model Predictive Control for Load Shaping and Voltage Control in Smart Grids",
+            "pub_year": "2017",
+            "citation": "IEEE Transactions on Smart Grid, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:HDshCWvjkbEC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2291292489152970373",
+        "cites_id": [
+            "2291292489152970373"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inexact Fast Alternating Minimization Algorithm for Distributed Model Predictive Control",
+            "pub_year": "2014",
+            "citation": "53rd IEEE Conf. on Decision and Control, 5915 - 5921, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:aqlVkmm33-oC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17318904763180963469",
+        "cites_id": [
+            "17318904763180963469"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Noisy-Input Entropy Search for Efficient Robust Bayesian Optimization",
+            "pub_year": "2020",
+            "citation": "International Conference on Artificial Intelligence and Statistics, 2262-2272, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14162784876647513497",
+        "cites_id": [
+            "14162784876647513497"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fast Alternating Minimization Algorithm for Model Predictive Control",
+            "pub_year": "2014",
+            "citation": "19th IFAC World Congress, 8-24, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14031687168493865490",
+        "cites_id": [
+            "14031687168493865490"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Performance comparison of prediction filters for respiratory motion tracking in radiotherapy",
+            "pub_year": "2020",
+            "citation": "Medical physics 47 (2), 643-650, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11365601527253742872",
+        "cites_id": [
+            "11365601527253742872"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On a Correspondence between Probabilistic and Robust Invariant Sets for Linear Systems",
+            "pub_year": "2018",
+            "citation": "European Control Conference, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:k_IJM867U9cC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4973553563469999361",
+        "cites_id": [
+            "4973553563469999361"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complexity Certification of the Fast Alternating Minimization Algorithm for Linear MPC",
+            "pub_year": "2016",
+            "citation": "IEEE Transactions on Automatic Control, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:TQgYirikUcIC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=573523377488816329",
+        "cites_id": [
+            "573523377488816329"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complexity Certification of the Fast Alternating Minimization Algorithm for Linear Model Predictive Control",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=573523377488816329",
+        "cites_id": [
+            "573523377488816329"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scalable model predictive control for autonomous mobility-on-demand systems",
+            "pub_year": "2019",
+            "citation": "IEEE Transactions on Control Systems Technology 29 (2), 635-644, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12496049317285364720",
+        "cites_id": [
+            "12496049317285364720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Convex Formulations and Algebraic Solutions for Linear Quadratic Inverse Optimal Control Problems",
+            "pub_year": "2018",
+            "citation": "European Control Conference, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:maZDTaKrznsC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14856763249193237602",
+        "cites_id": [
+            "14856763249193237602"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data-driven control of room temperature and bidirectional EV charging using deep reinforcement learning: simulations and experiments",
+            "pub_year": "2022",
+            "citation": "Applied Energy 307, 118127, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:B3FOqHPlNUQC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7519066103051757828",
+        "cites_id": [
+            "7519066103051757828"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nonparametric dynamics estimation for time periodic systems",
+            "pub_year": "2013",
+            "citation": "51st Annual Allerton Conference on Communication, Control, and Computing \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=142281866432880443",
+        "cites_id": [
+            "142281866432880443"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cooperative Distributed Tracking MPC for Constrained Linear Systems: Theory and Synthesis",
+            "pub_year": "2013",
+            "citation": "IEEE 52nd Conference on Decision and Control, 3812 - 3817, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6596829648224895630",
+        "cites_id": [
+            "6596829648224895630"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A System Level Approach to Tube-Based Model Predictive Control",
+            "pub_year": "2021",
+            "citation": "IEEE Control Systems Letters 6, 776-781, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:P5F9QuxV20EC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8613173178245704321",
+        "cites_id": [
+            "8613173178245704321"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A predictive safety filter for learning-based racing control",
+            "pub_year": "2021",
+            "citation": "IEEE Robotics and Automation Letters 6 (4), 7635-7642, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:abG-DnoFyZgC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12094679737523302997",
+        "cites_id": [
+            "12094679737523302997"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distributed model predictive safety certification for learning-based control",
+            "pub_year": "2020",
+            "citation": "IFAC-PapersOnLine 53 (2), 5258-5265, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:35N4QoGY0k4C",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9261546372831259209",
+        "cites_id": [
+            "9261546372831259209"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predictive control barrier functions: Enhanced safety mechanisms for learning-based control",
+            "pub_year": "2022",
+            "citation": "IEEE Transactions on Automatic Control, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16440889112764499418",
+        "cites_id": [
+            "16440889112764499418"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Safe Learning for Distributed Systems with Bounded Uncertainties",
+            "pub_year": "2017",
+            "citation": "IFAC World Congress, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6245044522279494957",
+        "cites_id": [
+            "6245044522279494957"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dual Stochastic MPC for Systems with Parametric and Structural Uncertainty",
+            "pub_year": "2020",
+            "citation": "Learning for Dynamics and Control, 894-903, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15629538723894377781",
+        "cites_id": [
+            "15629538723894377781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fusion of Machine Learning and MPC under Uncertainty: What Advances Are on the Horizon?",
+            "pub_year": "2022",
+            "citation": "2022 American Control Conference (ACC), 342-357, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:5ugPr518TE4C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12341827953152253420",
+        "cites_id": [
+            "12341827953152253420"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A system level approach to regret optimal control",
+            "pub_year": "2022",
+            "citation": "IEEE Control Systems Letters 6, 2792-2797, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:u9iWguZQMMsC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=241477553643815205",
+        "cites_id": [
+            "241477553643815205"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian model predictive control: Efficient model exploration and regret bounds using posterior sampling",
+            "pub_year": "2020",
+            "citation": "Learning for Dynamics and Control, 455-464, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:f2IySw72cVMC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16323195557777603388",
+        "cites_id": [
+            "16323195557777603388"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inverse learning for data-driven calibration of model-based statistical path planning",
+            "pub_year": "2020",
+            "citation": "IEEE Transactions on Intelligent Vehicles 6 (1), 131-145, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=515537904094658179",
+        "cites_id": [
+            "515537904094658179"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Performance and safety of Bayesian model predictive control: Scalable model-based RL with guarantees",
+            "pub_year": "2020",
+            "citation": "arXiv preprint arXiv:2006.03483, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=418598121769788160",
+        "cites_id": [
+            "418598121769788160"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantization design for unconstrained distributed optimization",
+            "pub_year": "2015",
+            "citation": "American Control Conference, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15352188196114565780",
+        "cites_id": [
+            "15352188196114565780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Lyapunov function for robust stability of moving horizon estimation",
+            "pub_year": "2023",
+            "citation": "IEEE Transactions on Automatic Control, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:Tiz5es2fbqcC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5234507276941631943",
+        "cites_id": [
+            "5234507276941631943"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Constrained Spectrum Control",
+            "pub_year": "2014",
+            "citation": "IEEE Transactions on Automatic Control 60 (7), 1969 - 1974, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:Se3iqnhoufwC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10680203194734779188",
+        "cites_id": [
+            "10680203194734779188"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An approximate dynamic programming approach for dual stochastic model predictive control",
+            "pub_year": "2020",
+            "citation": "IFAC-PapersOnLine 53 (2), 8105-8111, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:70eg2SAEIzsC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9888956961016813519",
+        "cites_id": [
+            "9888956961016813519"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spectrogram-MPC: Enforcing hard constraints on systems\u2019 output spectra",
+            "pub_year": "2012",
+            "citation": "American Control Conference, 2010-2017, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1927241237087664023",
+        "cites_id": [
+            "1927241237087664023"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recursively feasible stochastic predictive control using an interpolating initial state constraint",
+            "pub_year": "2022",
+            "citation": "IEEE Control Systems Letters 6, 2743-2748, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:sSrBHYA8nusC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7238776400034844587",
+        "cites_id": [
+            "7238776400034844587"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Meta Learning MPC using Finite-Dimensional Gaussian Process Approximations",
+            "pub_year": "2020",
+            "citation": "arXiv preprint arXiv:2008.05984, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16279652845129344440",
+        "cites_id": [
+            "16279652845129344440"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using Human Ratings for Feedback Control: A Supervised Learning Approach With Application to Rehabilitation Robotics",
+            "pub_year": "2020",
+            "citation": "IEEE Transactions on Robotics 36 (3), 789-801, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3622416731779688453",
+        "cites_id": [
+            "3622416731779688453"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Model Predictive Coverage Control",
+            "pub_year": "2020",
+            "citation": "IFAC-PapersOnLine 53 (2), 6107-6112, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=303321603756520110",
+        "cites_id": [
+            "303321603756520110"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maximum likelihood methods for inverse learning of optimal controllers",
+            "pub_year": "2020",
+            "citation": "IFAC-PapersOnLine 53 (2), 5266-5272, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17110753163956583998",
+        "cites_id": [
+            "17110753163956583998"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantization design for distributed optimization with time-varying parameters",
+            "pub_year": "2015",
+            "citation": "2015 54th IEEE Conference on Decision and Control (CDC), 2037-2042, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:IWHjjKOFINEC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6404432602864815707",
+        "cites_id": [
+            "6404432602864815707"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Knee compliance reduces peak swing phase collision forces in a lower-limb exoskeleton leg: A test bench evaluation",
+            "pub_year": "2020",
+            "citation": "IEEE Transactions on Biomedical Engineering 68 (2), 535-544, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:M05iB0D1s5AC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5972928911530042216",
+        "cites_id": [
+            "5972928911530042216"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning-based Moving Horizon Estimation through Differentiable Convex Optimization Layers",
+            "pub_year": "2022",
+            "citation": "Learning for Dynamics and Control Conference, 153-165, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:p2g8aNsByqUC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17604148570810904402",
+        "cites_id": [
+            "17604148570810904402"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inverse learning for human-adaptive motion planning",
+            "pub_year": "2019",
+            "citation": "2019 IEEE 58th Conference on Decision and Control (CDC), 809-815, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:rO6llkc54NcC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2380956502591735391",
+        "cites_id": [
+            "2380956502591735391"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nonlinear learning\u2010based model predictive control supporting state and input dependent model uncertainty estimates",
+            "pub_year": "2021",
+            "citation": "International Journal of Robust and Nonlinear Control 31 (18), 8897-8915, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:SP6oXDckpogC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12777022556142649956",
+        "cites_id": [
+            "12777022556142649956"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data-driven distributed stochastic model predictive control with closed-loop chance constraint satisfaction",
+            "pub_year": "2021",
+            "citation": "2021 European Control Conference (ECC), 210-215, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:D03iK_w7-QYC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15167697800508905189",
+        "cites_id": [
+            "15167697800508905189"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cautious Bayesian Optimization for Efficient and Scalable Policy Search",
+            "pub_year": "2021",
+            "citation": "Learning for Dynamics and Control, 227-240, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:_xSYboBqXhAC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10738910840800597716",
+        "cites_id": [
+            "10738910840800597716"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian Multi-Task Learning MPC for Robotic Mobile Manipulation",
+            "pub_year": "2023",
+            "citation": "IEEE Robotics and Automation Letters, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:q3oQSFYPqjQC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16293579106811656675",
+        "cites_id": [
+            "16293579106811656675"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stability and performance analysis of NMPC: Detectable stage costs and general terminal costs",
+            "pub_year": "2023",
+            "citation": "IEEE Transactions on Automatic Control, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17337742543478454914",
+        "cites_id": [
+            "17337742543478454914"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "System level disturbance reachable sets and their application to tube-based MPC",
+            "pub_year": "2022",
+            "citation": "European Journal of Control 68, 100680, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:WbkHhVStYXYC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3281640189410653988",
+        "cites_id": [
+            "3281640189410653988"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Model Learning and Contextual Controller Tuning for Autonomous Racing",
+            "pub_year": "2021",
+            "citation": "arXiv preprint arXiv:2110.02710, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:738O_yMBCRsC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4133906728870041414",
+        "cites_id": [
+            "4133906728870041414"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Soft Constrained MPC Formulation Enabling Learning From Trajectories With Constraint Violations",
+            "pub_year": "2021",
+            "citation": "IEEE Control Systems Letters 6, 980-985, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:KxtntwgDAa4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14790719254424412103",
+        "cites_id": [
+            "14790719254424412103"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Design, optimal guidance and control of a low-cost re-usable electric model rocket",
+            "pub_year": "2021",
+            "citation": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems \u2026, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:NhqRSupF_l8C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13806835502574628048",
+        "cites_id": [
+            "13806835502574628048"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inexact Alternating Minimization Algorithm for Distributed Optimization with an Application to Distributed MPC",
+            "pub_year": "2016",
+            "citation": "arXiv preprint arXiv:1608.00413, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4426270557862479374",
+        "cites_id": [
+            "4426270557862479374"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust adaptive MPC using control contraction metrics",
+            "pub_year": "2023",
+            "citation": "Automatica 155, 111169, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:8AbLer7MMksC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1286320151052415045",
+        "cites_id": [
+            "1286320151052415045"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust Nonlinear Optimal Control via System Level Synthesis",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2301.04943, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:bnK-pcrLprsC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14214560689868015561",
+        "cites_id": [
+            "14214560689868015561"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptive Model Predictive Safety Certification for Learning-based Control",
+            "pub_year": "2021",
+            "citation": "2021 60th IEEE Conference on Decision and Control (CDC), 809-815, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=709906458806226747",
+        "cites_id": [
+            "709906458806226747"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Volume control of low-cost ventilator with automatic set-point adaptation",
+            "pub_year": "2021",
+            "citation": "2021 European Control Conference (ECC), 781-786, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8852240210552991881",
+        "cites_id": [
+            "8852240210552991881"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian optimization for policy search in high-dimensional systems via automatic domain selection",
+            "pub_year": "2019",
+            "citation": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8405342405492467351",
+        "cites_id": [
+            "8405342405492467351"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ideal couch tracking system\u2014Requirements and evaluation of current systems",
+            "pub_year": "2019",
+            "citation": "Journal of applied clinical medical physics 20 (10), 152-159, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:ldfaerwXgEUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13759215133924509477",
+        "cites_id": [
+            "13759215133924509477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distributed Differentially Private Model Predictive Control for Energy Storage",
+            "pub_year": "2017",
+            "citation": "IFAC World Congress, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7777623801860624126",
+        "cites_id": [
+            "7777623801860624126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Utility learning model predictive control for personal electric loads",
+            "pub_year": "2014",
+            "citation": "53rd IEEE Conference on Decision and Control, 4868-4874, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13494505589680684050",
+        "cites_id": [
+            "13494505589680684050"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Approximate predictive control barrier functions using neural networks: A computationally cheap and permissive safety filter",
+            "pub_year": "2023",
+            "citation": "2023 European Control Conference (ECC), 1-7, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:D_sINldO8mEC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10448308288008461428",
+        "cites_id": [
+            "10448308288008461428"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On-Policy Model Errors in Reinforcement Learning",
+            "pub_year": "2021",
+            "citation": "arXiv preprint arXiv:2110.07985, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:tOudhMTPpwUC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8081725540215247086",
+        "cites_id": [
+            "8081725540215247086"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data-Driven Investigation of Gait Patterns in Individuals Affected by Normal Pressure Hydrocephalus",
+            "pub_year": "2021",
+            "citation": "Sensors 21 (19), 6451, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:08ZZubdj9fEC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8432489264935866989",
+        "cites_id": [
+            "8432489264935866989"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Performance Analysis of Stochastic Model Predictive Control with Direct and Indirect Feedback",
+            "pub_year": "2020",
+            "citation": "2020 59th IEEE Conference on Decision and Control (CDC), 672-678, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7415533659975386118",
+        "cites_id": [
+            "7415533659975386118"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data-Driven Distributed Stochastic Model Predictive Control with Closed-Loop Chance Constraint Satisfaction",
+            "pub_year": "2020",
+            "citation": "arXiv preprint arXiv:2004.02907, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:u_35RYKgDlwC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13701042946159649823",
+        "cites_id": [
+            "13701042946159649823"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Feasible Sequential Linear Programming Algorithm with Application to Time-Optimal Path Planning Problems",
+            "pub_year": "2022",
+            "citation": "2022 IEEE 61st Conference on Decision and Control (CDC), 1196-1203, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7345051486615776634",
+        "cites_id": [
+            "7345051486615776634"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "State space models vs. multi-step predictors in predictive control: Are state space models complicating safe data-driven designs?",
+            "pub_year": "2022",
+            "citation": "2022 IEEE 61st Conference on Decision and Control (CDC), 491-498, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8078392355662078730",
+        "cites_id": [
+            "8078392355662078730"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contextual Tuning of Model Predictive Control for Autonomous Racing",
+            "pub_year": "2022",
+            "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems \u2026, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15582018038078337264",
+        "cites_id": [
+            "15582018038078337264"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian multi-task learning using finite-dimensional models: A comparative study",
+            "pub_year": "2021",
+            "citation": "2021 60th IEEE Conference on Decision and Control (CDC), 2218-2225, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:vRqMK49ujn8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15418823565618529281",
+        "cites_id": [
+            "15418823565618529281"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plug-and-Play Distributed Safety Verification for Linear Control Systems With Bounded Uncertainties",
+            "pub_year": "2021",
+            "citation": "IEEE Transactions on Control of Network Systems 8 (3), 1501-1512, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15595441045379837332",
+        "cites_id": [
+            "15595441045379837332"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A System Level Approach to Robust Model Predictive Control",
+            "pub_year": "2021",
+            "citation": "arXiv preprint arXiv:2103.02460, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18009129526510851680",
+        "cites_id": [
+            "18009129526510851680"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predictive Modeling by Infinite-Horizon Constrained Inverse Optimal Control with Application to a Human Manipulation Task",
+            "pub_year": "2018",
+            "citation": "arXiv preprint arXiv:1812.11600, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:GnPB-g6toBAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7493191669588046892",
+        "cites_id": [
+            "7493191669588046892"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Body motion during dynamic couch tracking with healthy volunteers",
+            "pub_year": "2018",
+            "citation": "Physics in Medicine & Biology 64 (1), 015001, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1268546561647046474",
+        "cites_id": [
+            "1268546561647046474"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A User Comfort Model and Index Policy for Personalizing Discrete Controller Decisions",
+            "pub_year": "2018",
+            "citation": "European Control Conference, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10687900959335751725",
+        "cites_id": [
+            "10687900959335751725"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unconscious physiological response of healthy volunteers to dynamic respiration-synchronized couch motion",
+            "pub_year": "2017",
+            "citation": "Radiation Oncology 12, 1-7, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14990602672547757053",
+        "cites_id": [
+            "14990602672547757053"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiparametric linear programming for control",
+            "pub_year": "2008",
+            "citation": "2008 27th Chinese Control Conference, 2-4, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12749184281932968292",
+        "cites_id": [
+            "12749184281932968292"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stochastic MPC with robustness to bounded parametric uncertainty",
+            "pub_year": "2023",
+            "citation": "IEEE Transactions on Automatic Control, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:geHnlv5EZngC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16755956081206101186",
+        "cites_id": [
+            "16755956081206101186"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predictive safety filter using system level synthesis",
+            "pub_year": "2023",
+            "citation": "Learning for Dynamics and Control Conference, 1180-1192, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13325890475492107254",
+        "cites_id": [
+            "13325890475492107254"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-agent Distributed Model Predictive Control with Connectivity Constraint",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2303.06957, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:WA5NYHcadZ8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5143655732413310665",
+        "cites_id": [
+            "5143655732413310665"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Near-Optimal Multi-Agent Learning for Safe Coverage Control",
+            "pub_year": "2022",
+            "citation": "Advances in Neural Information Processing Systems 35, 14998-15012, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9831092712630856956",
+        "cites_id": [
+            "9831092712630856956"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic Design, Control, and Parametric Testing of an Automated Resuscitator Bag Mechanical Ventilator",
+            "pub_year": "2021",
+            "citation": "Journal of Mechanical Design 143 (12), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:dshw04ExmUIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1070136670004640754",
+        "cites_id": [
+            "1070136670004640754"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Performance behavior of prediction filters for respiratory motion compensation in radiotherapy",
+            "pub_year": "2017",
+            "citation": "Current Directions in Biomedical Engineering 3 (2), 429-432, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8169094491535597591",
+        "cites_id": [
+            "8169094491535597591"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Approximate Dual Control Maintaining the Value of Information with an Application to Building Control",
+            "pub_year": "2016",
+            "citation": "European Control Conference, 800\u2013806, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11106920956840518681",
+        "cites_id": [
+            "11106920956840518681"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LQG for constrained linear systems: Indirect feedback stochastic MPC with Kalman filtering",
+            "pub_year": "2023",
+            "citation": "2023 European Control Conference (ECC), 1-7, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:eflP2zaiRacC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11201666682421993767",
+        "cites_id": [
+            "11201666682421993767"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chronos and CRS: Design of a miniature car-like robot and a software framework for single and multi-agent robotics and control",
+            "pub_year": "2023",
+            "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 1371-1378, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:BrmTIyaxlBUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13632594518690000394",
+        "cites_id": [
+            "13632594518690000394"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Active Learning-based Model Predictive Coverage Control",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2303.09910, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:HE397vMXCloC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4162628749508011555",
+        "cites_id": [
+            "4162628749508011555"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Error analysis of regularized trigonometric linear regression with unbounded sampling: a statistical learning viewpoint",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2303.09206, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:AXPGKjj_ei8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8796814407642889082",
+        "cites_id": [
+            "8796814407642889082"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Asynchronous Computation of Tube-based Model Predictive Control",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2211.13725, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16850583759349835186",
+        "cites_id": [
+            "16850583759349835186"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cautious Bayesian MPC: Regret Analysis and Bounds on the Number of Unsafe Learning Episodes",
+            "pub_year": "2022",
+            "citation": "IEEE Transactions on Automatic Control, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:1qzjygNMrQYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12600250564076802002",
+        "cites_id": [
+            "12600250564076802002"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insights of posture dependent pressure characteristics in five rats",
+            "pub_year": "2021",
+            "citation": "Current Directions in Biomedical Engineering 7 (2), 799-802, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:XiSMed-E-HIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=656580499288366484",
+        "cites_id": [
+            "656580499288366484"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptive Model Predictive Safety Certification for Learning-based Control--Extended Version",
+            "pub_year": "2021",
+            "citation": "arXiv preprint arXiv:2109.13033, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:kRWSkSYxWN8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15946463108367221630",
+        "cites_id": [
+            "15946463108367221630"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kernel Design for Gaussian Mixture Models in Direct Policy Search",
+            "pub_year": "2021",
+            "citation": "Robotics: Science and Systems Conference (RSS) Workshop on Geometry and \u2026, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1604335385452946913",
+        "cites_id": [
+            "1604335385452946913"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distributed Safe Learning using an Invariance-based Safety Framework",
+            "pub_year": "2021",
+            "citation": "IFAC-PapersOnLine 54 (9), 95-102, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:a0OBvERweLwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16022345138773695629",
+        "cites_id": [
+            "16022345138773695629"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Input-To-State Stabilization of Low-Complexity Model Predictive Controllers for Linear Systems",
+            "pub_year": "2011",
+            "citation": "50th IEEE Conference on Decision and Control, 482 - 488, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6559181583629854697",
+        "cites_id": [
+            "6559181583629854697"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Zero-Order Optimization for Gaussian Process-based Model Predictive Control",
+            "pub_year": "2023",
+            "citation": "European Journal of Control, 100862, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:LPZeul_q3PIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time Dependent Inverse Optimal Control using Trigonometric Basis Functions",
+            "pub_year": "2023",
+            "citation": "Learning for Dynamics and Control Conference, 1193-1204, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:_B80troHkn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Model Predictive Control for Multi-Agent Systems under Limited Communication and Time-Varying Network Topology",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2304.01649, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:Mojj43d5GZwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust Optimal Control for Nonlinear Systems with Parametric Uncertainties via System Level Synthesis",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2304.00752, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:eMMeJKvmdy0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On stochastic MPC formulations with closed-loop guarantees: Analysis and a unifying framework",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2304.00069, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:Y5dfb0dijaUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of ventricular volume changes for hydrocephalus treatment",
+            "pub_year": "2023",
+            "citation": "Proceedings on Automation in Medical Engineering 2 (1), 738-738, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:t6usbXjVLHcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LQG for Constrained Linear Systems: Indirect Feedback Stochastic MPC with Kalman Filtering-Accompanying Code",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:tkaPQYYpVKoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "VIEshunt: towards a smart shunt system for hydrocephalus patients",
+            "pub_year": "2023",
+            "citation": "Abstracts from Hydrocephalus 2022: the Fourteenth Meeting of the \u2026, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:J-pR_7NvFogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generalised Regret Optimal Controller Synthesis for Constrained Systems",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2211.08101, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Globally stable and locally optimal model predictive control using a softened initial state constraint--extended version",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2207.10216, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P65: Dual-modality Volume Estimation And Its Impact On A Preload-Sensitive Controller",
+            "pub_year": "2022",
+            "citation": "ASAIO Journal 68 (Supplement 2), 130, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:XiVPGOgt02cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recursively feasible stochastic predictive control using an interpolating initial state constraint--extended version",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2203.01073, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data-driven MIMO control of room temperature and bidirectional EV charging using deep reinforcement learning: simulation and experiments",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:UxriW0iASnsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proceedings of the 3rd Conference on Learning for Dynamics and Control",
+            "pub_year": "2021",
+            "citation": "Proceedings of Machine Learning Research 144, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:olpn-zPbct0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scalable MPC Design",
+            "pub_year": "2019",
+            "citation": "Handbook of Model Predictive Control, 259-283, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "BSf9OLAAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 0
+    }
+]

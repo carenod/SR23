@@ -1,0 +1,2939 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efflux-dependent auxin gradients establish the apical\u2013basal axis of Arabidopsis",
+            "pub_year": "2003",
+            "citation": "Nature 426 (6963), 147-153, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 2064,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3393776764753184774",
+        "cites_id": [
+            "3393776764753184774"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant development is regulated by a family of auxin receptor F box proteins",
+            "pub_year": "2005",
+            "citation": "Developmental cell 9 (1), 109-119, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12976264062973208422",
+        "cites_id": [
+            "12976264062973208422"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A PINOID-dependent binary switch in apical-basal PIN polar targeting directs auxin efflux",
+            "pub_year": "2004",
+            "citation": "Science 306 (5697), 862-865, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 882,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17581138912079609443",
+        "cites_id": [
+            "17581138912079609443"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antagonistic regulation of PIN phosphorylation by PP2A and PINOID directs auxin flux",
+            "pub_year": "2007",
+            "citation": "Cell 130 (6), 1044-1056, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 760,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14953390462629295119",
+        "cites_id": [
+            "14953390462629295119"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cytokinins act directly on lateral root founder cells to inhibit root initiation",
+            "pub_year": "2007",
+            "citation": "The Plant Cell 19 (12), 3889-3900, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 659,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11468901847849992989",
+        "cites_id": [
+            "11468901847849992989"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "miR390, Arabidopsis TAS3 tasiRNAs, and Their AUXIN RESPONSE FACTOR Targets Define an Autoregulatory Network Quantitatively Regulating Lateral Root \u2026",
+            "pub_year": "2010",
+            "citation": "The Plant Cell 22 (4), 1104-1117, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 588,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13854802884906909600",
+        "cites_id": [
+            "13854802884906909600"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MONOPTEROS controls embryonic root initiation by regulating a mobile transcription factor",
+            "pub_year": "2010",
+            "citation": "Nature 464 (7290), 913-916, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 576,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2923256867054972726",
+        "cites_id": [
+            "2923256867054972726"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The PINOID protein kinase regulates organ development in Arabidopsis by enhancing polar auxin transport",
+            "pub_year": "2001",
+            "citation": "Oxford University Press for The Company of Biologists Limited 128 (20), 4057 \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 558,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10404416561910587773",
+        "cites_id": [
+            "10404416561910587773"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel aux/IAA28 signaling cascade activates GATA23-dependent specification of lateral root founder cell identity",
+            "pub_year": "2010",
+            "citation": "Current Biology 20 (19), 1697-1706, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:0EnyYjriUFMC",
+        "num_citations": 478,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7463873410618891814",
+        "cites_id": [
+            "7463873410618891814"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developmental specificity of auxin response by pairs of ARF and Aux/IAA transcriptional regulators",
+            "pub_year": "2005",
+            "citation": "The EMBO journal 24 (10), 1874-1885, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:qjMakFHDy7sC",
+        "num_citations": 417,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13019277361202095",
+        "cites_id": [
+            "13019277361202095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional responses to the auxin hormone",
+            "pub_year": "2016",
+            "citation": "Annual review of plant biology 67, 539-574, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:a0OBvERweLwC",
+        "num_citations": 409,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16557987661215896516",
+        "cites_id": [
+            "16557987661215896516"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural basis for DNA binding specificity by the auxin-dependent ARF transcription factors",
+            "pub_year": "2014",
+            "citation": "Cell 156 (3), 577-589, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 387,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16342121745037104363",
+        "cites_id": [
+            "16342121745037104363"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reporters for sensitive and quantitative measurement of auxin response",
+            "pub_year": "2015",
+            "citation": "Nature methods 12 (3), 207-210, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 386,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8840885496040268099",
+        "cites_id": [
+            "8840885496040268099"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin triggers transient local signaling for cell specification in Arabidopsis embryogenesis",
+            "pub_year": "2006",
+            "citation": "Developmental cell 10 (2), 265-270, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 371,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5429626472477344712",
+        "cites_id": [
+            "5429626472477344712"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A mutually inhibitory interaction between auxin and cytokinin specifies vascular pattern in roots",
+            "pub_year": "2011",
+            "citation": "Current biology 21 (11), 917-926, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 358,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8439283664849422349",
+        "cites_id": [
+            "8439283664849422349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Arabidopsis Minute-like phenotype caused by a semi-dominant mutation in a RIBOSOMAL PROTEIN S5 gene",
+            "pub_year": "2001",
+            "citation": "Oxford University Press for The Company of Biologists Limited 128 (21), 4289 \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 349,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13732540879415097467",
+        "cites_id": [
+            "13732540879415097467"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integration of growth and patterning during vascular tissue formation in Arabidopsis",
+            "pub_year": "2014",
+            "citation": "Science 345 (6197), 1255215, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:hMod-77fHWUC",
+        "num_citations": 315,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9103505019980761287",
+        "cites_id": [
+            "9103505019980761287"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin control of embryo patterning",
+            "pub_year": "2009",
+            "citation": "Cold Spring Harbor perspectives in biology 1 (5), a001545, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:Se3iqnhoufwC",
+        "num_citations": 312,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14672996178240813010",
+        "cites_id": [
+            "14672996178240813010"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Organizer-derived WOX5 signal maintains root columella stem cells through chromatin-mediated repression of CDF4 expression",
+            "pub_year": "2015",
+            "citation": "Developmental cell 33 (5), 576-588, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 307,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1531178837555713635",
+        "cites_id": [
+            "1531178837555713635"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bimodular auxin response controls organogenesis in Arabidopsis",
+            "pub_year": "2010",
+            "citation": "Proceedings of the National Academy of Sciences 107 (6), 2705-2710, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 307,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5083280871497841925",
+        "cites_id": [
+            "5083280871497841925"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A bHLH complex controls embryonic vascular tissue establishment and indeterminate growth in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "Developmental cell 24 (4), 426-437, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 291,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5559244880870990365",
+        "cites_id": [
+            "5559244880870990365"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant vascular development: from early specification to differentiation",
+            "pub_year": "2016",
+            "citation": "Nature reviews Molecular cell biology 17 (1), 30-40, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:rO6llkc54NcC",
+        "num_citations": 241,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9161903178853579322",
+        "cites_id": [
+            "9161903178853579322"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A cellular expression map of the Arabidopsis AUXIN RESPONSE FACTOR gene family",
+            "pub_year": "2011",
+            "citation": "The Plant Journal 68 (4), 597-606, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 237,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13060725918517058081",
+        "cites_id": [
+            "13060725918517058081"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic control of plant development by overriding a geometric division rule",
+            "pub_year": "2014",
+            "citation": "Developmental cell 29 (1), 75-87, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:k_IJM867U9cC",
+        "num_citations": 229,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1030010942887833558",
+        "cites_id": [
+            "1030010942887833558"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local auxin sources orient the apical-basal axis in Arabidopsis embryos",
+            "pub_year": "2013",
+            "citation": "Current Biology 23 (24), 2506-2512, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 220,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3053159451927891827",
+        "cites_id": [
+            "3053159451927891827"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RIdeogram: drawing SVG graphics to visualize and map genome-wide data on the idiograms",
+            "pub_year": "2020",
+            "citation": "PeerJ Computer Science 6, e251, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:VL0QpB8kHFEC",
+        "num_citations": 209,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14010552627377965684",
+        "cites_id": [
+            "14010552627377965684"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Different auxin response machineries control distinct cell fates in the early plant embryo",
+            "pub_year": "2012",
+            "citation": "Developmental cell 22 (1), 211-222, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 207,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3299281548604838787",
+        "cites_id": [
+            "3299281548604838787"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Building a plant: cell fate specification in the early Arabidopsis embryo",
+            "pub_year": "2015",
+            "citation": "Development 142 (3), 420-430, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:GnPB-g6toBAC",
+        "num_citations": 204,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8327606052332625084",
+        "cites_id": [
+            "8327606052332625084"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Anthoceros genomes illuminate the origin of land plants and the unique biology of hornworts",
+            "pub_year": "2020",
+            "citation": "Nature plants 6 (3), 259-272, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:t7zJ5fGR-2UC",
+        "num_citations": 192,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3192204013792362532",
+        "cites_id": [
+            "3192204013792362532"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cyclophilin 40 is required for microRNA activity in Arabidopsis",
+            "pub_year": "2009",
+            "citation": "Proceedings of the National Academy of Sciences 106 (13), 5424-5429, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:UebtZRa9Y70C",
+        "num_citations": 180,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17456025325496222405",
+        "cites_id": [
+            "17456025325496222405"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DORNRO\u0308SCHEN is a direct target of the auxin response factor MONOPTEROS in the Arabidopsis embryo",
+            "pub_year": "2009",
+            "citation": "Oxford University Press for The Company of Biologists Limited 136 (10), 1643 \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:roLk4NBRz8UC",
+        "num_citations": 178,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15799444076403736501",
+        "cites_id": [
+            "15799444076403736501"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Origin and evolution of the nuclear auxin response system",
+            "pub_year": "2018",
+            "citation": "Elife 7, e33399, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 176,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4772670313193582626",
+        "cites_id": [
+            "4772670313193582626"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maintenance of Embryonic Auxin Distribution for Apical-Basal Patterning by PIN-FORMED\u2013Dependent Auxin Transport in Arabidopsis",
+            "pub_year": "2005",
+            "citation": "The Plant Cell 17 (9), 2517-2526, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 166,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14784770294645203845",
+        "cites_id": [
+            "14784770294645203845"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin response factors: output control in auxin biology",
+            "pub_year": "2018",
+            "citation": "Journal of experimental botany 69 (2), 179-188, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:XiSMed-E-HIC",
+        "num_citations": 156,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16775689248305259739",
+        "cites_id": [
+            "16775689248305259739"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin and embryo axis formation: the ends in sight?",
+            "pub_year": "2005",
+            "citation": "Current opinion in plant biology 8 (1), 32-37, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 150,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12795500012854633900",
+        "cites_id": [
+            "12795500012854633900"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of plant hormone response pathways",
+            "pub_year": "2020",
+            "citation": "Annual Review of Plant Biology 71, 327-353, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:VLnqNzywnoUC",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8168151264737967241",
+        "cites_id": [
+            "8168151264737967241"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mis-expression of the CLV3/ESR-like gene CLE19 in Arabidopsis leads to a consumption of root meristem",
+            "pub_year": "2004",
+            "citation": "Gene 327 (1), 37-49, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11527484844923889589",
+        "cites_id": [
+            "11527484844923889589"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The AP-3 adaptor complex is required for vacuolar function in Arabidopsis",
+            "pub_year": "2011",
+            "citation": "Cell research 21 (12), 1711-1722, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 134,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17545314366974050259",
+        "cites_id": [
+            "17545314366974050259"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An integrative model of the control of ovule primordia formation",
+            "pub_year": "2013",
+            "citation": "The Plant Journal 76 (3), 446-455, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:TQgYirikUcIC",
+        "num_citations": 131,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7531935066885274180",
+        "cites_id": [
+            "7531935066885274180"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diphtheria toxin-mediated cell ablation reveals interregional communication during Arabidopsis seed development",
+            "pub_year": "2003",
+            "citation": "Plant Physiology 133 (4), 1882-1892, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:ufrVoPGSRksC",
+        "num_citations": 130,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9645319186100380246",
+        "cites_id": [
+            "9645319186100380246"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Early paternal gene activity in Arabidopsis",
+            "pub_year": "2001",
+            "citation": "Nature 414 (6865), 709-710, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:URolC5Kub84C",
+        "num_citations": 129,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11496146003171177639,2278439797307504432,15965913645099830504",
+        "cites_id": [
+            "11496146003171177639",
+            "2278439797307504432",
+            "15965913645099830504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A noncanonical auxin-sensing mechanism is required for organ morphogenesis in Arabidopsis",
+            "pub_year": "2016",
+            "citation": "Genes & development 30 (20), 2286-2296, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:NhqRSupF_l8C",
+        "num_citations": 126,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8065475802462333448",
+        "cites_id": [
+            "8065475802462333448"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A versatile set of ligation-independent cloning vectors for functional studies in plants",
+            "pub_year": "2011",
+            "citation": "Plant physiology 156 (3), 1292-1299, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:_kc_bZDykSQC",
+        "num_citations": 126,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=64716067095569850",
+        "cites_id": [
+            "64716067095569850"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant embryogenesis requires AUX/LAX-mediated auxin influx",
+            "pub_year": "2015",
+            "citation": "Development 142 (4), 702-711, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 124,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5872180283660764909",
+        "cites_id": [
+            "5872180283660764909"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Q&A: Auxin: the plant molecule that influences almost anything",
+            "pub_year": "2016",
+            "citation": "BMC biology 14 (1), 1-5, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:abG-DnoFyZgC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2908729065568482470",
+        "cites_id": [
+            "2908729065568482470"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cytokinin response factors regulate PIN-FORMED auxin transporters",
+            "pub_year": "2015",
+            "citation": "Nature communications 6 (1), 8717, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 116,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3088442075535605370",
+        "cites_id": [
+            "3088442075535605370"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell surface and intracellular auxin signalling for H+ fluxes in root growth",
+            "pub_year": "2021",
+            "citation": "Nature 599 (7884), 273-277, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:ML0RJ9NH7IQC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5546961851916401930",
+        "cites_id": [
+            "5546961851916401930"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin: small molecule, big impact",
+            "pub_year": "2018",
+            "citation": "Journal of Experimental Botany 69 (2), 133-136, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:BrmTIyaxlBUC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11237419790833461610",
+        "cites_id": [
+            "11237419790833461610"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A bHLH-based feedback loop restricts vascular cell proliferation in plants",
+            "pub_year": "2015",
+            "citation": "Developmental cell 35 (4), 432-443, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5650293089964327067",
+        "cites_id": [
+            "5650293089964327067"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Funneling auxin action: specificity in signal transduction",
+            "pub_year": "2004",
+            "citation": "Current opinion in plant biology 7 (6), 687-693, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:WF5omc3nYNoC",
+        "num_citations": 95,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10786002519374264288",
+        "cites_id": [
+            "10786002519374264288"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting gene regulatory networks by combining spatial and temporal gene expression data in Arabidopsis root stem cells",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (36), E7632-E7640, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:geHnlv5EZngC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14088012805188746467",
+        "cites_id": [
+            "14088012805188746467"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiple PPR protein interactions are involved in the RNA editing system in Arabidopsis mitochondria and plastids",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (33), 8883-8888, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12377526833725705490",
+        "cites_id": [
+            "12377526833725705490"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Boosting LPMO-driven lignocellulose degradation by polyphenol oxidase-activated lignin building blocks",
+            "pub_year": "2017",
+            "citation": "Biotechnology for biofuels 10 (1), 1-16, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:WbkHhVStYXYC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3984353469162635321",
+        "cites_id": [
+            "3984353469162635321"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A roadmap to embryo identity in plants",
+            "pub_year": "2014",
+            "citation": "Trends in Plant Science 19 (11), 709-716, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:blknAaTinKkC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11525202829711400561",
+        "cites_id": [
+            "11525202829711400561"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A PXY-mediated transcriptional network integrates signaling mechanisms to control vascular development in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "The Plant Cell 32 (2), 319-335, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:_Re3VWB3Y0AC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3799430878615092787",
+        "cites_id": [
+            "3799430878615092787"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The A rabidopsis embryo as a miniature morphogenesis model",
+            "pub_year": "2013",
+            "citation": "New Phytologist 199 (1), 14-25, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:qUcmZB5y_30C",
+        "num_citations": 85,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14398838540447429705",
+        "cites_id": [
+            "14398838540447429705"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin response cell-autonomously controls ground tissue initiation in the early Arabidopsis embryo",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (12), E2533-E2539, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8511274479530623994",
+        "cites_id": [
+            "8511274479530623994"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AXL and AXR1 have redundant functions in RUB conjugation and growth and development in Arabidopsis",
+            "pub_year": "2007",
+            "citation": "The Plant Journal 52 (1), 114-123, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:5nxA0vEk-isC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3199909211032493464",
+        "cites_id": [
+            "3199909211032493464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of auxin signaling in early embryo pattern formation",
+            "pub_year": "2015",
+            "citation": "Current opinion in plant biology 28, 99-105, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=936588715428869309",
+        "cites_id": [
+            "936588715428869309"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quiescent center initiation in the Arabidopsis lateral root primordia is dependent on the SCARECROW transcription factor",
+            "pub_year": "2016",
+            "citation": "Development 143 (18), 3363-3371, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10784169228520137836",
+        "cites_id": [
+            "10784169228520137836"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A SOSEKI-based coordinate system interprets global polarity cues in Arabidopsis",
+            "pub_year": "2019",
+            "citation": "Nature plants 5 (2), 160-166, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:AXPGKjj_ei8C",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2345687553269490773",
+        "cites_id": [
+            "2345687553269490773"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptome dynamics revealed by a gene expression atlas of the early Arabidopsis embryo",
+            "pub_year": "2017",
+            "citation": "Nature Plants 3 (11), 894-904, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8568814382752609176",
+        "cites_id": [
+            "8568814382752609176"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin enters the matrix\u2014assembly of response machineries for specific outputs",
+            "pub_year": "2009",
+            "citation": "Current opinion in plant biology 12 (5), 520-526, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:8k81kl-MbHgC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12744792584637898941",
+        "cites_id": [
+            "12744792584637898941"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tissue and organ initiation in the plant embryo: a first time for everything",
+            "pub_year": "2016",
+            "citation": "Annual Review of Cell and Developmental Biology 32, 47-75, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:u_35RYKgDlwC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2226481326769330626",
+        "cites_id": [
+            "2226481326769330626"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A plausible microtubule-based mechanism for cell division orientation in plant embryogenesis",
+            "pub_year": "2018",
+            "citation": "Current Biology 28 (19), 3031-3043. e2, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:bnK-pcrLprsC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10654321326312773350",
+        "cites_id": [
+            "10654321326312773350"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Design principles of a minimal auxin response system",
+            "pub_year": "2020",
+            "citation": "Nature Plants 6 (5), 473-482, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:ZuybSZzF8UAC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11514761449282279431",
+        "cites_id": [
+            "11514761449282279431"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Green beginnings\u2013pattern formation in the early plant embryo",
+            "pub_year": "2010",
+            "citation": "Current topics in developmental biology 91, 1-27, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=291556586419332381",
+        "cites_id": [
+            "291556586419332381"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In vivo identification of plant protein complexes using IP-MS/MS",
+            "pub_year": "2017",
+            "citation": "Plant hormones: methods and protocols, 147-158, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6714956514198191977",
+        "cites_id": [
+            "6714956514198191977"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of nuclear auxin signaling: lessons from genetic studies with basal land plants",
+            "pub_year": "2018",
+            "citation": "Journal of Experimental Botany 69 (2), 291-301, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12838590059476668696",
+        "cites_id": [
+            "12838590059476668696"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diversity of cis-regulatory elements associated with auxin response in Arabidopsis thaliana",
+            "pub_year": "2018",
+            "citation": "Journal of experimental botany 69 (2), 329-339, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:vRqMK49ujn8C",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13976630780133530285",
+        "cites_id": [
+            "13976630780133530285"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tightly controlled WRKY23 expression mediates Arabidopsis embryo development",
+            "pub_year": "2013",
+            "citation": "EMBO reports 14 (12), 1136-1142, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17827186196618437900",
+        "cites_id": [
+            "17827186196618437900"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SnapShot: auxin signaling and transport",
+            "pub_year": "2009",
+            "citation": "Cell 136 (6), 1172-1172. e1, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12070680988248127981",
+        "cites_id": [
+            "12070680988248127981"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ABP1\u2013TMK auxin perception for global phosphorylation and auxin canalization",
+            "pub_year": "2022",
+            "citation": "Nature 609 (7927), 575-581, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:HbR8gkJAVGIC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=651832654177036567",
+        "cites_id": [
+            "651832654177036567"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Architecture of DNA elements mediating ARF transcription factor binding and auxin-responsive gene expression in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (39), 24557-24566, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:zLWjf1WUPmwC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12478580106403278082",
+        "cites_id": [
+            "12478580106403278082"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcriptional landscape of polyploid wheats and their diploid ancestors during embryogenesis and grain development",
+            "pub_year": "2019",
+            "citation": "The Plant Cell 31 (12), 2888-2911, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:hkOj_22Ku90C",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16045819226874386680",
+        "cites_id": [
+            "16045819226874386680"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Framework for gradual progression of cell ontogeny in the Arabidopsis root meristem",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (42), E8922-E8929, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9110640357954367656",
+        "cites_id": [
+            "9110640357954367656"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complete microviscosity maps of living plant cells and tissues with a toolbox of targeting mechanoprobes",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (30), 18110-18118, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:uc_IGeMz5qoC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17789852956263581630",
+        "cites_id": [
+            "17789852956263581630"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DIX domain polymerization drives assembly of plant cell polarity complexes",
+            "pub_year": "2020",
+            "citation": "Cell 180 (3), 427-439. e12, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:j8SEvjWlNXcC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11328668990481247960",
+        "cites_id": [
+            "11328668990481247960"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The developmental and environmental regulation of gravitropic setpoint angle in Arabidopsis and bean",
+            "pub_year": "2017",
+            "citation": "Scientific Reports 7 (1), 42664, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15142804334317930234",
+        "cites_id": [
+            "15142804334317930234"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of embryonic meristem initiation in Arabidopsis by PHD-finger protein complexes",
+            "pub_year": "2012",
+            "citation": "Development 139 (8), 1391-1398, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17061585231887061185",
+        "cites_id": [
+            "17061585231887061185"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomics approaches in the early Arabidopsis embryo",
+            "pub_year": "2013",
+            "citation": "Trends in Plant Science 18 (9), 514-521, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:mB3voiENLucC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3280429159327724318",
+        "cites_id": [
+            "3280429159327724318"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Apical\u2013basal polarity: why plant cells don't standon their heads",
+            "pub_year": "2006",
+            "citation": "Trends in plant science 11 (1), 12-14, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4393322826525209744",
+        "cites_id": [
+            "4393322826525209744"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The anaphase\u2010promoting complex initiates zygote division in Arabidopsis through degradation of cyclin B1",
+            "pub_year": "2016",
+            "citation": "The Plant Journal 86 (2), 161-174, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14675645517154449429",
+        "cites_id": [
+            "14675645517154449429"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Theoretical approaches to understanding root vascular patterning: a consensus between recent models",
+            "pub_year": "2017",
+            "citation": "Journal of experimental botany 68 (1), 5-16, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=626768441879459383",
+        "cites_id": [
+            "626768441879459383"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A robust auxin response network controls embryo and suspensor development through a basic helix loop helix transcriptional module",
+            "pub_year": "2019",
+            "citation": "The Plant Cell 31 (1), 52-67, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:eMMeJKvmdy0C",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10887809249982760494",
+        "cites_id": [
+            "10887809249982760494"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Centering the Organizing Center in the Arabidopsis thaliana Shoot Apical Meristem by a Combination of Cytokinin Signaling and Self-Organization",
+            "pub_year": "2016",
+            "citation": "PLoS One 11 (2), e0147830, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10812094001511963673",
+        "cites_id": [
+            "10812094001511963673"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional repression of BODENLOS by HD-ZIP transcription factor HB5 in Arabidopsis thaliana",
+            "pub_year": "2013",
+            "citation": "Journal of experimental botany 64 (10), 3009-3019, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:-f6ydRqryjwC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13554116286703946634",
+        "cites_id": [
+            "13554116286703946634"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution, initiation, and diversity in early plant embryogenesis",
+            "pub_year": "2019",
+            "citation": "Developmental Cell 50 (5), 533-543, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:N5tVd3kTz84C",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1230319901360856423",
+        "cites_id": [
+            "1230319901360856423"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Omics and modelling approaches for understanding regulation of asymmetric cell divisions in Arabidopsis and other angiosperm plants",
+            "pub_year": "2014",
+            "citation": "Annals of Botany 113 (7), 1083-1105, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:maZDTaKrznsC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17004169697572354553",
+        "cites_id": [
+            "17004169697572354553"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant transcription factors\u2014being in the right place with the right company",
+            "pub_year": "2022",
+            "citation": "Current Opinion in Plant Biology 65, 102136, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:tuHXwOkdijsC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=536559650389698592",
+        "cites_id": [
+            "536559650389698592"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rice microtubule\u2010associated protein IQ67\u2010DOMAIN14 regulates grain shape by modulating microtubule cytoskeleton dynamics",
+            "pub_year": "2020",
+            "citation": "Plant biotechnology journal 18 (5), 1141-1152, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:PR6Y55bgFSsC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1833099770702371068",
+        "cites_id": [
+            "1833099770702371068"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prenatal plumbing\u2014vascular tissue formation in the plant embryo",
+            "pub_year": "2014",
+            "citation": "Physiologia plantarum 151 (2), 126-133, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=874598325457838338",
+        "cites_id": [
+            "874598325457838338"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Specification and regulation of vascular tissue identity in the Arabidopsis embryo",
+            "pub_year": "2020",
+            "citation": "Development 147 (8), dev186130, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:XD-gHx7UXLsC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6142000962002827223",
+        "cites_id": [
+            "6142000962002827223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin regulation of embryonic root formation",
+            "pub_year": "2013",
+            "citation": "Plant and cell physiology 54 (3), 325-332, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9451515811884000232",
+        "cites_id": [
+            "9451515811884000232"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant embryogenesis",
+            "pub_year": "2017",
+            "citation": "Current Biology 27 (17), R870-R873, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:8AbLer7MMksC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15866759682189125752",
+        "cites_id": [
+            "15866759682189125752"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular Characterization of Arabidopsis GAL4/UAS Enhancer Trap Lines Identifies Novel Cell-Type-Specific Promoters",
+            "pub_year": "2016",
+            "citation": "Plant Physiology 171 (2), 1169-1181, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8741351600568862922",
+        "cites_id": [
+            "8741351600568862922"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "POPCORN Functions in the Auxin Pathway to Regulate Embryonic Body Plan and Meristem Organization in Arabidopsis",
+            "pub_year": "2011",
+            "citation": "The Plant Cell 23 (12), 4348-4367, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15689490082129864356",
+        "cites_id": [
+            "15689490082129864356"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pole position: how plant cells polarize along the axes",
+            "pub_year": "2022",
+            "citation": "The Plant Cell 34 (1), 174-192, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:KUbvn5osdkgC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16280042085698310098",
+        "cites_id": [
+            "16280042085698310098"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A toolkit for studying cellular reorganization during early embryogenesis in Arabidopsis thaliana",
+            "pub_year": "2018",
+            "citation": "The Plant Journal 93 (6), 963-976, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3138312342947276110",
+        "cites_id": [
+            "3138312342947276110"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "IQD proteins integrate auxin and calcium signaling to regulate microtubule dynamics during Arabidopsis development",
+            "pub_year": "2018",
+            "citation": "BioRxiv, 275560, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:1qzjygNMrQYC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15807264942925578050",
+        "cites_id": [
+            "15807264942925578050"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conserved, divergent and heterochronic gene expression during Brachypodium and Arabidopsis embryo development",
+            "pub_year": "2021",
+            "citation": "Plant Reproduction 34 (3), 207-224, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:4MWp96NkSFoC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=984191703931771191",
+        "cites_id": [
+            "984191703931771191"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing generates a MONOPTEROS isoform required for ovule development",
+            "pub_year": "2021",
+            "citation": "Current Biology 31 (4), 892-899. e3, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:uWiczbcajpAC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9014849957354129249",
+        "cites_id": [
+            "9014849957354129249"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two-component nanoparticle vaccine displaying glycosylated spike S1 domain induces neutralizing antibody response against SARS-CoV-2 variants",
+            "pub_year": "2021",
+            "citation": "MBio 12 (5), 10.1128/mbio. 01813-21, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:kuK5TVdYjLIC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17192844250125299316",
+        "cites_id": [
+            "17192844250125299316"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of intercellular TARGET OF MONOPTEROS 7 protein transport in the Arabidopsis root",
+            "pub_year": "2018",
+            "citation": "Development 145 (2), dev152892, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:u9iWguZQMMsC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13228569932874181883",
+        "cites_id": [
+            "13228569932874181883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin responsiveness of the MONOPTEROS\u2010BODENLOS module in primary root initiation critically depends on the nuclear import kinetics of the Aux/IAA inhibitor BODENLOS",
+            "pub_year": "2016",
+            "citation": "The Plant Journal 85 (2), 269-277, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4896646419511703592",
+        "cites_id": [
+            "4896646419511703592"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of vascular plants through redeployment of ancient developmental regulators",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (1), 733-740, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:eq2jaN3J8jMC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11818692375209765478",
+        "cites_id": [
+            "11818692375209765478"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin-dependent control of cytoskeleton and cell shape regulates division orientation in the Arabidopsis embryo",
+            "pub_year": "2021",
+            "citation": "Current Biology 31 (22), 4946-4955. e4, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:gsN89kCJA0AC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15121700376156847553",
+        "cites_id": [
+            "15121700376156847553"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant cell polarity as the nexus of tissue mechanics and morphogenesis",
+            "pub_year": "2021",
+            "citation": "Nature Plants 7 (12), 1548-1559, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:MLfJN-KU85MC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8112096589922914628",
+        "cites_id": [
+            "8112096589922914628"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adapting INTACT to analyse cell-type-specific transcriptomes and nucleocytoplasmic mRNA dynamics in the Arabidopsis embryo",
+            "pub_year": "2019",
+            "citation": "Plant reproduction 32 (1), 113-121, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:Mojj43d5GZwC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2395025294890268980",
+        "cites_id": [
+            "2395025294890268980"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of oriented cell division in the Arabidopsis embryo",
+            "pub_year": "2015",
+            "citation": "Current opinion in plant biology 23, 25-30, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12322133767651366760",
+        "cites_id": [
+            "12322133767651366760"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A set of domain-specific markers in the Arabidopsis embryo",
+            "pub_year": "2015",
+            "citation": "Plant reproduction 28, 153-160, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4830283249229954296",
+        "cites_id": [
+            "4830283249229954296"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RIMA-dependent nuclear accumulation of IYO triggers auxin-irreversible cell differentiation in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "The Plant Cell 29 (3), 575-588, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:UxriW0iASnsC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=601349369657693349",
+        "cites_id": [
+            "601349369657693349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ligation-independent cloning for plant research",
+            "pub_year": "2015",
+            "citation": "Plant Functional Genomics: Methods and Protocols, 421-431, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:70eg2SAEIzsC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1976586346553849976",
+        "cites_id": [
+            "1976586346553849976"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Imaging of phenotypes, gene expression, and protein localization during embryonic root formation in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "Plant Organogenesis: Methods and Protocols, 137-148, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13416911901209940635",
+        "cites_id": [
+            "13416911901209940635"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid auxin-mediated phosphorylation of Myosin regulates trafficking and polarity in Arabidopsis",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.04. 13.439603, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:BwyfMAYsbu0C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10040229607416335748",
+        "cites_id": [
+            "10040229607416335748"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deep evolutionary history of the Phox and Bem1 (PB1) domain across eukaryotes",
+            "pub_year": "2020",
+            "citation": "Scientific reports 10 (1), 3797, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:2KloaMYe4IUC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4818541402055682049",
+        "cites_id": [
+            "4818541402055682049"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FRET-FLIM for visualizing and quantifying protein interactions in live plant cells",
+            "pub_year": "2017",
+            "citation": "Plant Hormones: Methods and Protocols, 135-146, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10768077437583586618",
+        "cites_id": [
+            "10768077437583586618"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integration of growth and patterning during vascular tissue formation in Arabidopsis.",
+            "pub_year": "2014",
+            "citation": "Science (Washington) 345 (6197), 636-640, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:5awf1xo2G04C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2045763629736163935",
+        "cites_id": [
+            "2045763629736163935"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanical conflict caused by a cell-wall-loosening enzyme activates de novo shoot regeneration",
+            "pub_year": "2022",
+            "citation": "Developmental Cell 57 (17), 2063-2080. e10, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:xtoqd-5pKcoC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17138719553146792200",
+        "cites_id": [
+            "17138719553146792200"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Suspensor-derived somatic embryogenesis in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "Development 147 (13), dev188912, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:uJ-U7cs_P_0C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14779244566625333904",
+        "cites_id": [
+            "14779244566625333904"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OsIQD14 regulates rice grain shape through modulating the microtubule cytoskeleton",
+            "pub_year": "2018",
+            "citation": "BioRxiv, 275552, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6224383205366366632",
+        "cites_id": [
+            "6224383205366366632"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Erratum: Corrigendum: Reporters for sensitive and quantitative measurement of auxin response",
+            "pub_year": "2015",
+            "citation": "Nature Methods 12 (11), 1098-1098, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:edDO8Oi4QzsC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13620449048034009834",
+        "cites_id": [
+            "13620449048034009834"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The birth of a giant: evolutionary insights into the origin of auxin responses in plants",
+            "pub_year": "2023",
+            "citation": "The EMBO Journal 42 (6), e113018, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:ClCfbGk0d_YC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15852862483968705648",
+        "cites_id": [
+            "15852862483968705648"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local light signaling at the leaf tip drives remote differential petiole growth through auxin-gibberellin dynamics",
+            "pub_year": "2023",
+            "citation": "Current Biology 33 (1), 75-85. e5, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:k8Z6L05lTy4C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14392093064956816104",
+        "cites_id": [
+            "14392093064956816104"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin signaling: from synthesis to systems biology: a subject collection from Cold Spring Harbor Perspectives in Biology",
+            "pub_year": "2011",
+            "citation": "(No Title), 2011"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13086054634698556417",
+        "cites_id": [
+            "13086054634698556417"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deep origin and gradual evolution of transporting tissues: Perspectives from across the land plants",
+            "pub_year": "2022",
+            "citation": "Plant Physiology 190 (1), 85-99, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:PoWvk5oyLR8C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3915387728722831208",
+        "cites_id": [
+            "3915387728722831208"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A rich and bountiful harvest: Key discoveries in plant cell biology",
+            "pub_year": "2022",
+            "citation": "The Plant Cell 34 (1), 53-71, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:TIZ-Mc8IlK0C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10144354853782485653",
+        "cites_id": [
+            "10144354853782485653"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flowering plant embryos: How did we end up here?",
+            "pub_year": "2021",
+            "citation": "Plant Reproduction 34 (4), 365-371, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:g3aElNc5_aQC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5645030697238467139",
+        "cites_id": [
+            "5645030697238467139"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin response by the numbers",
+            "pub_year": "2021",
+            "citation": "Trends in plant science 26 (5), 442-451, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:BUYA1_V_uYcC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4437641050832326584",
+        "cites_id": [
+            "4437641050832326584"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An ultra-fast, proteome-wide response to the plant hormone auxin",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.11. 25.517949, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11938245851281105160",
+        "cites_id": [
+            "11938245851281105160"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A RAF-like kinase mediates a deeply conserved, ultra-rapid auxin response",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.11. 25.517951, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:XoXfffV-tXoC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4142822567538171376",
+        "cites_id": [
+            "4142822567538171376"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis embryo as a quantifiable model for studying pattern formation",
+            "pub_year": "2021",
+            "citation": "Quantitative Plant Biology 2, e3, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:p__nRnzSRKYC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15761158208984292285",
+        "cites_id": [
+            "15761158208984292285"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RIdeogram: drawing SVG graphics to visualize and map genome-wide data on the idiograms. PeerJ Computer Science 6: e251",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:rmuvC79q63oC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1238244555077711232",
+        "cites_id": [
+            "1238244555077711232"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic control of identity and growth in the early Arabidopsis embryo",
+            "pub_year": "2014",
+            "citation": "Biochemical Society Transactions 42 (2), 346-351, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:isC4tDSrTZIC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1705647093160147188",
+        "cites_id": [
+            "1705647093160147188"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin regulation of embryo development",
+            "pub_year": "2014",
+            "citation": "Auxin and its role in plant development, 171-189, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5867431070788596712",
+        "cites_id": [
+            "5867431070788596712"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Got root?-Initiation of the embryonic root meristem",
+            "pub_year": "2007",
+            "citation": "International Journal of Plant Developmental Biology 1 (1), 122-126, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:Zph67rFs4hoC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16214651723178440838",
+        "cites_id": [
+            "16214651723178440838"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An actin remodeling role for Arabidopsis processing bodies revealed by their proximity interactome",
+            "pub_year": "2023",
+            "citation": "The EMBO Journal 42 (9), e111885, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:FPJr55Dyh1AC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3649368492531358728",
+        "cites_id": [
+            "3649368492531358728"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cooperative action of separate interaction domains promotes high-affinity DNA binding of Arabidopsis thaliana ARF transcription factors",
+            "pub_year": "2023",
+            "citation": "Proceedings of the National Academy of Sciences 120 (11), e2219916120, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:ruyezt5ZtCIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11057491287318365720",
+        "cites_id": [
+            "11057491287318365720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Selective degradation of ARF monomers controls auxin response in Marchantia",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.11. 04.515187, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:q3CdL3IzO_QC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14963498315548746774",
+        "cites_id": [
+            "14963498315548746774"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-resolution and deep phylogenetic reconstruction of ancestral states from large transcriptomic data sets",
+            "pub_year": "2020",
+            "citation": "Bio-protocol 10 (6), e3566-e3566, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:ipzZ9siozwsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17261523732924111893",
+        "cites_id": [
+            "17261523732924111893"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A microtubule-based mechanism predicts cell division orientation in plant embryogenesis",
+            "pub_year": "2018",
+            "citation": "bioRxiv, 270793, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:kRWSkSYxWN8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4765281579617618997",
+        "cites_id": [
+            "4765281579617618997"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A female identity switch helps keep only one egg in the basket",
+            "pub_year": "2016",
+            "citation": "Developmental Cell 37 (1), 5-6, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:_xSYboBqXhAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9074212516065970814",
+        "cites_id": [
+            "9074212516065970814"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The \u201cProxitome\u201d of Arabidopsis Processing Bodies Reveals a Condensate-Membrane Interface Instructing Actin-Driven Directional Growth",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.06. 03.494746, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:oNZyr7d5Mn4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2506113007402974249",
+        "cites_id": [
+            "2506113007402974249"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell type-specific transcriptomics in the plant embryo using an adapted INTACT protocol",
+            "pub_year": "2020",
+            "citation": "Plant Embryogenesis: Methods and Protocols, 141-150, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:-_dYPAW6P2MC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12628843139287889538",
+        "cites_id": [
+            "12628843139287889538"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "cellular omics methods in plant reproduction research",
+            "pub_year": "2019",
+            "citation": "Plant Reproduction 32, 1-3, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:dTyEYWd-f8wC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15304399870753898608",
+        "cites_id": [
+            "15304399870753898608"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Corrigendum: A noncanonical auxin-sensing mechanism is required for organ morphogenesis in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "Genes & Development 31 (17), 1821, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:LPZeul_q3PIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13552643773241045645",
+        "cites_id": [
+            "13552643773241045645"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phyllotaxis: a Matthew effect in auxin action",
+            "pub_year": "2016",
+            "citation": "Current Biology 26 (23), R1233-R1235, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:P5F9QuxV20EC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4321288641578626807",
+        "cites_id": [
+            "4321288641578626807"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant organogenesis: Rules of order",
+            "pub_year": "2016",
+            "citation": "Current Biology 26 (4), R157-R159, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:f2IySw72cVMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7675024850260791001",
+        "cites_id": [
+            "7675024850260791001"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Full wwPDB X-ray Structure Validation Report i",
+            "pub_year": "2009",
+            "citation": "Word wide protein data bank, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:kz9GbA2Ns4gC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7797348483438337748,17542915607771240787,17334226372758951703,14709290737111832663",
+        "cites_id": [
+            "7797348483438337748",
+            "17542915607771240787",
+            "17334226372758951703",
+            "14709290737111832663"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probing DNA\u2010Transcription Factor Interactions Using Single\u2010Molecule Fluorescence Detection in Nanofluidic Devices",
+            "pub_year": "2022",
+            "citation": "Advanced Biology 6 (4), 2100953, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:vbGhcppDl1QC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=597065744378788838",
+        "cites_id": [
+            "597065744378788838"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A molecular framework for control of oriented cell division in the Arabidopsis embryo",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.02. 09.430440, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:Z5m8FVwuT1cC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=215128936860443906",
+        "cites_id": [
+            "215128936860443906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assorted pastries at the south pole",
+            "pub_year": "2020",
+            "citation": "Developmental Cell 52 (2), 137-138, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:fEOibwPWpKIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9860400530560747242",
+        "cites_id": [
+            "9860400530560747242"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analyzing Subcellular Reorganization During Early Arabidopsis Embryogenesis Using Fluorescent Markers",
+            "pub_year": "2020",
+            "citation": "Plant Embryogenesis: Methods and Protocols, 49-61, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:35r97b3x0nAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1468585286589636991",
+        "cites_id": [
+            "1468585286589636991"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An inference approach combines spatial and temporal gene expression data to predict gene regulatory networks in Arabidopsis stem cells",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 140269, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:sSrBHYA8nusC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=314052089549995720",
+        "cites_id": [
+            "314052089549995720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Editorial overview: Growth and development: Signals and communication in plant pluripotency, differentiation and growth",
+            "pub_year": "2016",
+            "citation": "Current Opinion in Plant Biology 100 (29), v-ix, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6635460694346357963",
+        "cites_id": [
+            "6635460694346357963"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin: Harnessing a loose cannon",
+            "pub_year": "2015",
+            "citation": "Nature Plants 1 (3), 1-2, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:lSLTfruPkqcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4405208372490313360",
+        "cites_id": [
+            "4405208372490313360"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "To bind or not to bind: how Auxin Response Factors select their target genes",
+            "pub_year": "2023",
+            "citation": "Journal of Experimental Botany, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:YohjEiUPhakC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An elastic proteinaceous envelope encapsulates the early Arabidopsis embryo",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.05. 03.539186, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:5qfkUJPXOUwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative analysis of 3D cellular geometry and modeling of the Arabidopsis embryo.",
+            "pub_year": "2022",
+            "citation": "Journal of Microscopy, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:e_rmSamDkqQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Highly Specific Protein Identification by Immunoprecipitation\u2013Mass Spectrometry Using Antifouling Microbeads",
+            "pub_year": "2022",
+            "citation": "ACS Applied Materials & Interfaces 14 (20), 23102-23116, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:M7yex6snE4oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Back to the roots: A focus on plant cell biology",
+            "pub_year": "2022",
+            "citation": "The Plant Cell 34 (1), 1-3, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:b1wdh0AR-JQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin signaling: from synthesis to systems biology: a subject collection from Cold Spring Harbor perspectives in biology",
+            "pub_year": "2022",
+            "citation": "(No Title), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:hMsQuOkrut0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Suspensor cell reprogramming: a twinning trajectory",
+            "pub_year": "2020",
+            "citation": "DEVELOPMENT 147 (13), 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:vDijr-p_gm4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identifying novel elements and regulators in auxin-dependent gene expression",
+            "pub_year": "2020",
+            "citation": "BIOINFORMATICS OF GENOME REGULATION AND STRUCTURE/SYSTEMS BIOLOGY (BGRS/SB \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:epqYDVWIO7EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Initiation and regulation of vascular tissue identity in the Arabidopsis embryo",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 832501, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:NJ774b8OgUMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of vascular plants through redeployment of ancient developmental regulators",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 650358, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:9Nmd_mFXekcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DIVERSITY OF AUXIN RESPONSE ELEMENTS IN ARABIDOPSIS THALIANA L",
+            "pub_year": "2019",
+            "citation": "CHROMOSOMES AND MITOSIS, 12-13, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:tzM49s52ZIMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of novel bHLH transcriptional networks downstream of TMO5/LHW",
+            "pub_year": "2019",
+            "citation": "Control of cell division orientation during vascular development in \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:ZfRJV9d4-WMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generation of a high-resolution transcriptomics dataset to identify TMO5/LHW target genes",
+            "pub_year": "2019",
+            "citation": "Control of cell division orientation during vascular development in \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:tKAzc9rXhukC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The TMO5/LHW downstream target DOF2. 1 promotes periclinal/radial cell proliferation",
+            "pub_year": "2019",
+            "citation": "Control of cell division orientation during vascular development in \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:7T2F9Uy0os0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Publisher Correction: Transcriptome dynamics revealed by a gene expression atlas of the early Arabidopsis embryo",
+            "pub_year": "2018",
+            "citation": "Nature Plants 4 (2), 128-128, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:J-pR_7NvFogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell-type-specific promoter identification using enhancer trap lines",
+            "pub_year": "2018",
+            "citation": "Plant Transcription Factors: Methods and Protocols, 127-139, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polyphenol oxidase-activated lignin-building blocks enhance enzymatic plant polysaccharide oxidation",
+            "pub_year": "2017",
+            "citation": "39th Symposium on Biotechnology for Fuels and Chemicals, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:_Ybze24A_UAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: Centering the Organizing Center in the Arabidopsis thaliana Shoot Apical Meristem by a Combination of Cytokinin Signaling and Self-Organization",
+            "pub_year": "2017",
+            "citation": "Plos one 12 (3), e0174751, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:p2g8aNsByqUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ZYG1 regulates zygote division in Arabidopsis through regulating cyclin B1 degradation",
+            "pub_year": "2016",
+            "citation": "2016 \u5e74\u5168\u56fd\u690d\u7269\u751f\u7269\u5b66\u5927\u4f1a\u6458\u8981\u96c6, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:JQOojiI6XY0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nuclear import receptors aff ect the transcriptional and developmental output of the BODENLOS-MONOPTEROS module",
+            "pub_year": "2015",
+            "citation": "26th International Conference on Arabidopsis Research (ICAR 2015), 132, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:Dip1O2bNi0gC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Meeliften als auteur",
+            "pub_year": "2015",
+            "citation": "Resource: nieuwssite voor studenten en medewerkers van Wageningen UR 9 (13 \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:SdhP9T11ey4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Defining cell type-specific transcriptomes in the early plant embryo",
+            "pub_year": "2014",
+            "citation": "FEBS JOURNAL 281, 321-321, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effect of geometry on morphogenesis in the Arabidopsis embryo",
+            "pub_year": "2014",
+            "citation": "9th European Conference on Mathematical and Theoretical Biology, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant krijgt vorm door de regels te breken (interview met Dolf Weijers)",
+            "pub_year": "2014",
+            "citation": "Resource: weekblad voor Wageningen UR 8 (16), 8-8, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:WqliGbK-hY8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Europese miljoenen voor stamcelonderzoek bij planten",
+            "pub_year": "2011",
+            "citation": "Resource: weekblad voor Wageningen UR 6 (1), 8, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:1yQoGdGgb4wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcription profiling by array of Arabidopsis mutant for mp after treatment with auxin",
+            "pub_year": "2010",
+            "citation": "Wageningen UR, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:VaXvl8Fpj5cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional profiles between mp mutant seedlings and transgenics carrying the dexamethasone-inducible GR-bdl protein",
+            "pub_year": "2010",
+            "citation": "Wageningen University, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:LI9QrySNdTsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin-independent regulation of IAA12/BDL expression during embryo development",
+            "pub_year": "2009",
+            "citation": "20th International Conference on Arabidopsis Research (ICAR 2009), 5, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:hCrLmN-GePgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DEVELOPMENT AND HORMONE ACTION-Diphtheria Toxin-Mediated Cell Ablation Reveals Interregional Communication during Arabidopsis Seed Development.",
+            "pub_year": "2003",
+            "citation": "Plant Physiology 133 (4), 1882-1892, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:tOudhMTPpwUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Finally meeting the neighbours-proximity labelling identifies ARF interactors",
+            "citation": "Proteomics perspective on auxin biology, 47, 0"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:Ri6SYOTghG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "map genome-wide data on the idiograms",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:_axFR9aDTf0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CORE Metadata, citation and similar papers at core. ac. uk",
+            "citation": "Curr. Biol 19, 391-397, 0"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:86PQX7AUzd4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin Dependent Post-Translational Regulation of MONOPTEROS in the Arabidopsis Root",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:PVjk1bu6vJQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "15. Liepman, AH, Wightman, R., Geshi, N., Turner, SR, and Scheller, HV (2010). Arabidopsis\u2013a powerful model system for plant cell wall research. Plant J. 61, 1107\u20131121.",
+            "citation": "Curr. Biol 19, 391-397, 0"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:lmc2jWPfTJgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "469 Engineering NLR immune receptors for broad-spectrum disease resistance",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:ILKRHgRFtOwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing regulates auxin response during reproductive phase in Arabidopsis thaliana",
+            "citation": "GENETIC AND EPIGENETIC REGULATION OF OVULE DEVELOPMENT AND PLANT \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:Fu2w8maKXqMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "POPCORN Functions in the Auxin Pathway to Regulate Embryonic Body Plan and Meristem Organization in Arabidopsis W OA",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "a63uPAoAAAAJ:W5xh706n7nkC",
+        "num_citations": 0
+    }
+]

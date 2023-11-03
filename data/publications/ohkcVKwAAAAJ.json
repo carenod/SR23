@@ -1,0 +1,98 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes and phytochrome interacting factors",
+            "pub_year": "2018",
+            "citation": "Plant physiology 176 (2), 1025-1038, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "ohkcVKwAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 336,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=46481154935163669",
+        "cites_id": [
+            "46481154935163669"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A phyB-PIF1-SPA1 kinase regulatory complex promotes photomorphogenesis in Arabidopsis",
+            "pub_year": "2019",
+            "citation": "Nature Communications 10 (1), 4216, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "ohkcVKwAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8083669194757127382",
+        "cites_id": [
+            "8083669194757127382"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular bases for the constitutive photomorphogenic phenotypes in Arabidopsis",
+            "pub_year": "2018",
+            "citation": "Development 145 (23), dev169870, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "ohkcVKwAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1628605986150302641",
+        "cites_id": [
+            "1628605986150302641"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reciprocal proteasome-mediated degradation of PIFs and HFR1 underlies photomorphogenic development in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "Development 144 (10), 1831-1840, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "ohkcVKwAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4529691632287186695",
+        "cites_id": [
+            "4529691632287186695"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic regulation of PIF 5 by COP 1\u2013SPA complex to optimize photomorphogenesis in Arabidopsis",
+            "pub_year": "2018",
+            "citation": "The Plant Journal 96 (2), 260-273, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "ohkcVKwAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8480029982829977728",
+        "cites_id": [
+            "8480029982829977728"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic evidence reveals SPA\u2010regulated developmental and metabolic pathways in dark\u2010grown Arabidopsis seedlings",
+            "pub_year": "2020",
+            "citation": "Physiologia plantarum 169 (3), 380-396, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ohkcVKwAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18071642635403170410",
+        "cites_id": [
+            "18071642635403170410"
+        ]
+    }
+]

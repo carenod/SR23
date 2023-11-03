@@ -1,0 +1,378 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An RNA thermoswitch regulates daytime growth in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "Nature plants 6 (5), 522-532, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 134,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16212735006827184724,13830541922721005423",
+        "cites_id": [
+            "16212735006827184724",
+            "13830541922721005423"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin represses stomatal development in dark-grown seedlings via Aux/IAA proteins",
+            "pub_year": "2014",
+            "citation": "Development 141 (16), 3165-3176, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12345015105468856972",
+        "cites_id": [
+            "12345015105468856972"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light exposure of Arabidopsis seedlings causes rapid de\u2010stabilization as well as selective post\u2010translational inactivation of the repressor of photomorphogenesis SPA2",
+            "pub_year": "2011",
+            "citation": "The Plant Journal 65 (5), 712-723, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7895441024633509973",
+        "cites_id": [
+            "7895441024633509973"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developing a method for customized induction of flowering",
+            "pub_year": "2011",
+            "citation": "BMC biotechnology 11 (1), 1-11, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17519213473743734212",
+        "cites_id": [
+            "17519213473743734212"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FT genes and regulation of flowering in the legume Medicago truncatula",
+            "pub_year": "2013",
+            "citation": "Functional Plant Biology 40 (12), 1199-1207, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16714267883066146113",
+        "cites_id": [
+            "16714267883066146113"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SPA proteins affect the subcellular localization of COP1 in the COP1/SPA ubiquitin ligase complex during photomorphogenesis",
+            "pub_year": "2017",
+            "citation": "Plant Physiology 174 (3), 1314-1321, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3007996546954103707",
+        "cites_id": [
+            "3007996546954103707"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fine mapping links the FTa1 flowering time regulator to the dominant spring1 locus in Medicago",
+            "pub_year": "2013",
+            "citation": "PLoS One 8 (1), e53467, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14586425048229633883",
+        "cites_id": [
+            "14586425048229633883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome\u2010interacting factors at the interface of light and temperature signalling",
+            "pub_year": "2020",
+            "citation": "Physiologia plantarum 169 (3), 347-356, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15143789279456099735",
+        "cites_id": [
+            "15143789279456099735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin\u2013a novel regulator of stomata differentiation",
+            "pub_year": "2014",
+            "citation": "Trends in Plant Science 19 (12), 747-749, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=97189106716189720",
+        "cites_id": [
+            "97189106716189720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An early-morning gene network controlled by phytochromes and cryptochromes regulates photomorphogenesis pathways in Arabidopsis",
+            "pub_year": "2021",
+            "citation": "Molecular plant 14 (6), 983-996, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:WF5omc3nYNoC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1295048429208014029",
+        "cites_id": [
+            "1295048429208014029"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fluorescent biosensors illuminating plant hormone research",
+            "pub_year": "2021",
+            "citation": "Plant Physiology 187 (2), 590-602, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:UebtZRa9Y70C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17652159321856349346",
+        "cites_id": [
+            "17652159321856349346"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DEK influences the trade-off between growth and arrest via H2A. Z-nucleosomes in Arabidopsis",
+            "pub_year": "2019",
+            "citation": "BioRxiv, 829226, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5030070029156354518",
+        "cites_id": [
+            "5030070029156354518"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ancient sun protection: the evolutionary origin of plant UV-B signaling",
+            "pub_year": "2022",
+            "citation": "Plant Physiology 188 (1), 29-31, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:0EnyYjriUFMC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6078532438103893608",
+        "cites_id": [
+            "6078532438103893608"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNA structure mediated thermoregulation: What can we learn from plants?",
+            "pub_year": "2022",
+            "citation": "Frontiers in Plant Science 13, 938570, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:8k81kl-MbHgC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10588412860654760213",
+        "cites_id": [
+            "10588412860654760213"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Filling the grain: Transcription factor OsNF-YB1 triggers auxin biosynthesis to boost rice grain size",
+            "pub_year": "2021",
+            "citation": "Plant Physiology 185 (3), 757-758, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16283401361189620466",
+        "cites_id": [
+            "16283401361189620466"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tomatoes turn pale in the heat: high temperature reduces red and green pigmentation via phytochromes",
+            "pub_year": "2020",
+            "citation": "Plant physiology 183 (3), 810-811, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13476455695422595759",
+        "cites_id": [
+            "13476455695422595759"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new order through disorder: Intrinsically disordered proteins reshape the cytoskeleton under drought stress",
+            "pub_year": "2020",
+            "citation": "Plant physiology 183 (2), 425-426, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16480787836227190740",
+        "cites_id": [
+            "16480787836227190740"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coming into bloom: a light-sensitive transcription factor complex tells roses when to flower",
+            "pub_year": "2021",
+            "citation": "Plant Physiology 186 (2), 812-813, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:ufrVoPGSRksC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3253682002418364268",
+        "cites_id": [
+            "3253682002418364268"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "O auxin, where art thou?",
+            "pub_year": "2021",
+            "citation": "Nature Plants 7 (5), 546-547, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:roLk4NBRz8UC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2722447746278125854",
+        "cites_id": [
+            "2722447746278125854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "25 Years of thermomorphogenesis research: milestones and perspectives",
+            "pub_year": "2023",
+            "citation": "Trends in Plant Science, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thermomorphogenesis goes like clockwork: how the circadian clock fine-tunes temperature responses through competing transcriptional repressors",
+            "pub_year": "2023",
+            "citation": "New Phytologist 237 (1), 9-11, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shining light on molecular details of SPA2, a repressor of photomorphogenesis",
+            "pub_year": "2021",
+            "citation": "Plant Physiology 187 (1), 17-18, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring Real-time Temperature Dynamics of a Short RNA Hairpin Using F\u00f6rster Resonance Energy Transfer and Circular Dichroism",
+            "pub_year": "2021",
+            "citation": "Bio-protocol 11 (6), e3950-e3950, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic and Biochemical Characterisation of Light Signalling Events during Arabidopsis Seedling and Stomata Development",
+            "pub_year": "2013",
+            "citation": "Universit\u00e4t zu K\u00f6ln, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Legume Biology",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "hhy7-oQAAAAJ:qjMakFHDy7sC",
+        "num_citations": 0
+    }
+]

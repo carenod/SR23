@@ -1,0 +1,78 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ubiquitin-proteasome pathway and plant development",
+            "pub_year": "2004",
+            "citation": "The Plant Cell 16 (12), 3181-3195, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "-be0SCMAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 650,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=435537249011111632",
+        "cites_id": [
+            "435537249011111632"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PIF1 is regulated by light\u2010mediated degradation through the ubiquitin\u201026S proteasome pathway to optimize photomorphogenesis of seedlings in Arabidopsis",
+            "pub_year": "2005",
+            "citation": "The Plant Journal 44 (6), 1023-1035, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "-be0SCMAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 246,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14452340479551430673",
+        "cites_id": [
+            "14452340479551430673"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PIF1 directly and indirectly regulates chlorophyll biosynthesis to optimize the greening process in Arabidopsis",
+            "pub_year": "2008",
+            "citation": "Proceedings of the National Academy of Sciences 105 (27), 9433-9438, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "-be0SCMAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 232,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1645045491249873360",
+        "cites_id": [
+            "1645045491249873360"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new CULLIN 1 mutant has altered responses to hormones and light in Arabidopsis",
+            "pub_year": "2007",
+            "citation": "Plant physiology 143 (2), 684-696, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "-be0SCMAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17857376544210606873",
+        "cites_id": [
+            "17857376544210606873"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of CUL1 and CUL2: Subunits of SCF E3 ubiquitin ligases in Arabidopsis thaliana",
+            "pub_year": "2004",
+            "citation": "Indiana University, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "-be0SCMAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 0
+    }
+]

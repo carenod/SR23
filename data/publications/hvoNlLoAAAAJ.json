@@ -1,0 +1,1506 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A putative ABC transporter confers durable resistance to multiple fungal pathogens in wheat",
+            "pub_year": "2009",
+            "citation": "science 323 (5919), 1360-1363, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1355,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4908216279237831149",
+        "cites_id": [
+            "4908216279237831149"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Semidwarf (sd-1),\u201cgreen revolution\u201d rice, contains a defective gibberellin 20-oxidase gene",
+            "pub_year": "2002",
+            "citation": "Proceedings of the National Academy of Sciences 99 (13), 9043-9048, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 982,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16104023908721338927",
+        "cites_id": [
+            "16104023908721338927"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The past, present and future of breeding rust resistant wheat",
+            "pub_year": "2014",
+            "citation": "Frontiers in plant science 5, 641, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 679,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7359685629723834762,13334544846156523769",
+        "cites_id": [
+            "7359685629723834762",
+            "13334544846156523769"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\"Perfect\" markers for the Rht-B1b and Rht-D1b dwarfing genes in wheat",
+            "pub_year": "2002",
+            "citation": "Theoretical and Applied Genetics 105, 1038-1042, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 659,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9271551087941255217",
+        "cites_id": [
+            "9271551087941255217"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A recently evolved hexose transporter variant confers resistance to multiple pathogens in wheat",
+            "pub_year": "2015",
+            "citation": "Nature genetics 47 (12), 1494-1498, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 552,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2934259043845940774",
+        "cites_id": [
+            "2934259043845940774"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A physical map of the 1-gigabase bread wheat chromosome 3B",
+            "pub_year": "2008",
+            "citation": "science 322 (5898), 101-104, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 531,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=440346191150878646",
+        "cites_id": [
+            "440346191150878646"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular genetic characterization of the Lr34/Yr18 slow rusting resistance gene region in wheat",
+            "pub_year": "2006",
+            "citation": "Theoretical and Applied Genetics 114, 21-30, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 510,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8456604389073923880",
+        "cites_id": [
+            "8456604389073923880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene-specific markers for the wheat gene Lr34/Yr18/Pm38 which confers resistance to multiple fungal pathogens",
+            "pub_year": "2009",
+            "citation": "Theoretical and Applied Genetics 119, 889-898, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 477,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17511594019583137781",
+        "cites_id": [
+            "17511594019583137781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HKT1;5-Like Cation Transporters Linked to Na+ Exclusion Loci in Wheat, Nax2 and Kna1",
+            "pub_year": "2007",
+            "citation": "Plant physiology 143 (4), 1918-1928, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 455,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9775767492151950687",
+        "cites_id": [
+            "9775767492151950687"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Breeding for improved water productivity in temperate cereals: phenotyping, quantitative trait loci, markers and the selection environment",
+            "pub_year": "2010",
+            "citation": "Functional Plant Biology 37 (2), 85-97, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 384,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15037128165258998460",
+        "cites_id": [
+            "15037128165258998460"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Powdery mildew resistance and Lr34/Yr18 genes for durable resistance to leaf and stripe rust cosegregate at a locus on the short arm of chromosome 7D of wheat",
+            "pub_year": "2005",
+            "citation": "Theoretical and Applied genetics 111, 731-735, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:qjMakFHDy7sC",
+        "num_citations": 340,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16499222824375885088",
+        "cites_id": [
+            "16499222824375885088"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Sodium Transporter (HKT7) Is a Candidate for Nax1, a Gene for Salt Tolerance in Durum Wheat",
+            "pub_year": "2006",
+            "citation": "Plant physiology 142 (4), 1718-1727, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 338,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4740119189656098242",
+        "cites_id": [
+            "4740119189656098242"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification and mapping of molecular markers linked to rust resistance genes located on chromosome 1RS of rye using wheat-rye translocation lines",
+            "pub_year": "2002",
+            "citation": "Theoretical and Applied Genetics 104, 1317-1324, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 312,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7397343833527252625",
+        "cites_id": [
+            "7397343833527252625"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of PCR markers for the selection of wheat stem rust resistance genes Sr24 and Sr26 in diverse wheat germplasm",
+            "pub_year": "2005",
+            "citation": "Theoretical and Applied Genetics 111, 496-504, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 309,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9491640288355694141",
+        "cites_id": [
+            "9491640288355694141"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular mapping of gibberellin-responsive dwarfing genes in bread wheat",
+            "pub_year": "2005",
+            "citation": "Theoretical and Applied Genetics 111, 423-430, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 289,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4058362330101971852",
+        "cites_id": [
+            "4058362330101971852"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification and Validation of Markers Linked to Broad\u2010Spectrum Stem Rust Resistance Gene Sr2 in Wheat (Triticum aestivum L.)",
+            "pub_year": "2003",
+            "citation": "Crop Science 43 (1), 333-336, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 267,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=752403020918516468",
+        "cites_id": [
+            "752403020918516468"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effect of different height reducing genes on the early growth of wheat",
+            "pub_year": "2004",
+            "citation": "Functional Plant Biology 31 (6), 583-589, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:ufrVoPGSRksC",
+        "num_citations": 256,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6452454912147527398",
+        "cites_id": [
+            "6452454912147527398"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An accurate DNA marker assay for stem rust resistance gene Sr2 in wheat",
+            "pub_year": "2011",
+            "citation": "Theoretical and applied genetics 122, 735-744, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:5nxA0vEk-isC",
+        "num_citations": 238,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11318907013867517586",
+        "cites_id": [
+            "11318907013867517586"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative mapping of HKT genes in wheat, barley, and rice, key determinants of Na+ transport, and salt tolerance",
+            "pub_year": "2008",
+            "citation": "Journal of experimental botany 59 (4), 927-937, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 216,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2828652379315361633",
+        "cites_id": [
+            "2828652379315361633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-resolution mapping and mutation analysis separate the rust resistance genes Sr31, Lr26 and Yr9 on the short arm of rye chromosome 1",
+            "pub_year": "2005",
+            "citation": "Theoretical and applied genetics 112, 41-50, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:0EnyYjriUFMC",
+        "num_citations": 209,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4849175402050716603",
+        "cites_id": [
+            "4849175402050716603"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Strategies for efficient implementation of molecular markers in wheat breeding",
+            "pub_year": "2005",
+            "citation": "Molecular Breeding 15, 75-85, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:WF5omc3nYNoC",
+        "num_citations": 204,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9415134204095028632",
+        "cites_id": [
+            "9415134204095028632"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The wheat Sr50 gene reveals rich diversity at a cereal disease resistance locus",
+            "pub_year": "2015",
+            "citation": "Nature plants 1 (12), 1-3, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 197,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16094747168615789098",
+        "cites_id": [
+            "16094747168615789098"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An introgression on wheat chromosome 4DL in RL6077 (Thatcher*6/PI 250413) confers adult plant resistance to stripe rust and leaf rust (Lr67)",
+            "pub_year": "2010",
+            "citation": "Theoretical and Applied Genetics 121, 1083-1091, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 179,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13406752107388019098",
+        "cites_id": [
+            "13406752107388019098"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional Conservation of Wheat and Rice Mlo Orthologs in Defense Modulation to the Powdery Mildew Fungus",
+            "pub_year": "2002",
+            "citation": "Molecular plant-microbe interactions 15 (10), 1069-1077, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 162,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12529917495761913538",
+        "cites_id": [
+            "12529917495761913538"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative trait loci on chromosome 4B for coleoptile length and early vigour in wheat (Triticum aestivum L.)",
+            "pub_year": "2001",
+            "citation": "Australian Journal of Agricultural Research 52 (12), 1221-1234, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:roLk4NBRz8UC",
+        "num_citations": 158,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8203928505899699516",
+        "cites_id": [
+            "8203928505899699516"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A QTL on chromosome 6A in bread wheat (Triticum aestivum) is associated with longer coleoptiles, greater seedling vigour and final plant height",
+            "pub_year": "2007",
+            "citation": "Theoretical and Applied Genetics 115, 59-66, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:8k81kl-MbHgC",
+        "num_citations": 153,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6868933946160591674",
+        "cites_id": [
+            "6868933946160591674"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative mapping of wheat chromosome 1AS which contains the tiller inhibition gene (tin) with rice chromosome 5S",
+            "pub_year": "2004",
+            "citation": "Theoretical and Applied Genetics 109, 1303-1310, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:UebtZRa9Y70C",
+        "num_citations": 143,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11178890542976260837",
+        "cites_id": [
+            "11178890542976260837"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Grasses provide new insights into regulation of shoot branching",
+            "pub_year": "2013",
+            "citation": "Trends in plant science 18 (1), 41-48, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 138,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8771623983772090167",
+        "cites_id": [
+            "8771623983772090167"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inhibition of Tiller Bud Outgrowth in the tin Mutant of Wheat Is Associated with Precocious Internode Development",
+            "pub_year": "2012",
+            "citation": "Plant Physiology 160 (1), 308-318, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:aqlVkmm33-oC",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8519462685173711443",
+        "cites_id": [
+            "8519462685173711443"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fine scale genetic and physical mapping using interstitial deletion mutants of Lr34 /Yr18: a disease resistance locus effective against multiple \u2026",
+            "pub_year": "2008",
+            "citation": "Theoretical and Applied Genetics 116, 481-490, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:Se3iqnhoufwC",
+        "num_citations": 114,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7854449235692124473",
+        "cites_id": [
+            "7854449235692124473"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multiple resistance locus on chromosome arm 3BS in wheat confers resistance to stem rust (Sr2), leaf rust (Lr27) and powdery mildew",
+            "pub_year": "2011",
+            "citation": "Theoretical and applied genetics 123, 615-623, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:4DMP91E08xMC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17636312571881390417",
+        "cites_id": [
+            "17636312571881390417"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of quantitative trait loci contributing to Fusarium wilt resistance on an AFLP linkage map of flax (Linum usitatissimum)",
+            "pub_year": "1998",
+            "citation": "Theoretical and applied genetics 97, 633-641, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:Zph67rFs4hoC",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12696547093452992998",
+        "cites_id": [
+            "12696547093452992998"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolation of gibberellin metabolic pathway genes from barley and comparative mapping in barley, wheat and rice",
+            "pub_year": "2004",
+            "citation": "Theoretical and Applied Genetics 109, 847-855, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1604385124808503406",
+        "cites_id": [
+            "1604385124808503406"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effective chromosome pairing requires chromatin remodeling at the onset of meiosis",
+            "pub_year": "2008",
+            "citation": "Proceedings of the National Academy of Sciences 105 (16), 6075-6080, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1217223668795634493",
+        "cites_id": [
+            "1217223668795634493"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fine genetic mapping fails to dissociate durable stem rust resistance gene Sr2 from pseudo-black chaff in common wheat (Triticum aestivum L.)",
+            "pub_year": "2006",
+            "citation": "Theoretical and Applied Genetics 112, 492-499, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17119804185832170466",
+        "cites_id": [
+            "17119804185832170466"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resistance gene analogs in barley and their relationship to rust resistance genes",
+            "pub_year": "2001",
+            "citation": "Genome 44 (3), 375-381, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7549938355406808770",
+        "cites_id": [
+            "7549938355406808770"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rht18 Semidwarfism in Wheat Is Due to Increased GA 2-oxidaseA9 Expression and Reduced GA Content",
+            "pub_year": "2018",
+            "citation": "Plant Physiology 177 (1), 168-180, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:u_35RYKgDlwC",
+        "num_citations": 85,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9696384016515327445",
+        "cites_id": [
+            "9696384016515327445"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NBS-LRR sequence family is associated with leaf and stripe rust resistance on the end of homoeologous chromosome group 1S of wheat",
+            "pub_year": "2000",
+            "citation": "Theoretical and applied genetics 101, 1139-1144, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13348428656507564294",
+        "cites_id": [
+            "13348428656507564294"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Highly Recombinogenic Regions at Seed Storage Protein Loci on Chromosome 1DS of Aegilops tauschii, the D-Genome Donor of Wheat",
+            "pub_year": "2000",
+            "citation": "Genetics 155 (1), 361-367, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:4TOpqqG69KYC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16432240707575595818",
+        "cites_id": [
+            "16432240707575595818"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A superfamily of disease resistance gene analogs is located on all homoeologous chromosome groups of wheat (Triticum aestivum)",
+            "pub_year": "1998",
+            "citation": "Genome 41 (6), 782-788, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17312051171295700894",
+        "cites_id": [
+            "17312051171295700894"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resistance Gene Analogs within an Introgressed Chromosomal Segment Derived from Triticum ventricosum That Confers Resistance to Nematode and Rust \u2026",
+            "pub_year": "2000",
+            "citation": "Molecular plant-microbe interactions 13 (3), 334-341, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:_kc_bZDykSQC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15288439807695437881",
+        "cites_id": [
+            "15288439807695437881"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of a SNP marker assay for the Lr67 gene of wheat using a genotyping by sequencing approach",
+            "pub_year": "2014",
+            "citation": "Molecular Breeding 34, 2109-2118, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:mB3voiENLucC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13200435079281256969",
+        "cites_id": [
+            "13200435079281256969"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BAC-derived markers for assaying the stem rust resistance gene, Sr2, in wheat breeding programs",
+            "pub_year": "2008",
+            "citation": "Molecular breeding 22, 15-24, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6585568449752472138",
+        "cites_id": [
+            "6585568449752472138"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resistance genes for rye stem rust (SrR) and barley powdery mildew (Mla) are located in syntenic regions on short arm of chromosome",
+            "pub_year": "2004",
+            "citation": "Genome 47 (1), 112-121, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7128629001714755559",
+        "cites_id": [
+            "7128629001714755559"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lr67 and Lr34rust resistance genes have much in common\u2013they confer broad spectrum resistance to multiple pathogens in wheat",
+            "pub_year": "2013",
+            "citation": "BMC Plant Biology 13 (1), 1-9, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9556190543048576000",
+        "cites_id": [
+            "9556190543048576000"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Early vigour improves phosphate uptake in wheat",
+            "pub_year": "2015",
+            "citation": "Journal of Experimental Botany 66 (22), 7089-7100, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:isC4tDSrTZIC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6864857069394278579",
+        "cites_id": [
+            "6864857069394278579"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Major haplotype divergence including multiple germin-like protein genes, at the wheat Sr2 adult plant stem rust resistance locus",
+            "pub_year": "2014",
+            "citation": "BMC plant biology 14, 1-11, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:-f6ydRqryjwC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11465390607598333176",
+        "cites_id": [
+            "11465390607598333176"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A physical map of the short arm of wheat chromosome 1A",
+            "pub_year": "2013",
+            "citation": "PLoS One 8 (11), e80272, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13296482519109426069",
+        "cites_id": [
+            "13296482519109426069"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stem rust resistance in wheat is suppressed by a subunit of the mediator complex",
+            "pub_year": "2020",
+            "citation": "Nature communications 11 (1), 1123, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11956937203551513134",
+        "cites_id": [
+            "11956937203551513134"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Repeat-length variation in a wheat cellulose synthase-like gene is associated with altered tiller number and stem cell wall composition",
+            "pub_year": "2017",
+            "citation": "Journal of experimental botany 68 (7), 1519-1529, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14103254497237081504",
+        "cites_id": [
+            "14103254497237081504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Major Gene for Field Stem Rust Resistance Co-Locates with Resistance Gene Sr12 in \u2018Thatcher\u2019 Wheat",
+            "pub_year": "2016",
+            "citation": "PloS one 11 (6), e0157029, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:lSLTfruPkqcC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1720835064814527348",
+        "cites_id": [
+            "1720835064814527348"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wheat rust resistance research at CSIRO",
+            "pub_year": "2007",
+            "citation": "Australian Journal of Agricultural Research 58 (6), 507-511, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:dhFuZR0502QC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5175322267562784985",
+        "cites_id": [
+            "5175322267562784985"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inheritance of resistance to flax wilt (Fusarium oxysporum f. sp. lini Schlecht) in a doubled haploid population of Linum usitatissimum L.",
+            "pub_year": "1998",
+            "citation": "Euphytica 101, 287-291, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13381798649273049231",
+        "cites_id": [
+            "13381798649273049231"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Homoeologous set of NBS-LRR genes located at leaf and stripe rust resistance loci on short arms of chromosome 1 of wheat",
+            "pub_year": "2003",
+            "citation": "Functional & integrative genomics 3, 86-90, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14453483825693468462",
+        "cites_id": [
+            "14453483825693468462"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effect of gibberellin-sensitive Rht18 and gibberellin-insensitive Rht-D1b dwarfing genes on vegetative and reproductive growth in bread wheat",
+            "pub_year": "2021",
+            "citation": "Journal of Experimental Botany 72 (2), 445-458, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:UxriW0iASnsC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=316839947685007298",
+        "cites_id": [
+            "316839947685007298"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Overgrowth mutants determine the causal role of gibberellin GA2oxidaseA13 in Rht12 dwarfism of wheat",
+            "pub_year": "2020",
+            "citation": "Journal of Experimental Botany 71 (22), 7171-7178, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:KxtntwgDAa4C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12962012753106931105",
+        "cites_id": [
+            "12962012753106931105"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Increase in coleoptile length and establishment by Lcol-A1, a genetic locus with major effect in wheat",
+            "pub_year": "2019",
+            "citation": "BMC Plant Biology 19 (1), 1-10, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6127103322882202190",
+        "cites_id": [
+            "6127103322882202190"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Requirements for success in marker-assisted breeding for drought-prone environments",
+            "pub_year": "2007",
+            "citation": "Advances in molecular breeding toward drought and salt tolerant crops, 479-500, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:IWHjjKOFINEC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2033478709149493318",
+        "cites_id": [
+            "2033478709149493318"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dwarfing genes in Australian wheat-present and future",
+            "pub_year": "2001",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10265707562643354630",
+        "cites_id": [
+            "10265707562643354630"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adult plant leaf rust resistance derived from the wheat landrace cultivar Americano 44d is conditioned by interaction of three QTL",
+            "pub_year": "2018",
+            "citation": "Euphytica 214, 1-11, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7017910531485094678",
+        "cites_id": [
+            "7017910531485094678"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rht18 semi-dwarfism in wheat is due to increased expression of GA 2-oxidaseA9 and lower GA content",
+            "pub_year": "2018",
+            "citation": "Plant Physiol 177, 168-180, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12894751944646674973",
+        "cites_id": [
+            "12894751944646674973"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resistance genes",
+            "pub_year": "2013",
+            "citation": "US Patent 8,581,038, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:k_IJM867U9cC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8255743043144369224",
+        "cites_id": [
+            "8255743043144369224"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic improvement of wheat for dry environments-a trait based approach",
+            "pub_year": "2008",
+            "citation": "Sydney University Press, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:qUcmZB5y_30C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6278499262964553056",
+        "cites_id": [
+            "6278499262964553056"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Disease Resistance Evaluation of Elite CIMMYT Wheat Lines Containing the Coupled Fhb1 and Sr2 Genes",
+            "pub_year": "2020",
+            "citation": "Plant Disease 104 (9), 2369-2376, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8542334063687617224",
+        "cites_id": [
+            "8542334063687617224"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An autoactive NB-LRR gene causes Rht13 dwarfism in wheat",
+            "pub_year": "2022",
+            "citation": "Proceedings of the National Academy of Sciences 119 (48), e2209875119, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:WbkHhVStYXYC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=289676495820174248",
+        "cites_id": [
+            "289676495820174248"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\uc790\ud3d0\uc131\uc544\ub3d9\uc758 \ub180\uc774\ub2e4\uc6c0 \ud3c9\uc815\ucc99\ub3c4 (Playfulness of Test: ToP) \uc5d0 \ub300\ud55c \ud0c0\ub2f9\ub3c4\uc640 \uc2e0\ub8b0\ub3c4",
+            "pub_year": "2005",
+            "citation": "\uc815\uc11c\u00b7 \ud589\ub3d9\uc7a5\uc560\uc5f0\uad6c 21 (4), 139-161, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5755043164087208913,6780362295855329554",
+        "cites_id": [
+            "5755043164087208913",
+            "6780362295855329554"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The use of SNP hybridisation arrays and cytogenetics to characterise deletions of chromosome 4B in hexaploid wheat (Triticum aestivum L.)",
+            "pub_year": "2016",
+            "citation": "Theoretical and Applied Genetics 129, 2151-2160, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:35N4QoGY0k4C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10198652693490870228",
+        "cites_id": [
+            "10198652693490870228"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Advanced wheat breeding lines combining Fhb1 and Sr2 in different genetic backgrounds",
+            "pub_year": "2015",
+            "citation": "Proceedings of the 9th International Wheat Conference, Sydney, Australia, 20-25, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:BqipwSGYUEgC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7737881224001401138",
+        "cites_id": [
+            "7737881224001401138"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Durable rust resistance in wheat is effective against multiple pathogens",
+            "pub_year": "2008",
+            "citation": "Sydney University Press, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:HDshCWvjkbEC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5425236413646649047",
+        "cites_id": [
+            "5425236413646649047"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fine-mapping of the durable leaf rust resistance gene Lr34 using sequence information from Brachypodium and Aegiliops tauschii",
+            "pub_year": "2008",
+            "citation": "Sydney University Press, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12371667592324870632",
+        "cites_id": [
+            "12371667592324870632"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Markers for salinity tolerance in wheat plants and the use thereof in breeding programs",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:r0BpntZqJG4C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14813196666049276959",
+        "cites_id": [
+            "14813196666049276959"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\" Perfect\" markers for the semidwarfing gene sd1 in rice",
+            "pub_year": "2002",
+            "citation": "International Rice Research Notes, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1350635747420175686",
+        "cites_id": [
+            "1350635747420175686"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Implementation of molecular markers to improve selection efficiency in CSIRO wheat breeding program",
+            "pub_year": "2001",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:hC7cP41nSMkC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3793581662358076086",
+        "cites_id": [
+            "3793581662358076086"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rice genome sequence expedites fine mapping of durable, broad-spectrum stem rust resistance gene Sr2 in wheat (Triticum aestivum)",
+            "pub_year": "2003",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:TQgYirikUcIC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15616456010479700051",
+        "cites_id": [
+            "15616456010479700051"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotypes Conferred by Wheat Multiple Pathogen Resistance Locus, Sr2, Include Cell Death in Response to Biotic and Abiotic Stresses",
+            "pub_year": "2019",
+            "citation": "Phytopathology 109 (10), 1751-1759, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17070717420056914275",
+        "cites_id": [
+            "17070717420056914275"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stem rust resistance: two approaches",
+            "pub_year": "2015",
+            "citation": "Advances in Wheat Genetics: From Genome to Field: Proceedings of the 12th \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:GnPB-g6toBAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16984863413049499353",
+        "cites_id": [
+            "16984863413049499353"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Big B of Bread wheat-3B-exploring the structure; function; and evolution of the hexaploid wheat genome",
+            "pub_year": "2008",
+            "citation": "Sydney University Press, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:XiSMed-E-HIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4937239307132843528",
+        "cites_id": [
+            "4937239307132843528"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cloning sd-1, the semidwarf gene in rice and developing'perfect markers' for breeding",
+            "pub_year": "2002",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5009357154828522780",
+        "cites_id": [
+            "5009357154828522780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resistance genes",
+            "pub_year": "2015",
+            "citation": "US Patent 9,115,370, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11304341303388699975",
+        "cites_id": [
+            "11304341303388699975"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "15. Cloned rust resistance genes and gene based molecular markers in wheat: Current status and future prospects.",
+            "pub_year": "2009",
+            "citation": "Genetics 164, 655-664, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9384928630452099450",
+        "cites_id": [
+            "9384928630452099450"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An ABC transporter confers durable resistance to multiple fungal pathogens in wheat. International Triticeae Mapping Initiative, 19th.; COST Tritigen, 3rd.; Clermont-Ferrand \u2026",
+            "pub_year": "2009",
+            "citation": "^ TInternational Triticeae Mapping Initiative, 19th.; COST Tritigen, 3rd \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10915453311884126032",
+        "cites_id": [
+            "10915453311884126032"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular genetics of Fusarium wilt resistance in flax",
+            "pub_year": "1996",
+            "citation": "The Australian National University, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:rO6llkc54NcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14676945677330269407",
+        "cites_id": [
+            "14676945677330269407"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dwarfing Genes in Wheat and Barley: All about GA",
+            "pub_year": "2019",
+            "citation": "Plant and Animal Genome XXVII Conference (January 12-16, 2019), 2019"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolating a Gene that Suppresses Stem Rust Resistance in Wheat",
+            "pub_year": "2018",
+            "citation": "Plant and Animal Genome XXVI Conference (January 13-17, 2018), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:P5F9QuxV20EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "project Molecular markers for broadening the genetic base of stem rust resistance genes effective against strain Ug99",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular markers for broadening the genetic base of stem rust resistance genes effective against strain Ug99.",
+            "pub_year": "2016",
+            "citation": "Molecular markers for broadening the genetic base of stem rust resistance \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The use of SNP hybridisation arrays and cytogenetics to characterise deletions of chromosome 4B in hexaploid wheat (Triticum aestivum L.)",
+            "pub_year": "2016",
+            "citation": "Springer, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resistance genes",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polynucleotides encoding a NAX2 polypeptide and methods for enhancing salinity tolerance in plants",
+            "pub_year": "2013",
+            "citation": "US Patent 8,536,429, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:maZDTaKrznsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular basis of durable rust resistance in wheat. International Cereal Rusts Powdery Mildews Conference; Antalya (Turkey); 13-16 Oct 2009, Abstract Book.",
+            "pub_year": "2009",
+            "citation": "^ TInternational Cereal Rusts Powdery Mildews Conference; Antalya (Turkey \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cloned rust resistance genes and gene based molecular markers in wheat: current status and future prospects. Borlaug Global Rust Initiative, Cd. Obregon, Sonora, Mexico; 17-20 \u2026",
+            "pub_year": "2009",
+            "citation": "^ TBorlaug Global Rust Initiative, Cd. Obregon, Sonora, Mexico; 17-20 Mar \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Salt tolerant plants",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wheat rust resistance research at CSIRO:[Paper in special issue: Global Landscape in Cereal Rust Control.]",
+            "pub_year": "2007",
+            "citation": "Australian Journal of Agricultural Research 58 (6), 507-511, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:hMod-77fHWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coordination of chromatin remodelling prior to meiosis is linked to homology",
+            "pub_year": "2007",
+            "citation": "CHROMOSOME RESEARCH 15, 91-91, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative mapping of chromosome 1AS which contains the tiller inhibition gene (tin) with rice chromosome 5S",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GENOMICS, MOLECULAR GENETICS & BIOTECHNOLOGY-Identification and Validation of Markers Linked to Broad-Spectrum Stem Rust Resistance Gene Sr2 in Wheat (Triticum aestivum L.)",
+            "pub_year": "2003",
+            "citation": "Crop Science 43 (1), 333-336, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Sodium Transporter (HKT7) Is a Candidate for Nax1, a Gene for Salt Tolerance in Durum Wheat1 [W][OA]",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Continuing Australian Journal of Plant Physiology",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "hvoNlLoAAAAJ:70eg2SAEIzsC",
+        "num_citations": 0
+    }
+]

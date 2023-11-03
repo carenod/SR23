@@ -1,0 +1,244 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Anthoceros genomes illuminate the origin of land plants and the unique biology of hornworts",
+            "pub_year": "2020",
+            "citation": "Nature plants 6 (3), 259-272, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 193,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3192204013792362532,11367561950035919790",
+        "cites_id": [
+            "3192204013792362532",
+            "11367561950035919790"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Origin and evolution of gibberellin signaling and metabolism in plants",
+            "pub_year": "2021",
+            "citation": "Seminars in cell & developmental biology 109, 46-54, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=474024430512692336",
+        "cites_id": [
+            "474024430512692336"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Origin of gibberellin-dependent transcriptional regulation by molecular exploitation of a transactivation domain in DELLA proteins",
+            "pub_year": "2019",
+            "citation": "Molecular Biology and Evolution 36 (5), 908-918, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3653257004076040843",
+        "cites_id": [
+            "3653257004076040843"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary analysis of DELLA-associated transcriptional networks",
+            "pub_year": "2017",
+            "citation": "Frontiers in Plant Science 8, 626, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13762269146112004595",
+        "cites_id": [
+            "13762269146112004595"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin methylation is required for differential growth in Arabidopsis",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (26), 6864-6869, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17394641445538538430",
+        "cites_id": [
+            "17394641445538538430"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coordination between growth and stress responses by DELLA in the liverwort Marchantia polymorpha",
+            "pub_year": "2021",
+            "citation": "Current Biology 31 (16), 3678-3686, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:roLk4NBRz8UC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10879205814248943658",
+        "cites_id": [
+            "10879205814248943658"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reduction of indole\u20103\u2010acetic acid methyltransferase activity compensates for high\u2010temperature male sterility in Arabidopsis",
+            "pub_year": "2018",
+            "citation": "Plant Biotechnology Journal 16 (1), 272-279, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5742043110510810281,8420887103476983688",
+        "cites_id": [
+            "5742043110510810281",
+            "8420887103476983688"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conservation of thermospermine synthase activity in vascular and non-vascular plants",
+            "pub_year": "2019",
+            "citation": "Frontiers in plant science 10, 663, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5706682922634729326",
+        "cites_id": [
+            "5706682922634729326"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comprehensive identification of SWI/SNF complex subunits underpins deep eukaryotic ancestry and reveals new plant components",
+            "pub_year": "2022",
+            "citation": "Communications biology 5 (1), 549, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:UebtZRa9Y70C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16829561875492794362",
+        "cites_id": [
+            "16829561875492794362"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The birth of a giant: evolutionary insights into the origin of auxin responses in plants",
+            "pub_year": "2023",
+            "citation": "The EMBO Journal 42 (6), e113018, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:8k81kl-MbHgC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15852862483968705648",
+        "cites_id": [
+            "15852862483968705648"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BBX24 Interacts with JAZ3 to Promote Growth by Reducing DELLA Activity in Shade Avoidance",
+            "pub_year": "2023",
+            "citation": "Plant and Cell Physiology 64 (5), 474-485, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:5nxA0vEk-isC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2738754987923767534",
+        "cites_id": [
+            "2738754987923767534"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DELLA proteins regulate spore germination and reproductive development in Physcomitrium patens",
+            "pub_year": "2023",
+            "citation": "New Phytologist 238 (2), 654-672, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:0EnyYjriUFMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=518795603602194458",
+        "cites_id": [
+            "518795603602194458"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DELLA functions evolved by rewiring of associated transcriptional networks",
+            "pub_year": "2023",
+            "citation": "Nature Plants 9 (4), 535-543, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PharaohFUN: PHylogenomic Analysis foR plAnt prOtein History and FUNction elucidation",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.08. 01.551440, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:Zph67rFs4hoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "To bind or not to bind: how Auxin Response Factors select their target genes",
+            "pub_year": "2023",
+            "citation": "Journal of Experimental Botany, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ancestral functions of della proteins",
+            "pub_year": "2021",
+            "citation": "Universitat Polit\u00e8cnica de Val\u00e8ncia, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "FBDn8ScAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,1011 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Polycomb-group gene regulates homeotic gene expression in Arabidopsis",
+            "pub_year": "1997",
+            "citation": "Nature 386 (6620), 44-51, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 895,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=535859182669864572",
+        "cites_id": [
+            "535859182669864572"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole-Genome Analysis of Histone H3 Lysine 27 Trimethylation in Arabidopsis",
+            "pub_year": "2007",
+            "citation": "PLoS biology 5 (5), e129, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 788,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6980444036291263567",
+        "cites_id": [
+            "6980444036291263567"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interaction of Polycomb-group proteins controlling flowering in Arabidopsis",
+            "pub_year": "2004",
+            "citation": "Oxford University Press for The Company of Biologists Limited 131 (21), 5263 \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 581,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13189724656761021350",
+        "cites_id": [
+            "13189724656761021350"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Silencing by plant Polycomb\u2010group genes requires dispersed trimethylation of histone H3 at lysine 27",
+            "pub_year": "2006",
+            "citation": "The EMBO journal 25 (19), 4638-4649, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:ufrVoPGSRksC",
+        "num_citations": 442,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10338040491439925162",
+        "cites_id": [
+            "10338040491439925162"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dual histone H3 methylation marks at lysines 9 and 27 required for interaction with CHROMOMETHYLASE3",
+            "pub_year": "2004",
+            "citation": "The EMBO journal 23 (21), 4286-4296, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 412,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9383354981294287010",
+        "cites_id": [
+            "9383354981294287010"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A common gene regulates pigmentation pattern in diverse plant species",
+            "pub_year": "1992",
+            "citation": "Cell 68 (5), 955-964, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:mB3voiENLucC",
+        "num_citations": 384,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3425795940237532533",
+        "cites_id": [
+            "3425795940237532533"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polycomb repressive complex 2 controls the embryo-to-seedling phase transition",
+            "pub_year": "2011",
+            "citation": "PLoS genetics 7 (3), e1002014, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 378,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4253925654792738467",
+        "cites_id": [
+            "4253925654792738467"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Different Polycomb group complexes regulate common target genes in Arabidopsis",
+            "pub_year": "2006",
+            "citation": "EMBO reports 7 (9), 947-952, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:dhFuZR0502QC",
+        "num_citations": 297,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=205253201939637294",
+        "cites_id": [
+            "205253201939637294"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AGAMOUS Terminates Floral Stem Cell Maintenance in Arabidopsis by Directly Repressing WUSCHEL through Recruitment of Polycomb Group Proteins",
+            "pub_year": "2011",
+            "citation": "The Plant Cell 23 (10), 3654-3670, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:4TOpqqG69KYC",
+        "num_citations": 263,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9776634716807542885",
+        "cites_id": [
+            "9776634716807542885"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Only in dying, life: programmed cell death during plant development",
+            "pub_year": "2015",
+            "citation": "Trends in plant science 20 (2), 102-113, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 203,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6758561939764126537",
+        "cites_id": [
+            "6758561939764126537"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Overexpression of a novel small peptide ROTUNDIFOLIA4 decreases cell proliferation and alters leaf shape in Arabidopsis thaliana",
+            "pub_year": "2004",
+            "citation": "The Plant Journal 38 (4), 699-713, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 198,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13964991714043873248",
+        "cites_id": [
+            "13964991714043873248"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parallels between UNUSUAL FLORAL ORGANS and FIMBRIATA, genes controlling flower development in Arabidopsis and Antirrhinum.",
+            "pub_year": "1995",
+            "citation": "The Plant Cell 7 (9), 1501-1510, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 198,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1029388253450177213",
+        "cites_id": [
+            "1029388253450177213"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cis and trans determinants of epigenetic silencing by Polycomb repressive complex 2 in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "Nature genetics 49 (10), 1546-1552, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:Zph67rFs4hoC",
+        "num_citations": 194,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14145865325358060931",
+        "cites_id": [
+            "14145865325358060931"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interaction of the Arabidopsis polycomb group proteins FIE and MEA mediates their common phenotypes",
+            "pub_year": "2000",
+            "citation": "Current Biology 10 (23), 1535-1538, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:_kc_bZDykSQC",
+        "num_citations": 177,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14644320530298527382",
+        "cites_id": [
+            "14644320530298527382"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic control of plant development by Polycomb-group proteins",
+            "pub_year": "2005",
+            "citation": "Current opinion in plant biology 8 (5), 553-561, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 175,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13784258797004793062",
+        "cites_id": [
+            "13784258797004793062"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Footprints of the sun: memory of UV and light stress in plants",
+            "pub_year": "2014",
+            "citation": "Frontiers in plant science 5, 474, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 172,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4138315917680520837",
+        "cites_id": [
+            "4138315917680520837"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PRC2 represses dedifferentiation of mature somatic cells in Arabidopsis",
+            "pub_year": "2015",
+            "citation": "Nature Plants 1 (7), 1-7, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 146,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8306051999025422638",
+        "cites_id": [
+            "8306051999025422638"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The endosperm-specific ZHOUPI gene of Arabidopsis thaliana regulates endosperm breakdown and embryonic epidermal development",
+            "pub_year": "2008",
+            "citation": "Oxford University Press for The Company of Biologists Limited 135 (21), 3501 \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1830721250406262726",
+        "cites_id": [
+            "1830721250406262726"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Remembrance of things past: chromatin remodeling in plant development",
+            "pub_year": "2002",
+            "citation": "Annual review of cell and developmental biology 18 (1), 707-746, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10060145436150561211",
+        "cites_id": [
+            "10060145436150561211"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ZHOUPI controls embryonic cuticle formation via a signalling pathway involving the subtilisin protease ABNORMAL LEAF-SHAPE1 and the receptor kinases GASSHO1 and GASSHO2",
+            "pub_year": "2013",
+            "citation": "Development 140 (4), 770-779, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17488428636316773803",
+        "cites_id": [
+            "17488428636316773803"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tissue-Specific Expression of FLOWERING LOCUS T in Arabidopsis Is Maintained Independently of Polycomb Group Protein Repression",
+            "pub_year": "2011",
+            "citation": "The Plant Cell 23 (9), 3204-3214, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1904755212018714779",
+        "cites_id": [
+            "1904755212018714779"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antagonistic Roles of SEPALLATA3, FT and FLC Genes as Targets of the Polycomb Group Gene CURLY LEAF",
+            "pub_year": "2012",
+            "citation": "PLoS One 7 (2), e30715, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:roLk4NBRz8UC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15455412996706330607",
+        "cites_id": [
+            "15455412996706330607"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Keeping plants in shape: polycomb-group genes and histone methylation",
+            "pub_year": "2008",
+            "citation": "Seminars in cell & developmental biology 19 (6), 547-553, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16508516206848959248",
+        "cites_id": [
+            "16508516206848959248"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kicking against the PRCs\u2013a domesticated transposase antagonises silencing mediated by Polycomb group proteins and is an accessory component of Polycomb repressive complex 2",
+            "pub_year": "2015",
+            "citation": "PLoS Genetics 11 (12), e1005660, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17383781923059159657",
+        "cites_id": [
+            "17383781923059159657"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis guard cell integrity involves the epigenetic stabilization of the FLP and FAMA transcription factor genes",
+            "pub_year": "2014",
+            "citation": "The Plant Journal 78 (4), 566-577, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7145038011823754464",
+        "cites_id": [
+            "7145038011823754464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The CURLY LEAF Interacting Protein BLISTER Controls Expression of Polycomb-Group Target Genes and Cellular Differentiation of Arabidopsis thaliana",
+            "pub_year": "2010",
+            "citation": "The plant cell 22 (7), 2291-2305, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5084429308384135297",
+        "cites_id": [
+            "5084429308384135297"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genetics of stamenoid petal production in oilseed rape (Brassica napus) and equivalent variation in Arabidopsis thaliana",
+            "pub_year": "1997",
+            "citation": "Theoretical and applied genetics 94, 731-736, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:HDshCWvjkbEC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3908636709527872801",
+        "cites_id": [
+            "3908636709527872801"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanical stress mediated by both endosperm softening and embryo growth underlies endosperm elimination in Arabidopsis seeds",
+            "pub_year": "2016",
+            "citation": "Development 143 (18), 3300-3305, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:TQgYirikUcIC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16076595055544684015",
+        "cites_id": [
+            "16076595055544684015"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polycomb-Group Proteins and FLOWERING LOCUS T Maintain Commitment to Flowering in Arabidopsis thaliana",
+            "pub_year": "2014",
+            "citation": "The Plant Cell 26 (6), 2457-2471, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16550919409826931738",
+        "cites_id": [
+            "16550919409826931738"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polycomb proteins regulate the quantitative induction of VERNALIZATION INSENSITIVE 3 in response to low temperatures",
+            "pub_year": "2011",
+            "citation": "The Plant Journal 65 (3), 382-391, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17693918785337971329",
+        "cites_id": [
+            "17693918785337971329"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ds elements on all five Arabidopsis chromosomes and assessment of their utility for transposon tagging",
+            "pub_year": "1997",
+            "citation": "The Plant Journal 11 (1), 145-148, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:8k81kl-MbHgC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3807461967297389904",
+        "cites_id": [
+            "3807461967297389904"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis epigenetic regulator ICU11 as an accessory protein of Polycomb Repressive Complex 2",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (28), 16660-16666, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11503897437454702717",
+        "cites_id": [
+            "11503897437454702717"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular and genetic analysis of the control of flowering time in response to daylength in Arabidopsis thaliana",
+            "pub_year": "1993",
+            "citation": "Flowering Newsletter, 27-32, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:Se3iqnhoufwC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4250978816065958481",
+        "cites_id": [
+            "4250978816065958481"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The domesticated transposase ALP2 mediates formation of a novel Polycomb protein complex by direct interaction with MSI1, a core subunit of Polycomb Repressive Complex 2 (PRC2)",
+            "pub_year": "2020",
+            "citation": "PLoS genetics 16 (5), e1008681, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4725952320215550441",
+        "cites_id": [
+            "4725952320215550441"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sweet memories: epigenetic control in flowering",
+            "pub_year": "2011",
+            "citation": "F1000 biology reports 3, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:4DMP91E08xMC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6445412835031264883",
+        "cites_id": [
+            "6445412835031264883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic imprinting: seeds of conflict",
+            "pub_year": "2000",
+            "citation": "Current Biology 10 (2), R71-R74, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17631575404541699736",
+        "cites_id": [
+            "17631575404541699736"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant development:: Medea's maternal instinct",
+            "pub_year": "1998",
+            "citation": "Current biology 8 (14), R480-R484, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:aqlVkmm33-oC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=554734953448312766",
+        "cites_id": [
+            "554734953448312766"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis research 2001",
+            "pub_year": "2001",
+            "citation": "The Plant Cell 13 (9), 1973-1982, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10115039625779417526",
+        "cites_id": [
+            "10115039625779417526"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant meristems: Cell signalling keeps the balance",
+            "pub_year": "1997",
+            "citation": "Current Biology 7 (7), R427-R429, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:qjMakFHDy7sC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11736247342216912735",
+        "cites_id": [
+            "11736247342216912735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Non-inductive conditions expose the cryptic bract of flower phytomeres in Arabidopsis thaliana",
+            "pub_year": "2015",
+            "citation": "Plant signaling & behavior 10 (4), e1010868, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4130101210470217214",
+        "cites_id": [
+            "4130101210470217214"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u201cWhat we\u2019ve got here is failure to communicate\u201d Zou mutants and endosperm cell death in seed development",
+            "pub_year": "2013",
+            "citation": "Plant Signaling & Behavior 8 (6), e24368, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5200253668224486222",
+        "cites_id": [
+            "5200253668224486222"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A walk from the wild side: the genetics of domestication of livestock and crops",
+            "pub_year": "2005",
+            "citation": "BioEssays 27 (5), 574-576, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:IWHjjKOFINEC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5954419206506378514",
+        "cites_id": [
+            "5954419206506378514"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A domesticated Harbinger transposase forms a complex with HDA6 and promotes histone H3 deacetylation at genes but not TEs in Arabidopsis",
+            "pub_year": "2021",
+            "citation": "Journal of integrative plant biology 63 (8), 1462-1474, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:blknAaTinKkC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5307036759913008171",
+        "cites_id": [
+            "5307036759913008171"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reduced function of the RNA-binding protein FPA rescues a T-DNA insertion mutant in the Arabidopsis ZHOUPI gene by promoting transcriptional read-through",
+            "pub_year": "2016",
+            "citation": "Plant molecular biology 91, 549-561, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14132050125473270477",
+        "cites_id": [
+            "14132050125473270477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant epigenetics: MEDEA's children take centre stage",
+            "pub_year": "2003",
+            "citation": "Current Biology 13 (16), R638-R640, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18389118973971128222",
+        "cites_id": [
+            "18389118973971128222"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polycomb proteins control floral determinacy by H3K27me3-mediated repression of pluripotency genes in Arabidopsis thaliana",
+            "pub_year": "2022",
+            "citation": "Journal of Experimental Botany 73 (8), 2385-2402, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1849131604321607555",
+        "cites_id": [
+            "1849131604321607555"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Floral Homoeotic and Pigment Mutations Produced by Transposon-Mutagenesis in Antirrhinum majus",
+            "pub_year": "1991",
+            "citation": "Plant Molecular Biology 2, 537-544, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:UebtZRa9Y70C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14980755229985046283",
+        "cites_id": [
+            "14980755229985046283"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRISPR/Cas9\u2010mediated restoration of Tamyb10 to create pre\u2010harvest sprouting\u2010resistant red wheat",
+            "pub_year": "2023",
+            "citation": "Plant biotechnology journal 21 (4), 665, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=206173233750700576",
+        "cites_id": [
+            "206173233750700576"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stomatal regulators are co-opted for seta development in the astomatous liverwort Marchantia polymorpha",
+            "pub_year": "2023",
+            "citation": "Nature plants 9 (2), 302-314, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:lSLTfruPkqcC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14399028732523238716",
+        "cites_id": [
+            "14399028732523238716"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Vernalization and epigenetic inheritance: a game of histones",
+            "pub_year": "2017",
+            "citation": "Current Biology 27 (24), R1324-R1326, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13774402144665276309",
+        "cites_id": [
+            "13774402144665276309"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dual histone H3 methylation marks at lysines 9 and 27 required for interaction with CHROMOMETHYLASE3",
+            "pub_year": "2011",
+            "citation": "The EMBO journal 30 (9), 1874-1874, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16980602474063722913",
+        "cites_id": [
+            "16980602474063722913"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A transcription factor module regulating stomatal formation is co-opted for the development of setae in the astomatous liverwort Marchantia polymorpha",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.04. 29.489008, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4563846316527706061",
+        "cites_id": [
+            "4563846316527706061"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant Polycomb-Group Proteins: Epigenetic Regulators of Development",
+            "pub_year": "2016",
+            "citation": "eLS, 1-11, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14333252797733182500",
+        "cites_id": [
+            "14333252797733182500"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The footprints of winter",
+            "pub_year": "2011",
+            "citation": "American scientist 25 (3), 57-58, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11306607811132743852",
+        "cites_id": [
+            "11306607811132743852"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis: A Laboratory Manual. D. WEIGEL & J. GLAZEBROOK. Cold Spring Harbor Laboratory Press. 2002. 354 pages. ISBN 0 87969 573 0. Price 180 (hardcover).",
+            "pub_year": "2002",
+            "citation": "Genetics Research 80 (1), 77-77, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18398761568359876439",
+        "cites_id": [
+            "18398761568359876439"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polycomb proteins control floral determinacy by H3K27me3-mediated repression of pluripotency genes in Arabidopsis thaliana",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: Kicking against the PRCs-A Domesticated Transposase Antagonises Silencing Mediated by Polycomb Group Proteins and Is an Accessory Component of Polycomb Repressive \u2026",
+            "pub_year": "2016",
+            "citation": "Plos Genetics 12 (2), e1005812, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:qUcmZB5y_30C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kicking against the PRCs",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polycomb-Group Proteins and FLOWERING LOCUS T Maintain Commitment to Flowering in Arabidopsis thalianaC W OPEN",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:-f6ydRqryjwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What we\u2019ve got here is failure to communicate",
+            "pub_year": "2013",
+            "citation": "Zou mutants and endosperm cell death in seed, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:0EnyYjriUFMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of Arabidopsis T-DNA tag line with dwarfism and depressed leaves",
+            "pub_year": "2003",
+            "citation": "PLANT AND CELL PHYSIOLOGY 44, S107-S107, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:WF5omc3nYNoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of plant genes",
+            "pub_year": "1993",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:GnPB-g6toBAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Delia: a gene regulating pigmentation pattern in Antirrhinum majus.",
+            "pub_year": "1992",
+            "citation": "University of East Anglia, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "65 Interview with Jorge J. Casal Jorge J. Casal",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:BqipwSGYUEgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AGAMOUS Terminates Floral Stem Cell Maintenance in Arabidopsis by Directly Repressing WUSCHEL through Recruitment of Polycomb Group Proteins W",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PRC2 represses dedifferentiation of mature somatic cells in Arabidopsis",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "2IgKFDQAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 0
+    }
+]

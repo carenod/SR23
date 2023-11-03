@@ -1,0 +1,1402 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DisProt: intrinsic protein disorder annotation in 2020",
+            "pub_year": "2020",
+            "citation": "Nucleic acids research 48 (D1), D269-D276, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:WM2K3OHRCGMC",
+        "num_citations": 208,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17908721361099269400",
+        "cites_id": [
+            "17908721361099269400"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MISTIC: mutual information server to infer coevolution",
+            "pub_year": "2013",
+            "citation": "Nucleic acids research 41 (W1), W8-W14, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 165,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14983579956508031853",
+        "cites_id": [
+            "14983579956508031853"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction for phylogeny, small number of observations and data redundancy improves the identification of coevolving amino acid pairs using mutual information",
+            "pub_year": "2009",
+            "citation": "Bioinformatics 25 (9), 1125-1131, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 126,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5131630494241409850",
+        "cites_id": [
+            "5131630494241409850"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PED in 2021: a major update of the protein ensemble database for intrinsically disordered proteins",
+            "pub_year": "2021",
+            "citation": "Nucleic acids research 49 (D1), D404-D411, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:cOfwuRB03ygC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9507249954444406856",
+        "cites_id": [
+            "9507249954444406856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Networks of high mutual information define the structural proximity of catalytic sites: implications for catalytic residue identification",
+            "pub_year": "2010",
+            "citation": "PLoS computational biology 6 (11), e1000978, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2346625094763305299",
+        "cites_id": [
+            "2346625094763305299"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DisProt in 2022: improved quality and accessibility of protein intrinsic disorder annotation",
+            "pub_year": "2022",
+            "citation": "Nucleic Acids Research 50 (D1), D480-D487, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:jKT558fuBk8C",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12338933893683088983",
+        "cites_id": [
+            "12338933893683088983"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of intellectual disability and autism comorbidity through gene panel sequencing",
+            "pub_year": "2019",
+            "citation": "Human mutation 40 (9), 1346-1363, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:pxXbYLTb8EgC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8040350166702824472",
+        "cites_id": [
+            "8040350166702824472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The insulin receptor: from protein sequence to structure",
+            "pub_year": "1999",
+            "citation": "Biochemical Society Transactions 27 (4), 715-726, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:ufrVoPGSRksC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5719805221540730980",
+        "cites_id": [
+            "5719805221540730980"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Disentangling evolutionary signals: conservation, specificity determining positions and coevolution. Implication for catalytic residue prediction",
+            "pub_year": "2012",
+            "citation": "BMC bioinformatics 13, 1-8, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:qjMakFHDy7sC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9377986518238637465",
+        "cites_id": [
+            "9377986518238637465"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A third fibronectin type III domain in the extracellular region of the insulin receptor family",
+            "pub_year": "1998",
+            "citation": "FEBS letters 441 (2), 331-336, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2657560287125038904",
+        "cites_id": [
+            "2657560287125038904"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular determinants of arenavirus Z protein homo-oligomerization and L polymerase binding",
+            "pub_year": "2011",
+            "citation": "Journal of virology 85 (23), 12304-12314, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:GtqhT-R7ZnwC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14723773569045072089",
+        "cites_id": [
+            "14723773569045072089"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping the mutual information network of enzymatic families in the protein structure to unveil functional features",
+            "pub_year": "2012",
+            "citation": "PLoS One 7 (7), e41430, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13866535894164477151",
+        "cites_id": [
+            "13866535894164477151"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "C-tail valine is a key residue for stabilization of complex between potato inhibitor and carboxypeptidase A.",
+            "pub_year": "1994",
+            "citation": "Journal of Biological Chemistry 269 (34), 21467-21472, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:NnTm98qLMbgC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13442494670869576213",
+        "cites_id": [
+            "13442494670869576213"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conformational diversity and the emergence of sequence signatures during evolution",
+            "pub_year": "2015",
+            "citation": "Current opinion in structural biology 32, 58-65, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:J4E9jCG1tHUC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3042589765582503411",
+        "cites_id": [
+            "3042589765582503411"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional regulation of insulin-degrading enzyme modulates mitochondrial amyloid \u03b2 (A\u03b2) peptide catabolism and functionality",
+            "pub_year": "2013",
+            "citation": "Journal of Biological Chemistry 288 (18), 12920-12931, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:u_mOZUIutIEC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12867062957465620540",
+        "cites_id": [
+            "12867062957465620540"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis DNA Polymerase \u03b4 Has a Role in the Deposition of Transcriptionally Active Epigenetic Marks, Development and Flowering",
+            "pub_year": "2015",
+            "citation": "PLoS genetics 11 (2), e1004975, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:DGzKIA18-3YC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3520920214260312181",
+        "cites_id": [
+            "3520920214260312181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How does pH fit in with oscillating polar growth?",
+            "pub_year": "2018",
+            "citation": "Trends in plant science 23 (6), 479-489, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:yCjxvIMm6_oC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11408199826326093393",
+        "cites_id": [
+            "11408199826326093393"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural domains of the insulin receptor and IGF receptor required for dimerisation and ligand binding",
+            "pub_year": "2000",
+            "citation": "FEBS letters 467 (2-3), 226-230, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16812969952128158901",
+        "cites_id": [
+            "16812969952128158901"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protein conformational diversity correlates with evolutionary rate",
+            "pub_year": "2013",
+            "citation": "Molecular biology and evolution 30 (7), 1500-1503, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:rpSJNIKeXWsC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17312405483079287234",
+        "cites_id": [
+            "17312405483079287234"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of P-type IIA and P-type IIB Ca2+-ATPases in plant development and growth",
+            "pub_year": "2020",
+            "citation": "Journal of Experimental Botany 71 (4), 1239-1248, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:j2GSQqY3pL0C",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4133053446223402564",
+        "cites_id": [
+            "4133053446223402564"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequence evolution of the intrinsically disordered and globular domains of a model viral oncoprotein",
+            "pub_year": "2012",
+            "citation": "PLoS One 7 (10), e47661, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=891395427350049328",
+        "cites_id": [
+            "891395427350049328"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MISTIC2: comprehensive server to study coevolution in protein families",
+            "pub_year": "2018",
+            "citation": "Nucleic Acids Research 46 (W1), W323-W328, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:bCjgOgSFrM0C",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17583112665690857305",
+        "cites_id": [
+            "17583112665690857305"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "I-COMS: Interprotein-COrrelated mutations server",
+            "pub_year": "2015",
+            "citation": "Nucleic Acids Research 43 (W1), W320-W325, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:uoRD4RTSUPoC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17838812215602344344",
+        "cites_id": [
+            "17838812215602344344"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kin-Driver: a database of driver mutations in protein kinases",
+            "pub_year": "2014",
+            "citation": "Database 2014, bau104, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:VjBpw8Hezy4C",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6083174946017440403",
+        "cites_id": [
+            "6083174946017440403"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contribution of C\u2010tail residues of potato carboxypeptidase inhibitor to the binding to carboxypeptidase A: A mutagenesis analysis",
+            "pub_year": "2000",
+            "citation": "European journal of biochemistry 267 (5), 1502-1509, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:roLk4NBRz8UC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13090511192244859985",
+        "cites_id": [
+            "13090511192244859985"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tomato apical leaf curl virus: a novel, monopartite geminivirus detected in tomatoes in Argentina",
+            "pub_year": "2018",
+            "citation": "Frontiers in Microbiology 8, 2665, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:x2hKVfJWtf0C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9005617924551113418",
+        "cites_id": [
+            "9005617924551113418"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new conformation in sarcoplasmic reticulum calcium pump and plasma membrane Ca2+ pumps revealed by a photoactivatable phospholipidic probe",
+            "pub_year": "2009",
+            "citation": "Journal of Biological Chemistry 284 (8), 4823-4828, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12679692091830519827",
+        "cites_id": [
+            "12679692091830519827"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MobiDB: 10 years of intrinsically disordered proteins",
+            "pub_year": "2023",
+            "citation": "Nucleic acids research 51 (D1), D438-D444, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:37Fl7vPTsUIC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15832130117597680368",
+        "cites_id": [
+            "15832130117597680368"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protein\u2013protein interactions leave evolutionary footprints: High molecular coevolution at the core of interfaces",
+            "pub_year": "2017",
+            "citation": "Protein Science 26 (12), 2438-2444, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:TeJ9juy8vcMC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5151093495365127829",
+        "cites_id": [
+            "5151093495365127829"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Activating mutations cluster in the \u201cmolecular brake\u201d regions of protein kinases and do not associate with conserved or catalytic residues",
+            "pub_year": "2014",
+            "citation": "Human mutation 35 (3), 318-328, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:Zph67rFs4hoC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14870590501496892483",
+        "cites_id": [
+            "14870590501496892483"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MIToS. jl: mutual information tools for protein sequence analysis in the Julia language",
+            "pub_year": "2017",
+            "citation": "Bioinformatics 33 (4), 564-565, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:BCdnXsLIVDwC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17877125700979355225",
+        "cites_id": [
+            "17877125700979355225"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The residue 179 is involved in product specificity of the Bacillus circulans DF 9R cyclodextrin glycosyltransferase",
+            "pub_year": "2012",
+            "citation": "Applied microbiology and biotechnology 94, 123-130, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:j7XjBeKFbTsC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15902356582276725117",
+        "cites_id": [
+            "15902356582276725117"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Consolidation of the Thioredoxin Fold by Peptide Recognition:\u2009 Interaction between E. coli Thioredoxin Fragments 1\u221293 and 94\u2212108",
+            "pub_year": "2007",
+            "citation": "Biochemistry 46 (17), 5148-5159, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:5nxA0vEk-isC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15933980346211698852",
+        "cites_id": [
+            "15933980346211698852"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insight into membraneless organelles and their associated proteins: Drivers, Clients and Regulators",
+            "pub_year": "2021",
+            "citation": "Computational and structural biotechnology journal 19, 3964-3977, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:YGhAHpnIhDoC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17519248788208275985",
+        "cites_id": [
+            "17519248788208275985"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Homology modeling in a dynamical world",
+            "pub_year": "2017",
+            "citation": "Protein Science 26 (11), 2195-2206, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:dFKc6_kCK1wC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9240525646216239718",
+        "cites_id": [
+            "9240525646216239718"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural selection of a native fold by peptide recognition. Insights into the thioredoxin folding mechanism",
+            "pub_year": "2009",
+            "citation": "Biochemistry 48 (3), 595-607, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:0EnyYjriUFMC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14037841404753245396",
+        "cites_id": [
+            "14037841404753245396"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Overproduction of a recombinant carboxypeptidase inhibitor by optimization of fermentation conditions",
+            "pub_year": "1994",
+            "citation": "Applied microbiology and biotechnology 41, 632-637, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:Se3iqnhoufwC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13891230536414869700",
+        "cites_id": [
+            "13891230536414869700"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the dynamical incompleteness of the Protein Data Bank",
+            "pub_year": "2019",
+            "citation": "Briefings in bioinformatics 20 (1), 356-359, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:MNNNGtAgD4EC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8438438595227082266",
+        "cites_id": [
+            "8438438595227082266"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How is structural divergence related to evolutionary information?",
+            "pub_year": "2018",
+            "citation": "Molecular phylogenetics and evolution 127, 859-866, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:8gBurD7jEYQC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3781418927105217255",
+        "cites_id": [
+            "3781418927105217255"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential contributions of Tacaribe arenavirus nucleoprotein N-terminal and C-terminal residues to nucleocapsid functional activity",
+            "pub_year": "2014",
+            "citation": "Journal of virology 88 (11), 6492-6505, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:nOiSByfp82kC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13633301543268180303",
+        "cites_id": [
+            "13633301543268180303"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Panels and models for accurate prediction of tumor mutation burden in tumor samples",
+            "pub_year": "2021",
+            "citation": "NPJ Precision Oncology 5 (1), 31, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:1wZ_wKGpLuwC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8198042633272747687",
+        "cites_id": [
+            "8198042633272747687"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cooperative RNA recognition by a viral transcription antiterminator",
+            "pub_year": "2018",
+            "citation": "Journal of Molecular Biology 430 (6), 777-792, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:vofGIMt6cyEC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9842703218868376186",
+        "cites_id": [
+            "9842703218868376186"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural determinants of binding and specificity in transforming growth factor\u2013receptor interactions",
+            "pub_year": "2001",
+            "citation": "Proteins: Structure, Function, and Bioinformatics 45 (4), 408-420, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1031475365812316166",
+        "cites_id": [
+            "1031475365812316166"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of the N-terminal tail for the oligomerization, folding and stability of human frataxin",
+            "pub_year": "2013",
+            "citation": "FEBS Open Bio 3, 310-320, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9027372708120487665",
+        "cites_id": [
+            "9027372708120487665"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Naturally Occurring Hypoallergenic Variant of Vespid Antigen 5 from Polybia scutellaris Venom as a Candidate for Allergen-Specific Immunotherapy",
+            "pub_year": "2012",
+            "citation": "PLoS One 7 (7), e41351, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9598032575139315062",
+        "cites_id": [
+            "9598032575139315062"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biscoglio de Jimenez Bonino M. A naturally occurring hypoallergenic variant of vespid Antigen 5 from Polybia scutellaris venom as a candidate for allergen-specific immunotherapy",
+            "pub_year": "2012",
+            "citation": "PLoS One 7 (7), e41351, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:1paMEeroeoQC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3785648849748741720",
+        "cites_id": [
+            "3785648849748741720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biochemical characterization of serine acetyltransferase and cysteine desulfhydrase from Leishmania major",
+            "pub_year": "2010",
+            "citation": "Molecular and biochemical parasitology 173 (2), 170-174, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:8k81kl-MbHgC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11435848968570354845",
+        "cites_id": [
+            "11435848968570354845"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interactions between \u03b1-conotoxin MI and the Torpedo marmorata receptor \u03b1\u2013\u03b4 interface",
+            "pub_year": "2007",
+            "citation": "Biochemical and biophysical research communications 355 (1), 275-279, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14611158423788312576",
+        "cites_id": [
+            "14611158423788312576"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Replacement of methionine\u2010161 with threonine eliminates a major by\u2010product of human glutamate decarboxylase 65\u2010kDa variant expression in Escherichia coli",
+            "pub_year": "2000",
+            "citation": "Biotechnology and applied biochemistry 31 (3), 205-212, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5281765809605614657",
+        "cites_id": [
+            "5281765809605614657"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of intellectual disability and autism comorbidity through gene panel sequencing",
+            "pub_year": "2020",
+            "citation": "Human mutation 41 (6), 1183, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:-38epGy1wY0C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11553300166199413202",
+        "cites_id": [
+            "11553300166199413202"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The conundrum of UDP-Glc entrance into the yeast ER lumen",
+            "pub_year": "2016",
+            "citation": "Glycobiology, 1-16, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:Ul_CLA4dPeMC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10024950908700253497",
+        "cites_id": [
+            "10024950908700253497"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cloning, sequencing and functional expression of a cDNA encoding porcine pancreatic preprocarboxypeptidase A1",
+            "pub_year": "1999",
+            "citation": "European journal of biochemistry 259 (3), 719-726, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:IyxfXMz2bNAC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11841418711892160568",
+        "cites_id": [
+            "11841418711892160568"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chasing coevolutionary signals in intrinsically disordered proteins complexes",
+            "pub_year": "2020",
+            "citation": "Scientific Reports 10 (1), 17962, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:GUYAmugLYisC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6256693566752639579",
+        "cites_id": [
+            "6256693566752639579"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biscoglio de Jim\u00e9nez Bonino, M.; Ferrarotti, SA The residue 179 is involved in product specificity of the Bacillus circulans DF 9R cyclodextrin glycosyltransferase",
+            "pub_year": "2011",
+            "citation": "Appl. Microbiol. Biotechnol 94, 123-130, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:w7CBUyPWg-0C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18275018600690512722",
+        "cites_id": [
+            "18275018600690512722"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Presence of structural homologs of ubiquitin in haloalkaliphilic Archaea",
+            "pub_year": "2009",
+            "citation": "Springer, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8428556536591524538",
+        "cites_id": [
+            "8428556536591524538"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The articles. ELM resource: simplifying access to protein linear motif literature by annotation, text-mining and classification",
+            "pub_year": "2020",
+            "citation": "Database 2020, baaa040, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:s2G-WRnXBicC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13461456027680355762",
+        "cites_id": [
+            "13461456027680355762"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P3\u2010058: Transcription factors NRF1 and ETS1 regulate insulin degrading enzyme core promoter activity: Impact on mitochondrial A\u03b2 homeostasis",
+            "pub_year": "2012",
+            "citation": "Alzheimer's & Dementia 8 (4S_Part_13), P474-P474, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:WF5omc3nYNoC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14201861554301356761",
+        "cites_id": [
+            "14201861554301356761"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "M.; Mizuguchi, K.; Siddle, K.; Blundell, TL",
+            "pub_year": "1999",
+            "citation": "Biochem. Soc. Trans 27, 715-726, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:hEXC_dOfxuUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5050285556917039258",
+        "cites_id": [
+            "5050285556917039258"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the Entropic and Hydrophobic Properties Involved in the Inhibitory Mechanism of Carboxypeptidase A by its Natural Inhibitor from Potato",
+            "pub_year": "1995",
+            "citation": "Molecular modeling annual 1, 54-67, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:rzmi0EmCOGEC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5220585902266511581",
+        "cites_id": [
+            "5220585902266511581"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "orsai, the Drosophila homolog of human ETFRF1, links lipid catabolism to growth control",
+            "pub_year": "2022",
+            "citation": "BMC biology 20 (1), 1-25, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:QtA78RmWg5MC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6111338656060334549",
+        "cites_id": [
+            "6111338656060334549"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comutation and exclusion analysis in human tumors: A tool for cancer biology studies and for rational selection of multitargeted therapeutic approaches",
+            "pub_year": "2019",
+            "citation": "Human mutation 40 (4), 413-425, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:TiIbgCYny7sC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13587443409058291357",
+        "cites_id": [
+            "13587443409058291357"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Co-mutation and exclusion analysis in human tumors, a means for cancer biology studies and treatment design",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 182501, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:za7pDTvVV8kC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9972774406029618086",
+        "cites_id": [
+            "9972774406029618086"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tomato apical leaf curl virus: a novel, monopartite geminivirus detected in tomatoes in Argentina. Front Microbiol 8: 2665",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:oH8HCDhqVGsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13964897868111767153",
+        "cites_id": [
+            "13964897868111767153"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using coevolution to improve protein subfamily classification",
+            "pub_year": "2015",
+            "citation": "BMC Bioinformatics 16 (8), 1-1, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:5rMqqAh47xYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7494401888414044841",
+        "cites_id": [
+            "7494401888414044841"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional regulation of Insulin Degrading Enzyme modulates mitochondrial A [beta] catabolism and functionality",
+            "pub_year": "2013",
+            "citation": "Journal of Biological Chemistry, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:5VjbC5aozO0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7371668861775895249",
+        "cites_id": [
+            "7371668861775895249"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protease inhibitors from vegetables as a target for protein engineering: Application to the potato carboxypeptidase",
+            "pub_year": "1993",
+            "citation": "Innovations in proteases and their inhibitors, 477-493, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:KIRwYnRZzWQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14114337372048408798",
+        "cites_id": [
+            "14114337372048408798"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome Sequencing Variations in the Octodon degus, an Unconventional Natural Model of Aging and Alzheimer's Disease",
+            "pub_year": "2022",
+            "citation": "Frontiers in Aging Neuroscience 14, 894994, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:U3qCfcK-7lkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5933684525863314218",
+        "cites_id": [
+            "5933684525863314218"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DisPhaseDB: An integrative database of diseases related variations in liquid\u2013liquid phase separation proteins",
+            "pub_year": "2022",
+            "citation": "Computational and Structural Biotechnology Journal 20, 2551-2557, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:uEM9VtRl8xsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17667853733586629193",
+        "cites_id": [
+            "17667853733586629193"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Highlights of the 1st Latin American Conference of Women in Bioinformatics and Data Science",
+            "pub_year": "2021",
+            "citation": "The Biophysicist 2 (3), 99-102, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:KsTgnNRry18C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=798691704351724482",
+        "cites_id": [
+            "798691704351724482"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BID expression determines the apoptotic fate of cancer cells after abrogation of the spindle assembly checkpoint by AURKB or TTK inhibitors",
+            "pub_year": "2023",
+            "citation": "Molecular Cancer 22 (1), 110, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:kvJssbFybhEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pipeline for transferring annotations between proteins beyond globular domains",
+            "pub_year": "2023",
+            "citation": "Protein Science 32 (7), e4655, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:g30IDTdgJMgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of a plasma circRNA signature for the discrimination of malign lung nodules using the nCounter platform",
+            "pub_year": "2023",
+            "citation": "Cancer Research 83 (7_Supplement), 1032-1032, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:PZE8UkGerEcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TMBpred: A bioinformatics tool for precise prediction of the Tumor Mutation Burden in 14 cancer types",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:9VeumLvkZSQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Easy Not Easy: Comparative Modeling with High-Sequence Identity Templates",
+            "pub_year": "2023",
+            "citation": "Homology Modeling: Methods and Protocols, 83-100, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:h1pkognVyKwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MLOsMetaDB, a meta-database to centralize the information on Liquid-liquid phase separation proteins and Membraneless organelles.",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.07. 23.550222, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:lRPiJ3GhvscC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome sequencing variations in the Octodon degus, an unconventional natural model of aging and Alzheimer's disease",
+            "pub_year": "2022",
+            "citation": "Frontiers, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:1_W9tMSvGuwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the dynamical incompleteness of the Protein Data Bank",
+            "pub_year": "2017",
+            "citation": "Oxford University Press, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:RJNGbXJAtMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutational patterns of somatic mutations for a functional classification of human cancers",
+            "pub_year": "2015",
+            "citation": "6th Argentinian Conference on Bioinformatics and Computational Biology, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:E8ajGqO0XoUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MIToS. jl: Mutual Information Tools for prOtein Sequence analysis in Julia",
+            "pub_year": "2015",
+            "citation": "6th Argentinian Conference on Bioinformatics and Computational Biology, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:_IsBomjs8bsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gaps matter! Could protein multiple sequence alignment gaps predict protein contacts?",
+            "pub_year": "2015",
+            "citation": "6th Argentinian Conference on Bioinformatics and Computational Biology, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:e3CVSTJ63dQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The long isoform of IDE modulates mitochondrial functionality",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:I-2NeQpV75MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Disentangling evolutionary signals: conservation, specificity determining positions and coevolution. Implication for catalytic residue prediction",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:ynsZFq2pu0MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequence Evolution of the Intrinsically Disordered and Globular Domains",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:Q3-QASNKTMEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of Coevolving Amino Acids using Mutual Information",
+            "pub_year": "2012",
+            "citation": "Genomics III Methods, Techniques and Applications, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:cF7EPgIk0B4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conformational diversity modulates evolutionary rate in protein evolution",
+            "pub_year": "2011",
+            "citation": "2nd Argentinian Conference on Bioinformatics and Computational Biology, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:U5uP8zs9lfgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural order and disorder dictate sequence and functional evolution of the papillomavirus E7 protein",
+            "pub_year": "2011",
+            "citation": "2nd Argentinian Conference on Bioinformatics and Computational Biology, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:4E1Y8I9HL1wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signals of evolution: Conservation, specificity determining positions and coevolution",
+            "pub_year": "2011",
+            "citation": "2nd Argentinian Conference on Bioinformatics and Computational Biology, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:GHsHDPAyICYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biscoglio de Jimenez Bonino M",
+            "pub_year": "2010",
+            "citation": "A naturally occurring hypoallergenic variant of vespid Antigen 5, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:o9ULDYDKYbIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A New Conformation in SERCA and PMCA Ca2+ Pumps Revealed by a Photoactivatable Phospholipidic Probe",
+            "pub_year": "2009",
+            "citation": "Biophysical Journal 96 (3), 614a, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:HKviVsUxM5wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new chimera of glutamic acid decarboxylase 65 expressed in E. coli (Trx-M161TGAD65) useful for the measurement of GAD65 antibodies in diabetes mellitus",
+            "pub_year": "2000",
+            "citation": "Diabetes Research and Clinical Practice, 88, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Donadini, Roberta, 5137 Duan, Xuewu, 4829 Dutta, Debasree, 4978 E Easington, Cordus, 5381",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:jRIwE-1ttnoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of linear motifs within the intrinsically disordered and globular domains of the papillomavirus E7 oncoprotein",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:IvSMUa3B7yYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural order and disorder dictate sequence and functional evolution of the papillomavirus E7 protein",
+            "citation": "2\u00ba CONGRESO ARGENTINO DE BIOINFORM\u00c1TICA Y BIOLOG\u00cdA COMPUTACIONAL, 127, 0"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:feST4K8J0scC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conformational diversity modulates evolutionary rate in protein evolution",
+            "citation": "2\u00ba CONGRESO ARGENTINO DE BIOINFORM\u00c1TICA Y BIOLOG\u00cdA COMPUTACIONAL, 46, 0"
+        },
+        "filled": false,
+        "author_pub_id": "EGL0JdMAAAAJ:L7vk9XBBNxgC",
+        "num_citations": 0
+    }
+]

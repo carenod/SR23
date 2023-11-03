@@ -1,0 +1,94 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural variants of ELF3 affect thermomorphogenesis by transcriptionally modulating PIF4-dependent auxin response genes",
+            "pub_year": "2015",
+            "citation": "BMC plant biology 15 (1), 1-10, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "JkBm7NMAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14429053614727056204",
+        "cites_id": [
+            "14429053614727056204"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural variation reveals that intracellular distribution of ELF3 protein is associated with function in the circadian clock",
+            "pub_year": "2014",
+            "citation": "elife 3, e02206, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "JkBm7NMAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4707779916788777714",
+        "cites_id": [
+            "4707779916788777714"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoperiod sensing of the circadian clock is controlled by EARLY FLOWERING 3 and GIGANTEA",
+            "pub_year": "2020",
+            "citation": "The Plant Journal 101 (6), 1397-1410, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "JkBm7NMAAAAJ:GtLg2Ama23sC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8369671892933122058",
+        "cites_id": [
+            "8369671892933122058"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An overview of natural variation studies in the Arabidopsis thaliana circadian clock",
+            "pub_year": "2013",
+            "citation": "Seminars in cell & developmental biology 24 (5), 422-429, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "JkBm7NMAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10463121209998744850",
+        "cites_id": [
+            "10463121209998744850"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome-interacting factors (PIFs) as bridges between environmental signals and the circadian clock: diurnal regulation of growth and development",
+            "pub_year": "2013",
+            "citation": "Molecular Plant 6 (3), 592-595, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "JkBm7NMAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10165494709893835143",
+        "cites_id": [
+            "10165494709893835143"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural variation in the Arabidopsis thaliana circadian clock as a determinant of flowering time: a quantitative genetics and genomics study",
+            "pub_year": "2014",
+            "citation": "Max-Planck-Institut f\u00fcr Pflanzenz\u00fcchtungsforschung, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "JkBm7NMAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 0
+    }
+]

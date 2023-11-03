@@ -1,0 +1,458 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network-based stratification of tumor mutations",
+            "pub_year": "2013",
+            "citation": "Nature methods 10 (11), 1108-1115, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 842,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14522725087322289601",
+        "cites_id": [
+            "14522725087322289601"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis circadian clock protein, TOC1, is a DNA-binding transcription factor",
+            "pub_year": "2012",
+            "citation": "Proceedings of the National Academy of Sciences 109 (8), 3167-3172, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 520,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13340549451094518946",
+        "cites_id": [
+            "13340549451094518946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methylome-wide analysis of chronic HIV infection reveals five-year increase in biological age and epigenetic targeting of HLA",
+            "pub_year": "2016",
+            "citation": "Molecular cell 62 (2), 157-168, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:edDO8Oi4QzsC",
+        "num_citations": 261,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13475324898227291784",
+        "cites_id": [
+            "13475324898227291784"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic aging signatures in mice livers are slowed by dwarfism, calorie restriction and rapamycin treatment",
+            "pub_year": "2017",
+            "citation": "Genome biology 18, 1-11, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:5qfkUJPXOUwC",
+        "num_citations": 250,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4635616682681838194",
+        "cites_id": [
+            "4635616682681838194"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ExpansionHunter: a sequence-graph-based tool to analyze variation in short tandem repeat regions",
+            "pub_year": "2019",
+            "citation": "Bioinformatics 35 (22), 4754-4756, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:4hFrxpcac9AC",
+        "num_citations": 152,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3068001535048582756",
+        "cites_id": [
+            "3068001535048582756"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A network of conserved synthetic lethal interactions for exploration of precision cancer therapy",
+            "pub_year": "2016",
+            "citation": "Molecular cell 63 (3), 514-525, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:0N-VGjzr574C",
+        "num_citations": 152,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10906405349323595130",
+        "cites_id": [
+            "10906405349323595130"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-tiered genomic analysis of head and neck cancer ties TP53 mutation to 3p loss",
+            "pub_year": "2014",
+            "citation": "Nature genetics 46 (9), 939-943, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6001806094735650104",
+        "cites_id": [
+            "6001806094735650104"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interaction landscape of inherited polymorphisms with somatic events in cancer",
+            "pub_year": "2017",
+            "citation": "Cancer discovery 7 (4), 410-423, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:hCrLmN-GePgC",
+        "num_citations": 127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8761733396817764347",
+        "cites_id": [
+            "8761733396817764347"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ExpansionHunter Denovo: a computational method for locating known and novel repeat expansions in short-read sequencing data",
+            "pub_year": "2020",
+            "citation": "Genome biology 21, 1-14, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:6ZxmRoH8BuwC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10309179463320798537",
+        "cites_id": [
+            "10309179463320798537"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Copy-number variants in clinical genome sequencing: deployment and interpretation for rare and undiagnosed disease",
+            "pub_year": "2019",
+            "citation": "Genetics in Medicine 21 (5), 1121-1130, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:a9-T7VOCCH8C",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11617388333183335813",
+        "cites_id": [
+            "11617388333183335813"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiple routes to oncogenesis are promoted by the human papillomavirus\u2013host protein network",
+            "pub_year": "2018",
+            "citation": "Cancer discovery 8 (11), 1474-1489, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:_FM0Bhl9EiAC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7544873361507680555",
+        "cites_id": [
+            "7544873361507680555"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Clinical whole genome sequencing as a first-tier test at a resource-limited dysmorphology clinic in Mexico",
+            "pub_year": "2019",
+            "citation": "NPJ genomic medicine 4 (1), 5, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:HtEfBTGE9r8C",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8182450211971994918",
+        "cites_id": [
+            "8182450211971994918"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of matched tumor and normal profiles reveals common transcriptional and epigenetic signals shared across cancer types",
+            "pub_year": "2015",
+            "citation": "PloS one 10 (11), e0142618, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6657000941533863183",
+        "cites_id": [
+            "6657000941533863183"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ERCC1 and TS expression as prognostic and predictive biomarkers in metastatic colon cancer",
+            "pub_year": "2015",
+            "citation": "PloS one 10 (6), e0126898, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:Dip1O2bNi0gC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=730572412975091677",
+        "cites_id": [
+            "730572412975091677"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Matrix-Metalloproteinases in Head and Neck Carcinoma\u2013Cancer Genome Atlas Analysis and Fluorescence Imaging in Mice",
+            "pub_year": "2014",
+            "citation": "Otolaryngology\u2013Head and Neck Surgery 151 (4), 612-618, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9575798749130701461",
+        "cites_id": [
+            "9575798749130701461"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome sequencing in persistently unsolved white matter disorders",
+            "pub_year": "2020",
+            "citation": "Annals of Clinical and Translational Neurology 7 (1), 144-152, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:2VqYfGB8ITEC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7303476466304904438",
+        "cites_id": [
+            "7303476466304904438"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An automated 13.5 hour system for scalable diagnosis and acute management guidance for genetic diseases",
+            "pub_year": "2022",
+            "citation": "Nature Communications 13 (1), 4057, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:4vMrXwiscB8C",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10459683203688040706",
+        "cites_id": [
+            "10459683203688040706"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combined TP53 mutation/3p loss correlates with decreased radiosensitivity and increased matrix-metalloproteinase activity in head and neck carcinoma",
+            "pub_year": "2015",
+            "citation": "Oral oncology 51 (5), 470-475, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:S16KYo8Pm5AC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2149600904850272409",
+        "cites_id": [
+            "2149600904850272409"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular networks in context",
+            "pub_year": "2015",
+            "citation": "Nature biotechnology 33 (7), 720-721, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:HbR8gkJAVGIC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15026548143649478326",
+        "cites_id": [
+            "15026548143649478326"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chemogenetic profiling identifies RAD17 as synthetically lethal with checkpoint kinase inhibition",
+            "pub_year": "2015",
+            "citation": "Oncotarget 6 (34), 35755, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:XoXfffV-tXoC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17007669016201156581",
+        "cites_id": [
+            "17007669016201156581"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tensor decomposition reveals concurrent evolutionary convergences and divergences and correlations with structural motifs in ribosomal RNA",
+            "pub_year": "2011",
+            "citation": "PloS one 6 (4), e18768, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1122457543446936444",
+        "cites_id": [
+            "1122457543446936444"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a personalized treatment of head and neck cancer",
+            "pub_year": "2015",
+            "citation": "American Society of Clinical Oncology Educational Book 35 (1), 28-32, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:PoWvk5oyLR8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15292841941732982238",
+        "cites_id": [
+            "15292841941732982238"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Copy number variants in clinical WGS: deployment and interpretation for rare and undiagnosed disease",
+            "pub_year": "2018",
+            "citation": "bioRxiv, 245100, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:HIFyuExEbWQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8357442222797651192",
+        "cites_id": [
+            "8357442222797651192"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding disease through data driven biology",
+            "pub_year": "2016",
+            "citation": "University of California, San Diego, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:anf4URPfarAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2255376839131879949",
+        "cites_id": [
+            "2255376839131879949"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detection of homologous recombination deficiency (HRD) using a novel genomic and epigenomic liquid biopsy assay in patients with breast cancer.",
+            "pub_year": "2023",
+            "citation": "Journal of Clinical Oncology 41 (16_suppl), 556-556, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:mNrWkgRL2YcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A case series of challenging molecular diagnoses identified by clinical whole genome sequencing",
+            "pub_year": "2021",
+            "citation": "Molecular Genetics and Metabolism 132, S182, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:OTTXONDVkokC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Graph methods for validating complex variants in pedigrees and large sample cohorts",
+            "pub_year": "2019",
+            "citation": "EUROPEAN JOURNAL OF HUMAN GENETICS 27, 593-594, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:DUooU5lO8OsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "54. Utilizing clinical whole genome sequencing to identify balanced translocation carriers in the parents of children with derivative chromosomes",
+            "pub_year": "2018",
+            "citation": "Cancer Genetics 224, 70-71, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:9pM33mqn1YgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput synthetic lethal interaction screening in model organisms as a strategy for the identification of novel therapeutic targets in cancer",
+            "pub_year": "2014",
+            "citation": "MOLECULAR CANCER RESEARCH 12, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:NXb4pA-qfm4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brevity of haptic force perturbations induces heightened adaptive sensitivity",
+            "pub_year": "2013",
+            "citation": "Experimental Brain Research, 1-14, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "7KE5xxIAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 0
+    }
+]

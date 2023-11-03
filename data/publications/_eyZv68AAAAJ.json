@@ -1,0 +1,3412 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "APSIM\u2013evolution towards a new generation of agricultural systems simulation",
+            "pub_year": "2014",
+            "citation": "Environmental Modelling & Software 62, 327-350, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:PaBasH6fAo0C",
+        "num_citations": 1468,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15392537955955688510",
+        "cites_id": [
+            "15392537955955688510"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PHENOPSIS, an automated platform for reproducible phenotyping of plant responses to soil water deficit in Arabidopsis thaliana permitted the identification of an \u2026",
+            "pub_year": "2006",
+            "citation": "New phytologist 169 (3), 623-635, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:j7_hQOaDUrUC",
+        "num_citations": 597,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17051341237212351981",
+        "cites_id": [
+            "17051341237212351981"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environment characterization as an aid to wheat improvement: interpreting genotype\u2013environment interactions by modelling water-deficit patterns in North-Eastern Australia",
+            "pub_year": "2011",
+            "citation": "Journal of experimental botany 62 (6), 1743-1755, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:MpfHP-DdYjUC",
+        "num_citations": 306,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11796113165319363383",
+        "cites_id": [
+            "11796113165319363383"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Breeding for the future: what are the potential impacts of future frost and heat events on sowing and flowering time requirements for A ustralian bread wheat (T riticum \u2026",
+            "pub_year": "2012",
+            "citation": "Global Change Biology 18 (9), 2899-2914, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:7BrZ7Jt4UNcC",
+        "num_citations": 285,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17023276240170991643",
+        "cites_id": [
+            "17023276240170991643"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The shifting influence of drought and heat stress for crops in northeast Australia",
+            "pub_year": "2015",
+            "citation": "Global change biology 21 (11), 4115-4127, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:LdasjJ6CEcoC",
+        "num_citations": 274,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1184751649881595964",
+        "cites_id": [
+            "1184751649881595964"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large\u2010scale characterization of drought pattern: a continent\u2010wide modelling approach applied to the Australian wheatbelt\u2013spatial and temporal trends",
+            "pub_year": "2013",
+            "citation": "New Phytologist 198 (3), 801-820, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:FiytvqdAVhgC",
+        "num_citations": 260,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17325284075061525079",
+        "cites_id": [
+            "17325284075061525079"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating the yield impacts of organ-level quantitative trait loci associated with drought response in maize: a \u201cgene-to-phenotype\u201d modeling approach",
+            "pub_year": "2009",
+            "citation": "Genetics 183 (4), 1507-1523, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:nRpfm8aw39MC",
+        "num_citations": 254,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16187834622082477993",
+        "cites_id": [
+            "16187834622082477993"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput phenotyping of seminal root traits in wheat",
+            "pub_year": "2015",
+            "citation": "Plant Methods 11 (1), 1-11, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:IaI1MmNe2tcC",
+        "num_citations": 211,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17206744698500562209",
+        "cites_id": [
+            "17206744698500562209"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contribution of crop models to adaptation in wheat",
+            "pub_year": "2017",
+            "citation": "Trends in plant science 22 (6), 472-490, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:1taIhTC69MYC",
+        "num_citations": 206,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18225044923683567205",
+        "cites_id": [
+            "18225044923683567205"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detection and use of QTL for complex traits in multiple environments",
+            "pub_year": "2010",
+            "citation": "Current opinion in plant biology 13 (2), 193-205, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:7Hz3ACDFbsoC",
+        "num_citations": 194,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2780394847292693812",
+        "cites_id": [
+            "2780394847292693812"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Frost trends and their estimated impact on yield in the Australian wheatbelt",
+            "pub_year": "2015",
+            "citation": "Journal of experimental botany 66 (12), 3611-3623, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:5ugPr518TE4C",
+        "num_citations": 181,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6464879578950553539",
+        "cites_id": [
+            "6464879578950553539"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stay-green traits to improve wheat adaptation in well-watered and water-limited environments",
+            "pub_year": "2016",
+            "citation": "Journal of Experimental Botany 67 (17), 5159-5172, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:1yQoGdGgb4wC",
+        "num_citations": 168,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15355618786572315311",
+        "cites_id": [
+            "15355618786572315311"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Short\u2010term responses of leaf growth rate to water deficit scale up to whole\u2010plant and crop levels: an integrated modelling approach in maize",
+            "pub_year": "2008",
+            "citation": "Plant, Cell & Environment 31 (3), 378-391, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:mB3voiENLucC",
+        "num_citations": 145,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17387925250978218580",
+        "cites_id": [
+            "17387925250978218580"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Individual Leaf Development in Arabidopsis thaliana: a Stable Thermal\u2010time\u2010based Programme",
+            "pub_year": "2002",
+            "citation": "Annals of botany 89 (5), 595-604, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1287954042093202572",
+        "cites_id": [
+            "1287954042093202572"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multisite managed environment facility for targeted trait and germplasm phenotyping",
+            "pub_year": "2012",
+            "citation": "Functional Plant Biology 40 (1), 1-13, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:TFP_iSt0sucC",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5782278046581227551",
+        "cites_id": [
+            "5782278046581227551"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "VERNALIZATION1 modulates root system architecture in wheat and barley",
+            "pub_year": "2018",
+            "citation": "Molecular plant 11 (1), 226-229, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:epqYDVWIO7EC",
+        "num_citations": 115,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10679382772509221089",
+        "cites_id": [
+            "10679382772509221089"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Model-assisted phenotyping and ideotype design",
+            "pub_year": "2015",
+            "citation": "Crop physiology, 349-373, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:uLbwQdceFCQC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11830294913684388669",
+        "cites_id": [
+            "11830294913684388669"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotyping novel stay-green traits to capture genetic variation in senescence dynamics",
+            "pub_year": "2014",
+            "citation": "Functional Plant Biology 41 (11), 1035-1048, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:LPZeul_q3PIC",
+        "num_citations": 106,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6317584176917889238",
+        "cites_id": [
+            "6317584176917889238"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterizing the crop environment\u2013nature, significance and applications",
+            "pub_year": "2015",
+            "citation": "Crop physiology, 321-348, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:q3oQSFYPqjQC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13736058528066765115",
+        "cites_id": [
+            "13736058528066765115"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Day Length Affects the Dynamics of Leaf Expansion and Cellular Development in Arabidopsis thaliana Partially through Floral Transition Timing",
+            "pub_year": "2007",
+            "citation": "Annals of botany 99 (4), 703-711, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9433862388596982154",
+        "cites_id": [
+            "9433862388596982154"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plot size matters: interference from intergenotypic competition in plant phenotyping studies",
+            "pub_year": "2013",
+            "citation": "Functional Plant Biology 41 (2), 107-118, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:a0OBvERweLwC",
+        "num_citations": 85,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11471798707381485225",
+        "cites_id": [
+            "11471798707381485225"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fusion of Sentinel-2 and PlanetScope time-series data into daily 3 m surface reflectance and wheat LAI monitoring",
+            "pub_year": "2021",
+            "citation": "International Journal of Applied Earth Observation and Geoinformation 96, 102260, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:fbc8zXXH2BUC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11190828305811455509",
+        "cites_id": [
+            "11190828305811455509"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of the potential impacts of wheat plant traits across environments by combining crop modeling and global sensitivity analysis",
+            "pub_year": "2016",
+            "citation": "PloS one 11 (1), e0146385, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:HE397vMXCloC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1140313165149665246",
+        "cites_id": [
+            "1140313165149665246"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The APSIM-wheat module (7.5 R3008)",
+            "pub_year": "2014",
+            "citation": "Agricultural Production Systems Simulator (APSIM) Initiative 615, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:8AbLer7MMksC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5384445163130661348",
+        "cites_id": [
+            "5384445163130661348"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating modelling and phenotyping approaches to identify and screen complex traits: transpiration efficiency in cereals",
+            "pub_year": "2018",
+            "citation": "Journal of experimental botany 69 (13), 3181-3194, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:vbGhcppDl1QC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10084386665853238854",
+        "cites_id": [
+            "10084386665853238854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrated responses of rosette organogenesis, morphogenesis and architecture to reduced incident light in Arabidopsis thaliana results in higher efficiency of light interception",
+            "pub_year": "2005",
+            "citation": "Functional Plant Biology 32 (12), 1123-1134, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:TQgYirikUcIC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16336305169636348232",
+        "cites_id": [
+            "16336305169636348232"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Water and thermal regimes for field pea in Australia and their implications for breeding",
+            "pub_year": "2012",
+            "citation": "Crop and Pasture Science 63 (1), 33-44, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:maZDTaKrznsC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2357673024054629135",
+        "cites_id": [
+            "2357673024054629135"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "QTL for stay-green traits in wheat in well-watered and water-limited environments",
+            "pub_year": "2018",
+            "citation": "Field crops research 217, 32-44, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:uWiczbcajpAC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14197592415388870243",
+        "cites_id": [
+            "14197592415388870243"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using a 3-D virtual sunflower to simulate light capture at organ, plant and plot levels: contribution of organ interception, impact of heliotropism and analysis of genotypic \u2026",
+            "pub_year": "2008",
+            "citation": "Annals of Botany 101 (8), 1139-1151, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4592982991689183456",
+        "cites_id": [
+            "4592982991689183456"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Velocity of temperature and flowering time in wheat\u2013assisting breeders to keep pace with climate change",
+            "pub_year": "2016",
+            "citation": "Global Change Biology 22 (2), 921-933, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:Mojj43d5GZwC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12839039423963901531",
+        "cites_id": [
+            "12839039423963901531"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Projected impact of future climate on water-stress patterns across the Australian wheatbelt",
+            "pub_year": "2017",
+            "citation": "Journal of experimental botany 68 (21-22), 5907-5921, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:vDijr-p_gm4C",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1610953617961175962",
+        "cites_id": [
+            "1610953617961175962"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combining crop growth modeling and statistical genetic modeling to evaluate phenotyping strategies",
+            "pub_year": "2019",
+            "citation": "Frontiers in Plant Science 10, 1491, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:M7yex6snE4oC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7110765136682986186",
+        "cites_id": [
+            "7110765136682986186"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sowing date detection at the field scale using CubeSats remote sensing",
+            "pub_year": "2019",
+            "citation": "Computers and electronics in agriculture 157, 568-580, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:TIZ-Mc8IlK0C",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9654958325638384358",
+        "cites_id": [
+            "9654958325638384358"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heat shocks increasingly impede grain filling but have little effect on grain setting across the Australian wheatbelt",
+            "pub_year": "2020",
+            "citation": "Agricultural and Forest Meteorology 284, 107889, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:P7Ujq4OLJYoC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16648628219907092458",
+        "cites_id": [
+            "16648628219907092458"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Patterns of water stress and temperature for Australian chickpea production",
+            "pub_year": "2016",
+            "citation": "Crop and Pasture Science 67 (2), 204-215, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:Y5dfb0dijaUC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13882958309497647017",
+        "cites_id": [
+            "13882958309497647017"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improving productivity of Australian wheat by adapting sowing date and genotype phenology to future climate",
+            "pub_year": "2021",
+            "citation": "Climate Risk Management 32, 100300, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:tH6gc1N1XXoC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11137759475868433079",
+        "cites_id": [
+            "11137759475868433079"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating rapid phenotyping and speed breeding to improve stay-green and root adaptation of wheat in changing, water-limited, Australian environments.",
+            "pub_year": "2015",
+            "citation": "Procedia Environmental Sciences 29, 175-176, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:olpn-zPbct0C",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11012415774022304294",
+        "cites_id": [
+            "11012415774022304294"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Relative contributions of light interception and radiation use efficiency to the reduction of maize productivity under cold temperatures",
+            "pub_year": "2008",
+            "citation": "Functional Plant Biology 35 (10), 885-899, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:iH-uZ7U-co4C",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5714549544487492954",
+        "cites_id": [
+            "5714549544487492954"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ureide Accumulation in Response to Mn Nutrition by Eight Soybean Genotypes with N2 Fixation Tolerance to Soil Drying",
+            "pub_year": "2003",
+            "citation": "Crop Science 43 (2), 592-597, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11786596282500763964",
+        "cites_id": [
+            "11786596282500763964"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From QTLs to adaptation landscapes: using genotype-to-phenotype models to characterize G\u00d7 E over time",
+            "pub_year": "2019",
+            "citation": "Frontiers in Plant Science 10, 1540, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:yMeIxYmEMEAC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13029969337266907859",
+        "cites_id": [
+            "13029969337266907859"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Selection in early generations to shift allele frequency for seminal root angle in wheat",
+            "pub_year": "2018",
+            "citation": "The Plant Genome 11 (2), 170071, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:L7CI7m0gUJcC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15938911459956179466",
+        "cites_id": [
+            "15938911459956179466"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterisation of chickpea cropping systems in Australia for major abiotic production constraints",
+            "pub_year": "2017",
+            "citation": "Field Crops Research 204, 120-134, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:W5xh706n7nkC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9382705496535693841",
+        "cites_id": [
+            "9382705496535693841"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of light interception in research environments: a joint approach using directional light sensors and 3D virtual plants applied to sunflower (Helianthus annuus) and \u2026",
+            "pub_year": "2008",
+            "citation": "Functional Plant Biology 35 (10), 850-866, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:r0BpntZqJG4C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5964233606287727236",
+        "cites_id": [
+            "5964233606287727236"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulations of virtual plants reveal a role for SERRATE in the response of leaf development to light in Arabidopsis thaliana",
+            "pub_year": "2007",
+            "citation": "New Phytologist 175 (3), 472-481, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8321980260659412547",
+        "cites_id": [
+            "8321980260659412547"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nitrogen nutrition index predicted by a crop model improves the genomic prediction of grain number for a bread wheat core collection",
+            "pub_year": "2017",
+            "citation": "Field Crops Research 214, 331-340, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:zLWjf1WUPmwC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7637303242948931514",
+        "cites_id": [
+            "7637303242948931514"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution and application of digital technologies to predict crop type and crop phenology in agriculture",
+            "pub_year": "2021",
+            "citation": "in silico Plants 3 (1), diab017, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:BJbdYPG6LGMC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17976458461280148417",
+        "cites_id": [
+            "17976458461280148417"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Risk assessment of frost damage to sugar beet simulated under cold and semi-arid environments",
+            "pub_year": "2019",
+            "citation": "International journal of biometeorology 63, 511-521, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:tuHXwOkdijsC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7622223189407638905",
+        "cites_id": [
+            "7622223189407638905"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A low-cost method to rapidly and accurately screen for transpiration efficiency in wheat",
+            "pub_year": "2018",
+            "citation": "Plant Methods 14 (1), 1-14, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:KUbvn5osdkgC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5694610306954742238",
+        "cites_id": [
+            "5694610306954742238"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Direct and indirect costs of frost in the Australian wheatbelt",
+            "pub_year": "2018",
+            "citation": "Ecological Economics 150, 122-136, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:ILKRHgRFtOwC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5513954385931927846",
+        "cites_id": [
+            "5513954385931927846"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of post-flowering heat stress on stay-green and grain development in wheat",
+            "pub_year": "2019",
+            "citation": "Proceedings of the Australian Agronomy Conference, Wagga Wagga, 1-4, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:KbBQZpvPDL4C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17623157266815963844",
+        "cites_id": [
+            "17623157266815963844"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How does post-flowering heat impact grain growth and its determining processes in wheat?",
+            "pub_year": "2021",
+            "citation": "Journal of Experimental Botany 72 (18), 6596-6610, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:F1b5ZUV5XREC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=362943370736121455",
+        "cites_id": [
+            "362943370736121455"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Limiting transpiration rate in high evaporative demand conditions to improve Australian wheat productivity",
+            "pub_year": "2021",
+            "citation": "in silico Plants 3 (1), diab006, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:gVv57TyPmFsC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=694764408610465774",
+        "cites_id": [
+            "694764408610465774"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The value of tactical adaptation to El Ni\u00f1o\u2013Southern Oscillation for East Australian wheat",
+            "pub_year": "2018",
+            "citation": "Climate 6 (3), 77, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:tYavs44e6CUC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2897819832854246475",
+        "cites_id": [
+            "2897819832854246475"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Early vigour in wheat: Could it lead to more severe terminal drought stress under elevated atmospheric [CO2] and semi\u2010arid conditions?",
+            "pub_year": "2020",
+            "citation": "Global Change Biology 26 (7), 4079-4093, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:_OXeSy2IsFwC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13754092851533940394",
+        "cites_id": [
+            "13754092851533940394"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Change in biomass partitioning and transpiration efficiency in Australian wheat varieties over the last decades",
+            "pub_year": "2015",
+            "citation": "17th Australian Agronomy Conference. Hobart, Australia, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:eMMeJKvmdy0C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13988807384718687359",
+        "cites_id": [
+            "13988807384718687359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "QTL identified for stay-green in a multi-reference nested association mapping population of wheat exhibit context dependent expression and parent-specific alleles",
+            "pub_year": "2021",
+            "citation": "Field Crops Research 270, 108181, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:Bg7qf7VwUHIC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15651978051697537645",
+        "cites_id": [
+            "15651978051697537645"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Economic assessment of wheat breeding options for potential improved levels of post head-emergence frost tolerance",
+            "pub_year": "2017",
+            "citation": "Field Crops Research 213, 75-88, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:ipzZ9siozwsC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12460177706821200676",
+        "cites_id": [
+            "12460177706821200676"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A cross\u2010scale analysis to understand and quantify the effects of photosynthetic enhancement on crop growth and yield across environments",
+            "pub_year": "2023",
+            "citation": "Plant, Cell & Environment 46 (1), 23-44, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:1lhNe0rCu4AC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7802092780991002605",
+        "cites_id": [
+            "7802092780991002605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Barley",
+            "pub_year": "2021",
+            "citation": "Crop physiology case histories for major crops, 164-195, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:5icHVeHT4IsC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5626359474084114601",
+        "cites_id": [
+            "5626359474084114601"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying the potential yield benefit of root traits in a target population of environments",
+            "pub_year": "2013",
+            "citation": "R. Siev\u00e4nen, E. Nikinmaa, C. Godin, A. Lintunen and P. Nygren, Proceedings \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:WbkHhVStYXYC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10837655408569067630",
+        "cites_id": [
+            "10837655408569067630"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unsupervised plot-scale LAI phenotyping via UAV-based imaging, modelling, and machine learning",
+            "pub_year": "2022",
+            "citation": "Plant Phenomics 2022, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:buQ7SEKw-1sC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7996844575399662191",
+        "cites_id": [
+            "7996844575399662191"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recent trends in drought, heat and frost-induced yield losses across the Australian wheatbelt",
+            "pub_year": "2019",
+            "citation": "TropAg 2019, 5, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:F9fV5C73w3QC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1412568507673135626",
+        "cites_id": [
+            "1412568507673135626"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genotype-specific P-spline response surfaces assist interpretation of regional wheat adaptation to climate change",
+            "pub_year": "2021",
+            "citation": "in silico Plants 3 (2), diab018, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:sJsF-0ZLhtgC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7419964273935811278",
+        "cites_id": [
+            "7419964273935811278"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The use of hyperspectral proximal sensing for phenotyping of plant breeding trials",
+            "pub_year": "2018",
+            "citation": "Fundamentals, sensor systems, spectral libraries, and data Mining for \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:_axFR9aDTf0C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15352850990519090998",
+        "cites_id": [
+            "15352850990519090998"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting heading date and frost impact in wheat across Australia",
+            "pub_year": "2015",
+            "citation": "17th Australian Agronomy Confer\u2010ence, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:AXPGKjj_ei8C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10351344728832248014",
+        "cites_id": [
+            "10351344728832248014"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput phenotyping of wheat seminal root traits in a breeding context",
+            "pub_year": "2015",
+            "citation": "Procedia Environmental Sciences 29, 102-103, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:t6usbXjVLHcC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10709147692111166742",
+        "cites_id": [
+            "10709147692111166742"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "StressMaster: a web application for dynamic modelling of the environment to assist in crop improvement for drought adaptation",
+            "pub_year": "2013",
+            "citation": "Proceedings of the 7th International Conference on Functional-Structural \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:Tiz5es2fbqcC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1799281350950542507",
+        "cites_id": [
+            "1799281350950542507"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An architectural approach to investigate maize response to low temperature",
+            "pub_year": "2007",
+            "citation": "Frontis, 201-210, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:isC4tDSrTZIC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8010270280617042611",
+        "cites_id": [
+            "8010270280617042611"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of genotypic variations in transpiration rate on Australian wheat productivity",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:ODE9OILHJdcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5367230386885230506",
+        "cites_id": [
+            "5367230386885230506"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protocols for experimental plot sampling, handling and processing of cereal experiments-standardised methods for use in field studies. PrometheusWiki",
+            "pub_year": "2012",
+            "citation": "PrometheusWiki. CSIRO Publishing, Collingwood, Available at:\u2329 http \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:dfsIfKJdRG4C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5488280276021754972",
+        "cites_id": [
+            "5488280276021754972"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variation in Australian durum wheat germplasm for productivity traits under irrigated and rainfed conditions: genotype performance for agronomic traits and benchmarking",
+            "pub_year": "2020",
+            "citation": "The Journal of Agricultural Science 158 (6), 479-495, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:Aul-kAQHnToC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=575721179793760441",
+        "cites_id": [
+            "575721179793760441"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sorghum: General crop-modelling tools guiding principles and use of crop models in support of crop improvement programs in developing countries",
+            "pub_year": "2020",
+            "citation": "Sorghum in the 21st Century: Food\u2013Fodder\u2013Feed\u2013Fuel for a Rapidly Changing \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:lvd772isFD0C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13107878252115294078",
+        "cites_id": [
+            "13107878252115294078"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heat impact on yield components of fertile primary tillers in wheat can inform crop modelling for future climates",
+            "pub_year": "2019",
+            "citation": "Proceeedings of the Agronomy Australia Conference, 25-29, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:OR75R8vi5nAC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14544133905830682775",
+        "cites_id": [
+            "14544133905830682775"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of projected climates on drought occurrence in the Australian wheatbelt",
+            "pub_year": "2015",
+            "citation": "17th Australian Agronomy Conference 4, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:WA5NYHcadZ8C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6121591311523834075",
+        "cites_id": [
+            "6121591311523834075"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protocols for experimental plot sampling, handling and processing of cereal experiments: standardised methods for use in large agronomic, physiological and genetic field studies",
+            "pub_year": "2012",
+            "citation": "Prometheus Wiki, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:_FM0Bhl9EiAC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15416003632793389236",
+        "cites_id": [
+            "15416003632793389236"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "enviromics in plant breeding",
+            "pub_year": "2022",
+            "citation": "Frontiers in Plant Science 13, 935380, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:QD3KBmkZPeQC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2131440266120387746",
+        "cites_id": [
+            "2131440266120387746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize yield determination in the Northern Region: Hybrid by environment by management interactions",
+            "pub_year": "2015",
+            "citation": "Australian Society of Agronomy, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:WqliGbK-hY8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18018966485035350235",
+        "cites_id": [
+            "18018966485035350235"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Projected impact of future climate on drought patterns in complex rainfed environments",
+            "pub_year": "2015",
+            "citation": "Procedia Environmental Sciences 29, 190-191, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:bnK-pcrLprsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2788282133992564073",
+        "cites_id": [
+            "2788282133992564073"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drought experienced by Australian wheat: current and future trends",
+            "pub_year": "2012",
+            "citation": "16th Australian Agronomy Conference. Armidale, NSW, Australia, 7, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4578692984771643656",
+        "cites_id": [
+            "4578692984771643656"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environmental characterisation to aid crop improvement in drought-prone environments",
+            "pub_year": "2010",
+            "citation": "Proceedings of Agro2010, XI European Society of Agronomy Congress 29, 79-80, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:ns9cj8rnVeAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15855007440190495817",
+        "cites_id": [
+            "15855007440190495817"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environment characterisation as an aid to improve barley adaptation in water-limited environments",
+            "pub_year": "2010",
+            "citation": "Grains Research and Development Corporation, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:hMod-77fHWUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1084946201123391588",
+        "cites_id": [
+            "1084946201123391588"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Revealing the yield impacts of organ-level quantitative trait loci associated with drought response in maize-A gene-to-phenotype modelling approach",
+            "pub_year": "2009",
+            "citation": "Comparative Biochemistry and Physiology A-Molecular 153 (2), S228-S229, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:BqipwSGYUEgC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6200994413607835071",
+        "cites_id": [
+            "6200994413607835071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environment characterisation as an aid to wheat improvement in north east Australia",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:JV2RwH3_ST0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15998196260333725447",
+        "cites_id": [
+            "15998196260333725447"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Translating short-term environmental effects on leaf growth rate into differences in whole-plant profiles of maize leaf area: Impact of temperature, evaporative demand and soil \u2026",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:GnPB-g6toBAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7557589166209036922",
+        "cites_id": [
+            "7557589166209036922"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the phenotypic variability of rosette architecture of Arabidopsis thaliana in several ecotypes and mutants in response to incident radiation",
+            "pub_year": "2004",
+            "citation": "4th International Workshop on Functional\u2013Structural Plant Models, 7-11, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:k_IJM867U9cC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14099598254334703445",
+        "cites_id": [
+            "14099598254334703445"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variabilit\u00e9 ph\u00e9notypique de l'architecture de la rosette d'Arabidopsis thaliana en r\u00e9ponse au rayonnement: analyse et mod\u00e9lisation de la r\u00e9ponde de diff\u00e9rents g\u00e9notypes",
+            "pub_year": "2004",
+            "citation": "Montpellier, ENSA, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:O3NaXMp0MMsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15643436328607351723",
+        "cites_id": [
+            "15643436328607351723"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A robust field-based method to screen heat tolerance in wheat",
+            "pub_year": "2023",
+            "citation": "European Journal of Agronomy 144, 126757, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:LgRImbQfgY4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6694180671463160875",
+        "cites_id": [
+            "6694180671463160875"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Physiological and genetic drivers underpinning canopy development are associated with durum wheat yield in rainfed environments",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.08. 21.457180, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:4X0JR2_MtJMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10873216675516675994",
+        "cites_id": [
+            "10873216675516675994"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Increasing heat tolerance in wheat in West Australia",
+            "pub_year": "2021",
+            "citation": "Grains Research & Development Corporation, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:artPoR2Yc-kC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6369504019675882830",
+        "cites_id": [
+            "6369504019675882830"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sentinel-2 and Planetscope data fusion into daily 3 m images for leaf area index monitoring",
+            "pub_year": "2020",
+            "citation": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:gKiMpY-AVTkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17033177742444684351",
+        "cites_id": [
+            "17033177742444684351"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Increasing heat tolerance in wheat to counteract recent and projected increases in heat stress",
+            "pub_year": "2020",
+            "citation": "Multidisciplinary Digital Publishing Institute Proceedings 36 (1), 132, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:nZcligLrVowC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5220560917291267131",
+        "cites_id": [
+            "5220560917291267131"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the dynamics of canopy development in APSIM wheat",
+            "pub_year": "2019",
+            "citation": "Agronomy Australia Conference, Wagga Wagga, Australia, 1-4, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:OcBU2YAGkTUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6785998289666806379",
+        "cites_id": [
+            "6785998289666806379"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating yield impact of QTLs controlling leaf and silk expansion under drought in maize",
+            "pub_year": "2008",
+            "citation": "Proceedings of the 14th ASA Conference, 21-25, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4514510280396429496",
+        "cites_id": [
+            "4514510280396429496"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Balancing pre-and post-anthesis growth to maximise water-limited yield in cereals",
+            "pub_year": "2023",
+            "citation": "Field Crops Research 296, 108919, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:WHdLCjDvYFkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5211770307497597591",
+        "cites_id": [
+            "5211770307497597591"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding wheat growth and the seasonal climatic characteristics of major drought patterns occurring in cold dryland environments from Iran",
+            "pub_year": "2023",
+            "citation": "European Journal of Agronomy 145, 126772, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:MhiOAD_qIWkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4137216926737496354",
+        "cites_id": [
+            "4137216926737496354"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deep reinforcement learning for irrigation scheduling using high-dimensional sensor feedback",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2301.00899, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:cK4Rrx0J3m0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4010165330259372885",
+        "cites_id": [
+            "4010165330259372885"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A cross-scale analysis to understand and quantify effects of photosynthetic enhancement on crop growth and yield",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.07. 06.498957, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:CaZNVDsoPx4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14195397899417003085",
+        "cites_id": [
+            "14195397899417003085"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Concepts of Seed Germination Rate and Germinability: A Re-Evaluation for Cool-Season Grasses",
+            "pub_year": "2022",
+            "citation": "Agronomy 12 (6), 1291, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:wMgC3FpKEyYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12731817457887686675",
+        "cites_id": [
+            "12731817457887686675"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using crop modelling to improve chickpea adaptation in variable environments",
+            "pub_year": "2021",
+            "citation": "Genetic Enhancement in Major Food Legumes: Advances in Major Food Legumes \u2026, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:6yz0xqPARnAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2630805829140319220",
+        "cites_id": [
+            "2630805829140319220"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating crop modelling, physiology and genetics to aid crop improvement in changing environments",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:jgBuDB5drN8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4098886967561476187",
+        "cites_id": [
+            "4098886967561476187"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic selection for spatial and temporal characteristics of root growth in plants using a highthroughput phenotyping platform",
+            "pub_year": "2020",
+            "citation": "International Biometrics Conference, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:ZzlSgRqYykMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11707054357067626386",
+        "cites_id": [
+            "11707054357067626386"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A low-cost method for high-throughput phenotyping of transpiration efficiency",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:cWzG1nlazyYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15651366466586200966",
+        "cites_id": [
+            "15651366466586200966"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Does trial duration affect transpiration efficiency estimates for wheat",
+            "pub_year": "2017",
+            "citation": "Proceedings of the 18th Australian Agronomy Conference, 24\u201328 September \u2026, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:EYYDruWGBe4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13128716844525809554",
+        "cites_id": [
+            "13128716844525809554"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Will high throughput phenotyping and genotyping techniques help us to better predict GxE interactions? Some considerations from statistics and crop growth modelling",
+            "pub_year": "2016",
+            "citation": "CIMMYT, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:IUKN3-7HHlwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11519359210361139997",
+        "cites_id": [
+            "11519359210361139997"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From a global sensitivity analysis of a crop model to wheat improvement in the field",
+            "pub_year": "2016",
+            "citation": "AgMIP, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:WJVC3Jt7v1AC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8141836845406431254",
+        "cites_id": [
+            "8141836845406431254"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using crop modeling to get better field data",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:ClCfbGk0d_YC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10019181573158863019",
+        "cites_id": [
+            "10019181573158863019"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensitivity analysis of dynamic crop models to assist crop science: assessing the impact of multiple traits on yield in Australian wheat",
+            "pub_year": "2014",
+            "citation": "3. Rencontres R, 14 p., 2014"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8841297175320665357",
+        "cites_id": [
+            "8841297175320665357"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fine-mapping candidates for'stay-green'in sorghum reveals genes associated with canopy development and root growth",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:OTTXONDVkokC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10740222364684868718",
+        "cites_id": [
+            "10740222364684868718"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterisation of drought patterns across the Australian Wheat Belt",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:xtoqd-5pKcoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3869211849565826897",
+        "cites_id": [
+            "3869211849565826897"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop modelling as an aid for environmental characterisation and crop improvement",
+            "pub_year": "2009",
+            "citation": "dynamics 6, 31, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:J_g5lzvAfSwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3591317017915577763",
+        "cites_id": [
+            "3591317017915577763"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recent Improvements in Biomass Partitioning and Transpiration Efficiency of Modern Australian Wheat Varieties\u2013Any Opportunity for the Future? 2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:URolC5Kub84C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2412260077982264550",
+        "cites_id": [
+            "2412260077982264550"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Does late water deficit induce root growth or senescence in wheat?",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.08. 01.551574, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:owLR8QvbtFgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the impact of climate change on agriculture in Australia and Oceania",
+            "pub_year": "2023",
+            "citation": "Burleigh Dodds Science Publishing, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:CB2v5VPnA5kC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimizing nitrogen application improves its efficiency by higher allocation in bolls of cotton under drip fertigation",
+            "pub_year": "2023",
+            "citation": "Field Crops Research 298, 108968, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:7H_MAutzIkAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Late nitrogen fertilization improves cotton yield through optimizing dry matter accumulation and partitioning",
+            "pub_year": "2023",
+            "citation": "Annals of Agricultural Sciences 68 (1), 75-86, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:wKETBy42zhYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Generic Model to Estimate Wheat LAI over Growing Season Regardless of the Soil-Type Background",
+            "pub_year": "2023",
+            "citation": "Plant Phenomics 5, 0055, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:7wO8s98CvbsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generic model to estimate wheat LAI",
+            "pub_year": "2023",
+            "citation": "The University of Queensland, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:WC23djZS0W4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Advances in Plant Phenomics",
+            "pub_year": "2023",
+            "citation": "Advances in Plant Phenomics, 338, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:PYBJJbyH-FwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Observations and Geoinformation",
+            "pub_year": "2023",
+            "citation": "International Journal of Applied Earth Observation and Geoinformation 116 \u2026, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:5MTHONV0fEkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring root-shoot dynamics to enhance yield potential and stability of future wheat cultivars.",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:kw52XkFRtyQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Paddock-scale yield estimation using fused PlanetScope and Sentinel-2 imagery and crop modelling",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:kVjdVfd2voEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Can stay-green help to increase heat tolerance in wheat?",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:v1_lew4L6wgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coupling Fused High Spatio-Temporal Resolution Remote Sensing Data and Crop Modelling to Predict Wheat Yield at the Field Scale.",
+            "pub_year": "2022",
+            "citation": "Monash University, Australia, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:U4n9YNQMCAIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maximising water-limited yield in cereals by balancing pre-and post-anthesis growth",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:BzfGm06jWhQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic prediction to accelerate breeding potential for increased transpiration efficiency in wheat",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:zCSUwVk65WsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Change in abiotic stress and atmospheric CO2 concentration significantly affected Australian wheat productivity over 1981-2018",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:uDGL6kOW6j0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A field-based technique for screening heat tolerance of wheat lines differing in maturity at matched developmental phases",
+            "pub_year": "2022",
+            "citation": "Proceedings of the 20th Agronomy Australia Conference, 2022, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:NyGDZy8z5eUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Late, deep root development varies between wheat cultivars subjected to terminal water stress",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:0CzhzZyukY4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wheat yield estimation using fused Cubesat and Sentinel-2 imagery",
+            "pub_year": "2021",
+            "citation": "Precision agriculture\u201921, 1-14, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:AHdEip9mkN0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "work is properly cited.",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:PVgj2kMGcgYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Innovative Application of CubeSat Imagery to Predict Wheat Yield Without Ground-Based Data",
+            "pub_year": "2020",
+            "citation": "AGU Fall Meeting Abstracts 2020, B030-07, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:u-coK7KVo8oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating daily leaf area index with a 3m resolution using CubeSats satellites",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:43bX7VzcjpAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomics of Root and Stay-Green Traits to Improve Wheat Adaptation to Late Season Drought",
+            "pub_year": "2020",
+            "citation": "Plant and Animal Genome XXVIII Conference 2020, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:2tRrZ1ZAMYUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterizing Genetic Variation in Late, Deep Wheat Root Architecture to Improve Yield and Yield Stability under Terminal Water Stress",
+            "pub_year": "2020",
+            "citation": "Multidisciplinary Digital Publishing Institute Proceedings 36 (1), 212, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:8xutWZnSdmoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combining Trait Physiology, Crop Modelling and Molecular Genetics to Improve Wheat Adaptation to Terminal Water-Stress Targeting Stay-Green and Root Traits",
+            "pub_year": "2020",
+            "citation": "Multidisciplinary Digital Publishing Institute Proceedings 36 (1), 196, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:Ehil0879vHcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using high-throughput phenotyping and genome wide association study (GWAS) techniques to identify molecular markers for transpiration efficiency in wheat",
+            "pub_year": "2019",
+            "citation": "Australian Society of Agronomy, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:ubry08Y2EpUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Satellite-based detection of sowing dates in field crops",
+            "pub_year": "2019",
+            "citation": "Precision agriculture\u201919, 37-52, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:bKqednn6t2AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of traits related with water productivity in the Australian wheatbelt using an improved version of the APSIM-Wheat model",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:nVrZBo8bIpAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating Crop Modelling, Physiology, Genetics and Breeding to Aid Crop Improvement for Changing Environments in the Australian Wheatbelt",
+            "pub_year": "2019",
+            "citation": "Multidisciplinary Digital Publishing Institute Proceedings 36 (1), 4, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:OP4eGU-M3BUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustained leaf greenness delays post-flowering heat injury to developing wheat grains",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:a3BOlSfXSfwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genotype and management adaptation of wheat to heat and drought in current and future climates",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:yqoGN6RLRZoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "O. 03 INTEGRATING CROP MODELLING, PHYSIOLOGY, GENETICS AND BREEDING TO AID CROP IMPROVEMENT FOR CHANGING ENVIRONMENTS",
+            "pub_year": "2019",
+            "citation": "20th ICC Conference 2022, 13, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:r_AWSJRzSzQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recent and Future Trends in Frost, Heat and Drought Stress Affecting Wheat in Australia: Options for Adaptation",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:HeT0ZceujKMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How limiting transpiration under high evaporative demand can improve wheat yield in current and future climate scenarios",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:3htObqc8RwsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environmental characterization facilitate G\u00d7 E interaction to highlight the role of stay-green traits for genetic gain",
+            "pub_year": "2019",
+            "citation": "Translational Photosynthesis Conference 2019: Innovations in Agriculture for \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:yFnVuubrUp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Will Early Vigour Still be Useful in Wheat in a Future with Elevated Atmospheric CO2?.",
+            "pub_year": "2018",
+            "citation": "ASA, CSSA, and CSA International Annual Meeting (2018), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:LhH-TYMQEocC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Caract\u00e9risation de d\u00e9ficits hydriques en essais et sur le long-terme pour assister le d\u00e9veloppement vari\u00e9tal et l\u2019aide au conseil",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:4hFrxpcac9AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotypic selection of cereal root traits for terminal drought-stressed environments",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:edDO8Oi4QzsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Indirect adaptation for transpiration efficiency in Australian wheat varieties",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:XoXfffV-tXoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel phenotyping platform allows selection for cereal root traits",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:i2xiXl-TujoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetics of transpiration efficiency in a wheat Nested Association Mapping population",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:e_rmSamDkqQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How to improve drought adaptation in wheat?",
+            "pub_year": "2017",
+            "citation": "Trop Ag, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:DJbcl8HfkQkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shorter trials to increase screening throughput for transpiration efficiency in wheat",
+            "pub_year": "2017",
+            "citation": "Trop Ag, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Increasing genetic progress for wheat adaptation to water-limited environments by integrating novel phenotyping for stay-green and root traits, crop modelling and nested \u2026",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:umqufdRvDiIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Agriculture and climate change conference",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:kh2fBNsKQNwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interdrought-V",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:HbR8gkJAVGIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Speeding genetic progress for wheat adaptation to water-limited environments by integrating novel phenotyping for stay-green and root traits, crop modelling and nested \u2026",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:SpbeaW3--B0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Agriculture and climate change conference",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:MLfJN-KU85MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of canopy growth and development for three wheat cultivars under different water and nitrogen regimes",
+            "pub_year": "2017",
+            "citation": "\" Doing More with Less\", Proceedings of the 18th Australian Agronomy \u2026, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:hMsQuOkrut0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adapting cereals to drought: genetic and management solutions.",
+            "pub_year": "2017",
+            "citation": "TropAg2017, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:Z5m8FVwuT1cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bottom-up and top-down approaches\u2013The value of modelling in trait dissection and phenotypic prediction.",
+            "pub_year": "2016",
+            "citation": "HortiModel2016: V International Symposium on Models for Plant Growth \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:2VqYfGB8ITEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Grains Research and Development",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:9vf0nzSNQJEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotyping transpiration efficiency: Linking trait dissection to genetics",
+            "pub_year": "2016",
+            "citation": "ICEC, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:4vMrXwiscB8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integration of high-throughput genomic and phenomic tools to enhance genetic gain in water-limited environments",
+            "pub_year": "2016",
+            "citation": "Chinese Academy of Agricultural Sciences, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:HIFyuExEbWQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contrasting drought patterns for field pea and chickpea in Australia",
+            "pub_year": "2016",
+            "citation": "Pulse Australia, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:dBIO0h50nwkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heat, frost and drought\u2013what are the trends?",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:9c2xU6iGI7YC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of temperature on seedling root traits\u2013Testing a new high-throughput phenotyping system in wheat",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:HtEfBTGE9r8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improvement of the model capacity and assessment traits related with water use efficiency for wheat in Australia",
+            "pub_year": "2016",
+            "citation": "Chinese Academy of Agricultural Sciences, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:anf4URPfarAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using modelling to target representative drought patterns by managing the irrigation scheduling",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:4fGpz3EwCPoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of soil temperature on seedling roots in wheat",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:YohjEiUPhakC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Patterns of temperature for Australian chickpea production",
+            "pub_year": "2016",
+            "citation": "Pulse Australia, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:5qfkUJPXOUwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "StressMaster: A web application based on crop modeling to get better field data",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:hCrLmN-GePgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stay-green and root trait physiology combined with crop modelling to improve crop adaptation",
+            "pub_year": "2016",
+            "citation": "Australian Society for Biochemistry and Molecular Biology (ASBMB), 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:FPJr55Dyh1AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid phenotyping combined with speed breeding to improve stay-green and root adaptation of wheat in water-limited environments",
+            "pub_year": "2016",
+            "citation": "Chinese Academy of Agricultural Sciences, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The challenge of prioritising across phenotypically complex traits in breeding for highly variable environments",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:q3CdL3IzO_QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using high-throughput phenotyping to improve accuracy in genomic prediction",
+            "pub_year": "2016",
+            "citation": "CIMMYT, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:foquWX3nUaYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Historical improvement in drought adaptation of Australian wheat varieties has coincided with changes in biomass partitioning, transpiration efficiency and root architecture",
+            "pub_year": "2016",
+            "citation": "Australian Society for Biochemistry and Molecular Biology (ASBMB), 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:-FonjvnnhkoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Economic assessment of various levels of improved wheat post head-emergence frost (PHEF) tolerance breeding options: final technical report",
+            "pub_year": "2016",
+            "citation": "Grains Research and Development Corporation, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:AvfA0Oy_GE0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integration of crop models into breeding programs",
+            "pub_year": "2016",
+            "citation": "International Crop Modelling Symposium, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:SdhP9T11ey4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid phenotyping combined with speed-breeding to improve root adaptation of wheat in water-limited environments",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:GtLg2Ama23sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Economic impact of frost in the Australian wheatbelt",
+            "pub_year": "2015",
+            "citation": "Proceedings of the Tropical Agriculture Conference 2015 (TropAg2015), 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:ZuybSZzF8UAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adapting rain-fed sorghum agronomy to breeding progress\u2013Cropping system model parameterisation",
+            "pub_year": "2015",
+            "citation": "Building Productive, Diverse and Sustainable Landscapes, 17th Australian \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:ye4kPcJQO24C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High yielding wheat in the northern region: impact of nitrogen fertilisation on grain yield and quality in modern cultivars",
+            "pub_year": "2015",
+            "citation": "Australian Society of Agronomy, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:dTyEYWd-f8wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How high temperature affects wheat growth and development",
+            "pub_year": "2014",
+            "citation": "Proceedings of the Workshop on Modeling Wheat Response to High Temperature \u2026, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:yD5IFk8b50cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput phenotyping for seminal root angle in wheat in a breeding context",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:ruyezt5ZtCIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotyping stay-green to improve yield in Australian cropping environments",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:PoWvk5oyLR8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Breeding for the future: How to adapt to potential impacts of future frost, drought and heat events on Australian wheat?",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:k8Z6L05lTy4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genotypic variation and its contribution to wheat adaptation to increasing temperatures",
+            "pub_year": "2014",
+            "citation": "\u65e5\u672c\u4f5c\u7269\u5b66\u4f1a\u8b1b\u6f14\u4f1a\u8981\u65e8\u96c6 \u7b2c 237 \u56de\u65e5\u672c\u4f5c\u7269\u5b66\u4f1a\u8b1b\u6f14\u4f1a, 476, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:PR6Y55bgFSsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u300c\u5730\u7403\u74b0\u5883\u3068\u8fb2\u696d\u300d \u7814\u7a76\u306b\u304a\u3051\u308b\u5b66\u969b\u7684\u30a2\u30d7\u30ed\u30fc\u30c1\u306e\u91cd\u8981\u6027",
+            "pub_year": "2014",
+            "citation": "\u65e5\u672c\u4f5c\u7269\u5b66\u4f1a\u7d00\u4e8b 83 (3), 275-275, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:BrmTIyaxlBUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A modeling approach to simulate the whole-plant leaf expansion responses to light in three annual dicotyledonous species",
+            "pub_year": "2013",
+            "citation": "7. International Conference on Functional Structure Plant Models, np, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:dQ2og3OwTAUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tansley reviews",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stay-green traits in wheat are linked to yield in well-watered environments",
+            "pub_year": "2013",
+            "citation": "Wheat Breeding Society Of Australia, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:DUooU5lO8OsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Grain Number and the Response to Increasing Temperatures in Wheat.",
+            "pub_year": "2012",
+            "citation": "ASA, CSSA and SSSA Annual Meetings (Cincinnati, OH-Oct. 21-Oct. 24, 2012), 2012"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:GFxP56DSvIMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling genotype and environment effects to aid crop improvement",
+            "pub_year": "2012",
+            "citation": "http://www. intlcss. org/congress-proceedings/, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:SeFeTyx0c_EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Grain number and the response to increasing temperatures in wheat",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:rmuvC79q63oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large-scale characterization of drought pattern: current and future trends in the Australian wheatbelt",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:Dip1O2bNi0gC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling crop physiology and genetics to simulate Genotype x Management x Environment (GxMxE) interactions",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:oNZyr7d5Mn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adapting wheat germplasm for elevated CO2 and higher temperatures\u2013environment characterisation, trait screening and crop modelling",
+            "pub_year": "2011",
+            "citation": "ComBio 2011, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:rO6llkc54NcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Frost and heat limits to the wheat flowering \u2018window\u2019in present and future climates",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:mNrWkgRL2YcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drought environment types for rain-fed barley in Australia\u2013Interpreting genotype-environment interaction by modelling water-deficit patterns",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:mlAyqtXpCwEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterising root systems throughout the life cycle to identify adaptive root traits for water-limitation",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:XvxMoLDsR5gC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wheat response to increasing temperatures: The role of genetic variability",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:8d8msizDQcsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New lysimeter platforms to phenotype daily transpiration over the crop cycle in contrasting wheat lines",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:VaXvl8Fpj5cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Value of Linking Genomic Knowledge with Ecophysiological Knowledge Using Dynamic Crop Models",
+            "pub_year": "2010",
+            "citation": "ASA-CSSA-SSSA, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:M05iB0D1s5AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Traits and technologies to design crop breeding systems for climate change",
+            "pub_year": "2010",
+            "citation": "CSIRO, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:HoB7MX3m0LUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environmental characterisation for drought-prone environments",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:9pM33mqn1YgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Revealing the yield impacts of organ-level QTL associated with drought response in maize-A gene-to-phenotype modelling approach",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:PVjk1bu6vJQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional whole-Plant modelling-The missing link between molecular biology and crop improvement?",
+            "pub_year": "2010",
+            "citation": "Mathematical Biosciences Institute, The Ohio State University, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:0N-VGjzr574C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling strategies in the application of QTL and trait information in breeding programs",
+            "pub_year": "2009",
+            "citation": "Complementary strategies to raise wheat yield potential, 29, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:3s1wT3WcHBgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environment characterisation as an aid to improve wheat adaptation in water-limited environments",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:IRz6iEL74y4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A simulation platform to study QTL detection and response to selection",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:FAceZFleit8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating Breeding Systems for Climate Change",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:Ri6SYOTghG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic and physiological simulation of crossing and selection strategies to combine diagnostic markers and quantitative traits",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:lmc2jWPfTJgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetics of complex traits-Simulating the yield impacts of organ-level quantitative trait loci associated with drought response in maize: A\" gene-to-phenotype\" modeling approach",
+            "pub_year": "2009",
+            "citation": "Genetics 183 (4), 1507, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:kuK5TVdYjLIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling strategies in the application of QTL and trait information in breeding programs. Complementary strategies to raise wheat yield potential; Workshop held at CIMMYT, El \u2026",
+            "pub_year": "2009",
+            "citation": "^ TComplementary strategies to raise wheat yield potential; Workshop held at \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:kzcrU_BdoSEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Designing a simulation platform to study QTL detection and breeding response to selection as confounded by gene x trait x environment x management interactions. International \u2026",
+            "pub_year": "2009",
+            "citation": "^ TInternational Conference on Integrated Approaches to Improve Crop \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:Fu2w8maKXqMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative trait loci associated with drought response in maize-a gene-to-phenotype modelling approach",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:2P1L_qKh6hAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptation of Wheat and Barley to northern and coastal Queensland",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:vV6vV6tmYwMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developing new methods for the application of cross prediction, QTL analysis and comparisons of breeding strategies",
+            "pub_year": "2009",
+            "citation": "SABRAO Journal of Breeding and Genetics 41 (Supp.), 1-19, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:RGFaLdJalmkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Model-based trait dissection as an aid to QTL detection and deployment-Illustration for leaf growth under drought in maize",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:LI9QrySNdTsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of the amount of light intercepted by a plant in natural and artificial environments: Contribution of 3D virtual plants in sunflower and Arabidopsis thaliana",
+            "pub_year": "2007",
+            "citation": "Functional Structural Plant Model. 2007; 5. International Workshop on \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:RYcK_YlVTxYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How do short-term environmental effects on leaf growth rate translate into differences in whole-plant profiles of maize leaf area? Impact of temperature, evaporative demand and \u2026",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:S16KYo8Pm5AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dissecting maize matter production variability using a structural model\u2013An original approach to drive maize breeding for cold tolerance",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:EkHepimYqZsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of light absorption by plants in situations with artificial light: Contribution of 3 dimensional virtual plants in Helianthus annuus and Arabidopsis",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:UHK10RUVsp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scaling up to whole-plant and crop levels short-term responses of leaf growth to water deficit",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:pqnbT2bcN3wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D virtual plants to phenotype differences among genotypes: Taking into account plant-environment interactions to better understand genetic variability in leaf development \u2026",
+            "pub_year": "2007",
+            "citation": "Functional Structural Plant Model. 2007; 5. International Workshop on \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:g5m5HwL7SMYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards an architectural approach to direct maize breeding for cold tolerance",
+            "pub_year": "2006",
+            "citation": "2006 Second International Symposium on Plant Growth Modeling and \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:ZHo1McVdvXMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D architectural modelling approach to drive maize breeding for cold tolerance: a first step",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:a9-T7VOCCH8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How can 3D virtual plant help to better understand plant physiology and genotype-environment interactions?",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variabilit\u00e9 ph\u00e9notypique de la croissance et du d\u00e9veloppement foliaire en r\u00e9ponse au rayonnement chez Arabidopsis thaliana",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:_5tno0g5mFcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenopsis, une plateforme automatis\u00e9e pour du ph\u00e9notypage reproductible chez Arabidopsis thaliana",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:sNmaIFBj_lkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ph\u00e9notypage haut-d\u00e9bit chez Arabidopsis thaliana: comment analyser la r\u00e9ponse des plantes aux stress environnementaux de fa\u00e7on reproductible?",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:kz9GbA2Ns4gC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic variability of leaf expansion responses to water deficit in Arabidopsis thaliana",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:6ZxmRoH8BuwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Model of rosette development and expansion in Arabidopsis thaliana subjected to various temperature and incident radiation conditions",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:NXb4pA-qfm4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf expansion and development in response to light intensity. Comparison of different genotypes of Arabidopsis thaliana",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:LO7wyVUgiFcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf development in response to light in Arabidopsis thaliana: a quantitative approach using 3D virtual plants to compare genotypes",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:bz8QjSJIRt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Imposing rigorously identical water deficits to different Arabidopsis thaliana accessions: an automated system for high throughput analyses of plant responses to soil water deficit",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:86PQX7AUzd4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling shoot and root architecture and development as related to environmental constraints in Arabidopsis thaliana",
+            "pub_year": "2003",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:0izLItjtcgwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation 3D de la r\u00e9ponse de la rosette d\u2019Arabidopsis thaliana \u00e0 la temp\u00e9rature et \u00e0 l\u2019intensit\u00e9 lumineuse: \u00c9tude de Columbia et son mutant serrate",
+            "pub_year": "2003",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:WZBGuue-350C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Beyond the paddock: Remote mapping of grain crop type and phenology",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:ALROH1vI_8AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating Crop Modelling, Physiology, Genetics and Breeding to Aid Crop Improvement for Changing Environments-an Illustration to Produce More Crops per Drops",
+            "citation": "ASA, CSSA and SSSA International Annual Meetings (2020)| VIRTUAL, 0"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:otzGkya1bYkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Full title: Unsupervised plot-scale LAI phenotyping via UAV-based imaging, modelling and 1 machine learning 2",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:jL-93Qbq4QoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Post-Anthesis Assimilate Supply Determines the Performance of Wheat Crops Affected By Heat Shocks",
+            "citation": "ASA, CSSA and SSSA International Annual Meetings (2020)| VIRTUAL, 0"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:4xDN1ZYqzskC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotyping Genetic Differences in Mature Root Systems to Improve Drought Adaptation in Wheat",
+            "citation": "ASA, CSSA and SSSA International Annual Meetings (2020)| VIRTUAL, 0"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:Ak0FvsSvgGUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environmental Characterization Facilitates Understanding of Genotype-Environment Interactions to Highlight the Potential of Stay-Green Traits in Wheat",
+            "citation": "ASA, CSSA and SSSA International Annual Meetings (2020)| VIRTUAL, 0"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:vDZJ-YLwNdEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Frost: An analysis of frost impact plus guidelines to reduce frost risk and assess frost damage",
+            "citation": "GRDC Grains Research Update, 4, 0"
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:fFSKOagxvKUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Greg J. Rebetzke, Ralph (Tony) A. Fischer, Anthony F. van Herwaarden, Dave G. Bonnett",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:hkOj_22Ku90C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The next issue of this journal Genome studies and molecular genetics",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "_eyZv68AAAAJ:pyW8ca7W8N0C",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,746 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FT protein movement contributes to long-distance signaling in floral induction of Arabidopsis",
+            "pub_year": "2007",
+            "citation": "science 316 (5827), 1030-1033, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 2301,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5069622676605218485",
+        "cites_id": [
+            "5069622676605218485"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation and identity of florigen: FLOWERING LOCUS T moves center stage",
+            "pub_year": "2008",
+            "citation": "Annu. Rev. Plant Biol. 59, 573-594, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1082,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12072403412313621472",
+        "cites_id": [
+            "12072403412313621472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcription factor FLC confers a flowering response to vernalization by repressing meristem competence and systemic signaling in Arabidopsis",
+            "pub_year": "2006",
+            "citation": "Genes & development 20 (7), 898-912, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 926,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2871785677544544258",
+        "cites_id": [
+            "2871785677544544258"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SnapShot: control of flowering in Arabidopsis",
+            "pub_year": "2010",
+            "citation": "Cell 141 (3), 550-550. e2, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 656,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11667119203035219606",
+        "cites_id": [
+            "11667119203035219606"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis DOF transcription factors act redundantly to reduce CONSTANS expression and are essential for a photoperiodic flowering response",
+            "pub_year": "2009",
+            "citation": "Developmental cell 17 (1), 75-86, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 593,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=609774379475144391",
+        "cites_id": [
+            "609774379475144391"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular control of seasonal flowering in rice, arabidopsis and temperate cereals",
+            "pub_year": "2014",
+            "citation": "Annals of botany 114 (7), 1445-1458, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:ufrVoPGSRksC",
+        "num_citations": 228,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=299206695115153780",
+        "cites_id": [
+            "299206695115153780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional Characterization of OsMADS18, a Member of the AP1/SQUA Subfamily of MADS Box Genes",
+            "pub_year": "2004",
+            "citation": "Plant Physiology 135 (4), 2207-2219, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:qjMakFHDy7sC",
+        "num_citations": 224,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15392804741443997739",
+        "cites_id": [
+            "15392804741443997739"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The D\u2010lineage MADS\u2010box gene OsMADS13 controls ovule identity in rice",
+            "pub_year": "2007",
+            "citation": "The Plant Journal 52 (4), 690-699, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 221,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17044173329621966876",
+        "cites_id": [
+            "17044173329621966876"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the Arabidopsis Shoot Meristem Transcriptome during Floral Transition Identifies Distinct Regulatory Patterns and a Leucine-Rich Repeat Protein That \u2026",
+            "pub_year": "2012",
+            "citation": "The Plant Cell 24 (2), 444-462, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 214,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14784132599562083403",
+        "cites_id": [
+            "14784132599562083403"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combinatorial activities of SHORT VEGETATIVE PHASE and FLOWERING LOCUS C define distinct modes of flowering regulation in Arabidopsis",
+            "pub_year": "2015",
+            "citation": "Genome biology 16, 1-23, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 156,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12180044410217391871",
+        "cites_id": [
+            "12180044410217391871"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SHORT VEGETATIVE PHASE reduces gibberellin biosynthesis at the Arabidopsis shoot apex to regulate the floral transition",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (26), E2760-E2769, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 143,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9206766418630499627",
+        "cites_id": [
+            "9206766418630499627"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative analysis of rice MADS-box genes expressed during flower development",
+            "pub_year": "2002",
+            "citation": "Sexual Plant Reproduction 15, 113-122, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 130,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13239955808831106869",
+        "cites_id": [
+            "13239955808831106869"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant phase transitions make a SPLash",
+            "pub_year": "2009",
+            "citation": "Cell 138 (4), 625-627, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 114,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15801127151621628645",
+        "cites_id": [
+            "15801127151621628645"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The GI\u2013CDF module of Arabidopsis affects freezing tolerance and growth as well as flowering",
+            "pub_year": "2015",
+            "citation": "The Plant Journal 81 (5), 695-706, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:5nxA0vEk-isC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16047142782166174126",
+        "cites_id": [
+            "16047142782166174126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DOF-binding sites additively contribute to guard cell-specificity of AtMYB60promoter",
+            "pub_year": "2011",
+            "citation": "BMC Plant Biology 11, 1-13, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3682026898150087376",
+        "cites_id": [
+            "3682026898150087376"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EU-OSTID: a collection of transposon insertional mutants for functional genomics in rice",
+            "pub_year": "2005",
+            "citation": "Plant Molecular Biology 59, 99-110, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11718948365326769417",
+        "cites_id": [
+            "11718948365326769417"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional and post-transcriptional mechanisms limit heading date 1 (Hd1) function to adapt rice to high latitudes",
+            "pub_year": "2017",
+            "citation": "PLoS Genetics 13 (1), e1006530, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:_kc_bZDykSQC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9797122975101252781",
+        "cites_id": [
+            "9797122975101252781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular control of flowering in response to day length in rice",
+            "pub_year": "2013",
+            "citation": "Journal of integrative plant biology 55 (5), 410-418, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:WF5omc3nYNoC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3556026724022856408",
+        "cites_id": [
+            "3556026724022856408"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The rice StMADS11-like genes OsMADS22 and OsMADS47 cause floral reversions in Arabidopsis without complementing the svp and agl24 mutants",
+            "pub_year": "2008",
+            "citation": "Journal of Experimental Botany 59 (8), 2181-2190, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15678182236590027385",
+        "cites_id": [
+            "15678182236590027385"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antagonistic transcription factor complexes modulate the floral transition in rice",
+            "pub_year": "2017",
+            "citation": "The Plant Cell 29 (11), 2801-2816, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:4DMP91E08xMC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10880249288305188046",
+        "cites_id": [
+            "10880249288305188046"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Loss of floral repressor function adapts rice to higher latitudes in Europe",
+            "pub_year": "2015",
+            "citation": "Journal of Experimental Botany 66 (7), 2027-2039, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:0EnyYjriUFMC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14009643972826852185",
+        "cites_id": [
+            "14009643972826852185"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hd3a, RFT1 and Ehd1 integrate photoperiodic and drought stress signals to delay the floral transition in rice",
+            "pub_year": "2016",
+            "citation": "Plant, Cell & Environment 39 (9), 1982-1993, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2666296780809471029",
+        "cites_id": [
+            "2666296780809471029"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phosphorylation of CONSTANS and its COP 1\u2010dependent degradation during photoperiodic flowering of Arabidopsis",
+            "pub_year": "2015",
+            "citation": "The Plant Journal 84 (3), 451-463, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4369790538409612398",
+        "cites_id": [
+            "4369790538409612398"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The importance of being on time: regulatory networks controlling photoperiodic flowering in cereals",
+            "pub_year": "2017",
+            "citation": "Frontiers in Plant Science 8, 665, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11048827986124898706",
+        "cites_id": [
+            "11048827986124898706"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MADS-box genes controlling flower development in rice",
+            "pub_year": "2003",
+            "citation": "Plant Biology 5 (01), 16-22, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15554124689371807433",
+        "cites_id": [
+            "15554124689371807433"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome wide screening and comparative genome analysis for Meta-QTLs, ortho-MQTLs and candidate genes controlling yield and yield-related traits in rice",
+            "pub_year": "2020",
+            "citation": "BMC genomics 21, 1-24, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5354884734780394470",
+        "cites_id": [
+            "5354884734780394470"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AGL24 acts in concert with SOC1 and FUL during Arabidopsis floral transition",
+            "pub_year": "2012",
+            "citation": "Plant signaling & behavior 7 (10), 1251-1254, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5012385016529427127",
+        "cites_id": [
+            "5012385016529427127"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A transcription factor coordinating internode elongation and photoperiodic signals in rice",
+            "pub_year": "2019",
+            "citation": "Nature plants 5 (4), 358-362, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:IWHjjKOFINEC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2955717014990552926",
+        "cites_id": [
+            "2955717014990552926"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Y flowering? Regulation and activity of CONSTANS and CCT-domain proteins in Arabidopsis and crop species",
+            "pub_year": "2017",
+            "citation": "Biochimica et Biophysica Acta (BBA)-Gene Regulatory Mechanisms 1860 (5), 655-660, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6589914305898426982",
+        "cites_id": [
+            "6589914305898426982"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural determinants for NF\u2010Y subunit organization and NF\u2010Y/DNA association in plants",
+            "pub_year": "2021",
+            "citation": "The Plant Journal 105 (1), 49-61, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:HDshCWvjkbEC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17871978666052147265",
+        "cites_id": [
+            "17871978666052147265"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant flowering: imposing DNA specificity on histone-fold subunits",
+            "pub_year": "2018",
+            "citation": "Trends in plant science 23 (4), 293-301, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12313013457377021025",
+        "cites_id": [
+            "12313013457377021025"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing enhances transcriptome complexity in desiccating seeds",
+            "pub_year": "2016",
+            "citation": "Journal of integrative plant biology 58 (12), 947-958, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14998159428449243642",
+        "cites_id": [
+            "14998159428449243642"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OsFD4 promotes the rice floral transition via florigen activation complex formation in the shoot apical meristem",
+            "pub_year": "2021",
+            "citation": "New Phytologist 229 (1), 429-443, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:mB3voiENLucC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7091869375196079706",
+        "cites_id": [
+            "7091869375196079706"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of flowering in rice through synthetic microProteins",
+            "pub_year": "2020",
+            "citation": "Journal of Integrative Plant Biology 62 (6), 730-736, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:hC7cP41nSMkC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10513912620140261333",
+        "cites_id": [
+            "10513912620140261333"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeted knockout of the gene OsHOL1 removes methyl iodide emissions from rice plants",
+            "pub_year": "2021",
+            "citation": "Scientific Reports 11 (1), 17010, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14632794425712231284",
+        "cites_id": [
+            "14632794425712231284"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcription factor FLC confers a flowering response to vernalization by repressing meristem competence and systemic signaling in Arabidopsis",
+            "pub_year": "2006",
+            "citation": "Genes Dev 20, 898912, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:r0BpntZqJG4C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7689682921256991212",
+        "cites_id": [
+            "7689682921256991212"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The molecular genetics of floral transition and flower development",
+            "pub_year": "2014",
+            "citation": "Elsevier, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:Se3iqnhoufwC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=901689210764128378",
+        "cites_id": [
+            "901689210764128378"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two florigens and a florigen-like protein form a triple regulatory module at the shoot apical meristem to promote reproductive transitions in rice",
+            "pub_year": "2023",
+            "citation": "Nature Plants 9 (4), 525-534, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1616848753718851605",
+        "cites_id": [
+            "1616848753718851605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SPL transcription factors prevent inflorescence reversion in rice",
+            "pub_year": "2021",
+            "citation": "Molecular Plant 14 (7), 1041-1043, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17735184492127331055",
+        "cites_id": [
+            "17735184492127331055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Precise and heritable gene targeting in rice using a sequential transformation strategy",
+            "pub_year": "2023",
+            "citation": "Cell Reports Methods 3 (1), 2023"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:iH-uZ7U-co4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11487931612106369183",
+        "cites_id": [
+            "11487931612106369183"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reversion of the photoperiod dependence of flowering in rice with synthetic Hd1-microProteins",
+            "pub_year": "2018",
+            "citation": "bioRxiv, 266486, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=529667969557455661",
+        "cites_id": [
+            "529667969557455661"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoperiodic control of flowering in arabidopsis",
+            "pub_year": "2011",
+            "citation": "I Workshop on Floral Biology and S-Incompatibility in Fruit Species 967, 17-27, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:roLk4NBRz8UC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8553852594446279653",
+        "cites_id": [
+            "8553852594446279653"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rice florigens control a common set of genes at the shoot apical meristem including the F\u2010BOX BROADER TILLER ANGLE 1 that regulates tiller angle and spikelet development",
+            "pub_year": "2023",
+            "citation": "The Plant Journal, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:k_IJM867U9cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environmental control of rice flowering time",
+            "pub_year": "2023",
+            "citation": "Plant Communications, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:isC4tDSrTZIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A missing piece in the control of rice flowering and inflorescence determinacy",
+            "pub_year": "2023",
+            "citation": "NATURE PLANTS 9 (4), 509-510, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:TFP_iSt0sucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome Editing in Crop Species",
+            "pub_year": "2017",
+            "citation": "More Food: Road to Survival, 463, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:aqlVkmm33-oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Importance of Being on Time: Regulatory Networks Controlling Photoperiodic Flowering in Cereals",
+            "pub_year": "2017",
+            "citation": "Frontiers Media SA, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ADVANCES IN BOTANICAL RESEARCH The Molecular Genetics of Floral Transition and Flower Development PREFACE",
+            "pub_year": "2014",
+            "citation": "MOLECULAR GENETICS OF FLORAL TRANSITION AND FLOWER DEVELOPMENT 72, XI-XIII, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "7pPlII0AAAAJ:8k81kl-MbHgC",
+        "num_citations": 0
+    }
+]

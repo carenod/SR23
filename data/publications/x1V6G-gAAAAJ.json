@@ -1,0 +1,763 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intercellular coupling confers robustness against mutations in the SCN circadian clock network",
+            "pub_year": "2007",
+            "citation": "Cell 129 (3), 605-616, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 768,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13294512448206458394",
+        "cites_id": [
+            "13294512448206458394"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cryptochrome mediates circadian regulation of cAMP signaling and hepatic gluconeogenesis",
+            "pub_year": "2010",
+            "citation": "Nature Medicine 16 (10), 1152-1156, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 583,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12642821257955451237",
+        "cites_id": [
+            "12642821257955451237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Clocks not winding down: unravelling circadian networks",
+            "pub_year": "2010",
+            "citation": "Nature Reviews Molecular Cell Biology 11 (11), 764-776, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:qjMakFHDy7sC",
+        "num_citations": 486,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11029317149166266447",
+        "cites_id": [
+            "11029317149166266447"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A genome-wide RNAi screen for modifiers of the circadian clock in human cells",
+            "pub_year": "2009",
+            "citation": "Cell 139 (1), 199-210, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 467,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4851773762466707822",
+        "cites_id": [
+            "4851773762466707822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Redundant function of REV-ERB\u03b1 and \u03b2 and non-essential role for Bmal1 cycling in transcriptional regulation of intracellular circadian rhythms",
+            "pub_year": "2008",
+            "citation": "PLoS Genetics 4 (2), e1000023, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 427,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6826619225896494359",
+        "cites_id": [
+            "6826619225896494359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neuronal Shp2 tyrosine phosphatase controls energy balance and metabolism",
+            "pub_year": "2004",
+            "citation": "Proceedings of the National Academy of Sciences 101 (45), 16064-16069, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 267,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8628150246774484764",
+        "cites_id": [
+            "8628150246774484764"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput chemical screen identifies a novel potent modulator of cellular circadian rhythms and reveals CKI\u03b1 as a clock regulatory kinase",
+            "pub_year": "2010",
+            "citation": "PLoS Biology 8 (12), e1000559, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 250,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8319785005402157194,8421090772329498474",
+        "cites_id": [
+            "8319785005402157194",
+            "8421090772329498474"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Emergence of noise-induced oscillations in the central circadian pacemaker",
+            "pub_year": "2010",
+            "citation": "PLoS Biology 8 (10), e1000513, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 226,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8524475646695549646",
+        "cites_id": [
+            "8524475646695549646"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reciprocal Regulation between the Circadian Clock and Hypoxia Signaling at the Genome Level in Mammals",
+            "pub_year": "2017",
+            "citation": "Cell Metabolism 25 (1), 73\u201385, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:ufKn5pxu7C0C",
+        "num_citations": 220,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14615521528644742646",
+        "cites_id": [
+            "14615521528644742646"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Guidelines for Genome-Scale Analysis of Biological Rhythms",
+            "pub_year": "2017",
+            "citation": "Journal of Biological Rhythms 32 (5), 380-393, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:nU66GSXDKhoC",
+        "num_citations": 199,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8842696442350915946",
+        "cites_id": [
+            "8842696442350915946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of entacapone as a chemical inhibitor of FTO mediating metabolic regulation through FOXO1",
+            "pub_year": "2019",
+            "citation": "Science Translational Medicine 11 (488), eaau7116, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:rpSJNIKeXWsC",
+        "num_citations": 190,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10461802255303780599",
+        "cites_id": [
+            "10461802255303780599"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of Shp-2 as a Stat5A phosphatase",
+            "pub_year": "2003",
+            "citation": "Journal of Biological Chemistry 278 (19), 16520-16527, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 160,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4295559533089590504",
+        "cites_id": [
+            "4295559533089590504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deletion of Shp2 in the brain leads to defective proliferation and differentiation in neural stem cells and early postnatal lethality",
+            "pub_year": "2007",
+            "citation": "Molecular and Cellular Biology 27 (19), 6706-6717, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4693197769594903311",
+        "cites_id": [
+            "4693197769594903311"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The circadian clock gene Bmal1 acts as a potential anti-oncogene in pancreatic cancer by activating the p53 tumor suppressor pathway",
+            "pub_year": "2016",
+            "citation": "Cancer Letters 371 (2), 314-325, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:NXYAu82O0W8C",
+        "num_citations": 139,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10504806608998139044",
+        "cites_id": [
+            "10504806608998139044"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Concerted functions of Gab1 and Shp2 in liver regeneration and hepatoprotection",
+            "pub_year": "2006",
+            "citation": "Molecular and Cellular Biology 26 (12), 4664-4674, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 119,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5280000991130757741",
+        "cites_id": [
+            "5280000991130757741"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bud specific N-sulfation of heparan sulfate regulates Shp2-dependent FGF signaling during lacrimal gland induction",
+            "pub_year": "2008",
+            "citation": "Development 135 (2), 301-310, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10763715597108877593",
+        "cites_id": [
+            "10763715597108877593"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deletion of Gab1 in the liver leads to enhanced glucose tolerance and improved hepatic insulin action",
+            "pub_year": "2005",
+            "citation": "Nature Medicine 11 (5), 567-571, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15497970708823445416",
+        "cites_id": [
+            "15497970708823445416"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conditional deletion of Shp2 tyrosine phosphatase in thymocytes suppresses both pre-TCR and TCR signals",
+            "pub_year": "2006",
+            "citation": "The Journal of Immunology 177 (9), 5990-5996, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:WF5omc3nYNoC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11818811587081396590",
+        "cites_id": [
+            "11818811587081396590"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Long-term in vivo recording of circadian rhythms in brains of freely moving mice",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (16), 4276-4281, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:cdwqcPQS8ssC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17853090002489610825",
+        "cites_id": [
+            "17853090002489610825"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conditional deletion of Shp2 in the mammary gland leads to impaired lobulo-alveolar outgrowth and attenuated Stat5 activation",
+            "pub_year": "2006",
+            "citation": "Journal of Biological Chemistry 281 (45), 34374-34380, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18099674356023023160",
+        "cites_id": [
+            "18099674356023023160"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diurnal oscillations of endogenous H2O2 sustained by p66 Shc regulate circadian clocks",
+            "pub_year": "2019",
+            "citation": "Nature Cell Biology 21, 1553-1564, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:cF7EPgIk0B4C",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13575568740249111592",
+        "cites_id": [
+            "13575568740249111592"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of diabesity in mice with neuronal deletion of Shp2 tyrosine phosphatase",
+            "pub_year": "2008",
+            "citation": "The American Journal of Pathology 172 (5), 1312-1324, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2316628356555114956",
+        "cites_id": [
+            "2316628356555114956"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Orexin signaling regulates both the hippocampal clock and the circadian oscillation of Alzheimer\u2019s disease-risk genes",
+            "pub_year": "2016",
+            "citation": "Scientific Reports 6, 36035, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:eAUscmXIlQ8C",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12316635927631039087",
+        "cites_id": [
+            "12316635927631039087"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The MiR-135b-BMAL1-YY1 loop disturbs pancreatic clockwork to promote tumourigenesis and chemoresistance",
+            "pub_year": "2018",
+            "citation": "Cell Death and Disease 9 (2), 149, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:1xBWf43XMUgC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13946299222314624548",
+        "cites_id": [
+            "13946299222314624548"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shp2 acts downstream of SDF-1\u03b1/CXCR4 in guiding granule cell migration during cerebellar development",
+            "pub_year": "2009",
+            "citation": "Developmental Biology 334 (1), 276-284, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:roLk4NBRz8UC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14036315756288548523",
+        "cites_id": [
+            "14036315756288548523"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BMI1 and MEL18 Promote Colitis-Associated Cancer in Mice via REG3B and STAT3",
+            "pub_year": "2017",
+            "citation": "Gastroenterology 153 (6), 1607-1620, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:xa5BkEQK8BgC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6261377410211707464",
+        "cites_id": [
+            "6261377410211707464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Downregulation of HIF-1a sensitizes U251 glioma cells to the temozolomide (TMZ) treatment",
+            "pub_year": "2016",
+            "citation": "Experimental Cell Research 343 (2), 148-158, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:ybfzIt2tCtgC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4785860821250129418",
+        "cites_id": [
+            "4785860821250129418"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Shp-2 tyrosine phosphatase",
+            "pub_year": "2004",
+            "citation": "Protein Phosphatases, 275-299, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:ufrVoPGSRksC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12370978400626245217",
+        "cites_id": [
+            "12370978400626245217"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antitumor efficiency of the cytosine deaminase/5-fluorocytosine suicide gene therapy system on malignant gliomas: an in vivo study",
+            "pub_year": "2008",
+            "citation": "Medical Science Monitor 15 (1), BR13-BR20, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:oAywNP-vUhwC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17961225378892739014",
+        "cites_id": [
+            "17961225378892739014"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shp2 is dispensable in the formation and maintenance of the neuromuscular junction",
+            "pub_year": "2006",
+            "citation": "Neurosignals 15 (2), 53-63, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6325269561500966428",
+        "cites_id": [
+            "6325269561500966428"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visualizing the Ensemble Structures of Protein Complexes Using Chemical Cross-Linking Coupled with Mass Spectrometry",
+            "pub_year": "2015",
+            "citation": "Biophysics Reports 1, 127\u2013138, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:oynPyU19kbsC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2331235708769798712",
+        "cites_id": [
+            "2331235708769798712"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ratio of intracellular CRY proteins determines the clock period length",
+            "pub_year": "2016",
+            "citation": "Biochemical and Biophysical Research Communications 472 (3), 531-538, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:v_xunPV0uK0C",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5738930363286132787",
+        "cites_id": [
+            "5738930363286132787"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chemical perturbations reveal that RUVBL2 regulates the circadian phase in mammals",
+            "pub_year": "2020",
+            "citation": "Science Translational Medicine 12, eaba0769, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:HKviVsUxM5wC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5105624181655584468",
+        "cites_id": [
+            "5105624181655584468"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methylation-mediated miR-155-FAM133A axis contributes to the attenuated invasion and migration of IDH mutant gliomas",
+            "pub_year": "2018",
+            "citation": "Cancer Letters 432, 93-102, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:GtqhT-R7ZnwC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1079061983024687007",
+        "cites_id": [
+            "1079061983024687007"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BMAL1 regulates transcription initiation and activates circadian clock gene expression in mammals",
+            "pub_year": "2016",
+            "citation": "Biochemical and Biophysical Research Communications 473 (4), 1019-1025, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:_9Xh93LWpsYC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11076354710104064605",
+        "cites_id": [
+            "11076354710104064605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phosphorylation regulating the ratio of intracellular CRY1 Protein Determines the circadian Period",
+            "pub_year": "2016",
+            "citation": "Frontiers in Neurology 7, 159, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:8p8iYwVyaVcC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2791584242380554054",
+        "cites_id": [
+            "2791584242380554054"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A signalling pathway for transcriptional regulation of sleep amount in mice",
+            "pub_year": "2022",
+            "citation": "Nature, 1-9, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:vjZqxyZ7hS4C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9524965332244673735",
+        "cites_id": [
+            "9524965332244673735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Microfluidic Approach for Experimentally Modelling the Intercellular Coupling System of a Mammalian Circadian Clock at Single-cell Level",
+            "pub_year": "2020",
+            "citation": "Lab on a Chip 20, 1204-1211, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:VjBpw8Hezy4C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12327307289132093657",
+        "cites_id": [
+            "12327307289132093657"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The pancreatic clock is a key determinant of pancreatic fibrosis progression and exocrine dysfunction",
+            "pub_year": "2022",
+            "citation": "Science Translational Medicine 14, eabn3586, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:hEXC_dOfxuUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15020481225970403014",
+        "cites_id": [
+            "15020481225970403014"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A highland-adaptation mutation of the Epas1 protein increases its stability and disrupts the circadian clock in the plateau pika",
+            "pub_year": "2022",
+            "citation": "Cell Reports 39 (7), 110816, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:5rMqqAh47xYC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16385945958008113173",
+        "cites_id": [
+            "16385945958008113173"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Therapeutic implications of circadian rhythms",
+            "pub_year": "2015",
+            "citation": "Frontiers in Pharmacology 6, 175, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:xii_ZKWM4-0C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11362455588485298494",
+        "cites_id": [
+            "11362455588485298494"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In Vivo Monitoring of Circadian Clock Gene Expression in the Mouse Suprachiasmatic Nucleus Using Fluorescence Reporters",
+            "pub_year": "2018",
+            "citation": "Journal of Visualized Experiments 137, e56765, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:Cvh0bltMcLgC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2986779776411936450",
+        "cites_id": [
+            "2986779776411936450"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of PCBP1 as a Novel Modulator of Mammalian Circadian Clock",
+            "pub_year": "2021",
+            "citation": "Frontiers in Genetics 12, 442, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:J4E9jCG1tHUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15029645367659009510",
+        "cites_id": [
+            "15029645367659009510"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Go human! Circadian translational medicine has come of age",
+            "pub_year": "2020",
+            "citation": "Brain Science Advances 6 (2), DOI: 10.26599/BSA.2020.905001, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:DGzKIA18-3YC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6870192613148904272",
+        "cites_id": [
+            "6870192613148904272"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pyrrolidine dithiocarbamate sensitizes U251 brain glioma cells to temozolomide via downregulation of MGMT and BCL\u2011XL",
+            "pub_year": "2017",
+            "citation": "Oncology Letters 14 (5), 5135-5144, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:ZysSsiWj_g4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1451185489128039972",
+        "cites_id": [
+            "1451185489128039972"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian Rhythms and Energy Homeostasis",
+            "pub_year": "2014",
+            "citation": "Chemistry of Life 34 (2), 241-248, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:tgTmbKTkO1IC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11793691019230447221",
+        "cites_id": [
+            "11793691019230447221"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dissecting role of AAA-ATPase RUVBLs in circadian system via mathematical modeling",
+            "pub_year": "2022",
+            "citation": "Communications in Information and Systems 22 (3), 401-427, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:uoRD4RTSUPoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Review on Methodologies for Circadian Research: Pursuing Long-term Real-time Recordings",
+            "pub_year": "2018",
+            "citation": "Chinese Journal of Biochemistry and Molecular Biology 34 (10), 1021-1029, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "x1V6G-gAAAAJ:nOiSByfp82kC",
+        "num_citations": 0
+    }
+]

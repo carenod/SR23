@@ -1,0 +1,658 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hierarchical action and inhibition of plant Dicer-like proteins in antiviral defense",
+            "pub_year": "2006",
+            "citation": "Science Signalling 313 (5783), 68, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 1035,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10755239712738677457",
+        "cites_id": [
+            "10755239712738677457"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular mechanism for the interaction between gibberellin and brassinosteroid signaling pathways in Arabidopsis",
+            "pub_year": "2012",
+            "citation": "Proceedings of the National Academy of Sciences 109 (33), 13446-13451, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 356,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12824011716016607008",
+        "cites_id": [
+            "12824011716016607008"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hormonal regulation of temperature\u2010induced growth in Arabidopsis",
+            "pub_year": "2009",
+            "citation": "The Plant Journal 60 (4), 589-601, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 295,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8104834195781546727",
+        "cites_id": [
+            "8104834195781546727"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular mechanism of action of plant DRM de novo DNA methyltransferases",
+            "pub_year": "2014",
+            "citation": "Cell 157 (5), 1050-1060, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 283,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17781268936635874937",
+        "cites_id": [
+            "17781268936635874937"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A one precursor one siRNA model for Pol IV-dependent siRNA biogenesis",
+            "pub_year": "2015",
+            "citation": "Cell 163 (2), 445-455, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 250,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2882108733501376765",
+        "cites_id": [
+            "2882108733501376765"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeted DNA demethylation of the Arabidopsis genome using the human TET1 catalytic domain",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (9), E2125-E2134, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:roLk4NBRz8UC",
+        "num_citations": 228,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10988949206730548901",
+        "cites_id": [
+            "10988949206730548901"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gibberellins modulate light signaling pathways to prevent Arabidopsis seedling de\u2010etiolation in darkness",
+            "pub_year": "2008",
+            "citation": "The Plant Journal 53 (2), 324-335, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 224,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17508112288700898094",
+        "cites_id": [
+            "17508112288700898094"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Site-specific manipulation of Arabidopsis loci using CRISPR-Cas9 SunTag systems",
+            "pub_year": "2019",
+            "citation": "Nature communications 10 (1), 729, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 218,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16886041318258544335",
+        "cites_id": [
+            "16886041318258544335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polarization of PIN3\u2010dependent auxin transport for hypocotyl gravitropic response in Arabidopsis thaliana",
+            "pub_year": "2011",
+            "citation": "The Plant Journal 67 (5), 817-826, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 191,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6740584268907792042",
+        "cites_id": [
+            "6740584268907792042"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A DNA methylation reader complex that enhances gene transcription",
+            "pub_year": "2018",
+            "citation": "Science 362 (6419), 1182-1186, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:Se3iqnhoufwC",
+        "num_citations": 175,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17092407991515194526",
+        "cites_id": [
+            "17092407991515194526"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanism of DNA methylation-directed histone methylation by KRYPTONITE",
+            "pub_year": "2014",
+            "citation": "Molecular cell 55 (3), 495-504, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 174,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16234495260616920183",
+        "cites_id": [
+            "16234495260616920183"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional diversification and functional conservation between DELLA proteins in Arabidopsis",
+            "pub_year": "2010",
+            "citation": "Molecular biology and evolution 27 (6), 1247-1256, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9121348765178060731",
+        "cites_id": [
+            "9121348765178060731"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Co-targeting RNA polymerases IV and V promotes efficient de novo DNA methylation in Arabidopsis",
+            "pub_year": "2019",
+            "citation": "Cell 176 (5), 1068-1082. e19, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:UebtZRa9Y70C",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14586477443605487327",
+        "cites_id": [
+            "14586477443605487327"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation in plants: mechanisms and tools for targeted manipulation",
+            "pub_year": "2020",
+            "citation": "New Phytologist 227 (1), 38-44, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8617643035512234557",
+        "cites_id": [
+            "8617643035512234557"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hierarchy of hormone action controlling apical hook development in Arabidopsis",
+            "pub_year": "2011",
+            "citation": "The Plant Journal 67 (4), 622-634, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:qjMakFHDy7sC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901614289816160843",
+        "cites_id": [
+            "5901614289816160843"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNA-directed DNA methylation involves co-transcriptional small-RNA-guided slicing of polymerase V transcripts in Arabidopsis",
+            "pub_year": "2018",
+            "citation": "Nature plants 4 (3), 181-188, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6606165933469256575",
+        "cites_id": [
+            "6606165933469256575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylome of the 20-gigabase Norway spruce genome",
+            "pub_year": "2016",
+            "citation": "Proceedings of the National Academy of Sciences 113 (50), E8106-E8113, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:ufrVoPGSRksC",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12073407921783243019",
+        "cites_id": [
+            "12073407921783243019"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DELLA-Induced Early Transcriptional Changes during Etiolated Development in Arabidopsis thaliana",
+            "pub_year": "2011",
+            "citation": "PLoS One 6 (8), e23918, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10135674251241103045",
+        "cites_id": [
+            "10135674251241103045"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation-linked chromatin accessibility affects genomic architecture in Arabidopsis",
+            "pub_year": "2021",
+            "citation": "Proceedings of the National Academy of Sciences 118 (5), e2023347118, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14912290731859634763",
+        "cites_id": [
+            "14912290731859634763"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A hormonal regulatory module that provides flexibility to tropic responses",
+            "pub_year": "2011",
+            "citation": "Plant Physiology 156 (4), 1819-1825, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8117508068479428050",
+        "cites_id": [
+            "8117508068479428050"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of Multiple Proteins Coupling Transcriptional Gene Silencing to Genome Stability in Arabidopsis thaliana",
+            "pub_year": "2016",
+            "citation": "PLoS genetics 12 (6), e1006092, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:WF5omc3nYNoC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10451514745796696917",
+        "cites_id": [
+            "10451514745796696917"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CryoEM structures of Arabidopsis DDR complexes involved in RNA-directed DNA methylation",
+            "pub_year": "2019",
+            "citation": "Nature communications 10 (1), 3916, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:8k81kl-MbHgC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10366161133901630600",
+        "cites_id": [
+            "10366161133901630600"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis MORC proteins function in the efficient establishment of RNA directed DNA methylation",
+            "pub_year": "2021",
+            "citation": "Nature communications 12 (1), 4292, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:4TOpqqG69KYC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6832889717277992940",
+        "cites_id": [
+            "6832889717277992940"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ectopic targeting of CG DNA methylation in Arabidopsis with the bacterial SssI methyltransferase",
+            "pub_year": "2021",
+            "citation": "Nature communications 12 (1), 3130, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:_kc_bZDykSQC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13088944885845732790",
+        "cites_id": [
+            "13088944885845732790"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The characterization of Mediator 12 and 13 as conditional positive gene regulators in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "Nature communications 11 (1), 2798, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:Zph67rFs4hoC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6769359553249056845",
+        "cites_id": [
+            "6769359553249056845"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comprehensive identification of SWI/SNF complex subunits underpins deep eukaryotic ancestry and reveals new plant components",
+            "pub_year": "2022",
+            "citation": "Communications biology 5 (1), 549, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:aqlVkmm33-oC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16829561875492794362",
+        "cites_id": [
+            "16829561875492794362"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improving cassava bacterial blight resistance by editing the epigenome",
+            "pub_year": "2023",
+            "citation": "Nature communications 14 (1), 85, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3716984585896125022",
+        "cites_id": [
+            "3716984585896125022"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The TRIPLE PHD FINGERS proteins are required for SWI/SNF complex-mediated+ 1 nucleosome positioning and transcription start site determination in Arabidopsis",
+            "pub_year": "2022",
+            "citation": "Nucleic Acids Research 50 (18), 10399-10417, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:4DMP91E08xMC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8280884945697310137",
+        "cites_id": [
+            "8280884945697310137"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for targeting RNA polymerases and non-coding RNA biogenesis to specific loci",
+            "pub_year": "2019",
+            "citation": "US Patent 10,351,867, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8916525294913224222",
+        "cites_id": [
+            "8916525294913224222"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis TRB proteins function in H3K4me3 demethylation by recruiting JMJ14",
+            "pub_year": "2023",
+            "citation": "Nature Communications 14 (1), 1736, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=101522084893023724",
+        "cites_id": [
+            "101522084893023724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A gene silencing screen uncovers diverse tools for targeted gene repression in Arabidopsis",
+            "pub_year": "2023",
+            "citation": "Nature Plants 9 (3), 460-472, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2846335136622449535",
+        "cites_id": [
+            "2846335136622449535"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improving disease resistance in plants by editing the epigenome",
+            "pub_year": "2022",
+            "citation": "BioRxiv, 2022.01. 04.474801, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16758106465917084242",
+        "cites_id": [
+            "16758106465917084242"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeted gene demethylation in plants",
+            "pub_year": "2023",
+            "citation": "US Patent App. 17/936,630, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:-f6ydRqryjwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeted gene demethylation in plants",
+            "pub_year": "2023",
+            "citation": "US Patent 11,566,253, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epidermal GIGANTEA adjusts the response to shade at dusk by directly impinging on PHYTOCHROME INTERACTING FACTOR 7 function",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.03. 21.533699, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:qUcmZB5y_30C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The MOM1 complex recruits the RdDM machinery via MORC6 to establish de novo DNA methylation.",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.01. 10.523455, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:IWHjjKOFINEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for targeting RNA polymerases and non-coding RNA biogenesis to specific loci",
+            "pub_year": "2022",
+            "citation": "US Patent 11,479,781, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for targeting rna polymerases and non-coding rna biogenesis to specific loci",
+            "pub_year": "2022",
+            "citation": "US Patent App. 17/671,466, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The TRIPLE PHD FINGERS proteins are required for SWI/SNF complex-mediated+ 1 nucleosome positioning and 5\u2019transcript length determination in Arabidopsis",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.06. 12.495191, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions for targeting RNA polymerases and non-coding RNA biogenesis to specific loci",
+            "pub_year": "2022",
+            "citation": "US Patent 11,286,493, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:0EnyYjriUFMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeted gene demethylation in plants",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Erratum: Hierarchical action and inhibition of plant Dicer-like proteins in antiviral defense (Science (2016))",
+            "pub_year": "2016",
+            "citation": "Science 351 (6271), 2016"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ancient two expansions of GYPSY-LTR transposons underlie the large genome of Norway spruce",
+            "pub_year": "2016",
+            "citation": "2016 \u5e74\u5168\u56fd\u690d\u7269\u751f\u7269\u5b66\u5927\u4f1a\u6458\u8981\u96c6, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Della protein function during differential growth processes in arabidopsis",
+            "pub_year": "2011",
+            "citation": "Universitat Polit\u00e8cnica de Val\u00e8ncia, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "5TCK7OIAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 0
+    }
+]

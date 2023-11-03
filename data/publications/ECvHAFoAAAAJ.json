@@ -1,0 +1,918 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comprehensive phylogeny of ray-finned fishes (Actinopterygii) based on transcriptomic and genomic data",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (24), 6249-6254, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:4DMP91E08xMC",
+        "num_citations": 430,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14495232485266985081",
+        "cites_id": [
+            "14495232485266985081"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Jagged1 is the pathological link between Wnt and Notch pathways in colorectal cancer",
+            "pub_year": "2009",
+            "citation": "Proceedings of the National Academy of Sciences 106 (15), 6315-6320, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 422,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12260732899206628257",
+        "cites_id": [
+            "12260732899206628257"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Origin of primate orphan genes: a comparative genomics approach",
+            "pub_year": "2009",
+            "citation": "Molecular biology and evolution 26 (3), 603-612, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 238,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13724171324083917690",
+        "cites_id": [
+            "13724171324083917690"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leveraging transcript quantification for fast computation of alternative splicing profiles",
+            "pub_year": "2015",
+            "citation": "Rna 21 (9), 1521-1531, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 214,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9921481298207366173,5338140315036568078",
+        "cites_id": [
+            "9921481298207366173",
+            "5338140315036568078"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Genome Sequence of Saccharomyces eubayanus and the Domestication of Lager-Brewing Yeasts",
+            "pub_year": "2015",
+            "citation": "Molecular biology and evolution 32 (11), 2818-2831, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:UebtZRa9Y70C",
+        "num_citations": 204,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18391406924273752168",
+        "cites_id": [
+            "18391406924273752168"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interferon-\u03b3 is a critical modulator of CB2 cannabinoid receptor signaling during neuropathic pain",
+            "pub_year": "2008",
+            "citation": "Journal of Neuroscience 28 (46), 12136-12145, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9832568027707903395",
+        "cites_id": [
+            "9832568027707903395"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nuclear matrix protein Matrin3 regulates alternative splicing and forms overlapping regulatory networks with PTB",
+            "pub_year": "2015",
+            "citation": "The EMBO journal 34 (5), 653-668, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:ufrVoPGSRksC",
+        "num_citations": 146,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17844757571086546524",
+        "cites_id": [
+            "17844757571086546524"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The translational landscape of the splicing factor SRSF1 and its role in mitosis",
+            "pub_year": "2014",
+            "citation": "Elife 3, e02028, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1027696667635491093",
+        "cites_id": [
+            "1027696667635491093"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Argonaute-1 binds transcriptional enhancers and controls constitutive and alternative splicing in human cells",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (44), 15622-15629, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:WF5omc3nYNoC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12984217903298554939",
+        "cites_id": [
+            "12984217903298554939"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Housekeeping genes tend to show reduced upstream sequence conservation",
+            "pub_year": "2007",
+            "citation": "Genome Biology 8 (7), 1-10, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 95,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=462623172275330452",
+        "cites_id": [
+            "462623172275330452"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In mammalian foetal testes, SOX9 regulates expression of its target genes by binding to genomic regions with conserved signatures",
+            "pub_year": "2017",
+            "citation": "Nucleic acids research 45 (12), 7191-7211, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:Zph67rFs4hoC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5346819678452878311",
+        "cites_id": [
+            "5346819678452878311"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural basis for the biological relevance of the invariant apical stem in IRES-mediated translation",
+            "pub_year": "2011",
+            "citation": "Nucleic Acids Research 39 (19), 8572-8585, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11565405761065058139",
+        "cites_id": [
+            "11565405761065058139"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular bases of responses to abiotic stress in trees",
+            "pub_year": "2020",
+            "citation": "Journal of Experimental Botany 71 (13), 3765-3779, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:dhFuZR0502QC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2252663932129879257",
+        "cites_id": [
+            "2252663932129879257"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromatin-bound I\u03baB\u03b1 regulates a subset of polycomb target genes in differentiation and cancer",
+            "pub_year": "2013",
+            "citation": "Cancer cell 24 (2), 151-166, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7901036587020063054",
+        "cites_id": [
+            "7901036587020063054"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A chromatin code for alternative splicing involving a putative association between CTCF and HP1\u03b1 proteins",
+            "pub_year": "2015",
+            "citation": "BMC biology 13 (1), 1-15, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9168725152075850536",
+        "cites_id": [
+            "9168725152075850536"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The alternative splicing program of differentiated smooth muscle cells involves concerted non-productive splicing of post-transcriptional regulators",
+            "pub_year": "2016",
+            "citation": "Nucleic acids research 44 (18), 8933-8950, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:5nxA0vEk-isC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9320782347413095455",
+        "cites_id": [
+            "9320782347413095455"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lineage-specific roles of the cytoplasmic polyadenylation factor CPEB4 in the regulation of melanoma drivers",
+            "pub_year": "2016",
+            "citation": "Nature communications 7 (1), 13418, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1673885332276307007",
+        "cites_id": [
+            "1673885332276307007"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Splicing-associated chromatin signatures: a combinatorial and position-dependent role for histone marks in splicing definition",
+            "pub_year": "2021",
+            "citation": "Nature communications 12 (1), 682, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6384831136841499344",
+        "cites_id": [
+            "6384831136841499344"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of primate orphan proteins",
+            "pub_year": "2009",
+            "citation": "Biochemical Society Transactions 37 (4), 778-782, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13265096488228291405",
+        "cites_id": [
+            "13265096488228291405"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative genomics provides new insights into the diversity, physiology, and sexuality of the only industrially exploited tremellomycete: Phaffia rhodozyma",
+            "pub_year": "2016",
+            "citation": "BMC genomics 17 (1), 1-16, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10909696112208526038",
+        "cites_id": [
+            "10909696112208526038"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deciphering the modulation of gene expression by type I and II interferons combining 4sU-tagging, translational arrest and              in silico              promoter analysis",
+            "pub_year": "2013",
+            "citation": "Nucleic acids research 41 (17), 8107-8125, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5279061511373977653",
+        "cites_id": [
+            "5279061511373977653"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic content of a novel yeast species Hanseniaspora gamundiae sp. nov. from fungal stromata (Cyttaria) associated with a unique fermented beverage in \u2026",
+            "pub_year": "2019",
+            "citation": "PLoS One 14 (1), e0210792, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9879576672073712910",
+        "cites_id": [
+            "9879576672073712910"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Positional bias of general and tissue-specific regulatory motifs in mouse gene promoters",
+            "pub_year": "2007",
+            "citation": "BMC genomics 8, 1-13, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:qjMakFHDy7sC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3285037028308868265",
+        "cites_id": [
+            "3285037028308868265"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nucleo-cytoplasmic shuttling of splicing factor SRSF1 is required for development and cilia function",
+            "pub_year": "2021",
+            "citation": "Elife 10, e65104, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:mB3voiENLucC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3353384515032610707",
+        "cites_id": [
+            "3353384515032610707"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ILF3 contributes to the establishment of the antiviral type I interferon program",
+            "pub_year": "2020",
+            "citation": "Nucleic acids research 48 (1), 116-129, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14413196172407564273",
+        "cites_id": [
+            "14413196172407564273"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Preferential binding of a stable G3 BP ribonucleoprotein complex to intron\u2010retaining transcripts in mouse brain and modulation of their expression in the cerebellum",
+            "pub_year": "2016",
+            "citation": "Journal of neurochemistry 139 (3), 349-368, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:8k81kl-MbHgC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1351315344378551328",
+        "cites_id": [
+            "1351315344378551328"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PEAKS: identification of regulatory motifs by their position in DNA sequences",
+            "pub_year": "2007",
+            "citation": "Bioinformatics 23 (2), 243-244, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12033822952004561555",
+        "cites_id": [
+            "12033822952004561555"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tumor Necrosis Factor-Mediated Survival of CD169+ Cells Promotes Immune Activation during Vesicular Stomatitis Virus Infection",
+            "pub_year": "2018",
+            "citation": "Journal of virology 92 (3), 10.1128/jvi. 01637-17, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:4TOpqqG69KYC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6672156005019467023",
+        "cites_id": [
+            "6672156005019467023"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "mRNA spindle localization and mitotic translational regulation by CPEB1 and CPEB4",
+            "pub_year": "2021",
+            "citation": "RNA 27 (3), 291-302, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:TQgYirikUcIC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5469499667636764221",
+        "cites_id": [
+            "5469499667636764221"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spontaneous circadian rhythms in a cold-adapted natural isolate of Aureobasidium pullulans",
+            "pub_year": "2017",
+            "citation": "Scientific Reports 7 (1), 13837, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:_kc_bZDykSQC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6504051339414538822",
+        "cites_id": [
+            "6504051339414538822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unique genomic traits for cold adaptation in Naganishia vishniacii, a polyextremophile yeast isolated from Antarctica",
+            "pub_year": "2021",
+            "citation": "FEMS Yeast Research 21 (1), foaa056, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:HDshCWvjkbEC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7306199240906441288",
+        "cites_id": [
+            "7306199240906441288"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A quantitative profiling tool for diverse genomic data types reveals potential associations between chromatin and pre-mRNA processing",
+            "pub_year": "2015",
+            "citation": "Plos one 10 (7), e0132448, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:Se3iqnhoufwC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15570794342114290891",
+        "cites_id": [
+            "15570794342114290891"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hanseniaspora smithiae sp. nov., a Novel Apiculate Yeast Species From Patagonian Forests That Lacks the Typical Genomic Domestication Signatures for \u2026",
+            "pub_year": "2021",
+            "citation": "Frontiers in microbiology 12, 679894, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5438136710640962406",
+        "cites_id": [
+            "5438136710640962406"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel yeast taxa from the cold: description of Cryolevonia giraudoae sp. nov. and Camptobasidium gelus sp. nov.",
+            "pub_year": "2020",
+            "citation": "International Journal of Systematic and Evolutionary Microbiology 70 (6 \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10777069905708946944",
+        "cites_id": [
+            "10777069905708946944"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromatin topology defines estradiol-primed progesterone receptor and PAX2 binding in endometrial cancer cells",
+            "pub_year": "2022",
+            "citation": "Elife 11, e66034, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:k_IJM867U9cC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2879699658260201190",
+        "cites_id": [
+            "2879699658260201190"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput meta-analysis and validation of differentially expressed genes as potential biomarkers of ionizing radiation-response",
+            "pub_year": "2021",
+            "citation": "Radiotherapy and Oncology 154, 21-28, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:qUcmZB5y_30C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7887953319232959824",
+        "cites_id": [
+            "7887953319232959824"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Untapped Australasian Diversity of Astaxanthin-Producing Yeasts with Biotechnological Potential\u2014Phaffia australis sp. nov. and Phaffia tasmanica sp. nov.",
+            "pub_year": "2020",
+            "citation": "Microorganisms 8 (11), 1651, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:hC7cP41nSMkC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9848582145734550369",
+        "cites_id": [
+            "9848582145734550369"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Canonical ErbB-2 isoform and ErbB-2 variant c located in the nucleus drive triple negative breast cancer growth",
+            "pub_year": "2020",
+            "citation": "Oncogene 39 (39), 6245-6262, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17300266533563896282",
+        "cites_id": [
+            "17300266533563896282"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromatin topology defines estradiol-primed progesterone receptor and PAX2 binding in endometrial cancer cells",
+            "pub_year": "2022",
+            "citation": "eLife Sciences Publications, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:BqipwSGYUEgC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13325776749675791995",
+        "cites_id": [
+            "13325776749675791995"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biotechnologically relevant yeasts from patagonian natural environments",
+            "pub_year": "2016",
+            "citation": "Biology and biotechnology of Patagonian microorganisms, 325-351, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2938494040879499866",
+        "cites_id": [
+            "2938494040879499866"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deciphering the transcriptomic regulation of heat stress responses in Nothofagus pumilio",
+            "pub_year": "2021",
+            "citation": "Plos one 16 (3), e0246615, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10735271562749942442",
+        "cites_id": [
+            "10735271562749942442"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural Variation in Diauxic Shift between Patagonian Saccharomyces eubayanus Strains",
+            "pub_year": "2022",
+            "citation": "Msystems 7 (6), e00640-22, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9587586712490289645",
+        "cites_id": [
+            "9587586712490289645"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of High-Throughput Sequencing Technologies in Native Forest Tree Species in Argentina: Implications for Breeding",
+            "pub_year": "2020",
+            "citation": "Low Intensity Breeding of Native Forest Trees in Argentina, 455-482, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15665662152408870591",
+        "cites_id": [
+            "15665662152408870591"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Higher-order chromatin organization defines Progesterone Receptor and PAX2 binding to regulate estradiol-primed endometrial cancer gene expression",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 739466, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7849572662789953956",
+        "cites_id": [
+            "7849572662789953956"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In silico analysis of regulatory motifs in gene promoters",
+            "pub_year": "2010",
+            "citation": "Universitat Pompeu Fabra, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2044181471315872720",
+        "cites_id": [
+            "2044181471315872720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic and proteomic analysis of Tausonia pullulans reveals a key role for a GH15 glucoamylase in starch hydrolysis",
+            "pub_year": "2022",
+            "citation": "Applied Microbiology and Biotechnology 106 (12), 4655-4667, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:hMod-77fHWUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4822788379048895409",
+        "cites_id": [
+            "4822788379048895409"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome-Mediated Light Perception Affects Fruit Development and Ripening Through Epigenetic Mechanisms",
+            "pub_year": "2022",
+            "citation": "Frontiers in Plant Science, 1153, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:maZDTaKrznsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11915368613941450147",
+        "cites_id": [
+            "11915368613941450147"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Translational activity of the splicing factor SRSF1 is required for development and cilia function",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.09. 04.263251, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:IWHjjKOFINEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16262232014167353511",
+        "cites_id": [
+            "16262232014167353511"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Higher-order chromatin organization defines PR and PAX2 binding to regulate endometrial cancer cell gene expression",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 739466, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10106410465768755531",
+        "cites_id": [
+            "10106410465768755531"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assembly and comparative genome analysis of a Patagonian Aureobasidium pullulans isolate reveals unexpected intraspecific variation",
+            "pub_year": "2023",
+            "citation": "Yeast, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulatory mechanisms behind the phenotypic plasticity associated with Setaria italica water deficit tolerance",
+            "pub_year": "2022",
+            "citation": "Plant Molecular Biology 109 (6), 761-780, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:blknAaTinKkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nuclear ErbB-2-Induced Transcriptome Drives Triple Negative Breast Cancer Growth",
+            "pub_year": "2021",
+            "citation": "Journal of the Endocrine Society 5 (Supplement_1), A1028-A1029, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNA: Author Index for Volume 27, 2021",
+            "pub_year": "2021",
+            "citation": "RNA 27, 1620-1622, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:isC4tDSrTZIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes B1/B2 Are Major Regulators of Ripening-associated Epigenome Reprogramming in Tomato Fruits",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Regulatory Effect of Light Over Fruit Development and Ripening is Mediated by Epigenetic Mechanisms",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.07. 30.227447, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:-f6ydRqryjwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spontaneous Circadian Rhythms in a Cold-Adapted Native Aurebasidium pullulans.",
+            "pub_year": "2015",
+            "citation": "YEAST 32, S120-S120, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:0EnyYjriUFMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MBE Advance Access published August 11, 2015",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INAUGURAL ARTICLE by a Recently Elected Academy Member: Argonaute-1 binds transcriptional enhancers and controls constitutive and alternative splicing in human cells",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences of the United States of \u2026, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:roLk4NBRz8UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Positional bias of general and tissue-specific regulatory motifs in mouse gene promoters",
+            "pub_year": "2007",
+            "citation": "BMC Genomics. 2007; 8: 459, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evidence for a chromatin code of splicing involving AGO1 and CTCF",
+            "citation": "Alternative Splicing-\u2010Special Interest Group \u201cIntegrative RNA Analysis and \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "ECvHAFoAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 0
+    }
+]

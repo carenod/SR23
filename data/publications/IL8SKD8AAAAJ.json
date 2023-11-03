@@ -1,0 +1,1326 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrative analysis of 111 reference human epigenomes",
+            "pub_year": "2015",
+            "citation": "Nature 518 (7539), 317-330, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 5579,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11708241658422110543,17213695807246352848,2869853020706981174",
+        "cites_id": [
+            "11708241658422110543",
+            "17213695807246352848",
+            "2869853020706981174"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human DNA methylomes at base resolution show widespread epigenomic differences",
+            "pub_year": "2009",
+            "citation": "nature 462 (7271), 315-322, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 4958,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9212449328765020470",
+        "cites_id": [
+            "9212449328765020470"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct and predictive chromatin signatures of transcriptional promoters and enhancers in the human genome",
+            "pub_year": "2007",
+            "citation": "Nature genetics 39 (3), 311-318, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 3746,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17020093820897024499",
+        "cites_id": [
+            "17020093820897024499"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone modifications at human enhancers reflect global cell-type-specific gene expression",
+            "pub_year": "2009",
+            "citation": "Nature 459 (7243), 108-112, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 2743,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13947477499105822630",
+        "cites_id": [
+            "13947477499105822630"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hotspots of aberrant epigenomic reprogramming in human induced pluripotent stem cells",
+            "pub_year": "2011",
+            "citation": "Nature 471 (7336), 68-73, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 1730,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16664607889274239172",
+        "cites_id": [
+            "16664607889274239172"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct epigenomic landscapes of pluripotent and lineage-committed human cells",
+            "pub_year": "2010",
+            "citation": "Cell stem cell 6 (5), 479-491, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:qjMakFHDy7sC",
+        "num_citations": 924,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6183005913242533965",
+        "cites_id": [
+            "6183005913242533965"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomic analysis of multilineage differentiation of human embryonic stem cells",
+            "pub_year": "2013",
+            "citation": "Cell 153 (5), 1134-1148, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 730,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5178824952463316287",
+        "cites_id": [
+            "5178824952463316287"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of sequencing-based methods to profile DNA methylation and identification of monoallelic epigenetic modifications",
+            "pub_year": "2010",
+            "citation": "Nature biotechnology 28 (10), 1097-1105, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 714,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9900723212297659683",
+        "cites_id": [
+            "9900723212297659683"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Next-generation genomics: an integrative approach",
+            "pub_year": "2010",
+            "citation": "Nature Reviews Genetics 11 (7), 476-486, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 703,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11552021882649253261",
+        "cites_id": [
+            "11552021882649253261"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global DNA hypomethylation coupled to repressive chromatin domain formation and gene silencing in breast cancer",
+            "pub_year": "2012",
+            "citation": "Genome research 22 (2), 246-258, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 544,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8469927687796389623",
+        "cites_id": [
+            "8469927687796389623"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Derivation of naive human embryonic stem cells",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (12), 4484-4489, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:aqlVkmm33-oC",
+        "num_citations": 495,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10733726358622443307",
+        "cites_id": [
+            "10733726358622443307"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An assessment of histone-modification antibody quality",
+            "pub_year": "2011",
+            "citation": "Nature structural & molecular biology 18 (1), 91-93, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 453,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6392059765556403633",
+        "cites_id": [
+            "6392059765556403633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Muscle-specific CRISPR/Cas9 dystrophin gene editing ameliorates pathophysiology in a mouse model for Duchenne muscular dystrophy",
+            "pub_year": "2017",
+            "citation": "Nature communications 8 (1), 14454, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 410,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3505682080977408163",
+        "cites_id": [
+            "3505682080977408163"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The metabolome regulates the epigenetic landscape during naive-to-primed human embryonic stem cell transition",
+            "pub_year": "2015",
+            "citation": "Nature cell biology 17 (12), 1523-1535, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:qUcmZB5y_30C",
+        "num_citations": 392,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5254472197373118583",
+        "cites_id": [
+            "5254472197373118583"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role of the histone H3 lysine 4 methyltransferase, SET7/9, in the regulation of NF-\u03baB-dependent inflammatory genes: relevance to diabetes and inflammation",
+            "pub_year": "2008",
+            "citation": "Journal of Biological Chemistry 283 (39), 26771-26781, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 361,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1912254372642085295",
+        "cites_id": [
+            "1912254372642085295"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predictive chromatin signatures in the mammalian genome",
+            "pub_year": "2009",
+            "citation": "Human molecular genetics 18 (R2), R195-R201, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 280,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3068007323395670244",
+        "cites_id": [
+            "3068007323395670244"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic variability overrides the impact of parental cell type and determines iPSC differentiation potential",
+            "pub_year": "2016",
+            "citation": "Stem cell reports 6 (2), 200-212, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 223,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5560059064198721581",
+        "cites_id": [
+            "5560059064198721581"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide profiling of interleukin-4 and STAT6 transcription factor regulation of human Th2 cell programming",
+            "pub_year": "2010",
+            "citation": "Immunity 32 (6), 852-862, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 163,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12080114350209003436",
+        "cites_id": [
+            "12080114350209003436"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional analysis of a chromosomal deletion associated with myelodysplastic syndromes using isogenic human induced pluripotent stem cells",
+            "pub_year": "2015",
+            "citation": "Nature biotechnology 33 (6), 646-655, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 155,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2094318253015518909",
+        "cites_id": [
+            "2094318253015518909"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic evaluation of variability in ChIP-chip experiments using predefined DNA targets",
+            "pub_year": "2008",
+            "citation": "Genome research 18 (3), 393-403, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:4DMP91E08xMC",
+        "num_citations": 155,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9439690661515153479",
+        "cites_id": [
+            "9439690661515153479"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic chromatin states in human ES cells reveal potential regulatory sequences and genes involved in pluripotency",
+            "pub_year": "2011",
+            "citation": "Cell research 21 (10), 1393-1409, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:WF5omc3nYNoC",
+        "num_citations": 114,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7587400656611231716",
+        "cites_id": [
+            "7587400656611231716"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Candidate silencer elements for the human and mouse genomes",
+            "pub_year": "2020",
+            "citation": "Nature communications 11 (1), 1061, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:_xSYboBqXhAC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12035784879248458203",
+        "cites_id": [
+            "12035784879248458203"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An activating STAT3 mutation causes neonatal diabetes through premature induction of pancreatic differentiation",
+            "pub_year": "2017",
+            "citation": "Cell reports 19 (2), 281-294, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:TFP_iSt0sucC",
+        "num_citations": 102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4746192977130938260",
+        "cites_id": [
+            "4746192977130938260"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global chromatin state analysis reveals lineage-specific enhancers during the initiation of human T helper 1 and T helper 2 cell polarization",
+            "pub_year": "2013",
+            "citation": "Immunity 38 (6), 1271-1284, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:_kc_bZDykSQC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1112236790086008611",
+        "cites_id": [
+            "1112236790086008611"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comprehensive identification and analysis of human accelerated regulatory DNA",
+            "pub_year": "2015",
+            "citation": "Genome research 25 (9), 1245-1255, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=518937085404570066",
+        "cites_id": [
+            "518937085404570066"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods for identifying higher-order chromatin structure",
+            "pub_year": "2012",
+            "citation": "Annual review of genomics and human genetics 13, 59-82, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7504458660466210879",
+        "cites_id": [
+            "7504458660466210879"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide, single-cell DNA methylomics reveals increased non-CpG methylation during human oocyte maturation",
+            "pub_year": "2017",
+            "citation": "Stem cell reports 9 (1), 397-407, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:maZDTaKrznsC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14605956212838247994",
+        "cites_id": [
+            "14605956212838247994"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large scale gene expression profiles of regenerating inner ear sensory epithelia",
+            "pub_year": "2007",
+            "citation": "PloS one 2 (6), e525, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14530697252236036043",
+        "cites_id": [
+            "14530697252236036043"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Three-dimensional genome architecture and emerging technologies: looping in disease",
+            "pub_year": "2017",
+            "citation": "Genome medicine 9 (1), 1-14, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:GnPB-g6toBAC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1300006799295098803",
+        "cites_id": [
+            "1300006799295098803"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression differences in quiescent versus regenerating hair cells of avian sensory epithelia: implications for human hearing and balance disorders",
+            "pub_year": "2003",
+            "citation": "Human molecular genetics 12 (11), 1261-1272, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10539340964245688467",
+        "cites_id": [
+            "10539340964245688467"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reactivation of \u03b3-globin in adult \u03b2-YAC mice after ex vivo and in vivo hematopoietic stem cell genome editing",
+            "pub_year": "2018",
+            "citation": "Blood, The Journal of the American Society of Hematology 131 (26), 2915-2928, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:lSLTfruPkqcC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3115649341295220724",
+        "cites_id": [
+            "3115649341295220724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomics of autoimmune diseases",
+            "pub_year": "2015",
+            "citation": "Immunology and cell biology 93 (3), 271-276, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:dhFuZR0502QC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1173135701429683916",
+        "cites_id": [
+            "1173135701429683916"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Folliculin regulates mTORC1/2 and WNT pathways in early human pluripotency",
+            "pub_year": "2019",
+            "citation": "Nature communications 10 (1), 632, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:2P1L_qKh6hAC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=202100106108493022",
+        "cites_id": [
+            "202100106108493022"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "First critical repressive H3K27me3 marks in embryonic stem cells identified using designed protein inhibitor",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (38), 10125-10130, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:BqipwSGYUEgC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2117115340710791840",
+        "cites_id": [
+            "2117115340710791840"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The developmental genetics of auditory hair cells",
+            "pub_year": "2004",
+            "citation": "Human molecular genetics 13 (suppl_2), R289-R296, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:ufrVoPGSRksC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3314235661754859138",
+        "cites_id": [
+            "3314235661754859138"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In vivo HSPC gene therapy with base editors allows for efficient reactivation of fetal \u03b3-globin in \u03b2-YAC mice",
+            "pub_year": "2021",
+            "citation": "Blood Advances 5 (4), 1122-1135, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:P5F9QuxV20EC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13045341318980555528",
+        "cites_id": [
+            "13045341318980555528"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enhancer chromatin and 3D genome architecture changes from naive to primed human embryonic stem cell states",
+            "pub_year": "2019",
+            "citation": "Stem cell reports 12 (5), 1129-1144, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:SeFeTyx0c_EC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17460014435256815640",
+        "cites_id": [
+            "17460014435256815640"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of global regulators of T-helper cell lineage specification",
+            "pub_year": "2015",
+            "citation": "Genome medicine 7, 1-11, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:hC7cP41nSMkC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5728820290356599087",
+        "cites_id": [
+            "5728820290356599087"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide location analysis: insights on transcriptional regulation",
+            "pub_year": "2006",
+            "citation": "Human molecular genetics 15 (suppl_1), R1-R7, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4930196294696759727",
+        "cites_id": [
+            "4930196294696759727"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An RNA interference-based screen of transcription factor genes identifies pathways necessary for sensory regeneration in the avian inner ear",
+            "pub_year": "2011",
+            "citation": "Journal of Neuroscience 31 (12), 4535-4543, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:roLk4NBRz8UC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10893477883026516507",
+        "cites_id": [
+            "10893477883026516507"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeted integration and high-level transgene expression in AAVS1 transgenic mice after in vivo HSC transduction with HDAd5/35++ vectors",
+            "pub_year": "2019",
+            "citation": "Molecular Therapy 27 (12), 2195-2212, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:zA6iFVUQeVQC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14389051380421511731",
+        "cites_id": [
+            "14389051380421511731"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methylome analysis of human bone marrow MSCs reveals extensive age-and culture-induced changes at distal regulatory elements",
+            "pub_year": "2017",
+            "citation": "Stem Cell Reports 9 (3), 999-1015, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:NMxIlDl6LWMC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=989422380380174369",
+        "cites_id": [
+            "989422380380174369"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell analysis of transcriptome and DNA methylome in human oocyte maturation",
+            "pub_year": "2020",
+            "citation": "PLoS One 15 (11), e0241698, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:CHSYGLWDkRkC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3837185961022892596",
+        "cites_id": [
+            "3837185961022892596"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two-carbon elongation/annulation of alcohols to nitriles",
+            "pub_year": "1995",
+            "citation": "Tetrahedron Letters 36 (32), 5691-5694, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:5nxA0vEk-isC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7822263027381681367",
+        "cites_id": [
+            "7822263027381681367"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Superovulation alters global DNA methylation in early mouse embryo development",
+            "pub_year": "2019",
+            "citation": "Epigenetics 14 (8), 780-790, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:ZHo1McVdvXMC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5498760960578660290",
+        "cites_id": [
+            "5498760960578660290"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation dynamics during embryonic development and postnatal maturation of the mouse auditory sensory epithelium",
+            "pub_year": "2018",
+            "citation": "Scientific reports 8 (1), 17348, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:70eg2SAEIzsC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2606212864956497359",
+        "cites_id": [
+            "2606212864956497359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extracting a low-dimensional description of multiple gene expression datasets reveals a potential driver for tumor-associated stroma in ovarian cancer",
+            "pub_year": "2016",
+            "citation": "Genome medicine 8 (1), 1-31, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=647958735561819670",
+        "cites_id": [
+            "647958735561819670"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomic landscapes of hESC-derived neural rosettes: modeling neural tube formation and diseases",
+            "pub_year": "2017",
+            "citation": "Cell reports 20 (6), 1448-1462, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:blknAaTinKkC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18244536261909159745",
+        "cites_id": [
+            "18244536261909159745"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Applying genomics to the avian inner ear: development of subtractive cDNA resources for exploring sensory function and hair cell regeneration",
+            "pub_year": "2006",
+            "citation": "Genomics 87 (6), 801-808, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3251488309792517123",
+        "cites_id": [
+            "3251488309792517123"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic silencing of the key antioxidant enzyme catalase in karyotypically abnormal human pluripotent stem cells",
+            "pub_year": "2016",
+            "citation": "Scientific Reports 6 (1), 22190, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:HDshCWvjkbEC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13898905487520143820",
+        "cites_id": [
+            "13898905487520143820"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Corrigendum: Muscle-specific CRISPR/Cas9 dystrophin gene editing ameliorates pathophysiology in a mouse model for Duchenne muscular dystrophy",
+            "pub_year": "2017",
+            "citation": "Nature communications 8, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:M05iB0D1s5AC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2653163180111840645",
+        "cites_id": [
+            "2653163180111840645"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "cChIP-seq: a robust small-scale method for investigation of histone modifications",
+            "pub_year": "2015",
+            "citation": "BMC genomics 16 (1), 1-11, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:-f6ydRqryjwC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11728156065815159485",
+        "cites_id": [
+            "11728156065815159485"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "dCas9 fusion to computer-designed PRC2 inhibitor reveals functional TATA box in distal promoter region",
+            "pub_year": "2022",
+            "citation": "Cell reports 38 (9), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:uWQEDVKXjbEC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4205107660400389411",
+        "cites_id": [
+            "4205107660400389411"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lysine-Specific Demethylase 1 (LSD1) epigenetically controls osteoblast differentiation",
+            "pub_year": "2022",
+            "citation": "PloS one 17 (3), e0265027, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=710953283377546440",
+        "cites_id": [
+            "710953283377546440"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRISPR/Cas9 guided genome and epigenome engineering and its therapeutic applications in immune mediated diseases",
+            "pub_year": "2019",
+            "citation": "Seminars in Cell & Developmental Biology 96, 32-43, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:3s1wT3WcHBgC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=62765317577574510",
+        "cites_id": [
+            "62765317577574510"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimized detection of transcription factor-binding sites in ChIP-seq experiments",
+            "pub_year": "2012",
+            "citation": "Nucleic acids research 40 (1), e1-e1, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:Se3iqnhoufwC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9335416844615730676",
+        "cites_id": [
+            "9335416844615730676"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sumoylation of the human histone H4 tail inhibits p300-mediated transcription by RNA polymerase II in cellular extracts",
+            "pub_year": "2021",
+            "citation": "Elife 10, e67952, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:UxriW0iASnsC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9701598997114554663",
+        "cites_id": [
+            "9701598997114554663"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An atlas of silencer elements for the human and mouse genomes",
+            "pub_year": "2018",
+            "citation": "bioRxiv, 252304, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:NaGl4SEjCO4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10697266001716324977",
+        "cites_id": [
+            "10697266001716324977"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enhancer signatures in the prognosis and diagnosis of cancers and other disorders",
+            "pub_year": "2010",
+            "citation": "US Patent App. 12/734,302, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:RGFaLdJalmkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18164374017246536246",
+        "cites_id": [
+            "18164374017246536246"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomes of an array of chicken ovary, intestinal, and immune cells and tissues",
+            "pub_year": "2021",
+            "citation": "Frontiers in Genetics 12, 664424, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13328490130435963581",
+        "cites_id": [
+            "13328490130435963581"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Abstract AS04: Epigenomic characterization of gene regulatory networks in human ovarian cancer stem cells",
+            "pub_year": "2015",
+            "citation": "Clinical Cancer Research 21 (16_Supplement), AS04-AS04, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:pqnbT2bcN3wC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17943080957628459494",
+        "cites_id": [
+            "17943080957628459494"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: Corrigendum: Hotspots of aberrant epigenomic reprogramming in human induced pluripotent stem cells",
+            "pub_year": "2014",
+            "citation": "Nature 514 (7520), 126-126, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:tOudhMTPpwUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10386687454381110631",
+        "cites_id": [
+            "10386687454381110631"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unique Cell Subpopulations and Disease Progression Markers in Canines with Atopic Dermatitis",
+            "pub_year": "2022",
+            "citation": "The Journal of Immunology 209 (7), 1379-1388, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:738O_yMBCRsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8445242327767670061",
+        "cites_id": [
+            "8445242327767670061"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computer Designed PRC2 Inhibitor, EBdCas9, Reveals Functional TATA Boxes in Distal Promoter Regions",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.11. 16.385922, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2634027104899339862",
+        "cites_id": [
+            "2634027104899339862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The epigenetics of pluripotent stem cells",
+            "pub_year": "2020",
+            "citation": "Stem Cell Epigenetics 17, 25, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:abG-DnoFyZgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14979826568440001680",
+        "cites_id": [
+            "14979826568440001680"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell analysis of Non-CG methylation dynamics and gene expression in human oocyte maturation",
+            "pub_year": "2019",
+            "citation": "BioRxiv, 651141, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:rO6llkc54NcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7922616548448886101",
+        "cites_id": [
+            "7922616548448886101"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation dynamics during embryonic development and postnatal maturation of the mouse auditory organ of Corti",
+            "pub_year": "2018",
+            "citation": "bioRxiv, 262832, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:J_g5lzvAfSwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18367147495342259940",
+        "cites_id": [
+            "18367147495342259940"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RCOR2 is a novel regulator of osteoblast differentiation",
+            "pub_year": "2016",
+            "citation": "Bone Abstracts 5, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:pyW8ca7W8N0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13062808016368023421",
+        "cites_id": [
+            "13062808016368023421"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of cellular subpopulations and their gene expression by single-cell RNA sequencing in canine atopic dermatitis",
+            "pub_year": "2022",
+            "citation": "The Journal of Immunology 208 (1_Supplement), 124.15-124.15, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:K3LRdlH-MEoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomes of an Array of Chicken Immune Cells, Immune Tissues and Intestinal Tissues",
+            "pub_year": "2022",
+            "citation": "Plant and Animal Genome XXIX Conference (January 8-12, 2022), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:p2g8aNsByqUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The epigenetics of pluripotent stem cells: Epigenome dynamics in in vitro and in vivo mammalian embryonics stem cell systems",
+            "pub_year": "2020",
+            "citation": "Stem Cell Epigenetics, 25-74, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:NhqRSupF_l8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone Demethylase LSD1 Regulates Osteoblast Differentiation in vitro and in vivo",
+            "pub_year": "2019",
+            "citation": "JOURNAL OF BONE AND MINERAL RESEARCH 34, 231-232, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient Transgene Marking in Peripheral Blood Cells and Targeted Integration by HDAd5/35++ Vector-Mediated In Vivo HSC Transduction in AAVS1-Transgenic Mice",
+            "pub_year": "2019",
+            "citation": "MOLECULAR THERAPY 27 (4), 284-284, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:D03iK_w7-QYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The methylome of the inner ear: implications for regulation and pathogenesis of the auditory system",
+            "pub_year": "2018",
+            "citation": "EUROPEAN JOURNAL OF HUMAN GENETICS 26, 743-743, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:a0OBvERweLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reactivation of Human Gamma-Globin in Adult Beta-YAC Mice Transplanted with HDAd5/35++-CRISPR/Cas9 Edited Hematopoietic Stem Cells",
+            "pub_year": "2018",
+            "citation": "Molecular Therapy 26 (5), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:yD5IFk8b50cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correlating Transcriptome and DNA Methylome Changes in Human Oocyte Maturation.",
+            "pub_year": "2018",
+            "citation": "REPRODUCTIVE SCIENCES 25, 72A-72A, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:RYcK_YlVTxYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An atlas of silencer elements for the human and mouse genomes",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:b0M2c_1WBrUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomic and 3D genome architecture in na\u00efve and primed human embryonic stem cell states",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 181123, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Three-dimensional genome architecture and emerging technologies: looping in",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:vRqMK49ujn8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Activating STAT3 mutation leads to pancreatic hypoplasia through premature differentiation",
+            "pub_year": "2016",
+            "citation": "Human Gene Therapy 27 (11), A142-A142, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetics of Pluripotency",
+            "pub_year": "2013",
+            "citation": "Environmental Epigenomics in Health and Disease: Epigenetics and Disease \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of Photoreceptor Gene Expression by Thyroid Hormone Involves Alterations in Histone Methylation",
+            "pub_year": "2012",
+            "citation": "Investigative Ophthalmology & Visual Science 53 (14), 5131-5131, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:isC4tDSrTZIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "epigenetic silencing of the Key Antioxidant enzyme Catalase in Karyotypically Abnormal Human pluripotent stem Cells",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:08ZZubdj9fEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomes of an Array of Chicken Ovary, Intestinal, and Immune Cells and Tissues",
+            "citation": "Plant and Animal Genome XXIX Conference (January 8-12, 2022), 0"
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:WbkHhVStYXYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comprehensive identification and analysis of human accelerated regulatory DNA 1245",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:fPk4N6BV_jEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An emerging toolkit for targeted cancer therapies 177",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:O3NaXMp0MMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kalyan K. Pasumarthy, Naresh Doni Jayavelu, Lotta Kilpinen, 3 Colin Andrus, 2 Stephanie L. Battle, 2",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:hMod-77fHWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bo Yu,* Xiao Dong, 2, 7 Silvia Gravina, 2 Onder Kartal, 3 Timothy Schimmel, 4 Jacques Cohen, 4",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IL8SKD8AAAAJ:k_IJM867U9cC",
+        "num_citations": 0
+    }
+]

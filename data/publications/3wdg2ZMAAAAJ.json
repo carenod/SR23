@@ -1,0 +1,530 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation of FUS protein condensates with an adapted coarse-grained model",
+            "pub_year": "2020",
+            "citation": "Journal of Chemical Theory and Computation, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:1qzjygNMrQYC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10834689454721305664",
+        "cites_id": [
+            "10834689454721305664"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kinetics from Replica Exchange Molecular Dynamics Simulations",
+            "pub_year": "2017",
+            "citation": "Journal of Chemical Theory and Computation 13 (8), 3927-3935, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:08ZZubdj9fEC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15426433773666034094",
+        "cites_id": [
+            "15426433773666034094"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flexible gates generate occluded intermediates in the transport cycle of LacY",
+            "pub_year": "2014",
+            "citation": "Journal of molecular biology 426 (3), 735-751, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2196795371049285581",
+        "cites_id": [
+            "2196795371049285581"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic histogram analysis to determine free energies and rates from biased simulations",
+            "pub_year": "2017",
+            "citation": "Journal of chemical theory and computation 13 (12), 6328-6342, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9715011079037296212",
+        "cites_id": [
+            "9715011079037296212"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Disease\u2010linked TDP\u201043 hyperphosphorylation suppresses TDP\u201043 condensation and aggregation",
+            "pub_year": "2022",
+            "citation": "The EMBO Journal 41 (8), e108443, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:bnK-pcrLprsC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3134441396275832642",
+        "cites_id": [
+            "3134441396275832642"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient Ensemble Refinement by Reweighting",
+            "pub_year": "2019",
+            "citation": "Journal of chemical theory and computation 15 (5), 3390-3401, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8015152724302481854",
+        "cites_id": [
+            "8015152724302481854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hierarchical ensembles of intrinsically disordered proteins at atomic resolution in molecular dynamics simulations",
+            "pub_year": "2019",
+            "citation": "Journal of Chemical Theory and Computation 16 (1), 725-737, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:eflP2zaiRacC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16927232552947183936",
+        "cites_id": [
+            "16927232552947183936"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resolving the Conformational Dynamics of DNA with \u00c5ngstrom Resolution by Pulsed Electron\u2013Electron Double Resonance and Molecular Dynamics",
+            "pub_year": "2017",
+            "citation": "Journal of the American Chemical Society 139 (34), 11674-11677, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:vRqMK49ujn8C",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=58966096638686006",
+        "cites_id": [
+            "58966096638686006"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global structure of the intrinsically disordered protein tau emerges from its local structure",
+            "pub_year": "2022",
+            "citation": "JACS Au 2 (3), 673-686, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:5ugPr518TE4C",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6980107787162847348",
+        "cites_id": [
+            "6980107787162847348"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-resolution EPR distance measurements on RNA and DNA with the non-covalent \u01f4 spin label",
+            "pub_year": "2020",
+            "citation": "Nucleic acids research 48 (2), 924-933, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:q3oQSFYPqjQC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9154483394096664535",
+        "cites_id": [
+            "9154483394096664535"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural basis for specificity and promiscuity in a carrier protein/enzyme system from the sulfur cycle",
+            "pub_year": "2015",
+            "citation": "Proceedings of the National Academy of Sciences 112 (52), E7166-E7175, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:tOudhMTPpwUC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10005695159304921554",
+        "cites_id": [
+            "10005695159304921554"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Compaction of RNA duplexes in the cell",
+            "pub_year": "2020",
+            "citation": "Angewandte Chemie International Edition, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9489903626446419918",
+        "cites_id": [
+            "9489903626446419918"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamics of nucleic acids at room temperature revealed by pulsed EPR spectroscopy",
+            "pub_year": "2018",
+            "citation": "Angewandte Chemie International Edition 57 (33), 10540-10543, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:sSrBHYA8nusC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6430401293603285107",
+        "cites_id": [
+            "6430401293603285107"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimal destabilization of DNA double strands by single\u2010nucleobase caging",
+            "pub_year": "2018",
+            "citation": "Chemistry\u2013A European Journal, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:geHnlv5EZngC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5008668567170724724",
+        "cites_id": [
+            "5008668567170724724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Precision DEER Distances from Spin-Label Ensemble Refinement",
+            "pub_year": "2018",
+            "citation": "The journal of physical chemistry letters 9 (19), 5748-5752, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:8AbLer7MMksC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7543071426875416207",
+        "cites_id": [
+            "7543071426875416207"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dispersion correction alleviates dye stacking of single-stranded DNA and RNA in simulations of single-molecule fluorescence experiments",
+            "pub_year": "2018",
+            "citation": "The Journal of Physical Chemistry B 122 (49), 11626-11639, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7391079703275989837",
+        "cites_id": [
+            "7391079703275989837"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local frustration determines loop opening during the catalytic cycle of an oxidoreductase",
+            "pub_year": "2020",
+            "citation": "eLife 9, e54661, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:kRWSkSYxWN8C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1916790687498934166,5450935782122511755",
+        "cites_id": [
+            "1916790687498934166",
+            "5450935782122511755"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural ensembles of disordered proteins from hierarchical chain growth and simulation",
+            "pub_year": "2023",
+            "citation": "Current Opinion in Structural Biology 78, 102501, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:AXPGKjj_ei8C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7430207004532777891",
+        "cites_id": [
+            "7430207004532777891"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Orientation Selective 2D-SIFTER Experiments at X-Band Frequencies",
+            "pub_year": "2018",
+            "citation": "Applied Magnetic Resonance 49 (12), 1355-1368, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:LPZeul_q3PIC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8718510942353845941",
+        "cites_id": [
+            "8718510942353845941"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transition Rates and Efficiency of Collective Variables from Time-Dependent Biased Simulations",
+            "pub_year": "2022",
+            "citation": "The Journal of Physical Chemistry Letters 13, 7490-7496, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:HE397vMXCloC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7433475877297562631",
+        "cites_id": [
+            "7433475877297562631"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural basis of substrate recognition by human tRNA splicing endonuclease TSEN",
+            "pub_year": "2023",
+            "citation": "Nature Structural & Molecular Biology, 1-7, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:WA5NYHcadZ8C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15416897108568824159,11013266724694866195",
+        "cites_id": [
+            "15416897108568824159",
+            "11013266724694866195"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "1H, 13C and 15N resonance assignments for the oxidized and reduced states of the N-terminal domain of DsbD from Escherichia coli",
+            "pub_year": "2012",
+            "citation": "Biomolecular NMR assignments 6 (2), 163-167, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6732483914036409126",
+        "cites_id": [
+            "6732483914036409126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-chain and condensed-state behavior of hnRNPA1 from molecular simulations",
+            "pub_year": "2022",
+            "citation": "The Journal of Chemical Physics 157 (15), 154903, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:olpn-zPbct0C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2374486392091637555",
+        "cites_id": [
+            "2374486392091637555"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic Histogram Analysis to Determine Free Energies and Rates from Biased Simulations",
+            "pub_year": "2018",
+            "citation": "Biophysical Journal 114 (3), 557a-558a, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:B3FOqHPlNUQC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13087389019211414822",
+        "cites_id": [
+            "13087389019211414822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Substrate spectrum of PPM1D in the cellular response to DNA double-strand breaks",
+            "pub_year": "2022",
+            "citation": "Iscience 25 (9), 104892, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:t6usbXjVLHcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6626713530791714412",
+        "cites_id": [
+            "6626713530791714412"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An extended Tudor domain within Vreteno interconnects Gtsf1L and Ago3 for piRNA biogenesis in Bombyx mori",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.03. 23.533951, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:tkaPQYYpVKoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3523299164609999263",
+        "cites_id": [
+            "3523299164609999263"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transition rates, survival probabilities, and quality of bias from time-dependent biased simulations",
+            "pub_year": "2021",
+            "citation": "arXiv preprint arXiv:2109.11360, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6101145349553634133",
+        "cites_id": [
+            "6101145349553634133"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-chain and condensed-state behavior of hnRNPA1 from molecular simulations",
+            "pub_year": "2023",
+            "citation": "Biophysical Journal 122 (3), 347a, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:Y5dfb0dijaUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From integrative atomic-resolution ensembles of disordered proteins to simulations of phase-separated condensates",
+            "pub_year": "2023",
+            "citation": "Biophysical Journal 122 (3), 36a, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:eMMeJKvmdy0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hierarchical assembly of single-stranded RNA",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.08. 01.551474, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:_B80troHkn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular determinants of dynamic protein-protein interactions in the functional cycle of the membrane protein DsbD",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:Mojj43d5GZwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure and Dynamics of the CheY Response Regulators from Rhodobacter sphaeroides",
+            "pub_year": "2018",
+            "citation": "Biophysical Journal 114 (3), 544a, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Studying the Conformational Equilibrium of the N-Terminal Domain of Dsbd by NMR and Computer Simulation",
+            "pub_year": "2015",
+            "citation": "Biophysical Journal 108 (2), 184a, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supporting Information: Precision DEER Distances from Spin-Label Ensemble Refinement",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:BrmTIyaxlBUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling phase separation in health and disease: from nano-to meso-scale",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3wdg2ZMAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 0
+    }
+]

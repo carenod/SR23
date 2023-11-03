@@ -1,0 +1,401 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular mechanisms of plant regeneration",
+            "pub_year": "2019",
+            "citation": "Annual review of plant biology 70, 377-406, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 240,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12767374014419803681",
+        "cites_id": [
+            "12767374014419803681"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis thaliana AHL family modulates hypocotyl growth redundantly by interacting with each other via the PPC/DUF296 domain",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (48), E4688-E4697, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 115,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1258811017832028215",
+        "cites_id": [
+            "1258811017832028215"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A gene regulatory network for cellular reprogramming in plant regeneration",
+            "pub_year": "2018",
+            "citation": "Plant and Cell Physiology 59 (4), 770-782, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:qjMakFHDy7sC",
+        "num_citations": 91,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16150337064732958648",
+        "cites_id": [
+            "16150337064732958648"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insights into the evolution and diversification of the AT-hook Motif Nuclear Localized gene family in land plants",
+            "pub_year": "2014",
+            "citation": "BMC plant biology 14 (1), 1-19, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17216319564220022256",
+        "cites_id": [
+            "17216319564220022256"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone acetylation orchestrates wound-induced transcriptional activation and cellular reprogramming in Arabidopsis",
+            "pub_year": "2019",
+            "citation": "Communications biology 2 (1), 404, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10933417413833959861",
+        "cites_id": [
+            "10933417413833959861"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brassinosteroid signaling converges with SUPPRESSOR OF PHYTOCHROME B4\u2010#3 to influence the expression of SMALL AUXIN UP RNA genes and hypocotyl \u2026",
+            "pub_year": "2017",
+            "citation": "The Plant Journal 89 (6), 1133-1145, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12762961784045419353",
+        "cites_id": [
+            "12762961784045419353"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AT-hook transcription factors restrict petiole growth by antagonizing PIFs",
+            "pub_year": "2020",
+            "citation": "Current Biology 30 (8), 1454-1466. e6, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10603211118197775800",
+        "cites_id": [
+            "10603211118197775800"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanisms regulating PIF transcription factor activity at the protein level",
+            "pub_year": "2020",
+            "citation": "Physiologia plantarum 169 (3), 325-335, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13995078767433318009",
+        "cites_id": [
+            "13995078767433318009"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wound-inducible WUSCHEL-RELATED HOMEOBOX 13 is required for callus growth and organ reconnection",
+            "pub_year": "2022",
+            "citation": "Plant Physiology 188 (1), 425-441, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:0EnyYjriUFMC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11941839219228380348",
+        "cites_id": [
+            "11941839219228380348"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SUPPRESSOR OF PHYTOCHROME B4-# 3 represses genes associated with auxin signaling to modulate hypocotyl growth",
+            "pub_year": "2016",
+            "citation": "Plant Physiology 171 (4), 2701-2716, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11743871570791962914",
+        "cites_id": [
+            "11743871570791962914"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular networks orchestrating plant cell growth",
+            "pub_year": "2017",
+            "citation": "Current opinion in plant biology 35, 98-104, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2133586330476468818",
+        "cites_id": [
+            "2133586330476468818"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "WIND1 induces dynamic metabolomic reprogramming during regeneration in Brassica napus",
+            "pub_year": "2018",
+            "citation": "Developmental biology 442 (1), 40-52, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8713079780270261410",
+        "cites_id": [
+            "8713079780270261410"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The SUMO E3 ligase SIZ1 negatively regulates shoot regeneration",
+            "pub_year": "2020",
+            "citation": "Plant physiology 184 (1), 330-344, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5661689214514330387",
+        "cites_id": [
+            "5661689214514330387"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular pathways regulating elongation of aerial plant organs: a focus on light, the circadian clock, and temperature",
+            "pub_year": "2021",
+            "citation": "The Plant Journal 105 (2), 392-420, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:WF5omc3nYNoC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17757236476893163037",
+        "cites_id": [
+            "17757236476893163037"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Trihelix transcription factors GTL1 and DF1 prevent aberrant root hair formation in an excess nutrient condition",
+            "pub_year": "2022",
+            "citation": "New Phytologist 235 (4), 1426-1441, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14669914995364041240",
+        "cites_id": [
+            "14669914995364041240"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Warm Temperature Promotes Shoot Regeneration in Arabidopsis thaliana",
+            "pub_year": "2022",
+            "citation": "Plant and Cell Physiology 63 (5), 618-634, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:5nxA0vEk-isC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4734292987744571778",
+        "cites_id": [
+            "4734292987744571778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "4-Phenylbutyric acid promotes plant regeneration as an auxin by being converted to phenylacetic acid via an IBR3-independent pathway",
+            "pub_year": "2022",
+            "citation": "Plant Biotechnology 39 (1), 51-58, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:8k81kl-MbHgC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10463069422336203036",
+        "cites_id": [
+            "10463069422336203036"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GTL1 is required for a robust root hair growth response to avoid nutrient overloading",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.06. 27.450011, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:Se3iqnhoufwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10220757996050301016",
+        "cites_id": [
+            "10220757996050301016"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shaping transcriptional responses to a phytohormone",
+            "pub_year": "2023",
+            "citation": "Communications Biology 6 (1), 45, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14750134444092839315",
+        "cites_id": [
+            "14750134444092839315"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SUPPRESSOR OF PHYTOCHROME B-4# 3 reduces the expression of PIF-activated genes and increases expression of growth repressors to regulate hypocotyl elongation in short days",
+            "pub_year": "2022",
+            "citation": "BMC Plant Biology 22 (1), 399, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Missing link found: a transposase-derived transcription factor promotes seed germination in response to light",
+            "pub_year": "2021",
+            "citation": "Plant Physiology 187 (1), 19-20, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Here comes the sun: a BBX protein slows cotyledon opening following light exposure",
+            "pub_year": "2021",
+            "citation": "Plant Physiology 187 (1), 29-30, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:UebtZRa9Y70C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new normal: recovery lessons learned from symplastic \u201clockdown\u201d of the root stem cell niche",
+            "pub_year": "2021",
+            "citation": "Plant Physiology 185 (4), 1481-1482, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:roLk4NBRz8UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf Position Makes a Difference: The ABCB19 Auxin Transporter Affects Light Perception",
+            "pub_year": "2020",
+            "citation": "Plant physiology 184 (3), 1219-1220, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:ufrVoPGSRksC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Chloroplast-Derived Signal Attenuates Growth in Red Light by Acting on the phyB-PIF Pathway",
+            "pub_year": "2020",
+            "citation": "Plant Physiology 183 (4), 1408-1409, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional control of Arabidopsis development by AHLs",
+            "pub_year": "2016",
+            "citation": "Washington State University, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant Physiology: News and Views Leaf position makes a difference: the ABCB19 auxin transporter affects light perception",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "lnX7CIQAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    }
+]

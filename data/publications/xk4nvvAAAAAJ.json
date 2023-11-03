@@ -1,0 +1,355 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MYC disrupts the circadian clock and metabolism in cancer cells",
+            "pub_year": "2015",
+            "citation": "Cell metabolism 22 (6), 1009-1019, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 248,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10034582885437420845",
+        "cites_id": [
+            "10034582885437420845"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Clock regulation of metabolites reveals coupling between transcription and metabolism",
+            "pub_year": "2017",
+            "citation": "Cell metabolism 25 (4), 961-974. e4, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:ufrVoPGSRksC",
+        "num_citations": 179,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15966495137244906671",
+        "cites_id": [
+            "15966495137244906671"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Machine learning helps identify CHRONO as a circadian clock component",
+            "pub_year": "2014",
+            "citation": "PLoS biology 12 (4), e1001840, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13548816051375958342",
+        "cites_id": [
+            "13548816051375958342"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational and experimental insights into the circadian effects of SIRT1",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (45), 11643-11648, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:KaMxkj08jr0C",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16346643868213601586",
+        "cites_id": [
+            "16346643868213601586"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ASCOT identifies key regulators of neuronal subtype-specific splicing",
+            "pub_year": "2020",
+            "citation": "Nature communications 11 (1), 137, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:-7ulzOJl1JYC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10751408883077443461",
+        "cites_id": [
+            "10751408883077443461"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A toolbox of immunoprecipitation-grade monoclonal antibodies to human transcription factors",
+            "pub_year": "2018",
+            "citation": "Nature methods 15 (5), 330-338, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:1Ye0OR6EYb4C",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16315438186630561427",
+        "cites_id": [
+            "16315438186630561427"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ldb1-and Rnf12-dependent regulation of Lhx2 controls the relative balance between neurogenesis and gliogenesis in the retina",
+            "pub_year": "2018",
+            "citation": "Development 145 (9), dev159970, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:q-HalDI95KYC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9808649193215219869",
+        "cites_id": [
+            "9808649193215219869"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deciphering the duality of clock and growth metabolism in a cell autonomous system using NMR profiling of the secretome",
+            "pub_year": "2016",
+            "citation": "Metabolites 6 (3), 23, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=633500151612365971",
+        "cites_id": [
+            "633500151612365971"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Grp1\u2010associated scaffold protein (GRASP) is a regulator of the ADP ribosylation factor 6 (Arf6)\u2010dependent membrane trafficking pathway",
+            "pub_year": "2012",
+            "citation": "Cell biology international 36 (12), 1115-1128, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3880770310724074659",
+        "cites_id": [
+            "3880770310724074659"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The NIH Protein Capture Reagents Program (PCRP): a standardized protein affinity reagent toolbox",
+            "pub_year": "2016",
+            "citation": "Nature methods 13 (10), 805-806, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:WF5omc3nYNoC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1559271375233021384",
+        "cites_id": [
+            "1559271375233021384"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The spatial architecture of chromosomes",
+            "pub_year": "2013",
+            "citation": "Handbook of Systems Biology, 137-151, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14863624355652026201",
+        "cites_id": [
+            "14863624355652026201"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MDR1 function is sensitive to the phosphorylation state of myosin regulatory light chain",
+            "pub_year": "2010",
+            "citation": "Biochemical and biophysical research communications 398 (1), 7-12, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6059512605253994605",
+        "cites_id": [
+            "6059512605253994605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Grp1-associated scaffold protein regulates skin homeostasis after ultraviolet irradiation",
+            "pub_year": "2014",
+            "citation": "Photochemical & Photobiological Sciences 13, 531-540, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8831780305371102651",
+        "cites_id": [
+            "8831780305371102651"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of the circadian system in homeostasis",
+            "pub_year": "2013",
+            "citation": "Handbook of Systems Biology, 407-426, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:AXkvAH5U_nMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3389398868546366316",
+        "cites_id": [
+            "3389398868546366316"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reply to Furlan et al.: The role of SIRT1 in cell autonomous clock function",
+            "pub_year": "2019",
+            "citation": "Proceedings of the National Academy of Sciences 116 (27), 13173-13173, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:Dem6FJhTUoYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15968427334981657754",
+        "cites_id": [
+            "15968427334981657754"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rev-erb\u03b1 modulates myc-driven cancer cell growth and altered metabolism",
+            "pub_year": "2014",
+            "citation": "Cancer Research 74 (19_Supplement), 2953-2953, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7604043277287232674",
+        "cites_id": [
+            "7604043277287232674"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oncogenic c-and N-Myc disrupt circadian rhythm.",
+            "pub_year": "2013",
+            "citation": "Cancer Research 73 (8_Supplement), 4616-4616, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13177014569702572341",
+        "cites_id": [
+            "13177014569702572341"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A toolbox of immunoprecipitation-grade monoclonal antibodies against human transcription factors",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 116442, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TM-06MYC AND MYCN DISRUPTION OF THE MOLECULAR CLOCK IN CANCER CELLS",
+            "pub_year": "2014",
+            "citation": "Neuro-Oncology 16 (Suppl 5), v214, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oncogenic Myc disrupts NAMPT circadian oscillation in mouse hepatocellular carcinoma cell line",
+            "pub_year": "2014",
+            "citation": "Cancer Research 74 (19_Supplement), 1419-1419, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:qjMakFHDy7sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In vitro and in vivo approaches for functional characterization of the scaffold protein, GRASP",
+            "pub_year": "2009",
+            "citation": "Oregon State University, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ldb1 and Rnf12-dependent regulation of Lhx2 controls the",
+            "citation": "retina 14 (1), 1-8, 0"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:MAUkC_7iAq8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bmal1fbrainKO Mice Exhibit Deficits in Learning and Memory Processes",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:DBa1UEJaJKAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MDR1/P-GLYCOPROTEIN EXPRESSION AND FUNCTION IS SENSITIVE TO THE PHOSPHORYLATION STATE OF A MYOSIN II LIGHT CHAIN",
+            "citation": "Regulation of NMDA-type Glutamate Receptors and MDR1 by Two Members of the \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "xk4nvvAAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 0
+    }
+]

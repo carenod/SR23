@@ -1,0 +1,932 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome B integrates light and temperature signals in Arabidopsis",
+            "pub_year": "2016",
+            "citation": "Science 354 (6314), 897-900, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 655,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3607476106680167446",
+        "cites_id": [
+            "3607476106680167446"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The major protein import receptor of plastids is essential for chloroplast biogenesis",
+            "pub_year": "2000",
+            "citation": "Nature 403 (6766), 203-207, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:0EnyYjriUFMC",
+        "num_citations": 431,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13029032642810230528",
+        "cites_id": [
+            "13029032642810230528"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light-activated phytochrome A and B interact with members of the SPA family to promote photomorphogenesis in Arabidopsis by reorganizing the COP1/SPA complex",
+            "pub_year": "2015",
+            "citation": "The Plant Cell 27 (1), 189-201, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:_kc_bZDykSQC",
+        "num_citations": 286,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9503613870290017919",
+        "cites_id": [
+            "9503613870290017919"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FHY1 and FHL act together to mediate nuclear accumulation of the phytochrome A photoreceptor",
+            "pub_year": "2006",
+            "citation": "Plant and cell physiology 47 (8), 1023-1034, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 204,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11024762534084035692",
+        "cites_id": [
+            "11024762534084035692"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nuclear accumulation of the phytochrome A photoreceptor requires FHY1",
+            "pub_year": "2005",
+            "citation": "Current biology 15 (23), 2125-2130, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 176,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13747243069843652784",
+        "cites_id": [
+            "13747243069843652784"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoconversion and nuclear trafficking cycles determine phytochrome A's response profile to far-red light",
+            "pub_year": "2011",
+            "citation": "Cell 146 (5), 813-825, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 169,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3501273344366348910",
+        "cites_id": [
+            "3501273344366348910"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeting of an abundant cytosolic form of the protein import receptor at Toc159 to the outer chloroplast membrane",
+            "pub_year": "2001",
+            "citation": "The Journal of cell biology 154 (2), 309-316, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 152,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5163850311035635381",
+        "cites_id": [
+            "5163850311035635381"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FHY1 mediates nuclear import of the light-activated phytochrome A photoreceptor",
+            "pub_year": "2008",
+            "citation": "PLoS genetics 4 (8), e1000143, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 133,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13236949972997141543",
+        "cites_id": [
+            "13236949972997141543"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The targeting of the atToc159 preprotein receptor to the chloroplast outer membrane is mediated by its GTPase domain and is regulated by GTP",
+            "pub_year": "2002",
+            "citation": "The Journal of cell biology 159 (5), 833-843, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 122,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9836042235015012438",
+        "cites_id": [
+            "9836042235015012438"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Essential role of the G-domain in targeting of the protein import receptor atToc159 to the chloroplast outer membrane",
+            "pub_year": "2002",
+            "citation": "The Journal of cell biology 159 (5), 845-854, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17670045580877709989",
+        "cites_id": [
+            "17670045580877709989"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular biology of chloroplast biogenesis: gene expression, protein import and intraorganellar sorting",
+            "pub_year": "2001",
+            "citation": "Cellular and Molecular Life Sciences CMLS 58, 420-433, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:qjMakFHDy7sC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13179214060927926671",
+        "cites_id": [
+            "13179214060927926671"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protein translocon at the Arabidopsis outer chloroplast membrane",
+            "pub_year": "2001",
+            "citation": "Biochemistry and Cell Biology 79 (5), 629-635, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:lSLTfruPkqcC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5780084859065516666",
+        "cites_id": [
+            "5780084859065516666"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interaction with plant transcription factors can mediate nuclear import of phytochrome B",
+            "pub_year": "2012",
+            "citation": "Proceedings of the National Academy of Sciences 109 (15), 5892-5897, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:ufrVoPGSRksC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13621952340831125628",
+        "cites_id": [
+            "13621952340831125628"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shedding (far-red) light on phytochrome mechanisms and responses in land plants",
+            "pub_year": "2014",
+            "citation": "Plant Science 217, 36-46, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14667115636119906788",
+        "cites_id": [
+            "14667115636119906788"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AtToc90, a New GTP-Binding Component of the Arabidopsis Chloroplast Protein Import Machinery",
+            "pub_year": "2004",
+            "citation": "Plant Molecular Biology 54, 427-440, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13149813252567349916",
+        "cites_id": [
+            "13149813252567349916"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dimerization of Toc-GTPases at the chloroplast protein import machinery",
+            "pub_year": "2003",
+            "citation": "Journal of Biological Chemistry 278 (39), 37321-37329, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5792651637734495962",
+        "cites_id": [
+            "5792651637734495962"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nuclear Phytochrome A Signaling Promotes Phototropism in Arabidopsis",
+            "pub_year": "2012",
+            "citation": "The Plant Cell 24 (2), 566-576, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4144004139439601304",
+        "cites_id": [
+            "4144004139439601304"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular mechanisms and ecological function of far\u2010red light signalling",
+            "pub_year": "2017",
+            "citation": "Plant, Cell & Environment 40 (11), 2509-2529, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2825380694470235153",
+        "cites_id": [
+            "2825380694470235153"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of Phytochrome Interacting Factors from the Moss Physcomitrella patens Illustrates Conservation of Phytochrome Signaling Modules in Land Plants",
+            "pub_year": "2017",
+            "citation": "The Plant Cell 29 (2), 310-330, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5047983693981040400",
+        "cites_id": [
+            "5047983693981040400"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An evolutionarily conserved signaling mechanism mediates far-red light responses in land plants",
+            "pub_year": "2013",
+            "citation": "The Plant Cell 25 (1), 102-114, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:Se3iqnhoufwC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5656372358210850906",
+        "cites_id": [
+            "5656372358210850906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The serine-rich N-terminal region of Arabidopsis phytochrome A is required for protein stability",
+            "pub_year": "2007",
+            "citation": "Plant Molecular Biology 63, 669-678, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15663168879262872791",
+        "cites_id": [
+            "15663168879262872791"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The chloroplast import receptor Toc90 partially restores the accumulation of Toc159 client proteins in the Arabidopsis thaliana ppi2 mutant",
+            "pub_year": "2011",
+            "citation": "Molecular plant 4 (2), 252-263, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:WF5omc3nYNoC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4760715246765445556",
+        "cites_id": [
+            "4760715246765445556"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A cell\u2010free system for light\u2010dependent nuclear import of phytochrome",
+            "pub_year": "2009",
+            "citation": "The Plant Journal 57 (4), 680-689, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6954918202422117150",
+        "cites_id": [
+            "6954918202422117150"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PCH1 and PCHL promote photomorphogenesis in plants by controlling phytochrome B dark reversion",
+            "pub_year": "2017",
+            "citation": "Nature Communications 8 (1), 2221, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17265038581616440651",
+        "cites_id": [
+            "17265038581616440651"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SPA proteins: SPAnning the gap between visible light and gene expression",
+            "pub_year": "2016",
+            "citation": "Planta 244, 297-312, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:aqlVkmm33-oC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8138616732536666694",
+        "cites_id": [
+            "8138616732536666694"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes: more than meets the eye",
+            "pub_year": "2016",
+            "citation": "Trends in plant science 21 (7), 543-546, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:4DMP91E08xMC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=786669704641628258",
+        "cites_id": [
+            "786669704641628258"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High\u2010level expression and phosphorylation of phytochrome B modulates flowering time in Arabidopsis",
+            "pub_year": "2015",
+            "citation": "The Plant Journal 83 (5), 794-805, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:4TOpqqG69KYC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=609433604102072161",
+        "cites_id": [
+            "609433604102072161"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extrachloroplastic PP7L functions in chloroplast development and abiotic stress tolerance",
+            "pub_year": "2019",
+            "citation": "Plant Physiology 180 (1), 323-341, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:qUcmZB5y_30C",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9931297220763402092",
+        "cites_id": [
+            "9931297220763402092"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential phosphorylation of the N\u2010terminal extension regulates phytochrome B signaling",
+            "pub_year": "2020",
+            "citation": "New Phytologist 225 (4), 1635-1650, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2881831043511549371",
+        "cites_id": [
+            "2881831043511549371"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The protein Slr1143 is an active diguanylate cyclase in Synechocystis sp. PCC 6803 and interacts with the photoreceptor Cph2",
+            "pub_year": "2017",
+            "citation": "Microbiology 163 (6), 920-930, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:dhFuZR0502QC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13817985555890912028",
+        "cites_id": [
+            "13817985555890912028"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The histidine kinase-related domain of Arabidopsis phytochrome A controls the spectral sensitivity and the subcellular distribution of the photoreceptor",
+            "pub_year": "2009",
+            "citation": "Plant physiology 150 (3), 1297-1309, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2273224526558282730",
+        "cites_id": [
+            "2273224526558282730"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of photomorphogenic responses and signaling cascades controlled by phytochrome\u2010A expressed in different tissues",
+            "pub_year": "2016",
+            "citation": "New Phytologist 211 (2), 584-598, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7455212231508803892",
+        "cites_id": [
+            "7455212231508803892"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes measure photoperiod in Brachypodium",
+            "pub_year": "2019",
+            "citation": "Biorxiv, 697169, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:hC7cP41nSMkC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14804025028856818205",
+        "cites_id": [
+            "14804025028856818205"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Uncovering a novel function of the CCR4-NOT complex in phytochrome A-mediated light signalling in plants",
+            "pub_year": "2021",
+            "citation": "Elife 10, e63697, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6484255326937957724",
+        "cites_id": [
+            "6484255326937957724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nystatin profile on Candida species in HIV/AIDS patients with oral candidiasis: a phenomenology study",
+            "pub_year": "2019",
+            "citation": "Journal of pure and Applied Microbiology 13 (4), 183-185, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1562697615085475365",
+        "cites_id": [
+            "1562697615085475365"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PHYTOCHROME INTERACTING FACTORs from Physcomitrella patens are active in Arabidopsis and complement the pif quadruple mutant",
+            "pub_year": "2017",
+            "citation": "Plant signaling & behavior 12 (11), 310-330, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17852771417556564184",
+        "cites_id": [
+            "17852771417556564184"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The phytochrome interacting proteins ERF55 and ERF58 repress light-induced seed germination in Arabidopsis thaliana",
+            "pub_year": "2022",
+            "citation": "Nature Communications 13 (1), 1656, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:blknAaTinKkC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9448433899483276539",
+        "cites_id": [
+            "9448433899483276539"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome B and PCH1 protein dynamics store night temperature information",
+            "pub_year": "2021",
+            "citation": "The Plant Journal 105 (1), 22-33, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14125355504527758091",
+        "cites_id": [
+            "14125355504527758091"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COLD REGULATED 27 and 28 are targets of CONSTITUTIVELY PHOTOMORPHOGENIC 1 and negatively affect phytochrome B signalling",
+            "pub_year": "2020",
+            "citation": "The Plant Journal 104 (4), 1038-1053, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17482375948601184435",
+        "cites_id": [
+            "17482375948601184435"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PCH1 and PCHL directly interact with PIF1, promote its degradation, and inhibit its transcriptional function during photomorphogenesis",
+            "pub_year": "2020",
+            "citation": "Molecular plant 13 (3), 499-514, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6206994746534369268",
+        "cites_id": [
+            "6206994746534369268"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis FHY1 and FHY1-LIKE are not required for phytochrome A signal transduction in the nucleus",
+            "pub_year": "2020",
+            "citation": "Plant communications 1 (2), 2020"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:mB3voiENLucC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1687604943973119029",
+        "cites_id": [
+            "1687604943973119029"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Is the Pr form of phytochrome biologically active in the nucleus?",
+            "pub_year": "2021",
+            "citation": "Molecular Plant 14 (4), 535-537, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:r0BpntZqJG4C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=424657714807695610",
+        "cites_id": [
+            "424657714807695610"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": " PHYTOCHROME INTERACTING FACTORs in the moss Physcomitrella patens regulate light\u2010controlled gene expression",
+            "pub_year": "2020",
+            "citation": "Physiologia plantarum 169 (3), 467-479, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8671990511474836270",
+        "cites_id": [
+            "8671990511474836270"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome A mediates the disassembly of processing bodies in far-red light",
+            "pub_year": "2022",
+            "citation": "Frontiers in Plant Science 13, 828529, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:maZDTaKrznsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9192458157493497730",
+        "cites_id": [
+            "9192458157493497730"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes",
+            "pub_year": "2007",
+            "citation": "Light and Plant Development 30, 3-16, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17343285714516008215",
+        "cites_id": [
+            "17343285714516008215"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COLD REGULATED GENE 27 and 28 antagonize the transcriptional activity of the RVE8/LNK1/LNK2 circadian complex",
+            "pub_year": "2023",
+            "citation": "Plant Physiology, kiad210, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5199126431553919231",
+        "cites_id": [
+            "5199126431553919231"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes and flowering: legumes do it another way",
+            "pub_year": "2023",
+            "citation": "Trends in Plant Science, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8433430437065665852",
+        "cites_id": [
+            "8433430437065665852"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shedding light on the evolution of light signalling",
+            "pub_year": "2019",
+            "citation": "The New Phytologist 224 (4), 1412-1414, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:-f6ydRqryjwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5620643656979676804",
+        "cites_id": [
+            "5620643656979676804"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome higher order mutants reveal a complex set of light responses in the moss Physcomitrium patens",
+            "pub_year": "2023",
+            "citation": "New Phytologist, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4762723095579769724",
+        "cites_id": [
+            "4762723095579769724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes: Methods and Protocols",
+            "pub_year": "2019",
+            "citation": "Springer New York, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14234822054624561072",
+        "cites_id": [
+            "14234822054624561072"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COR27/28 Regulate the Evening Transcriptional Activity of the RVE8-LNK1/2 Circadian Complex",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.05. 16.492168, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:hMod-77fHWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant Phytochromes: From Structure to Signaling and Beyond",
+            "pub_year": "2021",
+            "citation": "Frontiers in Plant Science 12, 811379, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:k_IJM867U9cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction to: Phytochromes",
+            "pub_year": "2021",
+            "citation": "Phytochromes: Methods and Protocols, C1-C1, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:TFP_iSt0sucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The evolution of light signaling modules in land plants",
+            "pub_year": "2015",
+            "citation": "26th International Conference on Arabidopsis Research (ICAR 2015), 147, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An evolutionarily conserved signaling mechanism mediates far-red light responses in land plants (vol 25, pg 102, 2013)",
+            "pub_year": "2015",
+            "citation": "PLANT CELL 27 (7), 2075-2075, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Research Journals",
+            "pub_year": "2012",
+            "citation": "Brain, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:HDshCWvjkbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of the atToc159 receptor family in protein import into plastids",
+            "pub_year": "2001",
+            "citation": "MOLECULAR BIOLOGY OF THE CELL 12, 87A-87A, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cytosolic factors in chloroplast protein import",
+            "pub_year": "2001",
+            "citation": "BIOCHEMISTRY AND CELL BIOLOGY 79 (5), 650-650, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Toc159 family of chloroplast protein import receptors in arabidopsis",
+            "pub_year": "1999",
+            "citation": "MOLECULAR BIOLOGY OF THE CELL 10, 120A-120A, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drought Reduces COP1-Mediated Shade Avoidance",
+            "citation": "Available at SSRN 4133890, 0"
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Article title: Differential phosphorylation of the N-terminal extension regulates phytochrome B signaling",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "1kJ5xGcAAAAJ:isC4tDSrTZIC",
+        "num_citations": 0
+    }
+]

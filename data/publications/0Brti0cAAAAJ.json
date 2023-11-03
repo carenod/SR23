@@ -1,0 +1,118 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The G-Box transcriptional regulatory code in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "Plant physiology 175 (2), 628-640, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "0Brti0cAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13110322714348061262",
+        "cites_id": [
+            "13110322714348061262"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chloroplast signaling gates thermotolerance in Arabidopsis",
+            "pub_year": "2018",
+            "citation": "Cell Reports 22 (7), 1657-1665, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "0Brti0cAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10301238144709622012",
+        "cites_id": [
+            "10301238144709622012"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A bipartite transcription factor module controlling expression in the bundle sheath of Arabidopsis thaliana",
+            "pub_year": "2020",
+            "citation": "Nature plants 6 (12), 1468-1479, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "0Brti0cAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1439644622210763163",
+        "cites_id": [
+            "1439644622210763163"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Abscisic acid modulates neighbor proximity-induced leaf hyponasty in Arabidopsis",
+            "pub_year": "2023",
+            "citation": "Plant Physiology 191 (1), 542-557, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "0Brti0cAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11101712078943129886",
+        "cites_id": [
+            "11101712078943129886"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct C4 sub\u2010types and C3 bundle sheath isolation in the Paniceae grasses",
+            "pub_year": "2021",
+            "citation": "Plant Direct 5 (12), e373, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "0Brti0cAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9035067335251734003",
+        "cites_id": [
+            "9035067335251734003"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Compartmentation of photosynthesis gene expression in C4 maize depends on time of day",
+            "pub_year": "2023",
+            "citation": "Plant Physiology, kiad447, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "0Brti0cAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "C4 gene induction during de-etiolation evolved through changes in cis to allow integration with ancestral C3 gene regulatory networks",
+            "pub_year": "2023",
+            "citation": "Science Advances 9 (13), eade9756, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "0Brti0cAAAAJ:qjMakFHDy7sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synergistic control of chloroplast biogenesis by MYB-related and Golden2-like transcription factors",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.08. 11.552970, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "0Brti0cAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 0
+    }
+]

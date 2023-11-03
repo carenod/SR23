@@ -1,0 +1,1755 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational topology: an introduction",
+            "pub_year": "2022",
+            "citation": "American Mathematical Society, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 2925,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9694084311247011670",
+        "cites_id": [
+            "9694084311247011670"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stability of persistence diagrams",
+            "pub_year": "2005",
+            "citation": "Proceedings of the twenty-first annual symposium on Computational geometry \u2026, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1652,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12541304450003330382",
+        "cites_id": [
+            "12541304450003330382"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Persistent homology-a survey",
+            "pub_year": "2008",
+            "citation": "Contemporary mathematics 453 (26), 257-282, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 1214,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13455244132889064255",
+        "cites_id": [
+            "13455244132889064255"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Euler characteristic of the moduli space of curves.",
+            "pub_year": "1986",
+            "citation": "Inventiones mathematicae 85, 457-485, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 779,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5851714010632073273",
+        "cites_id": [
+            "5851714010632073273"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combinatorics of train tracks",
+            "pub_year": "1992",
+            "citation": "Princeton University Press, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 608,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6165873083950860906,17147897667075430533",
+        "cites_id": [
+            "6165873083950860906",
+            "17147897667075430533"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stability of the homology of the mapping class groups of orientable surfaces",
+            "pub_year": "1985",
+            "citation": "Annals of Mathematics 121 (2), 215-249, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 533,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1259179231718085223",
+        "cites_id": [
+            "1259179231718085223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The virtual cohomological dimension of the mapping class group of an orientable surface",
+            "pub_year": "1986",
+            "citation": "Inventiones mathematicae 84 (1), 157-176, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:qjMakFHDy7sC",
+        "num_citations": 529,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4224730886495563528",
+        "cites_id": [
+            "4224730886495563528"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential characters and geometric invariants",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 528,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13533849399691331021",
+        "cites_id": [
+            "13533849399691331021"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Imaging and analysis platform for automatic phenotyping and trait ranking of plant root systems",
+            "pub_year": "2010",
+            "citation": "Plant physiology 152 (3), 1148-1157, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 410,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8948360070021686980",
+        "cites_id": [
+            "8948360070021686980"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The second homology group of the mapping class group of an orientable surface",
+            "pub_year": "1983",
+            "citation": "Inventiones Mathematicae 72 (2), 221-239, 1983"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 399,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=945586886246057177",
+        "cites_id": [
+            "945586886246057177"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GiA Roots: software for the high throughput analysis of plant root system architecture",
+            "pub_year": "2012",
+            "citation": "BMC plant biology 12 (1), 1-12, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 341,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=357545561070782728",
+        "cites_id": [
+            "357545561070782728"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lipschitz functions have L p-stable persistence",
+            "pub_year": "2010",
+            "citation": "Foundations of computational mathematics 10 (2), 127-139, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:0EnyYjriUFMC",
+        "num_citations": 329,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7922355559844399378",
+        "cites_id": [
+            "7922355559844399378"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D phenotyping and quantitative trait locus mapping identify core regions of the rice genome controlling root architecture",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (18), E1695-E1704, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:UebtZRa9Y70C",
+        "num_citations": 319,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1152809826479223526,5458263396395894426",
+        "cites_id": [
+            "1152809826479223526",
+            "5458263396395894426"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Morse-Smale complexes for piecewise linear 3-manifolds",
+            "pub_year": "2003",
+            "citation": "Proceedings of the nineteenth annual symposium on Computational geometry \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 316,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14950983640216791055",
+        "cites_id": [
+            "14950983640216791055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sliding windows and persistence: An application of topological methods to signal analysis",
+            "pub_year": "2015",
+            "citation": "Foundations of Computational Mathematics 15, 799-838, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 301,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10248755434574952136",
+        "cites_id": [
+            "10248755434574952136"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probability measures on the space of persistence diagrams",
+            "pub_year": "2011",
+            "citation": "Inverse Problems 27 (12), 124007, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:5nxA0vEk-isC",
+        "num_citations": 294,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14152508311042678260",
+        "cites_id": [
+            "14152508311042678260"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hierarchical Morse complexes for piecewise linear 2-manifolds",
+            "pub_year": "2001",
+            "citation": "Proceedings of the seventeenth annual symposium on Computational geometry, 70-79, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 293,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13829810423763493484",
+        "cites_id": [
+            "13829810423763493484"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fr\u00e9chet means for distributions of persistence diagrams",
+            "pub_year": "2014",
+            "citation": "Discrete & Computational Geometry 52, 44-70, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 283,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14371671687594584449",
+        "cites_id": [
+            "14371671687594584449"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Loops in Reeb graphs of 2-manifolds",
+            "pub_year": "2003",
+            "citation": "Proceedings of the nineteenth annual symposium on Computational geometry \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 269,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16186299603329071448",
+        "cites_id": [
+            "16186299603329071448"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extending persistence using Poincar\u00e9 and Lefschetz duality",
+            "pub_year": "2009",
+            "citation": "Foundations of Computational Mathematics 9 (1), 79-103, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 237,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15809135204942122398",
+        "cites_id": [
+            "15809135204942122398"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The cohomology of the moduli space of curves",
+            "pub_year": "2006",
+            "citation": "Theory of Moduli: Lectures given at the 3rd 1985 Session of the Centro \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 201,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18392730609575551922",
+        "cites_id": [
+            "18392730609575551922"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Guidelines for genome-scale analysis of biological rhythms",
+            "pub_year": "2017",
+            "citation": "Journal of biological rhythms 32 (5), 380-393, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:35N4QoGY0k4C",
+        "num_citations": 199,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8842696442350915946",
+        "cites_id": [
+            "8842696442350915946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extreme elevation on a 2-manifold",
+            "pub_year": "2004",
+            "citation": "Proceedings of the twentieth annual symposium on Computational geometry, 357-365, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:WF5omc3nYNoC",
+        "num_citations": 181,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13177430234282144100",
+        "cites_id": [
+            "13177430234282144100"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Jacobi sets of multiple Morse functions",
+            "pub_year": "2002",
+            "citation": "Foundations of computational mathematics, Minneapolis 8, 35-57, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:roLk4NBRz8UC",
+        "num_citations": 160,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15361910004350074986",
+        "cites_id": [
+            "15361910004350074986"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Some homology lens spaces which bound rational homology balls",
+            "pub_year": "1981",
+            "citation": "Pacific Journal of Mathematics 96 (1), 23-36, 1981"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:ufrVoPGSRksC",
+        "num_citations": 146,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3163761212735054546",
+        "cites_id": [
+            "3163761212735054546"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SW1PerS: Sliding windows and 1-persistence scoring; discovering periodicity in gene expression time series data",
+            "pub_year": "2015",
+            "citation": "BMC bioinformatics 16 (1), 1-12, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:dhFuZR0502QC",
+        "num_citations": 130,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5864591381891836745",
+        "cites_id": [
+            "5864591381891836745"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How to construct all fibered knots and links",
+            "pub_year": "1982",
+            "citation": "Topology 21 (3), 263-280, 1982"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6833653881947690656",
+        "cites_id": [
+            "6833653881947690656"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Representations of fundamental groups of surfaces",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:tOudhMTPpwUC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5487288055561560584",
+        "cites_id": [
+            "5487288055561560584"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Handlebody decompositions of complex surfaces",
+            "pub_year": "1986",
+            "citation": "American Mathematical Soc., 1986"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:Se3iqnhoufwC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16292088615049070586",
+        "cites_id": [
+            "16292088615049070586"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Implementation of a pooled surveillance testing program for asymptomatic SARS-CoV-2 infections on a college campus\u2014Duke University, Durham, North Carolina, August 2\u2013October 11 \u2026",
+            "pub_year": "2020",
+            "citation": "Morbidity and Mortality Weekly Report 69 (46), 1743, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:bFI3QPDXJZMC",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3961481983325893856",
+        "cites_id": [
+            "3961481983325893856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reeb spaces of piecewise linear mappings",
+            "pub_year": "2008",
+            "citation": "Proceedings of the twenty-fourth annual symposium on Computational geometry \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17990342747024127933",
+        "cites_id": [
+            "17990342747024127933"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Design and analysis of large-scale biological rhythm studies: a comparison of algorithms for detecting periodic signals in biological data",
+            "pub_year": "2013",
+            "citation": "Bioinformatics 29 (24), 3174-3180, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7847913475383461633",
+        "cites_id": [
+            "7847913475383461633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local and global comparison of continuous functions",
+            "pub_year": "2004",
+            "citation": "IEEE Visualization 2004, 275-280, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1565962012223327768",
+        "cites_id": [
+            "1565962012223327768"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time-varying Reeb graphs for continuous space-time data",
+            "pub_year": "2004",
+            "citation": "Proceedings of the twentieth annual symposium on Computational geometry, 366-372, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16903706615956400098",
+        "cites_id": [
+            "16903706615956400098"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inferring local homology from sampled stratified spaces",
+            "pub_year": "2007",
+            "citation": "48th Annual IEEE Symposium on Foundations of Computer Science (FOCS'07), 536-546, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:4TOpqqG69KYC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5262460886100315344",
+        "cites_id": [
+            "5262460886100315344"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probabilistic Fr\u00e9chet means for time varying persistence diagrams",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17147089129736234659",
+        "cites_id": [
+            "17147089129736234659"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Persistent homology for kernels, images, and cokernels",
+            "pub_year": "2009",
+            "citation": "Proceedings of the twentieth annual ACM-SIAM symposium on Discrete \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:aqlVkmm33-oC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17442884031363144970",
+        "cites_id": [
+            "17442884031363144970"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Geometries and geometric structures in real dimension 4 and complex dimension 2",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9629035263022565735",
+        "cites_id": [
+            "9629035263022565735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The third homology group of the moduli space of curves",
+            "pub_year": "1991",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:8k81kl-MbHgC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14607987014405366764",
+        "cites_id": [
+            "14607987014405366764"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time-varying Reeb graphs for continuous space\u2013time data",
+            "pub_year": "2008",
+            "citation": "Computational Geometry 41 (3), 149-166, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1260038327277788545",
+        "cites_id": [
+            "1260038327277788545"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An intrinsic oscillator drives the blood stage cycle of the malaria parasite Plasmodium falciparum",
+            "pub_year": "2020",
+            "citation": "Science 368 (6492), 754-759, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:yD5IFk8b50cC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11430642780886012446",
+        "cites_id": [
+            "11430642780886012446"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A geometric parametrization for the virtual Euler characteristics of the moduli spaces of real and complex algebraic curves",
+            "pub_year": "2001",
+            "citation": "Transactions of the American Mathematical Society 353 (11), 4405-4427, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:_kc_bZDykSQC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16086936205665637679",
+        "cites_id": [
+            "16086936205665637679"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stability of the homology of the moduli spaces of Riemann surfaces with spin structure",
+            "pub_year": "1990",
+            "citation": "Springer-Verlag, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:Zph67rFs4hoC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12643776800408052290",
+        "cites_id": [
+            "12643776800408052290"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PENCILS OF CURVES ON 4-MANIFOLDS.",
+            "pub_year": "1979",
+            "citation": "University of California, Berkeley, 1979"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:M3ejUd6NZC8C",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12687747133448210682",
+        "cites_id": [
+            "12687747133448210682"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topological and statistical behavior classifiers for tracking applications",
+            "pub_year": "2016",
+            "citation": "IEEE Transactions on Aerospace and Electronic Systems 52 (6), 2644-2661, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:TQgYirikUcIC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4245335907617645193",
+        "cites_id": [
+            "4245335907617645193"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Emerging challenges in computational topology",
+            "pub_year": "1999",
+            "citation": "arXiv preprint cs/9909001, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4496368029656326807",
+        "cites_id": [
+            "4496368029656326807"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Abelian invariants of satellite knots",
+            "pub_year": "1985",
+            "citation": "Geometry and topology (College Park, Md., 1983/84) 1167, 217-227, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:B3FOqHPlNUQC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8792344634483087874,2865553381811116551",
+        "cites_id": [
+            "8792344634483087874",
+            "2865553381811116551"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Local Edge Machine: inference of dynamic models of gene regulation",
+            "pub_year": "2016",
+            "citation": "Genome biology 17 (1), 1-13, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14944563848459295169",
+        "cites_id": [
+            "14944563848459295169"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3-fold branched coverings and the mapping class group of a surface",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:sSrBHYA8nusC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5885909215652406848",
+        "cites_id": [
+            "5885909215652406848"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A note on an invariant of Fintushel and Stern",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18043982450736122472",
+        "cites_id": [
+            "18043982450736122472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Euler characteristics of moduli spaces of curves",
+            "pub_year": "2010",
+            "citation": "Journal of the European Mathematical Society 13 (2), 487-512, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7514630251342418101",
+        "cites_id": [
+            "7514630251342418101"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The rational Picard group of the moduli space of Riemann surfaces with spin structure",
+            "pub_year": "1993",
+            "citation": "Contemporary Mathematics 150, 107-107, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:4DMP91E08xMC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2069542141960284057",
+        "cites_id": [
+            "2069542141960284057"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Persistent intersection homology",
+            "pub_year": "2011",
+            "citation": "Foundations of Computational Mathematics 11 (3), 305-336, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:mB3voiENLucC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16688555579121176831",
+        "cites_id": [
+            "16688555579121176831"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimal trap design",
+            "pub_year": "2001",
+            "citation": "Proceedings 2001 ICRA. IEEE International Conference on Robotics and \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13071449055541725360",
+        "cites_id": [
+            "13071449055541725360"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Feature-aided multiple hypothesis tracking using topological and statistical behavior classifiers",
+            "pub_year": "2015",
+            "citation": "Signal processing, sensor/information fusion, and target recognition XXIV \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10091518051375518571",
+        "cites_id": [
+            "10091518051375518571"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Easily repairable networks: Reconnecting nodes after damage",
+            "pub_year": "2014",
+            "citation": "Physical review letters 113 (13), 138701, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18342532209514970208",
+        "cites_id": [
+            "18342532209514970208"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Checkpoints couple transcription network oscillator dynamics to cell-cycle progression",
+            "pub_year": "2014",
+            "citation": "Genome Biology 15, 1-10, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:qUcmZB5y_30C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13958688803553341527",
+        "cites_id": [
+            "13958688803553341527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deformation spaces for Seifert manifolds",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:8AbLer7MMksC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8811910969092776970",
+        "cites_id": [
+            "8811910969092776970"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Presentation classes, 3-manifolds and free products",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14077778882216473777",
+        "cites_id": [
+            "14077778882216473777"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Failure filtrations for fenced sensor networks",
+            "pub_year": "2012",
+            "citation": "The International Journal of Robotics Research 31 (9), 1044-1056, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=278289048051560761",
+        "cites_id": [
+            "278289048051560761"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-scale local shape analysis and feature selection in machine learning applications",
+            "pub_year": "2015",
+            "citation": "2015 International Joint Conference on Neural Networks (IJCNN), 1-8, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:HDshCWvjkbEC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13587543472032889843",
+        "cites_id": [
+            "13587543472032889843"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On handlebody structures for hypersurfaces in \u21023 and \u2102P 3",
+            "pub_year": "1978",
+            "citation": "Mathematische Annalen 238, 51-58, 1978"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18245800320376041234",
+        "cites_id": [
+            "18245800320376041234"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improving homology estimates with random walks",
+            "pub_year": "2011",
+            "citation": "Inverse Problems 27 (12), 124002, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:IWHjjKOFINEC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=708111419245160632",
+        "cites_id": [
+            "708111419245160632"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An introduction to compactifying spaces of hyperbolic structures by actions on trees",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:LPZeul_q3PIC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=217000918871009806",
+        "cites_id": [
+            "217000918871009806"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scaffoldings and spines: organizing high-dimensional data using cover trees, local principal component analysis, and persistent homology",
+            "pub_year": "2018",
+            "citation": "Research in computational topology, 93-114, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:RHpTSmoSYBkC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2193404944660798807",
+        "cites_id": [
+            "2193404944660798807"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The persistent Morse complex segmentation of a 3-manifold",
+            "pub_year": "2009",
+            "citation": "3D physiological human workshop, 36-50, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2339112104802325094",
+        "cites_id": [
+            "2339112104802325094"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Representing elements of \u03c01M3 by fibred knots",
+            "pub_year": "1982",
+            "citation": "Mathematical Proceedings of the Cambridge Philosophical Society 92 (1), 133-138, 1982"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:_xSYboBqXhAC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12117059293247369899",
+        "cites_id": [
+            "12117059293247369899"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probabilistic fr\u00e9chet means and statistics on vineyards",
+            "pub_year": "2013",
+            "citation": "arXiv preprint arXiv:1307.6530 2, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:-f6ydRqryjwC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12961394440598232798",
+        "cites_id": [
+            "12961394440598232798"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Upstream fusion of multiple sensing modalities using machine learning and topological analysis: An initial exploration",
+            "pub_year": "2018",
+            "citation": "2018 IEEE Aerospace Conference, 1-8, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:SeFeTyx0c_EC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=455709570095288266",
+        "cites_id": [
+            "455709570095288266"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combinatorics of Train Tracks, volume 125 of Annals of Math",
+            "pub_year": "1992",
+            "citation": "Studies. Princeton University Press, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:SP6oXDckpogC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11193073431690612566",
+        "cites_id": [
+            "11193073431690612566"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HPRM: a hierarchical PRM",
+            "pub_year": "2003",
+            "citation": "2003 IEEE International Conference on Robotics and Automation (Cat. No \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14936039851545259383",
+        "cites_id": [
+            "14936039851545259383"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combinatorics of train tracks",
+            "citation": "Ann. of Math. Stud 125, 0"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:UxriW0iASnsC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3378231321333726684",
+        "cites_id": [
+            "3378231321333726684"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alpha-beta witness complexes",
+            "pub_year": "2007",
+            "citation": "Workshop on Algorithms and Data Structures, 386-397, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:hC7cP41nSMkC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3208977373053589871",
+        "cites_id": [
+            "3208977373053589871"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The isometry-invariant geodesics problem: closed and open",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:08ZZubdj9fEC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17124116962061797054",
+        "cites_id": [
+            "17124116962061797054"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supervised learning of labeled pointcloud differences via cover-tree entropy reduction",
+            "pub_year": "2017",
+            "citation": "arXiv preprint arXiv:1702.07959, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:ns9cj8rnVeAC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7158129693996487320",
+        "cites_id": [
+            "7158129693996487320"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of simulated surveillance testing and quarantine in a SARS-CoV-2\u2013vaccinated population of students on a university campus",
+            "pub_year": "2021",
+            "citation": "JAMA health forum 2 (10), e213035-e213035, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16101308636699775204",
+        "cites_id": [
+            "16101308636699775204"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Benefits of surveillance testing and quarantine in a SARS-CoV-2 vaccinated population of students on a university campus",
+            "pub_year": "2021",
+            "citation": "medRxiv, 2021.06. 15.21258928, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:CHSYGLWDkRkC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15200919450260948328",
+        "cites_id": [
+            "15200919450260948328"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hyperparameter optimization of topological features for machine learning applications",
+            "pub_year": "2019",
+            "citation": "2019 18th IEEE international conference on machine learning and applications \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9039423779442928586",
+        "cites_id": [
+            "9039423779442928586"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Moebius beats: The twisted spaces of sliding window audio novelty functions with rhythmic subdivisions",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:vV6vV6tmYwMC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3481803115802925201",
+        "cites_id": [
+            "3481803115802925201"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimal branched immersions into three-manifolds",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:tS2w5q8j5-wC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2376135536660658511",
+        "cites_id": [
+            "2376135536660658511"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Handlebodies and 2-complexes",
+            "pub_year": "1985",
+            "citation": "Springer Lecture Notes in Math 1167, 245-259, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:K3LRdlH-MEoC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1727373782761361643,461465580120401919",
+        "cites_id": [
+            "1727373782761361643",
+            "461465580120401919"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-scale geometric summaries for similarity-based sensor fusion",
+            "pub_year": "2019",
+            "citation": "2019 IEEE Aerospace Conference, 1-10, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:ZHo1McVdvXMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2664206729286873142",
+        "cites_id": [
+            "2664206729286873142"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Geometric cross-modal comparison of heterogeneous sensor data",
+            "pub_year": "2018",
+            "citation": "2018 IEEE Aerospace Conference, 1-10, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:70eg2SAEIzsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14554084388047726915",
+        "cites_id": [
+            "14554084388047726915"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deanonymizing shapeshift: Linking transactions across multiple blockchains",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:dfsIfKJdRG4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3884489866427828600",
+        "cites_id": [
+            "3884489866427828600"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Morse complexes for piecewise linear 3-manifolds",
+            "pub_year": "2006",
+            "citation": "Proc. 19th ACM Symp. Computational Geometry, 361-370, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:rO6llkc54NcC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5123280743947030721",
+        "cites_id": [
+            "5123280743947030721"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The virtual Euler characteristic of the moduli spaces of real and complex algebraic curves",
+            "pub_year": "1996",
+            "citation": "Faculty of Mathematics, University of Waterloo, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15971970125166892167",
+        "cites_id": [
+            "15971970125166892167"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Persistent obstruction theory for a model category of measures with applications to data merging",
+            "pub_year": "2021",
+            "citation": "Transactions of the American Mathematical Society, Series B 8 (1), 1-38, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:fPk4N6BV_jEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4519024822247286524",
+        "cites_id": [
+            "4519024822247286524"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deep learning for minimal-context block tracking through side-channel analysis",
+            "pub_year": "2019",
+            "citation": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:u_35RYKgDlwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=271469099677852602",
+        "cites_id": [
+            "271469099677852602"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inferring network controls from topology using the chomp database",
+            "pub_year": "2015",
+            "citation": "tech. report, Duke University Durham United States, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:J_g5lzvAfSwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4739406029687120901",
+        "cites_id": [
+            "4739406029687120901"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maximum Number of Nonzero Persistence Cycles in a Vietoris\u2013Rips Filtration",
+            "pub_year": "2014",
+            "citation": "Private Communication. Available online: https://plv. colorado. edu/dmoon \u2026, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:q3oQSFYPqjQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10093610671671952890",
+        "cites_id": [
+            "10093610671671952890"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Voronoi Diagrams and Delaunay Triangulations",
+            "pub_year": "2006",
+            "citation": "Center for Computational Science, Engineering and Medicine. Duke University, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:KxtntwgDAa4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17586906779629736409",
+        "cites_id": [
+            "17586906779629736409"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parametrized witness complexes",
+            "citation": "Proceedings 10th Workshop on Algorithms and Data Structures (WADS), Lecture \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8564456147415460094",
+        "cites_id": [
+            "8564456147415460094"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Geometric models for musical audio data",
+            "pub_year": "2016",
+            "citation": "Proceedings of the 32st International Symposium on Computational Geometry (SOCG), 2016"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:maZDTaKrznsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10271347376101540917",
+        "cites_id": [
+            "10271347376101540917"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extrema associated with homotopy classes of maps",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:vRqMK49ujn8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=44918368677154768",
+        "cites_id": [
+            "44918368677154768"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The parasite intraerythrocytic cycle and human circadian cycle are coupled during malaria infection",
+            "pub_year": "2023",
+            "citation": "Proceedings of the National Academy of Sciences 120 (24), e2216522120, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:WbkHhVStYXYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods for identifying targets for antimicrobial and antiproliferative compounds and compositions therefrom",
+            "pub_year": "2021",
+            "citation": "US Patent App. 17/360,695, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:dshw04ExmUIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods for identifying targets for antimicrobial and antiproliferative compounds and compositions therefrom",
+            "pub_year": "2021",
+            "citation": "US Patent 11,078,515, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:M05iB0D1s5AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Benefits of Surveillance Testing and Quarantine in a SARS-CoV-2 Vaccinated Population of Students on a University Campus (preprint)",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:BrmTIyaxlBUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topological Methods for Design and Control of Adaptive Stochastic Complex Systems-to Meet the Challenges of Resilient Urban Infrastructure",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:lSLTfruPkqcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The local edge machine: inference of dynamic models of gene regulation",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "1 John Harer Research",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:a0OBvERweLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Easily repairable networks",
+            "pub_year": "2014",
+            "citation": "arXiv preprint arXiv:1405.2185, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:TFP_iSt0sucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topological Data Analysis",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:RGFaLdJalmkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computing Probabilistic Sensor Network Coverage via Algorithms Utilizing Persistent Homology",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:r0BpntZqJG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PS 49-90: Dynamic phenotyping of rice root system structure reveals ontogenetic invariance and tradeoffs in belowground allocation strategies",
+            "pub_year": "2009",
+            "citation": "The 94th ESA Annual Meeting, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:k_IJM867U9cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis and error correction in structures of macromolecular interiors and interfaces",
+            "pub_year": "2009",
+            "citation": "Duke University, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:JV2RwH3_ST0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Geometry and topology: proceedings of the Special Year held at the University of Maryland, College Park, 1983-1984",
+            "pub_year": "2006",
+            "citation": "Springer, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HANDLEBODY STRUCTURES FOR COMPLEX-SURFACES",
+            "pub_year": "1986",
+            "citation": "MEMOIRS OF THE AMERICAN MATHEMATICAL SOCIETY 62 (350), 1-102, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:isC4tDSrTZIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Locally flat embeddings of three dimensional manifolds in four dimensional manifolds",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lower postnikov terms of generalized CW complexes and semi-simple actions",
+            "pub_year": "1985",
+            "citation": "Geometry and Topology: Proceedings of the Special Year held at the \u2026, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:geHnlv5EZngC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Geometry and Topology [electronic resource]: Proceedings of the Special Year held at the University of Maryland, College Park 1983\u20131984",
+            "citation": "Berlin, Heidelberg: Springer Berlin Heidelberg: Imprint: Springer,, 0"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:D_sINldO8mEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Handlebody Decompositions of Complex Surfaces (Memoirs of the American Mathematical Society)",
+            "citation": "Memoirs of the American Mathematical Society-1950-2012 Electronic Backfile \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:eJXPG6dFmWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using Vineyards to Verify Results of an Agent-Based Model of Primate Group Fission and Fusion",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probability distributions on the space of persistence diagrams",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:blknAaTinKkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conference on Algebraic Topological Methods in Computer Science",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "3Lfraf8AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 0
+    }
+]

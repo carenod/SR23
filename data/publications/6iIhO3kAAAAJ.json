@@ -1,0 +1,1096 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput phenotyping of plant height: comparing unmanned aerial vehicles and ground LiDAR estimates",
+            "pub_year": "2017",
+            "citation": "Frontiers in plant science 8, 2002, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:-f6ydRqryjwC",
+        "num_citations": 267,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12114096506529256552",
+        "cites_id": [
+            "12114096506529256552"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ear density estimation from high resolution RGB imagery using deep learning technique",
+            "pub_year": "2019",
+            "citation": "Agricultural and forest meteorology 264, 225-234, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:35N4QoGY0k4C",
+        "num_citations": 210,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11241932844818123814",
+        "cites_id": [
+            "11241932844818123814"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GAI estimates of row crops from downward looking digital photos taken perpendicular to rows at 57.5 zenith angle: Theoretical considerations based on 3D architecture models and \u2026",
+            "pub_year": "2010",
+            "citation": "Agricultural and Forest Meteorology 150 (11), 1393-1401, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 183,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6657221640476020189",
+        "cites_id": [
+            "6657221640476020189"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global Wheat Head Detection (GWHD) dataset: a large and diverse dataset of high-resolution RGB-labelled images to develop and benchmark wheat head detection methods",
+            "pub_year": "2020",
+            "citation": "Plant Phenomics, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 160,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11021885881427131850,746509534796252669",
+        "cites_id": [
+            "11021885881427131850",
+            "746509534796252669"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A semi-automatic system for high throughput phenotyping wheat cultivars in-field conditions: description and first results",
+            "pub_year": "2012",
+            "citation": "Functional Plant Biology 39 (11), 914-924, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 133,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16132209686985871514",
+        "cites_id": [
+            "16132209686985871514"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Forcing a wheat crop model with LAI data to access agronomic variables: Evaluation of the impact of model and LAI uncertainties and comparison with an empirical approach",
+            "pub_year": "2012",
+            "citation": "European journal of agronomy 37 (1), 1-10, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16270069662279150661",
+        "cites_id": [
+            "16270069662279150661"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wheat leaf bidirectional reflectance measurements: Description and quantification of the volume, specular and hot-spot scattering features",
+            "pub_year": "2012",
+            "citation": "Remote Sensing of Environment 121, 26-35, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2885798078623677677",
+        "cites_id": [
+            "2885798078623677677"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating wheat green area index from ground-based LiDAR measurement using a 3D canopy structure model",
+            "pub_year": "2017",
+            "citation": "Agricultural and Forest Meteorology 247, 12-20, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9940140623660985959",
+        "cites_id": [
+            "9940140623660985959"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global wheat head detection 2021: An improved dataset for benchmarking wheat head detection methods",
+            "pub_year": "2021",
+            "citation": "Plant Phenomics, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:abG-DnoFyZgC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1751297388377231685",
+        "cites_id": [
+            "1751297388377231685"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ACT: A leaf BRDF model taking into account the azimuthal anisotropy of monocotyledonous leaf surface",
+            "pub_year": "2014",
+            "citation": "Remote Sensing of Environment 143, 112-121, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:roLk4NBRz8UC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11759130631581508753",
+        "cites_id": [
+            "11759130631581508753"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput measurements of stem characteristics to estimate ear density and above-ground biomass",
+            "pub_year": "2019",
+            "citation": "Plant Phenomics 2019, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:M05iB0D1s5AC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10192192839373665339",
+        "cites_id": [
+            "10192192839373665339"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Management and Characterization of Abiotic Stress via Ph\u00e9noField\u00ae, a High-Throughput Field Phenotyping Platform",
+            "pub_year": "2019",
+            "citation": "Frontiers in plant science 10, 904, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4425414909116463413",
+        "cites_id": [
+            "4425414909116463413"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parameterising wheat leaf and tiller dynamics for faithful reconstruction of wheat plants by structural plant models",
+            "pub_year": "2018",
+            "citation": "Field Crops Research 218, 213-230, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15252260988556052700",
+        "cites_id": [
+            "15252260988556052700"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An automatic method based on daily in situ images and deep learning to date wheat heading stage",
+            "pub_year": "2020",
+            "citation": "Field Crops Research 252, 107793, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12897766397094099018",
+        "cites_id": [
+            "12897766397094099018"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Architectural response of wheat cultivars to row spacing reveals altered perception of plant density",
+            "pub_year": "2019",
+            "citation": "Frontiers in Plant Science 10, 999, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11076713871530088071",
+        "cites_id": [
+            "11076713871530088071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global wheat head dataset 2021: more diversity to improve the benchmarking of wheat head localization methods",
+            "pub_year": "2021",
+            "citation": "arXiv preprint arXiv:2105.07660, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:_xSYboBqXhAC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17146553656581655304",
+        "cites_id": [
+            "17146553656581655304"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visible, near infrared, and thermal spectral radiance on-board UAVs for high-throughput phenotyping of plant breeding trials",
+            "pub_year": "2018",
+            "citation": "Biophysical and biochemical characterization and plant species studies, 275-299, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13445600105794573902",
+        "cites_id": [
+            "13445600105794573902"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Snow cover mapping using SPOT VEGETATION with high resolution data: Application in the Moroccan Atlas mountains",
+            "pub_year": "2003",
+            "citation": "IGARSS 2003. 2003 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2462561591371050676",
+        "cites_id": [
+            "2462561591371050676"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant detection and counting from high-resolution RGB images acquired from UAVs: comparison between deep-learning and handcrafted methods with application to maize, sugar beet \u2026",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.04. 27.441631, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8580866197382971101",
+        "cites_id": [
+            "8580866197382971101"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling the spatial distribution of plants on the row for wheat crops: Consequences on the green fraction at the canopy level",
+            "pub_year": "2017",
+            "citation": "Computers and Electronics in Agriculture 136, 147-156, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15930912334994912493",
+        "cites_id": [
+            "15930912334994912493"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Platform development for drought tolerance evaluation of wheat in France",
+            "pub_year": "2015",
+            "citation": "Procedia Environmental Sciences 29, 93-94, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15454401604349806755",
+        "cites_id": [
+            "15454401604349806755"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tol\u00e9rance du bl\u00e9 tendre aux stress biotiques et abiotiques",
+            "pub_year": "2014",
+            "citation": "Innovations Agronomiques 35, 75-87, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:Zph67rFs4hoC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14087857569994767711",
+        "cites_id": [
+            "14087857569994767711"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of geostationary satellite thermal infrared data to monitor surface exchanges at local scale over heterogeneous landscape: Application to Meteosat 8 data.",
+            "pub_year": "2007",
+            "citation": "IGARSS 2007, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15222045681054254153,4434624625057026758",
+        "cites_id": [
+            "15222045681054254153",
+            "4434624625057026758"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Applying remote sensing expertise to crop improvement: progress and challenges to scale up high throughput field phenotyping from research to industry",
+            "pub_year": "2016",
+            "citation": "Autonomous air and ground sensing systems for agricultural optimization and \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:_kc_bZDykSQC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6618880306779765473",
+        "cites_id": [
+            "6618880306779765473"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The p2s2 validation database for decametric resolution crop products: Green area index, fraction of intercepted light, green fraction and chlorophyll content",
+            "pub_year": "2019",
+            "citation": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9512247917756476709",
+        "cites_id": [
+            "9512247917756476709"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Self-supervised plant phenotyping by combining domain adaptation with 3D plant model simulations: application to wheat leaf counting at seedling stage",
+            "pub_year": "2023",
+            "citation": "Plant Phenomics 5, 0041, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:dshw04ExmUIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1620128221633596681",
+        "cites_id": [
+            "1620128221633596681"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Geometric models for plant leaf area estimation from 3D point clouds: a comparative study",
+            "pub_year": "2022",
+            "citation": "Graphics and Visual Computing 7, 200057, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16250296636088899638",
+        "cites_id": [
+            "16250296636088899638"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CAN-EYE, logiciel de traitement d'images pour l'estimation de l'indice foliaire.",
+            "pub_year": "2008",
+            "citation": "Cahier des Techniques de l'INRA, 159-166, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:UebtZRa9Y70C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17545378416557922193",
+        "cites_id": [
+            "17545378416557922193"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comment les d\u00e9c",
+            "pub_year": "2007",
+            "citation": "Perspectives agricoles, 18, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:isC4tDSrTZIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14348231842115206296",
+        "cites_id": [
+            "14348231842115206296"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Satellite driven modeling of snow runoff in a small semi-arid mountainous watershed in Morocco",
+            "pub_year": "2003",
+            "citation": "IGARSS 2003. 2003 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14601906619513379381",
+        "cites_id": [
+            "14601906619513379381"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "VegAnn, Vegetation Annotation of multi-crop RGB images acquired under diverse conditions for segmentation",
+            "pub_year": "2023",
+            "citation": "Scientific Data 10 (1), 302, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:SP6oXDckpogC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1545216802132499163",
+        "cites_id": [
+            "1545216802132499163"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "European Journal of Agronomy Forcing a wheat crop model with LAI data to access agronomic variables: Evaluation of the impact of model and LAI uncertainties and comparison with \u2026",
+            "pub_year": "2012",
+            "citation": "European Journal of Agronomy 37 (1), 1-10, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:dhFuZR0502QC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2911592331847153588",
+        "cites_id": [
+            "2911592331847153588"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combination of 4D wheat architecture models and close range measurements for high throughput in field phenotyping: current status and prospects",
+            "pub_year": "2009",
+            "citation": "1. International Plant Phenotyping Symposium, Julich, DEU, 2009-11-02-2009-11-03, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12405538324907232241",
+        "cites_id": [
+            "12405538324907232241"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global wheat head detection challenges: winning models and application for head counting",
+            "pub_year": "2023",
+            "citation": "Plant Phenomics, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analyzing Changes in Maize Leaves Orientation due to GxExM Using an Automatic Method from RGB Images",
+            "pub_year": "2023",
+            "citation": "Plant Phenomics 5, 0046, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:UxriW0iASnsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize plasticity characterization through in-field 3D phenotyping\u200b",
+            "pub_year": "2022",
+            "citation": "7th International Plant Phenotyping Symposium 2022, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:KxtntwgDAa4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GAI and chlorophyll content monitoring over wheat fields from continuous sub-hourly spectroradiometer measurements",
+            "pub_year": "2020",
+            "citation": "AGU Fall Meeting Abstracts 2020, B040-06, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Apport des r\u00e9seaux de capteurs connect\u00e9s au suivi des cultures.",
+            "pub_year": "2018",
+            "citation": "Innovations Agronomiques 63, 457-473, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Describing the dynamics of wheat canopy structure at early stages by assimilating observations of green fractions within a 3D wheat model",
+            "pub_year": "2017",
+            "citation": "5. International Symposium on Recent Advances in Quantitative Remote Sensing \u2026, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:yD5IFk8b50cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A change in the remote sensing paradigm when exploiting uav extremely high spatial resolution observations",
+            "pub_year": "2017",
+            "citation": "5. International Symposium on Recent Advances in Quantitative Remote Sensing \u2026, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pilotage de la fertilisation: l\u2019\u00e9tat des sols analys\u00e9 en continu",
+            "pub_year": "2017",
+            "citation": "Perspectives agricoles, 13, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:TFP_iSt0sucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parametrizing wheat leaf and tiller dynamics for structural plant models",
+            "pub_year": "2016",
+            "citation": "L\u2019UNIVERSITE PARIS-SACLAY, 15, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:D03iK_w7-QYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The dynamics of leaf and axes orientation in wheat",
+            "pub_year": "2016",
+            "citation": "FSPMA, International Conference on Functional-Structural Plant Growth \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Valoriser les tol\u00e9rances vari\u00e9tales pour faire face aux carences azot\u00e9es",
+            "pub_year": "2016",
+            "citation": "Azote et innovation: Quels leviers pour concilier productivit\u00e9, qualit\u00e9 et \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SCANAREA\u2013V1.",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High throughput phenotyping for complex traits: case study for nitrogen response in wheat based on the Ph\u00e9noBl\u00e9 project",
+            "pub_year": "2016",
+            "citation": "International Plant and Animal Genome XXIV, np, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Agriculture de pr\u00e9cision: des mat\u00e9riels de plus en plus connect\u00e9s",
+            "pub_year": "2016",
+            "citation": "Perspectives agricoles, 48-51, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating canopy characteristics from ground-based LiDAR measurement assisted with 3D AdelWheat model",
+            "pub_year": "2016",
+            "citation": "FSPMA, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parameterizing patterns in wheat architecture to simulate the 3D dynamics of wheat crops",
+            "pub_year": "2015",
+            "citation": "IWIW2015: International Wheat Innovation Workshop, 1 p., 2015"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fonctionnement des capteurs: de la mesure physique\u00e0 la variable agronomique",
+            "pub_year": "2015",
+            "citation": "Perspectives agricoles, 42-45, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:70eg2SAEIzsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u00c9valuation des syst\u00e8mes de culture: de nouveaux outils pour une agriculture performante",
+            "pub_year": "2015",
+            "citation": "Perspectives agricoles, 54-57, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Aide au pilotage des cultures: des technologies tr\u00e8s compl\u00e9mentaires",
+            "pub_year": "2015",
+            "citation": "Perspectives agricoles, 50-53, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Capteurs et s\u00e9lection vari\u00e9tale: vers un nouveau potentiel de d\u00e9veloppement",
+            "pub_year": "2015",
+            "citation": "Perspectives agricoles, 46-49, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:k_IJM867U9cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Les capteurs en agriculture",
+            "pub_year": "2015",
+            "citation": "Perspectives Agricoles 419, 42-45, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:r0BpntZqJG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating chlorophyll, water, dry matter and nitrogen areal contents from leaf level reflectance spectra measurements: comparing empirical and physically based methods.",
+            "pub_year": "2014",
+            "citation": "3rd International Plant Phenotyping Symposium, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:4DMP91E08xMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interest and limits of UAV and UGV systems for field high-throughput phenotyping.",
+            "pub_year": "2014",
+            "citation": "3rd International Plant Phenotyping Symposium, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Les drones apportent un nouveau regard sur l'agriculture",
+            "pub_year": "2014",
+            "citation": "Perspectives agricoles, 64-66, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Review of methods for FAPAR and FIPAR measurements",
+            "pub_year": "2014",
+            "citation": "First FAPAR sub-group Workshop, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dispositif de mesure de la transmission directionnelle de lumi\u00e8re dans un couvert v\u00e9g\u00e9tal pour la d\u00e9termination d'un indice de surface dudit couvert v\u00e9g\u00e9tal",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:a0OBvERweLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wheat leaf optical properties.",
+            "pub_year": "2012",
+            "citation": "International Workshop on Leaf Optics, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:4TOpqqG69KYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wheat field high throughput phenotyping from concept to application.",
+            "pub_year": "2011",
+            "citation": "EPSO 2nd Symposium of the International Plant Phenotyping Network, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:aqlVkmm33-oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotypage en plein champ: apports des techniques bas\u00e9es sur les propri\u00e9t\u00e9s spectrales du couvert",
+            "pub_year": "2011",
+            "citation": "S\u00e9lectionneur Fran\u00e7ais 62, 75-83, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Le syst\u00e8me PAR@ METER pour un suivi continu du bilan PAR et du LAI des cultures",
+            "pub_year": "2010",
+            "citation": "Atelier proxi-d\u00e9tection, 18 p., 2010"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of green area index and chlorophyll content based on 3D canopy architecture models and the combination of gap fraction and hyperspectral reflectance measurements \u2026",
+            "pub_year": "2010",
+            "citation": "International Conference on Agricultural Engineering-AgEng 2010: towards \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Le ma\u00efs 2007 \u00e0 100 q/ha",
+            "pub_year": "2008",
+            "citation": "Perspectives agricoles, 54, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:BqipwSGYUEgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pour surveiller en temps r\u00e9el les parcelles",
+            "pub_year": "2007",
+            "citation": "Perspectives agricoles, 32, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:GnPB-g6toBAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "La tra\u00e7abilit\u00e9 sur la bonne longueur d\u2019ondes",
+            "pub_year": "2007",
+            "citation": "Perspectives agricoles, 38, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Les forces d\u2019un r\u00e9seau",
+            "pub_year": "2007",
+            "citation": "Perspectives agricoles, 34, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:blknAaTinKkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Positionnement par satellite: quelle pr\u00e9cision en attendre?",
+            "pub_year": "2007",
+            "citation": "Perspectives agricoles, 43-45, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INVITA and AGFEML\u2013Monitoring and extending the value of NVT trials",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INVITA and AGFEML\u2013Monitoring and extending the value of NVT trials",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gestion des adventices par l\u2019agronomie et les agro\u00e9quipements: moyens mobilisables et perspectives",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:ldfaerwXgEUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop model inversion in field high throughput phenotyping tool: first results and perspectives in breeding and commercial wheat varieties characterization",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deep learning for interpreting images of crops acquired under field conditions",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:lSLTfruPkqcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "La r\u00e9volution num\u00e9rique, acc\u00e9l\u00e9ratrice de performances: enjeux et panorama des potentialit\u00e9s",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of Field High Throughput Phenotyping Systems",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:RGFaLdJalmkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PHENOMOBILE-V1",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:hMod-77fHWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ear density estimation in wheat crops from high resolution RGB images and deep learning methods",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Un prototype de rampe de ph\u00e9notypage haut d\u00e9bit au champ pilot\u00e9par GPS-RTK",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "UMR INRA-UA\" Environnement M\u00e9diterran\u00e9en et Mod\u00e9lisation des Agro-Hydrosyst\u00e8mes\" EMMAH (EMMAH)",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SCANAREA",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6iIhO3kAAAAJ:ufrVoPGSRksC",
+        "num_citations": 0
+    }
+]

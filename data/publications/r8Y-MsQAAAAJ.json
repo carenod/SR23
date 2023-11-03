@@ -1,0 +1,113 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An early-morning gene network controlled by phytochromes and cryptochromes regulates photomorphogenesis pathways in Arabidopsis",
+            "pub_year": "2021",
+            "citation": "Molecular plant 14 (6), 983-996, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "r8Y-MsQAAAAJ:Zph67rFs4hoC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1295048429208014029",
+        "cites_id": [
+            "1295048429208014029"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Disparate binding kinetics by an intrinsically disordered domain enables temporal regulation of transcriptional complex formation",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (18), 4643-4648, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "r8Y-MsQAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16989547985522972889",
+        "cites_id": [
+            "16989547985522972889"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A critical assessment of current grading schemes for diffuse pleural mesothelioma with a proposal for a novel mesothelioma weighted grading scheme (MWGS)",
+            "pub_year": "2022",
+            "citation": "The American Journal of Surgical Pathology 46 (6), 774-785, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "r8Y-MsQAAAAJ:4TOpqqG69KYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10355096919466107895",
+        "cites_id": [
+            "10355096919466107895"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting survival in colorectal carcinoma after curative resection: a new prognostic nomogram",
+            "pub_year": "2022",
+            "citation": "Pathology 54 (1), 79-86, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "r8Y-MsQAAAAJ:_kc_bZDykSQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15563906508031172240",
+        "cites_id": [
+            "15563906508031172240"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel prognostic nomogram for predicting survival in diffuse pleural mesothelioma",
+            "pub_year": "2023",
+            "citation": "Pathology 55 (4), 449-455, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "r8Y-MsQAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PAFway: pairwise associations between functional annotations in biological networks and pathways",
+            "pub_year": "2020",
+            "citation": "Bioinformatics 36 (19), 4963-4964, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "r8Y-MsQAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The iGEM competition: research-led teaching in microbiology",
+            "pub_year": "2016",
+            "citation": "Microbiology Australia 37 (2), 81-83, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "r8Y-MsQAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplementary Information for \u201cPAFway: Pairwise Associations of Functional annotations in biological networks and pathways\u201d",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "r8Y-MsQAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,800 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Q&A: What are exosomes, exactly?",
+            "pub_year": "2016",
+            "citation": "BMC biology 14 (1), 1-7, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 343,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6182641565291309332",
+        "cites_id": [
+            "6182641565291309332"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hrs\u2010and CD63\u2010dependent competing mechanisms make different sized endosomal intraluminal vesicles",
+            "pub_year": "2014",
+            "citation": "Traffic 15 (2), 197-211, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 214,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11228607055912855456",
+        "cites_id": [
+            "11228607055912855456"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Defects in ER\u2013endosome contacts impact lysosome function in hereditary spastic paraplegia",
+            "pub_year": "2017",
+            "citation": "Journal of Cell Biology 216 (5), 1337-1355, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 143,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6825418299992007867",
+        "cites_id": [
+            "6825418299992007867"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tetherin is an exosomal tether",
+            "pub_year": "2016",
+            "citation": "Elife 5, e17180, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:roLk4NBRz8UC",
+        "num_citations": 141,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11795375363315225356",
+        "cites_id": [
+            "11795375363315225356"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interaction between AP-5 and the hereditary spastic paraplegia proteins SPG11 and SPG15",
+            "pub_year": "2013",
+            "citation": "Molecular biology of the cell 24 (16), 2558-2569, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6461302663102619716",
+        "cites_id": [
+            "6461302663102619716"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AP-4 vesicles contribute to spatial control of autophagy via RUSC-dependent peripheral delivery of ATG9A",
+            "pub_year": "2018",
+            "citation": "Nature communications 9 (1), 3958, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 104,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4251569943997843312",
+        "cites_id": [
+            "4251569943997843312"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ESCRTs regulate amyloid precursor protein sorting in multivesicular bodies and intracellular amyloid-\u03b2 accumulation",
+            "pub_year": "2015",
+            "citation": "Journal of cell science 128 (14), 2520-2528, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12399904185512036807",
+        "cites_id": [
+            "12399904185512036807"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Frontotemporal dementia caused by CHMP2B mutation is characterised by neuronal lysosomal storage pathology",
+            "pub_year": "2015",
+            "citation": "Acta neuropathologica 130, 511-523, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7632970943675714093,14709492020301562748",
+        "cites_id": [
+            "7632970943675714093",
+            "14709492020301562748"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Loss of AP-5 results in accumulation of aberrant endolysosomes: defining a new type of lysosomal storage disease",
+            "pub_year": "2015",
+            "citation": "Human molecular genetics 24 (17), 4984-4996, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:WF5omc3nYNoC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10257543949904613067",
+        "cites_id": [
+            "10257543949904613067"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A\u03b2 accumulation causes MVB enlargement and is modelled by dominant negative VPS4A",
+            "pub_year": "2017",
+            "citation": "Molecular neurodegeneration 12 (1), 1-18, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:qjMakFHDy7sC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5810160129787868876",
+        "cites_id": [
+            "5810160129787868876"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Compartmentalized synthesis of triacylglycerol at the inner nuclear membrane regulates nuclear organization",
+            "pub_year": "2019",
+            "citation": "Developmental Cell 50 (6), 755-766. e6, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8465123165814050529",
+        "cites_id": [
+            "8465123165814050529"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fractionation profiling: a fast and versatile approach for mapping vesicle proteomes and protein\u2013protein interactions",
+            "pub_year": "2014",
+            "citation": "Molecular biology of the cell 25 (20), 3178-3194, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6934519403091691135",
+        "cites_id": [
+            "6934519403091691135"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contribution of the clathrin adaptor AP-1 subunit \u00b51 to acidic cluster protein sorting",
+            "pub_year": "2017",
+            "citation": "Journal of Cell Biology 216 (9), 2927-2943, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16672936470719117765",
+        "cites_id": [
+            "16672936470719117765"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contributions of epsinR and gadkin to clathrin-mediated intracellular trafficking",
+            "pub_year": "2015",
+            "citation": "Molecular biology of the cell 26 (17), 3085-3103, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15785547824597146656",
+        "cites_id": [
+            "15785547824597146656"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular mechanisms of disease pathogenesis differ in Krabbe disease variants",
+            "pub_year": "2016",
+            "citation": "Traffic 17 (8), 908-922, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:8k81kl-MbHgC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14298533505740832931",
+        "cites_id": [
+            "14298533505740832931"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complicated spastic paraplegia in patients with AP5Z1 mutations (SPG48)",
+            "pub_year": "2016",
+            "citation": "Neurology Genetics 2 (5), 2016"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9599304959616505997",
+        "cites_id": [
+            "9599304959616505997"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "De novo VPS4A mutations cause multisystem disease with abnormal neurodevelopment",
+            "pub_year": "2020",
+            "citation": "The American Journal of Human Genetics 107 (6), 1129-1148, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:aqlVkmm33-oC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12066526911446494917",
+        "cites_id": [
+            "12066526911446494917"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Frontotemporal dementia causative CHMP2B impairs neuronal endolysosomal traffic-rescue by TMEM106B knockdown",
+            "pub_year": "2018",
+            "citation": "Brain 141 (12), 3428-3442, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:UebtZRa9Y70C",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12280090114301095217",
+        "cites_id": [
+            "12280090114301095217"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The WDR11 complex facilitates the tethering of AP-1-derived vesicles",
+            "pub_year": "2018",
+            "citation": "Nature communications 9 (1), 596, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18003836739475867835",
+        "cites_id": [
+            "18003836739475867835"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fas Ligand localizes to intraluminal vesicles within NK cell cytolytic granules and is enriched at the immune synapse",
+            "pub_year": "2018",
+            "citation": "Immunity, inflammation and disease 6 (2), 312-321, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4091101486483742616",
+        "cites_id": [
+            "4091101486483742616"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The homophilic receptor PTPRK selectively dephosphorylates multiple junctional regulators to promote cell\u2013cell adhesion",
+            "pub_year": "2019",
+            "citation": "Elife 8, e44597, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10011230116046449387",
+        "cites_id": [
+            "10011230116046449387"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanistic basis of an epistatic interaction reducing age at onset in hereditary spastic paraplegia",
+            "pub_year": "2018",
+            "citation": "Brain 141 (5), 1286-1299, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:5nxA0vEk-isC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13808792063586465045",
+        "cites_id": [
+            "13808792063586465045"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spastin MIT domain disease-associated mutations disrupt lysosomal function",
+            "pub_year": "2019",
+            "citation": "Frontiers in Neuroscience 13, 1179, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14393831415321792",
+        "cites_id": [
+            "14393831415321792"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The relationship between ER\u2013multivesicular body membrane contacts and the ESCRT machinery",
+            "pub_year": "2012",
+            "citation": "Biochemical Society transactions 40 (2), 464-468, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:0EnyYjriUFMC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12475956953915473427",
+        "cites_id": [
+            "12475956953915473427"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploiting connections for viral replication",
+            "pub_year": "2021",
+            "citation": "Frontiers in Cell and Developmental Biology, 284, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6232061567309699540",
+        "cites_id": [
+            "6232061567309699540"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ultrastructural insight into SARS-CoV-2 entry and budding in human airway epithelium",
+            "pub_year": "2022",
+            "citation": "Nature Communications 13 (1), 1609, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:IWHjjKOFINEC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17823637125511169466",
+        "cites_id": [
+            "17823637125511169466"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OPTN recruitment to a Golgi-proximal compartment regulates immune signalling and cytokine secretion",
+            "pub_year": "2020",
+            "citation": "Journal of cell science 133 (12), jcs239822, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:4TOpqqG69KYC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3203223894161343670",
+        "cites_id": [
+            "3203223894161343670"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SARS-CoV-2 spike downregulates tetherin to enhance viral spread",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:4DMP91E08xMC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17514832707502537379",
+        "cites_id": [
+            "17514832707502537379"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Altered subgenomic RNA abundance provides unique insight into SARS-CoV-2 B. 1.1. 7/Alpha variant infections",
+            "pub_year": "2022",
+            "citation": "Communications biology 5 (1), 666, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:hC7cP41nSMkC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11110754023220760573",
+        "cites_id": [
+            "11110754023220760573"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Organelle tethering, pore formation and SNARE compensation in the late endocytic pathway",
+            "pub_year": "2021",
+            "citation": "Journal of Cell Science 134 (10), jcs255463, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15195294303457674171",
+        "cites_id": [
+            "15195294303457674171"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A dysfunctional endolysosomal pathway common to two sub-types of demyelinating Charcot\u2013Marie\u2013Tooth disease",
+            "pub_year": "2020",
+            "citation": "Acta Neuropathologica Communications 8 (1), 1-16, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=537446125929615255",
+        "cites_id": [
+            "537446125929615255"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role of clathrin in dense core vesicle biogenesis",
+            "pub_year": "2017",
+            "citation": "Molecular biology of the cell 28 (20), 2676-2685, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2814104555929653374",
+        "cites_id": [
+            "2814104555929653374"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ultrastructural insight into SARS-CoV-2 attachment, entry and budding in human airway epithelium",
+            "pub_year": "2021",
+            "citation": "BioRxiv, 2021.04. 10.439279, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8759287278248952389",
+        "cites_id": [
+            "8759287278248952389"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-omic approach characterises the neuroprotective role of retromer in regulating lysosomal health",
+            "pub_year": "2023",
+            "citation": "Nature Communications 14 (1), 3086, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:mB3voiENLucC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3562222651151636252",
+        "cites_id": [
+            "3562222651151636252"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tetherin antagonism by SARS-CoV-2 enhances virus release: multiple mechanisms including ORF3a-mediated defective retrograde traffic",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.01. 06.425396, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7118766261602390899",
+        "cites_id": [
+            "7118766261602390899"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The SARS-CoV-2 protein ORF3c is a mitochondrial modulator of innate immunity",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.11. 15.516323, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:HDshCWvjkbEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8017419221211569170",
+        "cites_id": [
+            "8017419221211569170"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high content microscopy-based platform for detecting antibodies to the nucleocapsid, spike and membrane proteins of SARS-CoV-2",
+            "pub_year": "2021",
+            "citation": "medRxiv, 2021.10. 14.21264873, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2436248864782310573",
+        "cites_id": [
+            "2436248864782310573"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AP-4 vesicles unmasked by organellar proteomics to reveal their cargo and machinery",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 235226, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2479676671986578862",
+        "cites_id": [
+            "2479676671986578862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Establishing SARS-CoV-2 Membrane protein-specific antibodies as a valuable serological target via high-content microscopy",
+            "pub_year": "2023",
+            "citation": "Iscience, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterisation of SARS-CoV-2 Membrane Protein-Specific Antibodies as an Additional Serological Target Following COVID-19 Infections Identified Through a High Content \u2026",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:TQgYirikUcIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel human fetal lung-derived alveolar organoid model reveals mechanisms of surfactant protein C maturation relevant to interstitial lung disease",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.08. 30.555522, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:TFP_iSt0sucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The SARS-CoV-2 protein ORF3c is a mitochondrial modulator of innate immunity (preprint)",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high content microscopy-based platform for detecting antibodies to the nucleocapsid, spike and membrane proteins of SARS-CoV-2 (preprint)",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SARS-CoV-2 spike downregulates tetherin to enhance viral spread (preprint)",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct mutations and lineages of SARS-CoV-2 virus in the early phase of COVID-19 global pandemic and subsequent global expansion (preprint)",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OPTN translocates to an ATG9A-positive compartment to regulate innate immune signalling and cytokine secretion",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 744672, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:Zph67rFs4hoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INVESTIGATING THE CELLULAR PATHOGENESIS OF CHARCOT-MARIE-TOOTH DISEASE TYPE 1C USING SKIN-DERIVED PATIENT FIBROBLASTS",
+            "pub_year": "2016",
+            "citation": "JOURNAL OF THE PERIPHERAL NERVOUS SYSTEM 21 (3), 264-264, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CELL SCIENTISTS TO WATCH",
+            "pub_year": "2015",
+            "citation": "Journal of Cell Science 128, 14, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of multivesicular bodies in the trafficking of the amyloid precursor protein",
+            "pub_year": "2013",
+            "citation": "UCL (University College London), 2013"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P2\u2010228: The role of multivesicular bodies in Alzheimer's disease",
+            "pub_year": "2011",
+            "citation": "Alzheimer's & Dementia 7, S385-S385, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:ufrVoPGSRksC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Miniature Zinc Die Casting--Marked Improvements in Casting Quality Realized Through In-Plant Shot-End Modifications of Pneumatic Machines",
+            "pub_year": "1993",
+            "citation": "17 th International Die Casting Congress and Exposition, 119-126, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "De novo VPS4A mutations cause multisystem disease with abnormal neurodevelopment",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Board's orders 1788-1789",
+            "citation": "(No Title), 0"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:r0BpntZqJG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Board's orders",
+            "citation": "(No Title), 0"
+        },
+        "filled": false,
+        "author_pub_id": "TjCzjFQAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 0
+    }
+]

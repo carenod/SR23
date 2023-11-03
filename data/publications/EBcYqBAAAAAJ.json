@@ -1,0 +1,645 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome sequencing and analysis of the model grass Brachypodium distachyon",
+            "pub_year": "2010",
+            "citation": "Nature 463 (7282), 763-768, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1829,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4832367899727927580",
+        "cites_id": [
+            "4832367899727927580"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genome of woodland strawberry (Fragaria vesca)",
+            "pub_year": "2011",
+            "citation": "Nature genetics 43 (2), 109-116, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 1274,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16773054606610119076",
+        "cites_id": [
+            "16773054606610119076"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide mapping of alternative splicing in Arabidopsis thaliana",
+            "pub_year": "2010",
+            "citation": "Genome research 20 (1), 45-58, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 971,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5842075378241167596",
+        "cites_id": [
+            "5842075378241167596"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network discovery pipeline elucidates conserved time-of-day\u2013specific cis-regulatory modules",
+            "pub_year": "2008",
+            "citation": "PLoS genetics 4 (2), e14, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 550,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8691664984200361553",
+        "cites_id": [
+            "8691664984200361553"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The pineapple genome and the evolution of CAM photosynthesis",
+            "pub_year": "2015",
+            "citation": "Nature genetics 47 (12), 1435-1442, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:_kc_bZDykSQC",
+        "num_citations": 485,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4285567031895025356",
+        "cites_id": [
+            "4285567031895025356"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The DIURNAL project: DIURNAL and circadian expression profiling, model-based pattern matching, and promoter analysis",
+            "pub_year": "2007",
+            "citation": "Cold Spring Harbor symposia on quantitative biology 72 (8), 353, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:qjMakFHDy7sC",
+        "num_citations": 406,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16049082473793609616",
+        "cites_id": [
+            "16049082473793609616"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcription factors in light and circadian clock signaling networks revealed by genomewide mapping of direct targets for neurospora white collar complex",
+            "pub_year": "2010",
+            "citation": "Eukaryotic cell 9 (10), 1549-1556, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 245,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5123041930678912883",
+        "cites_id": [
+            "5123041930678912883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A morning-specific phytohormone gene expression program underlying rhythmic plant growth",
+            "pub_year": "2008",
+            "citation": "PLoS biology 6 (9), e225, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 240,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14466124240060095604",
+        "cites_id": [
+            "14466124240060095604"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global profiling of rice and poplar transcriptomes highlights key conserved circadian-controlled pathways and cis-regulatory modules",
+            "pub_year": "2011",
+            "citation": "PloS one 6 (6), e16907, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 200,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11165951581326399541",
+        "cites_id": [
+            "11165951581326399541"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing in plants: directing traffic at the crossroads of adaptation and environmental stress",
+            "pub_year": "2015",
+            "citation": "Current opinion in plant biology 24, 125-135, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 181,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15564706049371422549",
+        "cites_id": [
+            "15564706049371422549"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic DNA cytosine methylation in the Populus trichocarpa genome: tissue-level variation and relationship to gene expression",
+            "pub_year": "2012",
+            "citation": "BMC genomics 13, 1-19, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 143,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11123907221636910455",
+        "cites_id": [
+            "11123907221636910455"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cis-regulatory elements in plant cell signaling",
+            "pub_year": "2009",
+            "citation": "Current opinion in plant biology 12 (5), 643-649, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4497279794621633582",
+        "cites_id": [
+            "4497279794621633582"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genome of black raspberry (Rubus occidentalis)",
+            "pub_year": "2016",
+            "citation": "The Plant Journal 87 (6), 535-547, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10703312842764134584",
+        "cites_id": [
+            "10703312842764134584"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Grasses suppress shoot-borne roots to conserve water during drought",
+            "pub_year": "2016",
+            "citation": "Proceedings of the National Academy of Sciences 113 (31), 8861-8866, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:aqlVkmm33-oC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13327615712811785953",
+        "cites_id": [
+            "13327615712811785953"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional characterization of cinnamyl alcohol dehydrogenase and caffeic acid O-methyltransferase in Brachypodium distachyon",
+            "pub_year": "2013",
+            "citation": "BMC biotechnology 13 (1), 1-18, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:Zph67rFs4hoC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17826663530638820644",
+        "cites_id": [
+            "17826663530638820644"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of global gene expression in Brachypodium distachyon reveals extensive network plasticity in response to abiotic stress",
+            "pub_year": "2014",
+            "citation": "PLoS One 9 (1), e87499, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15393189439898712973",
+        "cites_id": [
+            "15393189439898712973"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extensive Transcriptome Changes During Natural Onset and Release of Vegetative Bud Dormancy in Populus",
+            "pub_year": "2015",
+            "citation": "Frontiers in plant science 6, 989, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:4TOpqqG69KYC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1959520386179258235",
+        "cites_id": [
+            "1959520386179258235"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome diversity in Brachypodium distachyon: deep sequencing of highly diverse inbred lines",
+            "pub_year": "2014",
+            "citation": "The Plant Journal 79 (3), 361-374, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3979626939062727568",
+        "cites_id": [
+            "3979626939062727568"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supersplat\u2014spliced RNA-seq alignment",
+            "pub_year": "2010",
+            "citation": "Bioinformatics 26 (12), 1500-1505, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8572408726459598217",
+        "cites_id": [
+            "8572408726459598217"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal and spatial transcriptomic and micro RNA dynamics of CAM photosynthesis in pineapple",
+            "pub_year": "2017",
+            "citation": "The Plant Journal 92 (1), 19-30, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4405444442557937523",
+        "cites_id": [
+            "4405444442557937523"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conserved Daily Transcriptional Programs in Carica papaya",
+            "pub_year": "2008",
+            "citation": "Tropical plant biology 1, 236-245, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10118055053864836960",
+        "cites_id": [
+            "10118055053864836960"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assembly and characterization of the European hazelnut \u2018Jefferson\u2019transcriptome",
+            "pub_year": "2012",
+            "citation": "Crop science 52 (6), 2679-2686, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:Se3iqnhoufwC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17568301069050970125",
+        "cites_id": [
+            "17568301069050970125"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detection and quantification of alternative splicing variants using RNA-seq",
+            "pub_year": "2012",
+            "citation": "RNA abundance analysis: methods and protocols, 97-110, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16047150963993093810",
+        "cites_id": [
+            "16047150963993093810"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Draft Genome and High-Density Genetic Map of European Hazelnut (Corylus avellana L.)",
+            "pub_year": "2018",
+            "citation": "BioRXiv, 469015, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6951020400438452663",
+        "cites_id": [
+            "6951020400438452663"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequencing and characterization of the anadromous steelhead (Oncorhynchus mykiss) transcriptome",
+            "pub_year": "2014",
+            "citation": "Marine genomics 15, 13-15, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3247012852810210928",
+        "cites_id": [
+            "3247012852810210928"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative analysis of vertebrate diurnal/circadian transcriptomes",
+            "pub_year": "2017",
+            "citation": "PLoS One 12 (1), e0169923, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:4DMP91E08xMC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6820939700716335822",
+        "cites_id": [
+            "6820939700716335822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transgenic insertion of the cyanobacterial membrane protein ictB increases grain yield in Zea mays through increased photosynthesis and carbohydrate production",
+            "pub_year": "2021",
+            "citation": "PLoS One 16 (2), e0246359, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:k_IJM867U9cC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17451218880759949254",
+        "cites_id": [
+            "17451218880759949254"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discovery of SNP markers in expressed genes of hazelnut",
+            "pub_year": "2009",
+            "citation": "International Symposium on Molecular Markers in Horticulture 859, 289-294, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:WF5omc3nYNoC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18342263430634063587",
+        "cites_id": [
+            "18342263430634063587"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Utility of next-generation sequencing for analysis of horticultural crop transcriptomes",
+            "pub_year": "2009",
+            "citation": "International Symposium on Molecular Markers in Horticulture 859, 283-288, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14547108809403409818",
+        "cites_id": [
+            "14547108809403409818"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequence and Analysis of the Black Raspberry (Rubus occidentalis) Genome",
+            "pub_year": "2018",
+            "citation": "The Genomes of Rosaceous Berries and Their Wild Relatives, 185-197, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9823449193244486047",
+        "cites_id": [
+            "9823449193244486047"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development and Application of Comparative Gene Co-expression Network Methods in Brachypodium distachyon",
+            "pub_year": "2016",
+            "citation": "Washington University in St. Louis, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13480743370762197839",
+        "cites_id": [
+            "13480743370762197839"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome sequence analysis of the model grass Brachypodium distachyon: insights into grass genome evolution",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3654928235949506880",
+        "cites_id": [
+            "3654928235949506880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HoweGlennForestEcosystSocExtensiveTranscriptomeChanges. pdf",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:-f6ydRqryjwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HoweGlennForestEcosystSocExtensiveTranscriptomeChanges (SupplementaryTablesS1-S8). pdf",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FoxSamuelBotanyPlantPathologyAnalysisGlobalGene. pdf",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FoxSamuelBotanyPlantPathologyAnalysisGlobalGene_SupportingInformation. zip",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:dhFuZR0502QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "JaiswalPankajBotanyPlantPathologyGlobalProfilingRice. pdf",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic DNA cytosine methylation in the Populus trichocarpa genome: tissue-level variation and relationship to gene expression",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developmental variation in DNA methylation in poplar (Populus trichocarpa)",
+            "pub_year": "2011",
+            "citation": "BMC Proceedings 5 (7), 1-2, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:ufrVoPGSRksC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global Profiling of Rice and Poplar Transcriptomes Highlights Key Conserved Circadian-Controlled Pathways and cis-Regulatory Modules",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:IWHjjKOFINEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supersplat\u2014spliced RNA-seq alignment",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring the developmental epigenome of Populus trichocarpa",
+            "pub_year": "2010",
+            "citation": "Journal of Biotechnology, 507, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional characterization of cinnamyl alcohol dehydrogenase and caffeic acid O-methyltransferase inBrachypodium distachyon",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EBcYqBAAAAAJ:TFP_iSt0sucC",
+        "num_citations": 0
+    }
+]

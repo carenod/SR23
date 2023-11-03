@@ -1,0 +1,605 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "1,135 genomes reveal the global pattern of polymorphism in Arabidopsis thaliana",
+            "pub_year": "2016",
+            "citation": "Cell 166 (2), 481-491, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:QVtou7C4vgoC",
+        "num_citations": 1034,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10423965159084282826,8576215701032018220",
+        "cites_id": [
+            "10423965159084282826",
+            "8576215701032018220"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Species-wide genetic incompatibility analysis identifies immune genes as hot spots of deleterious epistasis",
+            "pub_year": "2014",
+            "citation": "Cell 159 (6), 1341-1351, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:ufrVoPGSRksC",
+        "num_citations": 245,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=316199248375322708",
+        "cites_id": [
+            "316199248375322708"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genomic landscape of meiotic crossovers and gene conversions in Arabidopsis thaliana",
+            "pub_year": "2013",
+            "citation": "Elife 2, e01426, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 214,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11075241871534081461",
+        "cites_id": [
+            "11075241871534081461"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis FLL2 promotes liquid\u2013liquid phase separation of polyadenylation complexes",
+            "pub_year": "2019",
+            "citation": "Nature 569 (7755), 265-269, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:eI34FqJmdUoC",
+        "num_citations": 171,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11910687909798840578",
+        "cites_id": [
+            "11910687909798840578"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The alternative reality of plant mitochondrial DNA: One ring does not rule them all",
+            "pub_year": "2019",
+            "citation": "PLoS genetics 15 (8), e1008373, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:2vr6o8x5NLkC",
+        "num_citations": 156,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15464025496602915013",
+        "cites_id": [
+            "15464025496602915013"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid and inexpensive whole-genome genotyping-by-sequencing for crossover localization and fine-scale genetic mapping",
+            "pub_year": "2015",
+            "citation": "G3: Genes, Genomes, Genetics 5 (3), 385-398, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10179040664714493769",
+        "cites_id": [
+            "10179040664714493769"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RecA maintains the integrity of chloroplast DNA molecules in Arabidopsis",
+            "pub_year": "2010",
+            "citation": "Journal of experimental botany 61 (10), 2575-2588, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15026315386558005221",
+        "cites_id": [
+            "15026315386558005221"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Ultra High-Density Arabidopsis thaliana Crossover Map That Refines the Influences of Structural Variation and Epigenetic Features",
+            "pub_year": "2019",
+            "citation": "Genetics 213 (3), 771-787, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:m4fbC6XIj1kC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16224069500082985432",
+        "cites_id": [
+            "16224069500082985432"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The demise of chloroplast DNA in Arabidopsis",
+            "pub_year": "2004",
+            "citation": "Current Genetics 46, 176-181, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18367227154791006835",
+        "cites_id": [
+            "18367227154791006835"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multiple-method approach reveals a declining amount of chloroplast DNA during development in Arabidopsis",
+            "pub_year": "2009",
+            "citation": "BMC Plant Biology 9, 1-17, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15089302419407263061",
+        "cites_id": [
+            "15089302419407263061"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linked-read sequencing of gametes allows efficient genome-wide analysis of meiotic recombination",
+            "pub_year": "2019",
+            "citation": "Nature communications 10 (1), 4310, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:AZju0d2GQJ0C",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6570894635684045222",
+        "cites_id": [
+            "6570894635684045222"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MSH 2 shapes the meiotic crossover landscape in relation to interhomolog polymorphism in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "The EMBO journal 39 (21), e104858, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:sfnaS5RM6jYC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3012375400635220459",
+        "cites_id": [
+            "3012375400635220459"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Loss or retention of chloroplast DNA in maize seedlings is affected by both light and genotype",
+            "pub_year": "2006",
+            "citation": "Planta 225, 41-55, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17404301612709721388",
+        "cites_id": [
+            "17404301612709721388"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide detection of intervals of genetic heterogeneity associated with complex traits",
+            "pub_year": "2015",
+            "citation": "Bioinformatics 31 (12), i240-i249, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17234579867875528388",
+        "cites_id": [
+            "17234579867875528388"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods for genotyping-by-sequencing",
+            "pub_year": "2017",
+            "citation": "Genotyping: Methods and Protocols, 221-242, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:OzeSX8-yOCQC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13087830228855449883",
+        "cites_id": [
+            "13087830228855449883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The loss of DNA from chloroplasts as leaves mature: fact or artefact?",
+            "pub_year": "2009",
+            "citation": "Journal of experimental botany 60 (11), 3005-3010, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17415382422894816379",
+        "cites_id": [
+            "17415382422894816379"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developmental genetics and new sequencing technologies: the rise of nonmodel organisms",
+            "pub_year": "2011",
+            "citation": "Developmental Cell 21 (1), 65-76, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12782955112746408440",
+        "cites_id": [
+            "12782955112746408440"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high-throughput method for detection of DNA in chloroplasts using flow cytometry",
+            "pub_year": "2007",
+            "citation": "Plant Methods 3, 1-13, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:qjMakFHDy7sC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=55669074439423662",
+        "cites_id": [
+            "55669074439423662"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Plant Immunity Regulating F-Box Protein CPR1 Supports Plastid Function in Absence of Pathogens",
+            "pub_year": "2017",
+            "citation": "Frontiers in Plant Science 8, 1650, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:yY3RG6sOEgwC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17703237827073964218",
+        "cites_id": [
+            "17703237827073964218"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the fate of plastid DNA molecules during leaf development: Response to the Golczyk et al. commentary",
+            "pub_year": "2014",
+            "citation": "The Plant Cell 26 (3), 855-861, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1613023979483265027",
+        "cites_id": [
+            "1613023979483265027"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Different mechanisms for Arabidopsis thaliana hybrid necrosis cases inferred from temperature responses",
+            "pub_year": "2014",
+            "citation": "Plant Biology 16 (6), 1033-1041, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5461059457635703130",
+        "cites_id": [
+            "5461059457635703130"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dose\u2010dependent interactions between two loci trigger altered shoot growth in BG\u20105 \u00d7 Krotzenburg\u20100 (Kro\u20100) hybrids of Arabidopsis thaliana",
+            "pub_year": "2018",
+            "citation": "New Phytologist 217 (1), 392-406, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:BOlwja0KXvYC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9161011399831642962",
+        "cites_id": [
+            "9161011399831642962"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A single haplotype hyposensitive to light and requiring strong vernalization dominates Arabidopsis thaliana populations in Patagonia, Argentina",
+            "pub_year": "2017",
+            "citation": "Molecular ecology 26 (13), 3389-3404, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:sJPMR1oEGYQC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4033854203418225935",
+        "cites_id": [
+            "4033854203418225935"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolation, quantification, and analysis of chloroplast DNA",
+            "pub_year": "2011",
+            "citation": "Chloroplast Research in Arabidopsis: Methods and Protocols, Volume I, 151-170, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18077706917254718229",
+        "cites_id": [
+            "18077706917254718229"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The alternative reality of plant mitochondrial DNA",
+            "pub_year": "2019",
+            "citation": "BioRxiv, 564278, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:1r-w4gtu6w8C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2378957232852803777",
+        "cites_id": [
+            "2378957232852803777"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring rapid evolution of plant populations at scale with Pool-Sequencing",
+            "pub_year": "2022",
+            "citation": "BioRxiv, 2022.02. 02.477408, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:jlhcAiayVhoC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12582449920308282559",
+        "cites_id": [
+            "12582449920308282559"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Make it a Combo",
+            "pub_year": "2022",
+            "citation": "Nature Plants 8 (5), 457-458, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:nPTYJWkExTIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2567249634934066761",
+        "cites_id": [
+            "2567249634934066761"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A rainfall-manipulation experiment with 517 Arabidopsis thaliana accessions",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 186767, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:naSTrk-c4S8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11883699957895369485",
+        "cites_id": [
+            "11883699957895369485"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient analysis of allele frequency variation from whole-genome pool-sequencing data",
+            "pub_year": "2022",
+            "citation": "Population, Evolutionary, and Quantitative Genetics Conference (PEQG 2022), 99, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:PQEM9vzQD9gC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis coiled coil protein FLL2 promotes formation of liquid droplets to enhance polyadenylation",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:N4u4nq0IxgcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effect of structural variation on crossover positioning in Arabiopsis thaliana",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:pYKElYtJMmwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dose-dependent interactions between two loci trigger altered shoot growth in BG-5 x Kro-0 hybrids of Arabidopsis thaliana",
+            "pub_year": "2017",
+            "citation": "New Phytologist, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:R-LXmdHK_14C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Advances in crossover localization and QTL mapping using high-throughput sequencing",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:ymY9cBF3mdcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Demographic history and genetic diversity of modern and herbarium collections of Arabidopsis thaliana from the Southern Hemisphere",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:M0leSnx2MbUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RAPA: RaspberryPi Automated Phenotyping Array provides low-cost, scalable, automated, high-throughput, in-place phenotyping",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:hNSvKAmkeYkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wild populations of Arabidopsis thaliana from South America: a study of physiology and genetic diversity",
+            "pub_year": "2013",
+            "citation": "24th International Conference on Arabidopsis Research (ICAR 2013), 55, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:Vr2j17o0sqMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detecting climate signals in genomes: A GWA approach to find footprints of climate selection in the Arabidopsis thaliana genome using new measures of climatic variability",
+            "pub_year": "2011",
+            "citation": "13th Congress of the European Society for Evolutionary Biology (ESEB 2011), 679, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:lg2tdxc6qMwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural modifiers of hybrid necrosis in Arabidopsis thaliana",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:WwIwg2wKZ0QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombinational repair and changes in the amount and structure of chloroplast DNA during leaf development in Arabidopsis",
+            "pub_year": "2008",
+            "citation": "University of Washington, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Guide Expression and Enhanced Regeneration As Factors Affecting Genome Editing in Lettuce",
+            "citation": "Plant and Animal Genome XXIX Conference (January 8-12, 2022), 0"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:9DLIHnF0jcYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombination Generates Mitochondrial Genome Diversity in Wild and Domesticated Lettuce",
+            "citation": "Plant and Animal Genome XXVI Conference (January 13-17, 2018), 0"
+        },
+        "filled": false,
+        "author_pub_id": "KDNeeUcAAAAJ:iyewoVqAXLQC",
+        "num_citations": 0
+    }
+]

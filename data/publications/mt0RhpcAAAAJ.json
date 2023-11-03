@@ -1,0 +1,666 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Activation tagging of the floral inducer FT",
+            "pub_year": "1999",
+            "citation": "Science's STKE 286 (5446), 1962, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1654,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3782877233713964356",
+        "cites_id": [
+            "3782877233713964356"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Activation tagging in Arabidopsis",
+            "pub_year": "2000",
+            "citation": "Plant Physiology 122 (4), 1003-1014, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1223,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14641249283905079508,15970182672585549200",
+        "cites_id": [
+            "14641249283905079508",
+            "15970182672585549200"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transformation of Medicago truncatula via infiltration of seedlings or flowering plants with Agrobacterium",
+            "pub_year": "2000",
+            "citation": "The plant journal 22 (6), 531-541, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 386,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16141953740591934737",
+        "cites_id": [
+            "16141953740591934737"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Acceleration of flowering by overexpression of MFT (MOTHER OF FT AND TFL1).",
+            "pub_year": "2004",
+            "citation": "Molecules and cells 17 (1), 95, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 184,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5898651206129850128",
+        "cites_id": [
+            "5898651206129850128"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of Flowering in the Long-Day Grass Lolium temulentum by Gibberellins and the FLOWERING LOCUS T Gene",
+            "pub_year": "2006",
+            "citation": "Plant Physiology 141 (2), 498-507, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 132,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18009199231204630650",
+        "cites_id": [
+            "18009199231204630650"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Legume lectins and nodulation by Rhizobium",
+            "pub_year": "1997",
+            "citation": "Trends in plant science 2 (3), 92-98, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14479262768694903181",
+        "cites_id": [
+            "14479262768694903181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression of cysteine protease genes in pea nodule development and senescence",
+            "pub_year": "1996",
+            "citation": "MPMI-Molecular Plant Microbe Interactions 9 (8), 689-695, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:qjMakFHDy7sC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13123628889203923746",
+        "cites_id": [
+            "13123628889203923746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unidirectional diploid\u2013tetraploid introgression among British birch trees with shifting ranges shown by restriction site\u2010associated markers",
+            "pub_year": "2016",
+            "citation": "Molecular ecology 25 (11), 2413-2426, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:wUn16MOA3RoC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17004661392988913361,9781529701525858932",
+        "cites_id": [
+            "17004661392988913361",
+            "9781529701525858932"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of a new pea gene, PsNlec1, encoding a lectin-like glycoprotein isolated from the symbiosomes of root nodules",
+            "pub_year": "1996",
+            "citation": "Plant physiology 111 (1), 49-60, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13448373134828158561",
+        "cites_id": [
+            "13448373134828158561"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The pea late nodulin gene PsNOD6 is homologous to the early nodulin genes PsENOD3/14 and is expressed after the leghaemoglobin genes",
+            "pub_year": "1993",
+            "citation": "Plant molecular biology 23 (5), 1029-1037, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3107871356605631464",
+        "cites_id": [
+            "3107871356605631464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flowering locus T (FT) and genetically modified plants having delayed flower development",
+            "pub_year": "2004",
+            "citation": "US Patent 6,713,663, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13765846266601874075",
+        "cites_id": [
+            "13765846266601874075"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A 200 bp region of the pea ENOD12 promoter is sufficient for nodule-specific and Nod factor induced expression",
+            "pub_year": "1995",
+            "citation": "Plant molecular biology 28 (6), 1103-1110, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=241537732858362445",
+        "cites_id": [
+            "241537732858362445"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Localization of lipoxygenase proteins and mRNA in pea nodules: Identification of lipoxygenase in the lumen of infection threads",
+            "pub_year": "1996",
+            "citation": "MPMI-Molecular Plant Microbe Interactions 9 (4), 282-289, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5434202959996277161",
+        "cites_id": [
+            "5434202959996277161"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Symbiotic gene sym31 controls the presence of a lectinlike glycoprotein in the symbiosome compartment of nitrogen-fixing pea nodules",
+            "pub_year": "1998",
+            "citation": "Molecular plant-microbe interactions 11 (9), 915-923, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15264265193707215882",
+        "cites_id": [
+            "15264265193707215882"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Immunolocalization of PsNLEC-1, a lectin-like glycoprotein expressed in developing pea nodules",
+            "pub_year": "1997",
+            "citation": "Plant physiology 115 (4), 1431-1442, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13126661705369947044",
+        "cites_id": [
+            "13126661705369947044"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flowering locus T (FT) and genetically modified plants having modulated flower development",
+            "pub_year": "2001",
+            "citation": "US Patent 6,225,530, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:ufrVoPGSRksC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10922902794336721663",
+        "cites_id": [
+            "10922902794336721663"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanisms of cell and tissue invasion by Rhizobium leguminosarum: the role of cell surface interactions",
+            "pub_year": "1993",
+            "citation": "Current Plant Science and Biotechnology in Agriculture Advances in Molecular \u2026, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:WF5omc3nYNoC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=573901390409004674",
+        "cites_id": [
+            "573901390409004674"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bacterial and plant glycoconjugates at the Rhizobium-legume interface.",
+            "pub_year": "1994",
+            "citation": "Biochemical Society symposium 60, 61, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14678311962836362616",
+        "cites_id": [
+            "14678311962836362616"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative Genomics and Functional Characterisation of the GIGANTEA Gene from the Temperate Forage Perennial Ryegrass Lolium perenne",
+            "pub_year": "2015",
+            "citation": "Plant molecular biology reporter 33, 1098-1106, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:r0BpntZqJG4C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16362395176952866846",
+        "cites_id": [
+            "16362395176952866846"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differentiation of the symbiosome compartment in pea nodule cells",
+            "pub_year": "1995",
+            "citation": "Nitrogen Fixation: Fundamentals and Applications. IA Tikhonovich, NA \u2026, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2818702393401476113",
+        "cites_id": [
+            "2818702393401476113"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Symbiosomes under control of plant and microsymbiont genes",
+            "pub_year": "1995",
+            "citation": "Nitrogen fixation: fundamentals and applications: proceedings of the 10th \u2026, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:8k81kl-MbHgC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13364039385529587157",
+        "cites_id": [
+            "13364039385529587157"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanisms involved in early nodulin gene expression.",
+            "pub_year": "1991",
+            "citation": "Abstract 3rd Int. Congr. Molecular biology of plant growth and development \u2026, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:IWHjjKOFINEC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9978615721202264777",
+        "cites_id": [
+            "9978615721202264777"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Semiquantitative analysis of Arabidopsis RNA by reverse transcription followed by PCR using mimics",
+            "pub_year": "2009",
+            "citation": "Cold Spring Harbor Protocols 2009 (9), pdb. prot5297, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:Se3iqnhoufwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4655121962246347216",
+        "cites_id": [
+            "4655121962246347216"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new Lectin-Type Glycoprotein Identified in the Peribacteroid Fluid of Pea Nodules",
+            "pub_year": "1995",
+            "citation": "Advances in Molecular Genetics of Plant-Microbe Interactions, 139-142, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:5nxA0vEk-isC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12489134692211791271",
+        "cites_id": [
+            "12489134692211791271"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Rhizobium-legume interface in pea root nodules: studies of nodulins, glycoproteins and proteases",
+            "pub_year": "1995",
+            "citation": "Ph. D. thesis, University of East Anglia, Norwich. UK, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12257269449486502012",
+        "cites_id": [
+            "12257269449486502012"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding sheep baa\u2010haviour: Investigating the relationship between pasture and animal grazing patterns",
+            "pub_year": "2022",
+            "citation": "Grassland Research 1 (3), 143-156, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:9DLIHnF0jcYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12690350362358538527",
+        "cites_id": [
+            "12690350362358538527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "381 smart farming for extensive grazing ruminant production systems",
+            "pub_year": "2020",
+            "citation": "Journal of Animal Science 98 (Supplement_4), 139-140, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:nPTYJWkExTIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11382503009624480014",
+        "cites_id": [
+            "11382503009624480014"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FLOWERING INHIBITION",
+            "pub_year": "2004",
+            "citation": "WO Patent WO/2004/101,792, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:aqlVkmm33-oC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14907586514266812521,6344929069348787516",
+        "cites_id": [
+            "14907586514266812521",
+            "6344929069348787516"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "L. BOLANOS, N. DONOVAN, BK DR\u00f8BAK. John Innes Institute, Colney Lane Norwich, NR47UH, UK.",
+            "pub_year": "2013",
+            "citation": "Advances in Molecular Genetics of Plant-Microbe Interactions, Vol. 2 \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:m4fbC6XIj1kC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "John Innes Centre, Norwich, NR4 7UH, Great Britain.",
+            "pub_year": "2012",
+            "citation": "Nitrogen Fixation: Fundamentals and Applications: Proceedings of the 10th \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:2vr6o8x5NLkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FLOWERING INDUCTION",
+            "pub_year": "2009",
+            "citation": "EP Patent 1,627,063, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:4TOpqqG69KYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards Understanding Photoperiodic Response in Grasses",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:hNSvKAmkeYkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FLOWERING INDUCTION",
+            "pub_year": "2004",
+            "citation": "WO Patent WO/2004/101,791, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:4DMP91E08xMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PLANT TRANSFORMATION PROCESS",
+            "pub_year": "2000",
+            "citation": "WO Patent WO/2000/063,400, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genes controlling the initiation and patterning of flowers",
+            "pub_year": "1997",
+            "citation": "DEVELOPMENTAL BIOLOGY 186 (2), S37-S37, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:qUcmZB5y_30C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flower Development in Weeds and Trees",
+            "pub_year": "1996",
+            "citation": "Plant Physiology Rockville 111 (2 suppl.), 1996"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HOST-CELL RESPONSES TO INVASION BY RHIZOBIUM DURING PEA NODULE DEVELOPMENT",
+            "pub_year": "1995",
+            "citation": "JOURNAL OF CELLULAR BIOCHEMISTRY, 441-441, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u0391 NEW LECTIN-TYPE GLYCOPROTEIN PERIBACTEROID FLUID OF PEA NODULES.",
+            "pub_year": "1994",
+            "citation": "Advances in Molecular Genetics of Plant-Microbe Interactions: Vol. 3 \u2026, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:M0leSnx2MbUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoter analysis of PsENOD12 in transgenic Vicia hirsuta nodules.",
+            "pub_year": "1994",
+            "citation": "Abstractbook 4th Int. Congr. Plant Molecular Biology, Amsterdam, 1791-1791, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:yY3RG6sOEgwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Small cysteine-rich nodulins in pea nodule development.",
+            "pub_year": "1992",
+            "citation": "Abstract 9th Int. Congr. Nitrogen fixation, Cancun, Mexico, 240-240, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:wSy_KLzO7YEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoter studies of ENOD12 early nodulin genes of pea (Pisum sativum).",
+            "pub_year": "1991",
+            "citation": "Abstract 3rd Int. Congr. Molecular biology of plant growth and development \u2026, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:AZju0d2GQJ0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Induction of early nodulin gene expression by Rhizobium nod factors.",
+            "pub_year": "1991",
+            "citation": "Abstract 20th Ann. Meeting Keystone Symp. Molecular and cellular biology, C \u2026, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:Og1tA8FjbJAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genes of pea (Pisum sativum) forming the symbiotic association with nitrogen-fixing bacteria. II. The nucleotide sequences of the cDNA and of the part of genomic DNA of late \u2026",
+            "pub_year": "1991",
+            "citation": "Molekuljarnaja biologija 25 (6), 1991"
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:dhFuZR0502QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Controlled flowering project for Lolium perenne at Agresearch: an overview",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:n3vGvpFsckwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Localization of Lipoxygenase Proteins and mRNA in Pea Nodules: ldentification of Lipoxygenase",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:m92CDrhVnKEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BIOCHEMISTRY AND MACROMOLECULAR STRUCTURE",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "mt0RhpcAAAAJ:eI34FqJmdUoC",
+        "num_citations": 0
+    }
+]

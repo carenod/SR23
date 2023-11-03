@@ -1,0 +1,659 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conservation of B-class floral homeotic gene function between maize and Arabidopsis",
+            "pub_year": "2004",
+            "citation": "Oxford University Press for The Company of Biologists Limited 131 (24), 6083 \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 237,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10116961074494400986",
+        "cites_id": [
+            "10116961074494400986"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The maize SBP-box transcription factor encoded by tasselsheath4 regulates bract development and the establishment of meristem boundaries",
+            "pub_year": "2010",
+            "citation": "Development 137 (8), 1243-1250, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 224,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18097274087578379125",
+        "cites_id": [
+            "18097274087578379125"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "grassy tillers1 promotes apical dominance in maize and responds to shade signals in the grasses",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (33), E506-E512, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 218,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16701303710453320370",
+        "cites_id": [
+            "16701303710453320370"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "bearded-ear encodes a MADS box transcription factor critical for maize floral development",
+            "pub_year": "2009",
+            "citation": "The Plant Cell 21 (9), 2578-2590, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 144,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8614918449896024601",
+        "cites_id": [
+            "8614918449896024601"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conservation of B class gene expression in the second whorl of a basal grass and outgroups links the origin of lodicules and petals",
+            "pub_year": "2007",
+            "citation": "Proceedings of the National Academy of Sciences 104 (3), 1081-1086, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13389117870234323261",
+        "cites_id": [
+            "13389117870234323261"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From many, one: genetic control of prolificacy during maize domestication",
+            "pub_year": "2013",
+            "citation": "PLoS genetics 9 (6), e1003604, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6107325531042162678",
+        "cites_id": [
+            "6107325531042162678"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The regulatory landscape of a core maize domestication module controlling bud dormancy and growth repression",
+            "pub_year": "2019",
+            "citation": "Nature communications 10 (1), 3810, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10207431912141374522",
+        "cites_id": [
+            "10207431912141374522"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A conserved mechanism of bract suppression in the grass family",
+            "pub_year": "2010",
+            "citation": "The Plant Cell 22 (3), 565-578, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15802042315450140111",
+        "cites_id": [
+            "15802042315450140111"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BARREN STALK FASTIGIATE1 is an AT-hook protein required for the formation of maize ears",
+            "pub_year": "2011",
+            "citation": "The Plant Cell 23 (5), 1756-1771, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14378214194672413884",
+        "cites_id": [
+            "14378214194672413884"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Early inflorescence development in the grasses (Poaceae)",
+            "pub_year": "2013",
+            "citation": "Frontiers in Plant Science 4, 250, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5320022286586860660",
+        "cites_id": [
+            "5320022286586860660"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Grass inflorescence architecture and meristem determinacy",
+            "pub_year": "2018",
+            "citation": "Seminars in Cell & Developmental Biology 79, 37-47, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6645175701782954161",
+        "cites_id": [
+            "6645175701782954161"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Altered expression of maize PLASTOCHRON1 enhances biomass and seed yield by extending cell division duration",
+            "pub_year": "2017",
+            "citation": "Nature Communications 8 (1), 14752, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:UebtZRa9Y70C",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16942341770106025482",
+        "cites_id": [
+            "16942341770106025482"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bulked-segregant analysis coupled to whole genome sequencing (BSA-Seq) for rapid gene cloning in maize",
+            "pub_year": "2018",
+            "citation": "G3: Genes, Genomes, Genetics 8 (11), 3583-3592, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1846775300047951845",
+        "cites_id": [
+            "1846775300047951845"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Grass inflorescence architecture and evolution: the origin of novel signaling centers",
+            "pub_year": "2017",
+            "citation": "New Phytologist 216 (2), 367-372, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11787547641373442121",
+        "cites_id": [
+            "11787547641373442121"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetics of grass flower development",
+            "pub_year": "2006",
+            "citation": "Advances in Botanical Research 44, 385-424, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:qjMakFHDy7sC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17562508095394040944",
+        "cites_id": [
+            "17562508095394040944"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Maize PI/GLO Ortholog Zmm16/sterile tassel silky ear1 Interacts with the Zygomorphy and Sex Determination Pathways in Flower Development",
+            "pub_year": "2015",
+            "citation": "The Plant Cell 27 (11), 3081-3098, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7515139420512541042",
+        "cites_id": [
+            "7515139420512541042"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prevalence and persistence of misconceptions in tree thinking",
+            "pub_year": "2016",
+            "citation": "Journal of microbiology & biology education 17 (3), 389-398, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:_kc_bZDykSQC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4528693299918446112",
+        "cites_id": [
+            "4528693299918446112"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary dynamics of floral homeotic transcription factor protein\u2013protein interactions",
+            "pub_year": "2016",
+            "citation": "Molecular Biology and Evolution 33 (6), 1486-1501, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3054073185647549197",
+        "cites_id": [
+            "3054073185647549197"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary variation in MADS box dimerization affects floral development and protein abundance in maize",
+            "pub_year": "2020",
+            "citation": "Plant Cell 32 (11), 3408-3424, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:4DMP91E08xMC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5616022280190659513",
+        "cites_id": [
+            "5616022280190659513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Positional cloning in maize (Zea mays subsp. mays, Poaceae)",
+            "pub_year": "2015",
+            "citation": "Applications in Plant Sciences 3 (1), 1400092, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:WF5omc3nYNoC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16408905940967240386",
+        "cites_id": [
+            "16408905940967240386"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Defining the plant germ line\u2014nature or nurture?",
+            "pub_year": "2012",
+            "citation": "Science 337 (6092), 301-302, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9450981068363330102",
+        "cites_id": [
+            "9450981068363330102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Gene for Genetic Background in Zea mays: Fine-Mapping enhancer of teosinte branched1.2 to a YABBY Class Transcription Factor",
+            "pub_year": "2016",
+            "citation": "Genetics 204 (4), 1573-1585, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:roLk4NBRz8UC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15267635704576668848",
+        "cites_id": [
+            "15267635704576668848"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protein change in plant evolution: tracing one thread connecting molecular and phenotypic diversity",
+            "pub_year": "2013",
+            "citation": "Frontiers in plant science 4, 382, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2587118761408370732",
+        "cites_id": [
+            "2587118761408370732"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SA-SSR: a suffix array-based algorithm for exhaustive and efficient SSR discovery in large genetic sequences",
+            "pub_year": "2016",
+            "citation": "Bioinformatics 32 (17), 2707-2709, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:Se3iqnhoufwC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2265626939998335242",
+        "cites_id": [
+            "2265626939998335242"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Boundary domain genes were recruited to suppress bract growth and promote branching in maize",
+            "pub_year": "2022",
+            "citation": "Science Advances 8 (24), eabm6835, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3099756028441421344",
+        "cites_id": [
+            "3099756028441421344"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recruitment of an ancient branching program to suppress carpel development in maize flowers",
+            "pub_year": "2022",
+            "citation": "Proceedings of the National Academy of Sciences 119 (2), e2115871119, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17268373457999744660",
+        "cites_id": [
+            "17268373457999744660"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integration of high-density genetic mapping with transcriptome analysis uncovers numerous agronomic QTL and reveals candidate genes for the control of tillering in sorghum",
+            "pub_year": "2021",
+            "citation": "G3 11 (2), jkab024, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3582394186094481609",
+        "cites_id": [
+            "3582394186094481609"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development of an evolutionary tree concept inventory",
+            "pub_year": "2019",
+            "citation": "Journal of Microbiology & Biology Education 20 (2), 10.1128/jmbe. v20i2. 1700, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:aqlVkmm33-oC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18400549541434194397",
+        "cites_id": [
+            "18400549541434194397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromosome-Scale Genome Assembly of Gilia yorkii Enables Genetic Mapping of Floral Traits in an Interspecies Cross",
+            "pub_year": "2022",
+            "citation": "Genome Biology and Evolution 14 (3), evac017, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:-f6ydRqryjwC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14582969623934265466",
+        "cites_id": [
+            "14582969623934265466"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A gene for genetic background in Zea mays: fine-mapping enhancer of teosinte branched1.2 (etb1.2) to a YABBY class transcription factor",
+            "pub_year": "2016",
+            "citation": "bioRxiv, 070201, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:hC7cP41nSMkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17121531565115290513",
+        "cites_id": [
+            "17121531565115290513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recycling amino acids ensures meiosis and seed development",
+            "pub_year": "2022",
+            "citation": "Proceedings of the National Academy of Sciences of the United States of \u2026, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:TQgYirikUcIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ontogeny and anatomy of Bouteloua (Poaceae: Chloridoideae) species display a basipetal branch formation and a novel modified leaf structure in grasses",
+            "pub_year": "2022",
+            "citation": "Annals of Botany 130 (5), 737-747, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:HDshCWvjkbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Penstemon sepalulus: A Local Wildflower with a Variety of Pollinators",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:mB3voiENLucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "QTL analysis of floral traits in a novel interspecies cross in Gilia",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary variation in MADS-box dimerization affects floral development and protein stability",
+            "pub_year": "2020",
+            "citation": "Cold Spring Harbor Laboratory, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary Variation in MADS Box Dimerization Affects Floral Development and Protein Abundance in Maize",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Floral Traits Underlying Evolution in Gilia yorkii",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BSA-seq in Maize",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novelty in grass flowers: making the links between molecules and morphology",
+            "pub_year": "2017",
+            "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 57, E201-E201, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:0EnyYjriUFMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A gene for genetic background inZea mays: fine-mappingenhancer of teosinte branched1.2(etb1.2) to a YABBY class transcription factor",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:IWHjjKOFINEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wildflowers of the Mountain West",
+            "pub_year": "2013",
+            "citation": "Madro\u00f1o 60 (3), 257-257, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "B and C class MADS-box genes and the developmental genetics of maize flower development",
+            "pub_year": "2006",
+            "citation": "University of California, San Diego, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interacts with the Zygomorphy and Sex Determination Pathways in Flower DevelopmentOPEN",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:qUcmZB5y_30C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "POACEAE",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Conserved Mechanism of Bract Suppression in the Grass Family W OA",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "ChlxRoEAAAAJ:4TOpqqG69KYC",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,685 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Guard cell signal transduction",
+            "pub_year": "2001",
+            "citation": "Annual review of plant biology 52 (1), 627-658, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1436,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=385566479061925635,7235398229184423645",
+        "cites_id": [
+            "385566479061925635",
+            "7235398229184423645"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An mRNA cap binding protein, ABH1, modulates early abscisic acid signal transduction in Arabidopsis",
+            "pub_year": "2001",
+            "citation": "Cell 106 (4), 477-487, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 507,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11012809713800012967",
+        "cites_id": [
+            "11012809713800012967"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The early responses of Arabidopsis thaliana cells to cadmium exposure explored by protein and metabolite profiling analyses",
+            "pub_year": "2006",
+            "citation": "Proteomics 6 (7), 2180-2198, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 437,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2000126524945398877",
+        "cites_id": [
+            "2000126524945398877"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A circRNA from SEPALLATA3 regulates splicing of its cognate mRNA through R-loop formation",
+            "pub_year": "2017",
+            "citation": "Nature plants 3 (5), 1-5, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:5nxA0vEk-isC",
+        "num_citations": 426,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9974136191209485675",
+        "cites_id": [
+            "9974136191209485675"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide transcriptome profiling of the early cadmium response of Arabidopsis roots and shoots",
+            "pub_year": "2006",
+            "citation": "Biochimie 88 (11), 1751-1765, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 413,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1304455880778666638",
+        "cites_id": [
+            "1304455880778666638"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A proteomics dissection of Arabidopsis thaliana vacuoles isolated from cell culture",
+            "pub_year": "2007",
+            "citation": "Molecular & Cellular Proteomics 6 (3), 394-412, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:roLk4NBRz8UC",
+        "num_citations": 367,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8642262236789611446",
+        "cites_id": [
+            "8642262236789611446"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Convergence of calcium signaling pathways of pathogenic elicitors and abscisic acid in Arabidopsis guard cells",
+            "pub_year": "2002",
+            "citation": "Plant physiology 130 (4), 2152-2163, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 299,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16146343894883273866",
+        "cites_id": [
+            "16146343894883273866"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Investigating the plant response to cadmium exposure by proteomic and metabolomic approaches",
+            "pub_year": "2011",
+            "citation": "Proteomics 11 (9), 1650-1663, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:ufrVoPGSRksC",
+        "num_citations": 266,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7121234044767730799",
+        "cites_id": [
+            "7121234044767730799"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Entry of Xanthomonas campestris pv. campestris into Hydathodes of Arabidopsis thaliana Leaves: A System for Studying Early Infection Events in Bacterial \u2026",
+            "pub_year": "1998",
+            "citation": "Molecular plant-microbe interactions 11 (6), 537-543, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 136,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6395401789036618615",
+        "cites_id": [
+            "6395401789036618615"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Localization, ion channel regulation, and genetic interactions during abscisic acid signaling of the nuclear mRNA cap-binding protein, ABH1",
+            "pub_year": "2002",
+            "citation": "Plant physiology 130 (3), 1276-1287, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:UebtZRa9Y70C",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9205781151726073590",
+        "cites_id": [
+            "9205781151726073590"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular mechanisms of Evening Complex activity in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (12), 6901-6909, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5997270895713616282",
+        "cites_id": [
+            "5997270895713616282"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of Targeted Replacement of the Tomatinase Gene on the Interaction of Septoria lycopersici with Tomato Plants",
+            "pub_year": "2000",
+            "citation": "Molecular plant-microbe interactions 13 (12), 1301-1311, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9216581626456785321",
+        "cites_id": [
+            "9216581626456785321"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis putative selenium-binding protein1 expression is tightly linked to cellular sulfur demand and can reduce sensitivity to stresses requiring glutathione for tolerance",
+            "pub_year": "2009",
+            "citation": "Plant Physiology 151 (2), 768-781, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1376658765211292655",
+        "cites_id": [
+            "1376658765211292655"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tetramerization of MADS family transcription factors SEPALLATA3 and AGAMOUS is required for floral meristem determinacy in Arabidopsis",
+            "pub_year": "2018",
+            "citation": "Nucleic Acids Research 46 (10), 4966-4977, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1839389722604153373",
+        "cites_id": [
+            "1839389722604153373"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evidence for functional interaction between brassinosteroids and cadmium response in Arabidopsis thaliana",
+            "pub_year": "2012",
+            "citation": "Journal of experimental botany 63 (3), 1185-1200, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12582157678757134425",
+        "cites_id": [
+            "12582157678757134425"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis putative selenium-binding protein family: expression study and characterization of SBP1 as a potential new player in cadmium detoxification processes",
+            "pub_year": "2008",
+            "citation": "Plant physiology 147 (1), 239-251, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17363342619001539667",
+        "cites_id": [
+            "17363342619001539667"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of the plant reproduction master regulators LFY and the MADS transcription factors: the role of protein structure in the evolutionary development of the flower",
+            "pub_year": "2016",
+            "citation": "Frontiers in Plant Science 6, 1193, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:Se3iqnhoufwC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9014892039178713212",
+        "cites_id": [
+            "9014892039178713212"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural basis for plant MADS transcription factor oligomerization",
+            "pub_year": "2019",
+            "citation": "Computational and Structural Biotechnology Journal 17, 946-953, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3700812998118912365",
+        "cites_id": [
+            "3700812998118912365"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "mRNA cap binding proteins: effects on abscisic acid signal transduction, mRNA processing, and microarray analyses",
+            "pub_year": "2008",
+            "citation": "Nuclear pre-mRNA Processing in Plants, 139-150, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:WF5omc3nYNoC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6787837102502977087",
+        "cites_id": [
+            "6787837102502977087"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Induction by (alpha)-L-arabinose and (alpha)-L-rhamnose of endopolygalacturonase gene expression in Colletotrichum lindemuthianum",
+            "pub_year": "1997",
+            "citation": "Applied and environmental microbiology 63 (6), 2287-2292, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15440263395120834349",
+        "cites_id": [
+            "15440263395120834349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biochemical and biophysical characterization of the selenium-binding and reducing site in Arabidopsis thaliana homologue to mammals selenium-binding protein 1",
+            "pub_year": "2014",
+            "citation": "Journal of Biological Chemistry 289 (46), 31765-31776, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:qjMakFHDy7sC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1417707425630634535",
+        "cites_id": [
+            "1417707425630634535"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Uranium perturbs signaling and iron uptake response in Arabidopsis thaliana roots",
+            "pub_year": "2014",
+            "citation": "Metallomics 6 (4), 809-821, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11806085112766778167",
+        "cites_id": [
+            "11806085112766778167"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pioneer factors in animals and plants\u2014colonizing chromatin for gene regulation",
+            "pub_year": "2018",
+            "citation": "Molecules 23 (8), 1914, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2591486561843624843",
+        "cites_id": [
+            "2591486561843624843"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide binding of SEPALLATA3 and AGAMOUS complexes determined by sequential DNA-affinity purification sequencing",
+            "pub_year": "2020",
+            "citation": "Nucleic Acids Research 48 (17), 9637-9648, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3606138734686307862",
+        "cites_id": [
+            "3606138734686307862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The intervening domain is required for DNA-binding and functional identity of plant MADS transcription factors",
+            "pub_year": "2021",
+            "citation": "Nature Communications 12 (1), 4760, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13687427995014130692",
+        "cites_id": [
+            "13687427995014130692"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unraveling the role of MADS transcription factor complexes in apple tree dormancy",
+            "pub_year": "2021",
+            "citation": "New Phytologist 232 (5), 2071-2088, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13622983416071836898",
+        "cites_id": [
+            "13622983416071836898"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MADS transcription factors cooperate: complexities of complex formation",
+            "pub_year": "2018",
+            "citation": "Journal of Experimental Botany 69 (8), 1821-1823, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:8k81kl-MbHgC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10157106929253892254",
+        "cites_id": [
+            "10157106929253892254"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of Colletotrichum lindemuthianum endopolygalacturonase with molecular probes",
+            "pub_year": "1995",
+            "citation": "Comptes rendus de l'Acad\u00e9mie des sciences. S\u00e9rie 3, Sciences de la vie 318 \u2026, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13262313542101499393",
+        "cites_id": [
+            "13262313542101499393"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring the plant response to cadmium exposure by transcriptomic, proteomic and metabolomic approaches: potentiality of high-throughput methods, promises of integrative biology",
+            "pub_year": "2011",
+            "citation": "Metal toxicity in plants: perception, signaling and remediation, 119-142, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14171889878617372880",
+        "cites_id": [
+            "14171889878617372880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Proteomics Approach Highlights a Myriad of Transporters in the Arabidopsis thaliana Vacuolar Membrane",
+            "pub_year": "2007",
+            "citation": "Plant signaling & behavior 2 (5), 413-415, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:0EnyYjriUFMC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9523051282867981011",
+        "cites_id": [
+            "9523051282867981011"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unraveling the role of MADS transcription factor complexes in apple tree dormancy using sequential DAP-seq",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.02. 21.431301, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:aqlVkmm33-oC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3296400784449415486,16867835258186420075",
+        "cites_id": [
+            "3296400784449415486",
+            "16867835258186420075"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modulation of abscisic acid signal transduction in plants",
+            "pub_year": "2007",
+            "citation": "US Patent 7,199,285, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:4TOpqqG69KYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17113628357908968689",
+        "cites_id": [
+            "17113628357908968689"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell layer-specific expression of the B-class MADS-box gene PhDEF drives petal tube or limb development in petunia flowers",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.04. 03.438311, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13324610470103001226",
+        "cites_id": [
+            "13324610470103001226"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SEPALLATA-driven MADS transcription factor tetramerization is required for inner whorl floral organ development",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.05. 23.541941, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct roles of MADS-box complexes in the control of the dormancy cycle in apple",
+            "pub_year": "2021",
+            "citation": "10th Rosaceae Genomics Conference, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Potential role of apple SOC1-like transcription factors in gene regulatory networks involved in bud dormancy",
+            "pub_year": "2021",
+            "citation": "I International Symposium on Reproductive Biology of Fruit Tree Species 1342 \u2026, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:qUcmZB5y_30C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell layer-specific expression of the homeotic MADS-box transcription factor PhDEF contributes to modular petunia petal morphogenesis",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:HDshCWvjkbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of the Selenium binding site in A. thaliana SBP1",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:dhFuZR0502QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis thaliana putative selenium binding protein 1 (SBP1) expression is tightly linked to cellular sulfur demand and can reduce sensitivity to stresses requiring \u2026",
+            "pub_year": "2009",
+            "citation": "Plant Physiology, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:_kc_bZDykSQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CELL BIOLOGY AND SIGNAL TRANSDUCTION-Localization, Ion Channel Regulation, and Genetic Interactions during Abscisic Acid Signaling of the Nuclear mRNA Cap-Binding Protein, ABH1.",
+            "pub_year": "2002",
+            "citation": "Plant Physiology 130 (3), 1276-1287, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular characterization and expression of Colletotrichum lindemuthianum genes encoding endopolygalacturonase",
+            "pub_year": "1996",
+            "citation": "Progress in Biotechnology 14, 369-376, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression de l'endopolygalacturonase de Colletotrichum lindemuthianum race B\u00eata, cultiv\u00e9 in vitro en pr\u00e9sence de diff\u00e9rentes sources carbon\u00e9es",
+            "pub_year": "1994",
+            "citation": "Toulouse, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ELICITATION OF \u00df-1, 3-GLUCANASE IN BEAN SEEDLINGS BY ENDOPOLYGALACTURONASE OF COLLETOTRICHUM LINDEMUTHIANUM",
+            "pub_year": "1993",
+            "citation": "Mechanisms of Plant Defense Responses: Proceedings of the... 2, 179, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:Zph67rFs4hoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fernandez-Arenas, Elena, 460 FitzGerald, Garret A., 527 Frampton, Jon, 548 Fraser, Iain DC, 413 Fung, Eileen, 413",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pascal and Francis Bibliographic Databases",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LIGHT SIGNAL TRANSDUCTION AND STOMATAL OPENING",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "66U8NasAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 0
+    }
+]

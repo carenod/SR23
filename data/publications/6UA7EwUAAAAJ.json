@@ -1,0 +1,2961 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Organization, development and function of complex brain networks",
+            "pub_year": "2004",
+            "citation": "Trends in cognitive sciences 8 (9), 418-425, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 2471,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4987039892477965044,17769276493662540214",
+        "cites_id": [
+            "4987039892477965044",
+            "17769276493662540214"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scale-free brain functional networks",
+            "pub_year": "2005",
+            "citation": "Physical review letters 94 (1), 018102, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1786,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7377287419385840005",
+        "cites_id": [
+            "7377287419385840005"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Emergent complex neural dynamics",
+            "pub_year": "2010",
+            "citation": "Nature physics 6 (10), 744-750, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 1150,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10247022550404518561",
+        "cites_id": [
+            "10247022550404518561"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs",
+            "pub_year": "2014",
+            "citation": "Frontiers in human neuroscience, 20, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:bCDyRX4i8-MC",
+        "num_citations": 1051,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4809549827439015335",
+        "cites_id": [
+            "4809549827439015335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Beyond feeling: chronic pain hurts the brain, disrupting the default-mode network dynamics",
+            "pub_year": "2008",
+            "citation": "Journal of Neuroscience 28 (6), 1398-1403, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 958,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12653083898196824689,86656513372390984",
+        "cites_id": [
+            "12653083898196824689",
+            "86656513372390984"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chronic pain and the emotional brain: specific brain activity associated with spontaneous fluctuations of intensity of chronic back pain",
+            "pub_year": "2006",
+            "citation": "Journal of Neuroscience 26 (47), 12165-12173, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:qjMakFHDy7sC",
+        "num_citations": 887,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11806683652189848122,2203957430620424373",
+        "cites_id": [
+            "11806683652189848122",
+            "2203957430620424373"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Criticality in large-scale brain fMRI dynamics unveiled by a novel point process analysis",
+            "pub_year": "2012",
+            "citation": "Networking of Psychophysics, Psychology and Neurophysiology, 61, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:u9iWguZQMMsC",
+        "num_citations": 690,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12059169892958231169,17530950912278026521",
+        "cites_id": [
+            "12059169892958231169",
+            "17530950912278026521"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chronic pain patients are impaired on an emotional decision-making task",
+            "pub_year": "2004",
+            "citation": "Pain 108 (1-2), 129-136, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 654,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11271549302416229709",
+        "cites_id": [
+            "11271549302416229709"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spontaneous cortical activity in awake monkeys composed of neuronal avalanches",
+            "pub_year": "2009",
+            "citation": "Proceedings of the National Academy of Sciences 106 (37), 15921-15926, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 579,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14834585717753716513",
+        "cites_id": [
+            "14834585717753716513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain organization into resting state networks emerges at criticality on a model of the human connectome",
+            "pub_year": "2013",
+            "citation": "Physical review letters 110 (17), 178101, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 453,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14212879727217706155,16018502924167559977,8281643321904380824,416146828322769043",
+        "cites_id": [
+            "14212879727217706155",
+            "16018502924167559977",
+            "8281643321904380824",
+            "416146828322769043"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enhanced repertoire of brain dynamical states during the psychedelic experience",
+            "pub_year": "2014",
+            "citation": "Human brain mapping 35 (11), 5442-5456, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:bQkGhl1z2hUC",
+        "num_citations": 359,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10109546523072849359",
+        "cites_id": [
+            "10109546523072849359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Critical brain networks",
+            "pub_year": "2004",
+            "citation": "Physica A: Statistical Mechanics and its Applications 340 (4), 756-765, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:9Pw2l-cN0AIC",
+        "num_citations": 332,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4692898900666661596",
+        "cites_id": [
+            "4692898900666661596"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Low dimensional chaos in cardiac tissue",
+            "pub_year": "1990",
+            "citation": "Nature 343 (6259), 653-657, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 304,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2269545639446074705",
+        "cites_id": [
+            "2269545639446074705"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ising-like dynamics in large-scale functional brain networks",
+            "pub_year": "2009",
+            "citation": "Physical Review E 79 (6), 061922, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 245,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2975796377154256220",
+        "cites_id": [
+            "2975796377154256220"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain resting state is disrupted in chronic back pain patients",
+            "pub_year": "2010",
+            "citation": "Neuroscience letters 485 (1), 26-31, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 239,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14901760251379373108",
+        "cites_id": [
+            "14901760251379373108"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Non-linear dynamics of cardiac excitation and impulse propagation",
+            "pub_year": "1987",
+            "citation": "Nature 330 (6150), 749-752, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 234,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9272041612015554664",
+        "cites_id": [
+            "9272041612015554664"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustained vortex-like waves in normal isolated ventricular muscle.",
+            "pub_year": "1990",
+            "citation": "Proceedings of the National Academy of Sciences 87 (22), 8785-8789, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:WF5omc3nYNoC",
+        "num_citations": 221,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=489246681288034897",
+        "cites_id": [
+            "489246681288034897"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stochastic resonance in models of neuronal ensembles",
+            "pub_year": "1997",
+            "citation": "Physical review E 55 (2), 1798, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 218,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4772452628212554863",
+        "cites_id": [
+            "4772452628212554863"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning from mistakes",
+            "pub_year": "1999",
+            "citation": "Neuroscience 90 (4), 1137-1148, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 216,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10964514296215370570",
+        "cites_id": [
+            "10964514296215370570"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spike avalanches exhibit universal dynamics across the sleep-wake cycle",
+            "pub_year": "2010",
+            "citation": "PloS one 5 (11), e14129, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:hMod-77fHWUC",
+        "num_citations": 214,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9666859739531590043",
+        "cites_id": [
+            "9666859739531590043"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supernormal excitability as a mechanism of chaotic dynamics of activation in cardiac Purkinje fibers.",
+            "pub_year": "1990",
+            "citation": "Circulation research 66 (2), 525-545, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 214,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=784765966961852918",
+        "cites_id": [
+            "784765966961852918"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Disrupted functional connectivity of the pain network in fibromyalgia",
+            "pub_year": "2012",
+            "citation": "Psychosomatic medicine 74 (1), 55-62, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:abG-DnoFyZgC",
+        "num_citations": 209,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14319360552519692921",
+        "cites_id": [
+            "14319360552519692921"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain activity for spontaneous pain of postherpetic neuralgia and its modulation by lidocaine patch therapy",
+            "pub_year": "2007",
+            "citation": "Pain 128 (1-2), 88-100, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 206,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10438724359589300061",
+        "cites_id": [
+            "10438724359589300061"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Asymmetric unbiased fluctuations are sufficient for the operation of a correlation ratchet",
+            "pub_year": "1995",
+            "citation": "Physics Letters A 209 (1-2), 26-30, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 175,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7336052380284849672,4237515879525491057,16780941399315184997",
+        "cites_id": [
+            "7336052380284849672",
+            "4237515879525491057",
+            "16780941399315184997"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How swarms build cognitive maps",
+            "pub_year": "1995",
+            "citation": "The biology and technology of intelligent autonomous agents, 439-450, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 175,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14755062660997037086",
+        "cites_id": [
+            "14755062660997037086"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large-scale signatures of unconsciousness are consistent with a departure from critical dynamics",
+            "pub_year": "2016",
+            "citation": "Journal of The Royal Society Interface 13 (114), 20151027, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:6Dd5luMImnEC",
+        "num_citations": 174,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7442689065689799441",
+        "cites_id": [
+            "7442689065689799441"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stochastic and deterministic resonances for excitable systems",
+            "pub_year": "1998",
+            "citation": "Physical Review Letters 81 (18), 4012, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 165,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2571819137860775715",
+        "cites_id": [
+            "2571819137860775715"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pattern formation and functionality in swarm models",
+            "pub_year": "1995",
+            "citation": "Physics Letters A 207 (3-4), 185-193, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 159,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1481548048177968376",
+        "cites_id": [
+            "1481548048177968376"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Self-similar correlation function in brain resting-state functional magnetic resonance imaging",
+            "pub_year": "2011",
+            "citation": "Journal of The Royal Society Interface 8 (57), 472-479, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 155,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18246606453450134057",
+        "cites_id": [
+            "18246606453450134057"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What kind of noise is brain noise: anomalous scaling behavior of the resting brain activity fluctuations",
+            "pub_year": "2012",
+            "citation": "Frontiers in physiology 3, 307, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:tOudhMTPpwUC",
+        "num_citations": 149,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13618456403138403988,4181911040978693236",
+        "cites_id": [
+            "13618456403138403988",
+            "4181911040978693236"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modulated noisy biological dynamics: three examples",
+            "pub_year": "1993",
+            "citation": "Journal of Statistical Physics 70, 375-391, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 140,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2005777782390545304",
+        "cites_id": [
+            "2005777782390545304"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How do you feel when you can't feel your body? Interoception, functional connectivity and emotional processing in depersonalization-derealization disorder",
+            "pub_year": "2014",
+            "citation": "PloS one 9 (6), e98769, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:9hNLEifDsrsC",
+        "num_citations": 139,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17171485477230992075",
+        "cites_id": [
+            "17171485477230992075"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Directional differences in excitability and margin of safety for propagation in sheep ventricular epicardial muscle.",
+            "pub_year": "1990",
+            "citation": "Circulation research 67 (1), 97-110, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:ufrVoPGSRksC",
+        "num_citations": 133,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7435129222998896661",
+        "cites_id": [
+            "7435129222998896661"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generic excitable dynamics on a two-dimensional map",
+            "pub_year": "1995",
+            "citation": "Chaos, Solitons & Fractals 5 (3-4), 461-479, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 129,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14979600523672004829,9689584298273386220",
+        "cites_id": [
+            "14979600523672004829",
+            "9689584298273386220"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression of IL-1\u03b2 in supraspinal brain regions in rats with neuropathic pain",
+            "pub_year": "2006",
+            "citation": "Neuroscience letters 407 (2), 176-181, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 125,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9164901374508799960",
+        "cites_id": [
+            "9164901374508799960"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Altered associative learning and emotional decision making in fibromyalgia",
+            "pub_year": "2011",
+            "citation": "Journal of psychosomatic research 70 (3), 294-301, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 122,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11310665951568093388",
+        "cites_id": [
+            "11310665951568093388"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamics of pain: fractal dimension of temporal variability of spontaneous pain differentiates between pain states",
+            "pub_year": "2006",
+            "citation": "Journal of neurophysiology 95 (2), 730-736, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:Zph67rFs4hoC",
+        "num_citations": 118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5774861099757695856,7187339646644333206",
+        "cites_id": [
+            "5774861099757695856",
+            "7187339646644333206"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptive learning by extremal dynamics and negative feedback",
+            "pub_year": "2001",
+            "citation": "Physical Review E 63 (3), 031912, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:5nxA0vEk-isC",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18177679600193271977",
+        "cites_id": [
+            "18177679600193271977"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Are our senses critical?",
+            "pub_year": "2006",
+            "citation": "Nature physics 2 (5), 301-302, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 104,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4670210637833418075",
+        "cites_id": [
+            "4670210637833418075"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Noise in neurons is message dependent",
+            "pub_year": "2000",
+            "citation": "Proceedings of the National Academy of Sciences 97 (10), 5557-5561, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:roLk4NBRz8UC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10756786766906348372",
+        "cites_id": [
+            "10756786766906348372"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Subharmonic stochastic synchronization and resonance in neuronal systems",
+            "pub_year": "2002",
+            "citation": "Physical Review E 65 (5), 050902, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:IWHjjKOFINEC",
+        "num_citations": 95,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4327800769669228758",
+        "cites_id": [
+            "4327800769669228758"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scale-free functional brain networks",
+            "pub_year": "2005",
+            "citation": "Phys Rev Lett 94, 018102, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:1QLOHW2CHAAC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15470266480407491335",
+        "cites_id": [
+            "15470266480407491335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spontaneous BOLD event triggered averages for estimating functional connectivity at resting state",
+            "pub_year": "2011",
+            "citation": "Neuroscience letters 488 (2), 158-163, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14288372978129939820",
+        "cites_id": [
+            "14288372978129939820"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mitochondrial network complexity emerges from fission/fusion dynamics",
+            "pub_year": "2018",
+            "citation": "Scientific reports 8 (1), 1-10, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:3Jzcn9274UAC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10781316689792294249,16176016366029446057",
+        "cites_id": [
+            "10781316689792294249",
+            "16176016366029446057"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain network organization and social executive performance in frontotemporal dementia",
+            "pub_year": "2016",
+            "citation": "Journal of the International Neuropsychological Society 22 (2), 250-262, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:-R_Z4shfoosC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10816487143697937600,17157351810888874197",
+        "cites_id": [
+            "10816487143697937600",
+            "17157351810888874197"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Electrical restitution, critical mass, and the riddle of fibrillation",
+            "pub_year": "1999",
+            "citation": "Journal of cardiovascular electrophysiology 10, 1087-1089, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:UebtZRa9Y70C",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9989383747485387457,13590521473856941309",
+        "cites_id": [
+            "9989383747485387457",
+            "13590521473856941309"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nonlinear dynamics of rate-dependent activation in models of single cardiac cells.",
+            "pub_year": "1990",
+            "citation": "Circulation research 67 (6), 1510-1524, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:Se3iqnhoufwC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=968772612909137611",
+        "cites_id": [
+            "968772612909137611"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nonlinear Dynamics of Rate-Dependent Activation in models of single cardiac cells",
+            "pub_year": "1990",
+            "citation": "Circulation Research 157, 1510-1524, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=968772612909137611",
+        "cites_id": [
+            "968772612909137611"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How we hear what is not there: A neural mechanism for the missing fundamental illusion",
+            "pub_year": "2003",
+            "citation": "Chaos: An Interdisciplinary Journal of Nonlinear Science 13 (4), 1226-1230, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:4TOpqqG69KYC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16183016985897604178",
+        "cites_id": [
+            "16183016985897604178"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The voxel-wise functional connectome can be efficiently derived from co-activations in a sparse spatio-temporal point-process",
+            "pub_year": "2016",
+            "citation": "Frontiers in neuroscience 10, 381, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:nlmsuG0oqtYC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12393232615486436864",
+        "cites_id": [
+            "12393232615486436864"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modular organization of brain resting state networks in chronic back pain patients",
+            "pub_year": "2010",
+            "citation": "Frontiers in neuroinformatics 4, 116, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:maZDTaKrznsC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12046390817790351511",
+        "cites_id": [
+            "12046390817790351511"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Noise-induced tuning curve changes in mechanoreceptors",
+            "pub_year": "1998",
+            "citation": "Journal of neurophysiology 79 (4), 1879-1890, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:0EnyYjriUFMC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13362799467074890345",
+        "cites_id": [
+            "13362799467074890345"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Disruption of transfer entropy and inter-hemispheric brain functional connectivity in patients with disorder of consciousness",
+            "pub_year": "2013",
+            "citation": "Frontiers in Neuroinformatics 7 (24), 2013"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:FKzTm0Bp8ZYC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11680176320833068552",
+        "cites_id": [
+            "11680176320833068552"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tackling variability: A multicenter study to provide a gold\u2010standard network approach for frontotemporal dementia",
+            "pub_year": "2017",
+            "citation": "Human brain mapping 38 (8), 3804-3822, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:9i1gB6tY3MIC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5047263741394889769",
+        "cites_id": [
+            "5047263741394889769"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Critical fluctuations in the native state of proteins",
+            "pub_year": "2017",
+            "citation": "Physical review letters 118 (8), 088102, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:P1qO8dLd1z8C",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8025294928499338240,8496514467218297788,6106112896695539906",
+        "cites_id": [
+            "8025294928499338240",
+            "8496514467218297788",
+            "6106112896695539906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chaotic activity in a mathematical model of the vagally driven sinoatrial node.",
+            "pub_year": "1989",
+            "citation": "Circulation research 65 (5), 1350-1360, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:_kc_bZDykSQC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15068112286422476602",
+        "cites_id": [
+            "15068112286422476602"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The brain: what is critical about it?",
+            "pub_year": "2008",
+            "citation": "AIP Conference Proceedings 1028 (1), 28-45, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:hC7cP41nSMkC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4012725561956465984",
+        "cites_id": [
+            "4012725561956465984"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identifying directed links in large scale functional networks: application to brain fMRI",
+            "pub_year": "2007",
+            "citation": "BMC Cell Biology 8 (1), 1-10, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:aqlVkmm33-oC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=773033402039855777",
+        "cites_id": [
+            "773033402039855777"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The brain near the edge",
+            "pub_year": "2007",
+            "citation": "AIP Conference Proceedings 887 (1), 1-12, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9617159345684494899",
+        "cites_id": [
+            "9617159345684494899"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unraveling the fluctuations of animal motor activity",
+            "pub_year": "2009",
+            "citation": "Chaos: An Interdisciplinary Journal of Nonlinear Science 19 (3), 2009"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:isC4tDSrTZIC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15566082694224351716",
+        "cites_id": [
+            "15566082694224351716"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Emergent self-organized complex network topology out of stability constraints",
+            "pub_year": "2009",
+            "citation": "Physical review letters 103 (10), 108701, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2954238110783615143",
+        "cites_id": [
+            "2954238110783615143"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Age-of-onset of menopause is associated with enhanced painful and non-painful sensitivity in fibromyalgia",
+            "pub_year": "2013",
+            "citation": "Clinical rheumatology 32 (7), 975-981, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4098761622547859026",
+        "cites_id": [
+            "4098761622547859026"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spared nerve injury rats exhibit thermal hyperalgesia on an automated operant dynamic thermal escape task",
+            "pub_year": "2005",
+            "citation": "Molecular Pain 1, 1744-8069-1-18, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:HDshCWvjkbEC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12355983815443213305",
+        "cites_id": [
+            "12355983815443213305"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ghost stochastic resonance with distributed inputs in pulse-coupled electronic neurons",
+            "pub_year": "2006",
+            "citation": "Physical Review E 73 (2), 021101, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:qUcmZB5y_30C",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13815500762992164462",
+        "cites_id": [
+            "13815500762992164462"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ghost stochastic resonance in an electronic circuit",
+            "pub_year": "2006",
+            "citation": "International Journal of Bifurcation and Chaos 16 (03), 731-735, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:4DMP91E08xMC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13726744744950265936",
+        "cites_id": [
+            "13726744744950265936"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Poissonian bursts in e-mail correspondence",
+            "pub_year": "2010",
+            "citation": "The European Physical Journal B 75, 389-394, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:RGFaLdJalmkC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7632217547143390291",
+        "cites_id": [
+            "7632217547143390291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single subject pharmacological-MRI (phMRI) study: modulation of brain activity of psoriatic arthritis pain by cyclooxygenase-2 inhibitor",
+            "pub_year": "2005",
+            "citation": "Molecular Pain 1, 1744-8069-1-32, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6104969349926571748",
+        "cites_id": [
+            "6104969349926571748"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nonequilibrium fluctuation-induced phenomena in Josephson junctions",
+            "pub_year": "1996",
+            "citation": "Physical Review E 53 (3), 2239, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:8k81kl-MbHgC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10996519264518500102",
+        "cites_id": [
+            "10996519264518500102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nrf2 stabilization prevents critical oxidative damage in Down syndrome cells",
+            "pub_year": "2018",
+            "citation": "Aging Cell 17 (5), e12812, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:LTdYzzxxQecC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13379347930831023015",
+        "cites_id": [
+            "13379347930831023015"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Anticipated synchronization: A metaphorical linear view",
+            "pub_year": "2004",
+            "citation": "Chaos: An Interdisciplinary Journal of Nonlinear Science 14 (1), 7-13, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15215023114744345914",
+        "cites_id": [
+            "15215023114744345914"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of voltage-dependent biomolecules via nonequilibrium kinetic focusing",
+            "pub_year": "1996",
+            "citation": "Physical review letters 76 (3), 550, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1747919819571527992",
+        "cites_id": [
+            "1747919819571527992"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ghost resonance in a semiconductor laser with optical feedback",
+            "pub_year": "2003",
+            "citation": "Europhysics Letters 64 (2), 178, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10820393738819959314,15169242838719447496",
+        "cites_id": [
+            "10820393738819959314",
+            "15169242838719447496"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluating the reliability of neurocognitive biomarkers of neurodegenerative diseases across countries: a machine learning approach",
+            "pub_year": "2020",
+            "citation": "Neuroimage 208, 116456, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:5Hlrm_bZEgcC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15292810848224779752",
+        "cites_id": [
+            "15292810848224779752"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unhealthy surprises",
+            "pub_year": "2002",
+            "citation": "Nature 419 (6904), 263-263, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10154936885454531688",
+        "cites_id": [
+            "10154936885454531688"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Emergent complexity: what uphill analysis or downhill invention cannot do",
+            "pub_year": "2008",
+            "citation": "New Ideas in Psychology 26 (2), 158-173, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11001177055999976174",
+        "cites_id": [
+            "11001177055999976174"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heart rate dynamics in monoamine oxidase-A-and-B-deficient mice",
+            "pub_year": "2002",
+            "citation": "American Journal of Physiology-Heart and Circulatory Physiology 282 (5 \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3659074061097347128",
+        "cites_id": [
+            "3659074061097347128"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Noise-induced memory in extended excitable systems",
+            "pub_year": "2000",
+            "citation": "Physical Review E 61 (5), 5654, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5824742855860254113",
+        "cites_id": [
+            "5824742855860254113"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fibronectin rescues estrogen receptor \u03b1 from lysosomal degradation in breast cancer cells",
+            "pub_year": "2018",
+            "citation": "Journal of Cell Biology 217 (8), 2777-2798, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:ZIQyR8VWHtoC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3287738497143019773",
+        "cites_id": [
+            "3287738497143019773"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Solar forced Dansgaard\u2010Oeschger events and their phase relation with solar proxies",
+            "pub_year": "2008",
+            "citation": "Geophysical Research Letters 35 (6), 2008"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17308924481209699022",
+        "cites_id": [
+            "17308924481209699022"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ghost of stochastic resonance: an introductory review",
+            "pub_year": "2012",
+            "citation": "Contemporary Physics 53 (1), 17-38, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4558368283874241245",
+        "cites_id": [
+            "4558368283874241245"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neurologic dysfunction and genotoxicity induced by low levels of chlorpyrifos",
+            "pub_year": "2014",
+            "citation": "Neurotoxicology 45, 22-30, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:r7mTg6vxT4gC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11503592767106767806",
+        "cites_id": [
+            "11503592767106767806"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Controlling a complex system near its critical point via temporal correlations",
+            "pub_year": "2020",
+            "citation": "Scientific reports 10 (1), 12145, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:lvi_KyGYEDoC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=757175918536436189",
+        "cites_id": [
+            "757175918536436189"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Further results on why a point process is effective for estimating correlation between brain regions",
+            "pub_year": "2020",
+            "citation": "Papers in physics 12, 120003-120003, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:U6twwk6Vgq8C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12487468253277317695,12413734177030817874",
+        "cites_id": [
+            "12487468253277317695",
+            "12413734177030817874"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scaling properties of neuronal avalanches are consistent with critical dynamics",
+            "pub_year": "2009",
+            "citation": "arXiv preprint arXiv:0912.5369, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:TFP_iSt0sucC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12250012836650340070",
+        "cites_id": [
+            "12250012836650340070"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "General relation between variance-time curve and power spectral density for point processes exhibiting 1/f \u03b2-fluctuations, with special reference to heart rate \u2026",
+            "pub_year": "1995",
+            "citation": "Biological cybernetics 73, 255-263, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:mB3voiENLucC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7284162543847907214",
+        "cites_id": [
+            "7284162543847907214"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Demonstration of 1/f fluctuations and white noise in the human heart rate by the variance-time-curve: implications for self-similarity",
+            "pub_year": "1993",
+            "citation": "Fractals 1 (03), 312-320, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11841139773883077035",
+        "cites_id": [
+            "11841139773883077035"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the nonlinear equilibrium of the heart: Locking Behavior and Chaos in Purkinje Fibers.",
+            "pub_year": "1990",
+            "citation": "Cardiac electrophysiology, from the cell to the bedside, 201-214, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:NhqRSupF_l8C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16879669922596614303,14748607807548952671",
+        "cites_id": [
+            "16879669922596614303",
+            "14748607807548952671"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Life at the edge: complexity and criticality in biological function",
+            "pub_year": "2018",
+            "citation": "Acta Physica Polonica B, vol. 49, issue 12, p. 1955, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:1GSnt3Xtl_sC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9755178076686622250",
+        "cites_id": [
+            "9755178076686622250"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Critical brain dynamics at large scale",
+            "pub_year": "2014",
+            "citation": "Criticality in neural systems, 43-66, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1873230849960505680",
+        "cites_id": [
+            "1873230849960505680"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Increased baroreceptor response in mice deficient in monoamine oxidase A and B",
+            "pub_year": "2002",
+            "citation": "American Journal of Physiology-Heart and Circulatory Physiology 282 (3 \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:TQgYirikUcIC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9157689397447048684",
+        "cites_id": [
+            "9157689397447048684"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Irregular dynamics of excitation in biologic and mathematical models of cardiac cells.",
+            "pub_year": "1990",
+            "citation": "Annals of the New York Academy of Sciences 601, 281-298, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11029538202134402785",
+        "cites_id": [
+            "11029538202134402785"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extreme brain events: Higher-order statistics of brain resting activity and its relation with structural connectivity",
+            "pub_year": "2015",
+            "citation": "Europhysics Letters 111 (6), 68007, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:oR5SthnA400C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14911972235820340009",
+        "cites_id": [
+            "14911972235820340009"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain complexity born out of criticality",
+            "pub_year": "2013",
+            "citation": "AIP Conference Proceedings 1510 (1), 4-13, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6925703523247700228",
+        "cites_id": [
+            "6925703523247700228"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The collective brain",
+            "pub_year": "2011",
+            "citation": "Decision Making: A Psychophysics Application of Network Science, 57-80, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:Tiz5es2fbqcC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=844800008002944641,6057138089415863995",
+        "cites_id": [
+            "844800008002944641",
+            "6057138089415863995"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A simple conceptual model of abrupt glacial climate events",
+            "pub_year": "2007",
+            "citation": "Nonlinear Processes in Geophysics 14 (6), 709-721, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10032333790275264434",
+        "cites_id": [
+            "10032333790275264434"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From synaptic interactions to collective dynamics in random neuronal networks models: critical role of eigenvectors and transient behavior",
+            "pub_year": "2020",
+            "citation": "Neural Computation 32 (2), 395-423, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:7ioeYXKzaWoC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10044968361851355080",
+        "cites_id": [
+            "10044968361851355080"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Universal and nonuniversal neural dynamics on small world connectomes: A finite-size scaling analysis",
+            "pub_year": "2019",
+            "citation": "Physical Review E 100 (5), 052138, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:0t1ZDozeHsAC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11803318909150744338,10377137459326580714",
+        "cites_id": [
+            "11803318909150744338",
+            "10377137459326580714"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Toward Very Simple Generic Models of Excitable Cells. Order and Chaos in Cardiac Tissues. Facts and Conjecturesa",
+            "pub_year": "1990",
+            "citation": "Annals of the New York Academy of Sciences 591 (1), 351-366, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:dhFuZR0502QC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6954004519748620766",
+        "cites_id": [
+            "6954004519748620766"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Observing changes in human functioning during induced sleep deficiency and recovery periods",
+            "pub_year": "2021",
+            "citation": "PLoS one 16 (9), e0255771, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:8PKVFmgK5mUC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16135765254197258280",
+        "cites_id": [
+            "16135765254197258280"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scale-free fluctuations in behavioral performance: Delineating changes in spontaneous behavior of humans with induced sleep deficiency",
+            "pub_year": "2014",
+            "citation": "PLoS One 9 (9), e107542, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:dpaHy1TF288C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7742746124154872775",
+        "cites_id": [
+            "7742746124154872775"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The environmental pollutant endosulfan disrupts cerebral cortical function at low doses",
+            "pub_year": "2011",
+            "citation": "Neurotoxicology 32 (1), 31-37, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6746549013336342288",
+        "cites_id": [
+            "6746549013336342288"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How we move is universal: scaling in the average shape of human activity",
+            "pub_year": "2015",
+            "citation": "Papers in physics 7 (2), 0-0, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:PQYwNx7RetkC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1704300797119512885",
+        "cites_id": [
+            "1704300797119512885"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large scale-invariant fluctuations in normal blood cell counts: A sign of criticality?",
+            "pub_year": "2000",
+            "citation": "Fractals 8 (03), 279-283, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=432535028594611917",
+        "cites_id": [
+            "432535028594611917"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fluctuation-induced transport in a periodic potential: noise versus chaos",
+            "pub_year": "1997",
+            "citation": "Physical review letters 78 (8), 1605, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:-f6ydRqryjwC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8231626272865924703",
+        "cites_id": [
+            "8231626272865924703"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Low-dose cholinesterase inhibitors do not induce delayed effects on cerebral blood flow and metabolism",
+            "pub_year": "2005",
+            "citation": "Pharmacology Biochemistry and Behavior 80 (4), 529-540, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5283901169764855857",
+        "cites_id": [
+            "5283901169764855857"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scale-free dynamics in animal groups and brain networks",
+            "pub_year": "2020",
+            "citation": "Frontiers in Systems Neuroscience, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:gNsIjQZ6FscC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3530639920749251191",
+        "cites_id": [
+            "3530639920749251191"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The shadows of pain",
+            "pub_year": "2006",
+            "citation": "Pain 123 (3), 221-222, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2064576144021216411",
+        "cites_id": [
+            "2064576144021216411"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Box scaling as a proxy of finite size correlations",
+            "pub_year": "2021",
+            "citation": "Scientific Reports 11 (1), 15937, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:i_ypWuZoRC8C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3164941403824164855",
+        "cites_id": [
+            "3164941403824164855"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Trial-by-trial variability in cortical responses exhibits scaling in spatial correlations predicted from critical dynamics",
+            "pub_year": "2020",
+            "citation": "BioRxiv, 2020.07. 01.182014, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:LoiWQfKZB3kC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1893626023082282134",
+        "cites_id": [
+            "1893626023082282134"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flattened cortical maps of cerebral function in the rat: a region-of-interest approach to data sampling, analysis and display",
+            "pub_year": "2008",
+            "citation": "Neuroscience letters 434 (2), 179-184, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10813999038574251334",
+        "cites_id": [
+            "10813999038574251334"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Strobing brain thunders: Functional correlation of extreme activity events",
+            "pub_year": "2013",
+            "citation": "Chaos, Solitons & Fractals 55, 102-108, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:tkaPQYYpVKoC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10120015055003678359",
+        "cites_id": [
+            "10120015055003678359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Noise in Physical Systems and 1/f Fluctuations",
+            "pub_year": "1993",
+            "citation": "AIP Conf. Proc 285, 549, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:QAsQKsfVUN4C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14019981167517961436",
+        "cites_id": [
+            "14019981167517961436"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamics of Synchronization in the Sinoatrial Nodea",
+            "pub_year": "1990",
+            "citation": "Annals of the New York Academy of Sciences 591 (1), 154-165, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:k_IJM867U9cC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12190270396078164954",
+        "cites_id": [
+            "12190270396078164954"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inflammatory and neuropathic pain animals exhibit distinct responses to innocuous thermal and motoric challenges",
+            "pub_year": "2006",
+            "citation": "Molecular Pain 2, 1744-8069-2-1, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:BqipwSGYUEgC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3349300246734168862",
+        "cites_id": [
+            "3349300246734168862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "1/f\u03b1 Power spectral density of the cardiac QRS complex is not associated with a fractal Purkinje system",
+            "pub_year": "1991",
+            "citation": "Biophysical journal 60 (5), 1303, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12166283627224539884",
+        "cites_id": [
+            "12166283627224539884"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian rhythms of heart rate and locomotion after treatment with low\u2010dose acetylcholinesterase inhibitors",
+            "pub_year": "2006",
+            "citation": "Journal of Applied Toxicology: An International Journal 26 (5), 410-418, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6109485644256237623",
+        "cites_id": [
+            "6109485644256237623"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the problem of anisotropic propagation in ventricular muscle",
+            "pub_year": "1989",
+            "citation": "Lethal Arrhythmias Resulting from Myocardial Ischemia and Infarction \u2026, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=914450701145973998",
+        "cites_id": [
+            "914450701145973998"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Similar local neuronal dynamics may lead to different collective behavior",
+            "pub_year": "2021",
+            "citation": "Physical Review E 104 (6), 064309, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:8igAKu_hPxwC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10170070465824439468,10275297643036116152,850467185134636858",
+        "cites_id": [
+            "10170070465824439468",
+            "10275297643036116152",
+            "850467185134636858"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the pros and cons of using temporal derivatives to assess brain functional connectivity",
+            "pub_year": "2019",
+            "citation": "Neuroimage 184, 577-585, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:nvAonm6-wpUC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17035008503799933329",
+        "cites_id": [
+            "17035008503799933329"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How ants move: individual and collective scaling properties",
+            "pub_year": "2018",
+            "citation": "Journal of The Royal Society Interface 15 (143), 20180223, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:6uOcHTua4cQC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15553682864018162257,3010473747316924541",
+        "cites_id": [
+            "15553682864018162257",
+            "3010473747316924541"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dendritic complexity and the evolution of cerebellar purkinje cells",
+            "pub_year": "1994",
+            "citation": "Fractals 2 (01), 95-102, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8759809602820386718",
+        "cites_id": [
+            "8759809602820386718"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Noise sampled signal transmission in an array of Schmitt triggers",
+            "pub_year": "1993",
+            "citation": "AIP Conference Proceedings 285 (1), 549-552, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:r0BpntZqJG4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15439717204084749318",
+        "cites_id": [
+            "15439717204084749318"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping \u201csameness\u201d into \u201cneighborness\u201d",
+            "pub_year": "1997",
+            "citation": "Fractal frontiers, 23-29, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15186639813754671344",
+        "cites_id": [
+            "15186639813754671344"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Low-dimensional dynamics in cardiac tissues: experiments and theory",
+            "pub_year": "1993",
+            "citation": "Chaos in biology and Medicine 2036, 2-9, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:blknAaTinKkC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1463508307012507949",
+        "cites_id": [
+            "1463508307012507949"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Seeking a fingerprint: analysis of point processes in actigraphy recording",
+            "pub_year": "2016",
+            "citation": "Journal of Statistical Mechanics: Theory and Experiment 2016 (5), 054034, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:Ui6Ig_dFDbcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15319106513975150041",
+        "cites_id": [
+            "15319106513975150041"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Illusions and Ghost Resonances: How We Could See What Isn\u2019t There",
+            "pub_year": "2003",
+            "citation": "AIP Conference Proceedings 665 (1), 43-50, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5169775899027320960",
+        "cites_id": [
+            "5169775899027320960"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Revisiting nonlinear functional brain co-activations: directed, dynamic, and delayed",
+            "pub_year": "2021",
+            "citation": "Frontiers in Neuroscience 15, 700171, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:_8B_re9sV0EC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2357184531314349533",
+        "cites_id": [
+            "2357184531314349533"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "La mente es cr\u00edtica: descubriendo la admirable complejidad del cerebro",
+            "pub_year": "2017",
+            "citation": "La mente es cr\u00edtica, 1-256, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:gmhHX4scLhsC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13343791267069210475,8805002681507992769,16398507209457860033",
+        "cites_id": [
+            "13343791267069210475",
+            "8805002681507992769",
+            "16398507209457860033"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Morphology and microchemistry of the otoliths of the inner ear of anuran larvae",
+            "pub_year": "2016",
+            "citation": "Hearing Research 335, 47-52, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:nIr65G9GQVgC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4013163001388005525",
+        "cites_id": [
+            "4013163001388005525"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Emergent critical brain dynamics",
+            "pub_year": "2013",
+            "citation": "CHAOS SOLITONS & FRACTALS 55, 1-2, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:84Dmd_oSKgsC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11056418210967776726",
+        "cites_id": [
+            "11056418210967776726"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A simple conceptual model to interpret the 100 000 years dynamics of paleo-climate records",
+            "pub_year": "2010",
+            "citation": "Nonlinear Processes in Geophysics 17 (5), 585-592, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12665893377424996478",
+        "cites_id": [
+            "12665893377424996478"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "One more reason why neurons need to be noisy",
+            "pub_year": "1993",
+            "citation": "Chaos in Biology and Medicine 2036, 57-63, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:lSLTfruPkqcC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=193240949604639249",
+        "cites_id": [
+            "193240949604639249"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tricritical behavior in a neural model with excitatory and inhibitory units",
+            "pub_year": "2022",
+            "citation": "Physical Review E 106 (5), 054140, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:EupYgYwc-6gC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14896713122420792838",
+        "cites_id": [
+            "14896713122420792838"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Universal dynamics of mitochondrial networks: a finite-size scaling analysis",
+            "pub_year": "2022",
+            "citation": "Scientific Reports 12 (1), 17074, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:FXgMSCUEOHUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7210262877437324985",
+        "cites_id": [
+            "7210262877437324985"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bifurcations in a simple hydraulic oscillator: the'Tantalus' cup'",
+            "pub_year": "1991",
+            "citation": "European Journal of Physics 12 (6), 297, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3096844985224613835",
+        "cites_id": [
+            "3096844985224613835"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nonlinear dynamics and ionic mechanisms of excitation patterns in models of the cardiac myocyte",
+            "pub_year": "1991",
+            "citation": "Nonlinear Wave Processes in Excitable Media, 295-312, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:ldfaerwXgEUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4675672667526834917",
+        "cites_id": [
+            "4675672667526834917"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning by mistakes in memristor networks",
+            "pub_year": "2022",
+            "citation": "Physical Review E 105 (5), 054306, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:Lmuc1furtc4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1312954995593219299,16967440908608071978",
+        "cites_id": [
+            "1312954995593219299",
+            "16967440908608071978"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Non-linear functional brain co-activations in short-term memory distortion tasks",
+            "pub_year": "2021",
+            "citation": "Frontiers in Neuroscience 15, 778242, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:H8Dy_DhitWcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17226964803981108724",
+        "cites_id": [
+            "17226964803981108724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Invited review: Fluctuation-induced transport. From the very small to the very large scales",
+            "pub_year": "2016",
+            "citation": "Papers in Physics 8 (080004), 2016"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:yY8dUDjMDt8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9555201104879099002",
+        "cites_id": [
+            "9555201104879099002"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Apparatus and method for pain measurement",
+            "pub_year": "2006",
+            "citation": "US Patent App. 10/906,125, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16153685013038291399",
+        "cites_id": [
+            "16153685013038291399"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "So, what brain areas are specific for pain perception",
+            "pub_year": "2006",
+            "citation": "Neurosci Abstr 445, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13132778206036527148",
+        "cites_id": [
+            "13132778206036527148"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CHAOTIC DYNAMICS OF REPETITIVE VAGAL CONTROL OF THE SINUS NODE-A MATHEMATICAL-MODEL",
+            "pub_year": "1988",
+            "citation": "BIOPHYSICAL JOURNAL 53 (2), A160-A160, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:auQHJw8QJBgC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14715313782734132668",
+        "cites_id": [
+            "14715313782734132668"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parabolic avalanche scaling in the synchronization of cortical cell assemblies",
+            "pub_year": "2023",
+            "citation": "Nature Communications 14 (1), 2555, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:hMwNgRnlwaMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7801586221681020201",
+        "cites_id": [
+            "7801586221681020201"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scale-free correlations in the dynamics of a small (N~ 10000) cortical network",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2206.07797, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:Fla6ZGMkO9sC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10497119988611311743",
+        "cites_id": [
+            "10497119988611311743"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effects of a 10-day partial sleep deprivation and the following recovery on cognitive functioning\u2013a behavioural and eeg study",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 666396, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:AOgtTcItT4oC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14874494270945359745",
+        "cites_id": [
+            "14874494270945359745"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Classifying attention deficit hyperactivity disorder in children with non-linearities in actigraphy",
+            "pub_year": "2019",
+            "citation": "arXiv preprint arXiv:1902.03530, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:mqGkWRiPAHEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3008697147814423501",
+        "cites_id": [
+            "3008697147814423501"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "La complejidad del cerebro, el delicado y robusto balance entre orden y anarqu\u00eda",
+            "pub_year": "2018",
+            "citation": "http://aargentinapciencias.org/wp-content/uploads/2018/06/1-Chialvo-cei68-3 \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:rPbfW60zdgkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12093724243609484131",
+        "cites_id": [
+            "12093724243609484131"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Point-process deconvolution of fMRI reveals effective connectivity alterations in chronic pain patients",
+            "pub_year": "2013",
+            "citation": "arXiv preprint arXiv:1310.8357, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:dTyEYWd-f8wC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17765314811478805091",
+        "cites_id": [
+            "17765314811478805091"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "External noise in semiconductor lasers",
+            "pub_year": "2004",
+            "citation": "Fluctuations and Noise in Photonics and Quantum Optics II 5468, 118-132, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=59625248757756979",
+        "cites_id": [
+            "59625248757756979"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PERIOD DOUBLING AND IRREGULAR DYNAMICS OF PROPAGATION IN CARDIAC PURKINJE-FIBERS",
+            "pub_year": "1987",
+            "citation": "BIOPHYSICAL JOURNAL 51 (2), A255-A255, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:WqliGbK-hY8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10808264246550559024",
+        "cites_id": [
+            "10808264246550559024"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How ants move: collective versus individual scaling properties",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:de6HPdfwrHoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4666825021499439697",
+        "cites_id": [
+            "4666825021499439697"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamically altered conductance in an Organic Thin Film Memristive Device",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2305.13466, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:ECJ25tEN_EwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Self-tuned criticality: Controlling a neuron near its bifurcation point via temporal correlations",
+            "pub_year": "2023",
+            "citation": "Physical Review E 107 (3), 034204, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:QUYzkoTeugQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Finite-size correlation behavior near a critical point: A simple metric for monitoring the state of a neural network",
+            "pub_year": "2022",
+            "citation": "Physical Review E 106 (5), 054313, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:WxjA8IQWSGYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scale free density and correlations fluctuations in the dynamics of large microbial ecosystems",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2206.12384, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:sAujV351FBYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Controlling a neuron near its bifurcation point via temporal correlations",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2206.10000, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:ktX0m338QuYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Untangling the brain web: from the early days of complex functional networks to the non-linear dynamical directed functional connectivity measures",
+            "pub_year": "2021",
+            "citation": "arXiv preprint arXiv:2112.09806, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:VfMbra648c4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interoception, Functional Connectivity and Emotional Processing in Depersonalization-Derealization Disorder",
+            "pub_year": "2018",
+            "citation": "Acta psiquia\u0301trica y psicolo\u0301gica de Ame\u0301rica Latina. 64 (2), 111-135, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:9N3KX2BFTccC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A few points suffice: Efficient large-scale computation of brain voxel-wise functional connectomes from a sparse spatio-temporal point-process",
+            "pub_year": "2014",
+            "citation": "arXiv preprint arXiv:1409.6378, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:zxzvZ9-XIW8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What kind of noise is brain noise: Anomalous scaling behavior of the resting brain activity fluctuations",
+            "pub_year": "2012",
+            "citation": "Frontiers Media, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:H3xT48m3F74C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FUNCTIONAL COLLECTIVITY OF COMPLEX BRAIN NETWORKS",
+            "pub_year": "2010",
+            "citation": "Complex Networks, 234, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:Krx7gcWaa4oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generic dynamics at criticality links brain structure to function",
+            "pub_year": "2009",
+            "citation": "Phys Rev E 79 (061922), 2009"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:9QTmwX2E1jEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phantom Stochastic Resonance",
+            "pub_year": "2008",
+            "citation": "Stochastic Resonance 2008, 14-14, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:N4e_798Z1OgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Repetitive Ad nociceptive stimulation uniquely activates anterior cingulate cortex but fails to potentiate pain perception",
+            "pub_year": "2006",
+            "citation": "JOURNAL OF PSYCHOPHYSIOLOGY 20 (3), 242-242, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:olpn-zPbct0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain activity for modulation of allodynia by topical lidocaine in post-herpetic neuropathy",
+            "pub_year": "2005",
+            "citation": "The Journal of Pain 6 (3), S49, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:_xSYboBqXhAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ghost resonance in coupled lasers",
+            "pub_year": "2004",
+            "citation": "AIP Conference Proceedings 742 (1), 247-252, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ghost resonance in a semiconductor laser operating in an excitable regime",
+            "pub_year": "2003",
+            "citation": "Fluctuations and Noise in Photonics and Quantum Optics 5111, 118-125, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Delayed effects of low-dose cholinesterase inhibitors on cardiovascular regulation",
+            "pub_year": "2003",
+            "citation": "FASEB JOURNAL 17 (5), A875-A875, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:1qzjygNMrQYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ghost stochastic resonance as a mechanism for the missing fundamental illusion and the perception of pitch",
+            "pub_year": "2003",
+            "citation": "FASEB JOURNAL 17 (4), A555-A555, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:t6usbXjVLHcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The relationship between plantar pressure and plantar kin perfusion in diabetic peripheral neuropathy older adults",
+            "pub_year": "2003",
+            "citation": "FASEB JOURNAL 17 (4), A127-A127, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:J-pR_7NvFogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AlgoTrack\u201d: A Novel thermal algesia assessment tool",
+            "pub_year": "2001",
+            "citation": "Society for Neuroscience Abstract, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:D03iK_w7-QYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamics of a self-repelling random walker",
+            "pub_year": "1999",
+            "citation": "arXiv preprint cond-mat/9908267, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chemical defibrillation in ventricular myocardium",
+            "pub_year": "1998",
+            "citation": "CIRCULATION 98 (17), 52-52, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:XiVPGOgt02cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control and Spectroscopy of Voltage-Dependent Biomolecules by Nonequilibrium Kinetic Focusing",
+            "pub_year": "1996",
+            "citation": "APS March Meeting Abstracts, O20. 07, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DEMONSTRATION OF 1/f",
+            "pub_year": "1994",
+            "citation": "Fractals In Natural Science 1 (3), 62, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:CLPBug3NTQYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "THE ROLE OF NOISE IN SIGNAL TRANSMISSION",
+            "pub_year": "1994",
+            "citation": "FASEB JOURNAL 8 (2), 154-154, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:bnK-pcrLprsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "WHY SENSORY NEURONS NEED TO BE NOISY",
+            "pub_year": "1994",
+            "citation": "BIOPHYSICAL JOURNAL 66 (2), A250-A250, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:5ugPr518TE4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Demonstration of 1/f Fluctuations and White Noise in the Human Heart Rate by the Variance-Time Implications for Self-Similarity",
+            "pub_year": "1994",
+            "citation": "Fractals in Natural Science. Edited by VICSEK T ET AL. Published by World \u2026, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:6IwoDg2IE1oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "One more reason why neurons need to be noisy (Invited Paper)[2036-07]",
+            "pub_year": "1993",
+            "citation": "PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING, 57-57, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Low-dimensional dynamics in cardiac tissues: experiments and theory (Invited Paper)[2036-02]",
+            "pub_year": "1993",
+            "citation": "PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING, 2-2, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Low Dimensional Chaos and the Transition from Rhythmic to Arrhythmic Behavior in Cardiac Tissue",
+            "pub_year": "1991",
+            "citation": "Cardiac Electrophysiology, Circulation, and Transport, 115-123, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:UxriW0iASnsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ELECTROPHYSIOLOGICAL BASIS OF CHAOTIC DYNAMICS OF EXCITATION IN CARDIAC PURKINJE-FIBERS",
+            "pub_year": "1990",
+            "citation": "PROCEEDINGS OF THE KONINKLIJKE NEDERLANDSE AKADEMIE VAN WETENSCHAPPEN \u2026, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complex irregular dynamics in a computer model of vagal control of the cardiac pacemaker",
+            "pub_year": "1988",
+            "citation": "Proceedings. Computers in Cardiology 1988, 425, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gut\u2019s complexity",
+            "citation": "Book of Abstracts 6, 18, 0"
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:1QvrP69o8OkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bonachela, JA, 259 Bragard, J., 259 Branas-Garza, P., 260",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:FKJBpZmfD-IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ChronicPainandtheEmotionalBrain: SpecificBrain ActivityAssociatedwithSpontaneousFluctuationsof IntensityofChronicBackPain",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:YpRCXavlr0AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Low dimensional chaos in",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:5qu0sgD3nvwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "28. NONLINEAR DYNAMICS AND IONIC MECHANISMS OF EXCITATION",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:K5ggCqHMkpcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Critical brain dynamics",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:WIVIxizkzXoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complexity, Criticality and Consciousness. Eight lectures on the physics of complex systems applied to brain sciences",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:Qqt8gOYqc0UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ghost resonance in coupled lasers",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:p2g8aNsByqUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional connectivity in fibromyalgia: a rBeta analysis",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:SP6oXDckpogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient distributed algorithms for pattern detection in graphs derived from fMRI measurements",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:P5F9QuxV20EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HOW SENSORY NEURONS CODE WHAT ISN\u2019T OUT THERE?",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The auditory perception of pitch and illusory phase-locking",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "6UA7EwUAAAAJ:u_35RYKgDlwC",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,827 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic and functional diversification of small RNA pathways in plants",
+            "pub_year": "2004",
+            "citation": "PLoS Biol 2 (5), e104, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 1804,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18109521126054431920",
+        "cites_id": [
+            "18109521126054431920"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide evolutionary analysis of eukaryotic DNA methylation",
+            "pub_year": "2010",
+            "citation": "Science 328 (5980), 916-919, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1753,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3963845364185925705",
+        "cites_id": [
+            "3963845364185925705"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide analysis of Arabidopsis thaliana DNA methylation uncovers an interdependence between methylation and transcription",
+            "pub_year": "2007",
+            "citation": "Nature genetics 39 (1), 61-69, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:ufrVoPGSRksC",
+        "num_citations": 1537,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4063100231336291416",
+        "cites_id": [
+            "4063100231336291416"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ARGONAUTE4 control of locus-specific siRNA accumulation and DNA and histone methylation",
+            "pub_year": "2003",
+            "citation": "Science 299 (5607), 716-719, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:WF5omc3nYNoC",
+        "num_citations": 1331,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6907252341812983329",
+        "cites_id": [
+            "6907252341812983329"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Requirement of CHROMOMETHYLASE3 for maintenance of CpXpG methylation",
+            "pub_year": "2001",
+            "citation": "Science 292 (5524), 2077-2080, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 985,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8367005338127434028",
+        "cites_id": [
+            "8367005338127434028"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis Nucleosome Remodeler DDM1 Allows DNA Methyltransferases to Access H1-Containing Heterochromatin",
+            "pub_year": "2013",
+            "citation": "Cell 153 (1), 193-205, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:Zph67rFs4hoC",
+        "num_citations": 948,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17087812073736882148",
+        "cites_id": [
+            "17087812073736882148"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNA silencing genes control de novo DNA methylation",
+            "pub_year": "2004",
+            "citation": "Science 303 (5662), 1336-1336, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 715,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17018493537243149780",
+        "cites_id": [
+            "17018493537243149780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide demethylation of Arabidopsis endosperm",
+            "pub_year": "2009",
+            "citation": "Science 324 (5933), 1451-1454, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 711,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2077013548429727288",
+        "cites_id": [
+            "2077013548429727288"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone H2A. Z and DNA methylation are mutually antagonistic chromatin marks",
+            "pub_year": "2008",
+            "citation": "Nature 456 (7218), 125-129, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 645,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7110690713263318508",
+        "cites_id": [
+            "7110690713263318508"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role of the DRM and CMT3 Methyltransferases in RNA-Directed DNA Methylation",
+            "pub_year": "2003",
+            "citation": "Current biology 13 (24), 2212-2217, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 607,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6897872147948727653",
+        "cites_id": [
+            "6897872147948727653"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA demethylation in the Arabidopsis genome",
+            "pub_year": "2007",
+            "citation": "Proceedings of the National Academy of Sciences 104 (16), 6752-6757, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 564,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=661747257920559535",
+        "cites_id": [
+            "661747257920559535"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Active DNA demethylation in plant companion cells reinforces transposon methylation in gametes",
+            "pub_year": "2012",
+            "citation": "Science 337 (6100), 1360-1364, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 478,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12125470870013757312",
+        "cites_id": [
+            "12125470870013757312"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local DNA hypomethylation activates genes in rice endosperm",
+            "pub_year": "2010",
+            "citation": "Proceedings of the National Academy of Sciences 107 (43), 18729-18734, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:qjMakFHDy7sC",
+        "num_citations": 389,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11867276189825601852",
+        "cites_id": [
+            "11867276189825601852"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role of Arabidopsis ARGONAUTE4 in RNA-Directed DNA Methylation Triggered by Inverted Repeats",
+            "pub_year": "2004",
+            "citation": "Current Biology 14 (13), 1214-1220, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 381,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10663416104928214425",
+        "cites_id": [
+            "10663416104928214425"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide analysis of DNA methylation patterns",
+            "pub_year": "2007",
+            "citation": "Development 134 (22), 3959-3965, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 359,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9576205246545732868",
+        "cites_id": [
+            "9576205246545732868"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deposition of histone variant H2A. Z within gene bodies regulates responsive genes",
+            "pub_year": "2012",
+            "citation": "PLoS genet 8 (10), e1002988, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 343,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1776509601554902840",
+        "cites_id": [
+            "1776509601554902840"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of imprinted gene expression in Arabidopsis endosperm",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (5), 1755-1762, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 334,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16122575210315755193",
+        "cites_id": [
+            "16122575210315755193"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA Methylation Profiling Identifies CG Methylation Clusters in Arabidopsis Genes",
+            "pub_year": "2005",
+            "citation": "Current Biology 15 (2), 154-159, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 251,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2916113887915969729",
+        "cites_id": [
+            "2916113887915969729"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation as a system of plant genomic immunity",
+            "pub_year": "2014",
+            "citation": "Trends in plant science 19 (5), 320-326, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 190,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5619663421881442508",
+        "cites_id": [
+            "5619663421881442508"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of eukaryotic DNA methylation and the pursuit of safer sex",
+            "pub_year": "2010",
+            "citation": "Current biology 20 (17), R780-R785, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 188,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12365591826759257182",
+        "cites_id": [
+            "12365591826759257182"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dnmt1-independent CG methylation contributes to nucleosome positioning in diverse eukaryotes",
+            "pub_year": "2014",
+            "citation": "Cell 156 (6), 1286-1297, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 174,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=810459841065022356",
+        "cites_id": [
+            "810459841065022356"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA demethylation is initiated in the central cells of Arabidopsis and rice",
+            "pub_year": "2016",
+            "citation": "Proceedings of the National Academy of Sciences 113 (52), 15138-15143, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14764435483580893327",
+        "cites_id": [
+            "14764435483580893327"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EMF1 and PRC2 cooperate to repress key regulators of Arabidopsis development",
+            "pub_year": "2012",
+            "citation": "PLoS Genet 8 (3), e1002512, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:dhFuZR0502QC",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3223231810250286905",
+        "cites_id": [
+            "3223231810250286905"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromatin and siRNA pathways cooperate to maintain DNA methylation of small transposable elements in Arabidopsis",
+            "pub_year": "2005",
+            "citation": "Genome biology 6 (11), 1-11, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 140,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16040504611493989562",
+        "cites_id": [
+            "16040504611493989562"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The evolving functions of DNA methylation",
+            "pub_year": "2008",
+            "citation": "Current opinion in plant biology 11 (5), 554-559, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 139,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14540359828007638539",
+        "cites_id": [
+            "14540359828007638539"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution and function of genomic imprinting in plants",
+            "pub_year": "2015",
+            "citation": "Genes & development 29 (24), 2517-2531, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 138,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=634481564788712939",
+        "cites_id": [
+            "634481564788712939"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An evolutionary case for functional gene body methylation in plants and animals",
+            "pub_year": "2017",
+            "citation": "Genome biology 18 (1), 1-3, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6335935492931262793",
+        "cites_id": [
+            "6335935492931262793"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Imprinted expression of genes and small RNA is associated with localized hypomethylation of the maternal genome in rice endosperm",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (19), 7934-7939, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:Se3iqnhoufwC",
+        "num_citations": 118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10715447701702353928",
+        "cites_id": [
+            "10715447701702353928"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DDM1 and Lsh remodelers allow methylation of DNA wrapped in nucleosomes",
+            "pub_year": "2017",
+            "citation": "Elife 6, e30674, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:HDshCWvjkbEC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4781871342290212208",
+        "cites_id": [
+            "4781871342290212208"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA Methylation and Histone H1 Jointly Repress Transposable Elements and Aberrant Intragenic Transcripts",
+            "pub_year": "2020",
+            "citation": "Molecular cell 77 (2), 310-323. e7, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4788323958695158864",
+        "cites_id": [
+            "4788323958695158864"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanism for DNA transposons to generate introns on genomic scales",
+            "pub_year": "2016",
+            "citation": "Nature 538 (7626), 533-536, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17845690513689741999",
+        "cites_id": [
+            "17845690513689741999"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The AAA-ATPase molecular chaperone Cdc48/p97 disassembles sumoylated centromeres, decondenses heterochromatin, and activates ribosomal RNA genes",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (45), 16166-16171, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:4TOpqqG69KYC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6034698509581127866",
+        "cites_id": [
+            "6034698509581127866"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis male sexual lineage exhibits more robust maintenance of CG methylation than somatic tissues",
+            "pub_year": "2016",
+            "citation": "Proceedings of the National Academy of Sciences 113 (52), 15132-15137, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14229679231327416216",
+        "cites_id": [
+            "14229679231327416216"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic inheritance in Arabidopsis: selective silence",
+            "pub_year": "2005",
+            "citation": "Current opinion in genetics & development 15 (5), 557-562, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13588878442745145854",
+        "cites_id": [
+            "13588878442745145854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A conversation across generations: soma-germ cell crosstalk in plants",
+            "pub_year": "2013",
+            "citation": "Developmental cell 24 (3), 215-225, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:_kc_bZDykSQC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7431390152621742625",
+        "cites_id": [
+            "7431390152621742625"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Silencing of transposons in plant genomes: kick them when they're down",
+            "pub_year": "2004",
+            "citation": "Genome biology 5, 1-5, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:roLk4NBRz8UC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8612895532687796786",
+        "cites_id": [
+            "8612895532687796786"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation, H2A. Z, and the regulation of constitutive expression",
+            "pub_year": "2012",
+            "citation": "Cold Spring Harbor symposia on quantitative biology 77, 147-154, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9331638296030133391",
+        "cites_id": [
+            "9331638296030133391"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FACT complex is required for DNA demethylation at heterochromatin during reproduction in Arabidopsis",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (20), E4720-E4729, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:4DMP91E08xMC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4793615885443835449",
+        "cites_id": [
+            "4793615885443835449"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA demethylation by ROS1a in rice vegetative cells promotes methylation in sperm",
+            "pub_year": "2019",
+            "citation": "Proceedings of the National Academy of Sciences 116 (19), 9652-9657, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:TQgYirikUcIC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4202616360738354920",
+        "cites_id": [
+            "4202616360738354920"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation is maintained with high fidelity in the honey bee germline and exhibits global non-functional fluctuations during somatic development",
+            "pub_year": "2019",
+            "citation": "Epigenetics & chromatin 12, 1-18, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16939048046963491973",
+        "cites_id": [
+            "16939048046963491973"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The human promoter methylome",
+            "pub_year": "2007",
+            "citation": "Nature genetics 39 (4), 442-443, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:UebtZRa9Y70C",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18279320288514055976",
+        "cites_id": [
+            "18279320288514055976"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of biological accuracy, precision, and memory by plant chromatin organization",
+            "pub_year": "2012",
+            "citation": "Current opinion in genetics & development 22 (2), 132-138, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1604248368562045856",
+        "cites_id": [
+            "1604248368562045856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone H1 prevents non-CG methylation-mediated small RNA biogenesis in Arabidopsis heterochromatin",
+            "pub_year": "2021",
+            "citation": "eLife 10, e72676, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3986287470851450201",
+        "cites_id": [
+            "3986287470851450201"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Divergence among rice cultivars reveals roles for transposition and epimutation in ongoing evolution of genomic imprinting",
+            "pub_year": "2021",
+            "citation": "Proceedings of the National Academy of Sciences 118 (29), e2104445118, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5942003337059520270",
+        "cites_id": [
+            "5942003337059520270"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic inheritance mediates phenotypic diversity in natural populations",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=58833991934727184,8015483603636900472",
+        "cites_id": [
+            "58833991934727184",
+            "8015483603636900472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extensive de novo activity stabilizes epigenetic inheritance of CG methylation in Arabidopsis transposons",
+            "pub_year": "2023",
+            "citation": "Cell Reports 42 (3), 2023"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14030907663581710685",
+        "cites_id": [
+            "14030907663581710685"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unified establishment and epigenetic inheritance of DNA methylation through cooperative MET1 activity",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.09. 12.507517, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13261134594238897044",
+        "cites_id": [
+            "13261134594238897044"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic inheritance mediates phenotypic diversity in natural populations",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.03. 15.435374, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:r0BpntZqJG4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8015483603636900472",
+        "cites_id": [
+            "8015483603636900472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Embryo-specific epigenetic mechanisms reconstitute the CHH methylation landscape during Arabidopsis embryogenesis",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.04. 06.535361, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12426797700240702205",
+        "cites_id": [
+            "12426797700240702205"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Balancing parental contributions in plant embryonic gene activation",
+            "pub_year": "2011",
+            "citation": "Developmental cell 20 (6), 735-736, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:IWHjjKOFINEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11030756117096616361",
+        "cites_id": [
+            "11030756117096616361"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Concepts, mechanisms and implications of long-term epigenetic inheritance",
+            "pub_year": "2023",
+            "citation": "Current Opinion in Genetics & Development 81, 102087, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:TFP_iSt0sucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNA-directed chromatin modification in Arabidopsis thaliana",
+            "pub_year": "2004",
+            "citation": "University of California, Los Angeles, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "ynBMoTgAAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    }
+]

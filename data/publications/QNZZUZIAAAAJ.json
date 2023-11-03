@@ -1,0 +1,2385 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A compendium of RNA-binding motifs for decoding gene regulation",
+            "pub_year": "2013",
+            "citation": "Nature 499 (7457), 172-177, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 1392,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1967457375684556346",
+        "cites_id": [
+            "1967457375684556346"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The evolutionary landscape of alternative splicing in vertebrate species",
+            "pub_year": "2012",
+            "citation": "Science 338 (6114), 1587-1593, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:qUcmZB5y_30C",
+        "num_citations": 1048,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9982067415602082089",
+        "cites_id": [
+            "9982067415602082089"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Elephant shark genome provides unique insights into gnathostome evolution",
+            "pub_year": "2014",
+            "citation": "Nature 505 (7482), 174-179, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:k_IJM867U9cC",
+        "num_citations": 701,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14759271849954844771,11451029239025950565",
+        "cites_id": [
+            "14759271849954844771",
+            "11451029239025950565"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Widespread intron retention in mammals functionally tunes transcriptomes",
+            "pub_year": "2014",
+            "citation": "Genome research 24 (11), 1774-1786, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:RMVrO4bo-SsC",
+        "num_citations": 628,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7421348040078834247",
+        "cites_id": [
+            "7421348040078834247"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide changes in lncRNA, splicing, and regional gene expression patterns in autism",
+            "pub_year": "2016",
+            "citation": "Nature 540 (7633), 423-427, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:fLJJVVwU7EQC",
+        "num_citations": 587,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=567096942035115764,2354400371229978495,1618874323540258187,3972166215170652827",
+        "cites_id": [
+            "567096942035115764",
+            "2354400371229978495",
+            "1618874323540258187",
+            "3972166215170652827"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A highly conserved program of neuronal microexons is misregulated in autistic brains",
+            "pub_year": "2014",
+            "citation": "Cell 159 (7), 1511-1523, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:qyhmnyLat1gC",
+        "num_citations": 557,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12727508367884149518",
+        "cites_id": [
+            "12727508367884149518"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tissue-specific alternative splicing remodels protein-protein interaction networks",
+            "pub_year": "2012",
+            "citation": "Molecular cell 46 (6), 884-892, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:dhFuZR0502QC",
+        "num_citations": 437,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4440655127463976288",
+        "cites_id": [
+            "4440655127463976288"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Algal genomes reveal evolutionary mosaicism and the fate of nucleomorphs",
+            "pub_year": "2012",
+            "citation": "Nature 492 (7427), 59-65, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:IWHjjKOFINEC",
+        "num_citations": 396,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11635697867853238156",
+        "cites_id": [
+            "11635697867853238156"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MBNL proteins repress ES-cell-specific alternative splicing and reprogramming",
+            "pub_year": "2013",
+            "citation": "Nature 498 (7453), 241-245, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:TQgYirikUcIC",
+        "num_citations": 333,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9451806999335411152",
+        "cites_id": [
+            "9451806999335411152"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome of Acanthamoeba castellanii highlights extensive lateral gene transfer and early evolution of tyrosine kinase signaling",
+            "pub_year": "2013",
+            "citation": "Genome biology 14 (2), 1-15, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 309,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9417013915021272341",
+        "cites_id": [
+            "9417013915021272341"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An atlas of alternative splicing profiles and functional associations reveals new regulatory programs and genes that simultaneously express multiple major isoforms",
+            "pub_year": "2017",
+            "citation": "Genome research 27 (10), 1759-1768, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:QXXbHxWZe5oC",
+        "num_citations": 298,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10917192388853479201",
+        "cites_id": [
+            "10917192388853479201"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "5-hmC in the brain is abundant in synaptic genes and shows differences at the exon-intron boundary",
+            "pub_year": "2012",
+            "citation": "Nature structural & molecular biology 19 (10), 1037-1043, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 271,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3253130478571977429",
+        "cites_id": [
+            "3253130478571977429"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comparative transcriptomic analysis reveals conserved features of stem cell pluripotency in planarians and mammals",
+            "pub_year": "2012",
+            "citation": "Stem cells 30 (8), 1734-1745, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 230,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18090509074946402569",
+        "cites_id": [
+            "18090509074946402569"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Amphioxus functional genomics and the origins of vertebrate gene regulation",
+            "pub_year": "2018",
+            "citation": "Nature 564 (7734), 64-70, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:qS3OQCqhxh0C",
+        "num_citations": 209,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7086106949349181602",
+        "cites_id": [
+            "7086106949349181602"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing: decoding an expansive regulatory layer",
+            "pub_year": "2012",
+            "citation": "Current opinion in cell biology 24 (3), 323-332, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 183,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7341860337019409321",
+        "cites_id": [
+            "7341860337019409321"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Origin of spliceosomal introns and alternative splicing",
+            "pub_year": "2014",
+            "citation": "Cold Spring Harbor perspectives in biology 6 (6), a016071, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:kFIFcbgrf0oC",
+        "num_citations": 173,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11262346560885734272",
+        "cites_id": [
+            "11262346560885734272"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulated aggregative multicellularity in a close unicellular relative of metazoa",
+            "pub_year": "2013",
+            "citation": "Elife 2, e01287, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:isC4tDSrTZIC",
+        "num_citations": 173,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13403337838358354090",
+        "cites_id": [
+            "13403337838358354090"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extensive conservation of ancient microsynteny across metazoans due to cis-regulatory constraints",
+            "pub_year": "2012",
+            "citation": "Genome research 22 (12), 2356-2367, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 140,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4853935848497104321",
+        "cites_id": [
+            "4853935848497104321"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An alternative splicing event amplifies evolutionary differences between vertebrates",
+            "pub_year": "2015",
+            "citation": "Science 349 (6250), 868-873, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:as11RrW_MxEC",
+        "num_citations": 138,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6236841648931344186",
+        "cites_id": [
+            "6236841648931344186"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MBNL1 and RBFOX2 cooperate to establish a splicing programme involved in pluripotent stem cell differentiation",
+            "pub_year": "2013",
+            "citation": "Nature communications 4 (1), 2480, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:r0BpntZqJG4C",
+        "num_citations": 136,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7928623766291323417",
+        "cites_id": [
+            "7928623766291323417"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A global regulatory mechanism for activating an exon network required for neurogenesis",
+            "pub_year": "2014",
+            "citation": "Molecular cell 56 (1), 90-103, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:eEnCcB-k6EAC",
+        "num_citations": 134,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11542494251311044256",
+        "cites_id": [
+            "11542494251311044256"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Essential roles for the splicing regulator nSR100/SRRM4 during nervous system development",
+            "pub_year": "2015",
+            "citation": "Genes & development 29 (7), 746-759, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Rh7tE70epTYC",
+        "num_citations": 133,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9731912222270539250",
+        "cites_id": [
+            "9731912222270539250"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Misregulation of an activity-dependent splicing network as a common mechanism underlying autism spectrum disorders",
+            "pub_year": "2016",
+            "citation": "Molecular cell 64 (6), 1023-1034, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:9jvjDF91bz4C",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1506265039983219600",
+        "cites_id": [
+            "1506265039983219600"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Autism-like phenotype and risk gene mRNA deadenylation by CPEB4 mis-splicing",
+            "pub_year": "2018",
+            "citation": "Nature 560 (7719), 441-446, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:OVe_t5h5bhEC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12947025927188781557",
+        "cites_id": [
+            "12947025927188781557"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spliceosomal introns as tools for genomic and evolutionary analysis",
+            "pub_year": "2008",
+            "citation": "Nucleic acids research 36 (5), 1703-1712, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12400038281552346982",
+        "cites_id": [
+            "12400038281552346982"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coevolution of genomic intron number and splice sites",
+            "pub_year": "2007",
+            "citation": "Trends in Genetics 23 (7), 321-325, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7170511817491281949",
+        "cites_id": [
+            "7170511817491281949"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transphyletic conservation of developmental regulatory state in animal evolution",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (34), 14186-14191, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Zph67rFs4hoC",
+        "num_citations": 104,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4153169505751914441",
+        "cites_id": [
+            "4153169505751914441"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of gene gains, losses and duplication modes on the origin and diversification of vertebrates",
+            "pub_year": "2013",
+            "citation": "Seminars in cell & developmental biology 24 (2), 83-94, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:-f6ydRqryjwC",
+        "num_citations": 102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14705109239667424093",
+        "cites_id": [
+            "14705109239667424093"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional and evolutionary analysis of alternatively spliced genes is consistent with an early eukaryotic origin of alternative splicing",
+            "pub_year": "2007",
+            "citation": "BMC evolutionary biology 7, 1-12, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=235215235636237881",
+        "cites_id": [
+            "235215235636237881"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular regionalization of the developing amphioxus neural tube challenges major partitions of the vertebrate brain",
+            "pub_year": "2017",
+            "citation": "PLoS biology 15 (4), e2001573, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:UZk6qv0A6XIC",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11114106612948878013",
+        "cites_id": [
+            "11114106612948878013"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing landscapes in Arabidopsis thaliana across tissues and stress conditions highlight major functional differences with animals",
+            "pub_year": "2021",
+            "citation": "Genome biology 22 (1), 1-26, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:RRCMsQZi3KMC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=213845348330541088",
+        "cites_id": [
+            "213845348330541088"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expansion and retention leads to a diverse tyrosine kinase superfamily in amphioxus",
+            "pub_year": "2008",
+            "citation": "Molecular biology and evolution 25 (9), 1841-1854, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10477349469254014106",
+        "cites_id": [
+            "10477349469254014106"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mystery of intron gain: new data and new models",
+            "pub_year": "2009",
+            "citation": "Trends in Genetics 25 (2), 67-73, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813506057523008548",
+        "cites_id": [
+            "5813506057523008548"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Origin of introns by \u2018intronization\u2019of exonic sequences",
+            "pub_year": "2008",
+            "citation": "Trends in Genetics 24 (8), 378-381, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12082816757527951203",
+        "cites_id": [
+            "12082816757527951203"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retention of paternal DNA methylome in the developing zebrafish germline",
+            "pub_year": "2019",
+            "citation": "Nature communications 10 (1), 3054, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:rPDWb_FAO-YC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14252410355115302140",
+        "cites_id": [
+            "14252410355115302140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "When good transcripts go bad: artifactual RT\u2010PCR \u2018splicing\u2019and genome analysis",
+            "pub_year": "2008",
+            "citation": "Bioessays 30 (6), 601-605, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:qjMakFHDy7sC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6375372433116132795,1068143418777590524",
+        "cites_id": [
+            "6375372433116132795",
+            "1068143418777590524"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exon junction complex shapes the transcriptome by repressing recursive splicing",
+            "pub_year": "2018",
+            "citation": "Molecular cell 72 (3), 496-509. e9, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:OYHP0ARJxK0C",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8120103919540157553",
+        "cites_id": [
+            "8120103919540157553"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct types of disorder in the human proteome: functional implications for alternative splicing",
+            "pub_year": "2013",
+            "citation": "PLoS computational biology 9 (4), e1003030, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:mB3voiENLucC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4865613829176480484",
+        "cites_id": [
+            "4865613829176480484"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Autism-misregulated eIF4G microexons control synaptic translation and higher order cognitive functions",
+            "pub_year": "2020",
+            "citation": "Molecular cell 77 (6), 1176-1192. e16, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:RtDPZMhf-s8C",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11757194061925180963",
+        "cites_id": [
+            "11757194061925180963"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complex transcriptional regulation and independent evolution of fungal-like traits in a relative of animals",
+            "pub_year": "2015",
+            "citation": "elife 4, e08904, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:aKo_o5XvxeMC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12524708233585942210",
+        "cites_id": [
+            "12524708233585942210"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary convergence on highly-conserved 3\u2032 intron structures in intron-poor eukaryotes and insights into the ancestral eukaryotic genome",
+            "pub_year": "2008",
+            "citation": "PLoS genetics 4 (8), e1000148, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=860046623344413029",
+        "cites_id": [
+            "860046623344413029"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conserved developmental expression of Fezf in chordates and Drosophila and the origin of the Zona Limitans Intrathalamica (ZLI) brain organizer",
+            "pub_year": "2010",
+            "citation": "Evodevo 1, 1-10, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13617568326307149364",
+        "cites_id": [
+            "13617568326307149364"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CpG island promoter hypermethylation of the Ras-effector gene NORE1A occurs in the context of a wild-type K-ras in lung cancer",
+            "pub_year": "2004",
+            "citation": "Oncogene 23 (53), 8695-8699, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:_kc_bZDykSQC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18208643674122880096",
+        "cites_id": [
+            "18208643674122880096"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel protein domain in an ancestral splicing factor drove the evolution of neural microexons",
+            "pub_year": "2019",
+            "citation": "Nature Ecology & Evolution 3 (4), 691-701, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:aAWV-AKBBEQC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=485724561945679224",
+        "cites_id": [
+            "485724561945679224"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Origin of exon skipping-rich transcriptomes in animals driven by evolution of gene architecture",
+            "pub_year": "2018",
+            "citation": "Genome biology 19 (1), 1-21, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:h0mLeC6b6wcC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3421551228143819363",
+        "cites_id": [
+            "3421551228143819363"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Splicing in the eukaryotic ancestor: form, function and dysfunction",
+            "pub_year": "2009",
+            "citation": "Trends in ecology & evolution 24 (8), 447-455, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2844833127042023098",
+        "cites_id": [
+            "2844833127042023098"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Widespread Evolutionary Conservation of Alternatively Spliced Exons in Caenorhabditis",
+            "pub_year": "2008",
+            "citation": "Molecular Biology and Evolution 25 (2), 375-382, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2715966254945776251",
+        "cites_id": [
+            "2715966254945776251"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic adaptations to aquatic and aerial life in mayflies and the origin of insect wings",
+            "pub_year": "2020",
+            "citation": "Nature communications 11 (1), 2631, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:srBcWmd28BQC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2823688814780099177,1123583111782648920,15587458598709032448",
+        "cites_id": [
+            "2823688814780099177",
+            "1123583111782648920",
+            "15587458598709032448"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The alternative splicing factor Nova2 regulates vascular development and lumen formation",
+            "pub_year": "2015",
+            "citation": "Nature communications 6 (1), 8479, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:YifW7xAlWS4C",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4996181402755902676",
+        "cites_id": [
+            "4996181402755902676"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Matt: Unix tools for alternative splicing analysis",
+            "pub_year": "2019",
+            "citation": "Bioinformatics 35 (1), 130-132, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:OcT3jDimY5MC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3775635320944624037,11918194208065987482",
+        "cites_id": [
+            "3775635320944624037",
+            "11918194208065987482"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conserved functional antagonism of CELF and MBNL proteins controls stem cell-specific alternative splicing in planarians",
+            "pub_year": "2016",
+            "citation": "Elife 5, e16797, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:_aaHSq4heJsC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16285290248269859377",
+        "cites_id": [
+            "16285290248269859377"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative regulation of alternative splicing in evolution and development",
+            "pub_year": "2009",
+            "citation": "Bioessays 31 (1), 40-50, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11004712829584301570",
+        "cites_id": [
+            "11004712829584301570"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Major roles for pyrimidine dimers, nucleotide excision repair, and ATR in the alternative splicing response to UV irradiation",
+            "pub_year": "2017",
+            "citation": "Cell reports 18 (12), 2868-2879, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:T-SPRlcIgBMC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9479387905791599160",
+        "cites_id": [
+            "9479387905791599160"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conservative route to genome compaction in a miniature annelid",
+            "pub_year": "2021",
+            "citation": "Nature ecology & evolution 5 (2), 231-242, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:_Xy5tTOxz_oC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7079623129436923221,8641945957996382445",
+        "cites_id": [
+            "7079623129436923221",
+            "8641945957996382445"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular basis of differential 3\u2032 splice site sensitivity to anti-tumor drugs targeting U2 snRNP",
+            "pub_year": "2017",
+            "citation": "Nature communications 8 (1), 2100, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Zo6E4E6iJKMC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13042383889997961123",
+        "cites_id": [
+            "13042383889997961123"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionarily conserved A-to-I editing increases protein stability of the alternative splicing factor Nova1",
+            "pub_year": "2012",
+            "citation": "RNA biology 9 (1), 12-21, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=190009045396425306",
+        "cites_id": [
+            "190009045396425306"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An ancient genomic regulatory block conserved across bilaterians and its dismantling in tetrapods by retrogene replacement",
+            "pub_year": "2012",
+            "citation": "Genome research 22 (4), 642-655, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12251675340640354210",
+        "cites_id": [
+            "12251675340640354210"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rare coding sequence changes are consistent with Ecdysozoa, not Coelomata",
+            "pub_year": "2007",
+            "citation": "Molecular Biology and Evolution 24 (8), 1604-1607, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16835751991876108144",
+        "cites_id": [
+            "16835751991876108144"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel L1CAM isoform with angiogenic activity generated by NOVA2-mediated alternative splicing",
+            "pub_year": "2019",
+            "citation": "Elife 8, e44305, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:VofzgsFG4o0C",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4809283011578679828",
+        "cites_id": [
+            "4809283011578679828"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Absence of tangentially migrating glutamatergic neurons in the developing avian brain",
+            "pub_year": "2018",
+            "citation": "Cell reports 22 (1), 96-109, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:d9ydBXnamCkC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5512774240366880048",
+        "cites_id": [
+            "5512774240366880048"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Convergent Evolution of Clustering of Iroquois Homeobox Genes across Metazoans",
+            "pub_year": "2008",
+            "citation": "Molecular biology and evolution 25 (8), 1521-1525, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:ufrVoPGSRksC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13044831419944864951",
+        "cites_id": [
+            "13044831419944864951"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Postnatal isoform switch and protein localization of LEF1 and TCF7L2 transcription factors in cortical, thalamic, and mesencephalic regions of the adult mouse brain",
+            "pub_year": "2013",
+            "citation": "Brain Structure and Function 218, 1531-1549, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3047009713571939750",
+        "cites_id": [
+            "3047009713571939750"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Widespread recurrent evolution of genomic features",
+            "pub_year": "2012",
+            "citation": "Genome biology and evolution 4 (4), 486-500, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:4DMP91E08xMC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3147349617282604789",
+        "cites_id": [
+            "3147349617282604789"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intron mis-splicing: no alternative?",
+            "pub_year": "2008",
+            "citation": "Genome Biology 9 (2), 1-3, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:roLk4NBRz8UC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16223686937366593946",
+        "cites_id": [
+            "16223686937366593946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Best practice standards for circular RNA research",
+            "pub_year": "2022",
+            "citation": "Nature methods 19 (10), 1208-1220, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:P6jpBLdrFncC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8351985539573306051",
+        "cites_id": [
+            "8351985539573306051"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary origin and functional divergence of totipotent cell homeobox genes in eutherian mammals",
+            "pub_year": "2016",
+            "citation": "BMC biology 14 (1), 1-14, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:aar0OkpPRdAC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6136686534767916374",
+        "cites_id": [
+            "6136686534767916374"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ACME dissociation: a versatile cell fixation-dissociation method for single-cell transcriptomics",
+            "pub_year": "2021",
+            "citation": "Genome biology 22, 1-34, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:OYCXtYc4maoC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9376128991835536289",
+        "cites_id": [
+            "9376128991835536289"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Very Little Intron Gain in Entamoeba histolytica Genes Laterally Transferred from Prokaryotes",
+            "pub_year": "2006",
+            "citation": "Molecular biology and evolution 23 (10), 1824-1827, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3963227101660084800",
+        "cites_id": [
+            "3963227101660084800"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ancient cis-regulatory constraints and the evolution of genome architecture",
+            "pub_year": "2013",
+            "citation": "Trends in Genetics 29 (9), 521-528, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8084538044827312674",
+        "cites_id": [
+            "8084538044827312674"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stepwise assembly of the Nova-regulated alternative splicing network in the vertebrate brain",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (13), 5319-5324, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:0EnyYjriUFMC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12862774646852647550",
+        "cites_id": [
+            "12862774646852647550"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High Qualitative and Quantitative Conservation of Alternative Splicing in Caenorhabditis elegans and Caenorhabditis briggsae",
+            "pub_year": "2007",
+            "citation": "Molecular biology and evolution 24 (4), 909-917, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16178987304883693113",
+        "cites_id": [
+            "16178987304883693113"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative genomics of the Hedgehog loci in chordates and the origins of Shh regulatory novelties",
+            "pub_year": "2012",
+            "citation": "Scientific reports 2 (1), 433, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14318150975260006270",
+        "cites_id": [
+            "14318150975260006270"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deep conservation of cis-regulatory elements in metazoans",
+            "pub_year": "2013",
+            "citation": "Philosophical Transactions of the Royal Society B: Biological Sciences 368 \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13125075614095891891",
+        "cites_id": [
+            "13125075614095891891"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct and redundant expression and transcriptional diversity of MEIS gene paralogs during chicken development",
+            "pub_year": "2011",
+            "citation": "Developmental Dynamics 240 (6), 1475-1492, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:8k81kl-MbHgC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15507606534104012772",
+        "cites_id": [
+            "15507606534104012772"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomics evidence unearths new moonlighting roles of outer ring coat nucleoporins",
+            "pub_year": "2014",
+            "citation": "Scientific reports 4 (1), 4655, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:MappHbsApxQC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7853485140854512655",
+        "cites_id": [
+            "7853485140854512655"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complex selection on 5\u2032 splice sites in intron-rich organisms",
+            "pub_year": "2009",
+            "citation": "Genome research 19 (11), 2021-2027, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:UebtZRa9Y70C",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3016036491055748710",
+        "cites_id": [
+            "3016036491055748710"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Origins of Human Malaria: Rare Genomic Changes and Full Mitochondrial Genomes Confirm the Relationship of Plasmodium falciparum to Other Mammalian Parasites but \u2026",
+            "pub_year": "2008",
+            "citation": "Molecular Biology and Evolution 25 (6), 1192-1198, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:WF5omc3nYNoC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2432223078699653958",
+        "cites_id": [
+            "2432223078699653958"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differences in enhancer activity in mouse and zebrafish reporter assays are often associated with changes in gene expression",
+            "pub_year": "2012",
+            "citation": "BMC genomics 13 (1), 1-12, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:hC7cP41nSMkC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17136104244980219606",
+        "cites_id": [
+            "17136104244980219606"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RES complex is associated with intron definition and required for zebrafish early embryogenesis",
+            "pub_year": "2018",
+            "citation": "PLoS genetics 14 (7), e1007473, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:OmZH4w0uHW8C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12543114597096181505",
+        "cites_id": [
+            "12543114597096181505"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contrasting 5' and 3' Evolutionary Histories and Frequent Evolutionary Convergence in Meis/hth Gene Structures",
+            "pub_year": "2011",
+            "citation": "Genome Biology and Evolution 3, 551-564, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3664583396347170992",
+        "cites_id": [
+            "3664583396347170992"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cooperative epithelial phagocytosis enables error correction in the early embryo",
+            "pub_year": "2021",
+            "citation": "Nature 590 (7847), 618-623, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:b15ltGHXyxQC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2356888230167810028",
+        "cites_id": [
+            "2356888230167810028"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary recruitment of flexible Esrp-dependent splicing programs into diverse embryonic morphogenetic processes",
+            "pub_year": "2017",
+            "citation": "Nature communications 8 (1), 1799, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:RPps9qLA3-kC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6331217472566286361",
+        "cites_id": [
+            "6331217472566286361"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nodal\u2013activin pathway is a conserved neural induction signal in chordates",
+            "pub_year": "2017",
+            "citation": "Nature ecology & evolution 1 (8), 1192-1200, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:4PzMk9GH2tkC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15708743096088031317",
+        "cites_id": [
+            "15708743096088031317"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Preferential binding of a stable G3 BP ribonucleoprotein complex to intron\u2010retaining transcripts in mouse brain and modulation of their expression in the cerebellum",
+            "pub_year": "2016",
+            "citation": "Journal of neurochemistry 139 (3), 349-368, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:7bRg-L-9LFcC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1351315344378551328",
+        "cites_id": [
+            "1351315344378551328"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Internal and external paralogy in the evolution of tropomyosin genes in metazoans",
+            "pub_year": "2010",
+            "citation": "Molecular biology and evolution 27 (7), 1504-1517, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=200026951465475719",
+        "cites_id": [
+            "200026951465475719"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Huntington\u2019s disease-specific mis-splicing unveils key effector genes and altered splicing factors",
+            "pub_year": "2021",
+            "citation": "Brain 144 (7), 2009-2023, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:UBSsHvkqiq4C",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5013315718169559949,13837717165846800767",
+        "cites_id": [
+            "5013315718169559949",
+            "13837717165846800767"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stability depends on positive autoregulation in Boolean gene regulatory networks",
+            "pub_year": "2014",
+            "citation": "PLoS computational biology 10 (11), e1003916, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:m_tu6TPmoiMC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13399335161253328510",
+        "cites_id": [
+            "13399335161253328510"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene architecture directs splicing outcome in separate nuclear spatial regions",
+            "pub_year": "2022",
+            "citation": "Molecular Cell 82 (5), 1021-1034. e8, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:oea97a5D_h0C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2844458061746381446",
+        "cites_id": [
+            "2844458061746381446"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ARGLU1 is a transcriptional coactivator and splicing regulator important for stress hormone signaling and development",
+            "pub_year": "2019",
+            "citation": "Nucleic Acids Research 47 (6), 2856-2870, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:HWVPSj4JXeEC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=621491772341041489,16237173707631726081",
+        "cites_id": [
+            "621491772341041489",
+            "16237173707631726081"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From the American to the European amphioxus: towards experimental Evo-Devo at the origin of chordates",
+            "pub_year": "2009",
+            "citation": "International Journal of Developmental Biology 53 (8-9-10), 1359-1366, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:5nxA0vEk-isC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8242293169669895063",
+        "cites_id": [
+            "8242293169669895063"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rare genomic characters do not support Coelomata: intron loss/gain",
+            "pub_year": "2008",
+            "citation": "Molecular biology and evolution 25 (4), 620-623, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12815248410425591973",
+        "cites_id": [
+            "12815248410425591973"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of alternative splicing regulation: changes in predicted exonic splicing regulators are not associated with changes in alternative splicing levels in primates",
+            "pub_year": "2009",
+            "citation": "PLoS One 4 (6), e5800, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13268349197512650691",
+        "cites_id": [
+            "13268349197512650691"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Integrator complex regulates differential snRNA processing and fate of adult stem cells in the highly regenerative planarian Schmidtea mediterranea",
+            "pub_year": "2018",
+            "citation": "PLoS genetics 14 (12), e1007828, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:GYFkgKAhzLcC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11656775080318644929",
+        "cites_id": [
+            "11656775080318644929"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome evolution: where do new introns come from?",
+            "pub_year": "2012",
+            "citation": "Current Biology 22 (13), R529-R531, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11964140436738404330",
+        "cites_id": [
+            "11964140436738404330"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ancient genomic regulatory blocks are a source for regulatory gene deserts in vertebrates after whole-genome duplications",
+            "pub_year": "2020",
+            "citation": "Molecular Biology and Evolution 37 (10), 2857-2864, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:UamA9ItEL6YC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4183006804027182126",
+        "cites_id": [
+            "4183006804027182126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Srrm234, but not canonical SR and hnRNP proteins, drive inclusion of Dscam exon 9 variable exons",
+            "pub_year": "2019",
+            "citation": "RNA 25 (10), 1353-1365, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:DXM8KF1schAC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16870997836780698162",
+        "cites_id": [
+            "16870997836780698162"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parallel evolution of a splicing program controlling neuronal excitability in flies and mammals",
+            "pub_year": "2022",
+            "citation": "Science advances 8 (4), eabk0445, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:CXI6bF9CpJ4C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16526961287679228595",
+        "cites_id": [
+            "16526961287679228595"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environmental enrichment induces epigenomic and genome organization changes relevant for cognition",
+            "pub_year": "2021",
+            "citation": "Frontiers in Molecular Neuroscience 14, 664912, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Lc9Ei6r3docC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6994373836285728447",
+        "cites_id": [
+            "6994373836285728447"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Silencing of SRRM4 suppresses microexon inclusion and promotes tumor growth across cancers",
+            "pub_year": "2021",
+            "citation": "PLoS Biology 19 (2), e3001138, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:pqufTfZDgs0C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11010363496965573567",
+        "cites_id": [
+            "11010363496965573567"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Origin and evolution of the chordate central nervous system: insights from amphioxus genoarchitecture",
+            "pub_year": "2017",
+            "citation": "International Journal of Developmental Biology 61 (10-11-12), 655-664, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:3z7foVzkq2cC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7464702970822271395",
+        "cites_id": [
+            "7464702970822271395"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Day-night and seasonal variation of human gene expression across tissues",
+            "pub_year": "2023",
+            "citation": "Plos Biology 21 (2), e3001986, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:QjNCP7ux8QYC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9510572213002104583",
+        "cites_id": [
+            "9510572213002104583"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diversity and evolution of spliceosomal systems",
+            "pub_year": "2014",
+            "citation": "Spliceosomal pre-mRNA splicing: methods and protocols, 13-33, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Kr09a2QcR50C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7516892300684396354",
+        "cites_id": [
+            "7516892300684396354"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neuronal-specific microexon splicing of TAF1 mRNA is directly regulated by SRRM4/nSR100",
+            "pub_year": "2020",
+            "citation": "RNA biology 17 (1), 62-74, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:1tvASLRm6poC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14368028964960558007",
+        "cites_id": [
+            "14368028964960558007"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Specialization of the photoreceptor transcriptome by Srrm3-dependent microexons is required for outer segment maintenance and vision",
+            "pub_year": "2022",
+            "citation": "Proceedings of the National Academy of Sciences 119 (29), e2117090119, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:nYc7v9NCwtsC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14389004968708590824,6410452134477169723",
+        "cites_id": [
+            "14389004968708590824",
+            "6410452134477169723"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ExOrthist: a tool to infer exon orthologies at any evolutionary distance",
+            "pub_year": "2021",
+            "citation": "Genome biology 22, 1-23, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:lo0OIn9KAZgC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10172854250868604118",
+        "cites_id": [
+            "10172854250868604118"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rare genomic characters do not support Coelomata: RGC_CAMs",
+            "pub_year": "2008",
+            "citation": "Journal of molecular evolution 66, 308-315, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Se3iqnhoufwC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=710077299270766229",
+        "cites_id": [
+            "710077299270766229"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A developmentally programmed splicing failure contributes to DNA damage response attenuation during mammalian zygotic genome activation",
+            "pub_year": "2022",
+            "citation": "Science Advances 8 (15), eabn4935, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:seU1ZbiIO-YC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8948335543549551168",
+        "cites_id": [
+            "8948335543549551168"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome\u2010wide transcriptomic changes reveal the genetic pathways involved in insect migration",
+            "pub_year": "2022",
+            "citation": "Molecular Ecology 31 (16), 4332-4350, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:jenZ_en7QtoC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5995738361026411796",
+        "cites_id": [
+            "5995738361026411796"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic regulation of RNA splicing in human pancreatic islets",
+            "pub_year": "2022",
+            "citation": "Genome Biology 23 (1), 1-28, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:83UE6yvegO4C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3653931566541759506",
+        "cites_id": [
+            "3653931566541759506"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parallel evolution of amphioxus and vertebrate small-scale gene duplications",
+            "pub_year": "2022",
+            "citation": "Genome Biology 23 (1), 243, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:6jbE1kO3aKAC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7461903584586574525",
+        "cites_id": [
+            "7461903584586574525"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic exploration of dynamic splicing networks reveals conserved multistage regulators of neurogenesis",
+            "pub_year": "2022",
+            "citation": "Molecular Cell 82 (16), 2982-2999. e14, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:yGgOC45Jz5YC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16153777727009318828",
+        "cites_id": [
+            "16153777727009318828"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Is there a prechordal region and an acroterminal domain in amphioxus?",
+            "pub_year": "2022",
+            "citation": "Brain Behavior and Evolution 96 (4-6), 334-352, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:D2lc7i8A8ooC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8741941095224912400",
+        "cites_id": [
+            "8741941095224912400"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene regulatory networks of epidermal and neural fate choice in a chordate",
+            "pub_year": "2022",
+            "citation": "Molecular Biology and Evolution 39 (4), msac055, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:CoqsOaBEKcQC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13392365679355540378",
+        "cites_id": [
+            "13392365679355540378"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insplico: effective computational tool for studying splicing order of adjacent introns genome-wide with short and long RNA-seq reads",
+            "pub_year": "2023",
+            "citation": "Nucleic Acids Research, gkad244, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Mb21Z44dZ7IC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11418019499334427779",
+        "cites_id": [
+            "11418019499334427779"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pancreatic microexons regulate islet function and glucose homeostasis",
+            "pub_year": "2023",
+            "citation": "Nature Metabolism 5 (2), 219-236, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Pptk7XUfJl0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8678921224939379779",
+        "cites_id": [
+            "8678921224939379779"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hagfish genome illuminates vertebrate whole genome duplications and their evolutionary consequences",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.04. 08.536076, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:pqoCwmxD9dQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15039414702664006452",
+        "cites_id": [
+            "15039414702664006452"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human EWS-FLI protein recapitulates in Drosophila the neomorphic functions that induce Ewing sarcoma tumorigenesis",
+            "pub_year": "2022",
+            "citation": "PNAS nexus 1 (4), pgac222, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:i_QFVEgXGzMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5068861624142673261",
+        "cites_id": [
+            "5068861624142673261"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pervasive evolution of tissue-specificity of ancestral genes differentially shaped vertebrates and insects",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.11. 14.516384, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:qE25ZKhNtbAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3492815623935873700",
+        "cites_id": [
+            "3492815623935873700"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genes enriched in A/T-ending codons are co-regulated and conserved across mammals",
+            "pub_year": "2023",
+            "citation": "Cell Systems 14 (4), 312-323. e3, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:1fM7sLBYaPUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17811762790512234648",
+        "cites_id": [
+            "17811762790512234648"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The 3D-Evo Space: Evolution of Gene Expression and Alternative Splicing Regulation",
+            "pub_year": "2022",
+            "citation": "Annual Review of Genetics 56, 315-337, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:KrOX6H5u0oYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12113728158055398835",
+        "cites_id": [
+            "12113728158055398835"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The X-linked splicing regulator MBNL3 has been co-opted to restrict placental growth in eutherians",
+            "pub_year": "2022",
+            "citation": "Plos Biology 20 (4), e3001615, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:q7hqJx8pYzEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7105371999106145223",
+        "cites_id": [
+            "7105371999106145223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of pancreatic islet function and glucose homeostasis by a novel microexon program misregulated in type 2 diabetes",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.04. 02.486809, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Xt3t5HrhCpYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9892919712069319615",
+        "cites_id": [
+            "9892919712069319615"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic regulation of RNA splicing in human pancreatic islets",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.11. 11.468254, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:-1WLWRmjvKAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3880922147878719768",
+        "cites_id": [
+            "3880922147878719768"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environmental enrichment induces epigenomic and genome organization changes relevant for cognitive function",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.01. 31.428988, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:afceBpUbn5YC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3857760009378070247",
+        "cites_id": [
+            "3857760009378070247"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Jos\u00e9 Luis G\u00f3mez-Skarmeta (1966\u20132020)",
+            "pub_year": "2020",
+            "citation": "Nature Genetics 52 (12), 1267-1268, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:JZsVLox4iN8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12027859099539172722",
+        "cites_id": [
+            "12027859099539172722"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Author Correction: Elephant shark genome provides unique insights into gnathostome evolution",
+            "pub_year": "2020",
+            "citation": "Nature 588 (7837), E15, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:54MofcL-yxcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6837081392292825627",
+        "cites_id": [
+            "6837081392292825627"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SF3B1 mutation\u2013mediated sensitization to H3B-8800 splicing inhibitor in chronic lymphocytic leukemia",
+            "pub_year": "2023",
+            "citation": "Life Science Alliance 6 (11), 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:i_acAUMCj1cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Specific processing of meiosis-related transcript is linked to final maturation in human oocytes",
+            "pub_year": "2023",
+            "citation": "Molecular Human Reproduction, gaad021, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:foJkpVhfThEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hagfish genome illuminates vertebrate whole genome duplications and their evolutionary consequences",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:Id9pRtCSqO0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel regulatory mechanism of actin cytoskeleton dynamics through a neural microexon in DAAM1 is important for proper memory formation",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.01. 12.523772, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:0_RpHV3rhqYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel regulatory mechanism of actin cytoskeleton dynamics through a neural microexon in DAAM1 is necessary for memory formation",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:bJZ_LSxkz4EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing decouples local from global PRC2 activity",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.04. 30.538846, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:GL0K47J-u9kC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pleiotropic contribution of rbfox1 to psychiatric and neurodevelopmental phenotypes in a zebrafish model",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.02. 23.529711, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:TXgqPU86QykC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PLEIOTROPIC EFFECTS OF RBFOX1 IN PSYCHIATRIC PHENOTYPES FROM ZEBRAFISH STUDIES",
+            "pub_year": "2022",
+            "citation": "European Neuropsychopharmacology 63, e241-e242, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:MOUuoOoUJb4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developing zebrafish CRISPR/Cas9 knockout models of Parkinson's Disease to identify novel therapeutic targets",
+            "pub_year": "2022",
+            "citation": "MOVEMENT DISORDERS 37, S581-S581, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:RXC-vbXDMdwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational Analysis of Alternative Splicing Using VAST-TOOLS and the VastDB Framework",
+            "pub_year": "2022",
+            "citation": "Alternative Splicing: Methods and Protocols, 97-128, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:zBYNw3HCx4kC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary conservation of A/T-ending codons reflects co-regulation of expression and complex formation",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.01. 17.475622, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:22N0J9dj6kwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insplico: Effective computational tool for studying intron splicing order genome-wide with short and long RNA-seq reads",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.08. 15.503947, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:3A6oGT7R4jcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A developmentally programmed splicing failure attenuates the DNA damage response during mammalian zygotic genome activation",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.11. 25.397794, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:-jghkW3WqMUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stem cell niche ageing in Drosophila correlates with changes in alternative splicing",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:9wUeeRLfbNYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modulation and detection of a neuronal alternative splicing regulatory network for treatment and diagnosis of neurological disorders",
+            "pub_year": "2020",
+            "citation": "US Patent 10,772,928, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:JzGFD3-rS6kC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic adaptations to aquatic and aerial life in mayflies and the origin of insect wings",
+            "pub_year": "2020",
+            "citation": "Nature Communications, 2020, vol. 11, num. 2631, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:JmU_-KX0ghQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hypersilencing of SRRM4 suppresses basal microexon inclusion and promotes tumor growth across cancers",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.03. 23.003574, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:4Q5OFK1iulkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conservative route to genome compaction in a miniature annelid",
+            "pub_year": "2020",
+            "citation": "Nature Ecology & Evolution. 2020 Nov 16; 5: 231-42, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:uK1dVpBkok0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ancient genomic regulatory blocks are a major source for gene deserts in vertebrates after whole genome duplications",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 776369, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:J1AsQIbV7j8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ageing and stem cell maintenance in niches: a role for alternative splicing",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:4_XrlajHzhgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Boosting Macroevolution: Genomic Changes Triggering Qualitative Expansions of Regulatory Potential",
+            "pub_year": "2019",
+            "citation": "Old Questions and Young Approaches to Animal Evolution, 175-207, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:JTutsjMeBaAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exon junction complex shapes the transcriptome by repressing recursive splicing",
+            "pub_year": "2018",
+            "citation": "The Francis Crick Institute, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:yuCoZvLJRl8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Amphioxus functional genomics reveals the evolution of vertebrate regulatory traits",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:NN0YOz9s3UgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Amphioxus functional genomics and the origins of vertebrate gene regulation",
+            "pub_year": "2018",
+            "citation": "Nature: International Weekly Journal of Science, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:ZJWHNt7Cjk4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An atlas of alternative splicing profiles and functional associations reveals new regulatory programs and genes that simultaneously express multiple major isoforms",
+            "pub_year": "2017",
+            "citation": "Cold Spring Harbor Laboratory Press (CSHL Press), 2017"
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:n5u26LFhhPsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Research briefing",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:HoaxrAv1AIcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Microexones",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:JQG40wivBEIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Day-night and seasonal variation of human gene expression across tissues",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:w_Qt3Pluy5YC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "499 Phylogeny as the basis for naming histones 500 CENP-A and the CENP nomenclature: response to Talbert and Henikoff",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:7Pm5v_kJJ6IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sommaire du brevet 2970180",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "QNZZUZIAAAAJ:HFi42EZPDb4C",
+        "num_citations": 0
+    }
+]

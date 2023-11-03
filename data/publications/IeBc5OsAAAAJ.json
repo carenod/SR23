@@ -1,0 +1,4283 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The plant immune system",
+            "pub_year": "2006",
+            "citation": "nature 444 (7117), 323-329, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 13195,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6667682136429635705",
+        "cites_id": [
+            "6667682136429635705"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the genome sequence of the flowering plant Arabidopsis thaliana",
+            "pub_year": "2000",
+            "citation": "nature 408 (6814), 796-815, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:foquWX3nUaYC",
+        "num_citations": 10868,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2527645321644532327",
+        "cites_id": [
+            "2527645321644532327"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant pathogens and integrated defence responses to infection",
+            "pub_year": "2001",
+            "citation": "nature 411 (6839), 826-833, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 4997,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12695188749665205994",
+        "cites_id": [
+            "12695188749665205994"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Defining the core Arabidopsis thaliana root microbiome",
+            "pub_year": "2012",
+            "citation": "Nature 488 (7409), 86-90, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:qUcmZB5y_30C",
+        "num_citations": 2450,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10502909176508109590",
+        "cites_id": [
+            "10502909176508109590"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reactive oxygen species signaling in response to pathogens",
+            "pub_year": "2006",
+            "citation": "Plant physiology 141 (2), 373-378, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 1870,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4641210432877234885",
+        "cites_id": [
+            "4641210432877234885"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NADPH oxidase AtrbohD and AtrbohF genes function in ROS-dependent ABA signaling in Arabidopsis",
+            "pub_year": "2003",
+            "citation": "The EMBO journal 22 (11), 2623-2633, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 1787,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5211069504922469681",
+        "cites_id": [
+            "5211069504922469681"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis gp91phox homologues  AtrbohD and AtrbohF are required for  accumulation of reactive oxygen intermediates in the plant  defense response",
+            "pub_year": "2002",
+            "citation": "Proceedings of the National Academy of Sciences 99 (1), 517-522, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:qjMakFHDy7sC",
+        "num_citations": 1737,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6572128334450443605",
+        "cites_id": [
+            "6572128334450443605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diversity and heritability of the maize rhizosphere microbiome under field conditions",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (16), 6548-6553, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 1586,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10754526615984904741",
+        "cites_id": [
+            "10754526615984904741"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RIN4 interacts with Pseudomonas syringae type III effector molecules and is required for RPM1-mediated resistance in Arabidopsis",
+            "pub_year": "2002",
+            "citation": "Cell 108 (6), 743-754, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 1384,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12065868964661239082",
+        "cites_id": [
+            "12065868964661239082"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput sequencing of Arabidopsis microRNAs: evidence for frequent birth and death of MIRNA genes",
+            "pub_year": "2007",
+            "citation": "PloS one 2 (2), e219, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 1279,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9783591614907217259",
+        "cites_id": [
+            "9783591614907217259"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functions of the respiratory burst oxidase in biotic interactions, abiotic stress and development",
+            "pub_year": "2005",
+            "citation": "Current opinion in plant biology 8 (4), 397-403, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 1261,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9368242568309114939",
+        "cites_id": [
+            "9368242568309114939"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcriptome of Arabidopsis thaliana during systemic acquired resistance",
+            "pub_year": "2000",
+            "citation": "Nature genetics 26 (4), 403-410, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 1247,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=206917051768477551",
+        "cites_id": [
+            "206917051768477551"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Death don't have no mercy: cell death programs in plant-microbe interactions.",
+            "pub_year": "1996",
+            "citation": "The Plant Cell 8 (10), 1793, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 1217,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4183886785583312856",
+        "cites_id": [
+            "4183886785583312856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure of the Arabidopsis RPM1 Gene Enabling Dual Specificity Disease Resistance",
+            "pub_year": "1995",
+            "citation": "Science 269 (5225), 843-846, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:tuHXwOkdijsC",
+        "num_citations": 1209,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6487496972787366860",
+        "cites_id": [
+            "6487496972787366860"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression profile matrix of Arabidopsis transcription factor genes suggests their putative functions in response to environmental stresses",
+            "pub_year": "2002",
+            "citation": "The plant cell 14 (3), 559-574, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 1198,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=103064208272693221",
+        "cites_id": [
+            "103064208272693221"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pivoting the plant immune system from dissection to deployment",
+            "pub_year": "2013",
+            "citation": "Science 341 (6147), 746-751, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 1150,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5956895154042793741",
+        "cites_id": [
+            "5956895154042793741"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis RIN4 is a target of the type III virulence effector AvrRpt2 and modulates RPS2-mediated resistance",
+            "pub_year": "2003",
+            "citation": "Cell 112 (3), 379-389, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 1118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=935088229551783515",
+        "cites_id": [
+            "935088229551783515"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The plant NADPH oxidase RBOHD mediates rapid systemic signaling in response to diverse stimuli",
+            "pub_year": "2009",
+            "citation": "Science signaling 2 (84), ra45-ra45, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:_kc_bZDykSQC",
+        "num_citations": 1102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12369228802731367499",
+        "cites_id": [
+            "12369228802731367499"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The MKK2 pathway mediates cold and salt stress signaling in Arabidopsis",
+            "pub_year": "2004",
+            "citation": "Molecular cell 15 (1), 141-152, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 1046,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15910932230142942870",
+        "cites_id": [
+            "15910932230142942870"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Initiation of runaway cell death in an Arabidopsis mutant by extracellular superoxide",
+            "pub_year": "1996",
+            "citation": "Science 273 (5283), 1853-1856, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 1014,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8952218685791629285",
+        "cites_id": [
+            "8952218685791629285"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Programmed cell death in the plant immune system",
+            "pub_year": "2011",
+            "citation": "Cell Death & Differentiation 18 (8), 1247-1256, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:TQgYirikUcIC",
+        "num_citations": 940,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10892245654444300788",
+        "cites_id": [
+            "10892245654444300788"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis mutants simulating disease resistance response",
+            "pub_year": "1994",
+            "citation": "Cell 77 (4), 565-577, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 916,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9237579598129951781",
+        "cites_id": [
+            "9237579598129951781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evidence for Network Evolution in an Arabidopsis Interactome Map",
+            "pub_year": "2011",
+            "citation": "Science 333 (6042), 601-607, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:Zph67rFs4hoC",
+        "num_citations": 906,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11288935971284408928,18358694127108079562",
+        "cites_id": [
+            "11288935971284408928",
+            "18358694127108079562"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Salicylic acid modulates colonization of the root microbiome by specific bacterial taxa",
+            "pub_year": "2015",
+            "citation": "Science 349 (6250), 860-864, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:g3aElNc5_aQC",
+        "num_citations": 894,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1224435380679895552",
+        "cites_id": [
+            "1224435380679895552"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Independently evolved virulence effectors converge onto hubs in a plant immune system network",
+            "pub_year": "2011",
+            "citation": "science 333 (6042), 596-601, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 853,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4531190652731412176",
+        "cites_id": [
+            "4531190652731412176"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intracellular innate immune surveillance devices in plants and animals",
+            "pub_year": "2016",
+            "citation": "Science 354 (6316), aaf6395, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:XvxMoLDsR5gC",
+        "num_citations": 851,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5571042966534345889",
+        "cites_id": [
+            "5571042966534345889"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Practical innovations for high-throughput amplicon sequencing",
+            "pub_year": "2013",
+            "citation": "Nature methods 10 (10), 999-1002, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:LPZeul_q3PIC",
+        "num_citations": 817,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=196349147197497260",
+        "cites_id": [
+            "196349147197497260"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recognition and response in the plant immune system",
+            "pub_year": "2003",
+            "citation": "Annual review of genetics 37 (1), 579-609, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:WF5omc3nYNoC",
+        "num_citations": 703,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9800148692151037001",
+        "cites_id": [
+            "9800148692151037001"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signal transduction in the plant immune response",
+            "pub_year": "2000",
+            "citation": "Trends in biochemical sciences 25 (2), 79-82, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ufrVoPGSRksC",
+        "num_citations": 701,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13811320798931262068",
+        "cites_id": [
+            "13811320798931262068"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant disease resistance protein signaling: NBS\u2013LRR proteins and their partners",
+            "pub_year": "2004",
+            "citation": "Current opinion in plant biology 7 (4), 391-399, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:roLk4NBRz8UC",
+        "num_citations": 699,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13995129176469725735",
+        "cites_id": [
+            "13995129176469725735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Host genotype and age shape the leaf and root microbiomes of a wild perennial plant",
+            "pub_year": "2016",
+            "citation": "Nature communications 7 (1), 12151, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:FAceZFleit8C",
+        "num_citations": 691,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10570869281921999029",
+        "cites_id": [
+            "10570869281921999029"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Research priorities for harnessing plant microbiomes in sustainable agriculture",
+            "pub_year": "2017",
+            "citation": "PLoS biology 15 (3), e2001793, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:OR75R8vi5nAC",
+        "num_citations": 658,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1392540108621524922",
+        "cites_id": [
+            "1392540108621524922"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pathogen-induced, NADPH oxidase\u2013derived reactive oxygen intermediates suppress spread of cell death in Arabidopsis thaliana",
+            "pub_year": "2005",
+            "citation": "Nature genetics 37 (10), 1130-1134, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:0EnyYjriUFMC",
+        "num_citations": 648,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7251944522689583761",
+        "cites_id": [
+            "7251944522689583761"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Root microbiota drive direct integration of phosphate stress and immunity",
+            "pub_year": "2017",
+            "citation": "Nature 543 (7646), 513-518, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:bKqednn6t2AC",
+        "num_citations": 646,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13827827846125114306",
+        "cites_id": [
+            "13827827846125114306"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The hypersensitive response and the induction of cell death in plants",
+            "pub_year": "1997",
+            "citation": "Cell Death & Differentiation 4 (8), 671-683, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 638,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17902496474914479573",
+        "cites_id": [
+            "17902496474914479573"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Microbiota and host nutrition across plant and animal kingdoms",
+            "pub_year": "2015",
+            "citation": "Cell host & microbe 17 (5), 603-616, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:e_rmSamDkqQC",
+        "num_citations": 617,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=908230467514323779",
+        "cites_id": [
+            "908230467514323779"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Morphological classification of plant cell deaths",
+            "pub_year": "2011",
+            "citation": "Cell Death & Differentiation 18 (8), 1241-1246, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 600,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12330174455518253321",
+        "cites_id": [
+            "12330174455518253321"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A novel zinc finger protein is encoded by the Arabidopsis LSD1 gene and functions as a negative regulator of plant cell death",
+            "pub_year": "1997",
+            "citation": "Cell 88 (5), 685-694, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 582,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14406817032313288683",
+        "cites_id": [
+            "14406817032313288683"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two Pseudomonas syringae type III effectors inhibit RIN4-regulated basal defense in Arabidopsis",
+            "pub_year": "2005",
+            "citation": "Cell 121 (5), 749-759, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:LI9QrySNdTsC",
+        "num_citations": 570,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5943957507804621985",
+        "cites_id": [
+            "5943957507804621985"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding and exploiting plant beneficial microbes",
+            "pub_year": "2017",
+            "citation": "Current opinion in plant biology 38, 155-163, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:8xutWZnSdmoC",
+        "num_citations": 559,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13842165652794517517",
+        "cites_id": [
+            "13842165652794517517"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Autoimmune response as a mechanism for a Dobzhansky-Muller-type incompatibility syndrome in plants",
+            "pub_year": "2007",
+            "citation": "PLoS biology 5 (9), e236, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 549,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5481933736291417268",
+        "cites_id": [
+            "5481933736291417268"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Subterfuge and manipulation: type III effector proteins of phytopathogenic bacteria",
+            "pub_year": "2006",
+            "citation": "Annu. Rev. Microbiol. 60, 425-449, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:UebtZRa9Y70C",
+        "num_citations": 548,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10108231773392601743",
+        "cites_id": [
+            "10108231773392601743"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intragenic Recombination and Diversifying Selection Contribute to the Evolution of Downy Mildew Resistance at the RPP8 Locus of Arabidopsis",
+            "pub_year": "1998",
+            "citation": "The Plant Cell 10 (11), 1861-1874, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:Se3iqnhoufwC",
+        "num_citations": 514,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17541760745444455794",
+        "cites_id": [
+            "17541760745444455794"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Primer and platform effects on 16S rRNA tag sequencing",
+            "pub_year": "2015",
+            "citation": "Frontiers in microbiology 6, 771, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:KUbvn5osdkgC",
+        "num_citations": 507,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18202465537930121020",
+        "cites_id": [
+            "18202465537930121020"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis thaliana RPM1 disease resistance gene product is a peripheral plasma membrane protein that is degraded coincident with the hypersensitive \u2026",
+            "pub_year": "1998",
+            "citation": "Proceedings of the National Academy of Sciences 95 (26), 15849-15854, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:8k81kl-MbHgC",
+        "num_citations": 489,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14044425003413003776",
+        "cites_id": [
+            "14044425003413003776"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic Evolution of Pathogenicity Revealed by Sequencing and Comparative Genomics of 19 Pseudomonas syringae Isolates",
+            "pub_year": "2011",
+            "citation": "PLoS pathogens 7 (7), e1002132, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:isC4tDSrTZIC",
+        "num_citations": 472,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17151092323777422064",
+        "cites_id": [
+            "17151092323777422064"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cytosolic HSP90 associates with and modulates the Arabidopsis RPM1 disease resistance protein",
+            "pub_year": "2003",
+            "citation": "The EMBO journal 22 (21), 5679-5689, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 462,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9455328975213613041",
+        "cites_id": [
+            "9455328975213613041"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Common and contrasting themes of plant and animal diseases",
+            "pub_year": "2001",
+            "citation": "Science 292 (5525), 2285-2289, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:lmc2jWPfTJgC",
+        "num_citations": 461,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13067140964524471839",
+        "cites_id": [
+            "13067140964524471839"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis type I metacaspases control cell death",
+            "pub_year": "2010",
+            "citation": "Science 330 (6009), 1393-1397, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 452,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3074750224463964942",
+        "cites_id": [
+            "3074750224463964942"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic features of bacterial adaptation to plants",
+            "pub_year": "2018",
+            "citation": "Nature genetics 50 (1), 138-150, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:NyGDZy8z5eUC",
+        "num_citations": 425,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16305448753942286812",
+        "cites_id": [
+            "16305448753942286812"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large-scale replicated field study of maize rhizosphere identifies heritable microbes",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (28), 7368-7373, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:7Hz3ACDFbsoC",
+        "num_citations": 414,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2574779047287415776",
+        "cites_id": [
+            "2574779047287415776"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NB-LRR proteins: pairs, pieces, perception, partners, and pathways",
+            "pub_year": "2010",
+            "citation": "Current opinion in plant biology 13 (4), 472-477, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:r0BpntZqJG4C",
+        "num_citations": 391,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=952619461607635518",
+        "cites_id": [
+            "952619461607635518"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Segmental flexibility and complement fixation of genetically engineered chimeric human, rabbit and mouse antibodies.",
+            "pub_year": "1988",
+            "citation": "The EMBO journal 7 (7), 1989-1994, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:WZBGuue-350C",
+        "num_citations": 378,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17022759820509285372",
+        "cites_id": [
+            "17022759820509285372"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extending assembly of short DNA sequences to handle error",
+            "pub_year": "2007",
+            "citation": "Bioinformatics 23 (21), 2942-2944, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 369,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14410633924584364336",
+        "cites_id": [
+            "14410633924584364336"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombination between an expressed immunoglobulin heavy-chain gene and a germline variable gene segment in a Ly 1+ B-cell lymphoma",
+            "pub_year": "1986",
+            "citation": "Nature 322 (6082), 843-846, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:5nxA0vEk-isC",
+        "num_citations": 367,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4922223720756823194",
+        "cites_id": [
+            "4922223720756823194"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural allelic variation underlying a major fitness trade-off in Arabidopsis thaliana",
+            "pub_year": "2010",
+            "citation": "Nature 465 (7298), 632-636, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:maZDTaKrznsC",
+        "num_citations": 366,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17559476409320436916",
+        "cites_id": [
+            "17559476409320436916"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Eukaryotic fatty acylation drives plasma membrane targeting and enhances function of several type III effector proteins from Pseudomonas syringae",
+            "pub_year": "2000",
+            "citation": "Cell 101 (4), 353-363, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 364,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18150806219728162440",
+        "cites_id": [
+            "18150806219728162440"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expanded functions for a family of plant intracellular immune receptors beyond specific recognition of pathogen effectors",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (39), 16463-16468, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:SP6oXDckpogC",
+        "num_citations": 362,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5898612864136111955,880901315858142017",
+        "cites_id": [
+            "5898612864136111955",
+            "880901315858142017"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Convergent targeting of a common host protein-network by pathogen effectors from three kingdoms of life",
+            "pub_year": "2014",
+            "citation": "Cell host & microbe 16 (3), 364-375, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:XD-gHx7UXLsC",
+        "num_citations": 357,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16400359462922422558",
+        "cites_id": [
+            "16400359462922422558"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Disease Resistance Signaling Components EDS1 and PAD4 Are Essential Regulators of the Cell Death Pathway Controlled by LSD1 in Arabidopsis",
+            "pub_year": "2001",
+            "citation": "The Plant Cell 13 (10), 2211-2224, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:4TOpqqG69KYC",
+        "num_citations": 350,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8390789491146531014",
+        "cites_id": [
+            "8390789491146531014"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TIR domains of plant immune receptors are NAD+-cleaving enzymes that promote cell death",
+            "pub_year": "2019",
+            "citation": "Science 365 (6455), 799-803, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:5bg8sr1QxYwC",
+        "num_citations": 337,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16962529819361670439",
+        "cites_id": [
+            "16962529819361670439"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Logjam at the Styx: programmed cell death in plants",
+            "pub_year": "1996",
+            "citation": "Trends in Plant Science 1 (4), 114-119, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 335,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15265450113049946385",
+        "cites_id": [
+            "15265450113049946385"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brassinosteroids modulate the efficiency of plant immune responses to microbe-associated molecular patterns",
+            "pub_year": "2012",
+            "citation": "Proceedings of the National Academy of Sciences 109 (1), 297-302, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 329,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1334899723814106621",
+        "cites_id": [
+            "1334899723814106621"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inducible in vivo DNA footprints define sequences necessary for UV light activation of the parsley chalcone synthase gene.",
+            "pub_year": "1989",
+            "citation": "The EMBO journal 8 (3), 651-656, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 328,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8594349621017140",
+        "cites_id": [
+            "8594349621017140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Pseudomonas syringae effector AvrRpt2 cleaves its C-terminally acylated target, RIN4, from Arabidopsis membranes to block RPM1 activation",
+            "pub_year": "2005",
+            "citation": "Proceedings of the National Academy of Sciences 102 (18), 6496-6501, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:IWHjjKOFINEC",
+        "num_citations": 327,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3478493364856623183",
+        "cites_id": [
+            "3478493364856623183"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antagonistic control of disease resistance protein stability in the plant immune system",
+            "pub_year": "2005",
+            "citation": "Science 309 (5736), 929-932, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 312,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4229470516038822654",
+        "cites_id": [
+            "4229470516038822654"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis RIN4 negatively regulates disease resistance mediated by RPS2 and RPM1 downstream or independent of the NDR1 signal modulator and is not required for the virulence \u2026",
+            "pub_year": "2004",
+            "citation": "The Plant Cell 16 (10), 2822-2835, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 309,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15292858898337311437",
+        "cites_id": [
+            "15292858898337311437"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high-throughput, near-saturating screen for type III effector genes from Pseudomonas syringae",
+            "pub_year": "2005",
+            "citation": "Proceedings of the National Academy of Sciences 102 (7), 2549-2554, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 308,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13890876936104599302",
+        "cites_id": [
+            "13890876936104599302"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural soil microbes alter flowering phenology and the intensity of selection on flowering time in a wild Arabidopsis relative",
+            "pub_year": "2014",
+            "citation": "Ecology letters 17 (6), 717-726, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:kRWSkSYxWN8C",
+        "num_citations": 288,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=128126313169471815,11793985055314516152",
+        "cites_id": [
+            "128126313169471815",
+            "11793985055314516152"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RAR1 and NDR1 Contribute Quantitatively to Disease Resistance in Arabidopsis, and Their Relative Contributions Are Dependent on the R Gene Assayed",
+            "pub_year": "2002",
+            "citation": "The Plant Cell 14 (5), 1005-1015, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 282,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8788260974516546624",
+        "cites_id": [
+            "8788260974516546624"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Downy mildew (Peronospora parasitica) resistance genes in Arabidopsis vary in functional requirements for NDR1, EDS1, NPR1 and salicylic acid accumulation",
+            "pub_year": "2000",
+            "citation": "The Plant Journal 22 (6), 523-529, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:4DMP91E08xMC",
+        "num_citations": 281,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=680047379559111239",
+        "cites_id": [
+            "680047379559111239"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification and molecular mapping of a single Arabidopsis thaliana locus determining resistance to a phytopathogenic Pseudomonas syringae isolate",
+            "pub_year": "1991",
+            "citation": "The Plant Journal 1 (3), 289-302, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:aqlVkmm33-oC",
+        "num_citations": 278,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16563838342154230314",
+        "cites_id": [
+            "16563838342154230314"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correlation between segmental flexibility and effector function of antibodies",
+            "pub_year": "1984",
+            "citation": "Nature 307 (5947), 136-140, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:P7Ujq4OLJYoC",
+        "num_citations": 273,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9535504651537255882",
+        "cites_id": [
+            "9535504651537255882"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two-component elements mediate interactions between cytokinin and salicylic acid in plant immunity",
+            "pub_year": "2012",
+            "citation": "PLoS Genetics 8 (1), e1002448, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 268,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2844974635632608319",
+        "cites_id": [
+            "2844974635632608319"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "bZIP10\u2010LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection",
+            "pub_year": "2006",
+            "citation": "The EMBO journal 25 (18), 4400-4411, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 267,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14077775452471881642,8378492654717177908",
+        "cites_id": [
+            "14077775452471881642",
+            "8378492654717177908"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Senescence and programmed cell death",
+            "pub_year": "2000",
+            "citation": "Biochemistry and molecular biology of plants, 1044-1100, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:dhFuZR0502QC",
+        "num_citations": 265,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4473106015607751442",
+        "cites_id": [
+            "4473106015607751442"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis SGT1b is required for defense signaling conferred by several downy mildew resistance genes",
+            "pub_year": "2002",
+            "citation": "The Plant Cell 14 (5), 993-1003, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 257,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10948814859570238246",
+        "cites_id": [
+            "10948814859570238246"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A \u201cWhirly\u201d transcription factor is required for salicylic acid-dependent disease resistance in Arabidopsis",
+            "pub_year": "2004",
+            "citation": "Developmental cell 6 (2), 229-240, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 247,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5409178865674863929",
+        "cites_id": [
+            "5409178865674863929"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A species-wide inventory of NLR genes and alleles in Arabidopsis thaliana",
+            "pub_year": "2019",
+            "citation": "Cell 178 (5), 1260-1272. e14, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:BrOSOlqYqPUC",
+        "num_citations": 246,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18334862236231101667",
+        "cites_id": [
+            "18334862236231101667"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A unified initiative to harness Earth's microbiomes",
+            "pub_year": "2015",
+            "citation": "Science 350 (6260), 507-508, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:kuK5TVdYjLIC",
+        "num_citations": 244,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16947018838909246728",
+        "cites_id": [
+            "16947018838909246728"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis and the plant immune system",
+            "pub_year": "2010",
+            "citation": "The Plant Journal 61 (6), 1053-1066, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:lSLTfruPkqcC",
+        "num_citations": 237,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7831079170768989987",
+        "cites_id": [
+            "7831079170768989987"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis WRKY70 Is Required for Full RPP4-Mediated Disease Resistance and Basal Defense Against Hyaloperonospora parasitica",
+            "pub_year": "2007",
+            "citation": "Molecular plant-microbe interactions 20 (2), 120-128, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:hMod-77fHWUC",
+        "num_citations": 237,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17180942752118367371",
+        "cites_id": [
+            "17180942752118367371"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Climate change and the integrity of science",
+            "pub_year": "2010",
+            "citation": "Science 328 (5979), 689-690, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 227,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1106484805339131412",
+        "cites_id": [
+            "1106484805339131412"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interference between two specific pathogen recognition events mediated by distinct plant disease resistance genes.",
+            "pub_year": "1996",
+            "citation": "The Plant Cell 8 (2), 251-257, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 225,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10859344821343261800",
+        "cites_id": [
+            "10859344821343261800"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The avrRpml gene of Pseudomonas syringae pv. maculicolais required for virulence on Arabidopsis",
+            "pub_year": "1995",
+            "citation": "Mol. Plant-Microbe Interact 8, 444-453, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 224,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4941092470855708521",
+        "cites_id": [
+            "4941092470855708521"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antagonistic control of oxidative stress-induced cell death in Arabidopsis by two related, plant-specific zinc finger proteins",
+            "pub_year": "2003",
+            "citation": "Proceedings of the National Academy of Sciences 100 (11), 6831-6836, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:TFP_iSt0sucC",
+        "num_citations": 218,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5682409733242354811",
+        "cites_id": [
+            "5682409733242354811"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parsley protoplasts retain differential responsiveness to UV light and fungal elicitor",
+            "pub_year": "1987",
+            "citation": "The EMBO journal 6 (9), 2551-2556, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 213,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15085761590866870739",
+        "cites_id": [
+            "15085761590866870739"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A single bacterial genus maintains root growth in a complex microbiome",
+            "pub_year": "2020",
+            "citation": "Nature 587 (7832), 103-108, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:QsaTk4IG4EwC",
+        "num_citations": 211,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11666530355976359782",
+        "cites_id": [
+            "11666530355976359782"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The plant microbiome: from ecology to reductionism and beyond",
+            "pub_year": "2020",
+            "citation": "Annual review of microbiology 74, 81-100, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:SIv7DqKytYAC",
+        "num_citations": 211,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16419568988425810500",
+        "cites_id": [
+            "16419568988425810500"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional homologs of the Arabidopsis RPM1 disease resistance gene in bean and pea.",
+            "pub_year": "1992",
+            "citation": "The Plant Cell 4 (11), 1359-1369, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:-f6ydRqryjwC",
+        "num_citations": 210,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8564949571335704321",
+        "cites_id": [
+            "8564949571335704321"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Specific threonine phosphorylation of a host target by two unrelated type III effectors activates a host innate immune receptor in plants",
+            "pub_year": "2011",
+            "citation": "Cell host & microbe 9 (2), 125-136, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 209,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11699840588425221087",
+        "cites_id": [
+            "11699840588425221087"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LSD1 regulates salicylic acid induction of copper zinc superoxide dismutase in Arabidopsis thaliana",
+            "pub_year": "1999",
+            "citation": "Molecular plant-microbe interactions 12 (11), 1022-1026, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 207,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7114928519093149015",
+        "cites_id": [
+            "7114928519093149015"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional architecture of the light-responsive chalcone synthase promoter from parsley.",
+            "pub_year": "1989",
+            "citation": "The plant cell 1 (7), 707-714, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:hC7cP41nSMkC",
+        "num_citations": 207,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13620565427979611628",
+        "cites_id": [
+            "13620565427979611628"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "De novo assembly using low-coverage short read sequence data from the rice pathogen Pseudomonas syringae pv. oryzae",
+            "pub_year": "2009",
+            "citation": "Genome research 19 (2), 294-305, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 202,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12454154197482495582",
+        "cites_id": [
+            "12454154197482495582"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large-scale structure\u2013function analysis of the Arabidopsis RPM1 disease resistance protein",
+            "pub_year": "2002",
+            "citation": "The Plant Cell 14 (2), 435-450, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:blknAaTinKkC",
+        "num_citations": 201,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7860851436061094132",
+        "cites_id": [
+            "7860851436061094132"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Help wanted: helper NLRs and plant immune responses",
+            "pub_year": "2019",
+            "citation": "Current opinion in plant biology 50, 82-94, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:w0F2JDEymm0C",
+        "num_citations": 195,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2550788249301863937",
+        "cites_id": [
+            "2550788249301863937"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global virulence regulation networks in phytopathogenic bacteria",
+            "pub_year": "2007",
+            "citation": "Trends in microbiology 15 (8), 363-371, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 195,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2075875301692398335",
+        "cites_id": [
+            "2075875301692398335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effector proteins of phytopathogenic bacteria: bifunctional signals in virulence and host recognition",
+            "pub_year": "2000",
+            "citation": "Current opinion in microbiology 3 (1), 73-78, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:mB3voiENLucC",
+        "num_citations": 192,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6224683019935098974",
+        "cites_id": [
+            "6224683019935098974"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant intracellular innate immune receptor Resistance to Pseudomonas syringae pv. maculicola 1 (RPM1) is activated at, and functions on, the plasma membrane",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (18), 7619-7624, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:_xSYboBqXhAC",
+        "num_citations": 189,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3392890003373909985",
+        "cites_id": [
+            "3392890003373909985"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A gene encoding maize caffeoyl-CoA O-methyltransferase confers quantitative resistance to multiple pathogens",
+            "pub_year": "2017",
+            "citation": "Nature Genetics 49 (9), 1364-1372, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:gVv57TyPmFsC",
+        "num_citations": 185,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12405206183499840490",
+        "cites_id": [
+            "12405206183499840490"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Piece de resistance: novel classes of plant disease resistance genes",
+            "pub_year": "1995",
+            "citation": "Cell 80 (3), 363-366, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:HDshCWvjkbEC",
+        "num_citations": 184,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4735444393931200707",
+        "cites_id": [
+            "4735444393931200707"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Design of synthetic bacterial communities for predictable plant phenotypes",
+            "pub_year": "2018",
+            "citation": "PLoS biology 16 (2), e2003962, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:1lhNe0rCu4AC",
+        "num_citations": 182,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14451929271525028487",
+        "cites_id": [
+            "14451929271525028487"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant \u201chelper\u201d immune receptors are Ca2+-permeable nonselective cation channels",
+            "pub_year": "2021",
+            "citation": "Science 373 (6553), 420-425, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:MIg0yeAD4ggC",
+        "num_citations": 180,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4435350532387142500",
+        "cites_id": [
+            "4435350532387142500"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phospholipase\u2010dependent signalling during the AvrRpm1\u2010 and AvrRpt2\u2010induced disease resistance responses in Arabidopsis thaliana",
+            "pub_year": "2006",
+            "citation": "The Plant Journal 47 (6), 947-959, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:35N4QoGY0k4C",
+        "num_citations": 180,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14722277157445184720",
+        "cites_id": [
+            "14722277157445184720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The EDS1\u2013PAD4\u2013ADR1 node mediates Arabidopsis pattern-triggered immunity",
+            "pub_year": "2021",
+            "citation": "Nature 598 (7881), 495-499, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:AzKEL7Gb_04C",
+        "num_citations": 179,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13750458443516398314",
+        "cites_id": [
+            "13750458443516398314"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional borders, genetic fine structure, and distance requirements of cis elements mediating light responsiveness of the parsley chalcone synthase promoter.",
+            "pub_year": "1990",
+            "citation": "Proceedings of the National Academy of Sciences 87 (14), 5387-5391, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 171,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7698137677530276811",
+        "cites_id": [
+            "7698137677530276811"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid activation of a novel plant defense gene is strictly dependent on the Arabidopsis RPM1 disease resistance locus.",
+            "pub_year": "1992",
+            "citation": "The EMBO Journal 11 (13), 4677-4684, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 170,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18217938104676823594",
+        "cites_id": [
+            "18217938104676823594"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Beyond pathogens: microbiota interactions with the plant immune system",
+            "pub_year": "2019",
+            "citation": "Current opinion in microbiology 49, 7-17, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:eO3_k5sD8BwC",
+        "num_citations": 167,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3508746142135910591",
+        "cites_id": [
+            "3508746142135910591"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new eye on NLR proteins: focused on clarity or diffused by complexity?",
+            "pub_year": "2012",
+            "citation": "Current opinion in immunology 24 (1), 41-50, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:abG-DnoFyZgC",
+        "num_citations": 167,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3399969942277148777",
+        "cites_id": [
+            "3399969942277148777"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dead cells do tell tales",
+            "pub_year": "1998",
+            "citation": "Current opinion in plant biology 1 (6), 480-485, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:MLfJN-KU85MC",
+        "num_citations": 167,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3731008821378337616",
+        "cites_id": [
+            "3731008821378337616"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide identification of bacterial plant colonization genes",
+            "pub_year": "2017",
+            "citation": "PLoS Biology 15 (9), e2002860, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:LgRImbQfgY4C",
+        "num_citations": 166,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10859810925602580729",
+        "cites_id": [
+            "10859810925602580729"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extracellular leucine-rich repeats as a platform for receptor/coreceptor complex formation",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (20), 8503-8507, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 166,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=466058222439036862",
+        "cites_id": [
+            "466058222439036862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two modes of pathogen recognition by plants",
+            "pub_year": "2006",
+            "citation": "Proceedings of the National Academy of Sciences 103 (23), 8575-8576, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 162,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10119699993866886042",
+        "cites_id": [
+            "10119699993866886042"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proposed Guidelines for a Unified Nomenclature and Phylogenetic Analysis of Type III Hop Effector Proteins in the Plant Pathogen Pseudomonas syringae",
+            "pub_year": "2005",
+            "citation": "Molecular Plant-Microbe Interactions 18 (4), 275-282, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:BqipwSGYUEgC",
+        "num_citations": 161,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13521466483456169309",
+        "cites_id": [
+            "13521466483456169309"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide assessment of efficiency and specificity in CRISPR/Cas9 mediated multiple site targeting in Arabidopsis",
+            "pub_year": "2016",
+            "citation": "PloS one 11 (9), e0162169, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:0izLItjtcgwC",
+        "num_citations": 160,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7330531626982823560",
+        "cites_id": [
+            "7330531626982823560"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high\u2010throughput method for quantifying growth of phytopathogenic bacteria in Arabidopsis thaliana",
+            "pub_year": "2001",
+            "citation": "The Plant Journal 28 (4), 475-481, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 159,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6806259933848997980",
+        "cites_id": [
+            "6806259933848997980"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Pseudomonas syringae Type III Effector HopAM1 Enhances Virulence on Water-Stressed Plants",
+            "pub_year": "2008",
+            "citation": "Molecular plant-microbe interactions 21 (3), 361-370, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 156,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7539829195215120633",
+        "cites_id": [
+            "7539829195215120633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Runaway cell death, but not basal disease resistance, in lsd1 is SA\u2010 and NIM1/NPR1\u2010dependent",
+            "pub_year": "2002",
+            "citation": "The Plant Journal 29 (3), 381-391, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 153,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15358012164524854905",
+        "cites_id": [
+            "15358012164524854905"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The enigmatic avirulence genes of phytopathogenic bacteria",
+            "pub_year": "1994",
+            "citation": "Bacterial pathogenesis of plants and animals: molecular and cellular \u2026, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 152,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2991587478332379267",
+        "cites_id": [
+            "2991587478332379267"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A parsley 4CL-1 promoter fragment specifies complex expression patterns in transgenic tobacco.",
+            "pub_year": "1991",
+            "citation": "The Plant Cell 3 (5), 435-443, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 149,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8999494168212386743",
+        "cites_id": [
+            "8999494168212386743"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Independent deletions of a pathogen-resistance gene in Brassica and Arabidopsis",
+            "pub_year": "1998",
+            "citation": "Proceedings of the National Academy of Sciences 95 (26), 15843-15848, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:GnPB-g6toBAC",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6975653405511413131",
+        "cites_id": [
+            "6975653405511413131"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression signatures from three genetically separable resistance gene signaling pathways for downy mildew resistance",
+            "pub_year": "2004",
+            "citation": "Plant Physiology 135 (2), 1129-1144, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 147,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2062062932508219732",
+        "cites_id": [
+            "2062062932508219732"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An evolutionarily conserved mediator of plant disease resistance gene function is required for normal Arabidopsis development",
+            "pub_year": "2002",
+            "citation": "Developmental cell 2 (6), 807-817, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:70eg2SAEIzsC",
+        "num_citations": 144,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4022645740470882853,15180119276778808328",
+        "cites_id": [
+            "4022645740470882853",
+            "15180119276778808328"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "National Science Foundation-Sponsored Workshop Report:\u201cThe 2010 Project\u201d functional genomics and the virtual plant. A blueprint for understanding how plants are built and how \u2026",
+            "pub_year": "2000",
+            "citation": "Plant Physiology 123 (2), 423-426, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:k8Z6L05lTy4C",
+        "num_citations": 143,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15031473189854597171",
+        "cites_id": [
+            "15031473189854597171"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The growth\u2013defense pivot: crisis management in plants mediated by LRR-RK surface receptors",
+            "pub_year": "2014",
+            "citation": "Trends in biochemical sciences 39 (10), 447-456, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:WA5NYHcadZ8C",
+        "num_citations": 141,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=365056744918233819",
+        "cites_id": [
+            "365056744918233819"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid isolation of cloned isotype switch variants using fluorescence activated cell sorting",
+            "pub_year": "1982",
+            "citation": "Cytometry: The Journal of the International Society for Analytical Cytology \u2026, 1982"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 141,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4167967294170037988",
+        "cites_id": [
+            "4167967294170037988"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis TAO1 is a TIR-NB-LRR protein that contributes to disease resistance induced by the Pseudomonas syringae effector AvrB",
+            "pub_year": "2008",
+            "citation": "Proceedings of the National Academy of Sciences 105 (17), 6475-6480, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 140,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13120801647309404560",
+        "cites_id": [
+            "13120801647309404560"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The plant metacaspase AtMC1 in pathogen-triggered programmed cell death and aging: functional linkage with autophagy",
+            "pub_year": "2014",
+            "citation": "Cell Death & Differentiation 21 (9), 1399-1408, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ZfRJV9d4-WMC",
+        "num_citations": 138,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15495407944891326191",
+        "cites_id": [
+            "15495407944891326191"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wake of the flood: ascribing functions to the wave of type III effector proteins of phytopathogenic bacteria",
+            "pub_year": "2004",
+            "citation": "Current opinion in microbiology 7 (1), 11-18, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:k_IJM867U9cC",
+        "num_citations": 138,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1996334883726930490",
+        "cites_id": [
+            "1996334883726930490"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Toward a predictive understanding of Earth\u2019s microbiomes to address 21st century challenges",
+            "pub_year": "2016",
+            "citation": "MBio 7 (3), 10.1128/mbio. 00714-16, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ruyezt5ZtCIC",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15487111356076862694",
+        "cites_id": [
+            "15487111356076862694"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resistance gene signaling in plants\u2014complex similarities to animal innate immunity",
+            "pub_year": "2003",
+            "citation": "Current opinion in immunology 15 (1), 20-25, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12669398663980175503",
+        "cites_id": [
+            "12669398663980175503"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Truncated NLR Protein, TIR-NBS2, Is Required for Activated Defense Responses in the exo70B1 Mutant",
+            "pub_year": "2015",
+            "citation": "PLoS genetics 11 (1), e1004945, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:URolC5Kub84C",
+        "num_citations": 133,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12203243347455447414",
+        "cites_id": [
+            "12203243347455447414"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Elucidating bacterial gene functions in the plant microbiome",
+            "pub_year": "2018",
+            "citation": "Cell host & microbe 24 (4), 475-485, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:1yWc8FF-_SYC",
+        "num_citations": 132,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6419866438190282932",
+        "cites_id": [
+            "6419866438190282932"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of Arabidopsis on human health: diversifying our portfolio",
+            "pub_year": "2008",
+            "citation": "Cell 133 (6), 939-943, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 132,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6884599649425361284",
+        "cites_id": [
+            "6884599649425361284"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effects of soil phosphorus content on plant microbiota are driven by the plant phosphate starvation response",
+            "pub_year": "2019",
+            "citation": "PLoS Biology 17 (11), e3000534, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:JTqpx9DYBaYC",
+        "num_citations": 131,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17140831207795001036",
+        "cites_id": [
+            "17140831207795001036"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A duplicated pair of Arabidopsis RING\u2010finger E3 ligases contribute to the RPM1\u2010and RPS2\u2010mediated hypersensitive response",
+            "pub_year": "2005",
+            "citation": "The Plant Journal 44 (2), 258-270, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 130,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12706862700113101041",
+        "cites_id": [
+            "12706862700113101041"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TIR-only protein RBA1 recognizes a pathogen effector to regulate cell death in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (10), E2053-E2062, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 129,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4645040191774278441",
+        "cites_id": [
+            "4645040191774278441"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular and functional analyses of a maize autoactive NB-LRR protein identify precise structural requirements for activity",
+            "pub_year": "2015",
+            "citation": "PLoS pathogens 11 (2), e1004674, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ML0RJ9NH7IQC",
+        "num_citations": 124,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12474791718838677474",
+        "cites_id": [
+            "12474791718838677474"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exonic sequences are required for elicitor and light activation of a plant defense gene, but promoter sequences are sufficient for tissue specific expression.",
+            "pub_year": "1991",
+            "citation": "The EMBO Journal 10 (7), 1767-1775, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 123,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1107855057972606031",
+        "cites_id": [
+            "1107855057972606031"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diverse Evolutionary Mechanisms Shape the Type III Effector Virulence Factor Repertoire in the Plant Pathogen Pseudomonas syringae",
+            "pub_year": "2004",
+            "citation": "Genetics 167 (3), 1341-1360, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1216026221747693198",
+        "cites_id": [
+            "1216026221747693198"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Knowing the dancer from the dance: R-gene products and their interactions with other proteins from host and pathogen",
+            "pub_year": "2001",
+            "citation": "Current opinion in plant biology 4 (4), 288-294, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:RGFaLdJalmkC",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8651538818839915238",
+        "cites_id": [
+            "8651538818839915238"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Type III effector activation via nucleotide binding, phosphorylation, and host target interaction",
+            "pub_year": "2007",
+            "citation": "PLoS pathogens 3 (3), e48, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:rO6llkc54NcC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9440082914052426375,1130587138665386879",
+        "cites_id": [
+            "9440082914052426375",
+            "1130587138665386879"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coordination between microbiota and root endodermis supports plant mineral nutrient homeostasis",
+            "pub_year": "2021",
+            "citation": "Science 371 (6525), eabd0695, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:wE-fMHVdjMkC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1915625606466804670",
+        "cites_id": [
+            "1915625606466804670"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pseudomonas syringae type III effector HopBB1 promotes host transcriptional repressor degradation to regulate phytohormone responses and virulence",
+            "pub_year": "2017",
+            "citation": "Cell host & microbe 21 (2), 156-168, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:9c2xU6iGI7YC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16081646444754205733",
+        "cites_id": [
+            "16081646444754205733"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Niche-Specificity and the Variable Fraction of the Pectobacterium Pan-Genome",
+            "pub_year": "2008",
+            "citation": "Molecular plant-microbe interactions 21 (12), 1549-1560, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:yD5IFk8b50cC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12784276994475751958",
+        "cites_id": [
+            "12784276994475751958"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A draft genome sequence and functional screen reveals the repertoire of type III secreted proteins of Pseudomonas syringae pathovar tabaci 11528",
+            "pub_year": "2009",
+            "citation": "Bmc Genomics 10 (1), 1-19, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11501132985818458688",
+        "cites_id": [
+            "11501132985818458688"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional Interplay Between Arabidopsis NADPH Oxidases and Heterotrimeric G Protein",
+            "pub_year": "2013",
+            "citation": "Molecular plant-microbe interactions 26 (6), 686-694, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13386452300696903158",
+        "cites_id": [
+            "13386452300696903158"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A plant phosphoswitch platform repeatedly targeted by type III effector proteins regulates the output of both tiers of plant immune receptors",
+            "pub_year": "2014",
+            "citation": "Cell host & microbe 16 (4), 484-494, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:9Nmd_mFXekcC",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13745127170288652685",
+        "cites_id": [
+            "13745127170288652685"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EDM2 is required for RPP7\u2010dependent disease resistance in Arabidopsis and affects RPP7 transcript levels",
+            "pub_year": "2007",
+            "citation": "The Plant Journal 49 (5), 829-839, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2531518564854814955",
+        "cites_id": [
+            "2531518564854814955"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two unequally redundant\" helper\" immune receptor families mediate Arabidopsis thaliana intracellular\" sensor\" immune receptor functions",
+            "pub_year": "2020",
+            "citation": "PLoS biology 18 (9), e3000783, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:-DxkuPiZhfEC",
+        "num_citations": 106,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18411589413793680105",
+        "cites_id": [
+            "18411589413793680105"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Specific Arabidopsis HSP90. 2 alleles recapitulate RAR1 cochaperone function in plant NB-LRR disease resistance protein regulation",
+            "pub_year": "2009",
+            "citation": "Proceedings of the National Academy of Sciences 106 (24), 9556-9563, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 106,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10791821301247198965",
+        "cites_id": [
+            "10791821301247198965"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Salicylate-independent lesion formation in Arabidopsis lsd mutants",
+            "pub_year": "1997",
+            "citation": "Molecular plant-microbe interactions 10 (5), 531-536, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ldfaerwXgEUC",
+        "num_citations": 105,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11620989436967937716",
+        "cites_id": [
+            "11620989436967937716"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "UV\u2010inducible transient expression in parsley protoplasts identifies regulatory cis\u2010elements of a chimeric Antirrhinum majus chalcone synthase gene",
+            "pub_year": "1988",
+            "citation": "The EMBO journal 7 (13), 4027-4033, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:M05iB0D1s5AC",
+        "num_citations": 104,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2963746103488107017",
+        "cites_id": [
+            "2963746103488107017"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signaling from the plasma-membrane localized plant immune receptor RPM1 requires self-association of the full-length protein",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (35), E7385-E7394, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:vDZJ-YLwNdEC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14403296389753572375",
+        "cites_id": [
+            "14403296389753572375"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic requirements for signaling from an autoactive plant NB-LRR intracellular innate immune receptor",
+            "pub_year": "2013",
+            "citation": "PLoS genetics 9 (4), e1003465, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14315296991479627575",
+        "cites_id": [
+            "14315296991479627575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Frequent lambda light chain gene rearrangement and expression in a Ly-1 B lymphoma with a productive kappa chain allele.",
+            "pub_year": "1986",
+            "citation": "Proceedings of the National Academy of Sciences 83 (5), 1438-1442, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=886422040520991975",
+        "cites_id": [
+            "886422040520991975"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TNL\u2010mediated immunity in Arabidopsis requires complex regulation of the redundant ADR1 gene family",
+            "pub_year": "2016",
+            "citation": "New Phytologist 210 (3), 960-973, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:xtoqd-5pKcoC",
+        "num_citations": 102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6655844675263958130",
+        "cites_id": [
+            "6655844675263958130"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combining subproteome enrichment and Rubisco depletion enables identification of low abundance proteins differentially regulated during plant defense",
+            "pub_year": "2009",
+            "citation": "Proteomics 9 (1), 138-147, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:a0OBvERweLwC",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5201117674682310964",
+        "cites_id": [
+            "5201117674682310964"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How complex are intracellular immune receptor signaling complexes?",
+            "pub_year": "2012",
+            "citation": "Frontiers in plant science 3, 237, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:tOudhMTPpwUC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8196963603749881875",
+        "cites_id": [
+            "8196963603749881875"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crystal structures of the type III effector protein AvrPphF and its chaperone reveal residues required for plant pathogenesis",
+            "pub_year": "2004",
+            "citation": "Structure 12 (9), 1669-1681, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 85,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16389691495613859593",
+        "cites_id": [
+            "16389691495613859593"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Host genotype and age shape the leaf and root microbiomes of a wild perennial plant. Nat Commun 7: 12151",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:RuPIJ_LgqDgC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4438462351390443003",
+        "cites_id": [
+            "4438462351390443003"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NHL25 and NHL3, two NDR1/HIN1-like genes in Arabidopsis thaliana with potential role (s) in plant defense",
+            "pub_year": "2002",
+            "citation": "Molecular plant-microbe interactions 15 (6), 608-616, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:P5F9QuxV20EC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12916203734265877144",
+        "cites_id": [
+            "12916203734265877144"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic definition of loci involved in Arabidopsis-pathogen interactions",
+            "pub_year": "1993",
+            "citation": "Methods in Arabidopsis research, 393-418, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15758178465655163306",
+        "cites_id": [
+            "15758178465655163306"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Selection of hybridomas and hybridoma variants using the fluorescence activated cell sorter",
+            "pub_year": "1982",
+            "citation": "Journal of Immunological Methods 52 (1), 1-14, 1982"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16597447279118602781",
+        "cites_id": [
+            "16597447279118602781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolation and characterization of broad-spectrum disease-resistant Arabidopsis mutants",
+            "pub_year": "2002",
+            "citation": "Genetics 160 (4), 1661-1671, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:u_35RYKgDlwC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17452994199048527924",
+        "cites_id": [
+            "17452994199048527924"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retromer contributes to immunity-associated cell death in Arabidopsis",
+            "pub_year": "2015",
+            "citation": "The Plant Cell 27 (2), 463-479, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:Z5m8FVwuT1cC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16056164792377994074",
+        "cites_id": [
+            "16056164792377994074"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Molecular Basis of Host Specialization in Bean Pathovars of Pseudomonas syringae",
+            "pub_year": "2012",
+            "citation": "Molecular plant-microbe interactions 25 (7), 877-888, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:08ZZubdj9fEC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16176947228247751284",
+        "cites_id": [
+            "16176947228247751284"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Pseudomonas viridiflava phylogroups in the P.\u2009syringae species complex are characterized by genetic variability and phenotypic plasticity of pathogenicity \u2026",
+            "pub_year": "2014",
+            "citation": "Environmental microbiology 16 (7), 2301-2315, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:5ugPr518TE4C",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3206017723799293637",
+        "cites_id": [
+            "3206017723799293637"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The HopX (AvrPphE) family of Pseudomonas syringae type III effectors require a catalytic triad and a novel N-terminal domain for function",
+            "pub_year": "2007",
+            "citation": "Molecular plant-microbe interactions 20 (4), 346-357, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:KxtntwgDAa4C",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12426431618452626228",
+        "cites_id": [
+            "12426431618452626228"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Microbial pathogenesis of Arabidopsis",
+            "pub_year": "1994",
+            "citation": "Arabidopsis, 705-747, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:fbc8zXXH2BUC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14867011741482565610",
+        "cites_id": [
+            "14867011741482565610"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Next-generation communication",
+            "pub_year": "2009",
+            "citation": "Science 324 (5928), 691-691, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:738O_yMBCRsC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11408452623059904788",
+        "cites_id": [
+            "11408452623059904788"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A protein phosphatase 2C, responsive to the bacterial effector AvrRpm1 but not to the AvrB effector, regulates defense responses in Arabidopsis",
+            "pub_year": "2010",
+            "citation": "The Plant Journal 61 (2), 249-258, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3649890080806085778",
+        "cites_id": [
+            "3649890080806085778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Type III effector proteins: doppelgangers of bacterial virulence",
+            "pub_year": "2006",
+            "citation": "Current opinion in plant biology 9 (4), 376-382, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:f2IySw72cVMC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17359294375404189786",
+        "cites_id": [
+            "17359294375404189786"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Activation of a plant NLR complex through heteromeric association with an autoimmune risk variant of another NLR",
+            "pub_year": "2017",
+            "citation": "Current Biology 27 (8), 1148-1160, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:yMeIxYmEMEAC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12156360123661356241",
+        "cites_id": [
+            "12156360123661356241"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Culturing a plant microbiome community at the cross-Rhodes",
+            "pub_year": "2012",
+            "citation": "New Phytologist 196 (2), 341-344, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:D_sINldO8mEC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17651871725427449148",
+        "cites_id": [
+            "17651871725427449148"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic analysis of developmentally regulated resistance to downy mildew (Hyaloperonospora parasitica) in Arabidopsis thaliana",
+            "pub_year": "2005",
+            "citation": "Molecular Plant-Microbe Interactions 18 (11), 1226-1234, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:u9iWguZQMMsC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2181941440476066406",
+        "cites_id": [
+            "2181941440476066406"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Applications ofArabidopsis thaliana to Outstanding Issues in Plant\u2013Pathogen Interactions",
+            "pub_year": "1993",
+            "citation": "International review of cytology 144, 53-83, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2496441367022290332",
+        "cites_id": [
+            "2496441367022290332"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Specific modulation of the root immune system by a community of commensal bacteria",
+            "pub_year": "2021",
+            "citation": "Proceedings of the National Academy of Sciences 118 (16), e2100678118, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:L_l9e5I586QC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6808709746374007761",
+        "cites_id": [
+            "6808709746374007761"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nucleotide sequence, functional characterization and evolution of pFKN, a virulence plasmid in Pseudomonas syringae pathovar maculicola",
+            "pub_year": "2003",
+            "citation": "Molecular Microbiology 47 (6), 1545-1562, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:D03iK_w7-QYC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10010735373811318059",
+        "cites_id": [
+            "10010735373811318059"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Suppressors of the Arabidopsis lsd5 cell death mutation identify genes involved in regulating disease resistance responses",
+            "pub_year": "1999",
+            "citation": "Genetics 151 (1), 305-319, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:dshw04ExmUIC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14875597907255956088",
+        "cites_id": [
+            "14875597907255956088"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AvrRpm1 functions as an ADP-ribosyl transferase to modify NOI domain-containing proteins, including Arabidopsis and soybean RPM1-interacting protein4",
+            "pub_year": "2019",
+            "citation": "The Plant cell 31 (11), 2664-2681, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:SGW5VrABaM0C",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18200311799263321228",
+        "cites_id": [
+            "18200311799263321228"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genetic and cultural transmission of alcohol use, alcoholism, cigarette smoking and coffee drinking: A review and an example using a log linear cultural transmission model",
+            "pub_year": "1985",
+            "citation": "British Journal of Addiction 80 (3), 269-279, 1985"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:uWiczbcajpAC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6316017876698860316",
+        "cites_id": [
+            "6316017876698860316"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The major histocompatibility complex \u00e0 la carte: are there analogies to plant disease resistance genes on the menu?",
+            "pub_year": "1992",
+            "citation": "The Plant Journal 2 (1), 3-11, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16626658293558451275",
+        "cites_id": [
+            "16626658293558451275"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pseudomonas syringae type III effector HopAF1 suppresses plant immunity by targeting methionine recycling to block ethylene induction",
+            "pub_year": "2016",
+            "citation": "Proceedings of the National Academy of Sciences 113 (25), E3577-E3586, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:YohjEiUPhakC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=486696308507165074",
+        "cites_id": [
+            "486696308507165074"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant immune system activation is necessary for efficient root colonization by auxin-secreting beneficial bacteria",
+            "pub_year": "2021",
+            "citation": "Cell host & microbe 29 (10), 1507-1520. e4, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:NMlhSUseqAsC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9712972125607304732",
+        "cites_id": [
+            "9712972125607304732"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Perception and response in plant disease resistance",
+            "pub_year": "1994",
+            "citation": "Current Opinion in Genetics & Development 4 (5), 662-671, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:NhqRSupF_l8C",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11659490294899805733",
+        "cites_id": [
+            "11659490294899805733"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recognition of pathogens by plants",
+            "pub_year": "2000",
+            "citation": "Current biology 10 (1), R5-R7, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:UxriW0iASnsC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17479801720384280148",
+        "cites_id": [
+            "17479801720384280148"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multilab EcoFAB study shows highly reproducible physiology and depletion of soil metabolites by a model grass",
+            "pub_year": "2019",
+            "citation": "New Phytologist 222 (2), 1149-1160, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:HGTzPopzzJcC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7998145111343172002",
+        "cites_id": [
+            "7998145111343172002"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation and structure of chalcone synthase genes.",
+            "pub_year": "1989",
+            "citation": "Cell Culture and Somatic Cell genetics in Plants 6, 155, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:u-coK7KVo8oC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8682022783219571042",
+        "cites_id": [
+            "8682022783219571042"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A complex immune response to flagellin epitope variation in commensal communities",
+            "pub_year": "2021",
+            "citation": "Cell Host & Microbe 29 (4), 635-649. e9, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:AYInfyleIOsC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13859181662949558412",
+        "cites_id": [
+            "13859181662949558412"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning microbial interaction networks from metagenomic count data",
+            "pub_year": "2016",
+            "citation": "Journal of Computational Biology 23 (6), 526-535, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:0KyAp5RtaNEC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5483593964254516870",
+        "cites_id": [
+            "5483593964254516870"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AtSERPIN1 is an inhibitor of the metacaspase AtMC1\u2010mediated cell death and autocatalytic processing in planta",
+            "pub_year": "2018",
+            "citation": "New Phytologist 218 (3), 1156-1166, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:HIFyuExEbWQC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2394919201494447717",
+        "cites_id": [
+            "2394919201494447717"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effector-Triggered Immune Response in Arabidopsis thaliana Is a Quantitative Trait",
+            "pub_year": "2016",
+            "citation": "Genetics 204 (1), 337-353, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:8d8msizDQcsC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=216613920336441805",
+        "cites_id": [
+            "216613920336441805"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant pathology: many roads lead to resistance",
+            "pub_year": "1996",
+            "citation": "Current Biology 6 (6), 634-637, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:p2g8aNsByqUC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1546565966480444233",
+        "cites_id": [
+            "1546565966480444233"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Foundational and translational research opportunities to improve plant health",
+            "pub_year": "2017",
+            "citation": "Molecular plant-microbe interactions 30 (7), 515-516, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:QD3KBmkZPeQC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9111745937452398990",
+        "cites_id": [
+            "9111745937452398990"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "T cell ontogeny. Organ location of maturing populations as defined by surface antigen markers is similar in neonates and adults.",
+            "pub_year": "1981",
+            "citation": "The Journal of experimental medicine 153 (3), 605-614, 1981"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17684211360904008832",
+        "cites_id": [
+            "17684211360904008832"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LSU network hubs integrate abiotic and biotic stress responses via interaction with the superoxide dismutase FSD2",
+            "pub_year": "2017",
+            "citation": "Journal of Experimental Botany 68 (5), 1185-1197, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:HtS1dXgVpQUC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2078179162758137326",
+        "cites_id": [
+            "2078179162758137326"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ultrastructure of the host  pathogen interface in Arabidopsis thaliana leaves infected by the downy mildew Hyaloperonospora parasitica",
+            "pub_year": "2004",
+            "citation": "Canadian Journal of Botany 82 (7), 1001-1008, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6033643770039222847",
+        "cites_id": [
+            "6033643770039222847"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A host target of a bacterial cysteine protease virulence effector plays a key role in convergent evolution of plant innate immune system receptors",
+            "pub_year": "2020",
+            "citation": "New Phytologist 225 (3), 1327-1342, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:2l5NCbZemmgC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6061161187989151806",
+        "cites_id": [
+            "6061161187989151806"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The emergence of Arabidopsis thaliana as a model for plant-pathogen interactions",
+            "pub_year": "1993",
+            "citation": "Advances in plant pathology 10, 127-156, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16187904718926529455",
+        "cites_id": [
+            "16187904718926529455"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shared TIR enzymatic functions regulate cell death and immunity across the tree of life",
+            "pub_year": "2022",
+            "citation": "Science 377 (6605), eabo0001, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:zUl2_INMlC4C",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6076615017184505746",
+        "cites_id": [
+            "6076615017184505746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Talking through walls: signaling in plant development",
+            "pub_year": "1995",
+            "citation": "Cell 83 (7), 1071-1077, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:XiSMed-E-HIC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16493727480111204922",
+        "cites_id": [
+            "16493727480111204922"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MT-Toolbox: improved amplicon sequencing using molecule tags",
+            "pub_year": "2014",
+            "citation": "BMC bioinformatics 15 (1), 1-7, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:t7zJ5fGR-2UC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18283619030891353873",
+        "cites_id": [
+            "18283619030891353873"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulatory elements controlling developmental and stress-induced expression of phenylpropanoid genes",
+            "pub_year": "1992",
+            "citation": "Genes Involved in Plant Defense, 303-326, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:Tiz5es2fbqcC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4545405991480893772",
+        "cites_id": [
+            "4545405991480893772"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Concerted action of evolutionarily ancient and novel SNARE complexes in flowering-plant cytokinesis",
+            "pub_year": "2018",
+            "citation": "Developmental cell 44 (4), 500-511. e4, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ALROH1vI_8AC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7295304323823225540",
+        "cites_id": [
+            "7295304323823225540"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis AtMORC4 and AtMORC7 form nuclear bodies and repress a large number of protein-coding genes",
+            "pub_year": "2016",
+            "citation": "PLoS Genetics 12 (5), e1005998, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:XoXfffV-tXoC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10538544380261577661",
+        "cites_id": [
+            "10538544380261577661"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative Genomics of Multiple Strains of Pseudomonas cannabina pv. alisalensis, a Potential Model Pathogen of Both Monocots and Dicots",
+            "pub_year": "2013",
+            "citation": "PLoS One 8 (3), e59366, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:sSrBHYA8nusC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14917746554622237261",
+        "cites_id": [
+            "14917746554622237261"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis ADR1 helper NLR immune receptors localize and function at the plasma membrane in a phospholipid dependent manner",
+            "pub_year": "2021",
+            "citation": "New Phytologist 232 (6), 2440-2456, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ZqE1mSdD_DYC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18286529438756376743",
+        "cites_id": [
+            "18286529438756376743"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Treasure your exceptions: unusual domains in immune receptors reveal host virulence targets",
+            "pub_year": "2015",
+            "citation": "Cell 161 (5), 957-960, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:L7CI7m0gUJcC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8277646897247431560",
+        "cites_id": [
+            "8277646897247431560"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variable Suites of Non-effector Genes Are Co-regulated in the Type III Secretion Virulence Regulon across the Pseudomonas syringae Phylogeny",
+            "pub_year": "2014",
+            "citation": "PLoS pathogens 10 (1), e1003807, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:bnK-pcrLprsC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3514181679202194362,10446126072761679765",
+        "cites_id": [
+            "3514181679202194362",
+            "10446126072761679765"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A pentangular plant inflammasome",
+            "pub_year": "2019",
+            "citation": "Science 364 (6435), 31-32, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:pAkWuXOU-OoC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16611120473623736298",
+        "cites_id": [
+            "16611120473623736298"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bacterial pathogenesis of plants and animals: Molecular and cellular mechanisms",
+            "pub_year": "2013",
+            "citation": "Springer, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:B3FOqHPlNUQC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5265197876324188773",
+        "cites_id": [
+            "5265197876324188773"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What a difference a Dalton makes: bacterial virulence factors modulate eukaryotic host cell signaling systems via deamidation",
+            "pub_year": "2013",
+            "citation": "Microbiology and Molecular Biology Reviews 77 (3), 527-539, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:1qzjygNMrQYC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14977343738525235536",
+        "cites_id": [
+            "14977343738525235536"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the parsley chalcone-synthase promoter in response to different light qualities",
+            "pub_year": "1994",
+            "citation": "Planta 193 (2), 275-282, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:WbkHhVStYXYC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5498624192242441605",
+        "cites_id": [
+            "5498624192242441605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signatures of antagonistic pleiotropy in a bacterial flagellin epitope",
+            "pub_year": "2021",
+            "citation": "Cell Host & Microbe 29 (4), 620-634. e9, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:C33y2ycGS3YC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673639530251285850",
+        "cites_id": [
+            "15673639530251285850"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phevamine A, a small molecule that suppresses plant immune responses",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (41), E9514-E9522, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:prdVHNxh-e8C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6131079400152617250,13140849188410764729",
+        "cites_id": [
+            "6131079400152617250",
+            "13140849188410764729"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Con\u2010Ca2+\u2010tenating plant immune responses via calcium\u2010permeable cation channels",
+            "pub_year": "2022",
+            "citation": "New Phytologist 234 (3), 813-818, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:SxCCDk4iOpsC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8926549179739804976",
+        "cites_id": [
+            "8926549179739804976"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis cell surface LRR immune receptor signaling through the EDS1-PAD4-ADR1 node",
+            "pub_year": "2020",
+            "citation": "BioRxiv, 2020.11. 23.391516, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ghEM2AJqZyQC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6768597470735269077",
+        "cites_id": [
+            "6768597470735269077"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Specific missense alleles of the Arabidopsis jasmonic acid co-receptor COI1 regulate innate immune receptor accumulation and function",
+            "pub_year": "2012",
+            "citation": "Public Library of Science 8 (10), e1003018, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:BrmTIyaxlBUC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12583511538304084109",
+        "cites_id": [
+            "12583511538304084109"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AvrRpm1 Missense Mutations Weakly Activate RPS2-Mediated Immune Response in Arabidopsis thaliana",
+            "pub_year": "2012",
+            "citation": "Public Library of Science 7 (8), e42633, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:dQ2og3OwTAUC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10911772072823925741",
+        "cites_id": [
+            "10911772072823925741"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A chemical screen for suppressors of the avrRpm1-RPM1-dependent hypersensitive cell death response in Arabidopsis thaliana",
+            "pub_year": "2010",
+            "citation": "Planta 231, 1013-1023, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9766515568532033921",
+        "cites_id": [
+            "9766515568532033921"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning microbial interaction networks from metagenomic count data",
+            "pub_year": "2015",
+            "citation": "Research in Computational Molecular Biology: 19th Annual International \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:WJVC3Jt7v1AC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14777028133090899408",
+        "cites_id": [
+            "14777028133090899408"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gluconate metabolism is required for virulence of the soft-rot pathogen Pectobacterium carotovorum",
+            "pub_year": "2010",
+            "citation": "Molecular plant-microbe interactions 23 (10), 1335-1344, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12079188872017656102",
+        "cites_id": [
+            "12079188872017656102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Draft genome sequences of a phylogenetically diverse suite of Pseudomonas syringae strains from multiple source populations",
+            "pub_year": "2014",
+            "citation": "Genome announcements 2 (1), 10.1128/genomea. 01195-13, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:PoWvk5oyLR8C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4368601774423596657",
+        "cites_id": [
+            "4368601774423596657"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomics and the virtual plant. A blueprint for understanding how plants are built and how to improve them",
+            "pub_year": "2000",
+            "citation": "Plant Physiol 123, 423-425, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:4fGpz3EwCPoC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17061829023371112624",
+        "cites_id": [
+            "17061829023371112624"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Paired plant immune receptors",
+            "pub_year": "2014",
+            "citation": "Science 344 (6181), 267-268, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:J-pR_7NvFogC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=436284384254155277",
+        "cites_id": [
+            "436284384254155277"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Root microbiome modulates plant growth promotion induced by low doses of glyphosate",
+            "pub_year": "2020",
+            "citation": "MSphere 5 (4), 10.1128/msphere. 00484-20, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:hSRAE-fF4OAC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7313440639299736545",
+        "cites_id": [
+            "7313440639299736545"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis thaliana pan-NLRome",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 537001, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:NDuN12AVoxsC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10263665406784636075",
+        "cites_id": [
+            "10263665406784636075"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nibbling at the plant cell nucleus",
+            "pub_year": "2007",
+            "citation": "Science 315 (5815), 1088-1089, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:vRqMK49ujn8C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18337849226143529161",
+        "cites_id": [
+            "18337849226143529161"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biological averaging in RNA-seq",
+            "pub_year": "2013",
+            "citation": "arXiv preprint arXiv:1309.0670, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:N5tVd3kTz84C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8645045735675808719",
+        "cites_id": [
+            "8645045735675808719"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tradict enables accurate prediction of eukaryotic transcriptional states from 100 marker genes",
+            "pub_year": "2017",
+            "citation": "Nature communications 8 (1), 15309, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:_FM0Bhl9EiAC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6676443976026481323",
+        "cites_id": [
+            "6676443976026481323"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Novel Rhizosphere Soil Alleles for the Enzyme 1-Aminocyclopropane-1-Carboxylate Deaminase Queried for Function with an In Vivo Competition Assay",
+            "pub_year": "2016",
+            "citation": "Applied and Environmental Microbiology 82 (4), 1050-1059, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:VaXvl8Fpj5cC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1791403610354712458",
+        "cites_id": [
+            "1791403610354712458"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Root development is maintained by specific bacteria-bacteria interactions within a complex microbiome",
+            "pub_year": "2019",
+            "citation": "networks 12, 13, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:F2UWTTQJPOcC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8299386241397607752",
+        "cites_id": [
+            "8299386241397607752"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Allelic variation in the Arabidopsis TNL CHS3/CSA1 immune receptor pair reveals two functional cell-death regulatory modes",
+            "pub_year": "2022",
+            "citation": "Cell Host & Microbe 30 (12), 1701-1716. e5, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:hQUaER0FWQ4C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3744169648176008258",
+        "cites_id": [
+            "3744169648176008258"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of beneficial and detrimental bacteria impacting sorghum responses to drought using multi-scale and multi-system microbiome comparisons",
+            "pub_year": "2022",
+            "citation": "The ISME journal 16 (8), 1957-1969, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:tHtfpZlB6tUC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12738091146589219682",
+        "cites_id": [
+            "12738091146589219682"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The plant immune receptors NRG1. 1 and ADR1 are calcium influx channels",
+            "pub_year": "2021",
+            "citation": "BioRxiv, 2021.02. 25.431980, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:eAlLMO4JVmQC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3361886412186513119",
+        "cites_id": [
+            "3361886412186513119"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New horizons for plant translational research",
+            "pub_year": "2014",
+            "citation": "PLoS Biology 12 (6), e1001880, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:uLbwQdceFCQC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11417124626287663322",
+        "cites_id": [
+            "11417124626287663322"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effects of soil phosphorous content on microbiota are driven by the plant phosphate starvation response",
+            "pub_year": "2019",
+            "citation": "BioRxiv, 608133, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:VN7nJs4JPk0C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4220313240806386296",
+        "cites_id": [
+            "4220313240806386296"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stimulation of phenylpropanoid pathways by environmental factors",
+            "pub_year": "1987",
+            "citation": "NATO ASI series. Series A: life sciences 140, 315-326, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10602577543896464871",
+        "cites_id": [
+            "10602577543896464871"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Erratum: Ultrastructure of the host  pathogen interface in Arabidopsis thaliana leaves infected by the downy mildew Hyaloperonospora parasitica",
+            "pub_year": "2004",
+            "citation": "Canadian Journal of Botany 82 (10), 1545, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:lgwcVrK6X84C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18440917926714351169,15680656267852113943",
+        "cites_id": [
+            "18440917926714351169",
+            "15680656267852113943"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diverse MarR bacterial regulators of auxin catabolism in the plant microbiome",
+            "pub_year": "2022",
+            "citation": "Nature Microbiology 7 (11), 1817-1833, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:QVtou7C4vgoC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10540186753777588018",
+        "cites_id": [
+            "10540186753777588018"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRAGE-Duet facilitates modular assembly of biological systems for studying plant\u2013microbe interactions",
+            "pub_year": "2020",
+            "citation": "ACS Synthetic Biology 9 (9), 2610-2615, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:g5Ck-dwhA_QC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17718707353430253224",
+        "cites_id": [
+            "17718707353430253224"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis research 2000",
+            "pub_year": "2000",
+            "citation": "The Plant Cell 12 (12), 2302-2309, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:geHnlv5EZngC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6010960798250364467",
+        "cites_id": [
+            "6010960798250364467"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An integrated workflow for phenazine-modifying enzyme characterization",
+            "pub_year": "2018",
+            "citation": "Journal of Industrial Microbiology and Biotechnology 45 (7), 567-577, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:43bX7VzcjpAC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18230451682319752360",
+        "cites_id": [
+            "18230451682319752360"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plasma membrane association and resistosome formation of plant helper immune receptors",
+            "pub_year": "2023",
+            "citation": "Proceedings of the National Academy of Sciences 120 (32), e2222036120, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:yY3RG6sOEgwC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14304540148755044878",
+        "cites_id": [
+            "14304540148755044878"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of protein extraction methods for metaproteomic analyses of root-associated microbes",
+            "pub_year": "2022",
+            "citation": "Molecular Plant-Microbe Interactions 35 (11), 977-988, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:OzeSX8-yOCQC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12521358816466403458",
+        "cites_id": [
+            "12521358816466403458"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coiled-coil and RPW8-type immune receptors function at the plasma membrane in a phospholipid dependent manner",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.11. 18.388520, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:kJDgFkosVoMC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=314490763873972833",
+        "cites_id": [
+            "314490763873972833"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: Molecular and functional analyses of a maize autoactive NB-LRR protein identify precise structural requirements for activity",
+            "pub_year": "2015",
+            "citation": "PLoS Pathogens 11 (4), e1004830, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:p__nRnzSRKYC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4490161134022896546",
+        "cites_id": [
+            "4490161134022896546"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Primer and platform effects on 16S rRNA tag sequencing",
+            "pub_year": "2015",
+            "citation": "Frontiers in, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:RtRctb2lSbAC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15309529716361703464",
+        "cites_id": [
+            "15309529716361703464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Founding father of FACS: Professor Leonard A. Herzenberg (1931\u20132013)",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (52), 20848-20849, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:-_dYPAW6P2MC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17117632899962518114",
+        "cites_id": [
+            "17117632899962518114"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "S. L. Momson, L. Stryer, LA Herzenberg, and VT Oi. 1988. Segmental flexibility and complement fixation of genetically engineered chimeric human, rabbit and mouse antibodies",
+            "pub_year": "1989",
+            "citation": "EMBO J 7, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:zGdJYJv2LkUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17353718948745905850",
+        "cites_id": [
+            "17353718948745905850"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Broader functions of TIR domains in Arabidopsis immunity",
+            "pub_year": "2023",
+            "citation": "Proceedings of the National Academy of Sciences 120 (11), e2220921120, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ijdKiLOsEJMC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3197926701286599778",
+        "cites_id": [
+            "3197926701286599778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular call-and-response: how Salmonella learns the gospel from its host",
+            "pub_year": "2003",
+            "citation": "Trends in microbiology 11 (6), 245-246, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9078797176003940894",
+        "cites_id": [
+            "9078797176003940894"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genes involved in bacterial pathogenesis of plants",
+            "pub_year": "1995",
+            "citation": "Prokaryotes, 293-303, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14370041412747028940",
+        "cites_id": [
+            "14370041412747028940"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A single bacterial genus maintains root development in a complex microbiome",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 645655, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:wLxue7F8ec0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1085948290305934815",
+        "cites_id": [
+            "1085948290305934815"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural soil microbes alter flowering phenology and the intensity of selection on flowering time in a wild Arabidopsis relative (vol 18, pg 218, 2015)",
+            "pub_year": "2015",
+            "citation": "ECOLOGY LETTERS 18 (2), 218-220, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:silx2ntsSuwC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18227920793750299101",
+        "cites_id": [
+            "18227920793750299101"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tradict enables high fidelity reconstruction of the eukaryotic transcriptome from 100 marker genes",
+            "pub_year": "2016",
+            "citation": "bioRxiv, 060111, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:4hFrxpcac9AC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9295372580640771678",
+        "cites_id": [
+            "9295372580640771678"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "10 years of Current Opinion in Plant Biology 1998\u20132007",
+            "pub_year": "2007",
+            "citation": "Current Opinion in Plant Biology 10 (6), 543-545, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:Mojj43d5GZwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1114713751236545436",
+        "cites_id": [
+            "1114713751236545436"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Editorial overview: An embarrassment of riches.",
+            "pub_year": "2021",
+            "citation": "Current Opinion in Plant Biology 62, 102105-102105, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:CNPyR2KL9-0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17497565151636100562",
+        "cites_id": [
+            "17497565151636100562"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interview with Jeffrey L. Dangl",
+            "pub_year": "2014",
+            "citation": "Trends in Plant Science 19 (6), 342-343, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:i2xiXl-TujoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4637820189853407635",
+        "cites_id": [
+            "4637820189853407635"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CORRELATION OF ISOTYPE WITH SEGMENTAL FLEXIBILITY AND COMPLEMENT FIXATION AMONG FAMILIES OF IMMUNOGLOBULINS WITH IDENTICAL COMBINING SITES (GENE TRANSFER)",
+            "pub_year": "1986",
+            "citation": "Stanford University, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:T_ojBgVMvoEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9614602864212204149",
+        "cites_id": [
+            "9614602864212204149"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Is localized acquired resistance the mechanism for effector-triggered disease resistance in plants?",
+            "pub_year": "2023",
+            "citation": "Nature Plants, 1-7, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:sfnaS5RM6jYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: Identification of beneficial and detrimental bacteria impacting sorghum responses to drought using multi-scale and multi-system microbiome comparisons",
+            "pub_year": "2023",
+            "citation": "The ISME Journal 17 (8), 1353, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:2vr6o8x5NLkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systems Analysis of the Physiological and Molecular Mechanisms of Sorghum Nitrogen Use Efficiency, Water Use Efficiency and Interactions with the Soil Microbiome (Final Report \u2026",
+            "pub_year": "2022",
+            "citation": "Univ. of Nebraska, Lincoln, NE (United States), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:eI34FqJmdUoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leveraging the natural diversity of the Arabidopsis TIRome for structure-function insights into TIR-mediated resistance",
+            "pub_year": "2021",
+            "citation": "MOLECULAR PLANT-MICROBE INTERACTIONS 34 (7), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:YTuZlYwrTOUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and compositions useful for inhibiting growth of certain bacteria",
+            "pub_year": "2021",
+            "citation": "US Patent App. 16/866,308, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:D_tqNUsBuKoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional Manipulation of Root Endophyte Populations for Feedstock Improvement-Final Report",
+            "pub_year": "2017",
+            "citation": "Univ. of North Carolina, Chapel Hill, NC (United States), 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:ce2CqMG-AY4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pseudomonas syringae effector, HopBB1, targets JAZ suppressor to modulate hormone balance in plant immune response",
+            "pub_year": "2013",
+            "citation": "MOLECULAR BIOLOGY OF THE CELL 24, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:vbGhcppDl1QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Specific Missense Alleles of the Arabidopsis Jasmonic Acid Co-Receptor COI1 Regulate Innate",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IeBc5OsAAAAJ:LjlpjdlvIbIC",
+        "num_citations": 0
+    }
+]

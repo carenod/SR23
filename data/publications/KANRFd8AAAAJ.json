@@ -1,0 +1,457 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant circadian clocks increase photosynthesis, growth, survival, and competitive advantage",
+            "pub_year": "2005",
+            "citation": "Science 309 (5734), 630-633, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1579,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9233493532824026896",
+        "cites_id": [
+            "9233493532824026896"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimental validation of a predicted feedback loop in the multi-oscillator clock of Arabidopsis thaliana",
+            "pub_year": "2006",
+            "citation": "Molecular systems biology 2 (1), 2006"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 489,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15376770396618312801",
+        "cites_id": [
+            "15376770396618312801"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ochratoxin production by Aspergillus species.",
+            "pub_year": "1996",
+            "citation": "Appl. Environ. Microbiol. 62 (12), 4461-4464, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 336,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13868309804231570786",
+        "cites_id": [
+            "13868309804231570786"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian clock-regulated expression of phytochrome and cryptochrome genes in Arabidopsis",
+            "pub_year": "2001",
+            "citation": "Plant physiology 127 (4), 1607-1616, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 326,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5511917938985135797",
+        "cites_id": [
+            "5511917938985135797"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reversible 26S proteasome disassembly upon mitochondrial stress",
+            "pub_year": "2014",
+            "citation": "Cell reports 7 (5), 1371-1380, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:8k81kl-MbHgC",
+        "num_citations": 166,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9578593764157545327",
+        "cites_id": [
+            "9578593764157545327"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional interaction of the circadian clock and UV RESISTANCE LOCUS 8\u2010controlled UV\u2010B signaling pathways in Arabidopsis thaliana",
+            "pub_year": "2011",
+            "citation": "The Plant Journal 67 (1), 37-48, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5937234341437551054",
+        "cites_id": [
+            "5937234341437551054"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Forward genetic analysis of the circadian clock separates the multiple functions of ZEITLUPE",
+            "pub_year": "2006",
+            "citation": "Plant physiology 140 (3), 933-945, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 115,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14075820453684972526",
+        "cites_id": [
+            "14075820453684972526"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Ubiquitin Ligase CHIP Integrates Proteostasis and Aging by Regulation of Insulin Receptor Turnover",
+            "pub_year": "2017",
+            "citation": "Cell 169 (3), 470-482. e13, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8090552203265105354",
+        "cites_id": [
+            "8090552203265105354"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pathogenesis of human mitochondrial diseases is modulated by reduced activity of the ubiquitin/proteasome system",
+            "pub_year": "2014",
+            "citation": "Cell metabolism 19 (4), 642-652, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:5nxA0vEk-isC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1181518806783270760",
+        "cites_id": [
+            "1181518806783270760"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Machado-Joseph disease deubiquitylase ATX-3 couples longevity and proteostasis",
+            "pub_year": "2011",
+            "citation": "Nature cell biology 13 (3), 273-281, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:roLk4NBRz8UC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10642600838270501127",
+        "cites_id": [
+            "10642600838270501127"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light-regulated nucleo-cytoplasmic partitioning of phytochromes",
+            "pub_year": "2007",
+            "citation": "Journal of experimental botany 58 (12), 3113-3124, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:qjMakFHDy7sC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=253714351187280507",
+        "cites_id": [
+            "253714351187280507"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ubiquitin sets the timer: impacts on aging and longevity",
+            "pub_year": "2014",
+            "citation": "Nature structural & molecular biology 21 (4), 290-292, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:Se3iqnhoufwC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17042620015234861181",
+        "cites_id": [
+            "17042620015234861181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Double-stranded RNA mycoviruses in species of Aspergillus sections Circumdati and Fumigati",
+            "pub_year": "1998",
+            "citation": "Canadian journal of microbiology 44 (6), 569-574, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10130796130562596079",
+        "cites_id": [
+            "10130796130562596079"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional analysis of amino-terminal domains of the photoreceptor phytochrome B",
+            "pub_year": "2010",
+            "citation": "Plant physiology 153 (4), 1834-1845, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10815129306005615550",
+        "cites_id": [
+            "10815129306005615550"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Repair or Destruction: An Intimate Liaison Between Ubiquitin Ligases and Molecular Chaperones in Proteostasis",
+            "pub_year": "2017",
+            "citation": "FEBS letters, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:Zph67rFs4hoC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1573675046496552712",
+        "cites_id": [
+            "1573675046496552712"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "< i> Arabidopsis thaliana</i> Circadian Clock Is Regulated by the Small GTPase LIP1",
+            "pub_year": "2007",
+            "citation": "Current Biology 17 (17), 1456-1464, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7179105512698056482",
+        "cites_id": [
+            "7179105512698056482"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome controlled signalling cascades in higher plants",
+            "pub_year": "2003",
+            "citation": "Physiologia plantarum 117 (3), 305-313, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5311580791533178075",
+        "cites_id": [
+            "5311580791533178075"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "E4 ligase-specific ubiquitination hubs coordinate DNA double-strand-break repair and apoptosis",
+            "pub_year": "2016",
+            "citation": "Nature structural & molecular biology, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:UebtZRa9Y70C",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16811667726952223965",
+        "cites_id": [
+            "16811667726952223965"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Machado\u2013Joseph disease deubiquitylase ataxin\u20103 interacts with LC3C/GABARAP and promotes autophagy",
+            "pub_year": "2020",
+            "citation": "Aging cell 19 (1), e13051, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:4TOpqqG69KYC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14464017145377004913",
+        "cites_id": [
+            "14464017145377004913"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of genetic variability within the genus Petromyces",
+            "pub_year": "2000",
+            "citation": "Antonie van Leeuwenhoek 77 (1), 83-89, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6224948878491768894",
+        "cites_id": [
+            "6224948878491768894"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular analysis of variability within the toxigenic Aspergillus ochraceus species",
+            "pub_year": "2000",
+            "citation": "Canadian journal of microbiology 46 (7), 593-599, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12343435670189760478",
+        "cites_id": [
+            "12343435670189760478"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Double-edged alliance: mitochondrial surveillance by the UPS and autophagy",
+            "pub_year": "2015",
+            "citation": "Current opinion in cell biology 37, 18-27, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9417849284819143727",
+        "cites_id": [
+            "9417849284819143727"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Circadian Clock-Associated Small GTPase LIGHT INSENSITIVE PERIOD1 Suppresses Light-Controlled Endoreplication and Affects Tolerance to Salt Stress in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "Plant physiology 161 (1), 278-290, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14197833009775488741",
+        "cites_id": [
+            "14197833009775488741"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the functional genomics of Parkinson\u2019s disease in Caenorhabditis elegans: LRRK2 and beyond",
+            "pub_year": "2021",
+            "citation": "Bioscience Reports 41 (9), BSR20203672, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8659489697545480965",
+        "cites_id": [
+            "8659489697545480965"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolation of variants of Petromyces albertensis with altered ochratoxin production",
+            "pub_year": "1997",
+            "citation": "CEREAL RESEARCH COMMUNICATIONS 25 (3), 305-306, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8699164091704761376",
+        "cites_id": [
+            "8699164091704761376"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic variability within the toxigenic Petromyces genus",
+            "pub_year": "1997",
+            "citation": "CEREAL RESEARCH COMMUNICATIONS 25 (3), 285-289, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:WF5omc3nYNoC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6344743951337484814",
+        "cites_id": [
+            "6344743951337484814"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome signal transduction",
+            "pub_year": "2003",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14916549508850351764",
+        "cites_id": [
+            "14916549508850351764"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome signaI transduction",
+            "pub_year": "2003",
+            "citation": "Photoreceptors and light signalling 3, 181, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:ufrVoPGSRksC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of impaired protein ubiquitination on cellular proteostasis decline and mitochondrial dysfunction in ageing",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "KANRFd8AAAAJ:_kc_bZDykSQC",
+        "num_citations": 0
+    }
+]

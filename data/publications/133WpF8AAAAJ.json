@@ -1,0 +1,3160 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide association study of 107 phenotypes in Arabidopsis thaliana inbred lines",
+            "pub_year": "2010",
+            "citation": "Nature 465 (7298), 627-631, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 1853,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14699000566417280346",
+        "cites_id": [
+            "14699000566417280346"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Pattern of Polymorphism in Arabidopsis thaliana",
+            "pub_year": "2005",
+            "citation": "PLoS biology 3 (7), e196, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1080,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11272447776105196538",
+        "cites_id": [
+            "11272447776105196538"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "1,135 Genomes Reveal the Global Pattern of Polymorphism in Arabidopsis thaliana",
+            "pub_year": "2016",
+            "citation": "Cell 166 (2), 481\u2013491, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:uwWlEQcBbEIC",
+        "num_citations": 1034,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10423965159084282826,8576215701032018220",
+        "cites_id": [
+            "10423965159084282826",
+            "8576215701032018220"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis lyrata genome sequence and the basis of rapid genome size change",
+            "pub_year": "2011",
+            "citation": "Nature genetics 43 (5), 476-481, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 889,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2345392246893627954",
+        "cites_id": [
+            "2345392246893627954"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Arabidopsis Example of Association Mapping in Structured Samples",
+            "pub_year": "2007",
+            "citation": "PLoS genetics 3 (1), e4, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 855,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15628106189353312572",
+        "cites_id": [
+            "15628106189353312572"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An efficient multi-locus mixed-model approach for genome-wide association studies in structured populations",
+            "pub_year": "2012",
+            "citation": "Nature genetics 44 (7), 825-830, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:zA6iFVUQeVQC",
+        "num_citations": 852,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11708484008576721312",
+        "cites_id": [
+            "11708484008576721312"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Common Sequence Polymorphisms Shaping Genetic Diversity in Arabidopsis thaliana",
+            "pub_year": "2007",
+            "citation": "science 317 (5836), 338-342, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 836,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3218709964637422278",
+        "cites_id": [
+            "3218709964637422278"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genealogical trees, coalescent theory and the analysis of genetic polymorphisms",
+            "pub_year": "2002",
+            "citation": "Nature Reviews Genetics 3 (5), 380-390, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 793,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8708405885848680065",
+        "cites_id": [
+            "8708405885848680065"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A single IGF1 allele is a major determinant of small size in dogs",
+            "pub_year": "2007",
+            "citation": "Science 316 (5821), 112-115, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 730,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8477146869367129249",
+        "cites_id": [
+            "8477146869367129249"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Map of Local Adaptation in Arabidopsis thaliana",
+            "pub_year": "2011",
+            "citation": "Science 334 (6052), 86-89, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:mB3voiENLucC",
+        "num_citations": 709,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15766213071941476593",
+        "cites_id": [
+            "15766213071941476593"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effects of local selection, balanced polymorphism and background selection on equilibrium patterns of genetic diversity in subdivided populations",
+            "pub_year": "1997",
+            "citation": "Genetics Research 70 (2), 155-174, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 705,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2263917529782745466",
+        "cites_id": [
+            "2263917529782745466"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linkage disequilibrium: what history has to tell us",
+            "pub_year": "2002",
+            "citation": "TRENDS in Genetics 18 (2), 83-90, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 628,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17494922444736615200",
+        "cites_id": [
+            "17494922444736615200"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coalescent theory",
+            "pub_year": "2019",
+            "citation": "Handbook of Statistical Genomics: Two Volume Set, 145-30, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 581,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7608587676102534036,1290358186624395335",
+        "cites_id": [
+            "7608587676102534036",
+            "1290358186624395335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombination and linkage disequilibrium in Arabidopsis thaliana",
+            "pub_year": "2007",
+            "citation": "Nature genetics 39 (9), 1151-1155, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:WF5omc3nYNoC",
+        "num_citations": 581,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17955710904326081009",
+        "cites_id": [
+            "17955710904326081009"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-Wide Association Mapping in Arabidopsis Identifies Previously Known Flowering Time and Pathogen Resistance Genes",
+            "pub_year": "2005",
+            "citation": "PLoS genetics 1 (5), e60, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 569,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3026299928071474464",
+        "cites_id": [
+            "3026299928071474464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide patterns of genetic variation in worldwide Arabidopsis thaliana accessions from the RegMap panel",
+            "pub_year": "2012",
+            "citation": "Nature genetics 44 (2), 212-216, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 568,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1991509233439497242",
+        "cites_id": [
+            "1991509233439497242"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The extent of linkage disequilibrium in Arabidopsis thaliana",
+            "pub_year": "2002",
+            "citation": "Nature genetics 30 (2), 190-193, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:qjMakFHDy7sC",
+        "num_citations": 564,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13406169393938199308",
+        "cites_id": [
+            "13406169393938199308"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomic diversity in a global collection of Arabidopsis thaliana accessions",
+            "pub_year": "2016",
+            "citation": "Cell 166 (2), 492-505, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:qfTKKVVEecAC",
+        "num_citations": 561,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14133520150290051181",
+        "cites_id": [
+            "14133520150290051181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linkage and Association Mapping of Arabidopsis thaliana Flowering Time in Nature",
+            "pub_year": "2010",
+            "citation": "PLoS genetics 6 (5), e1000940, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:aqlVkmm33-oC",
+        "num_citations": 551,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13636148391375811583",
+        "cites_id": [
+            "13636148391375811583"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Next-generation genetics in plants",
+            "pub_year": "2008",
+            "citation": "Nature 456 (7223), 720-723, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 501,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1940984009710608748",
+        "cites_id": [
+            "1940984009710608748"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role of FRIGIDA and FLOWERING LOCUS C in Determining Variation in Flowering Time of Arabidopsis",
+            "pub_year": "2005",
+            "citation": "Plant physiology 138 (2), 1163-1173, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:ufrVoPGSRksC",
+        "num_citations": 479,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13456768279061504688",
+        "cites_id": [
+            "13456768279061504688"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation in Arabidopsis has a genetic basis and shows evidence of local adaptation",
+            "pub_year": "2015",
+            "citation": "elife 4, e05255, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 444,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16616612377046175536",
+        "cites_id": [
+            "16616612377046175536"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A mixed-model approach for genome-wide association studies of correlated traits in structured populations",
+            "pub_year": "2012",
+            "citation": "Nature genetics 44 (9), 1066-1071, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:yD5IFk8b50cC",
+        "num_citations": 439,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15623941713264436847",
+        "cites_id": [
+            "15623941713264436847"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linkage disequilibrium, gene trees and selfing: an ancestral recombination graph with partial self-fertilization",
+            "pub_year": "2000",
+            "citation": "Genetics 154 (2), 923-929, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 438,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14855890916565368307",
+        "cites_id": [
+            "14855890916565368307"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Capsella rubella genome and the genomic consequences of rapid mating system evolution",
+            "pub_year": "2013",
+            "citation": "Nature genetics 45 (7), 831-835, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:UxriW0iASnsC",
+        "num_citations": 406,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12578435729997238622",
+        "cites_id": [
+            "12578435729997238622"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Scale of Population Structure in Arabidopsis thaliana",
+            "pub_year": "2010",
+            "citation": "PLoS genetics 6 (2), e1000843, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 402,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4930119433222073297",
+        "cites_id": [
+            "4930119433222073297"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Coastal Cline in Sodium Accumulation in Arabidopsis thaliana Is Driven by Natural Variation of the Sodium Transporter AtHKT1;1",
+            "pub_year": "2010",
+            "citation": "PLoS genetics 6 (11), e1001193, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 390,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1720088532535457009",
+        "cites_id": [
+            "1720088532535457009"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Massive genomic variation and strong selection in Arabidopsis thaliana lines from Sweden",
+            "pub_year": "2013",
+            "citation": "Nature genetics 45 (8), 884-890, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:uWQEDVKXjbEC",
+        "num_citations": 376,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12618019077855967682",
+        "cites_id": [
+            "12618019077855967682"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural allelic variation underlying a major fitness trade-off in Arabidopsis thaliana",
+            "pub_year": "2010",
+            "citation": "Nature 465 (7298), 632-636, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 366,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17559476409320436916",
+        "cites_id": [
+            "17559476409320436916"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Haplotype block structure and its applications to association studies: power and study designs",
+            "pub_year": "2002",
+            "citation": "The American Journal of Human Genetics 71 (6), 1386-1394, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 350,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12352055602092598133",
+        "cites_id": [
+            "12352055602092598133"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Association mapping of local climate-sensitive quantitative trait loci in Arabidopsis thaliana",
+            "pub_year": "2010",
+            "citation": "Proceedings of the National Academy of Sciences 107 (49), 21199-21204, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 326,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13728915971382317990",
+        "cites_id": [
+            "13728915971382317990"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide association study of Arabidopsis thaliana leaf microbial community",
+            "pub_year": "2014",
+            "citation": "Nature communications 5 (1), 5320, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:sSrBHYA8nusC",
+        "num_citations": 308,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12355371379062747478",
+        "cites_id": [
+            "12355371379062747478"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effect of recombination on background selection",
+            "pub_year": "1996",
+            "citation": "Genetics Research 67 (2), 159-174, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:roLk4NBRz8UC",
+        "num_citations": 302,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4625367033593889496",
+        "cites_id": [
+            "4625367033593889496"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-Wide Association Studies Identify Heavy Metal ATPase3 as the Primary Determinant of Natural Variation in Leaf Cadmium in Arabidopsis thaliana",
+            "pub_year": "2012",
+            "citation": "Public Library of Science 8 (9), e1002923, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:a0OBvERweLwC",
+        "num_citations": 257,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3301099629652114627",
+        "cites_id": [
+            "3301099629652114627"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-resolution analysis of parent-of-origin allelic expression in the Arabidopsis endosperm",
+            "pub_year": "2011",
+            "citation": "PLoS genetics 7 (6), e1002126, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:iH-uZ7U-co4C",
+        "num_citations": 243,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7445094311294291251",
+        "cites_id": [
+            "7445094311294291251"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structured coalescent processes on different time scales",
+            "pub_year": "1997",
+            "citation": "Genetics 146 (4), 1501-1514, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 235,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10453605389759348110",
+        "cites_id": [
+            "10453605389759348110"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variation in the epigenetic silencing of FLC contributes to natural variation in Arabidopsis vernalization response",
+            "pub_year": "2006",
+            "citation": "Genes & development 20 (22), 3079-3083, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 234,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13722634705274922138",
+        "cites_id": [
+            "13722634705274922138"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "50 years of Arabidopsis research: highlights and future directions",
+            "pub_year": "2016",
+            "citation": "New Phytologist 209 (3), 921-944, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:1qzjygNMrQYC",
+        "num_citations": 210,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13230322452160694109",
+        "cites_id": [
+            "13230322452160694109"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the probability of Neanderthal ancestry",
+            "pub_year": "1998",
+            "citation": "The American Journal of Human Genetics 63 (4), 1237-1240, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 210,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888465127414868043",
+        "cites_id": [
+            "11888465127414868043"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conditions under which genome-wide association studies will be positively misleading",
+            "pub_year": "2010",
+            "citation": "Genetics 186 (3), 1045-1052, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:isC4tDSrTZIC",
+        "num_citations": 202,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3022397777736971527",
+        "cites_id": [
+            "3022397777736971527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequencing of the genus Arabidopsis identifies a complex history of nonbifurcating speciation and abundant trans-specific polymorphism",
+            "pub_year": "2016",
+            "citation": "Nature genetics 48 (9), 1077-1082, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:T64LSalLz9oC",
+        "num_citations": 189,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7386137865082389817",
+        "cites_id": [
+            "7386137865082389817"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The nature of confounding in genome-wide association studies",
+            "pub_year": "2013",
+            "citation": "Nature Reviews Genetics 14 (1), 1-2, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:bFI3QPDXJZMC",
+        "num_citations": 189,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7969697801333173950",
+        "cites_id": [
+            "7969697801333173950"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide patterns of single-feature polymorphism in Arabidopsis thaliana",
+            "pub_year": "2007",
+            "citation": "Proceedings of the National Academy of Sciences 104 (29), 12057-12062, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:Se3iqnhoufwC",
+        "num_citations": 185,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1933633488974409014",
+        "cites_id": [
+            "1933633488974409014"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The coalescent process with selfing",
+            "pub_year": "1997",
+            "citation": "Genetics 146 (3), 1185-1195, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:UebtZRa9Y70C",
+        "num_citations": 178,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7558422606872562746",
+        "cites_id": [
+            "7558422606872562746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic architecture of skin and eye color in an African-European admixed population",
+            "pub_year": "2013",
+            "citation": "PLoS genetics 9 (3), e1003372, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 177,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8165690868700530077",
+        "cites_id": [
+            "8165690868700530077"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the meaning and existence of an effective population size",
+            "pub_year": "2005",
+            "citation": "Genetics 169 (2), 1061-1070, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 175,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15260585864458774078",
+        "cites_id": [
+            "15260585864458774078"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of genomics on the study of natural variation in Arabidopsis",
+            "pub_year": "2003",
+            "citation": "Plant physiology 132 (2), 718-725, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 175,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1711645081690335724",
+        "cites_id": [
+            "1711645081690335724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GWAPP: a web application for genome-wide association mapping in Arabidopsis",
+            "pub_year": "2012",
+            "citation": "The Plant Cell 24 (12), 4793-4805, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:_xSYboBqXhAC",
+        "num_citations": 173,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8513263202521758618,11661619236154878750",
+        "cites_id": [
+            "8513263202521758618",
+            "11661619236154878750"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The evolution of selfing in Arabidopsis thaliana",
+            "pub_year": "2007",
+            "citation": "Science 317 (5841), 1070-1072, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:Zph67rFs4hoC",
+        "num_citations": 171,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15814551930975346436",
+        "cites_id": [
+            "15814551930975346436"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Co-variation between seed dormancy, growth rate and flowering time changes with latitude in Arabidopsis thaliana",
+            "pub_year": "2013",
+            "citation": "PloS one 8 (5), e61075, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:dshw04ExmUIC",
+        "num_citations": 167,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2129755562161228960",
+        "cites_id": [
+            "2129755562161228960"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Nonparametric Test Reveals Selection for Rapid Flowering in the       Arabidopsis Genome",
+            "pub_year": "2006",
+            "citation": "PLoS biology 4 (5), e137, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:_kc_bZDykSQC",
+        "num_citations": 160,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7376024417219625128",
+        "cites_id": [
+            "7376024417219625128"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Unique Recent Origin of the Allotetraploid Species Arabidopsis suecica: Evidence from Nuclear DNA Markers",
+            "pub_year": "2006",
+            "citation": "Molecular biology and evolution 23 (6), 1217-1231, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:4TOpqqG69KYC",
+        "num_citations": 153,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11853542948568138268",
+        "cites_id": [
+            "11853542948568138268"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effect of seed and rosette cold treatment on germination and flowering time in some Arabidopsis thaliana (Brassicaceae) ecotypes ",
+            "pub_year": "1999",
+            "citation": "American Journal of Botany 86 (4), 470-475, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:5nxA0vEk-isC",
+        "num_citations": 138,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13393455531952245267",
+        "cites_id": [
+            "13393455531952245267"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide survey of Arabidopsis natural variation in downy mildew resistance using combined association and linkage mapping",
+            "pub_year": "2010",
+            "citation": "Proceedings of the National Academy of Sciences 107 (22), 10302-10307, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:r0BpntZqJG4C",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15165845460435293886",
+        "cites_id": [
+            "15165845460435293886"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Spontaneous Mutation Rate in the Fission Yeast Schizosaccharomyces pombe",
+            "pub_year": "2015",
+            "citation": "Genetics 201 (2), 737-744, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12902579754747461857",
+        "cites_id": [
+            "12902579754747461857"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiple FLC haplotypes defined by independent cis-regulatory variation underpin life history diversity in Arabidopsis thaliana",
+            "pub_year": "2014",
+            "citation": "Genes & Development 28 (15), 1635-1640, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:08ZZubdj9fEC",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1773939615361167629",
+        "cites_id": [
+            "1773939615361167629"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of Arabidopsis on human health: diversifying our portfolio",
+            "pub_year": "2008",
+            "citation": "Cell 133 (6), 939-943, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 132,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6884599649425361284",
+        "cites_id": [
+            "6884599649425361284"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural variation in Arabidopsis. How do we find the causal genes?",
+            "pub_year": "2005",
+            "citation": "Plant Physiology 138 (2), 567-568, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:M3ejUd6NZC8C",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10793744696364464461",
+        "cites_id": [
+            "10793744696364464461"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution and Control of Imprinted FWA Genes in the Genus Arabidopsis",
+            "pub_year": "2008",
+            "citation": "PLoS Genetics 4 (4), e1000048, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:qUcmZB5y_30C",
+        "num_citations": 127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4200034469757292527",
+        "cites_id": [
+            "4200034469757292527"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distribution of genetic variation within and among local populations of Arabidopsis thaliana over its species range",
+            "pub_year": "2006",
+            "citation": "Molecular ecology 15 (5), 1405-1418, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 123,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18045241855827708592",
+        "cites_id": [
+            "18045241855827708592"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequence Variation and Haplotype Structure Surrounding the Flowering Time Locus FRI in Arabidopsis thaliana",
+            "pub_year": "2002",
+            "citation": "Genetics 161 (1), 289-298, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:0EnyYjriUFMC",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4500665187135851858",
+        "cites_id": [
+            "4500665187135851858"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effect of gene conversion on intralocus associations",
+            "pub_year": "1998",
+            "citation": "Genetics 148 (3), 1397-1399, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:8k81kl-MbHgC",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1957712584912850425",
+        "cites_id": [
+            "1957712584912850425"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hot and cold spots of recombination in the human genome: the reason we should find them and how this can be achieved",
+            "pub_year": "2003",
+            "citation": "The American Journal of Human Genetics 73 (1), 5-16, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2909637201510969441",
+        "cites_id": [
+            "2909637201510969441"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genome of the vervet (Chlorocebus aethiops sabaeus)",
+            "pub_year": "2015",
+            "citation": "Genome research 25 (12), 1921-1933, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7915940605777308038",
+        "cites_id": [
+            "7915940605777308038"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Separation of time scales and convergence to the coalescent in structured populations",
+            "pub_year": "2002",
+            "citation": "Modern developments in theoretical population genetics: The legacy of \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 105,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12111806327268602083",
+        "cites_id": [
+            "12111806327268602083"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Handbook of statistical genetics",
+            "pub_year": "2001",
+            "citation": "John Wiley & Sons, Chichester, UK, 179-212, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:6UW509z96lEC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12425598524784267754",
+        "cites_id": [
+            "12425598524784267754"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Major-effect alleles at relatively few loci underlie distinct vernalization and flowering variation in Arabidopsis accessions",
+            "pub_year": "2011",
+            "citation": "PLoS One 6 (5), e19949, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:GnPB-g6toBAC",
+        "num_citations": 102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=178696499777695910",
+        "cites_id": [
+            "178696499777695910"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Population genomics for understanding adaptation in wild plant species",
+            "pub_year": "2015",
+            "citation": "Annual review of genetics 49, 315-338, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:eflP2zaiRacC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16232156392393166876",
+        "cites_id": [
+            "16232156392393166876"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Aquilegia genome provides insight into adaptive radiation and reveals an extraordinarily polymorphic chromosome with a unique history",
+            "pub_year": "2018",
+            "citation": "Elife 7, e36426, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:bjlTY1bLvvcC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4581844844785965210",
+        "cites_id": [
+            "4581844844785965210"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AraPheno: a public database for Arabidopsis thaliana phenotypes",
+            "pub_year": "2016",
+            "citation": "Nucleic Acids Research, gkw986, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:6biGW3np0psC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9214912262796366442",
+        "cites_id": [
+            "9214912262796366442"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombination or mutational hot spots in human mtDNA?",
+            "pub_year": "2002",
+            "citation": "Molecular biology and evolution 19 (7), 1122-1127, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18064070910935781592",
+        "cites_id": [
+            "18064070910935781592"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Limited Contribution of DNA Methylation Variation to Expression Regulation in Arabidopsis thaliana",
+            "pub_year": "2016",
+            "citation": "PLoS genetics 12 (7), e1006141, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:XfMaBeGYgSgC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11098417544673250578",
+        "cites_id": [
+            "11098417544673250578"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular, genetic and evolutionary analysis of a paracentric inversion in Arabidopsis thaliana",
+            "pub_year": "2016",
+            "citation": "The Plant Journal 88 (2), 159-178, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:jKffii5DqX8C",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18185080384178448000",
+        "cites_id": [
+            "18185080384178448000"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Why structure matters",
+            "pub_year": "2019",
+            "citation": "Elife 8, e45380, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:6daZS1cS2l8C",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12950246770828001694",
+        "cites_id": [
+            "12950246770828001694"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Selection on Amino Acid Substitutions in Arabidopsis",
+            "pub_year": "2008",
+            "citation": "Molecular biology and evolution 25 (7), 1375-1383, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:IWHjjKOFINEC",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9140657473323140784",
+        "cites_id": [
+            "9140657473323140784"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Probability and Chromosomal Extent of trans-specific Polymorphism",
+            "pub_year": "2004",
+            "citation": "Genetics 168 (4), 2363-2372, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:-f6ydRqryjwC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17356393050068379036",
+        "cites_id": [
+            "17356393050068379036"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Increased levels of polymorphism surrounding selectively maintained sites in highly selling species",
+            "pub_year": "1996",
+            "citation": "Proceedings of the Royal Society of London. Series B: Biological Sciences \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8613449871444109543",
+        "cites_id": [
+            "8613449871444109543"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ancient hybridization and strong adaptation to viruses across African vervet monkey populations",
+            "pub_year": "2017",
+            "citation": "Nature genetics 49 (12), 1705-1713, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:QDEWnZBrHwAC",
+        "num_citations": 85,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5674868768449922839",
+        "cites_id": [
+            "5674868768449922839"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Haplotype Structure and Phenotypic Associations in the Chromosomal Regions Surrounding Two Arabidopsis thaliana Flowering Time Loci",
+            "pub_year": "2004",
+            "citation": "Genetics 168 (3), 1627-1638, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:4DMP91E08xMC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5199877389925121076",
+        "cites_id": [
+            "5199877389925121076"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular population genetics",
+            "pub_year": "2002",
+            "citation": "Current opinion in plant biology 5 (1), 69-73, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3674262170545207231",
+        "cites_id": [
+            "3674262170545207231"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Source verification of mis\u2010identified Arabidopsis thaliana accessions",
+            "pub_year": "2011",
+            "citation": "The Plant Journal 67 (3), 554-566, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:blknAaTinKkC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=166925712728797257",
+        "cites_id": [
+            "166925712728797257"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\"Missing\" G x E Variation Controls Flowering Time in Arabidopsis thaliana",
+            "pub_year": "2015",
+            "citation": "PLoS genetics 11 (10), e1005597, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:J-pR_7NvFogC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2200999627556664328",
+        "cites_id": [
+            "2200999627556664328"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Keeping It Local: Evidence for Positive Selection in Swedish Arabidopsis thaliana",
+            "pub_year": "2014",
+            "citation": "Molecular Biology and Evolution 31 (11), 3026-3039, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:tS2w5q8j5-wC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11737929539309261480",
+        "cites_id": [
+            "11737929539309261480"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the post-glacial spread of human commensal Arabidopsis thaliana",
+            "pub_year": "2017",
+            "citation": "Nature Communications 8 (1), 14458, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:DNd5GTInPq4C",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17550859856047274831",
+        "cites_id": [
+            "17550859856047274831"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The AraGWAS Catalog: a curated and standardized Arabidopsis thaliana GWAS catalog",
+            "pub_year": "2018",
+            "citation": "Nucleic acids research 46 (D1), D1150-D1156, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:f14mYpCygl4C",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17999829391911619817",
+        "cites_id": [
+            "17999829391911619817"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Germline replications and somatic mutation accumulation are independent of vegetative life span in Arabidopsis",
+            "pub_year": "2016",
+            "citation": "Proceedings of the National Academy of Sciences 113 (43), 12226-12231, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:YW75zINC-7AC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17903052726898234601",
+        "cites_id": [
+            "17903052726898234601"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The pattern of polymorphism on human chromosome 21",
+            "pub_year": "2003",
+            "citation": "Genome Research 13 (6a), 1158-1168, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:hC7cP41nSMkC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5757957347755174617",
+        "cites_id": [
+            "5757957347755174617"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome Sequencing Reveals the Origin of the Allotetraploid Arabidopsis suecica",
+            "pub_year": "2017",
+            "citation": "Molecular Biology and Evolution 34 (4), 957-968, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:tYdqGa2HnWcC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1396193368879093759",
+        "cites_id": [
+            "1396193368879093759"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genealogy of sequences containing multiple sites subject to strong selection in a subdivided population",
+            "pub_year": "2003",
+            "citation": "Genetics 163 (3), 1201-1213, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:dhFuZR0502QC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8192440698265030989",
+        "cites_id": [
+            "8192440698265030989"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A general population-genetic model for the production by population structure of spurious genotype\u2013phenotype associations in discrete, admixed or spatially distributed populations",
+            "pub_year": "2006",
+            "citation": "Genetics 173 (3), 1665-1678, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:HDshCWvjkbEC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16579977950801032748",
+        "cites_id": [
+            "16579977950801032748"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiple alleles at a single locus control seed dormancy in Swedish Arabidopsis",
+            "pub_year": "2016",
+            "citation": "elife 5, e22502, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:RaRNlNDkcy8C",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11426395190025043220",
+        "cites_id": [
+            "11426395190025043220"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gradual evolution of allopolyploidy in Arabidopsis suecica",
+            "pub_year": "2021",
+            "citation": "Nature Ecology & Evolution 5 (10), 1367-1381, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:xEWuX1mE_FUC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10101413782799523848",
+        "cites_id": [
+            "10101413782799523848"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring population genetic models with recombination using efficient forward-time simulations",
+            "pub_year": "2008",
+            "citation": "Genetics 178 (4), 2417-2427, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15849364951168818232",
+        "cites_id": [
+            "15849364951168818232"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating the rate of gene conversion on human chromosome 21",
+            "pub_year": "2004",
+            "citation": "The American Journal of Human Genetics 75 (3), 386-397, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1416978573693745719",
+        "cites_id": [
+            "1416978573693745719"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AraPheno and the AraGWAS Catalog 2020: a major database update including RNA-Seq and knockout mutation data for Arabidopsis thaliana",
+            "pub_year": "2020",
+            "citation": "Nucleic acids research 48 (D1), D1063-D1068, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:YfTjWGZx48AC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5152202843130925855",
+        "cites_id": [
+            "5152202843130925855"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Association mapping with single-feature polymorphisms",
+            "pub_year": "2006",
+            "citation": "Genetics 173 (2), 1125-1133, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2573398369871194018",
+        "cites_id": [
+            "2573398369871194018"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unstable Inheritance of 45S rRNA Genes in Arabidopsis thaliana",
+            "pub_year": "2017",
+            "citation": "G3: Genes, Genomes, Genetics 7 (4), 1201-1209, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:FjmlLC3huY4C",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=702954549606577441",
+        "cites_id": [
+            "702954549606577441"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adjust quality scores from alignment and improve sequencing accuracy",
+            "pub_year": "2004",
+            "citation": "Nucleic acids research 32 (17), 5183-5191, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:k_IJM867U9cC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13347220218979225276",
+        "cites_id": [
+            "13347220218979225276"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Common alleles of CMT2 and NRPE1 are major determinants of CHH methylation variation in Arabidopsis thaliana",
+            "pub_year": "2019",
+            "citation": "PLoS genetics 15 (12), e1008492, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:B-V0BYNYc0AC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12194719442558164780",
+        "cites_id": [
+            "12194719442558164780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PoolHap: inferring haplotype frequencies from pooled samples by next generation sequencing",
+            "pub_year": "2011",
+            "citation": "PloS one 6 (1), e15292, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:35N4QoGY0k4C",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2424500845314843945",
+        "cites_id": [
+            "2424500845314843945"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Patterns of Polymorphism at the Self-Incompatibility Locus in 1,083 Arabidopsis thaliana Genomes",
+            "pub_year": "2017",
+            "citation": "Molecular Biology and Evolution 34 (8), 1878-1889, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:Nw5Pwe77XXAC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15720440885365690752",
+        "cites_id": [
+            "15720440885365690752"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating recombination rates from single-nucleotide polymorphisms using summary statistics",
+            "pub_year": "2006",
+            "citation": "Genetics 174 (3), 1517-1528, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:RHpTSmoSYBkC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12756264170722421994",
+        "cites_id": [
+            "12756264170722421994"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Likelihoods and simulation methods for a class of nonneutral population genetics models",
+            "pub_year": "2001",
+            "citation": "Genetics 159 (2), 853-867, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:TQgYirikUcIC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4320249821347304411",
+        "cites_id": [
+            "4320249821347304411"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A proposal regarding best practices for validating the identity of genetic stocks and the effects of genetic variants",
+            "pub_year": "2016",
+            "citation": "The Plant Cell 28 (3), 606-609, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:olpn-zPbct0C",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8456778316121753539",
+        "cites_id": [
+            "8456778316121753539"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Relative Influences of Crossing Over and Gene Conversion on the Pattern of Linkage Disequilibrium in Arabidopsis thaliana",
+            "pub_year": "2006",
+            "citation": "Genetics 172 (4), 2441-2448, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7835015207007969951",
+        "cites_id": [
+            "7835015207007969951"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epistatic and allelic interactions control expression of ribosomal RNA gene clusters in Arabidopsis thaliana",
+            "pub_year": "2017",
+            "citation": "Genome biology 18 (1), 1-15, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:VJOaslTFpLQC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4757322324833087460",
+        "cites_id": [
+            "4757322324833087460"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genetic architecture of freezing tolerance varies across the range of Arabidopsis thaliana",
+            "pub_year": "2016",
+            "citation": "Plant, cell & environment 39 (11), 2570-2579, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:WgBxaE7EUScC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12461234432322805969",
+        "cites_id": [
+            "12461234432322805969"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis shoot stem cells display dynamic transcription and DNA methylation patterns",
+            "pub_year": "2020",
+            "citation": "The EMBO Journal 39 (20), e103667, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:7iKzEIWBYlQC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9727120012615275295",
+        "cites_id": [
+            "9727120012615275295"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Aquilegia genome reveals a hybrid origin of core eudicots",
+            "pub_year": "2019",
+            "citation": "Genome Biology 20, 1-12, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:PicmXY_cuE0C",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16236292505385667695",
+        "cites_id": [
+            "16236292505385667695"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An International Bioinformatics Infrastructure to Underpin the Arabidopsis Community",
+            "pub_year": "2010",
+            "citation": "The Plant Cell 22 (8), 2530-2536, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12976975620140550650",
+        "cites_id": [
+            "12976975620140550650"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic Variation at Nuclear Loci Fails to Distinguish Two Morphologically Distinct Species of Aquilegia",
+            "pub_year": "2010",
+            "citation": "PLoS One 5 (1), e8655, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:BqipwSGYUEgC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16856879205151504268",
+        "cites_id": [
+            "16856879205151504268"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptive reduction of male gamete number in the selfing plant Arabidopsis thaliana",
+            "pub_year": "2020",
+            "citation": "Nature Communications 11 (1), 2885, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:bF3sBmdg0HEC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3472516725969108294",
+        "cites_id": [
+            "3472516725969108294"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global genetic heterogeneity in adaptive traits",
+            "pub_year": "2021",
+            "citation": "Molecular Biology and Evolution 38 (11), 4822-4831, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:V1pH50uuazEC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5125622150482984688",
+        "cites_id": [
+            "5125622150482984688"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic Architecture of Natural Variation of Telomere Length in Arabidopsis thaliana",
+            "pub_year": "2015",
+            "citation": "Genetics 199 (2), 625-635, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:geHnlv5EZngC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4096045856447040602",
+        "cites_id": [
+            "4096045856447040602"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The maternal environment interacts with genetic variation in regulating seed dormancy in Swedish Arabidopsis thaliana",
+            "pub_year": "2017",
+            "citation": "PloS one 12 (12), e0190242, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:nazVBdFzvK0C",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5629479477463856398",
+        "cites_id": [
+            "5629479477463856398"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comparison of population types used for QTL mapping in Arabidopsis thaliana",
+            "pub_year": "2011",
+            "citation": "Plant Genetic Resources 9 (2), 185-188, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:J_g5lzvAfSwC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2228656709078167044",
+        "cites_id": [
+            "2228656709078167044"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Eco-metabolomics and metabolic modeling: making the leap from model systems in the lab to native populations in the field",
+            "pub_year": "2018",
+            "citation": "Frontiers in Plant Science 9, 1556, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:OJBCU0UFcNkC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=19129334701543055",
+        "cites_id": [
+            "19129334701543055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Verification of Arabidopsis stock collections using SNPmatch, a tool for genotyping high-plexed samples",
+            "pub_year": "2017",
+            "citation": "Scientific data 4 (1), 1-9, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:jLZKTOxUWNYC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9083148069682073683",
+        "cites_id": [
+            "9083148069682073683"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The extent of linkage disequilibrium and haplotype sharing around a polymorphic site",
+            "pub_year": "2003",
+            "citation": "Genetics 165 (1), 437-444, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8621903711553285255",
+        "cites_id": [
+            "8621903711553285255"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant genetic effects on microbial hubs impact host fitness in repeated field trials",
+            "pub_year": "2022",
+            "citation": "Proceedings of the National Academy of Sciences 119 (30), e2201285119, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:wxMeWMEqLDMC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2496514523510564206",
+        "cites_id": [
+            "2496514523510564206"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On detecting ancient admixture",
+            "pub_year": "2001",
+            "citation": "Genes, fossils, and behaviour: An integrated approach to human evolution 310 \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17100592755896867508",
+        "cites_id": [
+            "17100592755896867508"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GWAS with heterogeneous data: estimating the fraction of phenotypic variation mediated by gene expression data",
+            "pub_year": "2018",
+            "citation": "G3: Genes, Genomes, Genetics 8 (9), 3059-3068, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:_oX8UoZSOBoC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17695774326861887658",
+        "cites_id": [
+            "17695774326861887658"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating allelic diversity generated by excision of different transposon types",
+            "pub_year": "1995",
+            "citation": "Theoretical and Applied Genetics 90, 771-775, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:TFP_iSt0sucC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16363966007412574003",
+        "cites_id": [
+            "16363966007412574003"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic Rearrangements in Arabidopsis Considered as Quantitative Traits",
+            "pub_year": "2017",
+            "citation": "Genetics 205 (4), 1425-1441, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:CRQ797xmLJIC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13721629473272123531",
+        "cites_id": [
+            "13721629473272123531"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant genes influence microbial hubs that shape beneficial leaf communities",
+            "pub_year": "2017",
+            "citation": "Biorxiv, 181198, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:VBbLNo9YSJgC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11419701403605547835",
+        "cites_id": [
+            "11419701403605547835"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Strong Signature of Natural Selection within an FHIT Intron Implicated in Prostate Cancer Risk",
+            "pub_year": "2008",
+            "citation": "PLoS One 3 (10), e3533, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:JV2RwH3_ST0C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4336271159746288776",
+        "cites_id": [
+            "4336271159746288776"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coalescent theory",
+            "pub_year": "2004",
+            "citation": "Handbook of statistical genetics, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:nk1qRvIppk4C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6785447662529315694",
+        "cites_id": [
+            "6785447662529315694"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Female infanticide and human sex ratio evolution.",
+            "pub_year": "1992",
+            "citation": "Journal of theoretical biology 158 (2), 195-198, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:NMxIlDl6LWMC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2653533262352999095",
+        "cites_id": [
+            "2653533262352999095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "JAWAMix5: an out-of-core HDF5-based java implementation of whole-genome association studies using mixed models",
+            "pub_year": "2013",
+            "citation": "Bioinformatics 29 (9), 1220-1222, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:abG-DnoFyZgC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6166563777011411778",
+        "cites_id": [
+            "6166563777011411778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide association mapping in Arabidopsis thaliana identifies previously known genes responsible for variation in flowering time and pathogen resistance",
+            "pub_year": "2007",
+            "citation": "PLoS Genet 1, e60, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:RGFaLdJalmkC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7618831477074952511",
+        "cites_id": [
+            "7618831477074952511"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards the discovery of novel genetic component involved in stress resistance in Arabidopsis thaliana",
+            "pub_year": "2014",
+            "citation": "New phytologist 201 (3), 810-824, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:XiSMed-E-HIC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=377752360476901919",
+        "cites_id": [
+            "377752360476901919"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis and visualization of Arabidopsis thaliana GWAS using web 2.0 technologies",
+            "pub_year": "2011",
+            "citation": "Database 2011, bar014, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:vV6vV6tmYwMC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12647006671709941200",
+        "cites_id": [
+            "12647006671709941200"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of cis-trans viability selection on some two-locus models",
+            "pub_year": "1995",
+            "citation": "Theoretical population biology 47 (3), 365-392, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:O3NaXMp0MMsC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5015831002964852172",
+        "cites_id": [
+            "5015831002964852172"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genetic architecture of the network underlying flowering time variation in Arabidopsis thaliana",
+            "pub_year": "2017",
+            "citation": "BioRxiv, 175430, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:VyewGSb6xwwC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14251938444735608259",
+        "cites_id": [
+            "14251938444735608259"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The coalescent with partial selfing and balancing selection: an application of structured coalescent processes",
+            "pub_year": "1999",
+            "citation": "Lecture Notes-Monograph Series, 56-76, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:maZDTaKrznsC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9058521970911833945",
+        "cites_id": [
+            "9058521970911833945"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A model of gender modification in gynodioecious plants",
+            "pub_year": "1994",
+            "citation": "Proceedings of the Royal Society of London. Series B: Biological Sciences \u2026, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:ns9cj8rnVeAC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7479710484793413132",
+        "cites_id": [
+            "7479710484793413132"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cycles of satellite and transposon evolution in Arabidopsis centromeres",
+            "pub_year": "2023",
+            "citation": "Nature, 1-9, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:Dyy3vkn44wwC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10382189442208222438",
+        "cites_id": [
+            "10382189442208222438"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sex-ratio selection with general migration schemes: Fisher's result does hold",
+            "pub_year": "1991",
+            "citation": "Evolution, 1289-1293, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:hMod-77fHWUC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4381946239379795944",
+        "cites_id": [
+            "4381946239379795944"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Revisiting a GWAS peak in Arabidopsis thaliana reveals possible confounding by genetic heterogeneity",
+            "pub_year": "2021",
+            "citation": "Heredity 127 (3), 245-252, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:yREA-gn6pYwC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5447554260063534072",
+        "cites_id": [
+            "5447554260063534072"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide association mapping using mixed-models: application to GAW15 Problem 3",
+            "pub_year": "2007",
+            "citation": "BMC proceedings 1, 1-5, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:lSLTfruPkqcC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7260046590658264001",
+        "cites_id": [
+            "7260046590658264001"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conditional GWAS of non-CG transposon methylation in Arabidopsis thaliana reveals major polymorphisms in five genes",
+            "pub_year": "2022",
+            "citation": "PLoS genetics 18 (9), e1010345, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:voxG-9qLvA4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9039617089102201353",
+        "cites_id": [
+            "9039617089102201353"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extensive gene duplication in Arabidopsis revealed by pseudo-heterozygosity",
+            "pub_year": "2021",
+            "citation": "BioRxiv, 2021.11. 15.468652, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:vf0YIhSwahgC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10650095439254175743",
+        "cites_id": [
+            "10650095439254175743"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Locally adaptive temperature response of vegetative growth in Arabidopsis thaliana",
+            "pub_year": "2022",
+            "citation": "Elife 11, e77913, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:H1wcazwC3NUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1043172968915444655",
+        "cites_id": [
+            "1043172968915444655"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plasticity of the primary metabolome in 241 cold grown Arabidopsis thaliana accessions and its relation to natural habitat temperature",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.09. 24.311092, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:6LI0FKmQuhEC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3790968167189856732",
+        "cites_id": [
+            "3790968167189856732"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transgenerational effects of inter-ploidy cross direction on reproduction and F2 seed development of Arabidopsis thaliana F1 hybrid triploids",
+            "pub_year": "2019",
+            "citation": "Plant reproduction 32, 275-289, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:ahKOoLCzQxcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10564532986044917056",
+        "cites_id": [
+            "10564532986044917056"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant genetic effects on microbial hubs impact fitness across field trials",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:fJljFJTiP-AC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=887619279758301846",
+        "cites_id": [
+            "887619279758301846"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "2020 vision for biology: the role of plants in addressing grand challenges in biology",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:D_sINldO8mEC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5323330185541398744",
+        "cites_id": [
+            "5323330185541398744"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extensive sequence duplication in Arabidopsis revealed by pseudo-heterozygosity",
+            "pub_year": "2023",
+            "citation": "Genome Biology 24 (1), 44, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:0PPYGq5nos8C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13696848604569256003",
+        "cites_id": [
+            "13696848604569256003"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linkage disequilibrium, haplotype evolution, and the coalescent",
+            "pub_year": "2002",
+            "citation": "Trends Genet. 18, 83-90, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:NaGl4SEjCO4C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8241667755228475772",
+        "cites_id": [
+            "8241667755228475772"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Response to \u201cA reappraisal of the phylogenetic placement of the Aquilegia whole-genome duplication\u201d",
+            "pub_year": "2020",
+            "citation": "Genome Biology 21, 1, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:FGCrkofroJsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11437099269385911245",
+        "cites_id": [
+            "11437099269385911245"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stage-specific transcriptomes and DNA methylomes indicate an early and transient loss of transposon control in Arabidopsis shoot stem cells",
+            "pub_year": "2018",
+            "citation": "bioRxiv, 430447, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:ChsjQIg5EFEC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13699925539343898680",
+        "cites_id": [
+            "13699925539343898680"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome duplication and reorganization in Aquilegia",
+            "pub_year": "2018",
+            "citation": "bioRxiv, 407973, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:cInq4TRmCz8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14935690462410172118",
+        "cites_id": [
+            "14935690462410172118"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Verification of Arabidopsis stock collections using SNPmatch - an algorithm for genotyping high-plexed samples",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 109520, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:btULBOGQ_gcC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3216819379186858696",
+        "cites_id": [
+            "3216819379186858696"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the causes of gene-body methylation variation in Arabidopsis thaliana",
+            "pub_year": "2023",
+            "citation": "PLoS genetics 19 (5), e1010728, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:TXeVt8n0jncC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17689951554124303298",
+        "cites_id": [
+            "17689951554124303298"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A globally distributed major virus-resistance association in Arabidopsis thaliana",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:4DUywrCQPfoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13659286023144401708",
+        "cites_id": [
+            "13659286023144401708"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Metabolome plasticity in 241 Arabidopsis thaliana accessions reveals evolutionary cold adaptation processes",
+            "pub_year": "2023",
+            "citation": "Plant Physiology, kiad298, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:kzhWOX1w8eAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16639215455927017883",
+        "cites_id": [
+            "16639215455927017883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Long non-coding RNAs contribute to DNA damage resistance in Arabidopsis thaliana",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.03. 20.533408, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:Hf1drVALF3gC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13731285901802160970",
+        "cites_id": [
+            "13731285901802160970"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The maternal environment interacts with genetic variation in regulating seed dormancy in Arabidopsis thaliana",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 117879, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:Dq1jD5C1HUoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8462375334658521159",
+        "cites_id": [
+            "8462375334658521159"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic rearrangements considered as quantitative traits",
+            "pub_year": "2016",
+            "citation": "bioRxiv, 087387, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:3xcwCnWquLEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10573396021709326020",
+        "cites_id": [
+            "10573396021709326020"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The evolutionary history of the genus Chlorocebus inferred from whole genome sequencing",
+            "pub_year": "2014",
+            "citation": "AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY 153, 250-250, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:K3LRdlH-MEoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13634674394965730007",
+        "cites_id": [
+            "13634674394965730007"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recombination & Linkage Disequilibrium",
+            "pub_year": "2007",
+            "citation": "Arabidopsis thaliana, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:M05iB0D1s5AC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18140827431685567979",
+        "cites_id": [
+            "18140827431685567979"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Controlling Transcription from within Transcribed Regions in Plants",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:ssyqJ5znRdsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid cycles of satellite homogenization and retrotransposon invasion drive Arabidopsis pancentromere evolution",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:Y7HEs_YmcnEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Workshop 2: Coordinating and utilizing the rapidly growing collection of independently assembled Arabidopsis genomes",
+            "pub_year": "2023",
+            "citation": "33rd International Conference on Arabidopsis Research (ICAR 2023), 2023"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:V2uI0bKpj5cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Population-level annotation of lncRNA transcription in Arabidopsis reveals extensive variation associated with TE-like silencing",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.03. 14.532599, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:kMwF0kOiZPMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell-cycle status of male and female gametes during Arabidopsis reproduction",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.02. 22.529524, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:vK1Ni-xiviEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic basis of Arabidopsis thaliana responses to infection by na\u00efve and adapted isolates of turnip mosaic virus",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.08. 02.502433, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:nnVijz9KPVYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INAUGURAL ARTICLE by a Recently Elected Academy Member: Plant genetic effects on microbial hubs impact host fitness in repeated field trials",
+            "pub_year": "2022",
+            "citation": "Proceedings of the National Academy of Sciences of the United States of \u2026, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:7GbmjkRdlf4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "36-year study reveals the effects of microhabitats on a wild wheat population",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.01. 10.475641, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:L1d--jQnBlAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genetic structure of a wild wheat population has remained associated with microhabitats over 36 years",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:wXCFTzxW9NYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Common alleles ofCMT2andNRPE1are major determinants ofde novoDNA methylation variation inArabidopsis thaliana",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:hWqix75wD0QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Common alleles of CMT2 and NRPE1 are major determinants of de novo DNA methylation variation in Arabidopsis thaliana",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 819516, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:0tRseZjC4qsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Publisher Correction: Ancient hybridization and strong adaptation to viruses across African vervet monkey populations",
+            "pub_year": "2018",
+            "citation": "Nature genetics 50 (11), 1617-1618, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:GjQuYujAsN4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptive Reduction of Male Gamete Number in a Selfing Species",
+            "pub_year": "2018",
+            "citation": "bioRxiv, 272757, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:ggypx7smY2AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TheAquilegiagenome: adaptive radiation and an extraordinarily polymorphic chromosome with a unique history",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:2hxEYnSErgUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary reduction of male gamete number in predominantly selfing Arabidopsis thaliana",
+            "pub_year": "2016",
+            "citation": "GENES & GENETIC SYSTEMS 91 (6), 322-322, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:OjREftYh6kAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SNP DISCOVERY IN AFRICAN GREEN MONKEY (CHLOROCEBUS AETHIOPS) THROUGH WHOLE GENOME SEQUENCING",
+            "pub_year": "2013",
+            "citation": "AMERICAN JOURNAL OF PRIMATOLOGY 75, 68-68, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:u9iWguZQMMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recent methodological advances in GWAS: multi\u2010locus and multi\u2010trait mixed\u2010models",
+            "pub_year": "2012",
+            "citation": "Final Conference Noveltree\" Tree Breeding, Genomics and Evolutionary Biology \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:XiVPGOgt02cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic Architecture Analysis of Multiple Traits for A. Thaliana Based on Whole Genome Sequencing",
+            "pub_year": "2012",
+            "citation": "4th International Conference on Quantitative Genetics (ICQG 2012), 240, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:h6PnSEVdkykC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dissecting the genetic basis of primary seed dormancy in arabidopsis thaliana",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:N3pez2oqSB0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dissecting genetic and environmental correlation of life history traits in arabidopsis thaliana",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:2hszv8GT5-sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural allelic variation underlying a major fitness trade-off in Arabidopsis thaliana",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:CxegcQ4u50YC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis lyrata genome: what can we learn from the close relative of Arabidopsis thaliana",
+            "pub_year": "2009",
+            "citation": "20th International Conference on Arabidopsis Research (ICAR 2009), 165-166, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:pNwUjlbgJN8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sign, Sign, Everywhere a Sign: High density haplotype maps of the dog, human, and cow genomes reveal extensive human reorganization of domesticated genomes",
+            "pub_year": "2009",
+            "citation": "AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY, 100-100, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COS 95-1: Evidence for increased survival in native compared to foreign populations of Swedish Arabidopsis thaliana",
+            "pub_year": "2008",
+            "citation": "The 93rd ESA Annual Meeting, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:dfsIfKJdRG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discovering Common Sequence Variation in Arabidopsis thaliana",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:B3FOqHPlNUQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-Wide Association Mapping in Arabidopsis Thaliana",
+            "pub_year": "2008",
+            "citation": "19th International Conference on Arabidopsis Research (ICAR 2008), 110, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:wmBOIy6d62IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genomic pattern of linkage disequilibrium in Arabidopsis thaliana",
+            "pub_year": "2006",
+            "citation": "17th International Conference on Arabidopsis Research (ICAR 2006), 40, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:N-Wl9uZK064C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Inventory of Common Sequence Polymorphisms for Arabidopsis",
+            "pub_year": "2006",
+            "citation": "17th International Conference on Arabidopsis Research (ICAR 2006), 187, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:K0fIQ6b0NmsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of Development",
+            "pub_year": "2006",
+            "citation": "Developmental Biology 295, 337-338, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:haVc-jTD6xgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New genetic and genomic tools for the study of floral evolution",
+            "pub_year": "2006",
+            "citation": "Developmental Biology 1 (295), 337, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:rO6llkc54NcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INVESTIGATIONS-Population and evolutionary genetics-Estimating recombination rates from single-nucleotide polymorphisms using summary statistics",
+            "pub_year": "2006",
+            "citation": "Genetics 174 (3), 1517-1528, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:ZHo1McVdvXMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Inventory of Sequence Polymorphisms For Arabidopsis",
+            "pub_year": "2006",
+            "citation": "Talk presented at 17th International Conference on Arabidopsis Research \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:RYcK_YlVTxYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improve Sequencing Accuracy by Adjusted Quality Scores",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:HoB7MX3m0LUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Pattern of Polymorphism on Human Chromosome 21",
+            "pub_year": "2002",
+            "citation": "RECOMB Workshop on Computational Methods for SNPs and Haplotype Inference \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:g5m5HwL7SMYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The pattern of polymorphism on human chromosome 21",
+            "pub_year": "2002",
+            "citation": "AMERICAN JOURNAL OF HUMAN GENETICS 71 (4), 354-354, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:KxtntwgDAa4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A dynamic programming algorithm for haplotype block partitioning and its application in association studies.",
+            "pub_year": "2002",
+            "citation": "AMERICAN JOURNAL OF HUMAN GENETICS 71 (4), 219-219, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:P5F9QuxV20EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Approaches for the identification of quantitative trait loci",
+            "pub_year": "2002",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:p2iGfxNeIOAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coalescent Theory The coalescent",
+            "pub_year": "2000",
+            "citation": "Program 38 (2), 285-300, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neandertals: Not So Fast",
+            "pub_year": "1996",
+            "citation": "Water Resour. Res 32, 707, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deterministic models of natural selection",
+            "pub_year": "1994",
+            "citation": "Stanford University, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:2P1L_qKh6hAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combining multiple traits for genome wide association mapping",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:GufwhD5tNfUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dani\u00e8le Filiault1, Evangeline S. Ballerini2, Terezie Mand\u00e1kov\u00e13, G\u00f6k\u00e7e Ak\u00f6z1, 4, 6 Nathan J. Derieg2, Jeremy Schmutz5, 6, Jerry Jenkins5, 6, Jane Grimwood5, 6, 7 Shengqiang \u2026",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:KRujTB8-hGMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Aquilegia genome provides insight into adaptive radiation and reveals an extraordinarily polymorphic chromosome with a unique history",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:CQrscp367IIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u3042\u308b/GS-1 \u5bfe\u7acb\u907a\u4f1d\u5b50\u304c\u30a4\u30cc\u306e\u5c0f\u578b\u5316\u306e\u4e3b\u8981\u306a\u6c7a\u5b9a\u8981\u56e0\u3067\u3042\u308b",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:sr8OKcTvXucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Common Sequence Polymorphisms Shaping Genetic Diversity in",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:F2VeH06lQh8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Database Tool Analysis and visualization of Arabidopsis thaliana GWAS using web 2.0 technologies",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:WbkHhVStYXYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mukai, T., Chigusa, SI, Mettler, LE, and Crow, JF 1972. Mutation rate",
+            "citation": "Genetics 138 (1315), 1322, 0"
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:pyW8ca7W8N0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "This file includes",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:D03iK_w7-QYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genealogical processes with general types of population structure",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "133WpF8AAAAJ:3s1wT3WcHBgC",
+        "num_citations": 0
+    }
+]

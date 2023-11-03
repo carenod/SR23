@@ -1,0 +1,94 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular bases of responses to abiotic stress in trees",
+            "pub_year": "2020",
+            "citation": "Journal of experimental botany 71 (13), 3765-3779, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ShuQsqAAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2252663932129879257",
+        "cites_id": [
+            "2252663932129879257"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Physiological and molecular mechanisms underlying the integration of light and temperature cues in Arabidopsis thaliana seeds",
+            "pub_year": "2017",
+            "citation": "Plant, Cell & Environment 40 (12), 3113-3121, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "ShuQsqAAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15231312085343870089",
+        "cites_id": [
+            "15231312085343870089"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of different natural environments on the regeneration dynamics of two Nothofagus species across elevation in the southern Andes",
+            "pub_year": "2020",
+            "citation": "Forest Ecology and Management 464, 118034, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "ShuQsqAAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3018381904844545153",
+        "cites_id": [
+            "3018381904844545153"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deciphering the transcriptomic regulation of heat stress responses in Nothofagus pumilio",
+            "pub_year": "2021",
+            "citation": "PloS one 16 (3), e0246615, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ShuQsqAAAAAJ:qjMakFHDy7sC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10735271562749942442",
+        "cites_id": [
+            "10735271562749942442"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of high-throughput sequencing technologies in native forest tree species in Argentina: Implications for breeding",
+            "pub_year": "2021",
+            "citation": "Low Intensity Breeding of Native Forest Trees in Argentina, 455-482, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ShuQsqAAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15665662152408870591",
+        "cites_id": [
+            "15665662152408870591"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Respuestas a la temperatura en especies del g\u00e9nero Nothofagus distribuidas en un gradiente altitudinal",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "ShuQsqAAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 0
+    }
+]

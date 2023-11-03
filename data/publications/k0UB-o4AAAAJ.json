@@ -1,0 +1,487 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "mzML\u2014a community standard for mass spectrometry data",
+            "pub_year": "2011",
+            "citation": "Molecular & Cellular Proteomics 10 (1), 2011"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 655,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16513234409091583118",
+        "cites_id": [
+            "16513234409091583118"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Design and implementation of microarray gene expression markup language (MAGE-ML)",
+            "pub_year": "2002",
+            "citation": "Genome biology 3 (9), 1-9, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 588,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5768648980900006781",
+        "cites_id": [
+            "5768648980900006781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative analysis of RNA-Seq alignment algorithms and the RNA-Seq unified mapper (RUM)",
+            "pub_year": "2011",
+            "citation": "Bioinformatics 27 (18), 2518-2528, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 398,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11375052365019971124",
+        "cites_id": [
+            "11375052365019971124"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CircaDB: a database of mammalian circadian gene expression profiles",
+            "pub_year": "2012",
+            "citation": "Nucleic acids research 41 (D1), D1009-D1013, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:5nxA0vEk-isC",
+        "num_citations": 312,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14982827538998917508",
+        "cites_id": [
+            "14982827538998917508"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The mzIdentML data standard for mass spectrometry-based proteomics results",
+            "pub_year": "2012",
+            "citation": "Molecular & Cellular Proteomics 11 (7), M111. 014381-1-M111. 014381-10, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:ufrVoPGSRksC",
+        "num_citations": 221,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6565769187941895427",
+        "cites_id": [
+            "6565769187941895427"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "IVT-seq reveals extreme bias in RNA sequencing",
+            "pub_year": "2014",
+            "citation": "Genome biology 15 (6), 1-15, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 177,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=39296691795140721",
+        "cites_id": [
+            "39296691795140721"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the zebrafish proteome during embryonic development",
+            "pub_year": "2008",
+            "citation": "Molecular & Cellular Proteomics 7 (5), 981-994, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 153,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9122361567359981215",
+        "cites_id": [
+            "9122361567359981215"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Functional Genomics Experiment model (FuGE): an extensible framework for standards in functional genomics",
+            "pub_year": "2007",
+            "citation": "Nature Biotechnology 25 (10), 1127-1133, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 130,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14627231457093586631",
+        "cites_id": [
+            "14627231457093586631"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Benchmark analysis of algorithms for determining and quantifying full-length mRNA splice forms from RNA-seq data",
+            "pub_year": "2015",
+            "citation": "Bioinformatics 31 (24), 3938-3945, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12447497639191624560",
+        "cites_id": [
+            "12447497639191624560"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomics of the endocrine pancreas: the pancreas clone set and PancChip, new resources for diabetes research",
+            "pub_year": "2002",
+            "citation": "Diabetes 51 (7), 1997-2004, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8244514163109635650,10388720621329310854",
+        "cites_id": [
+            "8244514163109635650",
+            "10388720621329310854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Gene Wiki: community intelligence applied to human gene annotation",
+            "pub_year": "2010",
+            "citation": "Nucleic acids research 38 (suppl_1), D633-D639, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7742056984729249988",
+        "cites_id": [
+            "7742056984729249988"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GA4GH: International policies and standards for data sharing across genomic research and healthcare",
+            "pub_year": "2021",
+            "citation": "Cell genomics 1 (2), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2621887262842171026",
+        "cites_id": [
+            "2621887262842171026"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The post-synaptic density of human postmortem brain tissues: an experimental study paradigm for neuropsychiatric illnesses",
+            "pub_year": "2009",
+            "citation": "PloS one 4 (4), e5251, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:WF5omc3nYNoC",
+        "num_citations": 85,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9861587084067704699",
+        "cites_id": [
+            "9861587084067704699"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional program of the endocrine pancreas in mice and humans",
+            "pub_year": "2003",
+            "citation": "Diabetes 52 (7), 1604-1610, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16663645560245504599",
+        "cites_id": [
+            "16663645560245504599"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Five years of progress in the Standardization of Proteomics Data 4th Annual Spring Workshop of the HUPO\u2010Proteomics Standards Initiative April 23\u201325, 2007 \u2026",
+            "pub_year": "2007",
+            "citation": "Proteomics 7 (19), 3436-3440, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13630678272275559183",
+        "cites_id": [
+            "13630678272275559183"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EBP, a program for protein identification using multiple tandem mass spectrometry datasets",
+            "pub_year": "2007",
+            "citation": "Molecular & Cellular Proteomics 6 (3), 527-536, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:qjMakFHDy7sC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5951284397257545930",
+        "cites_id": [
+            "5951284397257545930"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RAD and the RAD Study-Annotator: an approach to collection, organization and exchange of all relevant information for high-throughput gene expression studies",
+            "pub_year": "2004",
+            "citation": "Bioinformatics 20 (4), 452-459, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4840748453285299888",
+        "cites_id": [
+            "4840748453285299888"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An object model and database for functional genomics",
+            "pub_year": "2004",
+            "citation": "Bioinformatics 20 (10), 1583-1590, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15905986108334105816",
+        "cites_id": [
+            "15905986108334105816"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A relational schema for both array-based and SAGE gene expression experiments",
+            "pub_year": "2001",
+            "citation": "Bioinformatics 17 (4), 300-308, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13194132713970384547",
+        "cites_id": [
+            "13194132713970384547"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FuGE: Functional genomics experiment object model",
+            "pub_year": "2006",
+            "citation": "OMICS: A Journal of Integrative Biology 10 (2), 179-184, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12929787583981856580",
+        "cites_id": [
+            "12929787583981856580"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maintaining data integrity in microarray data management",
+            "pub_year": "2003",
+            "citation": "Biotechnology and bioengineering 84 (7), 795-800, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1905587068311057852",
+        "cites_id": [
+            "1905587068311057852"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proteomics and Beyond A report on the 3rd Annual Spring Workshop of the HUPO\u2010PSI 21\u201323 April 2006, San Francisco, CA, USA",
+            "pub_year": "2006",
+            "citation": "Proteomics 6 (16), 4439-4443, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:roLk4NBRz8UC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6537963859406817438",
+        "cites_id": [
+            "6537963859406817438"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Elective affinities\u2013bioinformatic analysis of proteomic mass spectrometry data",
+            "pub_year": "2009",
+            "citation": "Archives of physiology and biochemistry 115 (5), 311-319, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:Se3iqnhoufwC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7354789851848308659",
+        "cites_id": [
+            "7354789851848308659"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Entering the Implementation Era A report on the HUPO\u2010PSI Fall workshop 25\u201327 September 2006, Washington DC, USA",
+            "pub_year": "2007",
+            "citation": "Proteomics 7 (3), 337-339, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13030803324267547727",
+        "cites_id": [
+            "13030803324267547727"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RAD (RNA Abundance Database): an infrastructure for array data analysis",
+            "pub_year": "2001",
+            "citation": "Microarrays: Optical Technologies and Informatics 4266, 68-78, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:UebtZRa9Y70C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8425587686380842241",
+        "cites_id": [
+            "8425587686380842241"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Russcher H, Herwaarden AE van, Boesten LSM, Kemna EHJM, Curvers J, Heijboer AC, Engbers-Buijtenhuijs P, Deckers MML. Clinical chemistry for the public: The Wikipedia Project \u2026",
+            "pub_year": "2010",
+            "citation": "Ned Tijdschr Klin Chem Labgeneesk 35 (2), 75-79, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:8k81kl-MbHgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Mass Spectrometric Analysis Of Embryonic Zebrafish Proteins",
+            "pub_year": "2007",
+            "citation": "Circulation 116 (suppl_16), II_111-II_112, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FUGE, a solid foundation for functional genomics standards",
+            "pub_year": "2006",
+            "citation": "MOLECULAR & CELLULAR PROTEOMICS 5 (10), S274-S274, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extensible Framework for Standards in Functional Genomics",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:4TOpqqG69KYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An evaluation of representing proteomics experiments within FuGE-OM",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:0EnyYjriUFMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational Methods and Bioinformatic Tools",
+            "pub_year": "2002",
+            "citation": "Analysing Gene Expression: A Handbook of Methods: Possibilities and Pitfalls \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional genomics approaches to the study of human globin-gene switching.",
+            "pub_year": "2001",
+            "citation": "BLOOD 98 (11), 499A-500A, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "k0UB-o4AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 0
+    }
+]

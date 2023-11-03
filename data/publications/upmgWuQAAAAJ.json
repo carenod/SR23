@@ -1,0 +1,344 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An automated tracking system for Caenorhabditis elegans locomotor behavior and circadian studies application",
+            "pub_year": "2007",
+            "citation": "Journal of neuroscience methods 161 (2), 273-280, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 123,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1862348138534329773",
+        "cites_id": [
+            "1862348138534329773"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Timing of Locomotor Activity Circadian Rhythms in Caenorhabditis elegans",
+            "pub_year": "2009",
+            "citation": "PLoS One 4 (10), e7571, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9031365509817847056",
+        "cites_id": [
+            "9031365509817847056"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian rhythms in the vegetative state",
+            "pub_year": "2009",
+            "citation": "Brain Injury 23 (11), 915-919, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4471926590613331154",
+        "cites_id": [
+            "4471926590613331154"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sudestada1, a Drosophila ribosomal prolyl-hydroxylase required for mRNA translation, cell homeostasis, and organ growth",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (11), 4025-4030, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=978250175638986695",
+        "cites_id": [
+            "978250175638986695"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian stress tolerance in adult Caenorhabditis elegans",
+            "pub_year": "2008",
+            "citation": "Journal of Comparative Physiology A 194, 821-828, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3932664166203347431",
+        "cites_id": [
+            "3932664166203347431"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Daily variation in melatonin synthesis and arylalkylamine N\u2010acetyltransferase activity in the nematode Caenorhabditis elegans",
+            "pub_year": "2012",
+            "citation": "Journal of pineal research 53 (1), 38-46, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:ufrVoPGSRksC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11985836809795097298",
+        "cites_id": [
+            "11985836809795097298"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian rhythms in metabolic variables in Caenorhabditis elegans",
+            "pub_year": "2011",
+            "citation": "Physiology & behavior 103 (3-4), 315-320, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13668111891597245294",
+        "cites_id": [
+            "13668111891597245294"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The nervous and prenervous roles of serotonin in Echinococcus spp.",
+            "pub_year": "2013",
+            "citation": "International journal for parasitology 43 (8), 647-659, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10988714822117612928",
+        "cites_id": [
+            "10988714822117612928"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Set\u2010up of an infrared fast behavioral assay using zebrafish (Danio rerio) larvae, and its application in compound biotoxicity screening",
+            "pub_year": "2014",
+            "citation": "Journal of applied toxicology 34 (2), 214-219, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:qjMakFHDy7sC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2525631677216333920",
+        "cites_id": [
+            "2525631677216333920"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Two Caenorhabditis elegans UDP-Glucose:Glycoprotein Glucosyltransferase Homologues Have Distinct Biological Functions",
+            "pub_year": "2011",
+            "citation": "PLoS One 6 (11), e27025, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7776264541325195884",
+        "cites_id": [
+            "7776264541325195884"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reliable Screening of Dye Phototoxicity by Using a Caenorhabditis elegans Fast Bioassay",
+            "pub_year": "2015",
+            "citation": "PLoS One 10 (6), e0128898, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4661224815969831602",
+        "cites_id": [
+            "4661224815969831602"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Immunosuppressant calcineurin inhibitors phase shift circadian rhythms and inhibit circadian responses to light",
+            "pub_year": "2008",
+            "citation": "Pharmacology Biochemistry and Behavior 90 (4), 763-768, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:WF5omc3nYNoC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11161630715715307823",
+        "cites_id": [
+            "11161630715715307823"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "G4. 5 PAMAM dendrimer-risperidone: Biodistribution and behavioral changes in in vivo model",
+            "pub_year": "2013",
+            "citation": "Nanomedicine & Biotherapeutic Discovery 4, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:UebtZRa9Y70C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17338408031630674139",
+        "cites_id": [
+            "17338408031630674139"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards an automatic method for toxicity and pharmacological testing in C. elegans",
+            "pub_year": "2010",
+            "citation": "Wormbook, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2098204356532679915",
+        "cites_id": [
+            "2098204356532679915"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Remote-controlled automated system for drug testing and screening",
+            "pub_year": "2020",
+            "citation": "US Patent App. 16/576,041, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:Se3iqnhoufwC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14508548305735416626",
+        "cites_id": [
+            "14508548305735416626"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flavonoid-enriched fractions from Parastrephia lucida: Phytochemical, anti-inflammatory, antioxidant characterizations, and analysis of their toxicity",
+            "pub_year": "2020",
+            "citation": "South African Journal of Botany 135, 465-475, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:roLk4NBRz8UC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14246961879477025945",
+        "cites_id": [
+            "14246961879477025945"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian regulation of abiotic stress tolerance in Caenorhabditis elegans",
+            "pub_year": "2012",
+            "citation": "Abiotic Stress: New Research, 151-169, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=39976478934358872",
+        "cites_id": [
+            "39976478934358872"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method and device for the automatic recording of the movement of nematodes or small organisms of similar size by the temporal interferometry of light microbeams",
+            "pub_year": "2022",
+            "citation": "US Patent App. 17/423,813, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NOVEL PARADIGMS IN DRUG DISCOVERY: IDENTIFICATION OF NEW LEAD COMPOUNDS FOR K-RAS (+) COLON CANCER",
+            "pub_year": "2014",
+            "citation": "BASIC & CLINICAL PHARMACOLOGY & TOXICOLOGY 115, 312-312, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Small organism locomotor recording procedure and device, behavioral record obtained and use of same",
+            "pub_year": "2012",
+            "citation": "US Patent 8,195,404, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian stress tolerance in adult Caenorhabditis elegans A Neuroethology, sensory, neural, and behavioral physiology",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plan de marketing de Zepatier",
+            "citation": "Universidad de San Andr\u00e9s. Escuela de Negocios, 0"
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:0EnyYjriUFMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian regulation of abiotic stress tolerance in Caenorhabditis elegans",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "upmgWuQAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 0
+    }
+]

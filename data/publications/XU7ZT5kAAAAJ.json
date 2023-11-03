@@ -1,0 +1,5027 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topological domains in mammalian genomes identified by analysis of chromatin interactions",
+            "pub_year": "2012",
+            "citation": "Nature 485 (7398), 376-380, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:WF5omc3nYNoC",
+        "num_citations": 6400,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3528941051986092404",
+        "cites_id": [
+            "3528941051986092404"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project",
+            "pub_year": "2007",
+            "citation": "nature 447 (7146), 799-816, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 5843,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9623014127722932969,14659773193397910328,15418614698182408842,15379762206317670387",
+        "cites_id": [
+            "9623014127722932969",
+            "14659773193397910328",
+            "15418614698182408842",
+            "15379762206317670387"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrative analysis of 111 reference human epigenomes",
+            "pub_year": "2015",
+            "citation": "Nature 518 (7539), 317-330, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:TIZ-Mc8IlK0C",
+        "num_citations": 5579,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11708241658422110543,17213695807246352848,2869853020706981174",
+        "cites_id": [
+            "11708241658422110543",
+            "17213695807246352848",
+            "2869853020706981174"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human DNA methylomes at base resolution show widespread epigenomic differences",
+            "pub_year": "2009",
+            "citation": "nature 462 (7271), 315-322, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 4958,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9212449328765020470",
+        "cites_id": [
+            "9212449328765020470"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional regulatory networks in Saccharomyces cerevisiae",
+            "pub_year": "2002",
+            "citation": "science 298 (5594), 799-804, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 3801,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3919782539051545070",
+        "cites_id": [
+            "3919782539051545070"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct and predictive chromatin signatures of transcriptional promoters and enhancers in the human genome",
+            "pub_year": "2007",
+            "citation": "Nature genetics 39 (3), 311-318, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 3746,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17020093820897024499",
+        "cites_id": [
+            "17020093820897024499"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "N6-methyladenosine-dependent regulation of messenger RNA stability",
+            "pub_year": "2014",
+            "citation": "Nature 505 (7481), 117-120, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 3087,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9898235206107059236",
+        "cites_id": [
+            "9898235206107059236"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone modifications at human enhancers reflect global cell-type-specific gene expression",
+            "pub_year": "2009",
+            "citation": "Nature 459 (7243), 108-112, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 2743,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13947477499105822630",
+        "cites_id": [
+            "13947477499105822630"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide location and function of DNA binding proteins",
+            "pub_year": "2000",
+            "citation": "Science 290 (5500), 2306-2309, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 2696,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11619712832731364619,2344602487620971161,7959862849843263064",
+        "cites_id": [
+            "11619712832731364619",
+            "2344602487620971161",
+            "7959862849843263064"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ENCODE (ENCyclopedia of DNA elements) project",
+            "pub_year": "2004",
+            "citation": "Science 306 (5696), 636-640, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:FsLZdJ3BAzkC",
+        "num_citations": 2243,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18217063942037380458",
+        "cites_id": [
+            "18217063942037380458"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ChIP-seq accurately predicts tissue-specific activity of enhancers",
+            "pub_year": "2009",
+            "citation": "Nature 457 (7231), 854-858, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 1889,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8018638699655131843",
+        "cites_id": [
+            "8018638699655131843"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comparative encyclopedia of DNA elements in the mouse genome",
+            "pub_year": "2014",
+            "citation": "Nature 515 (7527), 355-364, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:0KyAp5RtaNEC",
+        "num_citations": 1781,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5692141521249441825",
+        "cites_id": [
+            "5692141521249441825"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The NIH roadmap epigenomics mapping consortium",
+            "pub_year": "2010",
+            "citation": "Nature biotechnology 28 (10), 1045-1048, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 1766,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1503345782947943314",
+        "cites_id": [
+            "1503345782947943314"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hotspots of aberrant epigenomic reprogramming in human induced pluripotent stem cells",
+            "pub_year": "2011",
+            "citation": "Nature 471 (7336), 68-73, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 1730,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16664607889274239172",
+        "cites_id": [
+            "16664607889274239172"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Remodeling of yeast genome expression in response to environmental changes",
+            "pub_year": "2001",
+            "citation": "Molecular biology of the cell 12 (2), 323-337, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:qjMakFHDy7sC",
+        "num_citations": 1697,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6739289434648355842",
+        "cites_id": [
+            "6739289434648355842"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of 67 histone marks and histone lysine crotonylation as a new type of histone modification",
+            "pub_year": "2011",
+            "citation": "Cell 146 (6), 1016-1028, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:roLk4NBRz8UC",
+        "num_citations": 1695,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7387769665923651697",
+        "cites_id": [
+            "7387769665923651697"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromatin architecture reorganization during stem cell differentiation",
+            "pub_year": "2015",
+            "citation": "Nature 518 (7539), 331-336, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:b1wdh0AR-JQC",
+        "num_citations": 1581,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8890493030402839114",
+        "cites_id": [
+            "8890493030402839114"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A map of the cis-regulatory sequences in the mouse genome",
+            "pub_year": "2012",
+            "citation": "Nature 488 (7409), 116-120, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:0EnyYjriUFMC",
+        "num_citations": 1488,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2548125686021677362",
+        "cites_id": [
+            "2548125686021677362"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "E2F integrates cell cycle progression with DNA repair, replication, and G2/M checkpoints",
+            "pub_year": "2002",
+            "citation": "Genes & development 16 (2), 245-256, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 1311,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9164881388991946248",
+        "cites_id": [
+            "9164881388991946248"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high-resolution map of the three-dimensional chromatin interactome in human cells",
+            "pub_year": "2013",
+            "citation": "Nature 503 (7475), 290-294, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:TFP_iSt0sucC",
+        "num_citations": 1235,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8741344372296090807",
+        "cites_id": [
+            "8741344372296090807"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the vertebrate insulator protein CTCF-binding sites in the human genome",
+            "pub_year": "2007",
+            "citation": "Cell 128 (6), 1231-1245, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 1204,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2568716131578516258",
+        "cites_id": [
+            "2568716131578516258"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high-resolution map of active promoters in the human genome",
+            "pub_year": "2005",
+            "citation": "Nature 436 (7052), 876-880, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 1171,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13568453024930029166",
+        "cites_id": [
+            "13568453024930029166"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Base-resolution analysis of 5-hydroxymethylcytosine in the mammalian genome",
+            "pub_year": "2012",
+            "citation": "Cell 149 (6), 1368-1380, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:8k81kl-MbHgC",
+        "num_citations": 1033,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10903111037808787906",
+        "cites_id": [
+            "10903111037808787906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of Functional Elements and Regulatory Circuits by Drosophila modENCODE",
+            "pub_year": "2010",
+            "citation": "Science 330 (6012), 1787-1797, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 1024,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1350714742896794167",
+        "cites_id": [
+            "1350714742896794167"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRISPR inversion of CTCF sites alters genome topology and enhancer/promoter function",
+            "pub_year": "2015",
+            "citation": "Cell 162 (4), 900-910, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:HbR8gkJAVGIC",
+        "num_citations": 937,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4037217481659986882",
+        "cites_id": [
+            "4037217481659986882"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct epigenomic landscapes of pluripotent and lineage-committed human cells",
+            "pub_year": "2010",
+            "citation": "Cell stem cell 6 (5), 479-491, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 924,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6183005913242533965",
+        "cites_id": [
+            "6183005913242533965"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expanded encyclopaedias of DNA elements in the human and mouse genomes",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7818), 699-710, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:An6A6Jpfc1oC",
+        "num_citations": 883,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648428232262261720",
+        "cites_id": [
+            "648428232262261720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topologically associating domains are stable units of replication-timing regulation",
+            "pub_year": "2014",
+            "citation": "Nature 515 (7527), 402-405, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:uc_IGeMz5qoC",
+        "num_citations": 875,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13994092498225489393",
+        "cites_id": [
+            "13994092498225489393"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cohesin and CTCF differentially affect chromatin architecture and gene expression in human cells",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (3), 996-1001, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 839,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2035018199115669067",
+        "cites_id": [
+            "2035018199115669067"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Defining functional DNA elements in the human genome",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (17), 6131-6138, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:u9iWguZQMMsC",
+        "num_citations": 835,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1252312348263315541",
+        "cites_id": [
+            "1252312348263315541"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A compendium of chromatin contact maps reveals spatially active regions in the human genome",
+            "pub_year": "2016",
+            "citation": "Cell reports 17 (8), 2042-2059, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:mlAyqtXpCwEC",
+        "num_citations": 756,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17617319431682509074",
+        "cites_id": [
+            "17617319431682509074"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromatin domains: the unit of chromosome organization",
+            "pub_year": "2016",
+            "citation": "Molecular cell 62 (5), 668-680, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:kh2fBNsKQNwC",
+        "num_citations": 744,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10143807770075181471",
+        "cites_id": [
+            "10143807770075181471"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomic analysis of multilineage differentiation of human embryonic stem cells",
+            "pub_year": "2013",
+            "citation": "Cell 153 (5), 1134-1148, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:HDshCWvjkbEC",
+        "num_citations": 730,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5178824952463316287",
+        "cites_id": [
+            "5178824952463316287"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "9p21 DNA variants associated with coronary artery disease impair interferon-\u03b3 signalling response",
+            "pub_year": "2011",
+            "citation": "Nature 470 (7333), 264-268, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 721,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12628071548777977894",
+        "cites_id": [
+            "12628071548777977894"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of sequencing-based methods to profile DNA methylation and identification of monoallelic epigenetic modifications",
+            "pub_year": "2010",
+            "citation": "Nature biotechnology 28 (10), 1097-1105, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Se3iqnhoufwC",
+        "num_citations": 714,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9900723212297659683",
+        "cites_id": [
+            "9900723212297659683"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Next-generation genomics: an integrative approach",
+            "pub_year": "2010",
+            "citation": "Nature Reviews Genetics 11 (7), 476-486, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ufrVoPGSRksC",
+        "num_citations": 703,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11552021882649253261",
+        "cites_id": [
+            "11552021882649253261"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A global transcriptional regulatory role for c-Myc in Burkitt's lymphoma cells",
+            "pub_year": "2003",
+            "citation": "Proceedings of the National Academy of Sciences 100 (14), 8164-8169, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 668,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5307180347018146744",
+        "cites_id": [
+            "5307180347018146744"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-platform discovery of haplotype-resolved structural variation in human genomes",
+            "pub_year": "2019",
+            "citation": "Nature communications 10 (1), 1784, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:GFxP56DSvIMC",
+        "num_citations": 660,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12949372014316697525",
+        "cites_id": [
+            "12949372014316697525"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human body epigenome maps reveal noncanonical DNA methylation variation",
+            "pub_year": "2015",
+            "citation": "Nature 523 (7559), 212-216, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:-FonjvnnhkoC",
+        "num_citations": 602,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11182132885442655862",
+        "cites_id": [
+            "11182132885442655862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The 4D nucleome project",
+            "pub_year": "2017",
+            "citation": "Nature 549 (7671), 219-226, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:9c2xU6iGI7YC",
+        "num_citations": 581,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9079468957132082390,754690409665068751",
+        "cites_id": [
+            "9079468957132082390",
+            "754690409665068751"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping human epigenomes",
+            "pub_year": "2013",
+            "citation": "Cell 155 (1), 39-55, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 571,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9497144549796039148",
+        "cites_id": [
+            "9497144549796039148"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Base-resolution analyses of sequence and parent-of-origin dependent DNA methylation in the mouse genome",
+            "pub_year": "2012",
+            "citation": "Cell 148 (4), 816-831, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 569,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8323600826582203239",
+        "cites_id": [
+            "8323600826582203239"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A cis-regulatory map of the Drosophila genome",
+            "pub_year": "2011",
+            "citation": "Nature 471 (7339), 527-531, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 552,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13890484019211659641",
+        "cites_id": [
+            "13890484019211659641"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global DNA hypomethylation coupled to repressive chromatin domain formation and gene silencing in breast cancer",
+            "pub_year": "2012",
+            "citation": "Genome research 22 (2), 246-258, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:aqlVkmm33-oC",
+        "num_citations": 544,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8469927687796389623",
+        "cites_id": [
+            "8469927687796389623"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ChIP-Seq identification of weakly conserved heart enhancers",
+            "pub_year": "2010",
+            "citation": "Nature genetics 42 (9), 806-810, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:5nxA0vEk-isC",
+        "num_citations": 531,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=43082995566713581",
+        "cites_id": [
+            "43082995566713581"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extrachromosomal oncogene amplification drives tumour evolution and genetic heterogeneity",
+            "pub_year": "2017",
+            "citation": "Nature 543 (7643), 122-125, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 517,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16279721117438690847",
+        "cites_id": [
+            "16279721117438690847"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Broad histone H3K4me3 domains in mouse oocytes modulate maternal-to-zygotic transition",
+            "pub_year": "2016",
+            "citation": "Nature 537 (7621), 548-552, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:DUooU5lO8OsC",
+        "num_citations": 473,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1467520607394526444",
+        "cites_id": [
+            "1467520607394526444"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The International Human Epigenome Consortium: a blueprint for scientific collaboration and discovery",
+            "pub_year": "2016",
+            "citation": "Cell 167 (5), 1145-1149, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:lvd772isFD0C",
+        "num_citations": 465,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10951598864750973016",
+        "cites_id": [
+            "10951598864750973016"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic memory at embryonic enhancers identified in DNA methylation maps from adult mouse tissues",
+            "pub_year": "2013",
+            "citation": "Nature genetics 45 (10), 1198-1206, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:70eg2SAEIzsC",
+        "num_citations": 459,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15527180856295785281",
+        "cites_id": [
+            "15527180856295785281"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An assessment of histone-modification antibody quality",
+            "pub_year": "2011",
+            "citation": "Nature structural & molecular biology 18 (1), 91-93, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 453,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6392059765556403633",
+        "cites_id": [
+            "6392059765556403633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain cell type\u2013specific enhancer\u2013promoter interactome maps and disease-risk association",
+            "pub_year": "2019",
+            "citation": "Science 366 (6469), 1134-1139, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:QyXJ3EUuO1IC",
+        "num_citations": 440,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5525009305417042923",
+        "cites_id": [
+            "5525009305417042923"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The 3D genome in transcriptional regulation and pluripotency",
+            "pub_year": "2014",
+            "citation": "Cell stem cell 14 (6), 762-775, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:uLbwQdceFCQC",
+        "num_citations": 405,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18300913217877669813",
+        "cites_id": [
+            "18300913217877669813"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Progressive degeneration of human neural stem cells caused by pathogenic LRRK2",
+            "pub_year": "2012",
+            "citation": "Nature 491 (7425), 603-607, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:KUbvn5osdkgC",
+        "num_citations": 379,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2001671498399493946",
+        "cites_id": [
+            "2001671498399493946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic encoding of transcriptional burst kinetics",
+            "pub_year": "2019",
+            "citation": "Nature 565 (7738), 251-254, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:kVjdVfd2voEC",
+        "num_citations": 378,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7456038636064813528",
+        "cites_id": [
+            "7456038636064813528"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of the transcriptional targets of FOXP2, a gene linked to speech and language, in developing human brain",
+            "pub_year": "2007",
+            "citation": "The American Journal of Human Genetics 81 (6), 1144-1157, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 377,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18009526236226680294",
+        "cites_id": [
+            "18009526236226680294"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal transcriptional response to ethylene gas drives growth hormone cross-regulation in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "elife 2, e00675, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 371,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14298016009914124565",
+        "cites_id": [
+            "14298016009914124565"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide mapping and analysis of chromosome architecture",
+            "pub_year": "2016",
+            "citation": "Nature reviews Molecular cell biology 17 (12), 743-755, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:a9-T7VOCCH8C",
+        "num_citations": 369,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=765628667974562919",
+        "cites_id": [
+            "765628667974562919"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lysine 2-hydroxyisobutyrylation is a widely distributed active histone mark",
+            "pub_year": "2014",
+            "citation": "Nature chemical biology 10 (5), 365-370, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:tOudhMTPpwUC",
+        "num_citations": 363,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4095416629055034605",
+        "cites_id": [
+            "4095416629055034605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role of the histone H3 lysine 4 methyltransferase, SET7/9, in the regulation of NF-\u03baB-dependent inflammatory genes: relevance to diabetes and inflammation",
+            "pub_year": "2008",
+            "citation": "Journal of Biological Chemistry 283 (39), 26771-26781, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 361,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1912254372642085295",
+        "cites_id": [
+            "1912254372642085295"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An encyclopedia of mouse DNA elements (Mouse ENCODE)",
+            "pub_year": "2012",
+            "citation": "Genome biology 13 (8), 1-5, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:mB3voiENLucC",
+        "num_citations": 355,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4602614002351931055",
+        "cites_id": [
+            "4602614002351931055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The three-dimensional organization of mammalian genomes",
+            "pub_year": "2017",
+            "citation": "Annual review of cell and developmental biology 33, 265-289, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:nZcligLrVowC",
+        "num_citations": 331,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16358937689096975895",
+        "cites_id": [
+            "16358937689096975895"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PRDI-BF1/Blimp-1 repression is mediated by corepressors of the Groucho family of proteins",
+            "pub_year": "1999",
+            "citation": "Genes & Development 13 (1), 125-137, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:UebtZRa9Y70C",
+        "num_citations": 325,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14417029129468985201",
+        "cites_id": [
+            "14417029129468985201"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "5mC oxidation by Tet2 modulates enhancer activity and timing of transcriptome reprogramming during differentiation",
+            "pub_year": "2014",
+            "citation": "Molecular cell 56 (2), 286-297, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:tKAzc9rXhukC",
+        "num_citations": 321,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18139598754032149812",
+        "cites_id": [
+            "18139598754032149812"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole-genome haplotype reconstruction using proximity-ligation and shotgun sequencing",
+            "pub_year": "2013",
+            "citation": "Nature biotechnology 31 (12), 1111-1118, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:_xSYboBqXhAC",
+        "num_citations": 320,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1072446159954043435",
+        "cites_id": [
+            "1072446159954043435"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating 5-hydroxymethylcytosine into the epigenomic landscape of human embryonic stem cells",
+            "pub_year": "2011",
+            "citation": "PLoS genetics 7 (6), e1002154, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:4DMP91E08xMC",
+        "num_citations": 315,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16139301963215654137",
+        "cites_id": [
+            "16139301963215654137"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circular ecDNA promotes accessible chromatin and high oncogene expression",
+            "pub_year": "2019",
+            "citation": "Nature 575 (7784), 699-703, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:-jrNzM816MMC",
+        "num_citations": 307,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6883029440970331450",
+        "cites_id": [
+            "6883029440970331450"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comprehensive analysis of single cell ATAC-seq data with SnapATAC",
+            "pub_year": "2021",
+            "citation": "Nature communications 12 (1), 1337, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:hSRAE-fF4OAC",
+        "num_citations": 287,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14635818891186928445,16932926703190940646,3071044335869735506",
+        "cites_id": [
+            "14635818891186928445",
+            "16932926703190940646",
+            "3071044335869735506"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping of long-range chromatin interactions by proximity ligation-assisted ChIP-seq",
+            "pub_year": "2016",
+            "citation": "Cell research 26 (12), 1345-1348, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:XvxMoLDsR5gC",
+        "num_citations": 280,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8107863721134066441",
+        "cites_id": [
+            "8107863721134066441"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predictive chromatin signatures in the mammalian genome",
+            "pub_year": "2009",
+            "citation": "Human molecular genetics 18 (R2), R195-R201, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 280,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3068007323395670244",
+        "cites_id": [
+            "3068007323395670244"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Finding distal regulatory elements in the human genome",
+            "pub_year": "2009",
+            "citation": "Current opinion in genetics & development 19 (6), 541-549, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:dhFuZR0502QC",
+        "num_citations": 278,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4678239107052649466",
+        "cites_id": [
+            "4678239107052649466"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RAP2 mediates mechanoresponses of the Hippo pathway",
+            "pub_year": "2018",
+            "citation": "Nature 560 (7720), 655-660, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:0CzhzZyukY4C",
+        "num_citations": 277,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9661056883900479258",
+        "cites_id": [
+            "9661056883900479258"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tet-assisted bisulfite sequencing of 5-hydroxymethylcytosine",
+            "pub_year": "2012",
+            "citation": "Nature protocols 7 (12), 2159-2170, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:k_IJM867U9cC",
+        "num_citations": 276,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13198560659988074559",
+        "cites_id": [
+            "13198560659988074559"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HiCNorm: removing biases in Hi-C data via Poisson regression",
+            "pub_year": "2012",
+            "citation": "Bioinformatics 28 (23), 3131-3133, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 270,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12780223997415180162",
+        "cites_id": [
+            "12780223997415180162"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification and characterization of cell type\u2013specific and ubiquitous chromatin regulatory structures in the human genome",
+            "pub_year": "2007",
+            "citation": "PLoS genetics 3 (8), e136, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 269,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7094264450698689484",
+        "cites_id": [
+            "7094264450698689484"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-nucleus analysis of accessible chromatin in developing mouse forebrain reveals cell-type-specific transcriptional regulation",
+            "pub_year": "2018",
+            "citation": "Nature neuroscience 21 (3), 432-439, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:5icHVeHT4IsC",
+        "num_citations": 268,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7794034452289288401,15233583371018424638",
+        "cites_id": [
+            "7794034452289288401",
+            "15233583371018424638"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A compendium of promoter-centered long-range chromatin interactions in the human genome",
+            "pub_year": "2019",
+            "citation": "Nature genetics 51 (10), 1442-1449, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:AXkvAH5U_nMC",
+        "num_citations": 266,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7957529291172452509",
+        "cites_id": [
+            "7957529291172452509"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative cellular analysis of motor cortex in human, marmoset and mouse",
+            "pub_year": "2021",
+            "citation": "Nature 598 (7879), 111-119, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:zwpXiJ37cpgC",
+        "num_citations": 260,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=561406049486195895",
+        "cites_id": [
+            "561406049486195895"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell multimodal omics: the power of many",
+            "pub_year": "2020",
+            "citation": "Nature methods 17 (1), 11-14, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:RoXSNcbkSzsC",
+        "num_citations": 260,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9642779155881477205",
+        "cites_id": [
+            "9642779155881477205"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fine tuning of craniofacial morphology by distant-acting enhancers",
+            "pub_year": "2013",
+            "citation": "Science 342 (6157), 1241006, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:lSLTfruPkqcC",
+        "num_citations": 255,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16814050984255869433",
+        "cites_id": [
+            "16814050984255869433"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A tiling-deletion-based genetic screen for cis-regulatory element identification in mammalian cells",
+            "pub_year": "2017",
+            "citation": "Nature methods 14 (6), 629-635, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:HeT0ZceujKMC",
+        "num_citations": 253,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1113803340328231469",
+        "cites_id": [
+            "1113803340328231469"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Endogenous retroviruses and neighboring genes are coordinately repressed by LSD1/KDM1A",
+            "pub_year": "2011",
+            "citation": "Genes & development 25 (6), 594-607, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 249,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14699662900941126026",
+        "cites_id": [
+            "14699662900941126026"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An alternative pluripotent state confers interspecies chimaeric competency",
+            "pub_year": "2015",
+            "citation": "Nature 521 (7552), 316-321, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:M7yex6snE4oC",
+        "num_citations": 245,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2378668333035338764",
+        "cites_id": [
+            "2378668333035338764"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian inference of spatial organizations of chromosomes",
+            "pub_year": "2013",
+            "citation": "PLoS computational biology 9 (1), e1002893, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:RGFaLdJalmkC",
+        "num_citations": 240,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11492364193636114212",
+        "cites_id": [
+            "11492364193636114212"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrative analysis of haplotype-resolved epigenomes across human tissues",
+            "pub_year": "2015",
+            "citation": "Nature 518 (7539), 350-354, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:gsN89kCJA0AC",
+        "num_citations": 238,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4252232995635852232",
+        "cites_id": [
+            "4252232995635852232"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic priming of enhancers predicts developmental competence of hESC-derived endodermal lineage intermediates",
+            "pub_year": "2015",
+            "citation": "Cell stem cell 16 (4), 386-399, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:lmc2jWPfTJgC",
+        "num_citations": 237,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7819763869290538594",
+        "cites_id": [
+            "7819763869290538594"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RFECS: a random-forest based algorithm for enhancer identification from chromatin state",
+            "pub_year": "2013",
+            "citation": "PLoS computational biology 9 (3), e1002968, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:M05iB0D1s5AC",
+        "num_citations": 234,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10608513529997421626",
+        "cites_id": [
+            "10608513529997421626"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An atlas of dynamic chromatin landscapes in mouse fetal development",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7818), 744-751, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:BrOSOlqYqPUC",
+        "num_citations": 223,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11847416689066651567",
+        "cites_id": [
+            "11847416689066651567"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discovery and annotation of functional chromatin signatures in the human genome",
+            "pub_year": "2009",
+            "citation": "PLoS computational biology 5 (11), e1000566, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:_kc_bZDykSQC",
+        "num_citations": 223,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10996594136041360446",
+        "cites_id": [
+            "10996594136041360446"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptionally active HERV-H retrotransposons demarcate topologically associating domains in human pluripotent stem cells",
+            "pub_year": "2019",
+            "citation": "Nature genetics 51 (9), 1380-1388, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Ade32sEp0pkC",
+        "num_citations": 221,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=206959641797046418",
+        "cites_id": [
+            "206959641797046418"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide analysis of protein-DNA interactions",
+            "pub_year": "2006",
+            "citation": "Annu. Rev. Genomics Hum. Genet. 7, 81-102, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 218,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13320709149025206294",
+        "cites_id": [
+            "13320709149025206294"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An ultra high-throughput method for single-cell joint analysis of open chromatin and transcriptome",
+            "pub_year": "2019",
+            "citation": "Nature structural & molecular biology 26 (11), 1063-1070, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:MAUkC_7iAq8C",
+        "num_citations": 210,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4582332000111509049",
+        "cites_id": [
+            "4582332000111509049"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unraveling epigenetic regulation in embryonic stem cells",
+            "pub_year": "2008",
+            "citation": "Cell stem cell 2 (2), 123-134, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:4TOpqqG69KYC",
+        "num_citations": 206,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13571725627929324790",
+        "cites_id": [
+            "13571725627929324790"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Hippo pathway effector proteins YAP and TAZ have both distinct and overlapping functions in the cell",
+            "pub_year": "2018",
+            "citation": "Journal of Biological Chemistry 293 (28), 11230-11240, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:2tRrZ1ZAMYUC",
+        "num_citations": 198,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15668491145179859466",
+        "cites_id": [
+            "15668491145179859466"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromothripsis drives the evolution of gene amplification in cancer",
+            "pub_year": "2021",
+            "citation": "Nature 591 (7848), 137-141, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:UuEBAcK4md4C",
+        "num_citations": 194,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1212819077544770616",
+        "cites_id": [
+            "1212819077544770616"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of H3K4me1-associated proteins at mammalian enhancers",
+            "pub_year": "2018",
+            "citation": "Nature genetics 50 (1), 73-82, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:fbc8zXXH2BUC",
+        "num_citations": 191,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4720543409246975150",
+        "cites_id": [
+            "4720543409246975150"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRISPR reveals a distal super-enhancer required for Sox2 expression in mouse embryonic stem cells",
+            "pub_year": "2014",
+            "citation": "PloS one 9 (12), e114485, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ipzZ9siozwsC",
+        "num_citations": 186,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2073649268914863255",
+        "cites_id": [
+            "2073649268914863255"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ChromaSig: a probabilistic approach to finding common chromatin signatures in the human genome",
+            "pub_year": "2008",
+            "citation": "PLoS computational biology 4 (10), e1000201, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 185,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3798453683344265569",
+        "cites_id": [
+            "3798453683344265569"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EGFR mutation promotes glioblastoma through epigenome and transcription factor network remodeling",
+            "pub_year": "2015",
+            "citation": "Molecular cell 60 (2), 307-318, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ruyezt5ZtCIC",
+        "num_citations": 178,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11639183333247331677",
+        "cites_id": [
+            "11639183333247331677"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome organization and long-range regulation of gene expression by enhancers",
+            "pub_year": "2013",
+            "citation": "Current opinion in cell biology 25 (3), 387-394, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:BqipwSGYUEgC",
+        "num_citations": 177,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9176308071992649880",
+        "cites_id": [
+            "9176308071992649880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multimodal cell census and atlas of the mammalian primary motor cortex",
+            "pub_year": "2021",
+            "citation": "Nature 598 (7879), 86-102, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:RuPIJ_LgqDgC",
+        "num_citations": 174,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6814641778066235234",
+        "cites_id": [
+            "6814641778066235234"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large-scale profiling reveals the influence of genetic variation on gene expression in human induced pluripotent stem cells",
+            "pub_year": "2017",
+            "citation": "Cell stem cell 20 (4), 533-546. e7, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:yMeIxYmEMEAC",
+        "num_citations": 166,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12485879434944630032",
+        "cites_id": [
+            "12485879434944630032"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic evaluation of variability in ChIP-chip experiments using predefined DNA targets",
+            "pub_year": "2008",
+            "citation": "Genome research 18 (3), 393-403, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Zph67rFs4hoC",
+        "num_citations": 155,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9439690661515153479",
+        "cites_id": [
+            "9439690661515153479"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone H3 lysine 4 monomethylation modulates long-range chromatin interactions at enhancers",
+            "pub_year": "2018",
+            "citation": "Cell research 28 (2), 204-220, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:5MTHONV0fEkC",
+        "num_citations": 153,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4315159740020794544",
+        "cites_id": [
+            "4315159740020794544"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NAD metabolic dependency in cancer is shaped by gene amplification and enhancer remodelling",
+            "pub_year": "2019",
+            "citation": "Nature 569 (7757), 570-575, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:prdVHNxh-e8C",
+        "num_citations": 149,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3568121445762029668",
+        "cites_id": [
+            "3568121445762029668"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CTCF mediates chromatin looping via N-terminal domain-dependent cohesin retention",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (4), 2020-2031, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ce2CqMG-AY4C",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7130938526325362072",
+        "cites_id": [
+            "7130938526325362072"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Joint profiling of DNA methylation and chromatin architecture in single cells",
+            "pub_year": "2019",
+            "citation": "Nature methods 16 (10), 991-993, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:WC9gN4BGCRcC",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13424777536770295778",
+        "cites_id": [
+            "13424777536770295778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcriptional regulatory code of eukaryotic cells\u2013insights from genome-wide analysis of chromatin organization and transcription factor binding",
+            "pub_year": "2006",
+            "citation": "Current opinion in cell biology 18 (3), 291-298, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2738775788784267643",
+        "cites_id": [
+            "2738775788784267643"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoter-proximal CTCF binding promotes distal enhancer-dependent gene activation",
+            "pub_year": "2021",
+            "citation": "Nature structural & molecular biology 28 (2), 152-161, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:QsaTk4IG4EwC",
+        "num_citations": 147,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10303043821488635310",
+        "cites_id": [
+            "10303043821488635310"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The gateway to transcription: identifying, characterizing and understanding promoters in the eukaryotic genome",
+            "pub_year": "2007",
+            "citation": "Cellular and Molecular Life Sciences 64, 386-400, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:IWHjjKOFINEC",
+        "num_citations": 145,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7950059736861302086",
+        "cites_id": [
+            "7950059736861302086"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An encyclopedia of mouse DNA elements (Mouse ENCODE)",
+            "pub_year": "2012",
+            "citation": "Genome Biol 13 (8), 418, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:1DsIQWDZLl8C",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10457093103178084141",
+        "cites_id": [
+            "10457093103178084141"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide mapping and analysis of active promoters in mouse embryonic stem cells and adult organs",
+            "pub_year": "2008",
+            "citation": "Genome research 18 (1), 46-59, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:hC7cP41nSMkC",
+        "num_citations": 142,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8168906648076077048",
+        "cites_id": [
+            "8168906648076077048"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of genetically diverse macrophages reveals local and domain-wide mechanisms that control transcription factor binding and function",
+            "pub_year": "2018",
+            "citation": "Cell 173 (7), 1796-1809. e17, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:AHdEip9mkN0C",
+        "num_citations": 138,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1037847158231216165",
+        "cites_id": [
+            "1037847158231216165"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The human noncoding genome defined by genetic diversity",
+            "pub_year": "2018",
+            "citation": "Nature genetics 50 (3), 333-337, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:gKiMpY-AVTkC",
+        "num_citations": 138,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15046470554535745148",
+        "cites_id": [
+            "15046470554535745148"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new class of temporarily phenotypic enhancers identified by CRISPR/Cas9-mediated genetic screening",
+            "pub_year": "2016",
+            "citation": "Genome research 26 (3), 397-405, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ClCfbGk0d_YC",
+        "num_citations": 136,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15563619645618846480",
+        "cites_id": [
+            "15563619645618846480"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide prediction of transcription factor binding sites using an integrated model",
+            "pub_year": "2010",
+            "citation": "Genome biology 11 (1), 1-17, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 134,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17062065989727987451",
+        "cites_id": [
+            "17062065989727987451"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of chromatin immunoprecipitation assays in genome-wide location analysis of mammalian transcription factors",
+            "pub_year": "2003",
+            "citation": "Methods in enzymology 376, 304-315, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:EYYDruWGBe4C",
+        "num_citations": 134,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5871363213670798462",
+        "cites_id": [
+            "5871363213670798462"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A single-cell atlas of chromatin accessibility in the human genome",
+            "pub_year": "2021",
+            "citation": "Cell 184 (24), 5985-6001. e19, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:4aZ_i-5WJEQC",
+        "num_citations": 132,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9430825942788430,16037816292180793004",
+        "cites_id": [
+            "9430825942788430",
+            "16037816292180793004"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Joint profiling of histone modifications and transcriptome in single cells from mouse brain",
+            "pub_year": "2021",
+            "citation": "Nature methods 18 (3), 283-292, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Xz60mAmATU4C",
+        "num_citations": 132,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11317108339131274022",
+        "cites_id": [
+            "11317108339131274022"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-resolution mapping of chromatin conformation in cardiac myocytes reveals structural remodeling of the epigenome in heart failure",
+            "pub_year": "2017",
+            "citation": "Circulation 136 (17), 1613-1625, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Ehil0879vHcC",
+        "num_citations": 131,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12942740853847788881",
+        "cites_id": [
+            "12942740853847788881"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A transcriptomic and epigenomic cell atlas of the mouse primary motor cortex",
+            "pub_year": "2021",
+            "citation": "Nature 598 (7879), 103-110, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:CNPyR2KL9-0C",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14994104943801524435",
+        "cites_id": [
+            "14994104943801524435"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic reorganization of the genome shapes the recombination landscape in meiotic prophase",
+            "pub_year": "2019",
+            "citation": "Nature structural & molecular biology 26 (3), 164-174, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:PYBJJbyH-FwC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11866350637923145568",
+        "cites_id": [
+            "11866350637923145568"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Direct isolation and identification of promoters in the human genome",
+            "pub_year": "2005",
+            "citation": "Genome research 15 (6), 830-839, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 119,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13704450384050499395",
+        "cites_id": [
+            "13704450384050499395"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation atlas of the mouse brain at single-cell resolution",
+            "pub_year": "2021",
+            "citation": "Nature 598 (7879), 120-128, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:w0F2JDEymm0C",
+        "num_citations": 118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11977031764162723543",
+        "cites_id": [
+            "11977031764162723543"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u03b2-Catenin activates the growth factor endothelin-1 in colon cancer cells",
+            "pub_year": "2005",
+            "citation": "Oncogene 24 (4), 597-604, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:-f6ydRqryjwC",
+        "num_citations": 115,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15297057965911103996",
+        "cites_id": [
+            "15297057965911103996"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The changing mouse embryo transcriptome at whole tissue and single-cell resolution",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7818), 760-767, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:mUJArPsKIAAC",
+        "num_citations": 114,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11790296075920415373",
+        "cites_id": [
+            "11790296075920415373"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic chromatin states in human ES cells reveal potential regulatory sequences and genes involved in pluripotency",
+            "pub_year": "2011",
+            "citation": "Cell research 21 (10), 1393-1409, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:TQgYirikUcIC",
+        "num_citations": 114,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7587400656611231716",
+        "cites_id": [
+            "7587400656611231716"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ChIP\u2010chip: Data, model, and analysis",
+            "pub_year": "2007",
+            "citation": "Biometrics 63 (3), 787-796, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4430651790673109533",
+        "cites_id": [
+            "4430651790673109533"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prediction of regulatory elements in mammalian genomes using chromatin signatures",
+            "pub_year": "2008",
+            "citation": "BMC bioinformatics 9, 1-18, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15574558671043265430",
+        "cites_id": [
+            "15574558671043265430"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CBX3 regulates efficient RNA processing genome-wide",
+            "pub_year": "2012",
+            "citation": "Genome research 22 (8), 1426-1436, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9983138855568279306",
+        "cites_id": [
+            "9983138855568279306"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polycomb-like 3 promotes polycomb repressive complex 2 binding to CpG islands and embryonic stem cell self-renewal",
+            "pub_year": "2012",
+            "citation": "PLoS genetics 8 (3), e1002576, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 105,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4682774012688354618",
+        "cites_id": [
+            "4682774012688354618"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global chromatin state analysis reveals lineage-specific enhancers during the initiation of human T helper 1 and T helper 2 cell polarization",
+            "pub_year": "2013",
+            "citation": "Immunity 38 (6), 1271-1284, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:rO6llkc54NcC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1112236790086008611",
+        "cites_id": [
+            "1112236790086008611"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of DNA methylation turnover at LTR retrotransposons and imprinted loci by the histone methyltransferase Setdb1",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (18), 6690-6695, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:WbkHhVStYXYC",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2567424805043485838",
+        "cites_id": [
+            "2567424805043485838"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative analyses of CTCF and BORIS occupancies uncover two distinct classes of CTCF binding genomic regions",
+            "pub_year": "2015",
+            "citation": "Genome biology 16 (1), 1-24, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:foquWX3nUaYC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18416651793234063577",
+        "cites_id": [
+            "18416651793234063577"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide compendium and functional assessment of in vivo heart enhancers",
+            "pub_year": "2016",
+            "citation": "Nature communications 7 (1), 12923, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:_5tno0g5mFcC",
+        "num_citations": 91,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10857541365610571635",
+        "cites_id": [
+            "10857541365610571635"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An atlas of gene regulatory elements in adult mouse cerebrum",
+            "pub_year": "2021",
+            "citation": "Nature 598 (7879), 129-136, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:3bvyWxjaHKcC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14705791666214263792",
+        "cites_id": [
+            "14705791666214263792"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional regulation by Pol II (G) involving mediator and competitive interactions of Gdown1 and TFIIF with Pol II",
+            "pub_year": "2012",
+            "citation": "Molecular cell 45 (1), 51-63, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:blknAaTinKkC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3690624378757430499",
+        "cites_id": [
+            "3690624378757430499"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatiotemporal DNA methylome dynamics of the developing mouse fetus",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7818), 752-759, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:F9fV5C73w3QC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5776918494480542549",
+        "cites_id": [
+            "5776918494480542549"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PU. 1 and C/EBP\u03b1 synergistically program distinct response to NF-\u03baB activation through establishing monocyte specific enhancers",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (13), 5290-5295, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:maZDTaKrznsC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16732831453030079399",
+        "cites_id": [
+            "16732831453030079399"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pancreatic islet chromatin accessibility and conformation reveals distal enhancer networks of type 2 diabetes risk",
+            "pub_year": "2019",
+            "citation": "Nature communications 10 (1), 2078, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:hsZV8lGYWTMC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6540739707363031146",
+        "cites_id": [
+            "6540739707363031146"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MAPS: Model-based analysis of long-range chromatin interactions from PLAC-seq and HiChIP experiments",
+            "pub_year": "2019",
+            "citation": "PLoS computational biology 15 (4), e1006982, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:NyGDZy8z5eUC",
+        "num_citations": 88,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12557096407153559385",
+        "cites_id": [
+            "12557096407153559385"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Perspectives on ENCODE",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7818), 693-698, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:EPG8bYD4jVwC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13037996884087036368",
+        "cites_id": [
+            "13037996884087036368"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human-specific tandem repeat expansion and differential gene expression during primate evolution",
+            "pub_year": "2019",
+            "citation": "Proceedings of the National Academy of Sciences 116 (46), 23243-23253, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:1r-w4gtu6w8C",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12137331320088465309",
+        "cites_id": [
+            "12137331320088465309"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic analysis of binding of transcription factors to noncoding variants",
+            "pub_year": "2021",
+            "citation": "Nature 591 (7848), 147-151, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:UmS_249rOGwC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=843878312603177775",
+        "cites_id": [
+            "843878312603177775"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improved regulatory element prediction based on tissue-specific local epigenomic signatures",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (9), E1633-E1640, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:dBIO0h50nwkC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12695610738223785169",
+        "cites_id": [
+            "12695610738223785169"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CTCF mediates dosage-and sequence-context-dependent transcriptional insulation by forming local chromatin domains",
+            "pub_year": "2021",
+            "citation": "Nature genetics 53 (7), 1064-1074, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:RJOyoaXV5v8C",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9101210307145789863",
+        "cites_id": [
+            "9101210307145789863"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of cellular diversity in primary motor cortex of human, marmoset monkey, and mouse",
+            "pub_year": "2020",
+            "citation": "BioRxiv, 2020.03. 31.016972, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:HhcuHIWmDEUC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16048921998508554746",
+        "cites_id": [
+            "16048921998508554746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tissue-specific SMARCA4 binding at active and repressed regulatory elements during embryogenesis",
+            "pub_year": "2014",
+            "citation": "Genome research 24 (6), 920-929, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:1qzjygNMrQYC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9775002777242370782",
+        "cites_id": [
+            "9775002777242370782"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Common DNA sequence variation influences 3-dimensional conformation of the human genome",
+            "pub_year": "2019",
+            "citation": "Genome biology 20, 1-25, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:CB2v5VPnA5kC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10147518888266952594",
+        "cites_id": [
+            "10147518888266952594"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HUGIn: Hi-C unifying genomic interrogator",
+            "pub_year": "2017",
+            "citation": "Bioinformatics 33 (23), 3793-3795, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:cWzG1nlazyYC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8578902747416143262",
+        "cites_id": [
+            "8578902747416143262"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide mapping of allele-specific protein-DNA interactions in human cells",
+            "pub_year": "2008",
+            "citation": "Nature Methods 5 (4), 307-309, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7395194136987546409",
+        "cites_id": [
+            "7395194136987546409"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ranking of non-coding pathogenic variants and putative essential regions of the human genome",
+            "pub_year": "2019",
+            "citation": "Nature communications 10 (1), 5241, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:NDuN12AVoxsC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13857811923934358120",
+        "cites_id": [
+            "13857811923934358120"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA replication acts as an error correction mechanism to maintain centromere identity by restricting CENP-A to centromeres",
+            "pub_year": "2019",
+            "citation": "Nature cell biology 21 (6), 743-754, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:k_7cPK9k7w8C",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16957113002036275093",
+        "cites_id": [
+            "16957113002036275093"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcription factor-directed re-wiring of chromatin architecture for somatic cell nuclear reprogramming toward trans-differentiation",
+            "pub_year": "2019",
+            "citation": "Molecular cell 76 (3), 453-472. e8, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:6_hjMsCP8ZoC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9882336063184729799",
+        "cites_id": [
+            "9882336063184729799"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell chromatin analysis of mammary gland development reveals cell-state transcriptional regulators and lineage relationships",
+            "pub_year": "2019",
+            "citation": "Cell reports 29 (2), 495-510. e6, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Br1UauaknNIC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8475991957710141219",
+        "cites_id": [
+            "8475991957710141219"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MPE-seq, a new method for the genome-wide analysis of chromatin structure",
+            "pub_year": "2015",
+            "citation": "Proceedings of the National Academy of Sciences 112 (27), E3457-E3465, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:SpbeaW3--B0C",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=791547314726319420",
+        "cites_id": [
+            "791547314726319420"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hyper-editing of cell-cycle regulatory and tumor suppressor RNA promotes malignant progenitor propagation",
+            "pub_year": "2019",
+            "citation": "Cancer cell 35 (1), 81-94. e7, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:q-HalDI95KYC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2606456641411256488",
+        "cites_id": [
+            "2606456641411256488"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An integrated transcriptomic and epigenomic atlas of mouse primary motor cortex cell types",
+            "pub_year": "2020",
+            "citation": "Biorxiv, 2020.02. 29.970558, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:KNjnJ3z-R6IC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6227899991483677468",
+        "cites_id": [
+            "6227899991483677468"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human centromeric CENP-A chromatin is a homotypic, octameric nucleosome at all cell cycle points",
+            "pub_year": "2017",
+            "citation": "Journal of Cell Biology 216 (3), 607-621, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:SjuI4pbJlxcC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10767220248125159435",
+        "cites_id": [
+            "10767220248125159435"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA binding by FOXP3 domain-swapped dimer suggests mechanisms of long-range chromosomal interactions",
+            "pub_year": "2015",
+            "citation": "Nucleic acids research 43 (2), 1268-1282, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:vbGhcppDl1QC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8560102522458670203",
+        "cites_id": [
+            "8560102522458670203"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide association and multi-omic analyses reveal ACTN2 as a gene linked to heart failure",
+            "pub_year": "2020",
+            "citation": "Nature communications 11 (1), 1122, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:uVUOdF_882EC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3074466204131870800",
+        "cites_id": [
+            "3074466204131870800"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromosome-wide analysis of protein-DNA interactions",
+            "pub_year": "2002",
+            "citation": "US Patent 6,410,243, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:GnPB-g6toBAC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8507081788042571071",
+        "cites_id": [
+            "8507081788042571071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enhancers make non-coding RNA",
+            "pub_year": "2010",
+            "citation": "Nature 465 (7295), 173-174, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:hMod-77fHWUC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12288523749346023788",
+        "cites_id": [
+            "12288523749346023788"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative annotation of functional regions in the human genome using epigenomic data",
+            "pub_year": "2013",
+            "citation": "Nucleic acids research 41 (8), 4423-4432, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:u_35RYKgDlwC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=44233835699683488",
+        "cites_id": [
+            "44233835699683488"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cardiac cell type\u2013specific gene regulatory programs and disease risk association",
+            "pub_year": "2021",
+            "citation": "Science advances 7 (20), eabf1444, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:QUX0mv85b1cC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=471302649424173297",
+        "cites_id": [
+            "471302649424173297"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tet-mediated covalent labelling of 5-methylcytosine for its genome-wide detection and sequencing",
+            "pub_year": "2013",
+            "citation": "Nature communications 4 (1), 1517, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8521161852605465633",
+        "cites_id": [
+            "8521161852605465633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Positive inter-regulation between \u03b2-catenin/T cell factor-4 signaling and endothelin-1 signaling potentiates proliferation and survival of prostate cancer cells",
+            "pub_year": "2006",
+            "citation": "Molecular pharmacology 69 (2), 520-531, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18273389981228604208",
+        "cites_id": [
+            "18273389981228604208"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enhancing pluripotency and lineage specification",
+            "pub_year": "2013",
+            "citation": "Science 341 (6143), 245-247, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:f2IySw72cVMC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16023561547697855507",
+        "cites_id": [
+            "16023561547697855507"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterizing cis-regulatory elements using single-cell epigenomics",
+            "pub_year": "2023",
+            "citation": "Nature Reviews Genetics 24 (1), 21-43, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ijdKiLOsEJMC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13453081707522034511",
+        "cites_id": [
+            "13453081707522034511"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Iterative single-cell multi-omic integration using online learning",
+            "pub_year": "2021",
+            "citation": "Nature biotechnology 39 (8), 1000-1007, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:wE-fMHVdjMkC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5932887059924351365",
+        "cites_id": [
+            "5932887059924351365"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combined gene expression and DNA occupancy profiling identifies potential therapeutic targets of t (8; 21) AML",
+            "pub_year": "2012",
+            "citation": "Blood, The Journal of the American Society of Hematology 120 (7), 1473-1484, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6585641000893749353",
+        "cites_id": [
+            "6585641000893749353"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Preservation of chromatin organization after acute loss of CTCF in mouse embryonic stem cells",
+            "pub_year": "2017",
+            "citation": "BioRxiv, 118737, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:mNrWkgRL2YcC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15631200056058414972",
+        "cites_id": [
+            "15631200056058414972"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enhancers: multi-dimensional signal integrators",
+            "pub_year": "2011",
+            "citation": "Transcription 2 (5), 226-230, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ldfaerwXgEUC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6320821284073818080",
+        "cites_id": [
+            "6320821284073818080"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic detection of putative tumor suppressor genes through the combined use of exome and transcriptome sequencing",
+            "pub_year": "2010",
+            "citation": "Genome biology 11 (11), 1-14, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6502079531456123767",
+        "cites_id": [
+            "6502079531456123767"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mnt-deficient mammary glands exhibit impaired involution and tumors with characteristics of myc overexpression",
+            "pub_year": "2006",
+            "citation": "Cancer research 66 (11), 5565-5573, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15481809409429038955",
+        "cites_id": [
+            "15481809409429038955"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coordinated histone modifications and chromatin reorganization in a single cell revealed by FRET biosensors",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (50), E11681-E11690, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:DBa1UEJaJKAC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10887217605714613902",
+        "cites_id": [
+            "10887217605714613902"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of global regulators of T-helper cell lineage specification",
+            "pub_year": "2015",
+            "citation": "Genome medicine 7, 1-11, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:FPJr55Dyh1AC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5728820290356599087",
+        "cites_id": [
+            "5728820290356599087"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct and predictive histone lysine acetylation patterns at promoters, enhancers, and gene bodies",
+            "pub_year": "2014",
+            "citation": "G3: Genes, Genomes, Genetics 4 (11), 2051-2063, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:kzcrU_BdoSEC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17297488729476914642",
+        "cites_id": [
+            "17297488729476914642"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "p16INK4a\u2010mediated suppression of telomerase in normal and malignant human breast cells",
+            "pub_year": "2010",
+            "citation": "Aging cell 9 (5), 736-746, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:35N4QoGY0k4C",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6236534838614299894",
+        "cites_id": [
+            "6236534838614299894"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NDF, a nucleosome-destabilizing factor that facilitates transcription through nucleosomes",
+            "pub_year": "2018",
+            "citation": "Genes & development 32 (9-10), 682-694, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:F1b5ZUV5XREC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10096228203596507476",
+        "cites_id": [
+            "10096228203596507476"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone acetyltransferase cofactor Trrap maintains self-renewal and restricts differentiation of embryonic stem cells",
+            "pub_year": "2013",
+            "citation": "Stem Cells 31 (5), 979-991, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:abG-DnoFyZgC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10414190986675183368",
+        "cites_id": [
+            "10414190986675183368"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide location analysis: insights on transcriptional regulation",
+            "pub_year": "2006",
+            "citation": "Human molecular genetics 15 (suppl_1), R1-R7, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4930196294696759727",
+        "cites_id": [
+            "4930196294696759727"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single nucleus multi-omics identifies human cortical cell regulatory genome diversity",
+            "pub_year": "2022",
+            "citation": "Cell genomics 2 (3), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:t-hv7AR41mYC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=459530813453196347",
+        "cites_id": [
+            "459530813453196347"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SnapHiC: a computational pipeline to identify chromatin loops from single-cell Hi-C data",
+            "pub_year": "2021",
+            "citation": "Nature methods 18 (9), 1056-1059, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:A8cqit5AE6sC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10827115190825432105",
+        "cites_id": [
+            "10827115190825432105"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Direct DNA crosslinking with CAP-C uncovers transcription-dependent chromatin organization at high resolution",
+            "pub_year": "2021",
+            "citation": "Nature biotechnology 39 (2), 225-235, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:DkZNVXde3BIC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13836051807641669389",
+        "cites_id": [
+            "13836051807641669389"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional regulatory control of mammalian nephron progenitors revealed by multi-factor cistromic analysis and genetic studies",
+            "pub_year": "2018",
+            "citation": "PLoS Genetics 14 (1), e1007181, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:gVv57TyPmFsC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14103715374292118146",
+        "cites_id": [
+            "14103715374292118146"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of Drosophila Adh promoter switching by an initiator-targeted repression mechanism",
+            "pub_year": "1998",
+            "citation": "The EMBO journal 17 (4), 1076-1086, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6122762265444472493",
+        "cites_id": [
+            "6122762265444472493"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional enhancers: bridging the genome and phenome",
+            "pub_year": "2015",
+            "citation": "Cold Spring Harbor symposia on quantitative biology 80, 17-26, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:0N-VGjzr574C",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=910077492144223135",
+        "cites_id": [
+            "910077492144223135"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single nucleus multi-omics links human cortical cell regulatory genome diversity to disease risk variants",
+            "pub_year": "2019",
+            "citation": "Biorxiv, 2019.12. 11.873398, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:U_HPUtbDl20C",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1024041199897052260",
+        "cites_id": [
+            "1024041199897052260"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping of genomic EGFRvIII deletions in glioblastoma: insight into rearrangement mechanisms and biomarker development",
+            "pub_year": "2018",
+            "citation": "Neuro-oncology 20 (10), 1310-1320, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:XUvXOeBm_78C",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2189336477241899335",
+        "cites_id": [
+            "2189336477241899335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An integrated approach to identifying cis-regulatory modules in the human genome",
+            "pub_year": "2009",
+            "citation": "PLoS One 4 (5), e5501, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10245575027521797047",
+        "cites_id": [
+            "10245575027521797047"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ChIP\u2010chip for genome\u2010wide analysis of protein binding in mammalian cells",
+            "pub_year": "2007",
+            "citation": "Current protocols in molecular biology 79 (1), 21.13. 1-21.13. 22, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:isC4tDSrTZIC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2131157836442762224",
+        "cites_id": [
+            "2131157836442762224"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparing 3D genome organization in multiple species using Phylo-HMRF",
+            "pub_year": "2019",
+            "citation": "Cell systems 8 (6), 494-505. e14, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:wKETBy42zhYC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1046689475977745165",
+        "cites_id": [
+            "1046689475977745165"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A \u03b2-catenin-driven switch in TCF/LEF transcription factor binding to DNA target sites promotes commitment of mammalian nephron progenitor cells",
+            "pub_year": "2021",
+            "citation": "Elife 10, e64444, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:DrR-2ekChdkC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13413819848951108549",
+        "cites_id": [
+            "13413819848951108549"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Preventive inhibition of liver tumorigenesis by systemic activation of innate immune functions",
+            "pub_year": "2017",
+            "citation": "Cell reports 21 (7), 1870-1882, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:rHJHxKgnXwkC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5153010462798371665",
+        "cites_id": [
+            "5153010462798371665"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequence logic at enhancers governs a dual mechanism of endodermal organ fate induction by FOXA pioneer factors",
+            "pub_year": "2021",
+            "citation": "Nature communications 12 (1), 6636, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:8dzOF9BpDQoC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16876891105080715015",
+        "cites_id": [
+            "16876891105080715015"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic mapping of chromatin state landscapes during mouse development",
+            "pub_year": "2017",
+            "citation": "BioRxiv, 166652, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:OP4eGU-M3BUC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12851123427177151421",
+        "cites_id": [
+            "12851123427177151421"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping higher order structure of chromatin domains",
+            "pub_year": "2011",
+            "citation": "Nature genetics 43 (7), 615-616, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17762171422072161502",
+        "cites_id": [
+            "17762171422072161502"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct patterns of somatic alterations in a lymphoblastoid and a tumor genome derived from the same individual",
+            "pub_year": "2011",
+            "citation": "Nucleic acids research 39 (14), 6056-6068, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12059328663059521330",
+        "cites_id": [
+            "12059328663059521330"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FIREcaller: Detecting frequently interacting regions from Hi-C data",
+            "pub_year": "2021",
+            "citation": "Computational and structural biotechnology journal 19, 355-362, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:yxmsSjX2EkcC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15098926854561877354",
+        "cites_id": [
+            "15098926854561877354"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "STAR: an integrated solution to management and visualization of sequencing data",
+            "pub_year": "2013",
+            "citation": "Bioinformatics 29 (24), 3204-3210, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4576874149705792780",
+        "cites_id": [
+            "4576874149705792780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pancreatic progenitor epigenome maps prioritize type 2 diabetes risk genes with roles in development",
+            "pub_year": "2021",
+            "citation": "Elife 10, e59067, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:-nhnvRiOwuoC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15369954831710871082",
+        "cites_id": [
+            "15369954831710871082"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multimodal cell census and atlas of the mammalian primary motor cortex",
+            "pub_year": "2020",
+            "citation": "Biorxiv, 2020.10. 19.343129, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:TlpoogIpr_IC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14294710553632424994",
+        "cites_id": [
+            "14294710553632424994"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A scalable epitope tagging approach for high throughput ChIP-Seq analysis",
+            "pub_year": "2017",
+            "citation": "ACS synthetic biology 6 (6), 1034-1042, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:4vMrXwiscB8C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7638910960246772461",
+        "cites_id": [
+            "7638910960246772461"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complete haplotype phasing of the MHC and KIR loci with targeted HaploSeq",
+            "pub_year": "2015",
+            "citation": "BMC genomics 16, 1-7, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3046436300544129955",
+        "cites_id": [
+            "3046436300544129955"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Closing the distance on obesity culprits",
+            "pub_year": "2014",
+            "citation": "Nature 507 (7492), 309-310, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:XiSMed-E-HIC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17512863580781197869",
+        "cites_id": [
+            "17512863580781197869"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The MUC5B-associated variant rs35705950 resides within an enhancer subject to lineage-and disease-dependent epigenetic remodeling",
+            "pub_year": "2021",
+            "citation": "JCI insight 6 (2), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:zGdJYJv2LkUC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15172481750387553364",
+        "cites_id": [
+            "15172481750387553364"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Perspectives on ENCODE",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7818), 693-699, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:69ZgNCALVd0C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12466045730709983789",
+        "cites_id": [
+            "12466045730709983789"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-platform discovery of haplotype-resolved structural variation in human genomes. Nat Commun. 2019; 10 (1): 1784",
+            "citation": "Epub 2019/04/18. https://doi. org/10.1038/s41467-018-08148-z PMID: 30992455, 0"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:sA9dB-pw3HoC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5356507613117605318",
+        "cites_id": [
+            "5356507613117605318"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-platform discovery of haplotype-resolved structural variation in human genomes. Nat Commun 10: 1784",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:c59VksA5Vz4C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8309130133046811379",
+        "cites_id": [
+            "8309130133046811379"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reply to Brunet and Doolittle: Both selected effect and causal role elements can influence human biology and disease",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (33), E3366-E3366, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Fu2w8maKXqMC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16575318842343317484",
+        "cites_id": [
+            "16575318842343317484"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parallel characterization of cis-regulatory elements for multiple genes using CRISPRpath",
+            "pub_year": "2021",
+            "citation": "Science advances 7 (38), eabi4360, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:2v_ZtQDX9iAC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16710012830355878448",
+        "cites_id": [
+            "16710012830355878448"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: Corrigendum: Human body epigenome maps reveal noncanonical DNA methylation variation",
+            "pub_year": "2016",
+            "citation": "Nature 530 (7589), 242-242, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:-95Q15plzcUC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10589325909315074661",
+        "cites_id": [
+            "10589325909315074661"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic mapping of occluded genes by cell fusion reveals prevalence and stability of cis-mediated silencing in somatic cells",
+            "pub_year": "2014",
+            "citation": "Genome Research 24 (2), 267-280, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:LPZeul_q3PIC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6301740504024586971",
+        "cites_id": [
+            "6301740504024586971"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A CRISPR connection between chromatin topology and genetic disorders",
+            "pub_year": "2015",
+            "citation": "Cell 161 (5), 955-957, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:oNZyr7d5Mn4C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11164083828195060459",
+        "cites_id": [
+            "11164083828195060459"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "KDM1A maintains genome-wide homeostasis of transcriptional enhancers",
+            "pub_year": "2021",
+            "citation": "Genome Research 31 (2), 186-197, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Xl6nMSl579sC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7591857902519021216",
+        "cites_id": [
+            "7591857902519021216"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CTCF promotes long-range enhancer-promoter interactions and lineage-specific gene expression in mammalian cells",
+            "pub_year": "2020",
+            "citation": "BioRxiv, 2020.03. 21.001693, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:VN7nJs4JPk0C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4096703796623316690",
+        "cites_id": [
+            "4096703796623316690"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D chromatin architecture remodeling during human cardiomyocyte differentiation reveals a novel role of HERV-H in demarcating chromatin domains",
+            "pub_year": "2018",
+            "citation": "BioRxiv, 485961, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ALROH1vI_8AC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4376387203166937563",
+        "cites_id": [
+            "4376387203166937563"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global identification of transcriptional regulators of pluripotency and differentiation in embryonic stem cells",
+            "pub_year": "2012",
+            "citation": "Nucleic acids research 40 (17), 8199-8209, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:D03iK_w7-QYC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14319666365754555600",
+        "cites_id": [
+            "14319666365754555600"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SERPINB13 is a novel RUNX1 target gene",
+            "pub_year": "2011",
+            "citation": "Biochemical and biophysical research communications 411 (1), 115-120, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:a0OBvERweLwC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13963677893651615391",
+        "cites_id": [
+            "13963677893651615391"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adult tissue methylomes harbor epigenetic memory at embryonic enhancers",
+            "pub_year": "2013",
+            "citation": "Nature genetics 45 (10), 1198, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:W5xh706n7nkC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11051719612284460187",
+        "cites_id": [
+            "11051719612284460187"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone H3 lysine 4 methyltransferases MLL3 and MLL4 modulate long-range chromatin interactions at enhancers",
+            "pub_year": "2017",
+            "citation": "BioRxiv, 110239, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:HIFyuExEbWQC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10101063865198571423",
+        "cites_id": [
+            "10101063865198571423"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic discovery and functional dissection of enhancers needed for cancer cell fitness and proliferation",
+            "pub_year": "2022",
+            "citation": "Cell reports 41 (6), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:M0leSnx2MbUC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10284678868335193543",
+        "cites_id": [
+            "10284678868335193543"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Three-dimensional organization of chromatin associated RNAs and their role in chromatin architecture in human cells",
+            "pub_year": "2021",
+            "citation": "BioRxiv, 2021.06. 10.447969, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:eAlLMO4JVmQC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6569541883295047187",
+        "cites_id": [
+            "6569541883295047187"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CTCF mediates dosage and sequence-context-dependent transcriptional insulation through formation of local chromatin domains",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.07. 07.192526, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:WAzi4Gm8nLoC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=725604655700773828",
+        "cites_id": [
+            "725604655700773828"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-tissue integrative analysis of personal epigenomes",
+            "pub_year": "2021",
+            "citation": "BioRxiv, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:1tZ8xJnm2c8C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16121492634726944007",
+        "cites_id": [
+            "16121492634726944007"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Author Correction: An atlas of dynamic chromatin landscapes in mouse fetal development",
+            "pub_year": "2021",
+            "citation": "Nature 589 (7842), E4-E4, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:JTqpx9DYBaYC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12208647331498539250",
+        "cites_id": [
+            "12208647331498539250"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Snaphic: a computational pipeline to map chromatin contacts from single cell hi-c data",
+            "pub_year": "2020",
+            "citation": "BioRxiv, 2020.12. 13.422543, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:jSAVyFp_754C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4821214176625238140",
+        "cites_id": [
+            "4821214176625238140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FIREcaller: an R package for detecting frequently interacting regions from Hi-C data",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 619288, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:pQTOvowfQioC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7347730704768232434",
+        "cites_id": [
+            "7347730704768232434"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The EN-TEx resource of multi-tissue personal epigenomes & variant-impact models",
+            "pub_year": "2023",
+            "citation": "Cell 186 (7), 1493-1511. e40, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:6VlyvFCUEfcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=598347494039753253",
+        "cites_id": [
+            "598347494039753253"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bridging between mouse and human enhancer-promoter long-range interactions in neural stem cells, to understand enhancer function in neurodevelopmental disease",
+            "pub_year": "2022",
+            "citation": "International Journal of Molecular Sciences 23 (14), 7964, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:eI34FqJmdUoC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=266515681752411975",
+        "cites_id": [
+            "266515681752411975"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topologically associating domain boundaries are commonly required for normal genome function",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.05. 06.443037, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:2ywjKiB__4kC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2212207736959641325",
+        "cites_id": [
+            "2212207736959641325"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proximity ligation-assisted ChIP-Seq (PLAC-seq)",
+            "pub_year": "2021",
+            "citation": "Enhancers and Promoters: Methods and Protocols, 181-199, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:T_ojBgVMvoEC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9292767011173831013",
+        "cites_id": [
+            "9292767011173831013"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA replication-mediated error correction of ectopic CENP-A deposition maintains centromere identity",
+            "pub_year": "2018",
+            "citation": "BioRxiv, 428557, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Hck25ST_3aIC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13494872359826443717",
+        "cites_id": [
+            "13494872359826443717"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Type 1 diabetes risk genes mediate pancreatic beta cell survival in response to proinflammatory cytokines",
+            "pub_year": "2022",
+            "citation": "Cell genomics 2 (12), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:hvmnpdAuIbkC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12629892390375315626",
+        "cites_id": [
+            "12629892390375315626"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell epigenome analysis reveals age-associated decay of heterochromatin domains in excitatory neurons in the mouse brain",
+            "pub_year": "2022",
+            "citation": "Cell Research 32 (11), 1008-1021, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:nPTYJWkExTIC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10496423219723754586",
+        "cites_id": [
+            "10496423219723754586"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single nucleus analysis of the chromatin landscape in mouse forebrain development",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 159137, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:a3BOlSfXSfwC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1510714976122411131",
+        "cites_id": [
+            "1510714976122411131"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LSD1/KDM1A maintains genome-wide homeostasis of transcriptional enhancers",
+            "pub_year": "2017",
+            "citation": "BioRxiv, 146357, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:yqoGN6RLRZoC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1285816639368360801",
+        "cites_id": [
+            "1285816639368360801"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The human functional genome defined by genetic diversity",
+            "pub_year": "2016",
+            "citation": "bioRxiv, 082362, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:IRz6iEL74y4C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3125483137161018691",
+        "cites_id": [
+            "3125483137161018691"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An all-round view of eukaryotic transcription",
+            "pub_year": "2006",
+            "citation": "Genome biology 7 (7), 1-3, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:vRqMK49ujn8C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4418831267073568164",
+        "cites_id": [
+            "4418831267073568164"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Age-dependent Lamin changes induce cardiac dysfunction via dysregulation of cardiac transcriptional programs",
+            "pub_year": "2023",
+            "citation": "Nature aging 3 (1), 17-33, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:QsKbpXNoaWkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13267893242651394678",
+        "cites_id": [
+            "13267893242651394678"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Hippo pathway mediates Semaphorin signaling",
+            "pub_year": "2022",
+            "citation": "Science advances 8 (21), eabl9806, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:lYAcb2jw7qUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16674336813281927047",
+        "cites_id": [
+            "16674336813281927047"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Author Correction: Comparative cellular analysis of motor cortex in human, marmoset and mouse",
+            "pub_year": "2022",
+            "citation": "Nature 604 (7904), E8-E8, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:oPLKW5k6eA4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9642487652075277539",
+        "cites_id": [
+            "9642487652075277539"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improved epicardial cardiac fibroblast generation from iPSCs",
+            "pub_year": "2022",
+            "citation": "Journal of Molecular and Cellular Cardiology 164, 58-68, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:G1UMdFYMoxkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3374383865995300001",
+        "cites_id": [
+            "3374383865995300001"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A dual mechanism of enhancer activation by FOXA pioneer factors induces endodermal organ fates",
+            "pub_year": "2020",
+            "citation": "BioRxiv, 2020.08. 28.263020, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:pS0ncopqnHgC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8219095695745111016",
+        "cites_id": [
+            "8219095695745111016"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell type-specific enhancer-promoter connectivity maps in the human brain and disease risk association",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 778183, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:1Ye0OR6EYb4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9181491267303811327",
+        "cites_id": [
+            "9181491267303811327"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simultaneous profiling of DNA methylation and chromatin architecture in mixed populations and in single cells",
+            "pub_year": "2018",
+            "citation": "bioRxiv, 470963, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:CaZNVDsoPx4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8990593737062326291",
+        "cites_id": [
+            "8990593737062326291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of essential regulatory elements in the human genome",
+            "pub_year": "2018",
+            "citation": "biorxiv, 444562, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:jL-93Qbq4QoC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=755334607867553029",
+        "cites_id": [
+            "755334607867553029"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pancreatic islet chromatin accessibility and conformation defines distal enhancer networks of type 2 diabetes risk",
+            "pub_year": "2018",
+            "citation": "BioRxiv, 299388, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Ak0FvsSvgGUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8296001149283940548",
+        "cites_id": [
+            "8296001149283940548"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enhancer signatures in the prognosis and diagnosis of cancers and other disorders",
+            "pub_year": "2010",
+            "citation": "US Patent App. 12/734,302, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18164374017246536246",
+        "cites_id": [
+            "18164374017246536246"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topologically associating domain boundaries are required for normal genome function",
+            "pub_year": "2023",
+            "citation": "Communications biology 6 (1), 435, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:In6cVmBjs0IC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16078196281737426619",
+        "cites_id": [
+            "16078196281737426619"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A spatial genome aligner for resolving chromatin architectures from multiplexed DNA FISH",
+            "pub_year": "2023",
+            "citation": "Nature biotechnology, 1-14, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ndLnGcHYRF0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3907337597692154489",
+        "cites_id": [
+            "3907337597692154489"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A spatial genome aligner for multiplexed DNA-FISH",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.03. 25.485845, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:hQUaER0FWQ4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6004194222247820941",
+        "cites_id": [
+            "6004194222247820941"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomic complexity of the human brain revealed by single-cell DNA methylomes and 3D genome structures",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.11. 30.518285, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:lg2tdxc6qMwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18167062503424470361",
+        "cites_id": [
+            "18167062503424470361"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comparative atlas of single-cell chromatin accessibility in the human brain",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.11. 09.515833, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:pYKElYtJMmwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15618428234975701675",
+        "cites_id": [
+            "15618428234975701675"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The BRAIN Initiative Cell Census Data Ecosystem: A User's Guide",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.10. 26.513573, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:hNSvKAmkeYkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5448162952532647019",
+        "cites_id": [
+            "5448162952532647019"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An atlas of dynamic chromatin landscapes in the developing mouse fetus",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7818), 744, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:X9ykpCP0fEIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10257793366113851914",
+        "cites_id": [
+            "10257793366113851914"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: Corrigendum: Hotspots of aberrant epigenomic reprogramming in human induced pluripotent stem cells",
+            "pub_year": "2014",
+            "citation": "Nature 514 (7520), 126-126, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Azgs6IHzeyYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10386687454381110631",
+        "cites_id": [
+            "10386687454381110631"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatial and temporal organization of the genome: Current state and future aims of the 4D nucleome project",
+            "pub_year": "2023",
+            "citation": "Molecular Cell, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:9shLKfS_uJEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14422798622462919698",
+        "cites_id": [
+            "14422798622462919698"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Author Correction: Expanded encyclopaedias of DNA elements in the human and mouse genomes",
+            "pub_year": "2022",
+            "citation": "Nature 605 (7909), E3-E3, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:TaaCk18tZOkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9242299066447497843",
+        "cites_id": [
+            "9242299066447497843"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Age-dependent Lamin remodeling induces cardiac dysfunction via dysregulation of cardiac transcriptional programs",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Zh0EY9V9P6UC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17808975409354645456",
+        "cites_id": [
+            "17808975409354645456"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MLL3/MLL4 histone methyltranferase activity dependent chromatin organization at enhancers during embryonic stem cell differentiation",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.03. 17.435905, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:YlPif8NxrbYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10889642763360204887",
+        "cites_id": [
+            "10889642763360204887"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-throughput single-cell joint analysis of histone modifications and gene expression by Paired-Tag",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:g5Ck-dwhA_QC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4091982448830151149",
+        "cites_id": [
+            "4091982448830151149"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discovery and Functional Characterization of Pro-growth Enhancers in Human Cancer Cells",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.02. 04.429675, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:qe6vwMD2xtsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17184556258887399652",
+        "cites_id": [
+            "17184556258887399652"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P1594 Role of CTCF in maintenance of global chromatin architecture in the heart",
+            "pub_year": "2017",
+            "citation": "European Heart Journal 38 (suppl_1), ehx502. P1594, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:owLR8QvbtFgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9372806872253237253,7614756577436410323",
+        "cites_id": [
+            "9372806872253237253",
+            "7614756577436410323"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A dual sgRNA mediated tiling-deletion based genetic screen to identify regulatory DNA sequence in mammalian cells",
+            "pub_year": "2017",
+            "citation": "Protoc. exch, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:P7Ujq4OLJYoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13427357262300439235",
+        "cites_id": [
+            "13427357262300439235"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D chromosome rendering from Hi-C data using virtual reality",
+            "pub_year": "2015",
+            "citation": "Visualization and Data Analysis 2015 9397, 279-286, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:g3aElNc5_aQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10559723248599364656",
+        "cites_id": [
+            "10559723248599364656"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole-genome and targeted haplotype reconstruction",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:bz8QjSJIRt4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16086808048856448204",
+        "cites_id": [
+            "16086808048856448204"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method Genome-wide prediction of transcription factor binding sites using an integrated model",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:SIv7DqKytYAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8961967665417584813",
+        "cites_id": [
+            "8961967665417584813"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SnapFISH: a computational pipeline to identify chromatin loops from multiplexed DNA FISH data",
+            "pub_year": "2023",
+            "citation": "Nature Communications 14 (1), 4873, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:DXE8ND7PrJAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Droplet-based single-cell joint profiling of histone modifications and transcriptomes",
+            "pub_year": "2023",
+            "citation": "Nature Structural & Molecular Biology, 1-6, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:aEW5N-EHWIMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parallel analysis of individual cells for rna expression and dna from targeted tagmentation by sequencing",
+            "pub_year": "2023",
+            "citation": "US Patent App. 18/001,898, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:WWeOtg8bX_EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust enhancer-gene regulation identified by single-cell transcriptomes and epigenomes",
+            "pub_year": "2023",
+            "citation": "Cell Genomics 3 (7), 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:-uzm3Y7AvW0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A guide to the BRAIN Initiative Cell Census Network data ecosystem",
+            "pub_year": "2023",
+            "citation": "PLoS biology 21 (6), e3002133, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:wyM6WWKXmoIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SALL1 enforces microglia-specific DNA binding and function of SMADs to establish microglia identity",
+            "pub_year": "2023",
+            "citation": "Nature Immunology, 1-12, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:YPNY0knpFBYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrated analysis of single-cell chromatin state and transcriptome identified common vulnerability despite glioblastoma heterogeneity",
+            "pub_year": "2023",
+            "citation": "Proceedings of the National Academy of Sciences 120 (20), e2210991120, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:yTLRzDEmwhEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interpreting non-coding disease-associated human variants using single-cell epigenomics",
+            "pub_year": "2023",
+            "citation": "Nature Reviews Genetics, 1-19, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:bVQMTfhMCi4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-Cell Joint Profiling of Open Chromatin and Transcriptome by Paired-Seq",
+            "pub_year": "2023",
+            "citation": "Chromatin Accessibility: Methods and Protocols, 155-185, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:EaFouW7jFu4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional characterization of gene regulatory elements and neuropsychiatric disease-associated risk loci in iPSCs and iPSC-derived neurons",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.08. 30.555359, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:lbI08cpqPnQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell Type-and Tissue-specific Enhancers in Craniofacial Development",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.06. 26.546603, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:KTwcwpFFj4wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative single cell epigenomic analysis of gene regulatory programs in the rodent and primate neocortex",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.04. 08.536119, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:9NZAP19TdFAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DDDR-24. INTEGRATED ANALYSIS OF SINGLE CELL CHROMATIN ACCESSIBILITY AND RNA EXPRESSION IDENTIFIED COMMON VULNERABILITY DESPITE GLIOBLASTOMA HETEROGENEITY",
+            "pub_year": "2022",
+            "citation": "Neuro-Oncology 24 (Supplement_7), vii104-vii104, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ymY9cBF3mdcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human-gained heart enhancers are associated with species-specific cardiac attributes",
+            "pub_year": "2022",
+            "citation": "Nature cardiovascular research 1 (9), 830-843, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:qmtmRrLr0tkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SnapHiC-D: a computational pipeline to identify differential chromatin contacts from single cell Hi-C data",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.08. 05.502991, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:wUn16MOA3RoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole-genome haplotype reconstruction",
+            "pub_year": "2022",
+            "citation": "US Patent App. 17/504,058, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:dAp6zn-oMfAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "295-OR: Identification of Type 1 Diabetes Genes and Regulatory Processes Mediating Pancreatic Beta-Cell Survival in Response to Proinflammatory Cytokines",
+            "pub_year": "2022",
+            "citation": "Diabetes 71 (Supplement_1), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:37UQlXuwjP4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Author Correction: Perspectives on ENCODE",
+            "pub_year": "2022",
+            "citation": "Nature 605 (7909), E4-E4, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:jtI9f0ekYq0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeting nad biosynthesis in the treatment of cancer",
+            "pub_year": "2022",
+            "citation": "US Patent App. 17/438,610, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:X0DADzN9RKwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrative analysis of the 3D genome and epigenome in mouse embryonic tissues",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.04. 25.489471, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:_AeoHAGD03cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative cellular analysis of motor cortex in human, marmoset and mouse (vol 598, pg 111, 2021)",
+            "pub_year": "2022",
+            "citation": "NATURE 604 (7904), E8-E8, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:nPT8s1NX_-sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell DNA Methylome and 3D Multi-omic Atlas of the Adult Mouse Brain",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:tz746QTLzJkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Compositions and methods for modulating transcriptional activity of amplified oncogenes contained on extrachromosomal dna",
+            "pub_year": "2022",
+            "citation": "US Patent App. 17/311,980, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:YB4bud6kWLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Author Correction: Human-gained heart enhancers are associated with species-specific cardiac attributes (Nature Cardiovascular Research,(2022), 1, 9,(830-843), 10.1038/s44161 \u2026",
+            "pub_year": "2022",
+            "citation": "Nature Cardiovascular Research 1 (12), 1231, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:KS-xo-ZNxMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole-genome haplotype reconstruction",
+            "pub_year": "2021",
+            "citation": "US Patent 11,149,311, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:raTqNPD5sRQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: A \u03b2-catenin-driven switch in TCF/LEF transcription factor binding to DNA target sites promotes commitment of mammalian nephron progenitor cells",
+            "pub_year": "2021",
+            "citation": "Elife 10, e69853, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:eGYfIraVYiQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell type\u2010specific enhancer\u2010promoter connectivity maps in the human brain and associations with Alzheimer\u2019s disease risk: Developing topics",
+            "pub_year": "2020",
+            "citation": "Alzheimer's & Dementia 16, e047113, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:IsPWOBWtZBwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Age-associated Nuclear Remodeling May Contribute to Cardiac Dysfunction",
+            "pub_year": "2020",
+            "citation": "Circulation 142 (Suppl_3), A15352-A15352, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:wvYxNZNCP7wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EPCO-19. INTEGRATED ANALYSIS OF INTRA-TUMORAL HETEROGENEITY IN GLIOBLASTOMAS THROUGH SINGLE NUCLEI ATAC-SEQ AND RNA-SEQ",
+            "pub_year": "2020",
+            "citation": "Neuro-Oncology 22 (Suppl 2), ii73, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:rbm3iO8VlycC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell type-specific enhancer-promoter connectivity maps in the human brain and associations with Alzheimer\u2019s disease risk",
+            "pub_year": "2020",
+            "citation": "2020 Alzheimer's Association International Conference, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:eO3_k5sD8BwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single cell genomic analysis to study the retinal cell type specific regulatory landscape of Mfrp-KO mice.",
+            "pub_year": "2020",
+            "citation": "Investigative Ophthalmology & Visual Science 61 (7), 2746-2746, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:w1MjKQ0l0TYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequencing open chromatin of single cell nuclei: snATAC-seq",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:7H_jS4BsgvYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MPE-seq, a new method for the genome-wide analysis of chromatin structure (vol 112, pg E3457, 2015)",
+            "pub_year": "2019",
+            "citation": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:OBSaB-F7qqsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction for Ishii et al., MPE-seq, a new method for the genome-wide analysis of chromatin structure.",
+            "pub_year": "2019",
+            "citation": "Proceedings of the National Academy of Sciences of the United States of \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:HGTzPopzzJcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide association and multi-omic analyses reveal new mechanisms for Heart Failure",
+            "pub_year": "2019",
+            "citation": "medRxiv, 19006510, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:jFemdcug13IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide identification of chromatin interactions",
+            "pub_year": "2019",
+            "citation": "US Patent App. 16/330,002, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:6bLC7aUMtPcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Abstract A078: Dissecting the myeloid lineage in human gliomas",
+            "pub_year": "2019",
+            "citation": "Cancer Immunology Research 7 (2_Supplement), A078-A078, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:nRpfm8aw39MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Typing and Assembling Discontinuous Genomic Elements",
+            "pub_year": "2018",
+            "citation": "US Patent App. 15/763,577, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:4xDN1ZYqzskC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DRES-15. IL11 SECRETION BY GLIOBLASTOMA ASSOCIATED MICROGLIA DEFINE A STAT3-MYC SIGNALING AXIS THAT IS SUPPRESSED IN \u201cEXCEPTIONAL RESPONDERS\u201d",
+            "pub_year": "2017",
+            "citation": "Neuro-Oncology 19 (suppl_6), vi67-vi67, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:-mN3Mh-tlDkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A dual sgRNA mediated tiling-deletion based genetic screen to identify regulatory DNA sequence in mammalian cells.",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:aIdbFUkbNIkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The 4D Nucleome Project [preprint]",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:AYInfyleIOsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of global regulators of T-helper cell lineage specification",
+            "pub_year": "2016",
+            "citation": "SCANDINAVIAN JOURNAL OF IMMUNOLOGY 83 (5), 379-379, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:kWvqk_afx_IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Base resolution epigenomic analysis reveals a role for Tet2 in modulating enhancer activity",
+            "pub_year": "2014",
+            "citation": "Cancer Research 74 (19_Supplement), 460-460, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:_Re3VWB3Y0AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The roles of cohesin and CTCF for shaping the chromatin fiber",
+            "pub_year": "2013",
+            "citation": "FEBS JOURNAL 280, 4-4, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:LPtt_HFRSbwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topological domains in mammalian genomes identified by analysis of chromatin interactions",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:jmjb1lOE9QIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Publication Year: 2011",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:YsrPvlHIBpEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PU. 1 and C/EBP\u00ce\u00b1synergistically program distinct response to NF-\u00ce\u00baB activation through establishing monocyte specific enhancers",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences of the United States of America, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:LhH-TYMQEocC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic evaluation of variability in ChIP-chip experiments using",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:IaI1MmNe2tcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Let us know how access to this document benefits you.",
+            "pub_year": "2007",
+            "citation": "Genome Biology 8, R116, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:rOcdG6UcVlcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mnt is a tumor suppressor in mammary gland (vol 66, pg 5565, 2006)",
+            "pub_year": "2006",
+            "citation": "CANCER RESEARCH 66 (13), 6894-6894, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:JoZmwDi-zQgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Positive inter-regulation between beta-catenin/T cell factor-4 signaling and endothelin-1 signaling potentiates proliferation and survival of prostate cancer cells (vol 69, pg \u2026",
+            "pub_year": "2006",
+            "citation": "MOLECULAR PHARMACOLOGY 70 (1), 435-435, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:Mojj43d5GZwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Direct isolation and identification of promoters in the human",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:kw52XkFRtyQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A yeast genome expression monitoring database",
+            "pub_year": "1999",
+            "citation": "Nature Genetics 23 (3), 70-70, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:WqliGbK-hY8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanisms of transcriptional repression",
+            "pub_year": "1998",
+            "citation": "Harvard University, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:HE397vMXCloC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequence logic at enhancers governs a dual mechanism of endodermal organ fate induction by FOXA pioneer factors",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:iyewoVqAXLQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Faculty & Staff",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:SxCCDk4iOpsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multimodal cell census and atlas of the mammalian primary motor cortex.",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:AzKEL7Gb_04C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Current Subject Limits",
+            "citation": "Cell 149, 6, 0"
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:0aBXIfxlw9sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mnt Is a Tumor Suppressor in Mammary Gland",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:ziOE8S1-AIUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The next issue of this journal Genomes and evolution",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:7wO8s98CvbsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian Inference of Spatial Organizations of Chromosomes Ming Hu1, Ke Deng1, Zhaohui Qin2, Jesse Dixon3, 4, 5, Siddarth Selvaraj3, 6, Jennifer Fang3, Bing Ren3, 7 & Jun S. Liu1",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XU7ZT5kAAAAJ:86PQX7AUzd4C",
+        "num_citations": 0
+    }
+]

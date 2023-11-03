@@ -1,0 +1,618 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequencing of allotetraploid cotton (Gossypium hirsutum L. acc. TM-1) provides a resource for fiber improvement",
+            "pub_year": "2015",
+            "citation": "Nature biotechnology 33 (5), 531-537, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 1384,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1328667329908537244",
+        "cites_id": [
+            "1328667329908537244"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Soybean NAC transcription factors promote abiotic stress tolerance and lateral root formation in transgenic plants",
+            "pub_year": "2011",
+            "citation": "The Plant Journal 68 (2), 302-313, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 494,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7449099399371966735",
+        "cites_id": [
+            "7449099399371966735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of miRNAs and their target genes in developing soybean seeds by deep sequencing",
+            "pub_year": "2011",
+            "citation": "BMC plant biology 11, 1-16, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 333,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=33219642977727254",
+        "cites_id": [
+            "33219642977727254"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic diversifications of five Gossypium allopolyploid species and their impact on cotton improvement",
+            "pub_year": "2020",
+            "citation": "Nature genetics 52 (5), 525-533, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:4TOpqqG69KYC",
+        "num_citations": 231,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2697287770486736937",
+        "cites_id": [
+            "2697287770486736937"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic and developmental regulation in plant polyploids",
+            "pub_year": "2015",
+            "citation": "Current opinion in plant biology 24, 101-109, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 181,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17894938849972605323",
+        "cites_id": [
+            "17894938849972605323"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomic and functional analyses reveal roles of epialleles in the loss of photoperiod sensitivity during domestication of allotetraploid cottons",
+            "pub_year": "2017",
+            "citation": "Genome biology 18, 1-14, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 163,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16336454377079157708",
+        "cites_id": [
+            "16336454377079157708"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide analysis of DNA methylation in soybean",
+            "pub_year": "2013",
+            "citation": "Molecular plant 6 (6), 1961-1974, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:qjMakFHDy7sC",
+        "num_citations": 147,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=878490878409296200",
+        "cites_id": [
+            "878490878409296200"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant NAC-type transcription factor proteins contain a NARD domain for repression of transcriptional activation",
+            "pub_year": "2010",
+            "citation": "Planta 232, 1033-1043, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 146,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4939820608266819652",
+        "cites_id": [
+            "4939820608266819652"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural variation in timing of stress-responsive gene expression predicts heterosis in intraspecific hybrids of Arabidopsis",
+            "pub_year": "2015",
+            "citation": "Nature communications 6 (1), 7453, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:WF5omc3nYNoC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2090948040654711141",
+        "cites_id": [
+            "2090948040654711141"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of rice ethylene-response mutants and characterization of MHZ7/OsEIN2 in distinct ethylene response and yield trait regulation",
+            "pub_year": "2013",
+            "citation": "Molecular Plant 6 (6), 1830-1848, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 106,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5399493939443531746",
+        "cites_id": [
+            "5399493939443531746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal shift of circadian-mediated gene expression and carbon fixation contributes to biomass heterosis in maize hybrids",
+            "pub_year": "2016",
+            "citation": "PLoS genetics 12 (7), e1006197, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:UebtZRa9Y70C",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8549929743505260307",
+        "cites_id": [
+            "8549929743505260307"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Soybean GmbZIP123 gene enhances lipid content in the seeds of transgenic Arabidopsis plants",
+            "pub_year": "2013",
+            "citation": "Journal of Experimental Botany 64 (14), 4329-4341, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12677918602385774990",
+        "cites_id": [
+            "12677918602385774990"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Soybean GmMYB73 promotes lipid accumulation in transgenic plants",
+            "pub_year": "2014",
+            "citation": "BMC Plant Biology 14 (1), 1-16, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9793005351462207430",
+        "cites_id": [
+            "9793005351462207430"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The rice circadian clock regulates tiller growth and panicle development through strigolactone signaling and sugar sensing",
+            "pub_year": "2020",
+            "citation": "Plant Cell 32 (10), 3124-3138, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:4DMP91E08xMC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1815164543857902140",
+        "cites_id": [
+            "1815164543857902140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Selection for a zinc-finger protein contributes to seed oil increase during soybean domestication",
+            "pub_year": "2017",
+            "citation": "Plant Physiology 173 (4), 2208-2224, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7580672087701196878",
+        "cites_id": [
+            "7580672087701196878"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Metabolomic and transcriptomic insights into how cotton fiber transitions to secondary wall synthesis, represses lignification, and prolongs elongation",
+            "pub_year": "2015",
+            "citation": "BMC genomics 16 (1), 1-28, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14589177647313287575",
+        "cites_id": [
+            "14589177647313287575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polyploidy and small RNA regulation of cotton fiber development",
+            "pub_year": "2014",
+            "citation": "Trends in plant science 19 (8), 516-528, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=580177412909352691",
+        "cites_id": [
+            "580177412909352691"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic roles for small RNAs and DNA methylation during ovule and fiber development in allotetraploid cotton",
+            "pub_year": "2015",
+            "citation": "PLoS genetics 11 (12), e1005724, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:ufrVoPGSRksC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10829635227252419976",
+        "cites_id": [
+            "10829635227252419976"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcription factor AtDOF4.2 regulates shoot branching and seed coat formation in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "Biochemical Journal 449 (2), 373-388, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8443782570286089449",
+        "cites_id": [
+            "8443782570286089449"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA hypomethylation in tetraploid rice potentiates stress-responsive gene expression for salt tolerance",
+            "pub_year": "2021",
+            "citation": "Proceedings of the National Academy of Sciences 118 (13), e2023981118, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5095007383682944299",
+        "cites_id": [
+            "5095007383682944299"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell RNA-seq analysis reveals ploidy-dependent and cell-specific transcriptome changes in Arabidopsis female gametophytes",
+            "pub_year": "2020",
+            "citation": "Genome biology 21, 1-18, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:aqlVkmm33-oC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13556981840138103520",
+        "cites_id": [
+            "13556981840138103520"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of Arachis monticola with Diploid and Cultivated Tetraploid Genomes Reveals Asymmetric Subgenome Evolution and Improvement of Peanut",
+            "pub_year": "2020",
+            "citation": "Advanced Science 7 (4), 1901672, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13534786423510751076",
+        "cites_id": [
+            "13534786423510751076"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Altered chromatin architecture and gene expression during polyploidization and domestication of soybean",
+            "pub_year": "2021",
+            "citation": "The Plant Cell 33 (5), 1430-1446, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:dhFuZR0502QC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17023686754371327989",
+        "cites_id": [
+            "17023686754371327989"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diurnal down-regulation of ethylene biosynthesis mediates biomass heterosis",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (21), 5606-5611, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8916789966405061310",
+        "cites_id": [
+            "8916789966405061310"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal regulation of the metabolome and proteome in photosynthetic and photorespiratory pathways contributes to maize heterosis",
+            "pub_year": "2020",
+            "citation": "The Plant Cell 32 (12), 3706-3722, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13507697385866411015",
+        "cites_id": [
+            "13507697385866411015"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone modifications define expression bias of homoeologous genomes in allotetraploid cotton",
+            "pub_year": "2016",
+            "citation": "Plant physiology 172 (3), 1760-1771, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11988133825702533093",
+        "cites_id": [
+            "11988133825702533093"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Concerted genomic and epigenomic changes accompany stabilization of Arabidopsis allopolyploids",
+            "pub_year": "2021",
+            "citation": "Nature Ecology & Evolution 5 (10), 1382-1393, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7634318581255768337",
+        "cites_id": [
+            "7634318581255768337"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diurnal regulation of SDG2 and JMJ14 by circadian clock oscillators orchestrates histone modification rhythms in Arabidopsis",
+            "pub_year": "2019",
+            "citation": "Genome biology 20, 1-12, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:_kc_bZDykSQC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4127608476209578315",
+        "cites_id": [
+            "4127608476209578315"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sub genome anchored physical frameworks of the allotetraploid Upland cotton (Gossypium hirsutum L.) genome, and an approach toward reference-grade \u2026",
+            "pub_year": "2017",
+            "citation": "Scientific Reports 7 (1), 15274, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10585446438376184514",
+        "cites_id": [
+            "10585446438376184514"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic and reversible DNA methylation changes induced by genome separation and merger of polyploid wheat",
+            "pub_year": "2020",
+            "citation": "BMC biology 18 (1), 1-13, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18080482921894568088",
+        "cites_id": [
+            "18080482921894568088"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histone H3K27 dimethylation landscapes contribute to genome stability and genetic recombination during wheat polyploidization",
+            "pub_year": "2021",
+            "citation": "The Plant Journal 105 (3), 678-690, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3636315232855487948",
+        "cites_id": [
+            "3636315232855487948"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Small RNAs mediate transgenerational inheritance of genome-wide trans-acting epialleles in maize",
+            "pub_year": "2022",
+            "citation": "Genome biology 23 (1), 53, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:hC7cP41nSMkC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17133108983503357621",
+        "cites_id": [
+            "17133108983503357621"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Open chromatin interaction maps reveal functional regulatory elements and chromatin architecture variations during wheat evolution",
+            "pub_year": "2022",
+            "citation": "Genome Biology 23 (1), 34, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:qUcmZB5y_30C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12600258835170865338",
+        "cites_id": [
+            "12600258835170865338"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An epigenetic basis of inbreeding depression in maize",
+            "pub_year": "2021",
+            "citation": "Science Advances 7 (35), eabg5442, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8489491495970378779",
+        "cites_id": [
+            "8489491495970378779"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptome analysis of extant cotton progenitors revealed tetraploidization and identified genome-specific single nucleotide polymorphism in diploid and allotetraploid cotton",
+            "pub_year": "2014",
+            "citation": "BMC research notes 7 (1), 1-10, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15199369880027119902",
+        "cites_id": [
+            "15199369880027119902"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "iSoybean: A database for the mutational fingerprints of soybean",
+            "pub_year": "2022",
+            "citation": "Plant biotechnology journal 20 (8), 1435, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:-f6ydRqryjwC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15604095211408773107",
+        "cites_id": [
+            "15604095211408773107"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Asymmetric variation in DNA methylation during domestication and de-domestication of rice",
+            "pub_year": "2023",
+            "citation": "The Plant Cell, koad160, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:mB3voiENLucC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16454695845305009390",
+        "cites_id": [
+            "16454695845305009390"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A telomere-to-telomere gap-free assembly of soybean genome",
+            "pub_year": "2023",
+            "citation": "Molecular plant, S1674-2052 (23) 00247-2, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:TQgYirikUcIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Polyploidy and diploidization in soybean",
+            "pub_year": "2023",
+            "citation": "Molecular Breeding 43 (6), 51, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "hB7ISUUAAAAJ:HDshCWvjkbEC",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,3471 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop\u2014The FAO crop model to simulate yield response to water: I. Concepts and underlying principles",
+            "pub_year": "2009",
+            "citation": "Agronomy Journal 101 (3), 426-437, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 1909,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=739560568482744134",
+        "cites_id": [
+            "739560568482744134"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Considering the energy, water and food nexus: Towards an integrated modelling approach",
+            "pub_year": "2011",
+            "citation": "Energy policy 39 (12), 7896-7906, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:KxtntwgDAa4C",
+        "num_citations": 1412,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12313014144149305446",
+        "cites_id": [
+            "12313014144149305446"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Uncertainty in simulating wheat yields under climate change",
+            "pub_year": "2013",
+            "citation": "Nature climate change 3 (9), 827-832, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 1244,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16483758177537798534",
+        "cites_id": [
+            "16483758177537798534"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop\u2014The FAO Crop Model to Simulate Yield Response to Water: II. Main Algorithms and Software Description",
+            "pub_year": "2009",
+            "citation": "Agronomy Journal 101 (3), 438-447, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 1210,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8277032942158138253",
+        "cites_id": [
+            "8277032942158138253"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop yield response to water",
+            "pub_year": "2012",
+            "citation": "fao 1028, 99, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 1172,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3882253140178434380",
+        "cites_id": [
+            "3882253140178434380"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improving agricultural water productivity: Between optimism and caution",
+            "pub_year": "2010",
+            "citation": "Agricultural water management 97 (4), 528-535, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 997,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8842196532509907728",
+        "cites_id": [
+            "8842196532509907728"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustainable intensification of agriculture for human prosperity and global sustainability",
+            "pub_year": "2017",
+            "citation": "Ambio 46, 4-17, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:roLk4NBRz8UC",
+        "num_citations": 959,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1619964090002889885",
+        "cites_id": [
+            "1619964090002889885"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop\u2014the FAO crop model to simulate yield response to water: III. Parameterization and testing for maize",
+            "pub_year": "2009",
+            "citation": "Agronomy Journal 101 (3), 448-459, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:mB3voiENLucC",
+        "num_citations": 869,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4677017001249039218,1539136863397958260",
+        "cites_id": [
+            "4677017001249039218",
+            "1539136863397958260"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A recommendation on standardized surface resistance for hourly calculation of reference ETo by the FAO56 Penman-Monteith method",
+            "pub_year": "2006",
+            "citation": "Agricultural water management 81 (1-2), 1-22, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 749,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8726497997740722132",
+        "cites_id": [
+            "8726497997740722132"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrated analysis of climate change, land-use, energy and water strategies",
+            "pub_year": "2013",
+            "citation": "Nature Climate Change 3 (7), 621-626, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:WA5NYHcadZ8C",
+        "num_citations": 651,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17432183138830476766",
+        "cites_id": [
+            "17432183138830476766"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The paradox of irrigation efficiency",
+            "pub_year": "2018",
+            "citation": "Science 361 (6404), 748-750, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:35r97b3x0nAC",
+        "num_citations": 606,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14219767570390137848",
+        "cites_id": [
+            "14219767570390137848"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the conservative behavior of biomass water productivity",
+            "pub_year": "2007",
+            "citation": "Irrigation Science 25, 189-207, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 606,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1972885275356977882,12336229635785235441",
+        "cites_id": [
+            "1972885275356977882",
+            "12336229635785235441"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validating the FAO AquaCrop model for irrigated and water deficient field maize",
+            "pub_year": "2009",
+            "citation": "Agronomy journal 101 (3), 488-498, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 527,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5393436413058680161",
+        "cites_id": [
+            "5393436413058680161"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multimodel ensembles of wheat growth: many models are better than one",
+            "pub_year": "2015",
+            "citation": "Global change biology 21 (2), 911-925, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:B3FOqHPlNUQC",
+        "num_citations": 460,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14200799504100019853",
+        "cites_id": [
+            "14200799504100019853"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A systematic and quantitative approach to improve water use efficiency in agriculture",
+            "pub_year": "2007",
+            "citation": "Irrigation science 25, 209-231, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:J-pR_7NvFogC",
+        "num_citations": 458,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16428251011186464643",
+        "cites_id": [
+            "16428251011186464643"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Increasing productivity in irrigated agriculture: Agronomic constraints and hydrological realities",
+            "pub_year": "2009",
+            "citation": "Agricultural water management 96 (11), 1517-1524, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 411,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5609994501817002481",
+        "cites_id": [
+            "5609994501817002481"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pathways for increasing agricultural water productivity",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:sSrBHYA8nusC",
+        "num_citations": 395,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14503378343013740211",
+        "cites_id": [
+            "14503378343013740211"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of AquaCrop, CropSyst, and WOFOST models in the simulation of sunflower growth under different water regimes",
+            "pub_year": "2009",
+            "citation": "Agronomy journal 101 (3), 509-521, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:M05iB0D1s5AC",
+        "num_citations": 355,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9530411014160086243",
+        "cites_id": [
+            "9530411014160086243"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation and testing of the AquaCrop model under full and deficit irrigated wheat production in Iran",
+            "pub_year": "2011",
+            "citation": "Agricultural Water Management 100 (1), 1-8, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:p2g8aNsByqUC",
+        "num_citations": 353,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12973973889975975769",
+        "cites_id": [
+            "12973973889975975769"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop: FAO's crop water productivity and yield response model",
+            "pub_year": "2014",
+            "citation": "Environmental Modelling & Software 62, 351-360, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:NhqRSupF_l8C",
+        "num_citations": 324,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11805799437954787440",
+        "cites_id": [
+            "11805799437954787440"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Does improved irrigation technology save water? A review of the evidence",
+            "pub_year": "2017",
+            "citation": "Food and Agriculture Organization of the United Nations, Cairo 42, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:9Nmd_mFXekcC",
+        "num_citations": 273,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12708070195542901558,969323029449923656",
+        "cites_id": [
+            "12708070195542901558",
+            "969323029449923656"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bowen ratio, eddy correlation, and portable chamber measurements of sensible and latent heat flux over irrigated spring wheat",
+            "pub_year": "1991",
+            "citation": "Agricultural and forest meteorology 56 (1-2), 1-20, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 261,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3245617498271098071",
+        "cites_id": [
+            "3245617498271098071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resource use efficiency of field-grown sunflower, sorghum, wheat and chickpea: II. Water use efficiency and comparison with radiation use efficiency",
+            "pub_year": "2005",
+            "citation": "Agricultural and Forest Meteorology 130 (3-4), 269-281, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 253,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9238276474377745662",
+        "cites_id": [
+            "9238276474377745662"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating yield response of quinoa to water availability with AquaCrop",
+            "pub_year": "2009",
+            "citation": "Agronomy journal 101 (3), 499-508, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:GnPB-g6toBAC",
+        "num_citations": 252,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8182894674492824640",
+        "cites_id": [
+            "8182894674492824640"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deficit irrigation optimization of cotton with AquaCrop",
+            "pub_year": "2009",
+            "citation": "Agronomy journal 101 (3), 477-487, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 243,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3761852211007737219",
+        "cites_id": [
+            "3761852211007737219"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop-OS: An open source version of FAO's crop water productivity model",
+            "pub_year": "2017",
+            "citation": "Agricultural water management 181, 18-22, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:tkaPQYYpVKoC",
+        "num_citations": 217,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17645918460821284064",
+        "cites_id": [
+            "17645918460821284064"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Twenty-five years modeling irrigated and drained soils: State of the art",
+            "pub_year": "2007",
+            "citation": "Agricultural Water Management 92 (3), 111-125, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:qjMakFHDy7sC",
+        "num_citations": 217,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=366126527605669371",
+        "cites_id": [
+            "366126527605669371"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Breeding cereals for Mediterranean conditions: ecophysiological clues for biotechnology application",
+            "pub_year": "2003",
+            "citation": "Annals of Applied Biology 142 (2), 129-141, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:TFP_iSt0sucC",
+        "num_citations": 212,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6217850540751361549",
+        "cites_id": [
+            "6217850540751361549"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gas-exchange response and stomatal and non-stomatal limitations to carbon assimilation of sunflower under salinity",
+            "pub_year": "2000",
+            "citation": "Environmental and experimental botany 44 (3), 243-255, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:XiSMed-E-HIC",
+        "num_citations": 194,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13275354496257807561",
+        "cites_id": [
+            "13275354496257807561"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interactions between water, energy, food and environment: evolving perspectives and policy issues",
+            "pub_year": "2008",
+            "citation": "Water Policy 10 (S1), 1-10, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:5nxA0vEk-isC",
+        "num_citations": 187,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1941979262246944351",
+        "cites_id": [
+            "1941979262246944351"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automated closed-system canopy-chamber for continuous field-crop monitoring of CO2 and H2O fluxes",
+            "pub_year": "2002",
+            "citation": "agricultural and Forest Meteorology 111 (3), 171-186, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 175,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12493530559579465431",
+        "cites_id": [
+            "12493530559579465431"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Some insights in the effect of growing bio-energy demand on global food security and natural resources",
+            "pub_year": "2008",
+            "citation": "Water Policy 10 (S1), 83-94, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 171,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4871383837276085988",
+        "cites_id": [
+            "4871383837276085988"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Water-use efficiency of sweet sorghum under water stress conditions Gas-exchange investigations at leaf and canopy scales",
+            "pub_year": "1997",
+            "citation": "Field Crops Research 54 (2-3), 221-234, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:rO6llkc54NcC",
+        "num_citations": 161,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10609352022733415554",
+        "cites_id": [
+            "10609352022733415554"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Yield gap analysis of field crops: Methods and case studies",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:KUbvn5osdkgC",
+        "num_citations": 159,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=593111432010839024",
+        "cites_id": [
+            "593111432010839024"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coping with water scarcity: an action framework for agriculture and food security",
+            "pub_year": "2012",
+            "citation": "Rome: Food and Agriculture Organization of the United Nations, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:LPZeul_q3PIC",
+        "num_citations": 158,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15419637158788053328",
+        "cites_id": [
+            "15419637158788053328"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adding value with CLEWS\u2013Modelling the energy system and its interdependencies for Mauritius",
+            "pub_year": "2014",
+            "citation": "Applied energy 113, 1434-1445, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:HE397vMXCloC",
+        "num_citations": 127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17375421309854701548",
+        "cites_id": [
+            "17375421309854701548"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize canopies under two soil water regimes: II. Seasonal trends of evapotranspiration, carbon dioxide assimilation and canopy conductance, and as related to leaf area index",
+            "pub_year": "1998",
+            "citation": "Agricultural and Forest Meteorology 89 (3-4), 185-200, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:maZDTaKrznsC",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6837423119755618615",
+        "cites_id": [
+            "6837423119755618615"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Status of water use efficiency of main crops",
+            "pub_year": "2011",
+            "citation": "State of World\u2019s Land and Water Resources for Food and Agriculture (SOLAW \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:EkHepimYqZsC",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5150279413097919565",
+        "cites_id": [
+            "5150279413097919565"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The water productivity score (WPS) at global and regional level: Methodology and first results from remote sensing measurements of wheat, rice and maize",
+            "pub_year": "2017",
+            "citation": "Science of the Total Environment 575, 595-611, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11059931820901924724",
+        "cites_id": [
+            "11059931820901924724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Climate, land, energy and water (CLEW) interlinkages in B urkina F aso: An analysis of agricultural intensification and bioenergy production",
+            "pub_year": "2012",
+            "citation": "Natural Resources Forum 36 (4), 245-262, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:SP6oXDckpogC",
+        "num_citations": 102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12799631246551390043",
+        "cites_id": [
+            "12799631246551390043"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Aquacrop reference manual",
+            "pub_year": "2009",
+            "citation": "FAO, Rome, Italy 218, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9507624212929293133,1756566899740982361",
+        "cites_id": [
+            "9507624212929293133",
+            "1756566899740982361"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resource use efficiency of field-grown sunflower, sorghum, wheat and chickpea: I. Radiation use efficiency",
+            "pub_year": "2005",
+            "citation": "Agricultural and Forest Meteorology 130 (3-4), 254-268, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:BqipwSGYUEgC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8111167643121586538",
+        "cites_id": [
+            "8111167643121586538"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize canopies under two soil water regimes.: I. Diurnal patterns of energy balance, carbon dioxide flux, and canopy conductance",
+            "pub_year": "1998",
+            "citation": "Agricultural and Forest Meteorology 89 (3-4), 169-184, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15593183770591189931",
+        "cites_id": [
+            "15593183770591189931"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photosynthesis, respiration and conservative carbon use efficiency of four field grown crops",
+            "pub_year": "2003",
+            "citation": "Agricultural and Forest Meteorology 116 (1-2), 19-36, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11660572083271823411",
+        "cites_id": [
+            "11660572083271823411"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of nitrate pollution control policies in the irrigated agriculture of Apulia Region (Southern Italy): A bio-economic modelling approach",
+            "pub_year": "2007",
+            "citation": "Agricultural Systems 94 (2), 357-367, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:PELIpwtuRlgC",
+        "num_citations": 91,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17709457768211276216",
+        "cites_id": [
+            "17709457768211276216"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Water use efficiency",
+            "pub_year": "1996",
+            "citation": "Sustainability of irrigated agriculture, 193-209, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:UxriW0iASnsC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12695397755113670672",
+        "cites_id": [
+            "12695397755113670672"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Respuesta del rendimiento de los cultivos al agua",
+            "pub_year": "2012",
+            "citation": "Estudio FAO: Riego y Drenaje (FAO) spa no. 66, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12261018960077499136",
+        "cites_id": [
+            "12261018960077499136"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop: a new model for crop prediction under water deficit conditions",
+            "pub_year": "2009",
+            "citation": "FAO, Rome 33 (80), 285-292, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:P5F9QuxV20EC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12282502710866430051",
+        "cites_id": [
+            "12282502710866430051"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bowen ratio/energy balance technique for estimating crop net CO2 assimilation, and comparison with a canopy chamber",
+            "pub_year": "1990",
+            "citation": "Theoretical and Applied Climatology 42, 203-213, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:1qzjygNMrQYC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16300510216471261870",
+        "cites_id": [
+            "16300510216471261870"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reference manual AquaCrop",
+            "pub_year": "2012",
+            "citation": "FAO, land and water division, Rome Italy, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:S16KYo8Pm5AC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2436105007191538719",
+        "cites_id": [
+            "2436105007191538719"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sweet sorghum in Mediterranean climate: radiation use and biomass water use efficiencies",
+            "pub_year": "1995",
+            "citation": "Industrial Crops and Products 3 (4), 253-260, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:hMod-77fHWUC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7774306790286686656",
+        "cites_id": [
+            "7774306790286686656"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reference Manual AquaCrop (Version 4.0)",
+            "pub_year": "2012",
+            "citation": "AquaCrop Website http://www. fao. org/nr/water/aquacrop. html, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:vbGhcppDl1QC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15330480356849559888",
+        "cites_id": [
+            "15330480356849559888"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Calibration and validation of FAO-AquaCrop model for irrigated and water deficient bambara groundnut",
+            "pub_year": "2011",
+            "citation": "Experimental Agriculture 47 (3), 509-527, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:70eg2SAEIzsC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9424680100025981546",
+        "cites_id": [
+            "9424680100025981546"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biomass water-productivity",
+            "pub_year": "2003",
+            "citation": "Comparing the growth-Engines of Crop Models. FAO expert consultation on crop \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:D_sINldO8mEC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15865435854741367048",
+        "cites_id": [
+            "15865435854741367048"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Yield response to water: the original FAO water production function.",
+            "pub_year": "2012",
+            "citation": "FAO Irrigation and Drainage paper, 6-13, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:yB1At4FlUx8C",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=910148043749481406",
+        "cites_id": [
+            "910148043749481406"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Daily reference evapotranspiration estimates by the Penman-Monteith equation in Southern Italy. Constant vs. variable canopy resistance",
+            "pub_year": "2003",
+            "citation": "Theoretical and Applied Climatology 74, 217-225, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:4DMP91E08xMC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3193985968062303470",
+        "cites_id": [
+            "3193985968062303470"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop version 5.0 reference manual",
+            "pub_year": "2016",
+            "citation": "Food and Agriculture Organization of the United Nations, Rome, Italy, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:MLfJN-KU85MC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15268463762848075502",
+        "cites_id": [
+            "15268463762848075502"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop-The FAO crop model to simulate yield response to water",
+            "pub_year": "2009",
+            "citation": "FAO Land and Water Division, FAO, Rome, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:6ZxmRoH8BuwC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2269241811936030498",
+        "cites_id": [
+            "2269241811936030498"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Concepts and applications of AquaCrop: The FAO crop water productivity model",
+            "pub_year": "2009",
+            "citation": "Crop modeling and decision support, 175-191, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15341591928512472128",
+        "cites_id": [
+            "15341591928512472128"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-wheat-model ensemble responses to interannual climate variability",
+            "pub_year": "2016",
+            "citation": "Environmental Modelling & Software 81, 86-101, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2947645996096564350",
+        "cites_id": [
+            "2947645996096564350"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A GIS for irrigation management",
+            "pub_year": "2003",
+            "citation": "Physics and Chemistry of the Earth, Parts A/B/C 28 (4-5), 163-174, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:Tiz5es2fbqcC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13379599499467810438",
+        "cites_id": [
+            "13379599499467810438"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize canopies under two soil water regimes: IV. Validity of Bowen ratio\u2013energy balance technique for measuring water vapor and carbon dioxide fluxes at 5-min intervals",
+            "pub_year": "1998",
+            "citation": "Agricultural and Forest Meteorology 89 (3-4), 215-228, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3598613340124199508",
+        "cites_id": [
+            "3598613340124199508"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Penman-Monteith Reference Evapotranspiration Estimates in the Mediterranean Region. In: Evapotranspiration and Irrigation Scheduling",
+            "pub_year": "1996",
+            "citation": "Evapotranspiration and Irrigation Scheduling. Proceedings of the \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5057595837008955936",
+        "cites_id": [
+            "5057595837008955936"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Uncertainty of wheat water use: simulated patterns and sensitivity to temperature and CO2",
+            "pub_year": "2016",
+            "citation": "Field Crops Research 198, 80-92, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=293997577821540410",
+        "cites_id": [
+            "293997577821540410"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop-the FAO crop model to simulate yield response to water: reference manual annexes",
+            "pub_year": "2009",
+            "citation": "Agronomy Journal 101 (3), 426-437, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12853105920037307718",
+        "cites_id": [
+            "12853105920037307718"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize canopies under two soil water regimes: III. Variation in coupling with the atmosphere and the role of leaf area index",
+            "pub_year": "1998",
+            "citation": "Agricultural and Forest Meteorology 89 (3-4), 201-213, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:ufrVoPGSRksC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1179092209139019211",
+        "cites_id": [
+            "1179092209139019211"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Climate smart agriculture sourcebook",
+            "pub_year": "2013",
+            "citation": "FAO, Rome 557, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:4fGpz3EwCPoC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4106726550638753932",
+        "cites_id": [
+            "4106726550638753932"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating yield response to water of quinoa (Chenopodium quinoa Willd.) with FAO-AquaCrop",
+            "pub_year": "2008",
+            "citation": "Symposium Aardse Zaken, Date: 2008/05/30-2008/05/30, Location: Leuven, Belgium, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5467173269340805043",
+        "cites_id": [
+            "5467173269340805043"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The soils of Palestine (The West Bank and Gaza Strip) current status and future perspectives",
+            "pub_year": "2001",
+            "citation": "Soil Resources of Southern and Eastern Mediterranean Countries, 203-233, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:q3oQSFYPqjQC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16130008899953682178",
+        "cites_id": [
+            "16130008899953682178"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Processing tomatoes under different irrigation regimes in Southern Italy: agronomic and economic assessments in a simulation case study",
+            "pub_year": "2011",
+            "citation": "J Agrometeorol 3 (3), 39-56, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2776694965225435184",
+        "cites_id": [
+            "2776694965225435184"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Strategies to increase the yield and yield stability of crops under drought\u2013are we making progress?",
+            "pub_year": "2014",
+            "citation": "Functional Plant Biology 41 (11), 1199-1206, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3357987924017852904",
+        "cites_id": [
+            "3357987924017852904"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A statistical analysis of three ensembles of crop model responses to temperature and CO2 concentration",
+            "pub_year": "2015",
+            "citation": "Agricultural and Forest Meteorology 214, 483-493, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14182438426185707452",
+        "cites_id": [
+            "14182438426185707452"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coping with water scarcity: What role for biotechnologies",
+            "pub_year": "2008",
+            "citation": "Land and Water Discussion Paper 7, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10829918065550291825",
+        "cites_id": [
+            "10829918065550291825"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inserting man\u2019s irrigation and drainage wisdom into soil water flow models and bringing it back out: how far have we progressed",
+            "pub_year": "2004",
+            "citation": "Unsaturated-Zone Modeling: Progress, Challenges and Applications. Wageningen \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8569256500538056008",
+        "cites_id": [
+            "8569256500538056008"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An evaluation of the crop-growth simulation submodel of EPIC for wheat grown in a Mediterranean climate with variable soil-water regimes",
+            "pub_year": "1995",
+            "citation": "European journal of agronomy 4 (3), 335-345, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:738O_yMBCRsC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13489855251826203592",
+        "cites_id": [
+            "13489855251826203592"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Agro-ecological characterisation of Apulia region (Italy): Methodology and experience",
+            "pub_year": "2001",
+            "citation": "Options M\u00e9diterran\u00e9ennes, serie B 34, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11543003512725317196",
+        "cites_id": [
+            "11543003512725317196"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pepper response to mild conditions of combined soil-water and salinity stress",
+            "pub_year": "1992",
+            "citation": "Pepper response to mild conditions of combined soil-water and salinity \u2026, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:4TOpqqG69KYC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2760707496704638963",
+        "cites_id": [
+            "2760707496704638963"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the physiological and reproductive res-ponses of five wheat varieties under rainfed and irri-gated conditions in Southern Italy",
+            "pub_year": "1986",
+            "citation": "Drought resis-tance in plants: physiological and genetic aspects. EEC Mtg \u2026, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:k8Z6L05lTy4C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16360540283987039695",
+        "cites_id": [
+            "16360540283987039695"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sentinel-1 for wheat mapping and soil moisture retrieval",
+            "pub_year": "2015",
+            "citation": "2015 IEEE International Geoscience and Remote Sensing Symposium (IGARSS \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1534144148930004332",
+        "cites_id": [
+            "1534144148930004332"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop",
+            "pub_year": "2013",
+            "citation": "UPDATE, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10076276141796430726",
+        "cites_id": [
+            "10076276141796430726"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of water use",
+            "pub_year": "2012",
+            "citation": "The United Nations World Water Development Report 3, 96-126, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:IWHjjKOFINEC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10623774211120324764",
+        "cites_id": [
+            "10623774211120324764"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of photosynthetic water use efficiency of sweet sorghum at canopy and leaf scales",
+            "pub_year": "2000",
+            "citation": "Turkish Journal of Agriculture and Forestry 24 (4), 519-526, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:bnK-pcrLprsC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16614793773322812827",
+        "cites_id": [
+            "16614793773322812827"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contributions of agricultural systems modeling to weather index insurance",
+            "pub_year": "2008",
+            "citation": "Workshop: Technical Issues in Index Insurance. Palisades, NY: The \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:JoZmwDi-zQgC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17861197842272400591",
+        "cites_id": [
+            "17861197842272400591"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling for crop response to water: phisiological aspects",
+            "pub_year": "1995",
+            "citation": "International Seminar on: Economic Aspects of Water Management in the \u2026, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:XiVPGOgt02cC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15415120814037640226",
+        "cites_id": [
+            "15415120814037640226"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Food security by optimal use of water: synthesis of the 6th and 7th world water forums and developments since then",
+            "pub_year": "2018",
+            "citation": "Irrigation and Drainage 67 (3), 327-344, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:UHK10RUVsp4C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17450912969235365248",
+        "cites_id": [
+            "17450912969235365248"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Water use of oil crops: current water use and future outlooks",
+            "pub_year": "2011",
+            "citation": "ILSI Europe aisbl, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:ipzZ9siozwsC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4076093136660358804",
+        "cites_id": [
+            "4076093136660358804"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf water potential and stomatal resistance variations in Vicia faba L.",
+            "pub_year": "1988",
+            "citation": "Faba Bean Information Service, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:qUcmZB5y_30C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4178945261611809750",
+        "cites_id": [
+            "4178945261611809750"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The AquaCrop model\u2013Enhancing crop water productivity: Ten years of development, dissemination and implementation 2009\u20132019",
+            "pub_year": "2021",
+            "citation": "Food & Agriculture Org., 2021"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:e_rmSamDkqQC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2145690723095314773",
+        "cites_id": [
+            "2145690723095314773"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop yield response to water",
+            "pub_year": "2012",
+            "citation": "FAO, Paper, 134-141, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:DUooU5lO8OsC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1759581267203046465",
+        "cites_id": [
+            "1759581267203046465"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "'Yield Response to Water': The FAO revision framework and the crop-water productivity model AquaCrop",
+            "pub_year": "2006",
+            "citation": "Proceedings, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:5ugPr518TE4C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16598240453013383955",
+        "cites_id": [
+            "16598240453013383955"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HYDRA: A decision support model for irrigation water management",
+            "pub_year": "1995",
+            "citation": "Crop-water-simulation models in practice; selected papers of the 2nd \u2026, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2129132819119236196",
+        "cites_id": [
+            "2129132819119236196"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of different water and nitrogen levels on the yield and periodicity of pistachio (Pistacia vera L.)",
+            "pub_year": "2005",
+            "citation": "Turkish journal of agriculture and forestry 29 (1), 39-49, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=347208419421261520",
+        "cites_id": [
+            "347208419421261520"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Benchmark data set for wheat growth models: field experiments and AgMIP multi-model simulations",
+            "pub_year": "2015",
+            "citation": "Open Data Journal for Agricultural Research 1, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:WF5omc3nYNoC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2201832745960048981",
+        "cites_id": [
+            "2201832745960048981"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prediction of climatic change for the next 100 years in Southern Italy",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:edDO8Oi4QzsC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17756457131470263282",
+        "cites_id": [
+            "17756457131470263282"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Guidance on realizing real water savings with crop water productivity interventions",
+            "pub_year": "2021",
+            "citation": "Food & Agriculture Org., 2021"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:TIZ-Mc8IlK0C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7513518229083855515",
+        "cites_id": [
+            "7513518229083855515"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prediction of climatic change for the next 100 years in the Apulia region, Southern Italy",
+            "pub_year": "2007",
+            "citation": "Italian Journal of Agronomy 2 (4), 365-372, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:_xSYboBqXhAC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11647434045138843927",
+        "cites_id": [
+            "11647434045138843927"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimator or stochastic simulation in soil science?",
+            "pub_year": "2002",
+            "citation": "OPTIONS M\u00c9DITERRAN\u00c9ENNES. S\u00c9RIE A: S\u00c9MINAIRES M\u00c9DITERRAN\u00c9ENS 54, 167-182, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=438096746885164019",
+        "cites_id": [
+            "438096746885164019"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "IAM_ETo. Software program and user's guide",
+            "pub_year": "1998",
+            "citation": "Options M\u00e9diterran\u00e9ennes. S\u00e9rie B: Etudes et Recherches (CIHEAM), 1998"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:08ZZubdj9fEC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14012718622549236975",
+        "cites_id": [
+            "14012718622549236975"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Hydra Project: a Decision Support System for Irrigation Water Management",
+            "pub_year": "1994",
+            "citation": "Proceedings of the International Conference on Land and Water Resources \u2026, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:tuHXwOkdijsC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13016792780460114350",
+        "cites_id": [
+            "13016792780460114350"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Water Vapor and CO2 Fluxes of Post-anthesis Maize in the Field Under Two Soil-water Regimes: Leaf Vs. Canopy Scale",
+            "pub_year": "1993",
+            "citation": "University of California, Davis, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:dhFuZR0502QC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3676240393056491290",
+        "cites_id": [
+            "3676240393056491290"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fertigation.",
+            "pub_year": "1984",
+            "citation": "^ C1984^ TRivista di Agronomia^ G18^ G1^ G3-20, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5079558105579542243",
+        "cites_id": [
+            "5079558105579542243"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Yield response to water of herbaceous crops: the Aquacrop simulation model.",
+            "pub_year": "2012",
+            "citation": "FAO Irrigation and Drainage Paper, 16-242, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:nrtMV_XWKgEC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2285604608637430918",
+        "cites_id": [
+            "2285604608637430918"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure, algorithms and functionalities of AquaCrop",
+            "pub_year": "2006",
+            "citation": "Proceedings, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15621581959163881540",
+        "cites_id": [
+            "15621581959163881540"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introductory paper: Desalination of saline water",
+            "pub_year": "2006",
+            "citation": "Rome (Italy) FAO, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9616618489157575876",
+        "cites_id": [
+            "9616618489157575876"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize canopies under two soil water regimes II. Seasonal trends of evapotranspiration, carbon dioxide assimilation and canopy conductance, and as related to leaf area index",
+            "pub_year": "1998",
+            "citation": "Agric For Meteorol 89, 185-200, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:anf4URPfarAC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10407126097390735716",
+        "cites_id": [
+            "10407126097390735716"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The AquaCrop model\u2013Enhancing crop water productivity",
+            "pub_year": "2021",
+            "citation": "Food and Agriculture Organisation of the United Nations, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:WZBGuue-350C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15638824375946574737",
+        "cites_id": [
+            "15638824375946574737"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Water Management in Fragile Systems: Building Resilience to Shocks and Protracted Crises in the Middle East and North Africa",
+            "pub_year": "2018",
+            "citation": "Disclosure, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:-FonjvnnhkoC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1520669686253286675",
+        "cites_id": [
+            "1520669686253286675"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distribution of water loss via evapotranspiration in a pistachio tree orchard under drip irrigation and non-irrigation conditions",
+            "pub_year": "2015",
+            "citation": "Soil and Water Research 10 (1), 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10437908193389624573",
+        "cites_id": [
+            "10437908193389624573"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop water requirements",
+            "pub_year": "2000",
+            "citation": "Plant, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:umqufdRvDiIC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7462790964441346592",
+        "cites_id": [
+            "7462790964441346592"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modellizzazione del trasporto dell'acqua nel Sistema Suolo-Pianta-Atmosfera",
+            "pub_year": "1990",
+            "citation": "Rivista di Agronomia 24, 273-290, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:OTTXONDVkokC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4341498139428646909",
+        "cites_id": [
+            "4341498139428646909"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enhancing use of rainwater for meat production on grasslands: an ecological opportunity towards food security",
+            "pub_year": "2010",
+            "citation": "International Fertiliser Society, 3-22, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:uc_IGeMz5qoC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4977154278953038409",
+        "cites_id": [
+            "4977154278953038409"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop",
+            "pub_year": "2009",
+            "citation": "The FAO crop model to simulate yield response to water. Reference Manual, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:hC7cP41nSMkC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4408783401233201799",
+        "cites_id": [
+            "4408783401233201799"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Kapur, and E. Akca (eds). Ecosystem-based assessment of soil degradation to facilitate land user\u2019s and land owner\u2019s prompt actions",
+            "pub_year": "2003",
+            "citation": "Workshop proceedings. Adana, Turkey, 2-7, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:i2xiXl-TujoC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5474505891727167337",
+        "cites_id": [
+            "5474505891727167337"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparing Cotton Evapotranspirations Estimated by Micrometeorological and Water Budget Methods",
+            "pub_year": "2001",
+            "citation": "Turkish Journal of Agriculture and Forestry 25 (5), 329-335, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15664813744024823600",
+        "cites_id": [
+            "15664813744024823600"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop-OS: A tool for resilient management of land and water resources in agriculture",
+            "pub_year": "2017",
+            "citation": "EGU General Assembly Conference Abstracts, 2842, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10905602117526891387",
+        "cites_id": [
+            "10905602117526891387"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Statistical analysis of large simulated yield datasets for studying climate effects",
+            "pub_year": "2015",
+            "citation": "Imperial College Press, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:hkOj_22Ku90C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17127514599247433899",
+        "cites_id": [
+            "17127514599247433899"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The myth that \u201cwater efficiency\u201d will eradicate hunger and poverty",
+            "pub_year": "2014",
+            "citation": "Stockholm Waterfront, 10, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:ILKRHgRFtOwC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15402486526071092237",
+        "cites_id": [
+            "15402486526071092237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustainable Energy for All-What does it mean for Water and Food Security: Seeking sustainable development CLEWS: Climate-change, Land-use, Energy and Water (CLEW) Strategies",
+            "pub_year": "2011",
+            "citation": "The Water Energy and Food Security Nexus\u2013Solutions for the Green Economy \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:Mojj43d5GZwC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17454023180092478648",
+        "cites_id": [
+            "17454023180092478648"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop: The FAO field\u2010crop model to predict yield response to water",
+            "pub_year": "2007",
+            "citation": "Proc. Symp. Yield Response to Water: Examination of the Role of Crop Models \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2598370258836634899",
+        "cites_id": [
+            "2598370258836634899"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "La programmazione degli interventi irrigui",
+            "pub_year": "2001",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:tOudhMTPpwUC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13934713957788157278",
+        "cites_id": [
+            "13934713957788157278"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Soil resources of southern and eastern Mediterranean countries",
+            "pub_year": "2001",
+            "citation": "Cahiers Options M\u00e9diterran\u00e9ennes (CIHEAM), 2001"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3225848160425204631",
+        "cites_id": [
+            "3225848160425204631"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gas exchange rates and plant water potentials of Capsicum annuum L. under stressed and well watered conditions. Diurnal response patterns",
+            "pub_year": "1989",
+            "citation": "Symposium on Scheduling of Irrigation for Vegetable Crops under Field \u2026, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:ldfaerwXgEUC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9525390527267335164",
+        "cites_id": [
+            "9525390527267335164"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FAO, Land and Water Division Rome, Italy",
+            "pub_year": "2012",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:eMMeJKvmdy0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17632216460350354861",
+        "cites_id": [
+            "17632216460350354861"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling The Response Of Bambara Groundnut: A Key Underutilised Crop In Agricultural Systems.",
+            "pub_year": "2009",
+            "citation": "ECMS, 841-847, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:8AbLer7MMksC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14807484895341515163",
+        "cites_id": [
+            "14807484895341515163"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pathways for increasing agricultural water productivity",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:IRz6iEL74y4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12257702946128759839",
+        "cites_id": [
+            "12257702946128759839"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The study of Mediterranean soils: a difficult task",
+            "pub_year": "2002",
+            "citation": "7th international meeting on soils with Mediterranean type of climate \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:t7zJ5fGR-2UC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14777012083257079668",
+        "cites_id": [
+            "14777012083257079668"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Agro-ecological characterization of the Apulia region: GIS applications and modelling",
+            "pub_year": "1999",
+            "citation": "Emerging technologies for sustainable land use and water management. 2nd \u2026, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:XoXfffV-tXoC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17060568407766762381",
+        "cites_id": [
+            "17060568407766762381"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of Information Modeling and Decision Support Systems to Irrigation in European Mediterranean Agriculture",
+            "pub_year": "1992",
+            "citation": "Intl. Conf. on Supplementary Irrigation and Drought Water Management, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:k_IJM867U9cC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4577369936517845515",
+        "cites_id": [
+            "4577369936517845515"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INFLUENZA DEL REGIME IRRIGUO SULLE PRODUZIONI DI ALCUNE CULTIVAR DI FRUMENTO DURO IN TRE AMBIENTI DELL\u2019ITALIA MERIDIONALE: PRIMI RISULTATI.",
+            "pub_year": "1989",
+            "citation": "Irrigazione e Drenaggio 36, 147-152, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:ye4kPcJQO24C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3952056127868511614",
+        "cites_id": [
+            "3952056127868511614"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Delivering global water security: Embedding water justice as a response to increased irrigation efficiency",
+            "pub_year": "2022",
+            "citation": "Wiley Interdisciplinary Reviews: Water 9 (6), e1608, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:86PQX7AUzd4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18350211591701265124",
+        "cites_id": [
+            "18350211591701265124"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The paradox of irrigation efficiency: Higher efficiency rarely reduces water consumption",
+            "pub_year": "2020",
+            "citation": "American Association for the Advancement of Science (AAAS), 2020"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:_5tno0g5mFcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5770887478209611318",
+        "cites_id": [
+            "5770887478209611318"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of remote-sensing evapotranspiration data of selected crops in the nile delta",
+            "pub_year": "2019",
+            "citation": "Proceedings of the 3rd World Irrigation Forum (WIF3), Bali, Indonesia, 1-7, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:hMsQuOkrut0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11700780031090002189",
+        "cites_id": [
+            "11700780031090002189"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the conservative behavior of biomass water productivity. Water productivity: Science and Practice",
+            "pub_year": "2007",
+            "citation": "Irrigation Science 25, 189-207, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:8d8msizDQcsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3470636546541508370",
+        "cites_id": [
+            "3470636546541508370"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A quantitative framework for the systematic analysis of potential water savings in agriculture",
+            "pub_year": "2007",
+            "citation": "Options M\u00e9diterran\u00e9ennes: S\u00e9rie B. Etudes et Recherches 1 (56), 2007"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:Se3iqnhoufwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5356332703987122774",
+        "cites_id": [
+            "5356332703987122774"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling approaches for the simulation of water-limited crop production used in the FAO Aquacrop model",
+            "pub_year": "2006",
+            "citation": "Proceedings of International Symposium on Water and Land Management for \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:35N4QoGY0k4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9298660468028461490",
+        "cites_id": [
+            "9298660468028461490"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fostering networking and exchange of information in the Mediterranean region: The MEDCOASTLAND Thematic Network1",
+            "pub_year": "2006",
+            "citation": "Desertification in the Mediterranean Region. A Security Issue, 385-400, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:u9iWguZQMMsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11510626629591696129",
+        "cites_id": [
+            "11510626629591696129"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Valutazione della consistenza di serie storiche termopluviometriche disponibili nella regione Puglia e applicazioni di procedure di integrazione di dati mancanti",
+            "pub_year": "2002",
+            "citation": "Riv. Agron 36, 243-255, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:foquWX3nUaYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8497850156497680800",
+        "cites_id": [
+            "8497850156497680800"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proposta di un modello per la descrizione del trasferimento dell'acqua nel sistema suolo-pianta-atmosfera",
+            "pub_year": "1989",
+            "citation": "IRRIGAZIONE E DRENAGGIO 3, 153-158, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:N5tVd3kTz84C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6628239151193111085",
+        "cites_id": [
+            "6628239151193111085"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop Version 7.0-New Developments",
+            "pub_year": "2022",
+            "citation": "International Symposium on Managing Land and Water for Climate-Smart Agriculture, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:Ri6SYOTghG4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2312161463530119481",
+        "cites_id": [
+            "2312161463530119481"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Guidance on Realizing Real Water Savings with Crop Water Productivity Interventions",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:2VqYfGB8ITEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9818891300332664451",
+        "cites_id": [
+            "9818891300332664451"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the Global Water Productivity Distribution for Major Cereal Crops: some First Results from Satellite Measurements",
+            "pub_year": "2014",
+            "citation": "2014 AGU Fall Meeting, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:ML0RJ9NH7IQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14438681544075432637",
+        "cites_id": [
+            "14438681544075432637"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Causes for uncertainty in simulating wheat response to temperature",
+            "pub_year": "2014",
+            "citation": "Proceedings of the CropM International Symposium and Workshop\" Modelling \u2026, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:LO7wyVUgiFcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8104767162705041099",
+        "cites_id": [
+            "8104767162705041099"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying uncertainties in modeling crop water use under climate change",
+            "pub_year": "2013",
+            "citation": "Impacts world 2013, international conference on climate change effects \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:UebtZRa9Y70C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1732780789188061023",
+        "cites_id": [
+            "1732780789188061023"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comment on Araya et al.",
+            "pub_year": "2010",
+            "citation": "Field crops research 118 (1), 102-103, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14138323698512487996",
+        "cites_id": [
+            "14138323698512487996"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "El agua, un recurso natural cr\u00edtico: una visi\u00f3n desde el sector agrario",
+            "pub_year": "2008",
+            "citation": "Temas para el debate, 70-75, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:VL0QpB8kHFEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4425625128548788176",
+        "cites_id": [
+            "4425625128548788176"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Water for Food and Ecosystems: the road from resource dispute to reconciliation",
+            "pub_year": "2005",
+            "citation": "Sustainable Development International 13 (08/1), 86-89, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:HDshCWvjkbEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4784417473500846350",
+        "cites_id": [
+            "4784417473500846350"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Determination methods of crop water consumption",
+            "pub_year": "2000",
+            "citation": "Cahiers Options M\u00e9diterran\u00e9ennes (CIHEAM), 2000"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11107944774083298575",
+        "cites_id": [
+            "11107944774083298575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Salinity as a limiting factor for agricultural productivity in the Mediterranean Basin",
+            "pub_year": "1998",
+            "citation": "1. Trans-National Meeting on: Salinity as a Limiting Factor for Agricultural \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:SdhP9T11ey4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18310377591941161324",
+        "cites_id": [
+            "18310377591941161324"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[Actual evapotranspiration of a maize crop (Zea mays) as function of the canopy conductance].[Italian]",
+            "pub_year": "1993",
+            "citation": "Rivista Di Agronomia, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14503489671846898745",
+        "cites_id": [
+            "14503489671846898745"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ra sponse to water",
+            "citation": "Food and Agriculture Org Nations, Rome, Italy, 0"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:blknAaTinKkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7153135181158679926",
+        "cites_id": [
+            "7153135181158679926"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FAO crop growth model AquaCrop v7. 0 for regional simulations: new advances and opportunities",
+            "pub_year": "2023",
+            "citation": "AgMIP9, Date: 2023/06/27-2023/06/29, Location: Columbia University, New York, NY, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:9c2xU6iGI7YC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilation of Sentinel-1 backscatter data into AquaCrop v7 for soil moisture and biomass updating over Europe",
+            "pub_year": "2023",
+            "citation": "GC8-Hydro, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:XvxMoLDsR5gC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilation of SMAP surface soil moisture retrievals into the FAO crop growth model AquaCrop v7. 0",
+            "pub_year": "2023",
+            "citation": "EGU23, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:_FM0Bhl9EiAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop v7. 0 Coupled within the NASA Land Information System for Regional Modelling and Data Assimilation over Agricultural Areas",
+            "pub_year": "2022",
+            "citation": "AGU Fall Meeting Abstracts 2022, H16D-05, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:kh2fBNsKQNwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "contribution of the AquaCrop Network",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:bz8QjSJIRt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Training Manual: Crop Water Productivity Options to Achieve Real Water Savings",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:tYavs44e6CUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Strengthening resilience and adaptive capacity of NENA dryland agricultural systems to climate change and related shocks: FAO contribution.",
+            "pub_year": "2017",
+            "citation": "Twelfth International Dryland Development Conference,'Sustainable \u2026, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:L7CI7m0gUJcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Uncertainty of Wheat Water Use: Simulated Patterns and Sensitivity to Temperature and CO2",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:LI9QrySNdTsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Soil nitrogen mineralisation simulated by crop models across different environments and the consequences for model improvement",
+            "pub_year": "2016",
+            "citation": "MACSUR, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Statistical Analysis of Large Simulated Yield Datasets for Studying Climate Effects",
+            "pub_year": "2015",
+            "citation": "Handbook of Climate Change and Agroecosystems: the agricultural model \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:FAceZFleit8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the Global Water Productivity Distribution for Major Cereal Crops: some First Results from Satellite Measurements",
+            "pub_year": "2014",
+            "citation": "AGU Fall Meeting Abstracts 2014, GC21B-0522, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop: Manuel d'utilisation",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:g3aElNc5_aQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ISBN I3429S/1/08.13",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quinoa",
+            "pub_year": "2012",
+            "citation": "Crop yield response to water, 230-235, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:oNZyr7d5Mn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting wheat growth and nitrogen use with an ensemble of crop simulation models",
+            "pub_year": "2012",
+            "citation": "Visions for a sustainable planet: ASA, CSSA, and SSSA international annual \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:AXPGKjj_ei8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustainable Development Scenarios",
+            "pub_year": "2012",
+            "citation": "Natural Resources Forum, 245-262, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comparison of 27 wheat crop models for climate change impact: the AgMIP Wheat pilot study",
+            "pub_year": "2012",
+            "citation": "12th Congress of the European Society for Agronomy, Helsinki, Finland, 20-24 \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:8k81kl-MbHgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AquaCrop. Il Nuovo Modello FAO per la Simulazione della Risposta Colturale all\u2019Acqua",
+            "pub_year": "2010",
+            "citation": "XXXIX Convegno della societ\u00e0 italiana di agronomia, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Agriculture and water resources. The challenges of the future.",
+            "pub_year": "2009",
+            "citation": "Georgofili 6 (2), 171-187, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:epqYDVWIO7EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Agricoltura e risorse idriche: le sfide del prossimo futuro",
+            "pub_year": "2009",
+            "citation": "Agricoltura e risorse idriche, 1000-1017, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:zLWjf1WUPmwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reference Manual January 2009",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Consistency investigation on the normalized biomass water productivity of vegetable crops",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:PR6Y55bgFSsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FAO model AquaCrop\u2013Conservative Nature of Biomass Water Use Efficiency, a Key Model Fundamental.",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:Zph67rFs4hoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prediction of Climatic Change for the Next 100 Years in the Apulia Region, Southern Italy",
+            "pub_year": "2007",
+            "citation": "PAGEPress Publications, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:PVjk1bu6vJQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop Response to Water-the development of FAO AquaCrop Model",
+            "pub_year": "2006",
+            "citation": "Deficit Irrigation for Mediterranean Agricultural Systems (DIMAS), 2006"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:TQgYirikUcIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Agricultural Water Use Efficiency (WUE) and Productivity (WP)",
+            "pub_year": "2005",
+            "citation": "Water Encyclopedia 3, 558-560, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:1yQoGdGgb4wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u6c17\u5019\u5909\u52d5\u4e0b\u306e\u8fb2\u4f5c\u7269\u306b\u3088\u308b\u6c34\u5229\u7528\u3068\u751f\u7523\u6027\u306e\u5206\u6790. FAO \u306e\u30a2\u30d7\u30ed\u30fc\u30c1",
+            "pub_year": "2005",
+            "citation": "ICCAP-Cappadocia Workshop, 1-10, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:dBIO0h50nwkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "2 The International Year of Freshwater: The Achievements and Successes of Similar International Initiatives-Agriculture, food and water--Managing water to feed a growing population",
+            "pub_year": "2004",
+            "citation": "IAHS Publications-Series of Proceedings and Reports 286, 117-124, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:kRWSkSYxWN8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Workshop Proceedings: Ecosystem based assessment of soil degradation to facilitate land users and land owners prompt actions: Adama, Turkey, 2-7 June 2003",
+            "pub_year": "2004",
+            "citation": "IAM, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:abG-DnoFyZgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Confronto tra tecniche di interpolazione spaziale per la\" zonizzazione\" climatica della plugia",
+            "pub_year": "2003",
+            "citation": "Rivista di ingegneria agraria, 19-30, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:WqliGbK-hY8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "REGIONAL ACTION PROGRAMME (RAP)-WATER RESOURCES MANAGEMENT: INTRODUCTORY PAPER ON: WATER SAVING IN IRRIGATED AGRICULTURE (WASIA PROJECT)",
+            "pub_year": "2003",
+            "citation": "Options M\u00e9diterran\u00e9ennes: S\u00e9rie B. Etudes et Recherches, 31-54, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:eflP2zaiRacC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison among spatial interpolation techniques for climatic zoning of Apulian land",
+            "pub_year": "2003",
+            "citation": "Rivista di Ingegneria Agraria (Italy), 2003"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:dshw04ExmUIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regional Action Programme (RAP): networking activities 1998-2000",
+            "pub_year": "2003",
+            "citation": "Options M\u00e9diterran\u00e9ennes: S\u00e9rie B. Etudes et Recherches, 55-74, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Options",
+            "pub_year": "2002",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:vRqMK49ujn8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparing cotton evapotranspirations estimated by micrometeorological and water budget methods [Mikrometeorolojik ve Su B\u00fct\u00e7esi Y\u00f6ntemleriyle Belirlenen Pamuk Su T\u00fcketimlerinin \u2026",
+            "pub_year": "2001",
+            "citation": "TUBITAK, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:EYYDruWGBe4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of GPS technology for the localization and mapping of citrus germplasm",
+            "pub_year": "2001",
+            "citation": "Options M\u00e9diterran\u00e9ennes: S\u00e9rie B. Etudes et Recherches, 91-94, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:BrmTIyaxlBUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation or stochastic simulation in soil science?",
+            "pub_year": "2001",
+            "citation": "7th International Meeting on Soil with Mediterranean Type of Climate \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop water requirements: Insight Features",
+            "pub_year": "2001",
+            "citation": "Advanced Short course: Water Saving and Increasing Water Productivity \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:r0BpntZqJG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of physiological water use efficiency of citrus germplasm",
+            "pub_year": "2001",
+            "citation": "Options M\u00e9diterran\u00e9ennes: S\u00e9rie B. Etudes et Recherches, 43-50, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:0EnyYjriUFMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[Scheduling of water supply [crops]]",
+            "pub_year": "2001",
+            "citation": "Irrigazione e Drenaggio (Italy), 2001"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant Nutrient Management under Pressurized Irrigation System in the Mediterranean Region: Crop Water Requirements",
+            "pub_year": "2000",
+            "citation": "ICARDA, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:4MWp96NkSFoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Soil Water Balance and Transport Processes. Review of Theory and Field Applications",
+            "pub_year": "2000",
+            "citation": "Cahiers Options M\u00e9diterran\u00e9ennes (CIHEAM), 2000"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:isC4tDSrTZIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimental methodologies for determining evapotranspiration: reviews and revisions",
+            "pub_year": "1999",
+            "citation": "Adana (Turkey), 6-12 Dec 1998, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:9vf0nzSNQJEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimates of maximum evapotranspiration using the Penman-Monteith with variable canopy resistance [Triticum durum Desf.-Apulia]",
+            "pub_year": "1999",
+            "citation": "Irrigazione e Drenaggio (Italy), 1999"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:Y5dfb0dijaUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize canopies under two soil water regimes.-I. Diurnal patterns of energy balance, carbon dioxide flux, and canopy conductance",
+            "pub_year": "1998",
+            "citation": "Agricultural and Forest Meteorology (Netherlands), 1998"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize canopies under two soil water regimes-III. Variation in coupling with the atmosphere and the role of leaf area index",
+            "pub_year": "1998",
+            "citation": "Agricultural and Forest Meteorology (Netherlands), 1998"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize canopies under two soil water regimes-II. Seasonal trends of evapotranspiration, carbon dioxide assimilation and canopy conductance, and as related to leaf area index",
+            "pub_year": "1998",
+            "citation": "Agricultural and Forest Meteorology (Netherlands), 1998"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize canopies under two soil water regimes-IV. Validity of Bowen ratio-energy balance technique for measuring water vapor and carbon dioxide fluxes at 5-min intervals",
+            "pub_year": "1998",
+            "citation": "Agricultural and Forest Meteorology (Netherlands), 1998"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Penman-Monteith Reference Evapotranspiration Estimates in the Mediterranean Region P. Steduto, A. Caliandro, P. Rubino, N. Ben Mechlia, M. Masmoudi, A. Martinez-Cob, M. Jose \u2026",
+            "pub_year": "1996",
+            "citation": "Evapotranspiration and Irrigation Scheduling: Proceedings of the \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:mlAyqtXpCwEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods to estimate crop water consumption",
+            "pub_year": "1996",
+            "citation": "Advanced Short Course on: Soil-Water Balance and Transport Processes, Adana \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:BwyfMAYsbu0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Physiological water use efficiency and carbon balance of crops in Mediterranean ecosystems",
+            "pub_year": "1996",
+            "citation": "Workshop on: Programma Internazionale della Geosfera e Biosfera, Venezia \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A research agenda for the sustainable use of water in agriculture",
+            "pub_year": "1996",
+            "citation": "Rivista di Ingegneria Agraria (Italy), 1996"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:RGFaLdJalmkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating an Expert System Component into the Hydra Irrigation DSS",
+            "pub_year": "1995",
+            "citation": "IFAC Proceedings Volumes 28 (4), 91-96, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An evaluation of the crop-growth simulation submodel of EPIC [erosion-productivity impact calculator] for wheat grown in a mediterranean climate with variable soil-water regimes",
+            "pub_year": "1995",
+            "citation": "European Journal of Agronomy (France), 1995"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The HYDRA crop growth simulation system.",
+            "pub_year": "1994",
+            "citation": "International Conference on Land and Water Resources Management in the \u2026, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:lSLTfruPkqcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Actual evapotranspiration of field grown corn (Zea mays L.) as response to variation of canopy resistance",
+            "pub_year": "1993",
+            "citation": "Rivista di Agronomia (Italy), 1993"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Influence of water stress on the spike fertility of some wheat cultivars",
+            "pub_year": "1992",
+            "citation": "Irrigazione e Drenaggio (Italy), 1992"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:_B80troHkn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Firenze University Press Dipartimento Di Scienze Delle Produzioni Vegetali, Del Suolo E Dell'Ambiente Agroforestale\u2013DiPSA\u2013University of Florence",
+            "pub_year": "1992",
+            "citation": "Advances in Horticultural Science 6 (1), 3-10, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Influence of water stress on the spike fertility of some wheat cultivars [in Apulia].",
+            "pub_year": "1992",
+            "citation": "Irrigazione e Drenaggio, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:_kc_bZDykSQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Greenhouse water management for sustained productivity. FAO meeting, 27-31 May 1991.",
+            "pub_year": "1991",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Agricultural and Forest Meteorology, 56 (1991) 301-302 301 Elsevier Science Publishers BV, Amsterdam",
+            "pub_year": "1991",
+            "citation": "Agricultural and Forest Meteorology 56, 301-302, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Water transport modelling in the soil-plant-atmosphere system.",
+            "pub_year": "1990",
+            "citation": "Rivista di Agronomia 24 (4), 273-290, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mediterranean Agronomic Institute via Ceglie, 23",
+            "pub_year": "1990",
+            "citation": "Acta Horticulturae 278, 59, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[Influence or the irrigation on the yield of some durum wheat cultivars in three areas of Southern Italy. First results].[Italian]",
+            "pub_year": "1989",
+            "citation": "Irrigazione e Drenaggio, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:t6usbXjVLHcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[A model for the water movement in the soil-plant-atmosphere system [in Apulia]].[Italian]",
+            "pub_year": "1989",
+            "citation": "Irrigazione e Drenaggio, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:WbkHhVStYXYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional growth analysis of five wheat varieties grown under different irrigation treatments",
+            "pub_year": "1989",
+            "citation": "Irrigazione e Drenaggio (Italy), 1989"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[A model for the water movement in the soil-plant-atmosphere system [in Apulia]]",
+            "pub_year": "1989",
+            "citation": "Irrigazione e Drenaggio (Italy), 1989"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[Functional growth analysis of five wheat varieties grown under different irrigation treatments].[Italian]",
+            "pub_year": "1989",
+            "citation": "Irrigazione e Drenaggio, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ripartizione delle risorse all'interno della pianta e relazioni con fotosintesi e accrescimento: osservazioni ecologiche",
+            "pub_year": "1987",
+            "citation": "Rivista di Agronomia 21 (3), 159-169, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:Z5m8FVwuT1cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and instrumentation for the determination of photosynthesis in open field plants",
+            "pub_year": "1986",
+            "citation": "Rivista di Agronomia (Italy), 1986"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:eq2jaN3J8jMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Metodi e strumentazioni per la misura in campo dell'attivit\u00e0 fotosintetica",
+            "pub_year": "1986",
+            "citation": "Rivista di Agronomia 20 (4), 339-349, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[Methods and instrumentation for the determination of photosynthesis in open field plants].[Italian]",
+            "pub_year": "1986",
+            "citation": "Rivista di Agronomia, 1986"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:a0OBvERweLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fertigation [consequence of the evolution of irrigation technique].",
+            "pub_year": "1984",
+            "citation": "Rivista di Agronomia, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PARAMETRI GENETICI E SELEZIONE IN VICIA FABA L. I: STUDIO DELL'ATTITUDINE COMBINATORIA",
+            "pub_year": "1981",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:WJVC3Jt7v1AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[Genetic parameters and selection in Vicia faba L. 1: Combining ability analysis].[Italian]",
+            "pub_year": "1981",
+            "citation": "Rivista di Agronomia, 1981"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic parameters and selection in vicia faba LI Combining ability analysis [Broadbeans]",
+            "pub_year": "1981",
+            "citation": "Rivista di agronomia, 1981"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introductory paper: Desalination of saline water",
+            "citation": "Rome (Italy) FAO, 0"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:4vMrXwiscB8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Greenhouse water management for sustained productivity",
+            "citation": "Rome (Italy), 0"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:HIFyuExEbWQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic Changes in Evapotranspiration, Plant Water Status, Growth and Canopy Photosynthesis in Open Field Under Rapid Fluctuating Radiation",
+            "citation": "Plant Water Status, Growth and Canopy Photosynthesis in Open Field Under \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:IUKN3-7HHlwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "7th International meeting on soils with Mediterranean type of climate",
+            "citation": "Montpellier (France) CIHEAM, 0"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:sNmaIFBj_lkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insights",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:lmc2jWPfTJgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Waterproductivity analysis offield crops under climate changa The FAO approach.",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:evX43VCCuoAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SOLAW TR07",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:ZuybSZzF8UAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "International Fertiliser Society-Proceeding 686 (2010)",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:5awf1xo2G04C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop yeid",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:u_35RYKgDlwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wageningen UR Frontis Series, Volume 6 Unsaturated-zone Modeling: Progress, Challenges and Applications",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Land degradation factors in the Mediterranean region",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dear IWRA Friends",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop yield",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Physiological responses of field-grown sunflower to saline water irrigation",
+            "citation": "1. Trans-National Meeting on: Salinity as a Limiting Factor for Agricultural \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "TAS6ouUAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 0
+    }
+]

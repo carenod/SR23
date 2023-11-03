@@ -1,0 +1,1571 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reciprocal regulation between TOC1 and LHY/CCA1 within the Arabidopsis circadian clock",
+            "pub_year": "2001",
+            "citation": "Science 293 (5531), 880-883, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1298,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12470166624390946971",
+        "cites_id": [
+            "12470166624390946971"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular basis of seasonal time measurement in Arabidopsis",
+            "pub_year": "2002",
+            "citation": "Nature 419 (6904), 308-312, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 766,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15760834784484278113",
+        "cites_id": [
+            "15760834784484278113"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network discovery pipeline elucidates conserved time-of-day\u2013specific cis-regulatory modules",
+            "pub_year": "2008",
+            "citation": "PLoS Genetics 4 (2), e14, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 556,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8691664984200361553",
+        "cites_id": [
+            "8691664984200361553"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Overlapping and distinct roles of PRR7 and PRR9 in the Arabidopsis circadian clock",
+            "pub_year": "2005",
+            "citation": "Current Biology 15 (1), 47-54, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 477,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8177296522227131030",
+        "cites_id": [
+            "8177296522227131030"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-Wide Expression Analysis in DrosophilaReveals Genes Controlling Circadian Behavior",
+            "pub_year": "2002",
+            "citation": "Journal of Neuroscience 22 (21), 9305-9319, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 433,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7062312339568978786",
+        "cites_id": [
+            "7062312339568978786"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Living by the calendar: how plants know when to flower",
+            "pub_year": "2003",
+            "citation": "Nature Reviews Molecular Cell Biology 4 (4), 265-276, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 383,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18155858992887479849",
+        "cites_id": [
+            "18155858992887479849"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Critical role for CCA1 and LHY in maintaining circadian rhythmicity in Arabidopsis",
+            "pub_year": "2002",
+            "citation": "Current Biology 12 (9), 757-761, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 356,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3337185389799269099",
+        "cites_id": [
+            "3337185389799269099"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A genomic analysis of the shade avoidance response in Arabidopsis",
+            "pub_year": "2003",
+            "citation": "Plant Physiology 133 (4), 1617-1629, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 322,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7598189985934209043",
+        "cites_id": [
+            "7598189985934209043"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A methyl transferase links the circadian clock to the regulation of alternative splicing",
+            "pub_year": "2010",
+            "citation": "Nature 468 (7320), 112-116, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 317,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7659190408478976468",
+        "cites_id": [
+            "7659190408478976468"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dual role of TOC1 in the control of circadian and photomorphogenic responses in Arabidopsis",
+            "pub_year": "2003",
+            "citation": "The Plant Cell 15 (1), 223-236, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:qjMakFHDy7sC",
+        "num_citations": 315,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9143688737783688335",
+        "cites_id": [
+            "9143688737783688335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A role for LKP2 in the circadian clock of Arabidopsis",
+            "pub_year": "2001",
+            "citation": "The Plant Cell 13 (12), 2659-2670, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 302,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14847243428124917339",
+        "cites_id": [
+            "14847243428124917339"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Solar ultraviolet-B radiation affects seedling emergence, DNA integrity, plant morphology, growth rate, and attractiveness to herbivore insects in Datura ferox",
+            "pub_year": "1996",
+            "citation": "Plant Physiology 112 (1), 161-170, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 259,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6135784377762704239",
+        "cites_id": [
+            "6135784377762704239"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome B enhances photosynthesis at the expense of water-use efficiency in Arabidopsis",
+            "pub_year": "2009",
+            "citation": "Plant physiology 150 (2), 1083-1092, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 220,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16187355612328768359",
+        "cites_id": [
+            "16187355612328768359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis thaliana life without phytochromes",
+            "pub_year": "2010",
+            "citation": "Proceedings of the National Academy of Sciences 107 (10), 4776-4781, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:_kc_bZDykSQC",
+        "num_citations": 210,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3485738181656645543",
+        "cites_id": [
+            "3485738181656645543"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Chloroplast Retrograde Signal Regulates Nuclear Alternative Splicing",
+            "pub_year": "2014",
+            "citation": "Science 344 (6182), 427-430, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:iH-uZ7U-co4C",
+        "num_citations": 186,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3862297282698067991",
+        "cites_id": [
+            "3862297282698067991"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome A, phytochrome B and HY4 are involved in hypocotyl growth responses to natural radiation in Arabidopsis: weak de\u2010etiolation of the phyA mutant under dense canopies",
+            "pub_year": "1995",
+            "citation": "Plant, Cell & Environment 18 (7), 788-794, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 181,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5757274566650965653",
+        "cites_id": [
+            "5757274566650965653"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The dengue virus NS5 protein intrudes in the cellular spliceosome and modulates splicing",
+            "pub_year": "2016",
+            "citation": "PLoS pathogens 12 (8), e1005841, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:AOwgc6nnr1EC",
+        "num_citations": 179,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1367081539564763677",
+        "cites_id": [
+            "1367081539564763677"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LNK genes integrate light and clock signaling networks at the core of the Arabidopsis oscillator",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (29), 12120-12125, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 178,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2184334581501618804",
+        "cites_id": [
+            "2184334581501618804"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Increased phytochrome B alleviates density effects on tuber yield of field potato crops",
+            "pub_year": "2003",
+            "citation": "Plant Physiology 133 (4), 1539-1546, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:5nxA0vEk-isC",
+        "num_citations": 148,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8701728363246314815",
+        "cites_id": [
+            "8701728363246314815"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of gene expression by light",
+            "pub_year": "2004",
+            "citation": "International Journal of Developmental Biology 49 (5-6), 501-511, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 145,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8050156981231975564",
+        "cites_id": [
+            "8050156981231975564"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A quadruple photoreceptor mutant still keeps track of time",
+            "pub_year": "2000",
+            "citation": "Current Biology 10 (16), 1013-1015, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 134,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1996804695755354753",
+        "cites_id": [
+            "1996804695755354753"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The function of phytochrome A",
+            "pub_year": "1997",
+            "citation": "Plant, Cell & Environment 20 (6), 813-819, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:WF5omc3nYNoC",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11941869557630575210",
+        "cites_id": [
+            "11941869557630575210"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The VLF loci, polymorphic between ecotypes Landsberg erecta and Columbia, dissect two branches of phytochrome A signal transduction that correspond to very\u2010low\u2010fluence and high \u2026",
+            "pub_year": "1997",
+            "citation": "The Plant Journal 12 (3), 659-667, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4799427695651837649",
+        "cites_id": [
+            "4799427695651837649"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A constitutive shade-avoidance mutant implicates TIR-NBS-LRR proteins in Arabidopsis photomorphogenic development",
+            "pub_year": "2006",
+            "citation": "The Plant Cell 18 (11), 2919-2928, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 114,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=440792654390764085",
+        "cites_id": [
+            "440792654390764085"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AtBBX21 and COP1 genetically interact in the regulation of shade avoidance",
+            "pub_year": "2010",
+            "citation": "The Plant Journal 64 (4), 551-562, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6372987920774256517",
+        "cites_id": [
+            "6372987920774256517"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time for circadian rhythms: plants get synchronized",
+            "pub_year": "2009",
+            "citation": "Current opinion in plant biology 12 (5), 574-579, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3844420060650344728",
+        "cites_id": [
+            "3844420060650344728"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid array mapping of circadian clock and developmental mutations in Arabidopsis",
+            "pub_year": "2005",
+            "citation": "Plant physiology 138 (2), 990-997, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:ufrVoPGSRksC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13955394614503675434",
+        "cites_id": [
+            "13955394614503675434"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brassinosteroid mutants uncover fine tuning of phytochrome signaling",
+            "pub_year": "2002",
+            "citation": "Plant physiology 128 (1), 173-181, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:Se3iqnhoufwC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13657165702930173975",
+        "cites_id": [
+            "13657165702930173975"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The spliceosome assembly factor GEMIN2 attenuates the effects of temperature on alternative splicing and circadian rhythms",
+            "pub_year": "2015",
+            "citation": "Proceedings of the National Academy of Sciences 112 (30), 9382-9387, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:LYDvBi7O6RsC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7083701704230006492",
+        "cites_id": [
+            "7083701704230006492"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synergism of red and blue light in the control of Arabidopsis gene expression and development",
+            "pub_year": "2009",
+            "citation": "Current Biology 19 (14), 1216-1220, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10923599909088764024",
+        "cites_id": [
+            "10923599909088764024"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome A resets the circadian clock and delays tuber formation under long days in potato",
+            "pub_year": "2000",
+            "citation": "The Plant Journal 23 (2), 223-232, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 89,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1917260769632940359",
+        "cites_id": [
+            "1917260769632940359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of phytochrome B signaling by phytochrome A and FHY1 in Arabidopsis thaliana",
+            "pub_year": "1999",
+            "citation": "The Plant Journal 18 (5), 499-507, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17901249196839246151",
+        "cites_id": [
+            "17901249196839246151"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian rhythms and post-transcriptional regulation in higher plants",
+            "pub_year": "2015",
+            "citation": "Frontiers in Plant Science 6, 437, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:YXeC4bxG7-IC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5506869313014848945",
+        "cites_id": [
+            "5506869313014848945"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signaling networks in the plant circadian system",
+            "pub_year": "2001",
+            "citation": "Current opinion in plant biology 4 (5), 429-435, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:UebtZRa9Y70C",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11315112837236359616",
+        "cites_id": [
+            "11315112837236359616"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sputnik V Vaccine Elicits Seroconversion and Neutralizing Capacity to SARS CoV-2 after a Single Dose",
+            "pub_year": "2021",
+            "citation": "Cell Reports Medicine, 100359, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:7LLGAk_PBK4C",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16033293464795760138",
+        "cites_id": [
+            "16033293464795760138"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GIGANTEA regulates phytochrome A-mediated photomorphogenesis independently of its role in the circadian clock",
+            "pub_year": "2007",
+            "citation": "Plant physiology 144 (1), 495-502, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9663933353052912826",
+        "cites_id": [
+            "9663933353052912826"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The serine-rich N-terminal domain of oat phytochrome A helps regulate light responses and subnuclear localization of the photoreceptor",
+            "pub_year": "2002",
+            "citation": "Plant physiology 129 (3), 1127-1137, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:0EnyYjriUFMC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11180458434678451784",
+        "cites_id": [
+            "11180458434678451784"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Missense mutation in the PAS2 domain of phytochrome A impairs subnuclear localization and a subset of responses",
+            "pub_year": "2002",
+            "citation": "The Plant Cell 14 (7), 1591-1603, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:roLk4NBRz8UC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2800096582956595992",
+        "cites_id": [
+            "2800096582956595992"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Emergency response for evaluating SARS-CoV-2 immune status, seroprevalence and convalescent plasma in Argentina",
+            "pub_year": "2021",
+            "citation": "Plos Pathogens 17 (1), e1009161, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:UPMPWMAU16oC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13106839228735115378",
+        "cites_id": [
+            "13106839228735115378"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Germination variation in Arabidopsis thaliana accessions under moderate osmotic and salt stresses",
+            "pub_year": "2010",
+            "citation": "Annals of Botany 106 (5), 833-842, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11463269817090741017",
+        "cites_id": [
+            "11463269817090741017"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Repression of shade\u2010avoidance reactions by sunfleck induction of HY5 expression in Arabidopsis",
+            "pub_year": "2011",
+            "citation": "The Plant Journal 68 (5), 919-928, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12143216913337949811",
+        "cites_id": [
+            "12143216913337949811"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role for LSM genes in the regulation of circadian rhythms",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (42), 15166-15171, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:BSZS1fLCB98C",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6534506437929955144",
+        "cites_id": [
+            "6534506437929955144"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resetting of the circadian clock by phytochromes and cryptochromes in Arabidopsis",
+            "pub_year": "2001",
+            "citation": "Journal of biological rhythms 16 (6), 523-530, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:M3ejUd6NZC8C",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=690039739746839140",
+        "cites_id": [
+            "690039739746839140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time-dependent sequestration of RVE8 by LNK proteins shapes the diurnal oscillation of anthocyanin biosynthesis",
+            "pub_year": "2015",
+            "citation": "Proceedings of the National Academy of Sciences 112 (16), 5249-5253, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:jvrRlaHg2sAC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11974196699784413615",
+        "cites_id": [
+            "11974196699784413615"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "fhy3-1 retains inductive responses of phytochrome A",
+            "pub_year": "2000",
+            "citation": "Plant physiology 123 (1), 235-242, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:8k81kl-MbHgC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3930564216924831978",
+        "cites_id": [
+            "3930564216924831978"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rewiring of auxin signaling under persistent shade",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (21), 5612-5617, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:0kYikfLtzSYC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=755922749399471365",
+        "cites_id": [
+            "755922749399471365"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome A affects stem growth, anthocyanin synthesis, sucrose-phosphate-synthase activity and neighbour detection in sunlight-grown potato",
+            "pub_year": "1998",
+            "citation": "Planta 205 (2), 235-241, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:Zph67rFs4hoC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3024128731887961799",
+        "cites_id": [
+            "3024128731887961799"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SPF45-related splicing factor for phytochrome signaling promotes photomorphogenesis by regulating pre-mRNA splicing in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (33), E7018-E7027, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:3ssty3PwuTgC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16346047557865765034",
+        "cites_id": [
+            "16346047557865765034"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two photobiological pathways of phytochrome A activity, only one of which shows dominant negative suppression by phytochrome B",
+            "pub_year": "2000",
+            "citation": "Photochemistry and photobiology 71 (4), 481-486, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8253310000957125375",
+        "cites_id": [
+            "8253310000957125375"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Acute effects of light on alternative splicing in light\u2010grown plants",
+            "pub_year": "2016",
+            "citation": "Photochemistry and photobiology 92 (1), 126-133, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:-XtG2q47PdUC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13793378294729289216",
+        "cites_id": [
+            "13793378294729289216"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic mapping of natural variation in a shade avoidance response: ELF3 is the candidate gene for a QTL in hypocotyl growth regulation",
+            "pub_year": "2011",
+            "citation": "Journal of experimental botany 62 (1), 167-176, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13935304181053348242",
+        "cites_id": [
+            "13935304181053348242"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional and post-transcriptional control of the plant circadian gene regulatory network",
+            "pub_year": "2017",
+            "citation": "Biochimica et Biophysica Acta (BBA)-Gene Regulatory Mechanisms 1860 (1), 84-94, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:7xtfDMUJqJkC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3424771839741405707",
+        "cites_id": [
+            "3424771839741405707"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heat Shock\u2013Induced Fluctuations in Clock and Light Signaling Enhance Phytochrome B\u2013Mediated Arabidopsis Deetiolation",
+            "pub_year": "2013",
+            "citation": "The Plant Cell 25 (8), 2892-2906, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:r0BpntZqJG4C",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3714632781827424935",
+        "cites_id": [
+            "3714632781827424935"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Function of B-BOX proteins under shade",
+            "pub_year": "2011",
+            "citation": "Plant Signal. Behav 6, 101-104, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11428932754581258206",
+        "cites_id": [
+            "11428932754581258206"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome wide comparative analysis of the effects of PRMT5 and PRMT4/CARM1 arginine methyltransferases on the Arabidopsis thaliana transcriptome",
+            "pub_year": "2015",
+            "citation": "BMC genomics 16 (1), 1-15, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:Sw8WaQuuSIgC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4150825657127000313",
+        "cites_id": [
+            "4150825657127000313"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian regulation of gene expression: at the crossroads of transcriptional and post-transcriptional regulatory networks",
+            "pub_year": "2014",
+            "citation": "Current opinion in genetics & development 27, 35-42, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14582161347047209685",
+        "cites_id": [
+            "14582161347047209685"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shade delays flowering in Medicago sativa",
+            "pub_year": "2019",
+            "citation": "The Plant Journal 99 (1), 7-22, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:X41XOdD1uaEC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15881570652666561737",
+        "cites_id": [
+            "15881570652666561737"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional and biochemical analysis of the N-terminal domain of phytochrome A",
+            "pub_year": "2006",
+            "citation": "Journal of Biological Chemistry 281 (45), 34421-34429, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:4TOpqqG69KYC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11269771129659583460",
+        "cites_id": [
+            "11269771129659583460"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The dynamics of FLOWERING LOCUS T expression encodes long\u2010day information",
+            "pub_year": "2015",
+            "citation": "The Plant Journal 83 (6), 952-961, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:6MVT8mER-OMC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16285205398747118846",
+        "cites_id": [
+            "16285205398747118846"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A highly sensitive rapid diagnostic test for Chagas disease that utilizes a recombinant Trypanosoma cruzi antigen",
+            "pub_year": "2011",
+            "citation": "IEEE Transactions on Biomedical Engineering 58 (3), 814, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:qUcmZB5y_30C",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3260611507510222962",
+        "cites_id": [
+            "3260611507510222962"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global transcriptome analysis reveals circadian control of splicing events in Arabidopsis thaliana",
+            "pub_year": "2020",
+            "citation": "The Plant Journal 103 (2), 889-902, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:2hlgnPHlchoC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9494633095964265949",
+        "cites_id": [
+            "9494633095964265949"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ASpli: integrative analysis of splicing landscapes through RNA-Seq assays",
+            "pub_year": "2021",
+            "citation": "Bioinformatics 37 (17), 2609-2616, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:mzRTpvMFn3IC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5647320757186720938",
+        "cites_id": [
+            "5647320757186720938"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative genomic analysis of light-regulated transcripts in the Solanaceae",
+            "pub_year": "2009",
+            "citation": "BMC genomics 10 (1), 1-14, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:4DMP91E08xMC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18235714946020190964",
+        "cites_id": [
+            "18235714946020190964"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time to grow: circadian regulation of growth and metabolism in photosynthetic organisms",
+            "pub_year": "2017",
+            "citation": "Current opinion in plant biology 35, 84-90, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:54SpJiyHbzwC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8598372903868730025",
+        "cites_id": [
+            "8598372903868730025"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing at the right time.",
+            "pub_year": "2011",
+            "citation": "RNA biology 8 (6), 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:-f6ydRqryjwC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6213452478108115046",
+        "cites_id": [
+            "6213452478108115046"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing regulation during light-induced germination of Arabidopsis thaliana seeds",
+            "pub_year": "2019",
+            "citation": "Frontiers in plant science 10, 1076, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:ZpfHopiqs50C",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15798944413777349768",
+        "cites_id": [
+            "15798944413777349768"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Are phytochrome-mediated effects on leaf growth, carbon partitioning and extractable sucrose-phosphatesynthase activity the mere consequence of stem-growthresponses in light \u2026",
+            "pub_year": "1995",
+            "citation": "Journal of Experimental Botany 46 (7), 753-757, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:aqlVkmm33-oC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15557072876652676442",
+        "cites_id": [
+            "15557072876652676442"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improvement of alfalfa forage quality and management through the down\u2010regulation of MsFTa1",
+            "pub_year": "2020",
+            "citation": "Plant biotechnology journal 18 (4), 944-954, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:vkDViGfkvYEC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6749055945071880856",
+        "cites_id": [
+            "6749055945071880856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing adds a new loop to the circadian clock",
+            "pub_year": "2011",
+            "citation": "Commun Integr Biol 4 (3), 284-286, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1382753277019984202",
+        "cites_id": [
+            "1382753277019984202"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bacterial infection disrupts clock gene expression to attenuate immune responses",
+            "pub_year": "2020",
+            "citation": "Current Biology 30 (9), 1740-1747. e6, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:6_6x9JMR98MC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12384424260268897145",
+        "cites_id": [
+            "12384424260268897145"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The LNK Gene Family: At the Crossroad between Light Signaling and the Circadian Clock",
+            "pub_year": "2019",
+            "citation": "Genes 10 (1), 2, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:SZzxPo9m4nkC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2288308653585751529",
+        "cites_id": [
+            "2288308653585751529"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Balancing forces in the photoperiodic control of flowering",
+            "pub_year": "2011",
+            "citation": "Photochemical & Photobiological Sciences 10 (4), 451-460, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:dhFuZR0502QC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=151877020538602343",
+        "cites_id": [
+            "151877020538602343"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic analysis reveals novel connections between alternative splicing and circadian regulatory networks",
+            "pub_year": "2013",
+            "citation": "Briefings in Functional Genomics 12 (1), 13-24, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:RHpTSmoSYBkC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=898365398184073612",
+        "cites_id": [
+            "898365398184073612"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prefoldins contribute to maintaining the levels of the spliceosome LSM2\u20138 complex through Hsp90 in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "Nucleic Acids Research 48 (11), 6280-6293, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:-cHHJ4ChvFsC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6380700697404574549",
+        "cites_id": [
+            "6380700697404574549"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Longitudinal study after Sputnik V vaccination shows durable SARS-CoV-2 Neutralizing antibodies and reduced viral variant escape over time",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:EVUe1p4rgj0C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8508347424399709714,2014007399823650046",
+        "cites_id": [
+            "8508347424399709714",
+            "2014007399823650046"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A role for pre-mRNA-PROCESSING PROTEIN 40C in the control of growth, development, and stress tolerance in Arabidopsis thaliana",
+            "pub_year": "2019",
+            "citation": "Frontiers in plant science 10, 1019, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:cAUKuAERoUMC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2408995822465215504",
+        "cites_id": [
+            "2408995822465215504"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional convergence of growth responses to shade and warmth in Arabidopsis",
+            "pub_year": "2021",
+            "citation": "New Phytologist, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:AmQcmOVUwm0C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7109456199034491682",
+        "cites_id": [
+            "7109456199034491682"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "It\u2019sa matter of time: the role of transcriptional regulation in the circadian clock-pathogen crosstalk in plants",
+            "pub_year": "2020",
+            "citation": "Transcription 11 (3-4), 100-116, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:geVfx-PNG5EC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14280401248901105979",
+        "cites_id": [
+            "14280401248901105979"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time for a change",
+            "pub_year": "2013",
+            "citation": "Elife 2, e00791, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14376392469575578377",
+        "cites_id": [
+            "14376392469575578377"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FITNESS, a CCT domain\u2010containing protein, deregulates reactive oxygen species levels and leads to fine\u2010tuning trade\u2010offs between reproductive success and defence responses in \u2026",
+            "pub_year": "2018",
+            "citation": "Plant, cell & environment 41 (10), 2328-2341, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:yRRszJvrVdAC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13649889081685333635",
+        "cites_id": [
+            "13649889081685333635"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rhythmic behavior is controlled by the srm160 splicing factor in drosophila melanogaster",
+            "pub_year": "2017",
+            "citation": "Genetics 207 (2), 593-607, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:2hrGa7H818QC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2933377430958873557",
+        "cites_id": [
+            "2933377430958873557"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CP3 is involved in negative regulation of phytochrome A signalling in Arabidopsis",
+            "pub_year": "2002",
+            "citation": "Planta 215 (4), 557-564, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14765618665332294654",
+        "cites_id": [
+            "14765618665332294654"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Current status of the multinational Arabidopsis community",
+            "pub_year": "2020",
+            "citation": "Plant Direct 4 (7), e00248, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:7uOkfv6XYJ4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14584730872618608372",
+        "cites_id": [
+            "14584730872618608372"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Blue Rhythms Between GIGANTEA and Phytochromes",
+            "pub_year": "2007",
+            "citation": "Plant signaling & behavior 2 (6), 530-532, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:mB3voiENLucC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13559517691173965263",
+        "cites_id": [
+            "13559517691173965263"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The 5\u02b9-3\u02b9 mRNA Decay Pathway Modulates the Plant Circadian Network in Arabidopsis",
+            "pub_year": "2022",
+            "citation": "Plant and Cell Physiology 63 (11), 1709-1719, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:9mnZQYLiiboC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3620310868795061907",
+        "cites_id": [
+            "3620310868795061907"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Corrigendum to: ASpli: Integrative analysis of splicing landscapes through RNA-Seq assays",
+            "pub_year": "2021",
+            "citation": "Bioinformatics, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:t7izwRedFcYC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4440112433866363954",
+        "cites_id": [
+            "4440112433866363954"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AtCBF1 Overexpression Confers Tolerance to High Light Conditions at Warm Temperatures in Potato Plants",
+            "pub_year": "2015",
+            "citation": "American Journal of Potato Research 92 (6), 619-635, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:LiF7i2gyBHwC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10520618196648523429",
+        "cites_id": [
+            "10520618196648523429"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COLD REGULATED GENE 27 and 28 antagonize the transcriptional activity of the RVE8/LNK1/LNK2 circadian complex",
+            "pub_year": "2023",
+            "citation": "Plant Physiology, kiad210, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:V8JMcbNWlSUC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5199126431553919231",
+        "cites_id": [
+            "5199126431553919231"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PICLN modulates alternative splicing and light/temperature responses in plants",
+            "pub_year": "2022",
+            "citation": "Plant Physiology, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:csTP5AdqY_wC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17103076496681915893",
+        "cites_id": [
+            "17103076496681915893"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How plants see",
+            "pub_year": "2004",
+            "citation": "Natural history 113 (7), 32-37, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:hC7cP41nSMkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17903999342113910107",
+        "cites_id": [
+            "17903999342113910107"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A large deletion within the clock gene LNK2 contributed to the spread of tomato cultivation from Central America to Europe",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (27), 6888-6890, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:8EvVLpklxGMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12784894157489944172",
+        "cites_id": [
+            "12784894157489944172"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The sun doesn't shine equally on everyone",
+            "pub_year": "2016",
+            "citation": "Wiley, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:YIdQ7BAI8VoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1527627983569975342",
+        "cites_id": [
+            "1527627983569975342"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role of Phytochromes in Red Light-Regulated Alternative Splicing in Arabidopsis thaliana: Impactful but Not Indispensable",
+            "pub_year": "2023",
+            "citation": "Cells 12 (20), 2447, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:_cFkbNEifk0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conserved and divergent signals in 5\u2019splice site sequences across fungi, metazoa and plants",
+            "pub_year": "2023",
+            "citation": "PLOS Computational Biology 19 (10), e1011540, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:tJ_1M1FLfZ0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MsTFL1A delays flowering and regulates shoot architecture and root development in Medicago sativa",
+            "pub_year": "2023",
+            "citation": "Plant Reproduction, 1-14, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:InLRhUNj-rwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mining conserved and divergent signals in 5\u2019splicing site sequences",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:D_YRMw8gybsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transmisi\u00f3n\" intergeneracional\"(ag\u00e1mica) de la tolerancia al estr\u00e9s h\u00eddrico en Solanum tuberosum cv. Achat",
+            "pub_year": "2018",
+            "citation": "INTA Ediciones, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:Qs68GpkTGbMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lnk transgenic plants",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:K1AqHrCRkPsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Seeing red-Reply",
+            "pub_year": "2004",
+            "citation": "NATURAL HISTORY 113 (9), 13-13, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:IWHjjKOFINEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control del crecimiento y desarrollo de las plantas por la luz: Funciones fotoperceptivas y mecanismos de acci\u00f3n del fitocromo A",
+            "pub_year": "1999",
+            "citation": "Facultad de Ciencias Exactas y Naturales. Universidad de Buenos Aires, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "xc3ju04AAAAJ:BzPC9jo9PWgC",
+        "num_citations": 0
+    }
+]

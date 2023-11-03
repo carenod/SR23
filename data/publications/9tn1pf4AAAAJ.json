@@ -1,0 +1,753 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Topological domains in mammalian genomes identified by analysis of chromatin interactions",
+            "pub_year": "2012",
+            "citation": "Nature 485 (7398), 376-380, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 6401,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3528941051986092404,17687150074058031853",
+        "cites_id": [
+            "3528941051986092404",
+            "17687150074058031853"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrative analysis of 111 reference human epigenomes",
+            "pub_year": "2015",
+            "citation": "Nature 518 (7539), 317-330, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 5579,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11708241658422110543,17213695807246352848,2869853020706981174",
+        "cites_id": [
+            "11708241658422110543",
+            "17213695807246352848",
+            "2869853020706981174"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromatin architecture reorganization during stem cell differentiation",
+            "pub_year": "2015",
+            "citation": "Nature 518 (7539), 331-336, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 1581,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8890493030402839114",
+        "cites_id": [
+            "8890493030402839114"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A map of the cis-regulatory sequences in the mouse genome",
+            "pub_year": "2012",
+            "citation": "Nature 488 (7409), 116-120, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1488,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2548125686021677362",
+        "cites_id": [
+            "2548125686021677362"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high-resolution map of the three-dimensional chromatin interactome in human cells",
+            "pub_year": "2013",
+            "citation": "Nature 503 (7475), 290-294, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 1322,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8741344372296090807,9168547781783961282",
+        "cites_id": [
+            "8741344372296090807",
+            "9168547781783961282"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cohesin and CTCF differentially affect chromatin architecture and gene expression in human cells",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (3), 996-1001, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 839,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2035018199115669067",
+        "cites_id": [
+            "2035018199115669067"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromatin domains: the unit of chromosome organization",
+            "pub_year": "2016",
+            "citation": "Molecular cell 62 (5), 668-680, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:UebtZRa9Y70C",
+        "num_citations": 744,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10143807770075181471",
+        "cites_id": [
+            "10143807770075181471"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Allelic reprogramming of 3D chromatin architecture during early mammalian development",
+            "pub_year": "2017",
+            "citation": "Nature 547 (7662), 232-235, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 394,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11806920490091996917",
+        "cites_id": [
+            "11806920490091996917"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole-genome haplotype reconstruction using proximity-ligation and shotgun sequencing",
+            "pub_year": "2013",
+            "citation": "Nature biotechnology 31 (12), 1111-1118, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 320,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1072446159954043435",
+        "cites_id": [
+            "1072446159954043435"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrative detection and analysis of structural variation in cancer genomes",
+            "pub_year": "2018",
+            "citation": "Nature genetics 50 (10), 1388-1398, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 285,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15779133763820098826,11456016864183810908",
+        "cites_id": [
+            "15779133763820098826",
+            "11456016864183810908"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bcl-6 and NF-\u03baB cistromes mediate opposing regulation of the innate immune response",
+            "pub_year": "2010",
+            "citation": "Genes & development 24 (24), 2760-2765, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:qjMakFHDy7sC",
+        "num_citations": 269,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7019442055494874513",
+        "cites_id": [
+            "7019442055494874513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian inference of spatial organizations of chromosomes",
+            "pub_year": "2013",
+            "citation": "PLoS computational biology 9 (1), e1002893, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 240,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11492364193636114212",
+        "cites_id": [
+            "11492364193636114212"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoter-proximal CTCF binding promotes distal enhancer-dependent gene activation",
+            "pub_year": "2021",
+            "citation": "Nature structural & molecular biology 28 (2), 152-161, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:NMxIlDl6LWMC",
+        "num_citations": 196,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10303043821488635310,15631200056058414972,4096703796623316690",
+        "cites_id": [
+            "10303043821488635310",
+            "15631200056058414972",
+            "4096703796623316690"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CRISPR reveals a distal super-enhancer required for Sox2 expression in mouse embryonic stem cells",
+            "pub_year": "2014",
+            "citation": "PloS one 9 (12), e114485, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 186,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2073649268914863255",
+        "cites_id": [
+            "2073649268914863255"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simultaneous profiling of 3D genome structure and DNA methylation in single human cells",
+            "pub_year": "2019",
+            "citation": "Nature methods 16 (10), 999-1006, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:-f6ydRqryjwC",
+        "num_citations": 181,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13634178156848606617,985274449012046039",
+        "cites_id": [
+            "13634178156848606617",
+            "985274449012046039"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer",
+            "pub_year": "2020",
+            "citation": "Nature genetics 52 (3), 294-305, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 176,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6159612374542740384",
+        "cites_id": [
+            "6159612374542740384"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Involvement of a mitochondrial phosphatase in the regulation of ATP production and insulin secretion in pancreatic \u03b2 cells",
+            "pub_year": "2005",
+            "citation": "Molecular cell 19 (2), 197-207, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 164,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16795267362161779100",
+        "cites_id": [
+            "16795267362161779100"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A non-canonical BRD9-containing BAF chromatin remodeling complex regulates naive pluripotency in mouse embryonic stem cells",
+            "pub_year": "2018",
+            "citation": "Nature communications 9 (1), 5139, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:aqlVkmm33-oC",
+        "num_citations": 147,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1108545191817068303",
+        "cites_id": [
+            "1108545191817068303"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping cis-regulatory chromatin contacts in neural cells links neuropsychiatric disorder risk variants to target genes",
+            "pub_year": "2019",
+            "citation": "Nature genetics 51 (8), 1252-1262, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:hC7cP41nSMkC",
+        "num_citations": 141,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7056896731562379099,1567542222431596447",
+        "cites_id": [
+            "7056896731562379099",
+            "1567542222431596447"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new class of temporarily phenotypic enhancers identified by CRISPR/Cas9-mediated genetic screening",
+            "pub_year": "2016",
+            "citation": "Genome research 26 (3), 397-405, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:roLk4NBRz8UC",
+        "num_citations": 136,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15563619645618846480",
+        "cites_id": [
+            "15563619645618846480"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation atlas of the mouse brain at single-cell resolution",
+            "pub_year": "2021",
+            "citation": "Nature 598 (7879), 120-128, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11977031764162723543",
+        "cites_id": [
+            "11977031764162723543"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust single-cell Hi-C clustering by convolution-and random-walk\u2013based imputation",
+            "pub_year": "2019",
+            "citation": "Proceedings of the National Academy of Sciences 116 (28), 14011-14018, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 95,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8400566285376548992,17130720766701657665",
+        "cites_id": [
+            "8400566285376548992",
+            "17130720766701657665"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Somatic mutation distributions in cancer genomes vary with three-dimensional chromatin structure",
+            "pub_year": "2020",
+            "citation": "Nature genetics 52 (11), 1178-1188, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16867603723695287062,1527944707334387552",
+        "cites_id": [
+            "16867603723695287062",
+            "1527944707334387552"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tissue-specific SMARCA4 binding at active and repressed regulatory elements during embryogenesis",
+            "pub_year": "2014",
+            "citation": "Genome research 24 (6), 920-929, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9775002777242370782",
+        "cites_id": [
+            "9775002777242370782"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single nucleus multi-omics identifies human cortical cell regulatory genome diversity",
+            "pub_year": "2022",
+            "citation": "Cell genomics 2 (3), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:O3NaXMp0MMsC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=459530813453196347,1024041199897052260",
+        "cites_id": [
+            "459530813453196347",
+            "1024041199897052260"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic regulation of histone modifications and long-range chromosomal interactions during postmitotic transcriptional reactivation",
+            "pub_year": "2020",
+            "citation": "Genes & Development 34 (13-14), 913-930, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:TFP_iSt0sucC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4859813530768471223",
+        "cites_id": [
+            "4859813530768471223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Incorporation of a nucleoside analog maps genome repair sites in postmitotic human neurons",
+            "pub_year": "2021",
+            "citation": "Science 372 (6537), 91-94, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:r0BpntZqJG4C",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10294546158822509692",
+        "cites_id": [
+            "10294546158822509692"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparing 3D genome organization in multiple species using Phylo-HMRF",
+            "pub_year": "2019",
+            "citation": "Cell systems 8 (6), 494-505. e14, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1046689475977745165",
+        "cites_id": [
+            "1046689475977745165"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complete haplotype phasing of the MHC and KIR loci with targeted HaploSeq",
+            "pub_year": "2015",
+            "citation": "BMC genomics 16, 1-7, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3046436300544129955",
+        "cites_id": [
+            "3046436300544129955"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural variants drive context-dependent oncogene activation in cancer",
+            "pub_year": "2022",
+            "citation": "Nature 612 (7940), 564-572, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:70eg2SAEIzsC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6399271888152771312",
+        "cites_id": [
+            "6399271888152771312"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Acute myeloid leukemia driven by the CALM-AF10 fusion gene is dependent on BMI1",
+            "pub_year": "2019",
+            "citation": "Experimental hematology 74, 42-51. e3, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:dhFuZR0502QC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8116430291191483923",
+        "cites_id": [
+            "8116430291191483923"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coming full circle: On the origin and evolution of the looping model for enhancer\u2013promoter communication",
+            "pub_year": "2022",
+            "citation": "Journal of Biological Chemistry 298 (8), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:RGFaLdJalmkC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4433508585114604608",
+        "cites_id": [
+            "4433508585114604608"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome reconstruction and haplotype phasing using chromosome conformation capture methodologies",
+            "pub_year": "2020",
+            "citation": "Briefings in Functional Genomics 19 (2), 139-150, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4205372019692857651",
+        "cites_id": [
+            "4205372019692857651"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A CRISPR connection between chromatin topology and genetic disorders",
+            "pub_year": "2015",
+            "citation": "Cell 161 (5), 955-957, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:ufrVoPGSRksC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11164083828195060459",
+        "cites_id": [
+            "11164083828195060459"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The landscape of extrachromosomal circular DNA in medulloblastoma",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.10. 18.464907, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:GnPB-g6toBAC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17450752952824335862",
+        "cites_id": [
+            "17450752952824335862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of Hi-C data for discovery of structural variations in cancer",
+            "pub_year": "2022",
+            "citation": "Hi-C Data Analysis: Methods and Protocols, 143-161, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:BqipwSGYUEgC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7575612532451405754",
+        "cites_id": [
+            "7575612532451405754"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D genome mapping identifies subgroup-specific chromosome conformations and tumor-dependency genes in ependymoma",
+            "pub_year": "2023",
+            "citation": "Nature Communications 14 (1), 2300, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:pqnbT2bcN3wC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=749632665024085928",
+        "cites_id": [
+            "749632665024085928"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomic and chromosomal architectural reconfiguration in developing human frontal cortex and hippocampus",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.10. 07.511350, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:vV6vV6tmYwMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2333831767889712975",
+        "cites_id": [
+            "2333831767889712975"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deciphering the Evolutionary History of Complex Rearrangements in Head and Neck Cancer Patients Using Multi-Omic Approach",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.08. 19.504509, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:lSLTfruPkqcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7065482764327582814",
+        "cites_id": [
+            "7065482764327582814"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole-genome and targeted haplotype reconstruction",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16086808048856448204,4689915628362080156,13343987625223376919,10689724703851318048",
+        "cites_id": [
+            "16086808048856448204",
+            "4689915628362080156",
+            "13343987625223376919",
+            "10689724703851318048"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Author Correction: Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer",
+            "pub_year": "2023",
+            "citation": "nature genetics 55 (6), 1079-1079, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:M05iB0D1s5AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Foxp3 Orchestrates Reorganization of Chromatin Architecture to Establish Regulatory T Cell Identity",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.02. 22.529589, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:ldfaerwXgEUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Activation of HIV-1 proviruses increases downstream chromatin accessibility",
+            "pub_year": "2022",
+            "citation": "Iscience 25 (12), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:35N4QoGY0k4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EPEN-18. Oncogenic 3D genome conformations identify novel therapeutic targets in ependymoma",
+            "pub_year": "2022",
+            "citation": "Neuro-Oncology 24 (Supplement_1), i42-i42, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:blknAaTinKkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell DNA Methylome and 3D Multi-omic Atlas of the Adult Mouse Brain",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:g5m5HwL7SMYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "TADs for Life: Chromatin Domain Organization Regulates Lifespan in C. elegans",
+            "pub_year": "2019",
+            "citation": "Developmental Cell 51 (2), 131-132, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:mB3voiENLucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Higher Order Chromatin Architecture in Mammalian Genomes",
+            "pub_year": "2013",
+            "citation": "University of California, San Diego, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene Expression Changes in Yeast Lacking Regulatory Elements of Protein Phosphatase 2A.",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "9tn1pf4AAAAJ:RYcK_YlVTxYC",
+        "num_citations": 0
+    }
+]

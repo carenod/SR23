@@ -1,0 +1,1043 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Closing the circadian loop: CLOCK-induced transcription of its own inhibitors per and tim",
+            "pub_year": "1998",
+            "citation": "Science 280 (5369), 1599-1603, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1051,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9393550563241527416",
+        "cites_id": [
+            "9393550563241527416"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light-dependent sequestration of TIMELESS by CRYPTOCHROME",
+            "pub_year": "1999",
+            "citation": "Science 285 (5427), 553-556, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 662,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11331746573329445142",
+        "cites_id": [
+            "11331746573329445142"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-Wide Expression Analysis in DrosophilaReveals Genes Controlling Circadian Behavior",
+            "pub_year": "2002",
+            "citation": "Journal of Neuroscience 22 (21), 9305-9319, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 437,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7062312339568978786,11080039701772876358",
+        "cites_id": [
+            "7062312339568978786",
+            "11080039701772876358"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A methyl transferase links the circadian clock to the regulation of alternative splicing",
+            "pub_year": "2010",
+            "citation": "Nature 468 (7320), 112-116, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 317,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7659190408478976468",
+        "cites_id": [
+            "7659190408478976468"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Drosophila circadian network is a seasonal timer",
+            "pub_year": "2007",
+            "citation": "Cell 129 (1), 207-219, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 271,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15285601479641226845",
+        "cites_id": [
+            "15285601479641226845"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Guidelines for genome-scale analysis of biological rhythms",
+            "pub_year": "2017",
+            "citation": "Journal of biological rhythms 32 (5), 380-393, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:TFP_iSt0sucC",
+        "num_citations": 203,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8842696442350915946",
+        "cites_id": [
+            "8842696442350915946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian remodeling of neuronal circuits involved in rhythmic behavior",
+            "pub_year": "2008",
+            "citation": "PLoS biology 6 (3), e69, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:qjMakFHDy7sC",
+        "num_citations": 202,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16059114331676766611",
+        "cites_id": [
+            "16059114331676766611"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adult-specific electrical silencing of pacemaker neurons uncouples molecular clock from circadian outputs",
+            "pub_year": "2011",
+            "citation": "Current Biology 21 (21), 1783-1793, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2075673963036785046",
+        "cites_id": [
+            "2075673963036785046"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian pacemaker neurons change synaptic contacts across the day",
+            "pub_year": "2014",
+            "citation": "Current Biology 24 (18), 2161-2167, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3203506323242188902",
+        "cites_id": [
+            "3203506323242188902"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Organization of circadian behavior relies on glycinergic transmission",
+            "pub_year": "2017",
+            "citation": "Cell reports 19 (1), 72-85, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:RHpTSmoSYBkC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12401104620927253811",
+        "cites_id": [
+            "12401104620927253811"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neuronal death in Drosophila triggered by GAL4 accumulation",
+            "pub_year": "2007",
+            "citation": "European journal of neuroscience 25 (3), 683-694, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 72,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11467906906210098625",
+        "cites_id": [
+            "11467906906210098625"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DLGS97/SAP97 is developmentally upregulated and is required for complex adult behaviors and synapse morphology and function",
+            "pub_year": "2008",
+            "citation": "Journal of Neuroscience 28 (1), 304-314, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12099285702462994948",
+        "cites_id": [
+            "12099285702462994948"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impaired clock output by altered connectivity in the circadian network",
+            "pub_year": "2007",
+            "citation": "Proceedings of the National Academy of Sciences 104 (13), 5650-5655, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3833102786419241408",
+        "cites_id": [
+            "3833102786419241408"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cotyledons: an explant for routine regeneration of sunflower plants",
+            "pub_year": "1992",
+            "citation": "Plant and cell physiology 33 (2), 157-164, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17903545201273060422",
+        "cites_id": [
+            "17903545201273060422"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The circadian system: plasticity at many levels",
+            "pub_year": "2013",
+            "citation": "Neuroscience 247, 280-293, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3911830091287401213",
+        "cites_id": [
+            "3911830091287401213"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mmp1 processing of the PDF neuropeptide regulates circadian structural plasticity of pacemaker neurons",
+            "pub_year": "2014",
+            "citation": "PLoS genetics 10 (10), e1004700, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11053417255072345823",
+        "cites_id": [
+            "11053417255072345823"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Acetylcholine from visual circuits modulates the activity of arousal neurons in Drosophila",
+            "pub_year": "2015",
+            "citation": "Journal of Neuroscience 35 (50), 16315-16327, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:HDshCWvjkbEC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7390835954290039339",
+        "cites_id": [
+            "7390835954290039339"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Communication between circadian clusters: The key to a plastic network",
+            "pub_year": "2015",
+            "citation": "FEBS letters 589 (22), 3336-3342, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15331464366308403699",
+        "cites_id": [
+            "15331464366308403699"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extreme resistance to infection by potato virus X in genotypes of wild tuber-bearingSolanum species",
+            "pub_year": "1991",
+            "citation": "Potato research 34, 317-324, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14466145144177301508",
+        "cites_id": [
+            "14466145144177301508"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian plasticity: from structure to behavior",
+            "pub_year": "2011",
+            "citation": "International review of neurobiology 99, 107-138, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12689731430979169184",
+        "cites_id": [
+            "12689731430979169184"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Functional Misexpression Screen Uncovers a Role for Enabled in Progressive Neurodegeneration",
+            "pub_year": "2008",
+            "citation": "PLoS One 3 (10), e3332, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12434553345252721399",
+        "cites_id": [
+            "12434553345252721399"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian period integrates network information through activation of the BMP signaling pathway",
+            "pub_year": "2013",
+            "citation": "PLoS biology 11 (12), e1001733, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:5nxA0vEk-isC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9934343731106696400",
+        "cites_id": [
+            "9934343731106696400"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Experimental assessment of the network properties of the Drosophila circadian clock",
+            "pub_year": "2015",
+            "citation": "Journal of Comparative Neurology 523 (6), 982-996, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:qUcmZB5y_30C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8165129300561480640",
+        "cites_id": [
+            "8165129300561480640"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coupling neuropeptide levels to structural plasticity in Drosophila clock neurons",
+            "pub_year": "2020",
+            "citation": "Current Biology 30 (16), 3154-3166. e4, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:vV6vV6tmYwMC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5916423836650288797",
+        "cites_id": [
+            "5916423836650288797"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simultaneous accumulation of multiple viral coat proteins from a TEV-NIa based expression vector",
+            "pub_year": "1998",
+            "citation": "Plant molecular biology 36, 239-248, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:_kc_bZDykSQC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2772531722084849217",
+        "cites_id": [
+            "2772531722084849217"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PVX MS, a New Strain of Potato Virus that Overcomes the Extreme Resistance Gene Rx",
+            "pub_year": "1994",
+            "citation": "Journal of Phytopathology 141 (3), 241-248, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7147405802854092891",
+        "cites_id": [
+            "7147405802854092891"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development and application of a nonradioactive nucleic acid hybridization system for simultaneous detection of four potato pathogens",
+            "pub_year": "1991",
+            "citation": "Journal of virological methods 31 (1), 11-29, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:4TOpqqG69KYC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8261131572828657163",
+        "cites_id": [
+            "8261131572828657163"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Underlying Genetics of Drosophila Circadian Behaviors",
+            "pub_year": "2018",
+            "citation": "Physiology 33 (1), 50-62, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:maZDTaKrznsC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=380976528005113780",
+        "cites_id": [
+            "380976528005113780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neuronal and Glial Clocks Underlying Structural Remodeling of Pacemaker Neurons in Drosophila",
+            "pub_year": "2017",
+            "citation": "Frontiers in physiology 8, 918, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:isC4tDSrTZIC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6270302464191773108",
+        "cites_id": [
+            "6270302464191773108"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Amyloid peptides ABri and ADan show differential neurotoxicity in transgenic Drosophila models of familial British and Danish dementia",
+            "pub_year": "2014",
+            "citation": "Molecular neurodegeneration 9, 1-14, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:UebtZRa9Y70C",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1739218409230459464",
+        "cites_id": [
+            "1739218409230459464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retrograde bone morphogenetic protein signaling shapes a key circadian pacemaker circuit",
+            "pub_year": "2013",
+            "citation": "Journal of Neuroscience 33 (2), 687-696, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:WF5omc3nYNoC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11222356687230059543",
+        "cites_id": [
+            "11222356687230059543"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Potato Gene Xi Confers Inoculum Dependent Resistance to Potato Virus X Replication in Protoplasts",
+            "pub_year": "1990",
+            "citation": "Plant and cell physiology 31 (6), 749-755, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:M3ejUd6NZC8C",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12313391464012956258",
+        "cites_id": [
+            "12313391464012956258"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian structural plasticity drives remodeling of E cell output",
+            "pub_year": "2020",
+            "citation": "Current Biology 30 (24), 5040-5048. e5, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:70eg2SAEIzsC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=68836689154450637",
+        "cites_id": [
+            "68836689154450637"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "M6 membrane protein plays an essential role in Drosophila oogenesis",
+            "pub_year": "2011",
+            "citation": "PloS one 6 (5), e19715, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:Se3iqnhoufwC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11290612415842389187",
+        "cites_id": [
+            "11290612415842389187"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A role for the membrane protein M6 in the Drosophila visual system",
+            "pub_year": "2012",
+            "citation": "BMC neuroscience 13 (1), 1-16, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12505889963162122648",
+        "cites_id": [
+            "12505889963162122648"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ENA/VASP downregulation triggers cell death by impairing axonal maintenance in hippocampal neurons",
+            "pub_year": "2010",
+            "citation": "Molecular and Cellular Neuroscience 44 (2), 154-164, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5676962464698729987",
+        "cites_id": [
+            "5676962464698729987"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The axon\u2010guidance roundabout gene alters the pace of the Drosophila circadian clock",
+            "pub_year": "2008",
+            "citation": "European Journal of Neuroscience 27 (2), 396-407, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5899570256310469172",
+        "cites_id": [
+            "5899570256310469172"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Novel Genetic Screen Identifies Modifiers of Age-Dependent Amyloid \u03b2 Toxicity in the Drosophila Brain",
+            "pub_year": "2017",
+            "citation": "Frontiers in aging neuroscience 9, 61, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11305751806915874832",
+        "cites_id": [
+            "11305751806915874832"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Basic Protocols for Drosophila S2 Cell Line: Maintenance and Transfection",
+            "pub_year": "2007",
+            "citation": "Circadian Rhythms: Methods and Protocols, 415-422, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14203012301258388879",
+        "cites_id": [
+            "14203012301258388879"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-frequency neuronal bursting is essential for circadian and sleep behaviors in Drosophila",
+            "pub_year": "2021",
+            "citation": "Journal of Neuroscience 41 (4), 689-710, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:RYcK_YlVTxYC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=218715196964688581",
+        "cites_id": [
+            "218715196964688581"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rhythmic Behavior Is Controlled by the SRm160 Splicing Factor in Drosophila melanogaster",
+            "pub_year": "2017",
+            "citation": "Genetics 207 (2), 593-607, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:iH-uZ7U-co4C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2933377430958873557",
+        "cites_id": [
+            "2933377430958873557"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Communication among photoreceptors and the central clock affects sleep profile",
+            "pub_year": "2020",
+            "citation": "Frontiers in Physiology 11, 993, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:35N4QoGY0k4C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3765030629027142524",
+        "cites_id": [
+            "3765030629027142524"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contribution of non-circadian neurons to the temporal organization of locomotor activity",
+            "pub_year": "2019",
+            "citation": "Biology Open 8 (1), bio039628, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:ns9cj8rnVeAC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10367068145011334659",
+        "cites_id": [
+            "10367068145011334659"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional conservation of clock output signaling between flies and intertidal crabs",
+            "pub_year": "2011",
+            "citation": "Journal of Biological Rhythms 26 (6), 518-529, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:ufrVoPGSRksC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15494800867658870809",
+        "cites_id": [
+            "15494800867658870809"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decapentaplegic acutely defines the connectivity of central pacemaker neurons in drosophila",
+            "pub_year": "2021",
+            "citation": "Journal of Neuroscience 41 (40), 8338-8350, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:2P1L_qKh6hAC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11119845735916230853",
+        "cites_id": [
+            "11119845735916230853"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Screening assay to identify modulators of the sleep/wake cycle",
+            "pub_year": "2008",
+            "citation": "US Patent 7,427,489, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:0EnyYjriUFMC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4209855910692463678,4041527907281817594",
+        "cites_id": [
+            "4209855910692463678",
+            "4041527907281817594"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coimmunoprecipitation on Drosophila Cells in Culture",
+            "pub_year": "2007",
+            "citation": "Circadian Rhythms: Methods and Protocols, 423-427, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=647243611274091668",
+        "cites_id": [
+            "647243611274091668"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian rhythms",
+            "pub_year": "2014",
+            "citation": "Behavioral Genetics of the Fly (Drosophila Melanogaster), 104-115, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1929591826420456891",
+        "cites_id": [
+            "1929591826420456891"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resistance to replication of PVX in protoplasts of a Solanum acaule clone",
+            "pub_year": "1990",
+            "citation": "Proceedings Meeting of the International Foundation for Science and Plant \u2026, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:dhFuZR0502QC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15982687324109282027",
+        "cites_id": [
+            "15982687324109282027"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "de1 Vas, M. and Mentaberry, AN (1991) Development and application of nonradioactive nucleic acid hybridization system for simultaneous detection of four potato pathogens",
+            "citation": "J. Virol. Methods 31, 11-30, 0"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:aqlVkmm33-oC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17663183362628574600",
+        "cites_id": [
+            "17663183362628574600"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mating disrupts morning anticipation in Drosophila melanogaster females",
+            "pub_year": "2022",
+            "citation": "PLoS Genetics 18 (12), e1010258, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:g5m5HwL7SMYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3353487611964531200",
+        "cites_id": [
+            "3353487611964531200"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "orsai, the Drosophila homolog of human ETFRF1, links lipid catabolism to growth control",
+            "pub_year": "2022",
+            "citation": "BMC biology 20 (1), 1-25, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:ZHo1McVdvXMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6111338656060334549",
+        "cites_id": [
+            "6111338656060334549"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drosophila melanogaster, un vers\u00e1til organismo modelo",
+            "pub_year": "2017",
+            "citation": "Asociaci\u00f3n Civil Ciencia Hoy, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:RGFaLdJalmkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15881235462742761376",
+        "cites_id": [
+            "15881235462742761376"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reporter assays",
+            "pub_year": "2007",
+            "citation": "Circadian Rhythms: Methods and Protocols, 455-463, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:roLk4NBRz8UC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3591533701850165935",
+        "cites_id": [
+            "3591533701850165935"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Organismal landscape of clock cells and circadian gene expression in Drosophila",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:3s1wT3WcHBgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dorsal clock neurons claw their way out to control sleep in Drosophila",
+            "pub_year": "2022",
+            "citation": "Neuron 110 (13), 2044-2046, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:pqnbT2bcN3wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mi Reloj Interno (My endogenous clock): an evidence-based mobile-app to improve sleep and circadian rhythms",
+            "pub_year": "2022",
+            "citation": "Sleep Medicine, S50-S50, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:SeFeTyx0c_EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High-frequency neuronal bursting is essential for circadian and sleep behaviors in drosophila",
+            "pub_year": "2021",
+            "citation": "Society for Neuroscience, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:ldfaerwXgEUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GENETICS, Vol. 207, October 2017, Copyright\u00a9 2017",
+            "pub_year": "2017",
+            "citation": "Genetics 207, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential neurotoxicity caused by mild overexpression of amyloid peptides associated with human dementias in Drosophila",
+            "pub_year": "2013",
+            "citation": "JOURNAL OF NEUROCHEMISTRY 125, 249-249, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:hMod-77fHWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method for the identification of genes involved in neurodegenerative processes",
+            "pub_year": "2011",
+            "citation": "US Patent App. 13/060,211, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hindsight regulates neuronal morphogenesis in the postembryonic nervous system",
+            "pub_year": "2009",
+            "citation": "JOURNAL OF NEUROGENETICS 23, S56-S56, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:IWHjjKOFINEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Selected topics from the Latin American Symposium on Chronobiology 2005-Guest editorial",
+            "pub_year": "2006",
+            "citation": "BIOLOGICAL RHYTHM RESEARCH 37 (5), 391-391, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estrategias moleculares para la expresi\u00f3n combinada de genes en plantas transg\u00e9nicas",
+            "pub_year": "1996",
+            "citation": "Universidad de Buenos Aires. Facultad de Ciencias Exactas y Naturales, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cotyledons: An explant for routine regeneration of sunflower [Helianthus annuus] plants",
+            "pub_year": "1992",
+            "citation": "Plant and Cell Physiology (Japan), 1992"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian Structural Plasticity Drives a Timed Switch in the Hierarchy Among Key Pacemaker Neurons",
+            "citation": "Available at SSRN 3573220, 0"
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:J_g5lzvAfSwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "by CRYPTOCHROME",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:NaGl4SEjCO4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplementary Online Material",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplemental Data The Drosophila Circadian Network Is a Seasonal Timer",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "KgHsXQ4AAAAJ:mB3voiENLucC",
+        "num_citations": 0
+    }
+]

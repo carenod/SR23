@@ -1,0 +1,697 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A circadian gene expression atlas in mammals: implications for biology and medicine",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (45), 16219-16224, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 1898,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4704895136993066722",
+        "cites_id": [
+            "4704895136993066722"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "JTK_CYCLE: an efficient nonparametric algorithm for detecting rhythmic components in genome-scale data sets",
+            "pub_year": "2010",
+            "citation": "Journal of biological rhythms 25 (5), 372-380, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 939,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18366146490523394233",
+        "cites_id": [
+            "18366146490523394233"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Extensive diversity of Ig-superfamily proteins in the immune system of insects",
+            "pub_year": "2005",
+            "citation": "Science 309 (5742), 1874-1878, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 743,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3876679603373257768",
+        "cites_id": [
+            "3876679603373257768"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Harmonics of circadian gene transcription in mammals",
+            "pub_year": "2009",
+            "citation": "PLoS genetics 5 (4), e1000442, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 696,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6818336597108593140",
+        "cites_id": [
+            "6818336597108593140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MetaCycle: an integrated R package to evaluate periodicity in large scale data",
+            "pub_year": "2016",
+            "citation": "Bioinformatics 32 (21), 3351-3353, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:_kc_bZDykSQC",
+        "num_citations": 357,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11110547842417852862",
+        "cites_id": [
+            "11110547842417852862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Homophilic Dscam interactions control complex dendrite morphogenesis",
+            "pub_year": "2007",
+            "citation": "Neuron 54 (3), 417-427, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 293,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7014012720311698602",
+        "cites_id": [
+            "7014012720311698602"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Guidelines for genome-scale analysis of biological rhythms",
+            "pub_year": "2017",
+            "citation": "Journal of biological rhythms 32 (5), 380-393, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:4DMP91E08xMC",
+        "num_citations": 199,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8842696442350915946",
+        "cites_id": [
+            "8842696442350915946"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "O-GlcNAc signaling entrains the circadian clock by inhibiting BMAL1/CLOCK ubiquitination",
+            "pub_year": "2013",
+            "citation": "Cell metabolism 17 (2), 303-310, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 192,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2957054825377865002",
+        "cites_id": [
+            "2957054825377865002"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Calcitonin gene-related peptide neurons mediate sleep-specific circadian output in Drosophila",
+            "pub_year": "2014",
+            "citation": "Current Biology 24 (22), 2652-2664, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:0EnyYjriUFMC",
+        "num_citations": 181,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15277371430315716643",
+        "cites_id": [
+            "15277371430315716643"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deep sequencing the circadian and diurnal transcriptome of Drosophila brain",
+            "pub_year": "2012",
+            "citation": "Genome research 22 (7), 1266-1281, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 181,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10107301610612746349",
+        "cites_id": [
+            "10107301610612746349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian expression of clock genes in mouse macrophages, dendritic cells, and B cells",
+            "pub_year": "2012",
+            "citation": "Brain, behavior, and immunity 26 (3), 407-413, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 172,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6511853379923909720",
+        "cites_id": [
+            "6511853379923909720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The circadian clock interacts with metabolic physiology to influence reproductive fitness",
+            "pub_year": "2011",
+            "citation": "Cell metabolism 13 (6), 639-654, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 159,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16613729735422464859",
+        "cites_id": [
+            "16613729735422464859"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Machine learning helps identify CHRONO as a circadian clock component",
+            "pub_year": "2014",
+            "citation": "PLoS biology 12 (4), e1001840, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:UebtZRa9Y70C",
+        "num_citations": 137,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13548816051375958342",
+        "cites_id": [
+            "13548816051375958342"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Calcineurin negatively regulates TLR-mediated activation pathways",
+            "pub_year": "2007",
+            "citation": "The Journal of Immunology 179 (7), 4598, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5600868351370326913",
+        "cites_id": [
+            "5600868351370326913"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain-Specific Rescue of Clock Reveals System-Driven Transcriptional Rhythms in Peripheral Tissue",
+            "pub_year": "2012",
+            "citation": "PLoS genetics 8 (7), e1002835, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:WF5omc3nYNoC",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11724204903495365371",
+        "cites_id": [
+            "11724204903495365371"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional profiling reveals extraordinary diversity among skeletal muscle tissues",
+            "pub_year": "2018",
+            "citation": "Elife 7, e34613, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5004922227724586852",
+        "cites_id": [
+            "5004922227724586852"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High resolution time course analysis of gene expression from the liver and pituitary",
+            "pub_year": "2007",
+            "citation": "Cold Spring Harbor Symposia on Quantitative Biology 72, 381, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13203358722537311636",
+        "cites_id": [
+            "13203358722537311636"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Considerations for RNA-seq analysis of circadian rhythms",
+            "pub_year": "2015",
+            "citation": "Methods in enzymology 551, 349-367, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:5nxA0vEk-isC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17070403473468920814",
+        "cites_id": [
+            "17070403473468920814"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Age-associated disruption of molecular clock expression in skeletal muscle of the spontaneously hypertensive rat",
+            "pub_year": "2011",
+            "citation": "PloS one 6 (11), e27168, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9626737800588061289",
+        "cites_id": [
+            "9626737800588061289"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tidal and diel orchestration of behaviour and gene expression in an intertidal mollusc",
+            "pub_year": "2018",
+            "citation": "Scientific Reports 8 (1), 4917, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:dhFuZR0502QC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1813423323047810149",
+        "cites_id": [
+            "1813423323047810149"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian rhythms influence the severity of sepsis in mice via a TLR2-dependent, leukocyte-intrinsic mechanism",
+            "pub_year": "2018",
+            "citation": "The Journal of Immunology 201 (1), 193-201, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8905250267832585441",
+        "cites_id": [
+            "8905250267832585441"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Daily oscillations in expression and responsiveness of Toll-like receptors in splenic immune cells",
+            "pub_year": "2018",
+            "citation": "Heliyon 4 (3), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13472544873763082446",
+        "cites_id": [
+            "13472544873763082446"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The daily rhythms of mitochondrial gene expression and oxidative stress regulation are altered by aging in the mouse liver",
+            "pub_year": "2015",
+            "citation": "Chronobiology International 32 (9), 1254-1263, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9605707371037595007",
+        "cites_id": [
+            "9605707371037595007"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network dynamics to evaluate performance of an academic institution",
+            "pub_year": "2010",
+            "citation": "Science translational medicine 2 (53), 53ps49-53ps49, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5810077504256110926",
+        "cites_id": [
+            "5810077504256110926"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The growth and impact of Alzheimer disease centers as measured by social network analysis",
+            "pub_year": "2014",
+            "citation": "JAMA neurology 71 (4), 412-420, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:Se3iqnhoufwC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4413937296881432506",
+        "cites_id": [
+            "4413937296881432506"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Basal epithelial stem cells cross an alarmin checkpoint for postviral lung disease",
+            "pub_year": "2021",
+            "citation": "The Journal of clinical investigation 131 (19), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:k_IJM867U9cC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6183661725523993763",
+        "cites_id": [
+            "6183661725523993763"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Physical activity, and not fat mass is a primary predictor of circadian parameters in young men",
+            "pub_year": "2015",
+            "citation": "Chronobiology International 32 (6), 832-841, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17496753067096206058",
+        "cites_id": [
+            "17496753067096206058"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Achilles is a circadian clock-controlled gene that regulates immune function in Drosophila",
+            "pub_year": "2017",
+            "citation": "Brain, behavior, and immunity 61, 127-136, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:4TOpqqG69KYC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7731934017666148842",
+        "cites_id": [
+            "7731934017666148842"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The network as the target",
+            "pub_year": "2010",
+            "citation": "Wiley Interdisciplinary Reviews: Systems Biology and Medicine 2 (2), 127-133, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:qjMakFHDy7sC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3133344537146031012",
+        "cites_id": [
+            "3133344537146031012"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide studies of time of day in the brain: Design and analysis",
+            "pub_year": "2020",
+            "citation": "Brain Science Advances 6 (2), 92-105, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10312189091347402567",
+        "cites_id": [
+            "10312189091347402567"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ExpressionDB: An open source platform for distributing genome-scale datasets",
+            "pub_year": "2017",
+            "citation": "PloS one 12 (11), e0187457, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15682713558412442495",
+        "cites_id": [
+            "15682713558412442495"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Achilles-Mediated and Sex-Specific Regulation of Circadian mRNA Rhythms in Drosophila",
+            "pub_year": "2019",
+            "citation": "Journal of Biological Rhythms 34 (2), 131-143, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3631951658685936279",
+        "cites_id": [
+            "3631951658685936279"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Preliminary research to develop a low technology aeroponic system for producing clean seed potato in the Philippines",
+            "pub_year": "2013",
+            "citation": "Australian Centre for International Agricultural Research 139, 138-147, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8999407322508780039",
+        "cites_id": [
+            "8999407322508780039"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimization of aeroponic technology for future integration in quality potato seed production systems in tropical environments",
+            "pub_year": "2014",
+            "citation": "XXIX International Horticultural Congress on Horticulture: Sustaining Lives \u2026, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:hMod-77fHWUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14463765316844039512",
+        "cites_id": [
+            "14463765316844039512"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Growing peanuts in Papua New Guinea",
+            "pub_year": "2008",
+            "citation": "ACIAR, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15908623453304371460",
+        "cites_id": [
+            "15908623453304371460"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Clinical Trials Group 381 Study Team Immune reconstitution and predictors of virologic failure in adolescents infected through risk behaviors and initiating HAART: week 60 \u2026",
+            "pub_year": "2006",
+            "citation": "AIDS Res Hum Retroviruses 22 (3), 213-21, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:isC4tDSrTZIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14365898475676836332",
+        "cites_id": [
+            "14365898475676836332"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Pathophysiology of COVID-19 and SARS-CoV-2 Infection: An alternative mechanism for skeletal muscle dysfunction in long-term post-viral lung disease",
+            "pub_year": "2023",
+            "citation": "American Journal of Physiology-Lung Cellular and Molecular Physiology 324 (6 \u2026, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An alternative mechanism for skeletal muscle dysfunction in long-term post-viral lung disease",
+            "pub_year": "2023",
+            "citation": "American Journal of Physiology-Lung Cellular and Molecular Physiology, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:BqipwSGYUEgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An alternative mechanism for skeletal muscle dysfunction in long-term post-viral lung disease (preprint)",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tidal and diel orchestration of behaviour and gene expression in an intertidal mollusc (vol 8, 4917, 2018)",
+            "pub_year": "2019",
+            "citation": "SCIENTIFIC REPORTS 9, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Publisher Correction: Tidal and diel orchestration of behaviour and gene expression in an intertidal mollusc",
+            "pub_year": "2019",
+            "citation": "Scientific reports 9, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Final report C3",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:blknAaTinKkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Starchy Staples Value Chain Review",
+            "pub_year": "2013",
+            "citation": "ACIAR, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A genetic and biochemical analysis of Dscam signaling in dendrite morphogenesis",
+            "pub_year": "2007",
+            "citation": "Harvard University, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Patients' and nurses' views of being well at discharge",
+            "pub_year": "2006",
+            "citation": "Nursing times 102 (40), 34-35, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:GnPB-g6toBAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplemental Figures 1-10, Methods, and Tables 1-2",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "fpD8M5wAAAAJ:maZDTaKrznsC",
+        "num_citations": 0
+    }
+]

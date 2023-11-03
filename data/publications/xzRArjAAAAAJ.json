@@ -1,0 +1,62 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A hitchhiker\u2019s guide to a crowded syconium: how do fig nematodes find the right ride?",
+            "pub_year": "2010",
+            "citation": "Functional Ecology 24 (4), 741-749, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "xzRArjAAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11940873334960551220",
+        "cites_id": [
+            "11940873334960551220"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Different mechanisms for Arabidopsis thaliana hybrid necrosis cases inferred from temperature responses",
+            "pub_year": "2014",
+            "citation": "Plant Biology, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "xzRArjAAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5461059457635703130",
+        "cites_id": [
+            "5461059457635703130"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dose\u2010dependent interactions between two loci trigger altered shoot growth in BG\u20105\u00d7 Krotzenburg\u20100 (Kro\u20100) hybrids of Arabidopsis thaliana",
+            "pub_year": "2017",
+            "citation": "New Phytologist, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "xzRArjAAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9161011399831642962",
+        "cites_id": [
+            "9161011399831642962"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Causes and Consequences of Hybrid Incompatibilities in Arabidopsis Thaliana",
+            "pub_year": "2015",
+            "citation": "Eberhard Karls Universit\u00e4t T\u00fcbingen, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "xzRArjAAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 0
+    }
+]

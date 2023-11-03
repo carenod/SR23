@@ -1,0 +1,3016 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A gene atlas of the mouse and human protein-encoding transcriptomes",
+            "pub_year": "2004",
+            "citation": "Proceedings of the National Academy of Sciences 101 (16), 6062-6067, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 4076,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12001421544952703696",
+        "cites_id": [
+            "12001421544952703696"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Widespread transcription at neuronal activity-regulated enhancers",
+            "pub_year": "2010",
+            "citation": "Nature 465 (7295), 182-187, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:qjMakFHDy7sC",
+        "num_citations": 2508,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=311712409628546552",
+        "cites_id": [
+            "311712409628546552"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Invariant visual representation by single neurons in the human brain",
+            "pub_year": "2005",
+            "citation": "Nature 435 (7045), 1102-1107, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 2285,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8725817883737584176",
+        "cites_id": [
+            "8725817883737584176"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deep predictive coding networks for video prediction and unsupervised learning",
+            "pub_year": "2016",
+            "citation": "arXiv preprint arXiv:1605.08104, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:sSrBHYA8nusC",
+        "num_citations": 965,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11254875356366916799",
+        "cites_id": [
+            "11254875356366916799"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fast readout of object identity from macaque inferior temporal cortex",
+            "pub_year": "2005",
+            "citation": "Science 310 (5749), 863-866, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 964,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17254087113421447537",
+        "cites_id": [
+            "17254087113421447537"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neural correlates of consciousness in humans",
+            "pub_year": "2002",
+            "citation": "Nature Reviews Neuroscience 3 (4), 261-270, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 945,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2520762635948014049",
+        "cites_id": [
+            "2520762635948014049"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variation in alternative splicing across human tissues",
+            "pub_year": "2004",
+            "citation": "Genome biology 5 (10), 1-15, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 673,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15083231573578730338",
+        "cites_id": [
+            "15083231573578730338"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Category-specific visual responses of single neurons in the human medial temporal lobe",
+            "pub_year": "2000",
+            "citation": "Nature neuroscience 3 (9), 946-953, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 641,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10151182018787434370",
+        "cites_id": [
+            "10151182018787434370"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Internally generated preactivation of single neurons in human medial frontal cortex predicts volition",
+            "pub_year": "2011",
+            "citation": "Neuron 69 (3), 548-562, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:UebtZRa9Y70C",
+        "num_citations": 616,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14868091079700859539",
+        "cites_id": [
+            "14868091079700859539"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Imagery neurons in the human brain",
+            "pub_year": "2000",
+            "citation": "Nature 408 (6810), 357-361, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 507,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8807837292086483083,12230546242638109698",
+        "cites_id": [
+            "8807837292086483083",
+            "12230546242638109698"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Timing, timing, timing: fast decoding of object information from intracranial field potentials in human visual cortex",
+            "pub_year": "2009",
+            "citation": "Neuron 62 (2), 281-290, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:ufrVoPGSRksC",
+        "num_citations": 429,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3511555017800499947",
+        "cites_id": [
+            "3511555017800499947"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic population coding of category information in inferior temporal and prefrontal cortex",
+            "pub_year": "2008",
+            "citation": "Journal of neurophysiology 100 (3), 1407-1419, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 391,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17206336327433109640,7161532065582885733",
+        "cites_id": [
+            "17206336327433109640",
+            "7161532065582885733"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A theory of object recognition: computations and circuits in the feedforward path of the ventral stream in primate visual cortex",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 382,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13461147807405908759",
+        "cites_id": [
+            "13461147807405908759"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sparse but not \u2018grandmother-cell\u2019coding in the medial temporal lobe",
+            "pub_year": "2008",
+            "citation": "Trends in cognitive sciences 12 (3), 87-91, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:WF5omc3nYNoC",
+        "num_citations": 377,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13342241880820302412",
+        "cites_id": [
+            "13342241880820302412"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Object selectivity of local field potentials and spikes in the macaque inferior temporal cortex",
+            "pub_year": "2006",
+            "citation": "Neuron 49 (3), 433-445, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 352,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12178639810404664586,18416071784329754450",
+        "cites_id": [
+            "12178639810404664586",
+            "18416071784329754450"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tetanic stimulation leads to increased accumulation of Ca2+/calmodulin-dependent protein kinase II via dendritic protein synthesis in hippocampal neurons",
+            "pub_year": "1999",
+            "citation": "Journal of Neuroscience 19 (18), 7823-7833, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 346,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2812745586763682726,8879180430457794409",
+        "cites_id": [
+            "2812745586763682726",
+            "8879180430457794409"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A quantitative theory of immediate visual recognition",
+            "pub_year": "2007",
+            "citation": "Progress in brain research 165, 33-56, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 326,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12340844745703684303",
+        "cites_id": [
+            "12340844745703684303"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-neuron correlates of subjective vision in the human medial temporal lobe",
+            "pub_year": "2002",
+            "citation": "Proceedings of the national academy of sciences 99 (12), 8378-8383, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 282,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1267765971362487494",
+        "cites_id": [
+            "1267765971362487494"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene expression changes and molecular pathways mediating activity-dependent plasticity in visual cortex",
+            "pub_year": "2006",
+            "citation": "Nature neuroscience 9 (5), 660-668, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 270,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14047397190584647224",
+        "cites_id": [
+            "14047397190584647224"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Amygdala-enriched genes identified by microarray technology are restricted to specific amygdaloid subnuclei",
+            "pub_year": "2001",
+            "citation": "Proceedings of the National Academy of Sciences 98 (9), 5270-5275, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 196,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16397035745081262852",
+        "cites_id": [
+            "16397035745081262852"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recurrent computations for visual pattern completion",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (35), 8835-8840, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:bnK-pcrLprsC",
+        "num_citations": 178,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2999935120050099705",
+        "cites_id": [
+            "2999935120050099705"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolving images for visual neurons using a deep generative network reveals coding principles and neuronal preferences",
+            "pub_year": "2019",
+            "citation": "Cell 177 (4), 999-1009. e10, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:fEOibwPWpKIC",
+        "num_citations": 172,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6364548790922140815",
+        "cites_id": [
+            "6364548790922140815"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unsupervised learning of visual structure using predictive generative networks",
+            "pub_year": "2015",
+            "citation": "arXiv preprint arXiv:1511.06380, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:738O_yMBCRsC",
+        "num_citations": 154,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10822768898387786713",
+        "cites_id": [
+            "10822768898387786713"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nine criteria for a measure of scientific output",
+            "pub_year": "2011",
+            "citation": "Frontiers in computational neuroscience 5, 48, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 123,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7438828933670008479",
+        "cites_id": [
+            "7438828933670008479"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measuring sparseness in the brain: comment on Bowers (2009).",
+            "pub_year": "2010",
+            "citation": "American Psychological Association 117 (1), 291, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15727448774821545575",
+        "cites_id": [
+            "15727448774821545575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robustness and Variability of Neuronal Coding by Amplitude-Sensitive Afferents in the Weakly Electric FishEigenmannia",
+            "pub_year": "2000",
+            "citation": "Journal of Neurophysiology 84 (1), 189-204, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:roLk4NBRz8UC",
+        "num_citations": 91,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12323633674951767109",
+        "cites_id": [
+            "12323633674951767109"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From neurons to circuits: linear estimation of local field potentials",
+            "pub_year": "2009",
+            "citation": "Journal of Neuroscience 29 (44), 13785-13796, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:8k81kl-MbHgC",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12758226799493679403",
+        "cites_id": [
+            "12758226799493679403"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatiotemporal dynamics underlying object completion in human ventral visual cortex",
+            "pub_year": "2014",
+            "citation": "Neuron 83 (3), 736-748, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 83,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1078732841579198707",
+        "cites_id": [
+            "1078732841579198707"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential Gene Expression between Sensory Neocortical Areas: Potential Roles for Ten_m3 and Bcl6 in Patterning Visual and Somatosensory Pathways",
+            "pub_year": "2008",
+            "citation": "Cerebral Cortex 18 (1), 53-66, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:0EnyYjriUFMC",
+        "num_citations": 79,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1441728646951106464",
+        "cites_id": [
+            "1441728646951106464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single neuron studies of the human brain: probing cognition",
+            "pub_year": "2014",
+            "citation": "MIT Press, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:M7yex6snE4oC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11368241627326334851",
+        "cites_id": [
+            "11368241627326334851"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative profiling of peptides from RNAs classified as noncoding",
+            "pub_year": "2014",
+            "citation": "Nature communications 5 (1), 5429, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8555203101587344712,8890379674901887167",
+        "cites_id": [
+            "8555203101587344712",
+            "8890379674901887167"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A neural network trained for prediction mimics diverse features of biological neurons and perception",
+            "pub_year": "2020",
+            "citation": "Nature machine intelligence 2 (4), 210-219, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:BwyfMAYsbu0C",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7621412150812836889",
+        "cites_id": [
+            "7621412150812836889"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of sparsely distributed clusters of cis\u2010regulatory elements in sets of co\u2010expressed genes",
+            "pub_year": "2004",
+            "citation": "Nucleic acids research 32 (9), 2889-2900, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9198910300428695860",
+        "cites_id": [
+            "9198910300428695860"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stimulus encoding and feature extraction by multiple sensory neurons",
+            "pub_year": "2002",
+            "citation": "Journal of Neuroscience 22 (6), 2374-2382, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:Se3iqnhoufwC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18171255157295616688,9075812795176608456",
+        "cites_id": [
+            "18171255157295616688",
+            "9075812795176608456"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential gene expression in the developing lateral geniculate nucleus and medial geniculate nucleus reveals novel roles for Zic4 and Foxp2 in visual and auditory pathway \u2026",
+            "pub_year": "2009",
+            "citation": "Journal of Neuroscience 29 (43), 13672-13683, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:Zph67rFs4hoC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2555628766902720022",
+        "cites_id": [
+            "2555628766902720022"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Beyond the feedforward sweep: feedback computations in the visual cortex",
+            "pub_year": "2020",
+            "citation": "Annals of the New York Academy of Sciences 1464 (1), 222-241, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:yB1At4FlUx8C",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11199775096242631463",
+        "cites_id": [
+            "11199775096242631463"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Consciousness and neurosurgery",
+            "pub_year": "2004",
+            "citation": "Neurosurgery 55 (2), 273-282, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:5nxA0vEk-isC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1174435295443685487",
+        "cites_id": [
+            "1174435295443685487"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neural coding: computational and biophysical perspectives",
+            "pub_year": "2004",
+            "citation": "Physics of Life Reviews 1 (2), 71-102, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16612456963065824348",
+        "cites_id": [
+            "16612456963065824348"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Corticocortical feedback increases the spatial extent of normalization",
+            "pub_year": "2014",
+            "citation": "Frontiers in systems neuroscience 8, 105, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:abG-DnoFyZgC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2188544770140716840",
+        "cites_id": [
+            "2188544770140716840"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Finding any Waldo with zero-shot invariant and efficient visual search",
+            "pub_year": "2018",
+            "citation": "Nature communications 9 (1), 3730, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:ZuybSZzF8UAC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2420487343530031568,6977985922697573335",
+        "cites_id": [
+            "2420487343530031568",
+            "6977985922697573335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrated genome analysis suggests that most conserved non-coding sequences are regulatory factor binding sites",
+            "pub_year": "2012",
+            "citation": "Nucleic Acids Research 40 (16), 7858-7869, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1704827827965693727,14349957301752854159",
+        "cites_id": [
+            "1704827827965693727",
+            "14349957301752854159"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neurons detect cognitive boundaries to structure episodic memories in humans",
+            "pub_year": "2022",
+            "citation": "Nature neuroscience 25 (3), 358-368, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:rmuvC79q63oC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1298073877572941021,13049391852307207154",
+        "cites_id": [
+            "1298073877572941021",
+            "13049391852307207154"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the robustness of convolutional neural networks to internal architecture and weight perturbations",
+            "pub_year": "2017",
+            "citation": "arXiv preprint arXiv:1703.08245, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:5ugPr518TE4C",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15126543825175995016",
+        "cites_id": [
+            "15126543825175995016"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How cortical neurons help us see: visual recognition in the human brain",
+            "pub_year": "2010",
+            "citation": "The Journal of clinical investigation 120 (9), 3054-3063, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1798274738749594345",
+        "cites_id": [
+            "1798274738749594345"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Putting visual object recognition in context",
+            "pub_year": "2020",
+            "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:zLWjf1WUPmwC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6207193649298787857",
+        "cites_id": [
+            "6207193649298787857"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visual population codes: toward a common multivariate framework for cell recording and functional imaging",
+            "pub_year": "2012",
+            "citation": "MIT press, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11549698810180716852,17572300691488014245,17954255245603694100",
+        "cites_id": [
+            "11549698810180716852",
+            "17572300691488014245",
+            "17954255245603694100"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust selectivity to two-object images in human visual cortex",
+            "pub_year": "2010",
+            "citation": "Current Biology 20 (9), 872-879, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:_kc_bZDykSQC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4208090471290773648",
+        "cites_id": [
+            "4208090471290773648"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cascade of neural processing orchestrates cognitive control in human frontal cortex",
+            "pub_year": "2016",
+            "citation": "elife 5, e12352, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12800048129137626425",
+        "cites_id": [
+            "12800048129137626425"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single unit approaches to human vision and memory",
+            "pub_year": "2007",
+            "citation": "Current opinion in neurobiology 17 (4), 471-475, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1017688202760334377",
+        "cites_id": [
+            "1017688202760334377"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A neural network trained to predict future video frames mimics critical properties of biological neuronal responses and perception",
+            "pub_year": "2018",
+            "citation": "arXiv preprint arXiv:1805.10734, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:ye4kPcJQO24C",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6779264421694956716",
+        "cites_id": [
+            "6779264421694956716"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conservation of transcription factor binding events predicts gene expression across species",
+            "pub_year": "2011",
+            "citation": "Nucleic acids research 39 (16), 7092-7102, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3071151687691552620",
+        "cites_id": [
+            "3071151687691552620"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimal memory for details in real life events",
+            "pub_year": "2018",
+            "citation": "Scientific reports 8 (1), 16701, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:_Ybze24A_UAC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9307639728569748632",
+        "cites_id": [
+            "9307639728569748632"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the minimization of fluctuations in the response times of autoregulatory gene networks",
+            "pub_year": "2011",
+            "citation": "Biophysical journal 101 (6), 1297-1306, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15640884438710076871",
+        "cites_id": [
+            "15640884438710076871"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Responses of Single Neurons in the Human Brain During Flash Suppression",
+            "pub_year": "1998",
+            "citation": "Binocular Rivalry, 213, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14796380067929195857,6855924180455065166,995064863714490200",
+        "cites_id": [
+            "14796380067929195857",
+            "6855924180455065166",
+            "995064863714490200"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "XDream: Finding preferred stimuli for visual neurons using generative networks and gradient-free optimization",
+            "pub_year": "2020",
+            "citation": "PLoS computational biology 16 (6), e1007973, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:KUbvn5osdkgC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17277734218762650172,15472559564922658028,1382504036691147513",
+        "cites_id": [
+            "17277734218762650172",
+            "15472559564922658028",
+            "1382504036691147513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bottom-up and top-down input augment the variability of cortical neurons",
+            "pub_year": "2016",
+            "citation": "Neuron 91 (3), 540-547, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5378314145833123246",
+        "cites_id": [
+            "5378314145833123246"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tutorial on pattern classification in cell recording",
+            "pub_year": "2012",
+            "citation": "Visual population codes, 517-538, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:mB3voiENLucC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5769897839899854659,12396332554247882258",
+        "cites_id": [
+            "5769897839899854659",
+            "12396332554247882258"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning scene gist with convolutional neural networks to improve object recognition",
+            "pub_year": "2018",
+            "citation": "2018 52nd Annual Conference on Information Sciences and Systems (CISS), 1-6, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:dTyEYWd-f8wC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14918621154301562862",
+        "cites_id": [
+            "14918621154301562862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "There's Waldo! A normalization model of visual search predicts single-trial human fixations in an object search task",
+            "pub_year": "2015",
+            "citation": "Cerebral cortex 26 (7), 3064-3082, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17891295526218223172,18157867884535332095",
+        "cites_id": [
+            "17891295526218223172",
+            "18157867884535332095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "One thing to fool them all: Generating interpretable, universal, and physically-realizable adversarial features",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:0N-VGjzr574C",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7914041899117919303,17363063551393613877,9520058058739532626",
+        "cites_id": [
+            "7914041899117919303",
+            "17363063551393613877",
+            "9520058058739532626"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Frivolous units: Wider networks are not really that wide",
+            "pub_year": "2021",
+            "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (8), 6921-6929, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:epqYDVWIO7EC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4252408216642488388,919089482898100880",
+        "cites_id": [
+            "4252408216642488388",
+            "919089482898100880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting episodic memory formation for movie events",
+            "pub_year": "2016",
+            "citation": "Scientific reports 6 (1), 30175, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:eflP2zaiRacC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16281099128791995605,3224549732367545675",
+        "cites_id": [
+            "16281099128791995605",
+            "3224549732367545675"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Depression-biased reverse plasticity rule is required for stable learning at top-down connections",
+            "pub_year": "2012",
+            "citation": "PLoS computational biology 8 (3), e1002393, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18242770988860645823",
+        "cites_id": [
+            "18242770988860645823"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Postscript: About grandmother cells and Jennifer Aniston neurons.",
+            "pub_year": "2010",
+            "citation": "American Psychological Association 117 (1), 297, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:4TOpqqG69KYC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4223138227843161237",
+        "cites_id": [
+            "4223138227843161237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neural dynamics underlying target detection in the human brain",
+            "pub_year": "2014",
+            "citation": "Journal of Neuroscience 34 (8), 3042-3055, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2814974206532928721",
+        "cites_id": [
+            "2814974206532928721"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What is changing when: Decoding visual information in movies from human intracranial recordings",
+            "pub_year": "2018",
+            "citation": "Neuroimage 180, 147-159, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:t6usbXjVLHcC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14705941656673958514",
+        "cites_id": [
+            "14705941656673958514"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biological object recognition",
+            "pub_year": "2008",
+            "citation": "Scholarpedia 3 (6), 2667, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13084023566900913792",
+        "cites_id": [
+            "13084023566900913792"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Incorporating intrinsic suppression in deep neural networks captures dynamics of adaptation in neurophysiology and perception",
+            "pub_year": "2020",
+            "citation": "Science Advances 6 (42), eabd4205, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:tuHXwOkdijsC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16850768216473934701,14285533329918183947,6305569003996712859",
+        "cites_id": [
+            "16850768216473934701",
+            "14285533329918183947",
+            "6305569003996712859"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "6 Data Analysis Techniques for Human Microwire Recordings: Spike Detection and Sorting, Decoding, Relation between Neurons and Local Field Potentials",
+            "pub_year": "2014",
+            "citation": "Single Neuron Studies of the Human Brain: Probing Cognition, 59, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6797198370244483081,12316423961242745630,10935467379611538345,16149890604768009187,17155917210320416530",
+        "cites_id": [
+            "6797198370244483081",
+            "12316423961242745630",
+            "10935467379611538345",
+            "16149890604768009187",
+            "17155917210320416530"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the neuronal activity in the human brain during visual recognition, imagery and binocular rivalry",
+            "pub_year": "2002",
+            "citation": "California Institute of Technology, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12226697825526061690",
+        "cites_id": [
+            "12226697825526061690"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of the biosynthesis of beta (1-2) cyclic glucan in R. Fredii. Beta (1-2) glucan has no apparent role in nodule invasion of Mc Call and Peking soybean cultivars.",
+            "pub_year": "1996",
+            "citation": "Cellular and molecular biology (Noisy-le-Grand, France) 42 (5), 617-629, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12676123699876219519",
+        "cites_id": [
+            "12676123699876219519"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Error-driven input modulation: solving the credit assignment problem without a backward pass",
+            "pub_year": "2022",
+            "citation": "International Conference on Machine Learning, 4937-4955, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:PVjk1bu6vJQC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12440766337737848620",
+        "cites_id": [
+            "12440766337737848620"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decrease in gamma-band activity tracks sequence learning",
+            "pub_year": "2015",
+            "citation": "Frontiers in systems neuroscience 8, 222, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:dshw04ExmUIC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8200839984012656740",
+        "cites_id": [
+            "8200839984012656740"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the limits of feed-forward processing in visual object recognition",
+            "pub_year": "2007",
+            "citation": "Journal of Vision 7 (9), 1041-1041a, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:4DMP91E08xMC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5537570964485683767",
+        "cites_id": [
+            "5537570964485683767"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal stability of visually selective responses in intracranial field potentials recorded from human occipital and temporal lobes",
+            "pub_year": "2012",
+            "citation": "Journal of neurophysiology 108 (11), 3073-3086, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6950309157229623708",
+        "cites_id": [
+            "6950309157229623708"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visual search asymmetry: Deep nets and humans share similar inherent biases",
+            "pub_year": "2021",
+            "citation": "Advances in neural information processing systems 34, 6946-6959, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:e_rmSamDkqQC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4659542011867306284,1642504048607770589",
+        "cites_id": [
+            "4659542011867306284",
+            "1642504048607770589"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Can deep learning recognize subtle human activities?",
+            "pub_year": "2020",
+            "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:4MWp96NkSFoC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2871468803034414570",
+        "cites_id": [
+            "2871468803034414570"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensitivity to timing and order in human visual cortex",
+            "pub_year": "2015",
+            "citation": "Journal of neurophysiology 113 (5), 1656-1669, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:_xSYboBqXhAC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9707726868237085631,6728287990098296300,11667149683220807578",
+        "cites_id": [
+            "9707726868237085631",
+            "6728287990098296300",
+            "11667149683220807578"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Look twice: A generalist computational model predicts return fixations across tasks and species",
+            "pub_year": "2022",
+            "citation": "PLoS computational biology 18 (11), e1010654, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:DJbcl8HfkQkC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14263940601295493208,8432481194999866512",
+        "cites_id": [
+            "14263940601295493208",
+            "8432481194999866512"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biological and computer vision",
+            "pub_year": "2021",
+            "citation": "Cambridge University Press, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:VaXvl8Fpj5cC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9086144727866822550",
+        "cites_id": [
+            "9086144727866822550"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Theory on the coupled stochastic dynamics of transcription and splice-site recognition",
+            "pub_year": "2012",
+            "citation": "PLoS Computational Biology 8 (11), e1002747, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11448241950403061140",
+        "cites_id": [
+            "11448241950403061140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "When pigs fly: Contextual reasoning in synthetic and natural scenes",
+            "pub_year": "2021",
+            "citation": "Proceedings of the IEEE/CVF International Conference on Computer Vision, 255-264, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:oNZyr7d5Mn4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6211205543360988267",
+        "cites_id": [
+            "6211205543360988267"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Examining high level neural representations of cluttered scenes",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18231352628704357505,9446611458341653894,13467790926944617160,3962355150190715329",
+        "cites_id": [
+            "18231352628704357505",
+            "9446611458341653894",
+            "13467790926944617160",
+            "3962355150190715329"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variational prototype replays for continual learning",
+            "pub_year": "2019",
+            "citation": "arXiv preprint arXiv:1905.09447, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:EYYDruWGBe4C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3121700773709905154",
+        "cites_id": [
+            "3121700773709905154"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "f-divergence cutoff index to simultaneously identify differential expression in the integrated transcriptome and proteome",
+            "pub_year": "2016",
+            "citation": "Nucleic acids research 44 (10), e97-e97, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:08ZZubdj9fEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13008521757073748320",
+        "cites_id": [
+            "13008521757073748320"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stochastic consolidation of lifelong memory",
+            "pub_year": "2022",
+            "citation": "Scientific Reports 12 (1), 13107, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:XoXfffV-tXoC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14428884916508868465",
+        "cites_id": [
+            "14428884916508868465"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adversarial images for the primate brain",
+            "pub_year": "2020",
+            "citation": "arXiv preprint arXiv:2011.05623, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:lmc2jWPfTJgC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7500362620916352122,13618720824428158470",
+        "cites_id": [
+            "7500362620916352122",
+            "13618720824428158470"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A null model for cortical representations with grandmothers galore",
+            "pub_year": "2017",
+            "citation": "Language, cognition and neuroscience 32 (3), 274-285, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:D_sINldO8mEC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18081042585440208352",
+        "cites_id": [
+            "18081042585440208352"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introduction to statistical learning and pattern classification",
+            "pub_year": "2012",
+            "citation": "Visual Population Codes (ed. N. Kriegeskorte & G. Kreiman)(MIT Press, Boston \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:hMod-77fHWUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15233907460315208241",
+        "cites_id": [
+            "15233907460315208241"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identifying and modulating molecular pathways that mediate nervous system plasticity",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3561540746909485463",
+        "cites_id": [
+            "3561540746909485463"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ultra-fast object recognition from few spikes",
+            "pub_year": "2005",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17725840252982541159",
+        "cites_id": [
+            "17725840252982541159"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What is the intention to move and when does it occur?",
+            "pub_year": "2023",
+            "citation": "Neuroscience & Biobehavioral Reviews 151, 105199, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:HeT0ZceujKMC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9496731344003356411,13263222840944129071",
+        "cites_id": [
+            "9496731344003356411",
+            "13263222840944129071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Face neurons encode nonsemantic features",
+            "pub_year": "2022",
+            "citation": "Proceedings of the national academy of sciences 119 (16), e2118705119, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:kh2fBNsKQNwC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18262422138322816524",
+        "cites_id": [
+            "18262422138322816524"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mesoscopic physiological interactions in the human brain reveal small-world properties",
+            "pub_year": "2021",
+            "citation": "Cell reports 36 (8), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:ruyezt5ZtCIC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5510203408699995864",
+        "cites_id": [
+            "5510203408699995864"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Zero-shot neural decoding of visual categories without prior exemplars",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 700344, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:mNrWkgRL2YcC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18039322353133071399,337909905734305398",
+        "cites_id": [
+            "18039322353133071399",
+            "337909905734305398"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational models of visual object recognition",
+            "pub_year": "2013",
+            "citation": "Principles of Neural Coding 1, 0, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:BqipwSGYUEgC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8550534643528595483",
+        "cites_id": [
+            "8550534643528595483"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neuroscience: What we cannot model, we do not understand",
+            "pub_year": "2011",
+            "citation": "Current Biology 21 (3), R123-R125, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6230019033659625371",
+        "cites_id": [
+            "6230019033659625371"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain science: from the very small to the very large",
+            "pub_year": "2007",
+            "citation": "Current Biology 17 (17), R768-R770, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:dhFuZR0502QC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11160674597865791245",
+        "cites_id": [
+            "11160674597865791245"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Beyond the cane: describing urban scenes to blind people for mobility tasks",
+            "pub_year": "2022",
+            "citation": "ACM Transactions on Accessible Computing (TACCESS) 15 (3), 1-29, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:Ri6SYOTghG4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11009878389323307831",
+        "cites_id": [
+            "11009878389323307831"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the efficacy of co-attention transformer layers in visual question answering",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2201.03965, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:_FM0Bhl9EiAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8716660914931104643",
+        "cites_id": [
+            "8716660914931104643"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hypothesis-driven stream learning with augmented memory",
+            "pub_year": "2021",
+            "citation": "ArXiv, abs/2104.02206, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:WZBGuue-350C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11754507114961121847,11883540108855013203,13523515910651060496",
+        "cites_id": [
+            "11754507114961121847",
+            "11883540108855013203",
+            "13523515910651060496"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neural interactions underlying Visuomotor associations in the human brain",
+            "pub_year": "2019",
+            "citation": "Cerebral Cortex 29 (11), 4551-4567, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:Fu2w8maKXqMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10984961917112329999",
+        "cites_id": [
+            "10984961917112329999"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neural correlates of consciousness: Perception and volition.",
+            "pub_year": "2014",
+            "citation": "MIT Press, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:uWiczbcajpAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9069454555029980579",
+        "cites_id": [
+            "9069454555029980579"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Face recognition: Vision and emotions beyond the bubble",
+            "pub_year": "2011",
+            "citation": "Current Biology 21 (21), R888-R890, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7224833931193851107",
+        "cites_id": [
+            "7224833931193851107"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sparse Distributed Memory is a Continual Learner",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2303.11934, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:OcBU2YAGkTUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6419799684933930936",
+        "cites_id": [
+            "6419799684933930936"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "White-box adversarial policies in deep reinforcement learning",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2209.02167, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:XvxMoLDsR5gC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12213139818405422878",
+        "cites_id": [
+            "12213139818405422878"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Localized task-invariant emotional valence encoding revealed by intracranial recordings",
+            "pub_year": "2022",
+            "citation": "Social Cognitive and Affective Neuroscience 17 (6), 549-558, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:ClCfbGk0d_YC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4350015672284033031",
+        "cites_id": [
+            "4350015672284033031"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Periodic time cells in human entorhinal cortex",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:bz8QjSJIRt4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17774249731831271011",
+        "cites_id": [
+            "17774249731831271011"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From Marr\u2019s Vision to the Problem of Human Intelligence",
+            "pub_year": "2021",
+            "citation": "Center for Brains, Minds and Machines (CBMM), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4019208494234884199",
+        "cites_id": [
+            "4019208494234884199"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Beauty is in the eye of the machine",
+            "pub_year": "2021",
+            "citation": "Nature Human Behaviour 5 (6), 675-676, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:-FonjvnnhkoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10083059479198025880",
+        "cites_id": [
+            "10083059479198025880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minimal videos: Trade-off between spatial and temporal information in human and machine vision",
+            "pub_year": "2020",
+            "citation": "Cognition 201, 104263, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:p__nRnzSRKYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16406069396475632854",
+        "cites_id": [
+            "16406069396475632854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lift-the-flap: Context reasoning using object-centered graphs",
+            "pub_year": "2019",
+            "citation": "arXiv preprint arXiv:1902.00163 6, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:NJ774b8OgUMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17255569276243276356,4466079803594773848",
+        "cites_id": [
+            "17255569276243276356",
+            "4466079803594773848"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automating interictal spike detection: Revisiting a simple threshold rule",
+            "pub_year": "2018",
+            "citation": "2018 40th Annual International Conference of the IEEE Engineering in \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:uLbwQdceFCQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12859600107935456327",
+        "cites_id": [
+            "12859600107935456327"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Microelectrode studies of human sleep",
+            "pub_year": "2014",
+            "citation": "Single Neuron Studies of the Human Brain: Probing Cognition, 165-188, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:Z5m8FVwuT1cC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12977791741865838915",
+        "cites_id": [
+            "12977791741865838915"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Toward unmasking the dynamics of visual perception",
+            "pub_year": "2009",
+            "citation": "Neuron 64 (4), 446-447, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:TFP_iSt0sucC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14114646141354409403",
+        "cites_id": [
+            "14114646141354409403"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Moveo ergo sum",
+            "pub_year": "2001",
+            "citation": "BioEssays 23 (1), 2001, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=903339249029922717",
+        "cites_id": [
+            "903339249029922717"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Emergence of Sparse Representations from Noise",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:LhH-TYMQEocC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8009836068523355118",
+        "cites_id": [
+            "8009836068523355118"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Forward Learning with Top-Down Feedback: Empirical and Analytical Characterization",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2302.05440, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:yFnVuubrUp4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8417474447308979922",
+        "cites_id": [
+            "8417474447308979922"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cross-task specificity and within-task invariance of cognitive control processes",
+            "pub_year": "2023",
+            "citation": "Cell reports 42 (1), 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:OTTXONDVkokC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=551795995164767554,4225027482402105025",
+        "cites_id": [
+            "551795995164767554",
+            "4225027482402105025"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decoding of human identity by computer vision and neuronal vision",
+            "pub_year": "2023",
+            "citation": "Scientific reports 13 (1), 651, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:FPJr55Dyh1AC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10075974297138011235",
+        "cites_id": [
+            "10075974297138011235"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning to Learn: How to Continuously Teach Humans and Machines",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2211.15470, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:IRz6iEL74y4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8939048949218297746",
+        "cites_id": [
+            "8939048949218297746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human or Machine? Turing Tests for Vision and Language",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2211.13087, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:6ZxmRoH8BuwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3160585132273110140",
+        "cites_id": [
+            "3160585132273110140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What makes domain generalization hard?",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2206.07802, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:GtLg2Ama23sC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2875337438947657820",
+        "cites_id": [
+            "2875337438947657820"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Do computational models of vision need shape-based representations? Evidence from an individual with intriguing visual perceptions",
+            "pub_year": "2022",
+            "citation": "Cognitive Neuropsychology 39 (1-2), 75-77, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:86PQX7AUzd4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14809527587960437591",
+        "cites_id": [
+            "14809527587960437591"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational strategies used during hybrid visual search",
+            "pub_year": "2019",
+            "citation": "Journal of Vision 19 (10), 132-132, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:uc_IGeMz5qoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3728704107196780235,2678776905590671451",
+        "cites_id": [
+            "3728704107196780235",
+            "2678776905590671451"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "It\u2019sa small dimensional world after all: Comment on \u201cThe unreasonable effectiveness of small neural ensembles in high-dimensional brain\u201d by Alexander N. Gorban et al.",
+            "pub_year": "2019",
+            "citation": "Physics of life reviews 29, 96, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:tzM49s52ZIMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12564835856668725813",
+        "cites_id": [
+            "12564835856668725813"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What am I Searching for: Zero-shot Target Identity Inference in Visual Search",
+            "pub_year": "2018",
+            "citation": "arXiv preprint arXiv:1807.11926, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:L7CI7m0gUJcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11625429251931864221",
+        "cites_id": [
+            "11625429251931864221"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Navigating our environment: Insights from single neuron recordings in the human brain",
+            "pub_year": "2014",
+            "citation": "Single Neuron Studies of the Human Brain: Probing Cognition, 153-164, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:AvfA0Oy_GE0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10452076804488045341",
+        "cites_id": [
+            "10452076804488045341"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The next ten years and beyond",
+            "pub_year": "2014",
+            "citation": "Single Neuron Studies of the Human Brain: Probing Cognition, 347-358, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:NhqRSupF_l8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10994632662401866210",
+        "cites_id": [
+            "10994632662401866210"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biologically Inspired Circuits for Visual Search and Recognition in Complex Scenes",
+            "pub_year": "2013",
+            "citation": "MIT-Harvard Technical Report. doi, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17334748601547107938",
+        "cites_id": [
+            "17334748601547107938"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neuroscience: Literary inspiration",
+            "pub_year": "2011",
+            "citation": "Nature 475 (7357), 453-453, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7411052236499233668",
+        "cites_id": [
+            "7411052236499233668"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcription factor binding: does order matter?",
+            "pub_year": "2005",
+            "citation": "Poster session presented at RECOMB, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:maZDTaKrznsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14483403153672624575",
+        "cites_id": [
+            "14483403153672624575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neural coding and feature extraction of time-varying signals",
+            "pub_year": "2002",
+            "citation": "California Institute of Technology, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:r0BpntZqJG4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10394946167454890693",
+        "cites_id": [
+            "10394946167454890693"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards an integrated model of bottom-up and top-down visual processing",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:HDshCWvjkbEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2910283631112995316",
+        "cites_id": [
+            "2910283631112995316"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visual angle and image context alter the alignment between deep convolutional neural networks and the macaque ventral stream",
+            "pub_year": "2023",
+            "citation": "Journal of Vision 23 (9), 5539-5539, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:GFxP56DSvIMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An adversarial collaboration to critically evaluate theories of consciousness",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:P7Ujq4OLJYoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Workshop Submission: Using Multimodal DNNs to Study Vision-Language Integration in the Brain",
+            "pub_year": "2023",
+            "citation": "ICLR 2023 Workshop on Multimodal Representation Learning: Perks and Pitfalls, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:r_AWSJRzSzQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BrainBERT: Self-supervised representation learning for intracranial recordings",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2302.14367, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:ODE9OILHJdcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neural coding: Stimulating cortex to alter visual perception",
+            "pub_year": "2023",
+            "citation": "Current Biology 33 (3), R117-R118, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:dBIO0h50nwkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An adversarial collaboration to critically evaluate theories of consciousness",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.06. 23.546249, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:a3BOlSfXSfwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hippocampal Theta Phase Precession Supports Memory Formation and Retrieval of Naturalistic Experience in Humans",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.06. 05.543539, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:yqoGN6RLRZoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integration of recognition, episodic, and associative memories during complex human behavior",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.03. 27.534384, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:KbBQZpvPDL4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Out of sight, out of mind: Responses in primate ventral visual cortex track individual fixations during natural vision",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.02. 08.527666, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:HtS1dXgVpQUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient Zero-shot Visual Search via Target and Context-aware Transformer",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2211.13470, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:WJVC3Jt7v1AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reason from Context with Self-supervised Learning",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2211.12817, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:_5tno0g5mFcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Noise Transforms Feed-Forward Networks into Sparse Coding Networks",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:fFSKOagxvKUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Minute-scale Periodicity of Neuronal Firing in the Human Entorhinal Cortex",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.05. 05.490703, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:9c2xU6iGI7YC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating artificial and biological neural networks to improve animal task performance using deep reinforcement learning",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.09. 19.508590, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:sNmaIFBj_lkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiple transcription auto regulatory loops can act as robust oscillators and decision-making motifs",
+            "pub_year": "2022",
+            "citation": "Computational and Structural Biotechnology Journal 20, 5115-5135, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:umqufdRvDiIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What constitutes understanding of ventral pathway function?",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:foquWX3nUaYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Beauty is in the eye of the machine",
+            "pub_year": "2021",
+            "citation": "Nature Human Behaviour 5 (6), 675-676, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:4fGpz3EwCPoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visual Search Asymmetry: Deep Nets and Humans Share Similar Inherent Biases",
+            "pub_year": "2021",
+            "citation": "arXiv e-prints, arXiv: 2106.02953, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:S16KYo8Pm5AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What can human minimal videos tell us about dynamic recognition models?",
+            "pub_year": "2021",
+            "citation": "arXiv preprint arXiv:2104.09447, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:vbGhcppDl1QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simple Learning Rules Generate Complex Canonical Circuits",
+            "pub_year": "2020",
+            "citation": "arXiv preprint arXiv:2009.06118, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:b1wdh0AR-JQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robustness and/or Redundancy Emerge in Overparametrized Deep Neural Networks",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:hMsQuOkrut0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptation in models of visual object recognition",
+            "pub_year": "2019",
+            "citation": "Journal of Vision 19 (10), 210a-210a, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:ipzZ9siozwsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What do neurons really want? The role of semantics in cortical representations",
+            "pub_year": "2019",
+            "citation": "Psychology of Learning and Motivation 70, 195-221, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:-_dYPAW6P2MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatiotemporal interpretation features in the recognition of dynamic images",
+            "pub_year": "2018",
+            "citation": "Center for Brains, Minds and Machines (CBMM), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:W5xh706n7nkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid learning of meaningful image interpretation",
+            "pub_year": "2018",
+            "citation": "Journal of Vision 18 (10), 1362-1362, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:UHK10RUVsp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "24 hours in the human brain",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:hkOj_22Ku90C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neuronal correlates of rapid learning in the human medial temporal lobe",
+            "pub_year": "2017",
+            "citation": "Journal of Vision 17 (10), 483-483, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:Mojj43d5GZwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Task dependent modulation before, during and after visually evoked responses in human intracranial recordings",
+            "pub_year": "2017",
+            "citation": "Journal of Vision 17 (10), 983-983, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:WA5NYHcadZ8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probing human intracranial visual responses with commercial movies",
+            "pub_year": "2016",
+            "citation": "Journal of Vision 16 (12), 502-502, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:BrmTIyaxlBUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identifying and modulating molecular pathways that mediate nervous system plasticity",
+            "pub_year": "2015",
+            "citation": "US Patent App. 14/636,059, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:VL0QpB8kHFEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Functional Neuroanatomy of Speech Perception",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:Y5dfb0dijaUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mind the quantum?",
+            "pub_year": "2013",
+            "citation": "Trends in Cognitive Sciences 17 (3), 109-110, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of categories, features, and learning for the representation of object similarity in the human brain",
+            "pub_year": "2012",
+            "citation": "Cambridge: MIT Press; Cambridge, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:OP4eGU-M3BUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introduction to the Anatomy and Function of Visual Cortex",
+            "pub_year": "2012",
+            "citation": "Visual Population Codes: Toward a Common Multivariate Framework for Cell \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visual integration in the human brain",
+            "pub_year": "2011",
+            "citation": "Journal of Vision 11 (11), 887-887, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:IWHjjKOFINEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decoding ensemble activity from neurophysiological recordings in the temporal cortex",
+            "pub_year": "2011",
+            "citation": "2011 Annual International Conference of the IEEE Engineering in Medicine and \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluated Articles Evaluated Articles Rankings Reports Posters Faculty Naturally Selected MyF1000 Sign out",
+            "pub_year": "2011",
+            "citation": "Neuron 69 (3), 548-62, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:HE397vMXCloC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Borges and the Memory",
+            "pub_year": "2011",
+            "citation": "Nature 475 (7357), 453-453, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:ldfaerwXgEUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Children's Hospital Boston researchers win 2009 NIH New Innovator Awards",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:1qzjygNMrQYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fast and robust decoding of visual information from intracranial field potentials in the human visual cortex",
+            "pub_year": "2009",
+            "citation": "PERCEPTION 38, 62-62, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting local field potentials from spike trains",
+            "pub_year": "2008",
+            "citation": "38th Annual Meeting of the Society for Neuroscience (Neuroscience 2008), 2008"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:uJ-U7cs_P_0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SINGLE NEURON RECORDINGS IN THE HUMAN BRAIN TO EXPLORE CONSCIOUS VISION",
+            "pub_year": "2005",
+            "citation": "Binocular Rivalry, 213, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sparse representation of visual information by single neurons in the human medial temporal lobe",
+            "pub_year": "2002",
+            "citation": "JOURNAL OF COGNITIVE NEUROSCIENCE, 40-40, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Feature Extraction by Multiple Neurons in a Topographical Sensory Map",
+            "pub_year": "2002",
+            "citation": "Science Direct Working Paper No S1574-034X (04), 70442-1, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:9vf0nzSNQJEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enchanted Looms: Conscious Networks in Brains and Computers",
+            "pub_year": "2001",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:yMeIxYmEMEAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Responses of single neurons in the human brain during visual presentation and visual imagery.",
+            "pub_year": "2000",
+            "citation": "INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 41 (4), S217-S217, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:70eg2SAEIzsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Imagery neurons in the human brain",
+            "pub_year": "2000",
+            "citation": "Nature, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:5awf1xo2G04C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of the biosynthesis of (1-2) cyclic glucan in R. fredii. (1-2) glucan has no apparent role in nodule invasion of Mc Call and Peking soybean cultivars",
+            "pub_year": "1996",
+            "citation": "CELLULAR AND MOLECULAR BIOLOGY-PARIS-WEGMANN- 42, 617-630, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:35N4QoGY0k4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "toolbar search search input Search input auto suggest filter your search",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:8xutWZnSdmoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Artificial Intelligence in Neuroscience",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:Ehil0879vHcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Feature learning in deep classifiers through Intermediate Neural Collapse\ufeff",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:F9fV5C73w3QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Hippocampal Cacophony: Multiple Layers of Communication",
+            "citation": "J. Neurosci 23, 2861-2871, 0"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:IUKN3-7HHlwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Frivolous Units: Wider Networks Are Not Really That Wide",
+            "citation": "Network 60 (80), 100, 0"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:5qfkUJPXOUwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplementary Material for When Pigs Fly: Contextual Reasoning in Synthetic and Natural Scenes",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:edDO8Oi4QzsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Postscript: About Grandmother Cells and Jennifer Aniston Neurons",
+            "citation": "science 116, 220-251, 0"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:HbR8gkJAVGIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Removable and/or Repeated Units Emerge in Overparametrized Deep Neural Networks",
+            "citation": "Network 60 (80), 100, 0"
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:k8Z6L05lTy4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Event boundaries shape memory formation: evidence from single neuron recordings in humans",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:kuK5TVdYjLIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visual Object Recognition Computational Models and Neurophysiological Mechanisms",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:gsN89kCJA0AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplementary Material Putting visual object recognition in context",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:TIZ-Mc8IlK0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplementary Material Can Deep Learning Recognize Subtle Human Activities?",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:tYavs44e6CUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spike Field Coherence Reveals Complex Cortical Interaction in Human Visual Memory Task",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:ILKRHgRFtOwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Peeking inside the brain to develop the next generation of AI",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:EkHepimYqZsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Amygdala-enriched genes identified by microarray technology are restricted to specific amygdaloid",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:tKAzc9rXhukC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "THE NEURAL BASIS OF RAPID VISUAL RECOGNITION: NEURAL DECODING IN TIME AND SPECTRAL DOMAINS",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:_B80troHkn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PCA as a defense against some adversaries\ufeff",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:XiVPGOgt02cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cortical feedback normalizes area summation of macaque V1 neurons",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:p2g8aNsByqUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptional regulation-A computational approach",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:D03iK_w7-QYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cellular mechanisms in visual input deprivation: different pathways for different models",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:a0OBvERweLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Read-out of visual information from inferior temporal cortex for object recognition",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Invariance of visual responses in the human medial temporal lobe",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:qUcmZB5y_30C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Object completion along the ventral stream: Neural signatures and computational mechanisms",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WxZ_6nsAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 0
+    }
+]

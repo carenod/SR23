@@ -1,0 +1,1950 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional\u2013structural plant modelling: a new versatile tool in crop science",
+            "pub_year": "2010",
+            "citation": "Journal of experimental Botany 61 (8), 2101-2115, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 548,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11338425753572649012",
+        "cites_id": [
+            "11338425753572649012"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The nested radiosity model for the distribution of light within plant canopies",
+            "pub_year": "1998",
+            "citation": "Ecological modelling 111 (1), 75-91, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 275,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6636162198480084665",
+        "cites_id": [
+            "6636162198480084665"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize leaves turn away from neighbors",
+            "pub_year": "2002",
+            "citation": "Plant physiology 130 (3), 1181-1189, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:qjMakFHDy7sC",
+        "num_citations": 197,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8465747945701139645",
+        "cites_id": [
+            "8465747945701139645"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phylloclimate or the climate perceived by individual plant organs: what is it? How to model it? What for?",
+            "pub_year": "2005",
+            "citation": "New Phytologist 166 (3), 781-790, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 196,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3648634203048563386",
+        "cites_id": [
+            "3648634203048563386"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The fourth phase of the radiative transfer model intercomparison (RAMI) exercise: Actual canopy scenarios and conformity testing",
+            "pub_year": "2015",
+            "citation": "Remote Sensing of Environment 169, 418-437, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:f13iAvnbnnYC",
+        "num_citations": 183,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14334751185928874881",
+        "cites_id": [
+            "14334751185928874881"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a generic architectural model of tillering in Gramineae, as exemplified by spring wheat (Triticum aestivum)",
+            "pub_year": "2005",
+            "citation": "New Phytologist 166 (3), 801-812, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 150,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7341881382241007455",
+        "cites_id": [
+            "7341881382241007455"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light interception of contrasting azimuth canopies under square and rectangular plant spatial distributions: simulations and crop measurements",
+            "pub_year": "2001",
+            "citation": "Field Crops Research 70 (1), 1-13, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 132,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17906004215146986497",
+        "cites_id": [
+            "17906004215146986497"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The fourth radiation transfer model intercomparison (RAMI\u2010IV): Proficiency testing of canopy reflectance models with ISO\u201013528",
+            "pub_year": "2013",
+            "citation": "Journal of Geophysical Research: Atmospheres 118 (13), 6869-6890, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 129,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3964040344742139113",
+        "cites_id": [
+            "3964040344742139113"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling maize canopy 3D architecture: Application to reflectance simulation",
+            "pub_year": "1999",
+            "citation": "Ecological Modelling 122 (1-2), 25-43, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8445390073039099040",
+        "cites_id": [
+            "8445390073039099040"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating the effects of localized red:far\u2010red ratio on tillering in spring wheat (Triticum aestivum) using a three\u2010dimensional virtual plant model",
+            "pub_year": "2007",
+            "citation": "New Phytologist 176 (2), 325-336, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13076499454882014913",
+        "cites_id": [
+            "13076499454882014913"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Physiology of maize II: Identification of physiological markers representative of the nitrogen status of maize (Zea mays) leaves during grain filling",
+            "pub_year": "2005",
+            "citation": "Physiologia Plantarum 124 (2), 178-188, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 105,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4038751206115640862",
+        "cites_id": [
+            "4038751206115640862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An architectural model of spring wheat: evaluation of the effects of population density and shading on model parameterization and performance",
+            "pub_year": "2007",
+            "citation": "Ecological Modelling 200 (3-4), 308-320, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11114268919360894776",
+        "cites_id": [
+            "11114268919360894776"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiative models for architectural modeling",
+            "pub_year": "1999",
+            "citation": "Agronomie 19 (3-4), 225-240, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9919360979349143192",
+        "cites_id": [
+            "9919360979349143192"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global illumination in presence of participating media with general properties",
+            "pub_year": "1995",
+            "citation": "Photorealistic Rendering Techniques, 71-86, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10544895496626425784",
+        "cites_id": [
+            "10544895496626425784"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling water transfer by rain-splash in a 3D canopy using Monte Carlo integration",
+            "pub_year": "2004",
+            "citation": "Agricultural and Forest Meteorology 121 (3-4), 183-196, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5863792939546915251",
+        "cites_id": [
+            "5863792939546915251"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nested radiosity for plant canopies",
+            "pub_year": "1998",
+            "citation": "The Visual Computer 14, 109-125, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18228565888276385152",
+        "cites_id": [
+            "18228565888276385152"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation of the three\u2010dimensional distribution of the red: far\u2010red ratio within crop canopies",
+            "pub_year": "2007",
+            "citation": "New Phytologist 176 (1), 223-234, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:WF5omc3nYNoC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2035380891842592680",
+        "cites_id": [
+            "2035380891842592680"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The development of a foliar fungal pathogen does react to leaf temperature!",
+            "pub_year": "2013",
+            "citation": "New Phytologist 198 (1), 232-240, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12692087209791778941",
+        "cites_id": [
+            "12692087209791778941"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A 3D model for simulating the spatial and temporal distribution of temperature within ellipsoidal fruit",
+            "pub_year": "2007",
+            "citation": "Agricultural and Forest Meteorology 147 (1-2), 1-15, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16028647548528892344",
+        "cites_id": [
+            "16028647548528892344"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ara-Rhizotron: An Effective Culture System to Study Simultaneously Root and Shoot Development of Arabidopsis",
+            "pub_year": "2006",
+            "citation": "Plant and Soil 280 (1-2), 253-266, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:Se3iqnhoufwC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6894624929523598252",
+        "cites_id": [
+            "6894624929523598252"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A dynamic model of maize 3D architecture: application to the parameterisation of the clumpiness of the canopy",
+            "pub_year": "1998",
+            "citation": "Agronomie 18 (10), 609-626, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11758952089972320002",
+        "cites_id": [
+            "11758952089972320002"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensitivity of gap fraction to maize architectural characteristics based on 4D model simulations",
+            "pub_year": "2007",
+            "citation": "Agricultural and Forest Meteorology 143 (3-4), 217-229, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:0EnyYjriUFMC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17954621100469016428",
+        "cites_id": [
+            "17954621100469016428"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Could plant leaves be treated as Lambertian surfaces in dense crop canopies to estimate light absorption?",
+            "pub_year": "2006",
+            "citation": "Ecological Modelling 198 (1-2), 219-228, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:roLk4NBRz8UC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4248157848495244926",
+        "cites_id": [
+            "4248157848495244926"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the light environment of virtual crop canopies",
+            "pub_year": "2007",
+            "citation": "Frontis, 75-89, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:ufrVoPGSRksC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4605945234751785,2732349662149273135",
+        "cites_id": [
+            "4605945234751785",
+            "2732349662149273135"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Investigating discrepancies in heat, CO2 fluxes and O3 deposition velocity over maize as measured by the eddy-covariance and the aerodynamic gradient methods",
+            "pub_year": "2013",
+            "citation": "Agricultural and Forest Meteorology 169, 35-50, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:-f6ydRqryjwC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12646793522479493094",
+        "cites_id": [
+            "12646793522479493094"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "D\u00e9veloppement d'un mod\u00e8le de radiosit\u00e9 mixte pour simuler la distribution du rayonnement dans les couverts v\u00e9g\u00e9taux",
+            "pub_year": "1997",
+            "citation": "Universit\u00e9 de Rennes 1, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:n1qY4L4uFdgC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10626835421978306019",
+        "cites_id": [
+            "10626835421978306019"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiative transfer sensitivity to the accuracy of canopy structure description. The case of a maize canopy",
+            "pub_year": "1999",
+            "citation": "Agronomie 19 (3-4), 241-254, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8935495654151300542",
+        "cites_id": [
+            "8935495654151300542"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An assessment of needles clumping within shoots when modeling radiative transfer within homogeneous canopies",
+            "pub_year": "2006",
+            "citation": "Remote Sensing of Environment 102 (1-2), 116-134, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:UebtZRa9Y70C",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15472069385666379649",
+        "cites_id": [
+            "15472069385666379649"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "To what extent may changes in the root system architecture of Arabidopsis thaliana grown under contrasted homogenous nitrogen regimes be explained by \u2026",
+            "pub_year": "2010",
+            "citation": "Journal of Experimental Botany 61 (8), 2157-2169, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:8k81kl-MbHgC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2258864340823609646",
+        "cites_id": [
+            "2258864340823609646"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HydroShoot: a functional-structural plant model for simulating hydraulic structure, gas and energy exchange dynamics of complex plant canopies under water deficit\u2014application \u2026",
+            "pub_year": "2019",
+            "citation": "in silico Plants 1 (1), diz007, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:n8FNryW2AHIC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6256516126483863617",
+        "cites_id": [
+            "6256516126483863617"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lighting virtual crops: the CARIBU solution for open L-systems",
+            "pub_year": "2004",
+            "citation": "4th International Workshop on Functional-Structural Plant Models, Montpellier, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17428822230463794674",
+        "cites_id": [
+            "17428822230463794674"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of a Markov chain canopy reflectance model",
+            "pub_year": "1997",
+            "citation": "International Journal of Remote Sensing 18 (10), 2125-2146, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9698661768475995646",
+        "cites_id": [
+            "9698661768475995646"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of a turbid medium model to simulate light interception by walnut trees (hybrid NG38\u00d7 RA and Juglans regia) and sorghum canopies (Sorghum bicolor) at three spatial \u2026",
+            "pub_year": "2008",
+            "citation": "Functional Plant Biology 35 (10), 823-836, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2806052744253898822",
+        "cites_id": [
+            "2806052744253898822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Building modular FSPM under OpenAlea: concepts and applications",
+            "pub_year": "2010",
+            "citation": "6th International Workshop on Functional-Structural Plant Models, 109-112, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:_kc_bZDykSQC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10803226793612841185",
+        "cites_id": [
+            "10803226793612841185"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotyping thermal responses of yeasts and yeast-like microorganisms at the individual and population levels: proof-of-concept, development and application of an experimental \u2026",
+            "pub_year": "2019",
+            "citation": "Microbial ecology 78, 42-56, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:Np1obAXpBq8C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5828661024932048056",
+        "cites_id": [
+            "5828661024932048056"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improving light position in a growth chamber through the use of a genetic algorithm",
+            "pub_year": "2008",
+            "citation": "Artificial Intelligence Techniques for Computer Graphics, 67-82, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4049391264912299821",
+        "cites_id": [
+            "4049391264912299821"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nitrogen uptake efficiency, mediated by fine root growth, early determines temporal and genotypic variations in nitrogen use efficiency of winter oilseed rape",
+            "pub_year": "2021",
+            "citation": "Frontiers in Plant Science 12, 641459, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:6LV2YwJzdtgC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7837712491623574642",
+        "cites_id": [
+            "7837712491623574642"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling light phylloclimate within growth chambers",
+            "pub_year": "2007",
+            "citation": "Proceedings of the 5th International Workshop on Functional Structural Plant \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:Zph67rFs4hoC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16616466133116593214",
+        "cites_id": [
+            "16616466133116593214"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CLAMP: A model of leaf clumping in canopies",
+            "pub_year": "2002",
+            "citation": "Recent Advances in Quantitative Remote Sensing, 1st International Symposium \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:5nxA0vEk-isC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11475189602438669698",
+        "cites_id": [
+            "11475189602438669698"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Patterns of thermal adaptation in a globally distributed plant pathogen: Local diversity and plasticity reveal two\u2010tier dynamics",
+            "pub_year": "2022",
+            "citation": "Ecology and Evolution 12 (1), e8515, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:KEtq3P1Vf8oC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8618758901435525333",
+        "cites_id": [
+            "8618758901435525333"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A 3D approach for modelling tillering in wheat (Triticum aestivum L.)",
+            "pub_year": "2004",
+            "citation": "4th International Workshop on Functional-Structural Plant Models \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:maZDTaKrznsC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9756009131399207633",
+        "cites_id": [
+            "9756009131399207633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bi-directional characteristics of leaf reflectance and transmittance: measurement and influence on canopy bi-directional reflectance",
+            "pub_year": "1997",
+            "citation": "7th International Symposium on physical measurements and signatures in \u2026, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:CmbFvBriOyMC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8823588631181440289",
+        "cites_id": [
+            "8823588631181440289"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a 3D light model for growth chambers using an experiment-assisted design",
+            "pub_year": "2004",
+            "citation": "Proceedings of the 4th International Workshop on Functional-Structural Plant \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3559996664111635366",
+        "cites_id": [
+            "3559996664111635366"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling tillering in wheat (Triticum aestivum L.) using L-systems",
+            "pub_year": "2003",
+            "citation": "2003 International Symposium on plant growth modeling, simulation \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17430418455071700991",
+        "cites_id": [
+            "17430418455071700991"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Horizontal variability in air temperature over time within a maize inter-row",
+            "pub_year": "2009",
+            "citation": "Agricultural and forest meteorology 149 (8), 1294-1300, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15363354430967590273",
+        "cites_id": [
+            "15363354430967590273"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Which air temperature drives \u00e9pidemiological processes of fungal foliar wheat diseases at leaf scale?",
+            "pub_year": "2009",
+            "citation": "Association Fran\u00e7aise de Protection des Plantes, 9\u00e8me conf\u00e9rence \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:TFP_iSt0sucC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16074665191607344304",
+        "cites_id": [
+            "16074665191607344304"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Taking into account the 3D canopy structure to study the physical environment of plants: the Monte Carlo solution",
+            "pub_year": "2004",
+            "citation": "CIRAD-AMAP, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:Cy13deThEpcC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17527772818019250166",
+        "cites_id": [
+            "17527772818019250166"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Patterns of thermal adaptation in a worldwide plant pathogen: local diversity and plasticity reveal two-tier dynamics",
+            "pub_year": "2019",
+            "citation": "bioRxiv, 2019.12. 16.877696, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:Gs1AF5H0x94C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10044031166731964086",
+        "cites_id": [
+            "10044031166731964086"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic algorithms for light sources positioning",
+            "pub_year": "2009",
+            "citation": "Proceedings of the 11th 3IA: International Conference on Computer Graphics \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2099596521919660999",
+        "cites_id": [
+            "2099596521919660999"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Could virtual plants be considered as lambertian objects in dense canopies?",
+            "pub_year": "2003",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:rAN7mHg6NlYC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8928819103517612083",
+        "cites_id": [
+            "8928819103517612083"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analyse des \u00e9changes radiatifs au sein d\u2019un couvert v\u00e9g\u00e9tal par lancer de rayons stochastique: r\u00e9flectance bidirectionnelle et micro-climat lumineux dans le couvert",
+            "pub_year": "1997",
+            "citation": "Physical Measurements and Signatures in Remote Sensing\u2014Mesures physiques et \u2026, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17474713116086120625",
+        "cites_id": [
+            "17474713116086120625"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional-Structural plant modelling, applied to tillering in Wheat",
+            "pub_year": "2008",
+            "citation": "New Phytol 176, 223-234, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7719314732397134130",
+        "cites_id": [
+            "7719314732397134130"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling N nutrition impact on plant functioning and root architecture in various genotypes of Arabidopsis thaliana",
+            "pub_year": "2007",
+            "citation": "5. International Workshop, np, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17745611922339704967",
+        "cites_id": [
+            "17745611922339704967"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of a turbid medium model to simulate light interception by plant canopies at three spatial scales",
+            "pub_year": "2007",
+            "citation": "Proceedings of the 5th International Workshop on Functions-Structural Plant \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6746352260928896599",
+        "cites_id": [
+            "6746352260928896599"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parallel form factors computation for radiative transfers in vegetation",
+            "pub_year": "1998",
+            "citation": "Proceedings of the 2nd Eurographics Workshop on Parallel Graphics and \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:PuYkdpj8xa4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11053006989271814208,11918896716644283129",
+        "cites_id": [
+            "11053006989271814208",
+            "11918896716644283129"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation des \u00e9changes radiatifs \u00e0 partir de maquettes informatiques",
+            "pub_year": "1995",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:PPrs6GlykQcC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6356850882544981420",
+        "cites_id": [
+            "6356850882544981420"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data collection and analysis tools for food security and nutrition. Towards enhancing effective, inclusive, evidence-informed, decision making",
+            "pub_year": "2022",
+            "citation": "CFS-HLPE, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:eJjLl3UG7CkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=88998942093538506",
+        "cites_id": [
+            "88998942093538506"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of canopy fluorescence yield with airborne passive and active measurements: the CALSIF project",
+            "pub_year": "2014",
+            "citation": "5th International Workshop on Remote Sensing of Vegetation Fluorescence, 22-24, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:ZJ-noXUx9mkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10381687359460765778",
+        "cites_id": [
+            "10381687359460765778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation des interactions \u00e9pid\u00e9mie-couvert v\u00e9g\u00e9tal: De la recherche \u00e0 la mise au point d'outils op\u00e9rationnels pour la protection int\u00e9gr\u00e9e des cultures",
+            "pub_year": "2009",
+            "citation": "9. Conf\u00e9rence Internationale, np, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:JoHZYnTS1h4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12187724595068218909",
+        "cites_id": [
+            "12187724595068218909"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nitrogen partitioning in maize genotypes during senescence: does local light have a role",
+            "pub_year": "2004",
+            "citation": "Proceedings of the 4th International workshop on functional-structural plant \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17583064544676710732",
+        "cites_id": [
+            "17583064544676710732"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CLAMP: accounting for leaf clumping in radiative transfer modelling",
+            "pub_year": "2003",
+            "citation": "IGARSS 2003. 2003 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:4TOpqqG69KYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14905387132470783690",
+        "cites_id": [
+            "14905387132470783690"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Les mesures de t\u00e9l\u00e9d\u00e9tection dans le domaine solaire",
+            "pub_year": "1996",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:mu2_AnMl8iYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16784304281908827252",
+        "cites_id": [
+            "16784304281908827252"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation d'\u00e9clairage dans un environnement contenant des milieux semi-transparents",
+            "pub_year": "1994",
+            "citation": "Publication interne- IRISA, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:aqlVkmm33-oC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10437238770875477074",
+        "cites_id": [
+            "10437238770875477074"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Le d\u00e9veloppement de l\u2019intelligence professionnelle en recherche: des situations de travail des doctorants et encadrants \u00e0 un dispositif de formation pour favoriser la r\u00e9ussite \u2026",
+            "pub_year": "2019",
+            "citation": "5. Colloque International de didactique Professionnelle, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:5UUbrqTvKfUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8222939475703876473",
+        "cites_id": [
+            "8222939475703876473"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Former ensemble doctorants et encadrants \u00e0 l\u2019Inra, un institut de recherche pluridisciplinaire et finalis\u00e9",
+            "pub_year": "2019",
+            "citation": "Natures Sciences Soci\u00e9t\u00e9s, 327-335, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:KYgttONoxcsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5948941521478858551",
+        "cites_id": [
+            "5948941521478858551"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developing reflexivity in the PhD student\u2013supervisor (s) system: An innovative training programme in a French research institute",
+            "pub_year": "2017",
+            "citation": "3. International Conference on Developments in Doctoral Education & Training \u2026, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:FKYJxdYMdFIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12065560096642860754",
+        "cites_id": [
+            "12065560096642860754"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Toward the inter-comparison of radiation transfert model for plant modelling application",
+            "pub_year": "2016",
+            "citation": "IEEE International Conference on Functional-Structural Plant Growth Modeling \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:0qX8s2k1IRwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10885220243603788131",
+        "cites_id": [
+            "10885220243603788131"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of a photon tracing model and virtual plants to simulate light distribution within a canopy in a growth chamber",
+            "pub_year": "2015",
+            "citation": "Publishers: Finnish Society of Forest Science, Vantaa, Finland Finnish \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:Qh5Z_vBjo80C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8727541983410790623",
+        "cites_id": [
+            "8727541983410790623"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Which temperature to simulate foliar epidemics\u00d7 crop architecture interactions?",
+            "pub_year": "2012",
+            "citation": "Conf\u00e9rence internationale Epidemiology-Canopy-Architecture (ECA),, np, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:aVq8r21TQD4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9263560614718899386",
+        "cites_id": [
+            "9263560614718899386"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Climate and plant pest dynamics: scales matter",
+            "pub_year": "2012",
+            "citation": "Plant and canopy architecture impact on disease epidemiology and pest \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:BqipwSGYUEgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12967189167770344581",
+        "cites_id": [
+            "12967189167770344581"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of aggressiveness components of Mycosphaerella graminicola on adult wheat plants",
+            "pub_year": "2011",
+            "citation": "8. International symposium on Mycosphaerella and stagonospora diseases of \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:ZYLUaBFA95QC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13261252488491304928",
+        "cites_id": [
+            "13261252488491304928"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A nested approach to model the temperature of individual leaves within crop canopies",
+            "pub_year": "2010",
+            "citation": "6. International Workshop, np, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:PQY3Tb_h0-cC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10977899557518823944",
+        "cites_id": [
+            "10977899557518823944"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using phylloclimate simulations to identify the radiative variables driving the budbreak of rose bush grown in growth chamber",
+            "pub_year": "2010",
+            "citation": "6. International Workshop, np, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:v7SMsomtfXcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2109550515634833730",
+        "cites_id": [
+            "2109550515634833730"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Test of the SAIL\u2014Thermique radiative transfer model for simulating thermal infrared emissivity and emissivity spectra of plant canopies",
+            "pub_year": "2009",
+            "citation": "Proc. IGARSS, 12-17, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:i6LplTXqhpIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17415833321526050052",
+        "cites_id": [
+            "17415833321526050052"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light phylloclimate within growth chambers: a modeling approach.",
+            "pub_year": "2009",
+            "citation": "Comparative Biochemistry and Physiology, Part A 2 (153), S229, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:1l3MdapXzAoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6532010937603124952",
+        "cites_id": [
+            "6532010937603124952"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using a turbid medium approach to estimate light interception by individual plants",
+            "pub_year": "2009",
+            "citation": "Comparative Biochemistry and Physiology, Part A 2 (153), S223, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3030081581211277587",
+        "cites_id": [
+            "3030081581211277587"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A hybrid method to estimate light phylloclimate within growth chambers",
+            "pub_year": "2007",
+            "citation": "5. International Workshop on Functional Structural Plant Models, np, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:3jqAvCjcdfEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8890134449214949788",
+        "cites_id": [
+            "8890134449214949788"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epilogue: Functional-structural plant models in crop production: where are we and where to go?",
+            "pub_year": "2007",
+            "citation": "Frontis, 265-268, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:P-MJmu9ZMwQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3064846925001341401",
+        "cites_id": [
+            "3064846925001341401"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A 3 dimensional physical model to predict temperature dynamics within fruits in response to environment changes",
+            "pub_year": "2007",
+            "citation": "5. International Workshop on Functional-Structural Plant Models, 30, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:LzOrNEA7mwcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11654433901545843417",
+        "cites_id": [
+            "11654433901545843417"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic variability for pre-and post-flowering nitrogen metabolism in maize in relation to plant architecture and leaf senescence",
+            "pub_year": "2004",
+            "citation": "4th International Crop Science Congress, Brisbane, AU, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7435272453146324528",
+        "cites_id": [
+            "7435272453146324528"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Building a physical model of water transfer by rain splash in a 3-D canopy structure",
+            "pub_year": "2000",
+            "citation": "24th Conference on Agricultural and Forest Meteorology, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:M7C5BM2v8n8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12611197572823335969",
+        "cites_id": [
+            "12611197572823335969"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e8les surfaciques du microclimat radiatif dans les couverts v\u00e9g\u00e9taux: Radiosit\u00e9 mixte et lancer de rayons stochastique",
+            "pub_year": "1997",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:qt-6tCTBDsQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3091995757061817384",
+        "cites_id": [
+            "3091995757061817384"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ALiBi: un exemple de mod\u00e9le de transferts sol-v\u00e9g\u00e9tation-atmosph\u00e8re",
+            "pub_year": "1995",
+            "citation": "Ecole des chercheurs INRA 1, 489-504, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:yeKNu01O_4gC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=652479080454868095",
+        "cites_id": [
+            "652479080454868095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Daily fluctuations in leaf temperature modulate the development of a foliar pathogen",
+            "pub_year": "2022",
+            "citation": "Agricultural and Forest Meteorology 322, 109031, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:Ui_nyea79ooC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Principles of data governance for research organizations-INRAE's approach",
+            "pub_year": "2020",
+            "citation": "Data for policy 2020, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:xEMdJR0kL_sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recommandations Outils Collaboratifs DIPSO-Version 1.1",
+            "pub_year": "2020",
+            "citation": "INRAE Direction pour la Science Ouverte-DipSO, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:9w9GTvUEN2YC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synth\u00e8se 2019 des entretiens CATI INRAE",
+            "pub_year": "2019",
+            "citation": "Inrae, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:3wLP7v6BnpwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deciphering the response of winter oilseed rape to nitrogen inputs: fine roots do matter in Nitrogen Use Efficiency!",
+            "pub_year": "2019",
+            "citation": "15th International Rapeseed Congress, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:YanO1q2l3soC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Goniospectrophotom\u00e8tre pour mesurer les BRDF/BTDF des feuilles v\u00e9g\u00e9tales",
+            "pub_year": "2019",
+            "citation": "Quand la mati\u00e8re diffuse la lumi\u00e8re, 455 p., 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:ve7iT2ZEuL4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "R\u00e9flexion prospective interdisciplinaire. Approches pr\u00e9dictives pour la biologie et l\u2019\u00e9cologie. Rapport de synth\u00e8se.",
+            "pub_year": "2019",
+            "citation": "INRA, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:nnITTVbzT6kC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Les BRDF dans les mod\u00e8les de transferts radiatifs de couverts v\u00e9g\u00e9taux",
+            "pub_year": "2019",
+            "citation": "Quand la mati\u00e8re diffuse la lumi\u00e8re, 455 p., 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:S0RksyIsHSIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Training doctoral students and supervisors together at Inra, a multidisciplinary research institute",
+            "pub_year": "2019",
+            "citation": "Natures Sciences Societes 27 (3), 327-335, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:OkrdTXRNpVkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Why does it matter to consider processes instead of variables for deciphering NUE in oilseed rape? The case study of leaf area and whole-plant N quantity",
+            "pub_year": "2017",
+            "citation": "5th Annual Meeting of the RAPSODYN PIA, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:5N-NJrZHaHcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EDEN, an innovative training programme in a French research institute to develop reflexivity in the PhD student\u2013supervisor (s) system",
+            "pub_year": "2017",
+            "citation": "Doctoral Education Bulletin, 9, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:PcT55Ow6fAIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating passive and active measurements of canopy fluorescence yield: a 3D approach",
+            "pub_year": "2016",
+            "citation": "FSPMA2016, International Conference on Functional-Structural Plant Growth \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:l7iSsH4_Im4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Response of french Zymoseptoria tritici populations to temperature at different spatio-temporal scales",
+            "pub_year": "2016",
+            "citation": "9. International symposium on Septoria diseases of cereals, p. 30, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:qOpkhvVCMvUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The fourth phase of the radiative transfer model intercomparison (RAMI) exercise",
+            "pub_year": "2015",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:2u1QkWOsl3MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CyberPlantS: a European initiative towards collaborative plant modeling",
+            "pub_year": "2013",
+            "citation": "7th International conference on functional-structural plant models (FSPM \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:H-3wYkpcA84C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temperature across scales, from phylloclimate to mesoclimte: what about foliar fungal pathogen development?",
+            "pub_year": "2012",
+            "citation": "8\u00e8me Colloque de la Soci\u00e9t\u00e9 Fran\u00e7aise de Phytopathologie (SFP),, p. 80, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:rUnQDpM0TEQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phylloclimate: a key variable to model (diseased) plant interaction",
+            "pub_year": "2011",
+            "citation": "International Seminar on Modelling in Plant Biology: Models at whole plant \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:OqYjx1B7R3oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "At which scale modeling plant-climate-pathogen interactions to find new levers in pest management? Phylloclimate a key variable to study interactions?",
+            "pub_year": "2010",
+            "citation": "nternational Workshop on Mathematical Modeling of Plant Development, 35 \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:6ScxedgR18sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "pyCupid, a gateway to easily take into account the microclimate within crop FSPMs",
+            "pub_year": "2010",
+            "citation": "6h. International Workshop, np, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:HmWvvuJwtxYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of the turbid medium approach to simulate light scattering within plant canopies at three spatial scales",
+            "pub_year": "2010",
+            "citation": "6. International Workshop, p. 285, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:q7LczdTNAjsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Le phylloclimat ou le microclimat per\u00e7u par l\u2019organe Pourquoi? Quel int\u00e9r\u00eat pour l\u2019\u00e9pid\u00e9miologie v\u00e9g\u00e9tale?",
+            "pub_year": "2010",
+            "citation": "8\u00e8mes Rencontres de Phytopathologie-Mycologie de la Soci\u00e9t\u00e9 Fran\u00e7aise de \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:FtNbRaqWXr4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensitivity to temperature of epidemiological processes at leaf scale, a preliminary step towards FSPMs of sick wheat",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:mB3voiENLucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Should be Taken into Account the Plant Azimuth to Estimate the Light Phylloclimate within a Virtual Maize Canopy?",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mesure du rayonnement naturel pour la mod\u00e9lisation de la temp\u00e9rature des organes: application aux fruits",
+            "pub_year": "2009",
+            "citation": "Cahier des Techniques de l'INRA, 127-134, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:o0eFlWRwRSUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling disease-crop canopy interactions: from research to operationnal tools for integrated pest management.",
+            "pub_year": "2009",
+            "citation": "Association Fran\u00e7aise de Protection des Plantes, 9\u00e8me conf\u00e9rence \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Blue light modifies the response of Arabidopsis thaliana to limiting nitrogen supply",
+            "pub_year": "2009",
+            "citation": "Comparative Biochemistry and Physiology, Part A 2 (153), S208, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sharing efforts for modelling plant systems: from publications to reusable software components",
+            "pub_year": "2009",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Le phylloclimat ou le microclimat per\u00e7u par l'organe, variable-clef des comp\u00e9titions plante-plante et h\u00f4te-pathog\u00e8ne",
+            "pub_year": "2008",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:gxb_f1p9zx4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effect of the plants azimuth on light phylloclimate within a virtual maize canopy",
+            "pub_year": "2007",
+            "citation": "5. International Workshop, np, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:zaHkCSmj5XkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating the red: far-red ratio of individual plant organs, a key issue for phytochrome-driven processes.",
+            "pub_year": "2007",
+            "citation": "5th International Workshop on Functional-Structural Plant Models, 55.1-55.3, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Edwards, NR 362 Eliassen, S. 115 Ezoe, H. 293 Faddy, MJ 154",
+            "pub_year": "2006",
+            "citation": "ecological modelling 198, 525-526, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:blknAaTinKkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "D\u00e9p\u00f4t d'ozone sur un couvert v\u00e9g\u00e9tal: M\u00e9canismes et cons\u00e9quences. R\u00e9sultats du projet Biopollatm",
+            "pub_year": "2005",
+            "citation": "1. Colloque de restitution Scientifique, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:qUcmZB5y_30C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biopollatm: Biosph\u00e8re et pollution atmosph\u00e9rique en zone rurale et p\u00e9riurbaine. Rapport de fin de contrat",
+            "pub_year": "2004",
+            "citation": "INRA; ADEME, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:GDem9OnCwu8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytoclimate: spatial distribution, modeling and coupling with Function-Structure Plant Models",
+            "pub_year": "2004",
+            "citation": "CIRAD-AMAP, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pr\u00e9sentation de mod\u00e8les surfaciques (3D) de transferts radiatifs",
+            "pub_year": "2003",
+            "citation": "ECOFOR, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:TQgYirikUcIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeles radiatifs pour la modelisation architecturale",
+            "pub_year": "1999",
+            "citation": "Agronomie (France) 19 (3), 1999"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:NObE97JSLecC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Architectural modelling of plants-Radiative transfer sensitivity to the accuracy of canopy structure description. The case of maize canopy",
+            "pub_year": "1999",
+            "citation": "Agronomie-Sciences des Productions Vegetales et de l'Environnement 19 (3 \u2026, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:qwOXE0mbtu4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiative transfer sensitivity to the accuracy of canopy structure description. The case of maize canopy",
+            "pub_year": "1999",
+            "citation": "AGRONOMIE-PARIS- 19 (3), 241-254, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:wTekDMGr9GkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Andrieu, B. 25 Apps, MJ 175, 225, 275 Aries, F. 25",
+            "pub_year": "1999",
+            "citation": "Ecological Modelling 122, 307, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:hMod-77fHWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Un modele dynamique d'architecture 3D du mais: application a la description de l'agregation du couvert.",
+            "pub_year": "1998",
+            "citation": "Agronomie (France). 18 (10), 1998"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:QZWLLlSfqgYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Andrieu, B. 75 August, RA 121",
+            "pub_year": "1998",
+            "citation": "Ecological Modelling 111, 301, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation 3D du ma\u00efs pour la simulation de la r\u00e9flectance",
+            "pub_year": "1997",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:w_ORaKkuc5QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rappel sur les lois fondamentales du rayonnement.",
+            "pub_year": "1996",
+            "citation": "\u00c9cole-chercheurs en bioclimatologie. 1-De la plante au couvert v\u00e9g\u00e9tal, pp \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:1pC5hbHeJ6IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation des \u00e9changes radiatifs distribu\u00e9s par organe et par plante",
+            "pub_year": "1996",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:CB6W3GmKGOEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Utilizaci\u00f3n de maquetas informaticas para simular la variaci\u00f3n direccional de la reflectancia en cultivos de ma\u00edz",
+            "pub_year": "1996",
+            "citation": "Photo interpr\u00e9tation (Paris) 34 (3-4), 66-71, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Image synthesis as a tool to model light microclimate in vegetation canopies",
+            "pub_year": "1995",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:2TuIPqOg0e0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "diseases to temperature; the temperature actually perceived by the pathogen, however, is the leaf temperature.",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:pZ2CosqRuhkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "L\u2019approche \u00abplante virtuelle\u00bb pour l\u2019analyse des interactions entre les plantes et leur environnement",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:KPAPMsW7zc0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation 3D du ma\u00efs pour la simulation de la r\u00e9flectance Marisa Es pana Boq uera (1)-Fr\u00e9d\u00e9ric Baret (1",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:0kLwNjf3oFwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mesure du rayonnement naturel pour la mod\u00e9lisation de la temp\u00e9rature des organes",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:DOLguN9Lh8sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FSPM 0 4 SHORT PRESENTATIONS\u2013SESSION 4",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:r0BpntZqJG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensibilit\u00e9 de maladie fongique du bl\u00e9 au phylloclimat: mod\u00e9lisation & simulation",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "EAcCGNsAAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    }
+]

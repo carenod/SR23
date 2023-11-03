@@ -1,0 +1,1905 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molcas 8: New capabilities for multiconfigurational quantum chemical calculations across the periodic table",
+            "pub_year": "2016",
+            "citation": "Journal of computational chemistry 37 (5), 506-541, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1459,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14287019092188172096",
+        "cites_id": [
+            "14287019092188172096"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OpenMolcas: From source code to insight",
+            "pub_year": "2019",
+            "citation": "Journal of chemical theory and computation 15 (11), 5925-5964, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:ns9cj8rnVeAC",
+        "num_citations": 617,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12913956424033285988",
+        "cites_id": [
+            "12913956424033285988"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retinal isomerization in bacteriorhodopsin captured by a femtosecond x-ray laser",
+            "pub_year": "2018",
+            "citation": "Science 361 (6398), eaat0094, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:iH-uZ7U-co4C",
+        "num_citations": 298,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4608912317334936104",
+        "cites_id": [
+            "4608912317334936104"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modern quantum chemistry with [Open] Molcas",
+            "pub_year": "2020",
+            "citation": "The Journal of Chemical Physics 152 (21), 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:HoB7MX3m0LUC",
+        "num_citations": 265,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=870734943474598457",
+        "cites_id": [
+            "870734943474598457"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Theory and simulation of the ultrafast double-bond isomerization of biological chromophores",
+            "pub_year": "2017",
+            "citation": "Chemical reviews 117 (22), 13502-13565, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 233,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17459502895269476927",
+        "cites_id": [
+            "17459502895269476927"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ultrafast photoisomerizations of rhodopsin and bathorhodopsin are modulated by bond length alternation and HOOP driven electronic effects",
+            "pub_year": "2011",
+            "citation": "Journal of the American Chemical Society 133 (10), 3354-3364, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 191,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10469976025857836332",
+        "cites_id": [
+            "10469976025857836332"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic electron correlation effects on the ground state potential energy surface of a retinal chromophore model",
+            "pub_year": "2012",
+            "citation": "Journal of chemical theory and computation 8 (11), 4069-4080, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 151,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9166476484663912734",
+        "cites_id": [
+            "9166476484663912734"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of Approximate Coupled-Cluster and Algebraic-Diagrammatic-Construction Methods for Ground-and Excited-State Reaction Paths and the Conical-Intersection Seam of a \u2026",
+            "pub_year": "2015",
+            "citation": "Journal of chemical theory and computation 11 (12), 5758-5781, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 129,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7368354563884655656",
+        "cites_id": [
+            "7368354563884655656"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of n-electron valence state perturbation theory for vertical excitation energies",
+            "pub_year": "2013",
+            "citation": "Journal of chemical theory and computation 9 (8), 3567-3580, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15420127175500476502",
+        "cites_id": [
+            "15420127175500476502"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The molecular mechanism of thermal noise in rod photoreceptors",
+            "pub_year": "2012",
+            "citation": "Science 337 (6099), 1225-1228, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4164036753219906363",
+        "cites_id": [
+            "4164036753219906363"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Femtosecond-to-millisecond structural changes in a light-driven sodium pump",
+            "pub_year": "2020",
+            "citation": "Nature 583 (7815), 314-318, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:3s1wT3WcHBgC",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10899270843277467460",
+        "cites_id": [
+            "10899270843277467460"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of density functional theory for describing the correlation effects on the ground and excited state potential energy surfaces of a retinal chromophore model",
+            "pub_year": "2013",
+            "citation": "Journal of chemical theory and computation 9 (9), 3917-3932, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2256824239277480071",
+        "cites_id": [
+            "2256824239277480071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using the computer to understand the chemistry of conical intersections",
+            "pub_year": "2011",
+            "citation": "Photochemical & Photobiological Sciences 10 (6), 867-886, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5242748041124642778",
+        "cites_id": [
+            "5242748041124642778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evidence for a vibrational phase-dependent isotope effect on the photochemistry of vision",
+            "pub_year": "2018",
+            "citation": "Nature chemistry 10 (4), 449-455, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:maZDTaKrznsC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5556004498420761090",
+        "cites_id": [
+            "5556004498420761090"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evidence for a vibrational phase-dependent isotope effect on the photochemistry of vision",
+            "pub_year": "2018",
+            "citation": "Nature chemistry 10 (4), 449-455, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5556004498420761090",
+        "cites_id": [
+            "5556004498420761090"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Electronic Structures of Octahedral Ni (II) Complexes with \u201cClick\u201d Derived Triazole Ligands: A Combined Structural, Magnetometric, Spectroscopic, and Theoretical Study",
+            "pub_year": "2013",
+            "citation": "Inorganic chemistry 52 (12), 6880-6892, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3078894139036798890",
+        "cites_id": [
+            "3078894139036798890"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanistic origin of the vibrational coherence accompanying the photoreaction of biomimetic molecular switches",
+            "pub_year": "2012",
+            "citation": "Chemistry-A European Journal 18 (48), 15296-15304, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7236365076942398623",
+        "cites_id": [
+            "7236365076942398623"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Directionality of double-bond photoisomerization dynamics induced by a single stereogenic center",
+            "pub_year": "2015",
+            "citation": "The journal of physical chemistry letters 6 (4), 599-604, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1468747980961868451",
+        "cites_id": [
+            "1468747980961868451"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bicycle-pedal isomerization in a rhodopsin chromophore model",
+            "pub_year": "2009",
+            "citation": "Journal of the American Chemical Society 131 (1), 16-17, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10391372444694684705",
+        "cites_id": [
+            "10391372444694684705"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural elements regulating the photochromicity in a cyanobacteriochrome",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (5), 2432-2440, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:ldfaerwXgEUC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9395535458290592456",
+        "cites_id": [
+            "9395535458290592456"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photochemistry of visual pigment chromophore models by ab initio molecular dynamics",
+            "pub_year": "2007",
+            "citation": "The Journal of Physical Chemistry B 111 (14), 3782-3788, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:qjMakFHDy7sC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7004384556954485169",
+        "cites_id": [
+            "7004384556954485169"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effective conjugation length is responsible for the red/green spectral tuning in the cyanobacteriochrome Slr1393g3",
+            "pub_year": "2019",
+            "citation": "Angewandte Chemie International Edition 58 (7), 1934-1938, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:JV2RwH3_ST0C",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5586518548715033053,3196324651060915986",
+        "cites_id": [
+            "5586518548715033053",
+            "3196324651060915986"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ir(III)-PC(sp3)P Bifunctional Catalysts for Production of H2 by Dehydrogenation of Formic Acid: Experimental and Theoretical Study",
+            "pub_year": "2017",
+            "citation": "ACS Catalysis 7 (12), 8139-8146, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:HDshCWvjkbEC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11464173497162309102",
+        "cites_id": [
+            "11464173497162309102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational photobiology and beyond",
+            "pub_year": "2010",
+            "citation": "Australian journal of chemistry 63 (3), 413-429, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3703201459870528491",
+        "cites_id": [
+            "3703201459870528491"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Toward an understanding of the retinal chromophore in rhodopsin mimics",
+            "pub_year": "2013",
+            "citation": "The Journal of Physical Chemistry B 117 (35), 10053-10070, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:ufrVoPGSRksC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12687969379678377363",
+        "cites_id": [
+            "12687969379678377363"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NeoR, a near-infrared absorbing rhodopsin",
+            "pub_year": "2020",
+            "citation": "Nature communications 11 (1), 5682, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:yD5IFk8b50cC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4969043397004738048",
+        "cites_id": [
+            "4969043397004738048"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structures of the archaerhodopsin-3 transporter reveal that disordering of internal water networks underpins receptor sensitization",
+            "pub_year": "2021",
+            "citation": "Nature Communications 12 (1), 629, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:f2IySw72cVMC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7959993711000974072,4060190955364716639",
+        "cites_id": [
+            "7959993711000974072",
+            "4060190955364716639"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "QM/MM Benchmarking of Cyanobacteriochrome Slr1393g3 Absorption Spectra",
+            "pub_year": "2019",
+            "citation": "Molecules 24 (9), 1720, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4965540586443183259",
+        "cites_id": [
+            "4965540586443183259"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ultrafast photochemistry of anabaena sensory rhodopsin: Experiment and theory",
+            "pub_year": "2014",
+            "citation": "Biochimica et Biophysica Acta (BBA)-Bioenergetics 1837 (5), 589-597, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1199785235212829561",
+        "cites_id": [
+            "1199785235212829561"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamics and mechanism of a light-driven chloride pump",
+            "pub_year": "2022",
+            "citation": "Science 375 (6583), 845-851, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:KxtntwgDAa4C",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2544513465703889281",
+        "cites_id": [
+            "2544513465703889281"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Guiding a divergent reaction by photochemical control: bichromatic selective access to levulinates and butenolides",
+            "pub_year": "2018",
+            "citation": "Chemical science 9 (5), 1368-1374, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7257804607645595589",
+        "cites_id": [
+            "7257804607645595589"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synthesis, spectroscopy and QM/MM simulations of a biomimetic ultrafast light-driven molecular motor",
+            "pub_year": "2019",
+            "citation": "Photochemical & Photobiological Sciences 18, 2259-2269, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:RGFaLdJalmkC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14295426255061259433",
+        "cites_id": [
+            "14295426255061259433"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Conical Intersection Controls the Deactivation of the Bacterial Luciferase Fluorophore",
+            "pub_year": "2014",
+            "citation": "Angewandte Chemie 126 (37), 10028-10033, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9966394385680044223",
+        "cites_id": [
+            "9966394385680044223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bond torsion affects the product distribution in the photoreaction of retinal model chromophores",
+            "pub_year": "2006",
+            "citation": "Journal of Molecular Modeling 12, 713-721, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:WF5omc3nYNoC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17588011462199577338",
+        "cites_id": [
+            "17588011462199577338"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comprehensive benchmark of the XMS-CASPT2 method for the photochemistry of a retinal chromophore model",
+            "pub_year": "2018",
+            "citation": "Molecular Physics 116 (19-20), 2571-2582, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7691367860338355768",
+        "cites_id": [
+            "7691367860338355768"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Binding affinity and mechanisms of SARS-CoV-2 variants",
+            "pub_year": "2021",
+            "citation": "Computational and structural biotechnology journal 19, 4184-4191, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:P5F9QuxV20EC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18268190002969477724",
+        "cites_id": [
+            "18268190002969477724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The interplay between chromophore and protein determines the extended excited state dynamics in a single-domain phytochrome",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (28), 16356-16362, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:fPk4N6BV_jEC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3721493882833160679",
+        "cites_id": [
+            "3721493882833160679"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fast excited-state deactivation in N (5)-ethyl-4a-hydroxyflavin pseudobase",
+            "pub_year": "2011",
+            "citation": "The Journal of Physical Chemistry B 115 (21), 7136-7143, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:roLk4NBRz8UC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14009148892028954990",
+        "cites_id": [
+            "14009148892028954990"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure of the Photochemical Reaction Path Populated via Promotion of CF2I2 into Its First Excited State",
+            "pub_year": "2009",
+            "citation": "The Journal of Physical Chemistry A 113 (40), 10767-10771, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:Se3iqnhoufwC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12292953914601815618",
+        "cites_id": [
+            "12292953914601815618"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Frontiers in multiscale modeling of photoreceptor proteins",
+            "pub_year": "2021",
+            "citation": "Photochemistry and photobiology 97 (2), 243-269, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:bFI3QPDXJZMC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10210468323717492109",
+        "cites_id": [
+            "10210468323717492109"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intramolecular Proton Transfer Controls Protein Structural Changes in Phytochrome",
+            "pub_year": "2020",
+            "citation": "Biochemistry 59 (9), 1023-1037, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:g5m5HwL7SMYC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11433769639527592154",
+        "cites_id": [
+            "11433769639527592154"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "15N photo-CIDNP MAS NMR analysis of reaction centers of Chloracidobacterium thermophilum",
+            "pub_year": "2018",
+            "citation": "Photosynthesis research 137, 295-305, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:RHpTSmoSYBkC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2183743696939486064",
+        "cites_id": [
+            "2183743696939486064"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SORCI for photochemical and thermal reaction paths: A benchmark study",
+            "pub_year": "2014",
+            "citation": "Computational and Theoretical Chemistry 1040, 84-98, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:0EnyYjriUFMC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15690186153881097920",
+        "cites_id": [
+            "15690186153881097920"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Excitation energies of canonical nucleobases computed by multiconfigurational perturbation theories",
+            "pub_year": "2017",
+            "citation": "Photochemistry and photobiology 93 (3), 888-902, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15211710347574143696",
+        "cites_id": [
+            "15211710347574143696"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Histidine protonation controls structural heterogeneity in the cyanobacteriochrome AnPixJg2",
+            "pub_year": "2021",
+            "citation": "Physical Chemistry Chemical Physics 23 (12), 7359-7367, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:dfsIfKJdRG4C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5007994628810122933",
+        "cites_id": [
+            "5007994628810122933"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nuclear spin-hyperpolarization generated in a flavoprotein under illumination: experimental field-dependence and theoretical level crossing analysis",
+            "pub_year": "2019",
+            "citation": "Scientific Reports 9 (1), 18436, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:vV6vV6tmYwMC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9726148327243198336",
+        "cites_id": [
+            "9726148327243198336"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spectral tuning of chlorophylls in proteins\u2013electrostatics vs. ring deformation",
+            "pub_year": "2021",
+            "citation": "Physical Chemistry Chemical Physics 23 (11), 6544-6551, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:SeFeTyx0c_EC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11442502440183366960",
+        "cites_id": [
+            "11442502440183366960"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Serial crystallography captures dynamic control of sequential electron and proton transfer events in a flavoenzyme",
+            "pub_year": "2022",
+            "citation": "Nature Chemistry 14 (6), 677-685, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:dshw04ExmUIC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12670503122011576111",
+        "cites_id": [
+            "12670503122011576111"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic Properties of the Photosensory Domain of Deinococcus radiodurans Bacteriophytochrome",
+            "pub_year": "2020",
+            "citation": "The Journal of Physical Chemistry B 124 (9), 1740-1750, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:70eg2SAEIzsC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5777240365771106800",
+        "cites_id": [
+            "5777240365771106800"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spectroscopic Properties of Lumiflavin: A Quantum Chemical Study",
+            "pub_year": "2019",
+            "citation": "Photochemistry and photobiology 95 (2), 662-674, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:TFP_iSt0sucC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3548019750980015253",
+        "cites_id": [
+            "3548019750980015253"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Different hydrogen bonding environments of the retinal protonated Schiff base control the photoisomerization in channelrhodopsin-2",
+            "pub_year": "2018",
+            "citation": "Physical Chemistry Chemical Physics 20 (43), 27501-27509, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:NaGl4SEjCO4C",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6750278188061458090",
+        "cites_id": [
+            "6750278188061458090"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Different hydrogen bonding environments of the retinal protonated Schiff base control the photoisomerization in channelrhodopsin-2",
+            "pub_year": "2018",
+            "citation": "Physical Chemistry Chemical Physics 20 (43), 27501-27509, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:isC4tDSrTZIC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6750278188061458090",
+        "cites_id": [
+            "6750278188061458090"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A QM/MM study of the initial excited state dynamics of green-absorbing Proteorhodopsin",
+            "pub_year": "2017",
+            "citation": "Faraday Discussions, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:mB3voiENLucC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17239691568465395523",
+        "cites_id": [
+            "17239691568465395523"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Initial Excited-State Dynamics of an N-Alkylated Indanylidene\u2013Pyrroline (NAIP) Rhodopsin Analog",
+            "pub_year": "2014",
+            "citation": "The Journal of Physical Chemistry B 118 (42), 12243-12250, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:UebtZRa9Y70C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1182940285425222020",
+        "cites_id": [
+            "1182940285425222020"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rhodopsin-bestrophin fusion proteins from unicellular algae form gigantic pentameric ion channels",
+            "pub_year": "2022",
+            "citation": "Nature Structural & Molecular Biology 29 (6), 592-603, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:uWQEDVKXjbEC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=99367001258075828",
+        "cites_id": [
+            "99367001258075828"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bridged Aromatic Oxo\u2010and Thioethers with Intense Emission in Solution and the Solid State",
+            "pub_year": "2021",
+            "citation": "Chemistry\u2013An Asian Journal 16 (16), 2307-2313, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:_xSYboBqXhAC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3339165281800906701",
+        "cites_id": [
+            "3339165281800906701"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A surface hopping algorithm for nonadiabatic minimum energy path calculations",
+            "pub_year": "2015",
+            "citation": "Journal of computational chemistry 36 (5), 312-320, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:8k81kl-MbHgC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8690893347496318083",
+        "cites_id": [
+            "8690893347496318083"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signal transduction in light-oxygen-voltage receptors lacking the active-site glutamine",
+            "pub_year": "2022",
+            "citation": "Nature Communications 13 (1), 2618, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:CHSYGLWDkRkC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10779879557400334172",
+        "cites_id": [
+            "10779879557400334172"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanism of excited state deactivation of indan-1-ylidene and fluoren-9-ylidene malononitriles",
+            "pub_year": "2016",
+            "citation": "Physical Chemistry Chemical Physics 18 (48), 32786-32795, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6717618537934511546",
+        "cites_id": [
+            "6717618537934511546"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Counterion-controlled spectral tuning of the protonated Schiff-base retinal",
+            "pub_year": "2018",
+            "citation": "Physical Review A 98 (4), 043428, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:hMod-77fHWUC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15385876488902264582",
+        "cites_id": [
+            "15385876488902264582"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Counterion-controlled spectral tuning of the protonated Schiff-base retinal",
+            "pub_year": "2018",
+            "citation": "Physical Review A 98 (4), 043428, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:blknAaTinKkC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15385876488902264582",
+        "cites_id": [
+            "15385876488902264582"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Counterion-controlled spectral tuning of the protonated Schiff-base retinal",
+            "pub_year": "2018",
+            "citation": "Physical Review A 98 (4), 043428, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15385876488902264582",
+        "cites_id": [
+            "15385876488902264582"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Counterion-controlled spectral tuning of the protonated Schiff-base retinal",
+            "pub_year": "2018",
+            "citation": "Physical Review A 98 (4), 043428, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:k_IJM867U9cC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15385876488902264582",
+        "cites_id": [
+            "15385876488902264582"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Space and Time Evolution of the Electrostatic Potential During the Activation of a Visual Pigment",
+            "pub_year": "2016",
+            "citation": "The journal of physical chemistry letters 7 (13), 2563-2567, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13371988170066826960",
+        "cites_id": [
+            "13371988170066826960"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural factors determining the absorption spectrum of channelrhodopsins: A Case study of the chimera C1C2",
+            "pub_year": "2021",
+            "citation": "Journal of Chemical Theory and Computation 17 (10), 6302-6313, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:ZHo1McVdvXMC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14667953205967885729",
+        "cites_id": [
+            "14667953205967885729"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Origin of Bond Selectivity and Excited-State Reactivity in Retinal Analogues",
+            "pub_year": "2016",
+            "citation": "The Journal of Physical Chemistry A 120 (19), 3353-3365, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18110403379717171719",
+        "cites_id": [
+            "18110403379717171719"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ultrafast proton-coupled isomerization in the phototransformation of phytochrome",
+            "pub_year": "2022",
+            "citation": "Nature Chemistry 14 (7), 823-830, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:SP6oXDckpogC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1684823002761421732",
+        "cites_id": [
+            "1684823002761421732"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of retinal configuration on the protein\u2013chromophore interactions in bistable jumping spider rhodopsin-1",
+            "pub_year": "2021",
+            "citation": "Molecules 27 (1), 71, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15660348037123538856",
+        "cites_id": [
+            "15660348037123538856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two-photon conversion of a bacterial phytochrome",
+            "pub_year": "2021",
+            "citation": "Biophysical Journal 120 (5), 964-974, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:pyW8ca7W8N0C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13360435940267177722",
+        "cites_id": [
+            "13360435940267177722"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Matrix isolation and computational studies of the CF2I radical",
+            "pub_year": "2010",
+            "citation": "Chemical Physics Letters 496 (1-3), 68-73, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:5nxA0vEk-isC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=433910272489498379",
+        "cites_id": [
+            "433910272489498379"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The OpenMolcas Web: A Community-Driven Approach to Advancing Computational Chemistry",
+            "pub_year": "2023",
+            "citation": "Journal of Chemical Theory and Computation, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:K3LRdlH-MEoC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=854229757559602730",
+        "cites_id": [
+            "854229757559602730"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retinal chromophore charge delocalization and confinement explain the extreme photophysics of Neorhodopsin",
+            "pub_year": "2022",
+            "citation": "Nature Communications 13 (1), 6652, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:Tiz5es2fbqcC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8860712101013425789",
+        "cites_id": [
+            "8860712101013425789"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ultrafast Backbone Protonation in Channelrhodopsin-1 Captured by Polarization Resolved Fs Vis-pump\u2014IR-Probe Spectroscopy and Computational Methods",
+            "pub_year": "2020",
+            "citation": "Molecules 25 (4), 848, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:2P1L_qKh6hAC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8553329559563389582",
+        "cites_id": [
+            "8553329559563389582"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rhodopsins carrying modified chromophores\u2014the \u2018making of\u2019, structural modelling and their light-induced reactivity",
+            "pub_year": "2016",
+            "citation": "Photochemical & Photobiological Sciences 15, 297-308, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:-f6ydRqryjwC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17874327889120571971",
+        "cites_id": [
+            "17874327889120571971"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of twisting on the intersystem crossing in acenes: an experimental and computational study",
+            "pub_year": "2022",
+            "citation": "Physical Chemistry Chemical Physics 24 (4), 2357-2362, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13807228532147907570",
+        "cites_id": [
+            "13807228532147907570"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transient Near-UV Absorption of the Light-Driven Sodium Pump Krokinobacter eikastus Rhodopsin 2: A Spectroscopic Marker for Retinal Configuration",
+            "pub_year": "2021",
+            "citation": "The Journal of Physical Chemistry Letters 12 (27), 6284-6291, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:b0M2c_1WBrUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5259523699377650155",
+        "cites_id": [
+            "5259523699377650155"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modulation of light energy transfer from chromophore to protein in the channelrhodopsin ReaChR",
+            "pub_year": "2020",
+            "citation": "Biophysical Journal 119 (3), 705-716, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8057173011748061041",
+        "cites_id": [
+            "8057173011748061041"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Atomistic Insight into the Role of Threonine 127 in the Functional Mechanism of Channelrhodopsin-2",
+            "pub_year": "2019",
+            "citation": "Applied Sciences 9 (22), 4905, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:lSLTfruPkqcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1637233566827824073",
+        "cites_id": [
+            "1637233566827824073"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photocrosslinking between nucleic acids and proteins: general discussion",
+            "pub_year": "2018",
+            "citation": "Faraday discussions 207, 283-306, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:M05iB0D1s5AC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6888387703362499603",
+        "cites_id": [
+            "6888387703362499603"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photocrosslinking between nucleic acids and proteins: general discussion",
+            "pub_year": "2018",
+            "citation": "Faraday discussions 207, 283-306, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6888387703362499603",
+        "cites_id": [
+            "6888387703362499603"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optical Activity and Spin Polarization: The Surface Effect",
+            "pub_year": "2023",
+            "citation": "Journal of the American Chemical Society 145 (7), 3972-3977, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:738O_yMBCRsC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13304581727352055706",
+        "cites_id": [
+            "13304581727352055706"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insight into the isomerization mechanism of retinal proteins from hybrid quantum mechanics/molecular mechanics simulations",
+            "pub_year": "2022",
+            "citation": "Wiley Interdisciplinary Reviews: Computational Molecular Science 12 (1), e1562, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:EUQCXRtRnyEC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3167989111123447791",
+        "cites_id": [
+            "3167989111123447791"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tuning the Emission Behaviour of Halogenated Bridged Ethers in Solution, as Solids and as Aggregates by Chalcogen Substitution",
+            "pub_year": "2023",
+            "citation": "ChemPhotoChem 7 (1), e202200169, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:u9iWguZQMMsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16279750237583723247",
+        "cites_id": [
+            "16279750237583723247"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Embedding non-rigid solutes in an averaged environment: a case study on rhodopsins",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:xtRiw3GOFMkC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3887276172910959062",
+        "cites_id": [
+            "3887276172910959062"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bending versus Twisting Acenes\u2013A Computational Study",
+            "pub_year": "2021",
+            "citation": "European journal of organic chemistry 2021 (39), 5424-5429, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:NhqRSupF_l8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17314729837158309707",
+        "cites_id": [
+            "17314729837158309707"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational Studies of Photochemistry in Phytochrome Proteins",
+            "pub_year": "2021",
+            "citation": "QM/MM Studies of Light-responsive Biological Systems, 197-226, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:a0OBvERweLwC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15157089490375392286",
+        "cites_id": [
+            "15157089490375392286"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tuning Quantum Dots Coupling Using Organic Linkers with Different Vibrational Modes",
+            "pub_year": "2020",
+            "citation": "The Journal of Physical Chemistry C 124 (29), 16159-16165, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11188510600702560717",
+        "cites_id": [
+            "11188510600702560717"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computational Photochemistry and Photobiology",
+            "pub_year": "2019",
+            "citation": "CRC Handbook of Organic Photochemistry and Photobiology, Third Edition-Two \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:D03iK_w7-QYC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9884294287647049038",
+        "cites_id": [
+            "9884294287647049038"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deciphering the Spectral Tuning Mechanism in Proteorhodopsin: The Dominant Role of Electrostatics Instead of Chromophore Geometry",
+            "pub_year": "2022",
+            "citation": "Chemistry\u2013A European Journal 28 (28), e202200139, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:UxriW0iASnsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17884251590322793028",
+        "cites_id": [
+            "17884251590322793028"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The involvement of triplet states in the isomerization of retinaloids",
+            "pub_year": "2022",
+            "citation": "Physical Chemistry Chemical Physics 24 (42), 26223-26231, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9813408419796333458",
+        "cites_id": [
+            "9813408419796333458"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Carbohydrate-Binding Capability and Functional Conformational Changes of AbnE, an Arabino-oligosaccharide Binding Protein",
+            "pub_year": "2020",
+            "citation": "Journal of molecular biology 432 (7), 2099-2120, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:35N4QoGY0k4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3910326101161250393",
+        "cites_id": [
+            "3910326101161250393"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probing Vibrationally Mediated Ultrafast Excited-State Reaction Dynamics with Multireference (CASPT2) Trajectories",
+            "pub_year": "2013",
+            "citation": "The Journal of Physical Chemistry A 117 (44), 11271-11275, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1398077428254326557",
+        "cites_id": [
+            "1398077428254326557"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transient 2D IR spectroscopy and multiscale simulations reveal vibrational couplings in the Cyanobacteriochrome Slr1393-g3",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2301.09329, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4105716630406167078",
+        "cites_id": [
+            "4105716630406167078"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of a far\u2010red/near\u2010infrared spectral switch in an artificial fluorescent biliprotein derived from allophycocyanin",
+            "pub_year": "2022",
+            "citation": "Protein Science 31 (9), e4412, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:p2g8aNsByqUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7629745772104554892",
+        "cites_id": [
+            "7629745772104554892"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spin-chemical effects on intramolecular photoinduced charge transfer reactions in bisphenanthroline copper (i)-viologen dyad assemblies",
+            "pub_year": "2020",
+            "citation": "Chemical Science 11 (21), 5511-5525, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:rO6llkc54NcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7890594676978030906",
+        "cites_id": [
+            "7890594676978030906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light induced damage and repair in nucleic acids and proteins: general discussion",
+            "pub_year": "2018",
+            "citation": "Faraday discussions 207, 389-408, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:RYcK_YlVTxYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13136576255664541818",
+        "cites_id": [
+            "13136576255664541818"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light induced charge and energy transport in nucleic acids and proteins: general discussion",
+            "pub_year": "2018",
+            "citation": "Faraday discussions 207, 153-180, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7034530069216443671",
+        "cites_id": [
+            "7034530069216443671"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light induced damage and repair in nucleic acids and proteins: general discussion",
+            "pub_year": "2018",
+            "citation": "Faraday discussions 207, 389-408, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:r0BpntZqJG4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13136576255664541818",
+        "cites_id": [
+            "13136576255664541818"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unexpected Nucleophile Masking in Acyl Transfer to Sterically Crowded and Conformationally Restricted Galactosides",
+            "pub_year": "2023",
+            "citation": "The Journal of Organic Chemistry, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:08ZZubdj9fEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Disequilibrating azoarenes by visible-light sensitization under confinement",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:tOudhMTPpwUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Induction effects on the absorption maxima of photoreceptor proteins",
+            "pub_year": "2023",
+            "citation": "Biophysics and Physicobiology, e201007, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:XiSMed-E-HIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoisomerization of phytochrome chromophore models: an XMS-CASPT2 study",
+            "pub_year": "2022",
+            "citation": "Physical Chemistry Chemical Physics 24 (48), 29393-29405, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:WbkHhVStYXYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Different hydrogen bonding environments of the retinal protonated Schiff base control the photoisomerization in channelrhodopsin-2 (vol 20, pg 27501, 2018)",
+            "pub_year": "2019",
+            "citation": "PHYSICAL CHEMISTRY CHEMICAL PHYSICS 21 (18), 9605-9605, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:zA6iFVUQeVQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: Different hydrogen bonding environments of the retinal protonated Schiff base control the photoisomerization in channelrhodopsin-2",
+            "pub_year": "2019",
+            "citation": "Physical Chemistry Chemical Physics 21 (18), 9605-9605, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:O3NaXMp0MMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A QM/MM study of photoisomerization in artificial molecular switches",
+            "pub_year": "2018",
+            "citation": "Bulletin of the American Physical Society 63, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introduction-Festschrift in Honor of Prof. Volker Bu\u00df.",
+            "pub_year": "2017",
+            "citation": "Photochemistry and photobiology 93 (6), 1335-1335, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:TQgYirikUcIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introduction, Festschrift in honor of Wolfgang G\u00e4rtner",
+            "pub_year": "2017",
+            "citation": "Photochemistry and Photobiology 93 (3), 640-641, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:4TOpqqG69KYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular mechanism of thermal noise in rod photoreceptors: When the ultraslow competes with the ultrafast",
+            "pub_year": "2014",
+            "citation": "Abstracts of Papers of the American Chemical Society 247, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Approximate density functional theory for complex photoreactions in biological systems",
+            "pub_year": "2014",
+            "citation": "Abstracts of Papers of the American Chemical Society 247, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coherent photoisomerization and quantum yield of biomimetic molecular switches",
+            "pub_year": "2013",
+            "citation": "International Quantum Electronics Conference, JSIV_2_3, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cover Picture: Mechanistic Origin of the Vibrational Coherence Accompanying the Photoreaction of Biomimetic Molecular Switches (Chem. Eur. J. 48/2012)",
+            "pub_year": "2012",
+            "citation": "Chemistry-A European Journal 18 (48), 15209-15209, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effect of dynamic electron correlation on a CASSCF potential energy surface with varying covalent and charge transfer electronic characters",
+            "pub_year": "2012",
+            "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 244, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From computational photobiology to the design of vibrationally coherent molecular devices",
+            "pub_year": "2012",
+            "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 244, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Manifestation of a conical intersection in a thermal biomolecular process: The case of rod visual pigments",
+            "pub_year": "2012",
+            "citation": "Abstracts of Papers of the American Chemical Society 244, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:qUcmZB5y_30C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantenmechanische Untersuchungen der Photoisomerisierung von Retinal Modellchromophoren",
+            "pub_year": "2012",
+            "citation": "disserta Verlag, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:4DMP91E08xMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ab initio investigation of photochemical reaction mechanisms: from isolated molecules to complex environments",
+            "pub_year": "2012",
+            "citation": "Handbook of Computational Chemistry 1359, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:Zph67rFs4hoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Investigating the photochromic cycle of Anabaena sensory rhodopsin using QM/MM molecular dynamics simulations",
+            "pub_year": "2011",
+            "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 242, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coupled experimental and theoretical investigation of the ultrafast photoisomerization dynamics of biomimetic molecular switches",
+            "pub_year": "2011",
+            "citation": "The XXV International Conference on Photochemistry, ICP2011 (\u7b2c 25 \u5c4a\u56fd\u9645\u5149 \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:J_g5lzvAfSwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Manifestation of a conical intersection in a thermal biomolecular process",
+            "pub_year": "2011",
+            "citation": "Abstracts of Papers of the American Chemical Society 242, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retinal in rhodopsin can thermally isomerize via two competing transition states",
+            "pub_year": "2011",
+            "citation": "Abstracts of Papers of the American Chemical Society 242, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using trajectories to probe the molecular mechanism of ultrafast biological photoisomerization and internal conversion",
+            "pub_year": "2011",
+            "citation": "Abstracts of Papers of the American Chemical Society 242, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:M3ejUd6NZC8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ultrafast excited state molecular dynamics of rhodopsin, bathorhodopsin and isorhodopsin",
+            "pub_year": "2010",
+            "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 240, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:dhFuZR0502QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "COMP 330-Ab initio molecular dynamics of visual pigment chromophore models",
+            "pub_year": "2007",
+            "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 234, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:_kc_bZDykSQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molcas 8: MOLCAS 8: New Capabilities for Multiconfigurational Quantum Chemical Calculations across the Periodic Table. SUPPORTING INFORMATION",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:abG-DnoFyZgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Excited State Deactivation of Indan-1-ylidene and Fluoren-9-ylidene Malononitrile",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:u_35RYKgDlwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Counterion-controlled spectral tuning of the Schiff-base retinal",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "WcNpm88AAAAJ:BqipwSGYUEgC",
+        "num_citations": 0
+    }
+]

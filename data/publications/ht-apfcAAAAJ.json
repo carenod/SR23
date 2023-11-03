@@ -1,0 +1,50 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The LNK Gene Family: At the Crossroad between Light Signaling and the Circadian Clock",
+            "pub_year": "2018",
+            "citation": "Genes 10 (1), 2, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "ht-apfcAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2288308653585751529",
+        "cites_id": [
+            "2288308653585751529"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The BES1/BZR1-family transcription factor MpBES1 regulates cell division and differentiation in Marchantia polymorpha",
+            "pub_year": "2021",
+            "citation": "Current Biology 31 (21), 4860-4869. e8, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "ht-apfcAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3764465341398735148",
+        "cites_id": [
+            "3764465341398735148"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Role for Pre-mRNA-PROCESSING PROTEIN 40C in the Control of Growth, Development, and Stress Tolerance in Arabidopsis thaliana",
+            "pub_year": "2019",
+            "citation": "Frontiers in Plant Science 10, 1019, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "ht-apfcAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2408995822465215504",
+        "cites_id": [
+            "2408995822465215504"
+        ]
+    }
+]

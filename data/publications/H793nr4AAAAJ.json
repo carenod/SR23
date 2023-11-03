@@ -1,0 +1,1810 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating surface soil moisture and leaf area index of a wheat canopy using a dual-frequency (C and X bands) scatterometer",
+            "pub_year": "1993",
+            "citation": "Remote Sensing of Environment 46 (3), 331-339, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 279,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10291803535840071648",
+        "cites_id": [
+            "10291803535840071648"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Can commercial digital cameras be used as multispectral sensors? A crop monitoring test",
+            "pub_year": "2008",
+            "citation": "Sensors 8 (11), 7300-7322, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:Zph67rFs4hoC",
+        "num_citations": 229,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18443129392740372478",
+        "cites_id": [
+            "18443129392740372478"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coupling canopy functioning and radiative transfer models for remote sensing data assimilation",
+            "pub_year": "2001",
+            "citation": "Agricultural and Forest Meteorology 108 (2), 113-128, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 175,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13959368588348037845",
+        "cites_id": [
+            "13959368588348037845"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analytical parameterization of canopy directional emissivity and directional radiance in the thermal infrared. Application on the retrieval of soil and foliage temperatures \u2026",
+            "pub_year": "1997",
+            "citation": "International Journal of Remote Sensing 18 (12), 2587-2621, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 157,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15826380043538735063",
+        "cites_id": [
+            "15826380043538735063"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling maize canopy 3D architecture: application to reflectance simulation",
+            "pub_year": "1999",
+            "citation": "Ecological Modelling 122 (1-2), 25-43, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8445390073039099040",
+        "cites_id": [
+            "8445390073039099040"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating the characteristics of vegetation canopies with airborne radar measurements",
+            "pub_year": "1993",
+            "citation": "International Journal of Remote Sensing 14 (15), 2803-2818, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=386461808971605328,15348500227886633282",
+        "cites_id": [
+            "386461808971605328",
+            "15348500227886633282"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reliability of the estimation of vegetation characteristics by inversion of three canopy reflectance models on airborne POLDER data",
+            "pub_year": "2002",
+            "citation": "Agronomie-Sciences des Productions Vegetales et de l'Environnement 22 (6 \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:qjMakFHDy7sC",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16881115544665209393",
+        "cites_id": [
+            "16881115544665209393"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of neural net techniques to estimate canopy biophysical variables from remote sensing data",
+            "pub_year": "2002",
+            "citation": "Agronomie-Sciences des Productions Vegetales et de l'Environnement 22 (6 \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:3fE2CSJIrl8C",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5660369740209270688",
+        "cites_id": [
+            "5660369740209270688"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of two temperature differencing methods to estimate daily evapotranspiration over a Mediterranean vineyard watershed from ASTER data",
+            "pub_year": "2011",
+            "citation": "Remote Sensing of Environment, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13762662165146683745",
+        "cites_id": [
+            "13762662165146683745"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thermal infrared radiative transfer within three-dimensional vegetation covers",
+            "pub_year": "2003",
+            "citation": "Journal of Geophysical Research-Atmospheres 108 (D8), 4248, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:pqnbT2bcN3wC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5419704873312455925",
+        "cites_id": [
+            "5419704873312455925"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of soil and crop parameters for wheat from airborne radar backscattering data in C and X bands",
+            "pub_year": "1994",
+            "citation": "Remote sensing of environment 50 (3), 287-294, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 91,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5922177840003978114",
+        "cites_id": [
+            "5922177840003978114"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Directional effect on radiative surface temperature measurements over a semiarid grassland site",
+            "pub_year": "2001",
+            "citation": "Remote Sensing of Environment 76 (3), 360-372, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:Y0pCki6q_DkC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13776938828205255781",
+        "cites_id": [
+            "13776938828205255781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using SPOT data for calibrating a wheat growth model under mediterranean conditions",
+            "pub_year": "2002",
+            "citation": "Agronomie 22 (6), 687-694, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:WF5omc3nYNoC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11566345044469376191",
+        "cites_id": [
+            "11566345044469376191"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation de la structure g\u00e9om\u00e9trique du ma\u00efs",
+            "pub_year": "1991",
+            "citation": "Agronomie 11 (6), 491-503, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14864960253414358268,273040529775981896",
+        "cites_id": [
+            "14864960253414358268",
+            "273040529775981896"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaporation from a bare soil evaluated using a soil water transfer model and remotely sensed surface soil moisture data",
+            "pub_year": "1984",
+            "citation": "Water Resources Research 20 (2), 311-316, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 75,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7487442831663202550",
+        "cites_id": [
+            "7487442831663202550"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating the role of a ditch network in groundwater recharge in a Mediterranean catchment using a water balance approach",
+            "pub_year": "2009",
+            "citation": "Journal of Hydrology 375 (3-4), 498-512, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:TFP_iSt0sucC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14581053090559692065",
+        "cites_id": [
+            "14581053090559692065"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilating optical and radar data into the STICS crop model for wheat",
+            "pub_year": "2003",
+            "citation": "Agronomie 23 (4), 297-303, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:ufrVoPGSRksC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17148030725338243242,3717180218987238192",
+        "cites_id": [
+            "17148030725338243242",
+            "3717180218987238192"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SVAT modeling over the Alpilles-ReSeDA experiment: comparing SVAT models over wheat fields",
+            "pub_year": "2002",
+            "citation": "Agronomie-Sciences des Productions Vegetales et de l'Environnement 22 (6 \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1411673859170860107",
+        "cites_id": [
+            "1411673859170860107"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping daily evapotranspiration over a Mediterranean vineyard watershed",
+            "pub_year": "2011",
+            "citation": "IEEE Geoscience and Remote Sensing Letters 8 (1), 168-172, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13028372029217877223",
+        "cites_id": [
+            "13028372029217877223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Canopy modelling for estimating sensible heat flux from thermal infrared measurements",
+            "pub_year": "1993",
+            "citation": "Workshop on Thermal Remote Sensing of the Energy Balance Over Vegetation in \u2026, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1924069474698630877",
+        "cites_id": [
+            "1924069474698630877"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The utility of remotely-sensed vegetative and terrain covariates at different spatial resolutions in modelling soil and watertable depth (for digital soil mapping)",
+            "pub_year": "2013",
+            "citation": "Geoderma 193, 83-93, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:u_35RYKgDlwC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8136069853365108366",
+        "cites_id": [
+            "8136069853365108366"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation des \u00e9changes radiatifs au sein des couverts v\u00e9g\u00e9taux: application \u00e0 la t\u00e9l\u00e9d\u00e9tection, validation sur un couvert de ma\u00efs",
+            "pub_year": "1985",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8417697155186252349",
+        "cites_id": [
+            "8417697155186252349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maximum information exploitation for canopy characterization by remote sensing.",
+            "pub_year": "2000",
+            "citation": "Aspects of Applied Biology, 71-82, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:RYcK_YlVTxYC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=334988535575709914",
+        "cites_id": [
+            "334988535575709914"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilation of multi-sensor and multi-temporal remote sensing data to monitor vegetation and soil- The Alpilles-ReSeDA project",
+            "pub_year": "1998",
+            "citation": "IGARSS'98- 1998 IEEE International Geoscience and Remote Sensing Symposium \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1681113334858589128",
+        "cites_id": [
+            "1681113334858589128"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generalized semi-empirical modelling of wheat radar response",
+            "pub_year": "2000",
+            "citation": "International Journal of Remote Sensing 21 (9), 1945-1951, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:5nxA0vEk-isC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2687004002213595753",
+        "cites_id": [
+            "2687004002213595753"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring energy and mass transfers during the Alpilles-ReSeDA experiment",
+            "pub_year": "2002",
+            "citation": "Agronomie 22 (6), 597-610, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:kNdYIx-mwKoC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=96448837435029681,13068277683272861545",
+        "cites_id": [
+            "96448837435029681",
+            "13068277683272861545"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Soil moisture assessment at a basin scale using active microwave remote sensing: the Agriscatt'88 Airborne Campaign on the Orgeval watershed",
+            "pub_year": "1994",
+            "citation": "REMOTE SENSING 15 (3), 645-656, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:-f6ydRqryjwC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18155200143761501202",
+        "cites_id": [
+            "18155200143761501202"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaporation from Heterogeneous and Sparse Canopies: On the Formulations Related to Multi-Source Representations",
+            "pub_year": "2012",
+            "citation": "Boundary-Layer Meteorology 144 (2), 243-262, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:hMod-77fHWUC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5610431139269930392",
+        "cites_id": [
+            "5610431139269930392"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Geometrical canopy modelling in radiation simulation studies",
+            "pub_year": "1993",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11150346941814243902",
+        "cites_id": [
+            "11150346941814243902"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Observing Actual Evapotranspiration from Flux Tower Eddy Covariance Measurements within a Hilly Watershed: Case Study of the Kamech Site, Cap Bon Peninsula, Tunisia",
+            "pub_year": "2018",
+            "citation": "Atmosphere 9 (2), 68, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:tS2w5q8j5-wC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2838062090279417454",
+        "cites_id": [
+            "2838062090279417454"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling radar backscatter from crops during the growth cycle",
+            "pub_year": "2002",
+            "citation": "Agronomie 22 (6), 575-579, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:4TOpqqG69KYC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3960868780417712055",
+        "cites_id": [
+            "3960868780417712055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing the consistency of eddy covariance measurements under conditions of sloping topography within a hilly agricultural catchment",
+            "pub_year": "2012",
+            "citation": "Agricultural and Forest Meteorology 164, 123-135, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:dhFuZR0502QC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10995448903603407291",
+        "cites_id": [
+            "10995448903603407291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A three-source SVAT modeling of evaporation: Application to the seasonal dynamics of a grassed vineyard",
+            "pub_year": "2014",
+            "citation": "Agricultural and Forest Meteorology 191, 64-80, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:EUQCXRtRnyEC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17009366032403355380",
+        "cites_id": [
+            "17009366032403355380"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conversion of 400-1100 nm vegetation albedo measurements into total shortwave broadband albedo using a canopy radiative transfer model",
+            "pub_year": "2002",
+            "citation": "Agronomie 22 (6), 611-618, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:4DMP91E08xMC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17635799502391430617",
+        "cites_id": [
+            "17635799502391430617"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "OMERE: A Long-Term Observatory of Soil and Water Resources, in Interaction with Agricultural and Land Management in Mediterranean Hilly Catchments",
+            "pub_year": "2018",
+            "citation": "Vadose Zone Journal 17 (1), 2018"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:kRWSkSYxWN8C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=494223204413424475",
+        "cites_id": [
+            "494223204413424475"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of actual evapotranspiration over a rainfed vineyard using a 1-D water transfer model: A case study within a Mediterranean watershed",
+            "pub_year": "2017",
+            "citation": "Agricultural Water Management 184, 67-76, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:738O_yMBCRsC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6151804413395566686",
+        "cites_id": [
+            "6151804413395566686"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Calibration of a coupled canopy functioning and SVAT model in the ReSeDA experiment. Towards the assimilation of SPOT/HRV observations into the model",
+            "pub_year": "2002",
+            "citation": "Agronomie-Sciences des Productions Vegetales et de l'Environnement 22 (6 \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:KlAtU1dfN6UC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12125869336591801306",
+        "cites_id": [
+            "12125869336591801306"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using the radiative surface temperature in energy budget studies over plant canopies",
+            "pub_year": "1991",
+            "citation": "ESA, Physical Measurements and Signatures in Remote Sensing, 2, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:ULOm3_A8WrAC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1478402641285860512",
+        "cites_id": [
+            "1478402641285860512"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of surface fluxes in a small agricultural area using the three-dimensional atmospheric model Meso-NH and remote sensing data",
+            "pub_year": "2003",
+            "citation": "Canadian journal of remote sensing 29 (6), 741-754, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:UebtZRa9Y70C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10866221176982550401,9489711446412858818",
+        "cites_id": [
+            "10866221176982550401",
+            "9489711446412858818"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of kernel-driven BRDF models for the normalization of Alpilles/ReSeDA POLDER data",
+            "pub_year": "2002",
+            "citation": "Agronomie-Sciences des Productions Vegetales et de l'Environnement 22 (6 \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7806778642815007586",
+        "cites_id": [
+            "7806778642815007586"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ADAM database and its potential to investigate high temporal sampling acquisition at high spatial resolution for the monitoring of agricultural crops",
+            "pub_year": "2001",
+            "citation": "Romanian Agricultural Research 16, 69-80, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:8k81kl-MbHgC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9982379147179712905",
+        "cites_id": [
+            "9982379147179712905"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluating four gap-filling methods for eddy covariance measurements of evapotranspiration over hilly crop fields",
+            "pub_year": "2018",
+            "citation": "Geosci. Instrum., Methods Data Syst 7, 151-167, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:eJXPG6dFmWUC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2701641618676291225",
+        "cites_id": [
+            "2701641618676291225"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Carbon isotope discrimination as a surrogate for soil available water capacity in rainfed areas: A study in the Languedoc vineyard plain",
+            "pub_year": "2020",
+            "citation": "Geoderma 362, 114121, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:XiVPGOgt02cC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12820122139437588248",
+        "cites_id": [
+            "12820122139437588248"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Accounting for vegetation height and wind direction to correct eddy covariance measurements of energy fluxes over hilly crop fields",
+            "pub_year": "2015",
+            "citation": "Journal of Geophysical Research: Atmospheres 120 (10), 4920-4936, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:UxriW0iASnsC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12599354204223971370",
+        "cites_id": [
+            "12599354204223971370"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of neural network techniques for the estimation of canopy biophysical variables from vegetation data",
+            "pub_year": "2000",
+            "citation": "VEGETATION-2000, Lake Maggiore-Italy, 3-6, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11986743128155725617",
+        "cites_id": [
+            "11986743128155725617"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring sunflower crop development from C-band radar observations",
+            "pub_year": "2002",
+            "citation": "Agronomie-Sciences des Productions Vegetales et de l'Environnement 22 (6 \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17558514130913000595",
+        "cites_id": [
+            "17558514130913000595"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatial aspects in the Alpilles-ReSeDA project",
+            "pub_year": "1998",
+            "citation": "Scaling and Modelling in Forestry: Application in Remote Sensing and GIS \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:0EnyYjriUFMC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9213657912270853611,8581116527244305803",
+        "cites_id": [
+            "9213657912270853611",
+            "8581116527244305803"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of ERS and multi-angle Radarsat measurements on bare soils: first results",
+            "pub_year": "1998",
+            "citation": "2. International Workshop on retrieval of bio-and geo-physical parameters \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:roLk4NBRz8UC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9671342280313596927",
+        "cites_id": [
+            "9671342280313596927"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of land use on soil water content in a hilly rainfed agrosystem: a case study in the Cap Bon peninsula in Tunisia",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:D_sINldO8mEC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7319338306153600136",
+        "cites_id": [
+            "7319338306153600136"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaporation from multi-component canopies: Generalized formulations",
+            "pub_year": "2013",
+            "citation": "Journal of Hydrology 486, 315-320, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:fPk4N6BV_jEC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6258428213108129686",
+        "cites_id": [
+            "6258428213108129686"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temperature and emissivity extracted from airborne multi-channel data in the ReSeDA experiment",
+            "pub_year": "2002",
+            "citation": "Agronomie-Sciences des Productions Vegetales et de l'Environnement 22 (6 \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=999104446909398201",
+        "cites_id": [
+            "999104446909398201"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilation of ERS and RADARSAT SAR observations within the STICS crop growth model",
+            "pub_year": "2000",
+            "citation": "EUROPEAN SPACE AGENCY-PUBLICATIONS-ESA SP 450, 485-490, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:Se3iqnhoufwC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1479910980692791681",
+        "cites_id": [
+            "1479910980692791681"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of ERS and multi-angular RadarSat measurements over agricultural canopies: first results of the Alpilles-ReSeDA campaign",
+            "pub_year": "1998",
+            "citation": "EUROPEAN SPACE AGENCY-PUBLICATIONS-ESA SP 441, 101-106, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:ldfaerwXgEUC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5034604132650760974",
+        "cites_id": [
+            "5034604132650760974"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Retrieval of soil and vegetation features from passive microwave measurements",
+            "pub_year": "1997",
+            "citation": "Remote Sensing Reviews 15 (1-4), 157-177, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:_kc_bZDykSQC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1668679865289080118",
+        "cites_id": [
+            "1668679865289080118"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discrimination potential of X-band polarimetric SAR data",
+            "pub_year": "2004",
+            "citation": "International Journal of Remote Sensing 25 (22), 4933-4942, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:r0BpntZqJG4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16842707981037148477",
+        "cites_id": [
+            "16842707981037148477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating the vertical profil of the leaf inclination distribution function: the silhouette method",
+            "pub_year": "1993",
+            "citation": "Crop Structure and Light Microclimate, Characterization and Application \u2026, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:35N4QoGY0k4C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12631399673695750243,12532880857667905051",
+        "cites_id": [
+            "12631399673695750243",
+            "12532880857667905051"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Soils and Regulation of the Hydrological Cycle",
+            "pub_year": "2018",
+            "citation": "Soils as a Key Component of the Critical Zone 1: Functions and Services 1, 59-80, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:BrmTIyaxlBUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1545610583201537974",
+        "cites_id": [
+            "1545610583201537974"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A SEMI-EMPIRICAL APPROACH FOR ESTIMATING PLANT PARAMETERS WITHIN THE RESEDA-PROJECT",
+            "pub_year": "2000",
+            "citation": "INTERNATIONAL ARCHIVES OF PHOTOGRAMMETRY AND REMOTE SENSING 33 (B7/1; PART 7 \u2026, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:M05iB0D1s5AC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15571968635734498550",
+        "cites_id": [
+            "15571968635734498550"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measuring Crop Evapotranspiration Over Hilly Areas",
+            "pub_year": "2017",
+            "citation": "Euro-Mediterranean Conference for Environmental Integration, 909-911, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:8AbLer7MMksC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10459108906531166949",
+        "cites_id": [
+            "10459108906531166949"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatializing vineyard hydric status within heterogeneous Mediterranean watershed from high spatial resolution optical remote sensing.",
+            "pub_year": "2009",
+            "citation": "EGU General Assembly 2009, held 19-24 April, 2009 in Vienna, Austria http \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:IWHjjKOFINEC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2559261434346737481",
+        "cites_id": [
+            "2559261434346737481"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling crop geometry using multiple view angles",
+            "pub_year": "2000",
+            "citation": "INTERNATIONAL ARCHIVES OF PHOTOGRAMMETRY AND REMOTE SENSING 33 (B7/4; PART 7 \u2026, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:2P1L_qKh6hAC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13486917675732258502",
+        "cites_id": [
+            "13486917675732258502"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evapotranspiration of Wheat in a Hilly Topography: Results from Measurements Using a Set of Eddy Covariance Stations",
+            "pub_year": "2017",
+            "citation": "Water and Land Security in Drylands, 67-76, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:J-pR_7NvFogC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1130435422914163240",
+        "cites_id": [
+            "1130435422914163240"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evapotranspiration of Wheat in a Hilly Topography: Results from Measurements Using a Set of Eddy Covariance Stations",
+            "pub_year": "2017",
+            "citation": "Water and Land Security in Drylands, 67-76, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:tOudhMTPpwUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1130435422914163240",
+        "cites_id": [
+            "1130435422914163240"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flux estimation with the MESONH model over the Alpilles",
+            "pub_year": "2002",
+            "citation": "Proceedings of the First International Symposium on Recent Advances in \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:maZDTaKrznsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8619836543571163156",
+        "cites_id": [
+            "8619836543571163156"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The ERASME data during the ReSeDA experiment: acquisition and validation",
+            "pub_year": "2000",
+            "citation": "Physics and Chemistry of the Earth, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:WbkHhVStYXYC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12631537005739008472",
+        "cites_id": [
+            "12631537005739008472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Relationship between soil moisture and surface temperature under semiarid Mediterranean conditions",
+            "pub_year": "2013",
+            "citation": "EGU General Assembly Conference Abstracts 15, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:pyW8ca7W8N0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2343714273337467226",
+        "cites_id": [
+            "2343714273337467226"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring the development of wheat crops from radar observations during the ReSeDA experiment",
+            "pub_year": "2002",
+            "citation": "Agronomie, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:J_g5lzvAfSwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7042643950448691413",
+        "cites_id": [
+            "7042643950448691413"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Preliminary results of the ADAM Project: investigating high temporal revisit frequency at high spatial satellite resolution for crop monitoring",
+            "pub_year": "2002",
+            "citation": "Proc. Int. Conf. Soils under Global Change-a Challenge for the 21st Century \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:NaGl4SEjCO4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=942876639902939493",
+        "cites_id": [
+            "942876639902939493"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measuring and Analyzing of Thermal Infrared Emission Directionality over Crop Canopies with an Airborne Wide-Angle Thermal IR Camera",
+            "pub_year": "2002",
+            "citation": "JOURNAL OF REMOTE SENSING-BEIJING- 6 (SUPP), 57-63, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16526316490097540154",
+        "cites_id": [
+            "16526316490097540154"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilating optical and radar data into the STICS model for wheat crops: preliminary results",
+            "pub_year": "2001",
+            "citation": "to be published in Physics and Chemistry of the earth, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3222308570864006213",
+        "cites_id": [
+            "3222308570864006213"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of vegetation characteristics by inversion of three canopy reflectance models on airborne POLDER data",
+            "pub_year": "2000",
+            "citation": "Phys. Chem. Earth, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:isC4tDSrTZIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18118241007393969824",
+        "cites_id": [
+            "18118241007393969824"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring wheat growth by calibrating a crop growth model using optical satellite data",
+            "pub_year": "2000",
+            "citation": "Geophysical Research Abstracts 2, 424-424, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14486570874953905051",
+        "cites_id": [
+            "14486570874953905051"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combined Use of Theoretical and Semi-Empirical Models of Radar Backscattering to Estimate Characteristics of Vegetated Canopies",
+            "pub_year": "1992",
+            "citation": "Geoscience and Remote Sensing Symposium, 1992. IGARSS'92. International 2 \u2026, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:hC7cP41nSMkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7739766335375644148",
+        "cites_id": [
+            "7739766335375644148"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complementarit\u00e9 des hyperfr\u00e9quences et du domaine optique dans la caracterisation des cultures par teledetection",
+            "pub_year": "1988",
+            "citation": "Spectral Signatures of Objects in Remote Sensing 287, 31, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:ns9cj8rnVeAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12617660192682124123,9137484739081197158",
+        "cites_id": [
+            "12617660192682124123",
+            "9137484739081197158"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ANALYSIS OF X-BAND POLARIMETRIC SAR DATA FOR THE DERIVATION OF THE SURFACE ROUGHNESS OVER BARE AGRICULTURAL FIELDS",
+            "citation": "A A 3, 2, 0"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16332106270123577636",
+        "cites_id": [
+            "16332106270123577636"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Observing Actual Evapotranspiration within a Hilly Watershed: Case Study of the Kamech Site, Cap Bon Peninsula, Tunisia",
+            "pub_year": "2017",
+            "citation": "Multidisciplinary Digital Publishing Institute Proceedings 1 (5), 113, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10363948148115756367",
+        "cites_id": [
+            "10363948148115756367"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation du fonctionnement des surfaces continentales aux \u00e9chelles locales \u00e0 r\u00e9gionales SEVE: Sol Eau V\u00e9g\u00e9tation Energie",
+            "pub_year": "2005",
+            "citation": "Actes du Colloque ECCO, 5-7, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:p2g8aNsByqUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14359755120175934113",
+        "cites_id": [
+            "14359755120175934113"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilating LANDSAT data in an ecosystem model for multi-year simulation of grassland carbon, water and energy budget",
+            "pub_year": "2000",
+            "citation": "Geoscience and Remote Sensing Symposium, 2000. Proceedings. IGARSS 2000 \u2026, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:RGFaLdJalmkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9538821842623866114",
+        "cites_id": [
+            "9538821842623866114"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synergy between optical and microwave remote sensing to derive soil and vegetation parameters from MAC Europe 1991 Experiment",
+            "pub_year": "1993",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:70eg2SAEIzsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3071975571264010798",
+        "cites_id": [
+            "3071975571264010798"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "a Multi-Site and Multi-Variable Calibration of the Swat Model to Assess the Impacts of Climate and Landscape Changes Over a Mediterranean Vineyard Watershed.",
+            "pub_year": "2018",
+            "citation": "AGU Fall Meeting Abstracts, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Observing actual evapotranspiration within a heterogeneous watershed: The case study of the Kamech site, Cap Bon Peninsula, Tunisia",
+            "pub_year": "2017",
+            "citation": "MDPI AG, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:bnK-pcrLprsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation des flux d'\u00e9changes surface-atmosph\u00e8re par les m\u00e9thodes de covariance turbulente et de scintillom\u00e9trie infra-rouge: premiers r\u00e9sultats sur les bassins de l'Orgeval \u2026",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Advances in remote sensing of cultivated landscapes at LISAH",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:XiSMed-E-HIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Le WP. 1 du projet Equipex CRITEX: Mesure des \u00e9changes sol-v\u00e9g\u00e9tation-atmosph\u00e8re.",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:q3oQSFYPqjQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Long term agro-ecosystem observatories in the Mediterranean",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:Tiz5es2fbqcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparing three gap filling methods for eddy covariance crop evapotranspiration measurements within a hilly agricultural catchment",
+            "pub_year": "2015",
+            "citation": "EGU General Assembly Conference Abstracts 17, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:SP6oXDckpogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cartographie de l'\u00e9vapotranspiration de la vigne \u00e0 l'\u00e9chelle r\u00e9gionale",
+            "pub_year": "2015",
+            "citation": "Dossiers d'Agropolis International 21, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:uWQEDVKXjbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The observed evapotranspiration combining the energy and water balance for different land use under semiarid Mediterranean catchment",
+            "pub_year": "2014",
+            "citation": "EGU General Assembly Conference Abstracts 16, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The observed evapotranspiration combining the energy and water balance for different land use under semiarid Mediterranean catchment",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:olpn-zPbct0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantification de l'\u00e9vapotranspiration r\u00e9elle \u00e0 l'\u00e9chelle d'un bassin versant agropastoral du semi-aride",
+            "pub_year": "2014",
+            "citation": "Revue des R\u00e9gions Arides 35 (sp\u00e9cial), 785-793, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:5ugPr518TE4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Water balance for different land use and crop sequences under semiarid environment",
+            "pub_year": "2014",
+            "citation": "Revue des R\u00e9gions Arides 35 (sp\u00e9cial), 769-775, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:1qzjygNMrQYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Energy fluxes and soil temperature variations during the drying phase of a wheat crop in a semi-arid Mediterranean environment",
+            "pub_year": "2013",
+            "citation": "EGU General Assembly Conference Abstracts 15, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:D03iK_w7-QYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of water and energy balance variations during the drying phase of a wheat crop under semiarid Mediterranean conditions",
+            "pub_year": "2013",
+            "citation": "EGU General Assembly Conference Abstracts 15, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:a0OBvERweLwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Energy fluxes and soil temperature variations during the drying phase of a wheat crop in a semi-arid Mediterranean environment",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of sensible and latent heat fluxes over a hilly agricultural catchment by scintillometry",
+            "pub_year": "2013",
+            "citation": "T\u00fcbingen Atmospheric Physics Symposium\" Scintillometers and Applications, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:yD5IFk8b50cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Establishing seasonal chronicles of actual evapotranspiration under sloping conditions",
+            "pub_year": "2012",
+            "citation": "EGU General Assembly Conference Abstracts 14, 10212, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:vV6vV6tmYwMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterizing land surface evapotranspiration within hilly watersheds",
+            "pub_year": "2010",
+            "citation": "AGU Fall Meeting Abstracts, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping water status within a Mediterranean vineyard watershed: implication for validation, modelling and digital soil mapping",
+            "pub_year": "2010",
+            "citation": "3. International Symposium on Recent Advances in Quantitative Remote Sensing \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:NhqRSupF_l8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "What crops can tell us about soil variations? An exploratory study over Languedoc vineyard using crop hydric status indicators derived from thermal infrared spaceborne imagery.",
+            "pub_year": "2009",
+            "citation": "Pedometrics 2009 Conference, 38, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation de l'\u00e9vapotranspiration d'un petit bassin versant \u00e0 l'aide d'une approche multi-locale",
+            "pub_year": "2008",
+            "citation": "33. Journ\u00e9es scientifiques du GFHN-Impact de l'usage du sol sur les \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:abG-DnoFyZgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diffuse versus concentrated groundwater recharge during flood events at the scale of a Mediterranean catchment.",
+            "pub_year": "2007",
+            "citation": "Geophysical Research Abstracts 9, 00794, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:blknAaTinKkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of evapotransoiration on a small agricultural watershed: comparison of eddy correlation and scintillometry techniques",
+            "pub_year": "2006",
+            "citation": ".(8) 2006; European Geosciences Union General Assembly 2009, Vienne, AUT \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:b0M2c_1WBrUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effect of various crops on the spatial variability of temperatures over the Alpilles-Reseda experiment analyzed by the 3d atmospheric model MESONH",
+            "pub_year": "2003",
+            "citation": "EGS-AGU-EUG Joint Assembly, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:GnPB-g6toBAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Relationships between the dynamics of the durum wheat water content and its phasic development in a Mediterranean climate, for remote sensing purposes",
+            "pub_year": "2003",
+            "citation": "Agronomie 23 (7), 537-544, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Calibration of a coupled canopy functioning and SVAT model in the ReSeDA experiment. Towards the assimilation of SPOT/HRV observations into the model",
+            "pub_year": "2002",
+            "citation": "Agronomie 6 (22), 681-686.(2002), 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:08ZZubdj9fEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improved Monitoring of Vegetation Productivity using Continuous Assimilation of Radiometric Data",
+            "pub_year": "2002",
+            "citation": "34th COSPAR Scientific Assembly 34, 3443, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of SVAT models over the Alpilles ReSeDa experiment. I Description of the framework and the data",
+            "pub_year": "2000",
+            "citation": "EGS XXIIIth General Assembly, nice, FRA, 2000-04-25-2000-04-28, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using a coupled canopy functioning and SVAT model in the ReSeDA experiment. Assimilation of SPOT/HRV observations into the model.",
+            "pub_year": "2000",
+            "citation": "2000; 25. Annual Meeting of the European Geophysical Society, Nice, FRA \u2026, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:geHnlv5EZngC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilation de donn\u00e9es de t\u00e9l\u00e9d\u00e9tection pour la mise \u00e0 jour de mod\u00e8les de culture",
+            "pub_year": "2000",
+            "citation": "Mod\u00e9lisation du fonctionnement des peuplements v\u00e9g\u00e9taux pour la conduite des \u2026, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:B3FOqHPlNUQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of SVAT models over the Alpilles ReSeDa experiment. I Description of the framework and the data",
+            "pub_year": "2000",
+            "citation": "EGS XXIIIth General Assembly, nice, FRA, 2000-04-25-2000-04-28, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:vRqMK49ujn8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation of biophysical variables using multiple view angles",
+            "pub_year": "2000",
+            "citation": "Geophysical Research Abstracts 2, 454-455, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:KxtntwgDAa4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation des transferts de masse et d'\u00e9nergie dans le continuum sol-plante-atmosph\u00e8re sur sol cultiv\u00e9: exp\u00e9rience Alpilles",
+            "pub_year": "2000",
+            "citation": "Colloque PNRH 2000. 2000-05-162000-05-17, Nice, FRA, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:CHSYGLWDkRkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ERS AND RADARSAT IMAGES FOR LAND USE CLASSIFICATION AT A REGIONAL SCALE: SOME POSSIBILITIES FOR FUTURE A-SAR CONFIGURATION.",
+            "pub_year": "2000",
+            "citation": "EGS, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:RHpTSmoSYBkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Utilisation de mesures radar acquises \u00e0 deux angles d'incidence pour appr\u00e9hender la rugosit\u00e9 de surface et son \u00e9volution temporelle. Pr\u00e9sentation orale",
+            "pub_year": "1998",
+            "citation": "Atelier exp\u00e9rimentation et instrumentation. 1998-12-011998-12-02, Toulouse, FRA, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:xtRiw3GOFMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Active microwave remote sensing and ground hydric state. Agriscatt'88 airborne campaign over the Orgeval basin(France)(TELEDETECTION EN HYPERFREQUENCES ACTIVES ET ETAT HYDRIQUE \u2026",
+            "pub_year": "1991",
+            "citation": "ESA, Physical Measurements and Signatures in Remote Sensing, 1, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:HDshCWvjkbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of vegetation cover characteristics using an airborne microwave scatterometer(ESTIMATION DE CARACTERISTIQUES DE COUVERTS VEGETAUX A L'AIDE D'UN DIFFUSIOMETRE \u2026",
+            "pub_year": "1991",
+            "citation": "ESA, Physical Measurements and Signatures in Remote Sensing, 1, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Applicability of the active microwave remote sensing method in water resources: the Agriscatt'88 airborne campaign on the Orgeval watershed",
+            "pub_year": "1990",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:u9iWguZQMMsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Les hyperfrequences [micro-ondes et teledetection].",
+            "pub_year": "1988",
+            "citation": "Projet teledetection. Monetier-les-Bains (France). 12-16 Jan 1987., 1988"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:zA6iFVUQeVQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelisation de la temperature radiative des couverts vegetaux.",
+            "pub_year": "1988",
+            "citation": "Projet teledetection. Monetier-les-Bains (France). 12-16 Jan 1987., 1988"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:rO6llkc54NcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hyperfrequences et vegetation.",
+            "pub_year": "1988",
+            "citation": "Projet teledetection. Monetier-les-Bains (France). 12-16 Jan 1987., 1988"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:3s1wT3WcHBgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimation de l'\u00e9vaporation d'un sol nu \u00e0 partir d'un mod\u00e8le de transferts hydriques et de mesures radar",
+            "pub_year": "1984",
+            "citation": "Colloque international sur les signatures spectrales d'objets en \u2026, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:JV2RwH3_ST0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Long term",
+            "citation": "The Mediterranean Region under Climate Change, 467, 0"
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:wbdj-CoPYUoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SVAT modeling over the Alpilles-ReSeDA experiment: Comparison of SVAT models, first results on wheat",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatializing and validating daily evapotranspiration over a Mediterranean vineyard watershed",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "H793nr4AAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+    }
+]

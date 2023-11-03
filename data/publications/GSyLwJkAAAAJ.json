@@ -1,0 +1,66 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Direct control of SPEECHLESS by PIF4 in the high-temperature response of stomatal development",
+            "pub_year": "2018",
+            "citation": "Current Biology 28 (8), 1273-1280. e3, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "GSyLwJkAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3816678793706595721",
+        "cites_id": [
+            "3816678793706595721"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light regulates stomatal development by modulating paracrine signaling from inner tissues",
+            "pub_year": "2021",
+            "citation": "Nature Communications 12 (1), 3403, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "GSyLwJkAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3750533000204745887",
+        "cites_id": [
+            "3750533000204745887"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cross-kingdom expression of synthetic genetic elements promotes discovery of metabolites in the human microbiome",
+            "pub_year": "2022",
+            "citation": "Cell 185 (9), 1487-1505. e14, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "GSyLwJkAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3396730117759762523",
+        "cites_id": [
+            "3396730117759762523"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MOBE-ChIP: probing cell type-specific binding through large-scale chromatin immunoprecipitation",
+            "pub_year": "2018",
+            "citation": "Chromatin Immunoprecipitation: Methods and Protocols, 167-176, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "GSyLwJkAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4586295003814838495",
+        "cites_id": [
+            "4586295003814838495"
+        ]
+    }
+]

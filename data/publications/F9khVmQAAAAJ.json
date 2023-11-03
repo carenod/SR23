@@ -1,0 +1,527 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synonymous mutations frequently act as driver mutations in human cancers",
+            "pub_year": "2014",
+            "citation": "Cell 156 (6), 1324-1335, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:0EnyYjriUFMC",
+        "num_citations": 563,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10749423576888623223",
+        "cites_id": [
+            "10749423576888623223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulatory defects in liver and intestine implicate abnormal hepcidin and Cybrd1 expression in mouse hemochromatosis",
+            "pub_year": "2003",
+            "citation": "Nature genetics 34 (1), 102-107, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 358,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8423106584372923140",
+        "cites_id": [
+            "8423106584372923140"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reduced fidelity of branch point recognition and alternative splicing induced by the anti-tumor drug spliceostatin A",
+            "pub_year": "2011",
+            "citation": "Genes & development 25 (5), 445-459, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 268,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6058298603095403929",
+        "cites_id": [
+            "6058298603095403929"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Altered body iron distribution and microcytosis in mice deficient in iron regulatory protein 2 (IRP2)",
+            "pub_year": "2005",
+            "citation": "Blood 106 (7), 2580-2589, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 249,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5992922386361374680",
+        "cites_id": [
+            "5992922386361374680"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large-scale analysis of genome and transcriptome alterations in multiple tumors unveils novel cancer-relevant splicing networks",
+            "pub_year": "2016",
+            "citation": "Genome research 26 (6), 732-744, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 248,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16534066608807517455,13149414347084935596",
+        "cites_id": [
+            "16534066608807517455",
+            "13149414347084935596"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Ewing sarcoma protein regulates DNA damage-induced alternative splicing",
+            "pub_year": "2011",
+            "citation": "Molecular cell 43 (3), 353-368, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 191,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1271840760837476040,3204549065803329586",
+        "cites_id": [
+            "1271840760837476040",
+            "3204549065803329586"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CPEB1 coordinates alternative 3\u2032-UTR formation with translational regulation",
+            "pub_year": "2013",
+            "citation": "Nature 495 (7439), 121-125, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 182,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2590798319460696309",
+        "cites_id": [
+            "2590798319460696309"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping and identification of essential gene functions on the X chromosome of Drosophila",
+            "pub_year": "2002",
+            "citation": "EMBO reports 3 (1), 34-38, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 125,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11501349785437190956",
+        "cites_id": [
+            "11501349785437190956"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The complete local genotype\u2013phenotype landscape for the alternative splicing of a human exon",
+            "pub_year": "2016",
+            "citation": "Nature communications 7 (1), 11558, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:_kc_bZDykSQC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7693137788051077540",
+        "cites_id": [
+            "7693137788051077540"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Argonaute-1 binds transcriptional enhancers and controls constitutive and alternative splicing in human cells",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (44), 15622-15629, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:5nxA0vEk-isC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12984217903298554939",
+        "cites_id": [
+            "12984217903298554939"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combinatorial genetics reveals a scaling law for the effects of mutations on splicing",
+            "pub_year": "2019",
+            "citation": "Cell 176 (3), 549-563. e23, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2074879640600291260",
+        "cites_id": [
+            "2074879640600291260"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinction between asymptomatic monoclonal B-cell lymphocytosis with cyclin D1 overexpression and mantle cell lymphoma: from molecular profiling to flow cytometry",
+            "pub_year": "2014",
+            "citation": "Clinical Cancer Research 20 (4), 1007-1019, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:UebtZRa9Y70C",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13618252238288355832",
+        "cites_id": [
+            "13618252238288355832"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular analysis of iron overload in \u03b22-microglobulin-deficient mice",
+            "pub_year": "2004",
+            "citation": "Blood Cells, Molecules, and Diseases 33 (2), 125-131, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5236013274191127672",
+        "cites_id": [
+            "5236013274191127672"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct regulatory programs establish widespread sex-specific alternative splicing in Drosophila melanogaster",
+            "pub_year": "2011",
+            "citation": "Rna 17 (3), 453-468, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2218926536569669883",
+        "cites_id": [
+            "2218926536569669883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genotoxic stress inhibits Ewing sarcoma cell growth by modulating alternative pre-mRNA processing of the RNA helicase DHX9",
+            "pub_year": "2015",
+            "citation": "Oncotarget 6 (31), 31740, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17458873294590425780",
+        "cites_id": [
+            "17458873294590425780"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutational analysis of progesterone receptor functional domains in stable cell lines delineates sets of genes regulated by different mechanisms",
+            "pub_year": "2009",
+            "citation": "Molecular Endocrinology 23 (6), 809-826, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15460221632177296915",
+        "cites_id": [
+            "15460221632177296915"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cloning and molecular characterization of two mosquito iron regulatory proteins",
+            "pub_year": "2002",
+            "citation": "Insect biochemistry and molecular biology 32 (5), 579-589, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1092084632972716040",
+        "cites_id": [
+            "1092084632972716040"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From Sequence to Chromosome: The Tip of the X Chromosome of D. melanogaster",
+            "pub_year": "2000",
+            "citation": "Science 287 (5461), 2220-2222, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6189416861772694541",
+        "cites_id": [
+            "6189416861772694541"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From first base: the sequence of the tip of the X chromosome of Drosophila melanogaster, a comparison of two sequencing strategies",
+            "pub_year": "2001",
+            "citation": "Genome Research 11 (5), 710-730, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:qjMakFHDy7sC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15565546147735151830",
+        "cites_id": [
+            "15565546147735151830"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression of epithelial cell iron\u2010related genes upon infection by Neisseria meningitidis",
+            "pub_year": "2004",
+            "citation": "Cellular Microbiology 6 (5), 473-484, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1005837672085572831",
+        "cites_id": [
+            "1005837672085572831"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Partially degraded RNA from bladder washing is a suitable sample for studying gene expression profiles in bladder cancer",
+            "pub_year": "2006",
+            "citation": "European urology 50 (6), 1347-1356, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2246779915677126267",
+        "cites_id": [
+            "2246779915677126267"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutations primarily alter the inclusion of alternatively spliced exons",
+            "pub_year": "2020",
+            "citation": "Elife 9, e59959, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9935759711999728131",
+        "cites_id": [
+            "9935759711999728131"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The aberrant splicing of BAF45d links splicing regulation and transcription in glioblastoma",
+            "pub_year": "2018",
+            "citation": "Neuro-oncology 20 (7), 930-941, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7518545841530205610",
+        "cites_id": [
+            "7518545841530205610"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systems analysis identifies melanoma-enriched pro-oncogenic networks controlled by the RNA binding protein CELF1",
+            "pub_year": "2017",
+            "citation": "Nature communications 8 (1), 2249, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13767402991961755845",
+        "cites_id": [
+            "13767402991961755845"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional network analysis reveals the relevance of SKIIP in the regulation of alternative splicing by p38 SAPK",
+            "pub_year": "2019",
+            "citation": "Cell reports 27 (3), 847-859. e6, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13649087572117745309",
+        "cites_id": [
+            "13649087572117745309"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "deGraaf J., Montross LK, Andrews NC, Hentze MW: Regulatory defects in liver and intestine implicate abnormal hepcidin and Cybrd1 expression in mouse hemochromatosis",
+            "pub_year": "2003",
+            "citation": "Nat. Genet 34, 102-107, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12160172217815859502",
+        "cites_id": [
+            "12160172217815859502"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Liquid-to-Solid Phase Transition of the ALS Protein FUS Accelerated by Disease Mutation",
+            "pub_year": "2019",
+            "citation": "Cell, 1-15, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The landscape of alternative splicing alterations in human cancer",
+            "pub_year": "2016",
+            "citation": "Integrative RNA Biology Special Interest Group Meeting, 34, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:4TOpqqG69KYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Corrigendum: Large-scale analysis of genome and transcriptome alterations in multiple tumors unveils novel cancer-relevant splicing networks (Genome Res.(2016) 26: 6)",
+            "pub_year": "2016",
+            "citation": "Cold Spring Harbor Laboratory Press, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative analysis of the incidence of bladder cancer in the communities of Andalusia, Catalonia and Madrid in 2011",
+            "pub_year": "2015",
+            "citation": "Actas Urol\u00f3gicas Espa\u00f1olas (English Edition) 39 (7), 420-428, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INAUGURAL ARTICLE by a Recently Elected Academy Member: Argonaute-1 binds transcriptional enhancers and controls constitutive and alternative splicing in human cells",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences of the United States of \u2026, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:Zph67rFs4hoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Joint European Pathology Society\u2013EACR Symposium",
+            "pub_year": "2010",
+            "citation": "ejc supplements 8 (5), 155-225, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:roLk4NBRz8UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Web Based Suite of Tools for Microarray Quality Control and Data Analysis.",
+            "pub_year": "2004",
+            "citation": "Spanish Bioinformatics Conference, 194-195, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:ufrVoPGSRksC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromosome of X From First Base: The Sequence of the Tip of the",
+            "pub_year": "2001",
+            "citation": "Genome Research 11, 710-730, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplemental Information Synonymous Mutations Frequently Act as Driver Mutations in Human Cancer",
+            "citation": "Cell 156, 6, 0"
+        },
+        "filled": false,
+        "author_pub_id": "F9khVmQAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 0
+    }
+]

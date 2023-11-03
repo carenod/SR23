@@ -1,0 +1,4467 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FT protein movement contributes to long-distance signaling in floral induction of Arabidopsis",
+            "pub_year": "2007",
+            "citation": "science 316 (5827), 1030-1033, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 2318,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5069622676605218485",
+        "cites_id": [
+            "5069622676605218485"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The CONSTANS gene of Arabidopsis promotes flowering and encodes a protein showing similarities to zinc finger transcription factors",
+            "pub_year": "1995",
+            "citation": "cell 80 (6), 847-857, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1617,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12534687622195208396",
+        "cites_id": [
+            "12534687622195208396"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct roles of CONSTANS target genes in reproductive development of Arabidopsis",
+            "pub_year": "2000",
+            "citation": "Science 288 (5471), 1613-1616, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 1601,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14318330043293791126",
+        "cites_id": [
+            "14318330043293791126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CONSTANS mediates between the circadian clock and the control of flowering in Arabidopsis",
+            "pub_year": "2001",
+            "citation": "Nature 410 (6832), 1116-1120, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 1591,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14829824233280024275",
+        "cites_id": [
+            "14829824233280024275"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoreceptor regulation of CONSTANS protein in photoperiodic flowering",
+            "pub_year": "2004",
+            "citation": "Science 303 (5660), 1003-1006, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 1404,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16061556766383688822",
+        "cites_id": [
+            "16061556766383688822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genetic basis of flowering responses to seasonal cues",
+            "pub_year": "2012",
+            "citation": "Nature Reviews Genetics 13 (9), 627-639, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:_kc_bZDykSQC",
+        "num_citations": 1398,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17146049013167167367",
+        "cites_id": [
+            "17146049013167167367"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of flowering time: interacting pathways as a basis for diversity",
+            "pub_year": "2002",
+            "citation": "The Plant Cell 14 (suppl_1), S111-S130, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:qjMakFHDy7sC",
+        "num_citations": 1126,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1388445470881108763",
+        "cites_id": [
+            "1388445470881108763"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation and identity of florigen: FLOWERING LOCUS T moves center stage",
+            "pub_year": "2008",
+            "citation": "Annu. Rev. Plant Biol. 59, 573-594, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 1089,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12072403412313621472",
+        "cites_id": [
+            "12072403412313621472"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The late elongated hypocotyl mutation of Arabidopsis disrupts circadian rhythms and the photoperiodic control of flowering",
+            "pub_year": "1998",
+            "citation": "Cell 93 (7), 1219-1229, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 969,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12306747678185431520",
+        "cites_id": [
+            "12306747678185431520"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcription factor FLC confers a flowering response to vernalization by repressing meristem competence and systemic signaling in Arabidopsis",
+            "pub_year": "2006",
+            "citation": "Genes & development 20 (7), 898-912, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 936,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2871785677544544258",
+        "cites_id": [
+            "2871785677544544258"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Polycomb-group gene regulates homeotic gene expression in Arabidopsis",
+            "pub_year": "1997",
+            "citation": "Nature 386 (6620), 44-51, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:epqYDVWIO7EC",
+        "num_citations": 899,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=535859182669864572,7562130611971990045",
+        "cites_id": [
+            "535859182669864572",
+            "7562130611971990045"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GIGANTEA: a circadian clock-controlled gene that regulates photoperiodic flowering in Arabidopsis and encodes a protein with several possible membrane-spanning domains",
+            "pub_year": "1999",
+            "citation": "The EMBO journal 18 (17), 4679-4688, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 854,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13353594797252706163",
+        "cites_id": [
+            "13353594797252706163"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CONSTANS acts in the phloem to regulate a systemic signal that induces photoperiodic flowering of Arabidopsis",
+            "pub_year": "2004",
+            "citation": "Oxford University Press for The Company of Biologists Limited 131 (15), 3615 \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 740,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2355234228989274870",
+        "cites_id": [
+            "2355234228989274870"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SnapShot: control of flowering in Arabidopsis",
+            "pub_year": "2010",
+            "citation": "Cell 141 (3), 550-550. e2, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 665,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11667119203035219606",
+        "cites_id": [
+            "11667119203035219606"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CONSTANS and the CCAAT Box Binding Complex Share a Functionally Important Domain and Interact to Regulate Flowering of Arabidopsis",
+            "pub_year": "2006",
+            "citation": "The Plant Cell 18 (11), 2971-2984, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:UebtZRa9Y70C",
+        "num_citations": 656,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17282315258060846986",
+        "cites_id": [
+            "17282315258060846986"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis TFL2/LHP1 specifically associates with genes marked by trimethylation of histone H3 lysine 27",
+            "pub_year": "2007",
+            "citation": "PLoS genetics 3 (6), e86, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 644,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=781031752255235787",
+        "cites_id": [
+            "781031752255235787"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LHY and CCA1 are partially redundant genes required to maintain circadian rhythms in Arabidopsis",
+            "pub_year": "2002",
+            "citation": "Developmental cell 2 (5), 629-641, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 644,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8824751768064620713",
+        "cites_id": [
+            "8824751768064620713"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis DOF transcription factors act redundantly to reduce CONSTANS expression and are essential for a photoperiodic flowering response",
+            "pub_year": "2009",
+            "citation": "Developmental cell 17 (1), 75-86, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 603,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=609774379475144391",
+        "cites_id": [
+            "609774379475144391"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Evolution of CONSTANS-Like Gene Families in Barley, Rice, and Arabidopsis",
+            "pub_year": "2003",
+            "citation": "Plant physiology 131 (4), 1855-1867, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 580,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9459696020761547482",
+        "cites_id": [
+            "9459696020761547482"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antagonistic regulation of flowering-time gene SOC1 by CONSTANS and FLC via separate promoter motifs",
+            "pub_year": "2002",
+            "citation": "The EMBO journal 21 (16), 4327-4337, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:WF5omc3nYNoC",
+        "num_citations": 558,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9703132241993140445",
+        "cites_id": [
+            "9703132241993140445"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional importance of conserved domains in the flowering\u2010time gene CONSTANS demonstrated by analysis of mutant alleles and transgenic plants",
+            "pub_year": "2001",
+            "citation": "The Plant Journal 28 (6), 619-631, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 546,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13234368869815426202",
+        "cites_id": [
+            "13234368869815426202"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis COP1 shapes the temporal pattern of CO accumulation conferring a photoperiodic flowering response",
+            "pub_year": "2008",
+            "citation": "The EMBO journal 27 (8), 1277-1288, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 517,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4701328315207073397",
+        "cites_id": [
+            "4701328315207073397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct Roles of GIGANTEA in Promoting Flowering and Regulating Circadian Rhythms in Arabidopsis",
+            "pub_year": "2005",
+            "citation": "The Plant Cell 17 (8), 2255-2270, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Se3iqnhoufwC",
+        "num_citations": 501,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12887987349625466772",
+        "cites_id": [
+            "12887987349625466772"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutagenesis of Plants Overexpressing CONSTANS Demonstrates Novel Interactions among Arabidopsis Flowering-Time Genes",
+            "pub_year": "2000",
+            "citation": "The Plant Cell 12 (6), 885-900, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 481,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12687786430104867624",
+        "cites_id": [
+            "12687786430104867624"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Activation of floral meristem identity genes in Arabidopsis",
+            "pub_year": "1996",
+            "citation": "Nature 384 (6604), 59-62, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:ufrVoPGSRksC",
+        "num_citations": 466,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16860198679470906902",
+        "cites_id": [
+            "16860198679470906902"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutations in the Arabidopsis Gene IMMUTANS Cause a Variegated Phenotype by Inactivating a Chloroplast Terminal Oxidase Associated with Phytoene \u2026",
+            "pub_year": "1999",
+            "citation": "The Plant Cell 11 (1), 57-68, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:0EnyYjriUFMC",
+        "num_citations": 420,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6572735097981836561",
+        "cites_id": [
+            "6572735097981836561"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of genetic perturbation on seasonal life history plasticity",
+            "pub_year": "2009",
+            "citation": "Science 323 (5916), 930-934, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 413,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2455059211212691322",
+        "cites_id": [
+            "2455059211212691322"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The molecular basis of diversity in the photoperiodic flowering responses of Arabidopsis and rice",
+            "pub_year": "2004",
+            "citation": "Plant physiology 135 (2), 677-684, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 399,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2791691964325749886",
+        "cites_id": [
+            "2791691964325749886"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Dissociation insertion causes a semidominant mutation that increases expression of TINY, an Arabidopsis gene related to APETALA2.",
+            "pub_year": "1996",
+            "citation": "The Plant Cell 8 (4), 659-671, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:roLk4NBRz8UC",
+        "num_citations": 378,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12280250975626894817",
+        "cites_id": [
+            "12280250975626894817"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PEP1 regulates perennial flowering in Arabis alpina",
+            "pub_year": "2009",
+            "citation": "Nature 459 (7245), 423-427, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 377,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5299847545254559170",
+        "cites_id": [
+            "5299847545254559170"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis SPA proteins regulate photoperiodic flowering and interact with the floral inducer CONSTANS to regulate its stability",
+            "pub_year": "2006",
+            "citation": "Oxford University Press for The Company of Biologists Limited 133 (16), 3213 \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:4DMP91E08xMC",
+        "num_citations": 360,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16851241514235783732",
+        "cites_id": [
+            "16851241514235783732"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis B-Box Zinc Finger Family",
+            "pub_year": "2009",
+            "citation": "The Plant Cell 21 (11), 3416-3420, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:k_IJM867U9cC",
+        "num_citations": 343,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15165156326533179960",
+        "cites_id": [
+            "15165156326533179960"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Induction of flowering by seasonal changes in photoperiod",
+            "pub_year": "2004",
+            "citation": "The EMBO Journal 23 (6), 1217-1222, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 342,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7222876444412591330",
+        "cites_id": [
+            "7222876444412591330"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ACAULIS5, an Arabidopsis gene required for stem elongation, encodes a spermine synthase",
+            "pub_year": "2000",
+            "citation": "The EMBO journal 19 (16), 4248-4256, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 323,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4750486912393603010",
+        "cites_id": [
+            "4750486912393603010"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The CCAAT binding factor can mediate interactions between CONSTANS\u2010like proteins and DNA",
+            "pub_year": "2006",
+            "citation": "The Plant Journal 46 (3), 462-476, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 309,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14732826434893641628",
+        "cites_id": [
+            "14732826434893641628"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EARLY FLOWERING4 Recruitment of EARLY FLOWERING3 in the Nucleus Sustains the Arabidopsis Circadian Clock",
+            "pub_year": "2012",
+            "citation": "The Plant Cell 24 (2), 428-443, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:TFP_iSt0sucC",
+        "num_citations": 308,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16284336268265099246,16825868854081132810",
+        "cites_id": [
+            "16284336268265099246",
+            "16825868854081132810"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ALBINO3, an Arabidopsis nuclear gene essential for chloroplast differentiation, encodes a chloroplast protein that shows homology to proteins present in bacterial membranes and \u2026",
+            "pub_year": "1997",
+            "citation": "The Plant Cell 9 (5), 717-730, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 307,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15687076599875556917",
+        "cites_id": [
+            "15687076599875556917"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "cis-Regulatory Elements and Chromatin State Coordinately Control Temporal and Spatial Expression of FLOWERING LOCUS T in Arabidopsis",
+            "pub_year": "2010",
+            "citation": "The Plant Cell 22 (5), 1425-1440, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 306,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14888334836657195161",
+        "cites_id": [
+            "14888334836657195161"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shedding light on the circadian clock and the photoperiodic control of flowering",
+            "pub_year": "2003",
+            "citation": "Current Opinion in Plant Biology 6 (1), 13-19, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:8k81kl-MbHgC",
+        "num_citations": 302,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14577900947176755848",
+        "cites_id": [
+            "14577900947176755848"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A molecular framework for auxin-mediated initiation of flower primordia",
+            "pub_year": "2013",
+            "citation": "Developmental cell 24 (3), 271-282, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 297,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14784849983672094368",
+        "cites_id": [
+            "14784849983672094368"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The quest for florigen: a review of recent progress",
+            "pub_year": "2006",
+            "citation": "Journal of experimental botany 57 (13), 3395-3403, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:aqlVkmm33-oC",
+        "num_citations": 294,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1662755173428462252",
+        "cites_id": [
+            "1662755173428462252"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of the ethanol\u2010inducible alc gene\u2010expression system in Arabidopsis thaliana",
+            "pub_year": "2001",
+            "citation": "The Plant Journal 28 (2), 225-235, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 284,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10515233585156080452",
+        "cites_id": [
+            "10515233585156080452"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of natural allelic variation at flowering time loci in the Landsberg erecta and Cape Verde Islands ecotypes of Arabidopsis thaliana",
+            "pub_year": "1998",
+            "citation": "Genetics 149 (2), 749-764, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:5nxA0vEk-isC",
+        "num_citations": 284,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=897679564655061978",
+        "cites_id": [
+            "897679564655061978"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative mapping in Arabidopsis and Brassica, fine scale genome collinearity and congruence of genes controlling flowering time",
+            "pub_year": "1996",
+            "citation": "The Plant Journal 9 (1), 13-20, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 281,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=968545825463703689",
+        "cites_id": [
+            "968545825463703689"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transition of flowering in Arabidopsis",
+            "pub_year": "1994",
+            "citation": "Arabidopsis, 492-503, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:4TOpqqG69KYC",
+        "num_citations": 264,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9141609621338640812",
+        "cites_id": [
+            "9141609621338640812"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic and spatial interactions between FT, TSF and SVP during the early stages of floral induction in Arabidopsis",
+            "pub_year": "2009",
+            "citation": "The Plant Journal 60 (4), 614-625, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 242,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7712388203655840841",
+        "cites_id": [
+            "7712388203655840841"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A nuclear protease required for flowering-time regulation in Arabidopsis reduces the abundance of SMALL UBIQUITIN-RELATED MODIFIER conjugates",
+            "pub_year": "2003",
+            "citation": "The Plant Cell 15 (10), 2308-2319, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 241,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12126366675441960824",
+        "cites_id": [
+            "12126366675441960824"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotypic assay for excision of the maize controlling element Ac in tobacco",
+            "pub_year": "1987",
+            "citation": "The EMBO journal 6 (6), 1547-1554, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Zph67rFs4hoC",
+        "num_citations": 240,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1109990857494522754",
+        "cites_id": [
+            "1109990857494522754"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Circadian Rhythm Set by Dusk Determines the Expression of FT Homologs and the Short-Day Photoperiodic Flowering Response in Pharbitis",
+            "pub_year": "2007",
+            "citation": "The Plant Cell 19 (10), 2988-3000, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 237,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3560753267756153041",
+        "cites_id": [
+            "3560753267756153041"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Root-associated fungal microbiota of nonmycorrhizal Arabis alpina and its contribution to plant phosphorus nutrition",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (44), E9403-E9412, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:8d8msizDQcsC",
+        "num_citations": 234,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1469588848644289494",
+        "cites_id": [
+            "1469588848644289494"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatially distinct regulatory roles for gibberellins in the promotion of flowering of Arabidopsis under long photoperiods",
+            "pub_year": "2012",
+            "citation": "Development 139 (12), 2198-2209, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:GnPB-g6toBAC",
+        "num_citations": 225,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15055482007789402493",
+        "cites_id": [
+            "15055482007789402493"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cytokinin promotes flowering of Arabidopsis via transcriptional activation of the FT paralogue TSF",
+            "pub_year": "2011",
+            "citation": "The plant journal 65 (6), 972-979, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 225,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=199455750325734173",
+        "cites_id": [
+            "199455750325734173"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the Arabidopsis Shoot Meristem Transcriptome during Floral Transition Identifies Distinct Regulatory Patterns and a Leucine-Rich Repeat Protein That \u2026",
+            "pub_year": "2012",
+            "citation": "The Plant Cell 24 (2), 444-462, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 215,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14784132599562083403",
+        "cites_id": [
+            "14784132599562083403"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian Clock Proteins LHY and CCA1 Regulate SVP Protein Accumulation to Control Flowering in Arabidopsis",
+            "pub_year": "2008",
+            "citation": "The Plant Cell 20 (11), 2960-2971, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 210,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2662942414491483298",
+        "cites_id": [
+            "2662942414491483298"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant development goes like clockwork",
+            "pub_year": "2010",
+            "citation": "Trends in Genetics 26 (7), 296-306, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 202,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7320758341777788462",
+        "cites_id": [
+            "7320758341777788462"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nitrate regulates floral induction in Arabidopsis, acting independently of light, gibberellin and autonomous pathways",
+            "pub_year": "2011",
+            "citation": "Planta 233, 539-552, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:D03iK_w7-QYC",
+        "num_citations": 199,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9042289861239215731",
+        "cites_id": [
+            "9042289861239215731"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Response of plant development to environment: control of flowering by daylength and temperature",
+            "pub_year": "2000",
+            "citation": "Current opinion in plant biology 3 (1), 37-42, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 195,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=51784816028736207",
+        "cites_id": [
+            "51784816028736207"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanisms of Age-Dependent Response to Winter Temperature in Perennial Flowering of Arabis alpina",
+            "pub_year": "2013",
+            "citation": "Science 340 (6136), 1094-1097, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 193,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8840631633991344144",
+        "cites_id": [
+            "8840631633991344144"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time measurement and the control of flowering in plants",
+            "pub_year": "2000",
+            "citation": "Bioessays 22 (1), 38-47, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:IWHjjKOFINEC",
+        "num_citations": 191,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14989120834814071111",
+        "cites_id": [
+            "14989120834814071111"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-layered regulation of SPL15 and cooperation with SOC1 integrate endogenous flowering pathways at the Arabidopsis shoot meristem",
+            "pub_year": "2016",
+            "citation": "Developmental cell 37 (3), 254-266, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:b1wdh0AR-JQC",
+        "num_citations": 190,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10203833917978552687",
+        "cites_id": [
+            "10203833917978552687"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Site-directed mutagenesis in Arabidopsis thaliana using dividing tissue-targeted RGEN of the CRISPR/Cas system to generate heritable null alleles",
+            "pub_year": "2015",
+            "citation": "Planta 241, 271-284, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:D_sINldO8mEC",
+        "num_citations": 188,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14215199527796481849",
+        "cites_id": [
+            "14215199527796481849"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutation in TERMINAL FLOWER1 Reverses the Photoperiodic Requirement for Flowering in the Wild Strawberry Fragaria vesca",
+            "pub_year": "2012",
+            "citation": "Plant Physiology 159 (3), 1043-1054, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:dfsIfKJdRG4C",
+        "num_citations": 184,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16765866772791316243",
+        "cites_id": [
+            "16765866772791316243"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The maize transposable element system Ac/Ds as a mutagen in Arabidopsis: identification of an albino mutation induced by Ds insertion.",
+            "pub_year": "1993",
+            "citation": "Proceedings of the National Academy of Sciences 90 (21), 10370-10374, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 183,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7295619729728266160",
+        "cites_id": [
+            "7295619729728266160"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The control of flowering time and floral identity in Arabidopsis",
+            "pub_year": "1998",
+            "citation": "Plant Physiology 117 (1), 1-8, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:-f6ydRqryjwC",
+        "num_citations": 182,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13249948598834901422",
+        "cites_id": [
+            "13249948598834901422"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proteome-wide screens for small ubiquitin-like modifier (SUMO) substrates identify Arabidopsis proteins implicated in diverse biological processes",
+            "pub_year": "2010",
+            "citation": "Proceedings of the National Academy of Sciences 107 (40), 17415-17420, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:maZDTaKrznsC",
+        "num_citations": 180,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9247616565920742848",
+        "cites_id": [
+            "9247616565920742848"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutation identification by direct comparison of whole-genome sequencing data from mutant and wild-type individuals using k-mers",
+            "pub_year": "2013",
+            "citation": "Nature biotechnology 31 (4), 325-330, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 179,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2635947052315517692",
+        "cites_id": [
+            "2635947052315517692"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative analysis of flowering in annual and perennial plants",
+            "pub_year": "2010",
+            "citation": "Current topics in developmental biology 91, 323-348, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 169,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5973258429449988944",
+        "cites_id": [
+            "5973258429449988944"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis florigen FT binds to diurnally oscillating phospholipids that accelerate flowering",
+            "pub_year": "2014",
+            "citation": "Nature communications 5 (1), 3553, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:XiSMed-E-HIC",
+        "num_citations": 165,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1976385679055924206",
+        "cites_id": [
+            "1976385679055924206"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transposition of the maize transposable element Ac in Solanum tuberosum",
+            "pub_year": "1988",
+            "citation": "Molecular and General Genetics MGG 213, 285-290, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:dhFuZR0502QC",
+        "num_citations": 165,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18267564721798469111",
+        "cites_id": [
+            "18267564721798469111"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome expansion of Arabis alpina linked with retrotransposition and reduced symmetric DNA methylation",
+            "pub_year": "2015",
+            "citation": "Nature plants 1 (2), 1-7, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 164,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9496239602819037940,2831414651067403371",
+        "cites_id": [
+            "9496239602819037940",
+            "2831414651067403371"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional characterisation of HvCO1, the barley (Hordeum vulgare) flowering time ortholog of CONSTANS",
+            "pub_year": "2012",
+            "citation": "The Plant Journal 69 (5), 868-880, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:lSLTfruPkqcC",
+        "num_citations": 162,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11370864171380508932",
+        "cites_id": [
+            "11370864171380508932"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conserved structure and function of the Arabidopsis flowering time gene CONSTANS in Brassica napus",
+            "pub_year": "1998",
+            "citation": "Plant Molecular Biology 37, 763-772, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 160,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10285217046811487389",
+        "cites_id": [
+            "10285217046811487389"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of flowering time control in Arabidopsis by comparison of double and triple mutants",
+            "pub_year": "2001",
+            "citation": "Plant Physiology 126 (3), 1085-1091, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:HDshCWvjkbEC",
+        "num_citations": 159,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1159561386459281824",
+        "cites_id": [
+            "1159561386459281824"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combinatorial activities of SHORT VEGETATIVE PHASE and FLOWERING LOCUS C define distinct modes of flowering regulation in Arabidopsis",
+            "pub_year": "2015",
+            "citation": "Genome biology 16, 1-23, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:35r97b3x0nAC",
+        "num_citations": 158,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12180044410217391871",
+        "cites_id": [
+            "12180044410217391871"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EARLY BOLTING IN SHORT DAYS Is Related to Chromatin Remodeling Factors and Regulates Flowering in Arabidopsis by Repressing FT",
+            "pub_year": "2003",
+            "citation": "The Plant Cell 15 (7), 1552-1562, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 158,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15531441935073751295",
+        "cites_id": [
+            "15531441935073751295"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of pathways directly regulated by SHORT VEGETATIVE PHASE during vegetative and reproductive development in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "Genome biology 14, 1-26, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:f2IySw72cVMC",
+        "num_citations": 155,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17350261475555980560",
+        "cites_id": [
+            "17350261475555980560"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoperiodic flowering of Arabidopsis: integrating genetic and physiological approaches to characterization of the floral stimulus",
+            "pub_year": "2005",
+            "citation": "Plant, Cell & Environment 28 (1), 54-66, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:TQgYirikUcIC",
+        "num_citations": 155,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13400295343844788597",
+        "cites_id": [
+            "13400295343844788597"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signalling for developmental plasticity",
+            "pub_year": "2004",
+            "citation": "Trends in plant science 9 (6), 309-314, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 153,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1293911571688129575",
+        "cites_id": [
+            "1293911571688129575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SHORT VEGETATIVE PHASE reduces gibberellin biosynthesis at the Arabidopsis shoot apex to regulate the floral transition",
+            "pub_year": "2014",
+            "citation": "Proceedings of the National Academy of Sciences 111 (26), E2760-E2769, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:tOudhMTPpwUC",
+        "num_citations": 146,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9206766418630499627",
+        "cites_id": [
+            "9206766418630499627"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Root microbiota dynamics of perennial Arabis alpina are dependent on soil residence time but independent of flowering time",
+            "pub_year": "2017",
+            "citation": "The ISME journal 11 (1), 43-55, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:M7yex6snE4oC",
+        "num_citations": 141,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9730091062093194598",
+        "cites_id": [
+            "9730091062093194598"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic and environmental control of flowering time in Arabidopsis",
+            "pub_year": "1995",
+            "citation": "Trends in Genetics 11 (10), 393-397, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 141,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11805386505665132281",
+        "cites_id": [
+            "11805386505665132281"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of the maize transposable element Ac by internal deletions",
+            "pub_year": "1988",
+            "citation": "The EMBO journal 7 (12), 3653-3659, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:qUcmZB5y_30C",
+        "num_citations": 140,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13213384332557691498",
+        "cites_id": [
+            "13213384332557691498"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Aa TFL1 Confers an Age-Dependent Response to Vernalization in Perennial Arabis alpina",
+            "pub_year": "2011",
+            "citation": "The Plant Cell 23 (4), 1307-1321, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 139,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13469393367592419180",
+        "cites_id": [
+            "13469393367592419180"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chlamydomonas CONSTANS and the evolution of plant photoperiodic signaling",
+            "pub_year": "2009",
+            "citation": "Current Biology 19 (5), 359-368, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 139,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16932141330956326388",
+        "cites_id": [
+            "16932141330956326388"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Elevated levels of Activator transposase mRNA are associated with high frequencies of Dissociation excision in Arabidopsis.",
+            "pub_year": "1992",
+            "citation": "The Plant Cell 4 (5), 583-595, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:hC7cP41nSMkC",
+        "num_citations": 138,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8409166192086038413",
+        "cites_id": [
+            "8409166192086038413"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improving and correcting the contiguity of long-read genome assemblies of three plant species using optical mapping and chromosome conformation capture data",
+            "pub_year": "2017",
+            "citation": "Genome research 27 (5), 778-786, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:q3CdL3IzO_QC",
+        "num_citations": 135,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16912077221502552749",
+        "cites_id": [
+            "16912077221502552749"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequences near the termini are required for transposition of the maize transposon Ac in transgenic tobacco plants.",
+            "pub_year": "1989",
+            "citation": "Proceedings of the National Academy of Sciences 86 (23), 9385-9388, 1989"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:mB3voiENLucC",
+        "num_citations": 127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1103802171518876834",
+        "cites_id": [
+            "1103802171518876834"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome\u2010scale Arabidopsis promoter array identifies targets of the histone acetyltransferase GCN5",
+            "pub_year": "2008",
+            "citation": "The Plant Journal 56 (3), 493-504, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 125,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10352335189305559321",
+        "cites_id": [
+            "10352335189305559321"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "early in short days 4, a mutation in Arabidopsis that causes early flowering and reduces the mRNA abundance of the floral repressor FLC",
+            "pub_year": "2002",
+            "citation": "Oxford University Press for The Company of Biologists Limited 129 (23), 5349 \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 124,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5206595861112404092",
+        "cites_id": [
+            "5206595861112404092"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis SOC1\u2010like genes AGL42, AGL71 and AGL72 promote flowering in the shoot apical and axillary meristems",
+            "pub_year": "2011",
+            "citation": "The Plant Journal 67 (6), 1006-1017, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:a0OBvERweLwC",
+        "num_citations": 122,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11406491905909520145",
+        "cites_id": [
+            "11406491905909520145"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoperiodic and thermosensory pathways interact through CONSTANS to promote flowering at high temperature under short days",
+            "pub_year": "2016",
+            "citation": "The Plant Journal 86 (5), 426-440, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:kuK5TVdYjLIC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9500781754599468192",
+        "cites_id": [
+            "9500781754599468192"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant phase transitions make a SPLash",
+            "pub_year": "2009",
+            "citation": "Cell 138 (4), 625-627, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:35N4QoGY0k4C",
+        "num_citations": 115,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15801127151621628645",
+        "cites_id": [
+            "15801127151621628645"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A rapid and versatile combined DNA/RNA extraction protocol and its application to the analysis of a novel DNA marker set polymorphic between Arabidopsis thaliana ecotypes Col-0 \u2026",
+            "pub_year": "2005",
+            "citation": "Plant Methods 1, 1-15, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:RGFaLdJalmkC",
+        "num_citations": 115,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9511910596159183038",
+        "cites_id": [
+            "9511910596159183038"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Competence to flower: Age-controlled sensitivity to environmental cues",
+            "pub_year": "2017",
+            "citation": "Plant physiology 173 (1), 36-46, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:WZBGuue-350C",
+        "num_citations": 112,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13223971987605565199",
+        "cites_id": [
+            "13223971987605565199"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant biology",
+            "pub_year": "2009",
+            "citation": "Garland Science, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:owLR8QvbtFgC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4479438983566332764",
+        "cites_id": [
+            "4479438983566332764"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Substrates related to chromatin and to RNA-dependent processes are modified by Arabidopsis SUMO isoforms that differ in a conserved residue with influence on desumoylation",
+            "pub_year": "2009",
+            "citation": "Plant Physiology 149 (3), 1529-1540, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1868786201805777677",
+        "cites_id": [
+            "1868786201805777677"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The (r)evolution of gene regulatory networks controlling Arabidopsis plant reproduction: a two-decade history",
+            "pub_year": "2014",
+            "citation": "Journal of Experimental Botany 65 (17), 4731-4745, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:vRqMK49ujn8C",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13528298213572638417",
+        "cites_id": [
+            "13528298213572638417"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phloem transport of flowering signals",
+            "pub_year": "2008",
+            "citation": "Current opinion in plant biology 11 (6), 687-694, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:hMod-77fHWUC",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13119067724632544092",
+        "cites_id": [
+            "13119067724632544092"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SUMO conjugation in plants",
+            "pub_year": "2004",
+            "citation": "Planta 220, 1-8, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1382698953949416886",
+        "cites_id": [
+            "1382698953949416886"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Speeding cis-trans regulation discovery by phylogenomic analyses coupled with screenings of an arrayed library of Arabidopsis transcription factors",
+            "pub_year": "2011",
+            "citation": "PloS one 6 (6), e21524, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:u_35RYKgDlwC",
+        "num_citations": 106,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13234435789976591327",
+        "cites_id": [
+            "13234435789976591327"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transposons as tools for the isolation of plant genes",
+            "pub_year": "1991",
+            "citation": "Trends in Biotechnology 9 (1), 31-37, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:r0BpntZqJG4C",
+        "num_citations": 105,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17380107361040423606",
+        "cites_id": [
+            "17380107361040423606"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DELLA-interacting SWI3C core subunit of switch/sucrose nonfermenting chromatin remodeling complex modulates gibberellin responses and hormonal cross talk in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "Plant physiology 163 (1), 305-317, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:3htObqc8RwsC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=594669444080622394",
+        "cites_id": [
+            "594669444080622394"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "miR824-Regulated AGAMOUS-LIKE16 Contributes to Flowering Time Repression in Arabidopsis",
+            "pub_year": "2014",
+            "citation": "The Plant Cell 26 (5), 2024-2037, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Tiz5es2fbqcC",
+        "num_citations": 102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4313937472046922659",
+        "cites_id": [
+            "4313937472046922659"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DOF-binding sites additively contribute to guard cell-specificity of AtMYB60promoter",
+            "pub_year": "2011",
+            "citation": "BMC Plant Biology 11, 1-13, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3682026898150087376",
+        "cites_id": [
+            "3682026898150087376"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PSEUDO RESPONSE REGULATORs stabilize CONSTANS protein to promote flowering in response to day length",
+            "pub_year": "2017",
+            "citation": "The EMBO journal 36 (7), 904-918, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:XoXfffV-tXoC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11952979213416290382",
+        "cites_id": [
+            "11952979213416290382"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The GI\u2013CDF module of Arabidopsis affects freezing tolerance and growth as well as flowering",
+            "pub_year": "2015",
+            "citation": "The Plant Journal 81 (5), 695-706, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:9Nmd_mFXekcC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16047142782166174126",
+        "cites_id": [
+            "16047142782166174126"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "early bolting in short days: An Arabidopsis Mutation That Causes Early Flowering and Partially Suppresses the Floral Phenotype of leafy",
+            "pub_year": "2001",
+            "citation": "The Plant Cell 13 (5), 1011-1024, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:blknAaTinKkC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10984860691503047637",
+        "cites_id": [
+            "10984860691503047637"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of chromatin regulation on the floral transition",
+            "pub_year": "2008",
+            "citation": "Seminars in cell & developmental biology 19 (6), 560-573, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:isC4tDSrTZIC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13649112595579534594",
+        "cites_id": [
+            "13649112595579534594"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Flowering responses to seasonal cues: what's new?",
+            "pub_year": "2014",
+            "citation": "Current opinion in plant biology 21, 120-127, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13871438925943167981",
+        "cites_id": [
+            "13871438925943167981"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis A BOUT DE SOUFFLE, Which Is Homologous with Mammalian Carnitine Acyl Carrier, Is Required for Postembryonic Growth in the Light",
+            "pub_year": "2002",
+            "citation": "The Plant Cell 14 (9), 2161-2173, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 85,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11903662948656915447",
+        "cites_id": [
+            "11903662948656915447"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutation of a family 8 glycosyltransferase gene alters cell wall carbohydrate composition and causes a humidity-sensitive semi-sterile dwarf phenotype in Arabidopsis",
+            "pub_year": "2003",
+            "citation": "Plant molecular biology 53, 687-701, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:BqipwSGYUEgC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8085355780251499554",
+        "cites_id": [
+            "8085355780251499554"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A regulatory circuit conferring varied flowering response to cold in annual and perennial plants",
+            "pub_year": "2019",
+            "citation": "Science 363 (6425), 409-412, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:yFnVuubrUp4C",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4513547906042738633",
+        "cites_id": [
+            "4513547906042738633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural diversity in daily rhythms of gene expression contributes to phenotypic variation",
+            "pub_year": "2015",
+            "citation": "Proceedings of the National Academy of Sciences 112 (3), 905-910, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:kRWSkSYxWN8C",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2559218679907177110",
+        "cites_id": [
+            "2559218679907177110"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PEP1 of Arabis alpina Is Encoded by Two Overlapping Genes That Contribute to Natural Genetic Variation in Perennial Flowering",
+            "pub_year": "2012",
+            "citation": "PLoS Genetics 8 (12), e1003130, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:dshw04ExmUIC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3356736264332538674",
+        "cites_id": [
+            "3356736264332538674"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chromosome walking with YAC clones in Arabidopsis: isolation of 1700 kb of contiguous DNA on chromosome 5, including a 300 kb region containing the flowering-time \u2026",
+            "pub_year": "1993",
+            "citation": "Molecular and General Genetics MGG 239, 145-157, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17057646399053490168",
+        "cites_id": [
+            "17057646399053490168"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of Arabidopsis SUMO-interacting proteins that regulate chromatin activity and developmental transitions",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (49), 19956-19961, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:WbkHhVStYXYC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17107278218939414986",
+        "cites_id": [
+            "17107278218939414986"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The family of CONSTANS-like genes in Physcomitrella patens",
+            "pub_year": "2005",
+            "citation": "Plant Biology, 266-275, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3005565769635508756",
+        "cites_id": [
+            "3005565769635508756"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct roles for Arabidopsis SUMO protease ESD4 and its closest homolog ELS1",
+            "pub_year": "2011",
+            "citation": "Planta 233, 63-73, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14603081986152848144",
+        "cites_id": [
+            "14603081986152848144"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antisense suppression of the Arabidopsis PIF3 gene does not affect circadian rhythms but causes early flowering and increases FT expression",
+            "pub_year": "2004",
+            "citation": "FEBS letters 557 (1-3), 259-264, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10689035132925684746",
+        "cites_id": [
+            "10689035132925684746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary conservation of cold-induced antisense RNAs of FLOWERING LOCUS C in Arabidopsis thaliana perennial relatives",
+            "pub_year": "2014",
+            "citation": "Nature Communications 5 (1), 4457, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:eflP2zaiRacC",
+        "num_citations": 65,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18051800109670228933",
+        "cites_id": [
+            "18051800109670228933"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Divergence of annual and perennial species in the Brassicaceae and the contribution of cis\u2010acting variation at FLC orthologues",
+            "pub_year": "2017",
+            "citation": "Molecular Ecology 26 (13), 3437-3457, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6398430146235157657",
+        "cites_id": [
+            "6398430146235157657"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetics of homology\u2010dependent gene silencing in Arabidopsis; a role for methylation",
+            "pub_year": "1997",
+            "citation": "The Plant Journal 12 (4), 791-804, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:70eg2SAEIzsC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15727918589388663446",
+        "cites_id": [
+            "15727918589388663446"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Possible role of EARLY FLOWERING 3 (ELF3) in clock\u2010dependent floral regulation by SHORT VEGETATIVE PHASE (SVP) in Arabidopsis thaliana",
+            "pub_year": "2009",
+            "citation": "New phytologist 182 (4), 838-850, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17494121996930893782",
+        "cites_id": [
+            "17494121996930893782"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The sugar transporter SWEET10 acts downstream of FLOWERING LOCUS T during floral transition of Arabidopsis thaliana",
+            "pub_year": "2020",
+            "citation": "BMC Plant Biology 20, 1-14, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Bg7qf7VwUHIC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14465245785894381868",
+        "cites_id": [
+            "14465245785894381868"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phosphorylation of CONSTANS and its COP 1\u2010dependent degradation during photoperiodic flowering of Arabidopsis",
+            "pub_year": "2015",
+            "citation": "The Plant Journal 84 (3), 451-463, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:AvfA0Oy_GE0C",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4369790538409612398",
+        "cites_id": [
+            "4369790538409612398"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural variation in epigenetic gene regulation and its effects on plant developmental traits",
+            "pub_year": "2014",
+            "citation": "Evolution 68 (3), 620-631, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16855673205104826734",
+        "cites_id": [
+            "16855673205104826734"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prieurianin/endosidin\u20031 is an actin\u2010stabilizing small molecule identified from a chemical genetic screen for circadian clock effectors in Arabidopsis thaliana",
+            "pub_year": "2012",
+            "citation": "The Plant Journal 71 (2), 338-352, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9072220649825975686",
+        "cites_id": [
+            "9072220649825975686"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genetics of stamenoid petal production in oilseed rape (Brassica napus) and equivalent variation in Arabidopsis thaliana",
+            "pub_year": "1997",
+            "citation": "Theoretical and applied genetics 94, 731-736, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:ldfaerwXgEUC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3908636709527872801",
+        "cites_id": [
+            "3908636709527872801"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Floral regulators FLC and SOC1 directly regulate expression of the B3-type transcription factor TARGET OF FLC AND SVP 1 at the Arabidopsis shoot apex via antagonistic chromatin \u2026",
+            "pub_year": "2019",
+            "citation": "PLoS genetics 15 (4), e1008065, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:r_AWSJRzSzQC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17086967817880662665",
+        "cites_id": [
+            "17086967817880662665"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Demography and mating system shape the genome-wide impact of purifying selection in Arabis alpina",
+            "pub_year": "2018",
+            "citation": "Proceedings of the National Academy of Sciences 115 (4), 816-821, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:hCrLmN-GePgC",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2610361908598502231",
+        "cites_id": [
+            "2610361908598502231"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of flowering by photoperiod in Arabidopsis",
+            "pub_year": "1997",
+            "citation": "Plant, Cell & Environment 20 (6), 785-789, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:rO6llkc54NcC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16169047526020385587",
+        "cites_id": [
+            "16169047526020385587"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of the selfing syndrome: anther orientation and herkogamy together determine reproductive assurance in a self-compatible plant",
+            "pub_year": "2017",
+            "citation": "Evolution 71 (9), 2206-2218, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:GtLg2Ama23sC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1938829614105848811",
+        "cites_id": [
+            "1938829614105848811"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of CONSTANS Regulation and Function after Gene Duplication Produced a Photoperiodic Flowering Switch in the Brassicaceae",
+            "pub_year": "2015",
+            "citation": "Molecular Biology and Evolution 32 (9), 2284-2301, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:NJ774b8OgUMC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9801589405268978884",
+        "cites_id": [
+            "9801589405268978884"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of clones carrying repeated DNA sequences in two YAC libraries of Arabidopsis thaliana DNA",
+            "pub_year": "1994",
+            "citation": "The Plant Journal 5 (5), 735-744, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=841452527035569167",
+        "cites_id": [
+            "841452527035569167"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Floral Induction in Arabidopsis by FLOWERING LOCUS T Requires Direct Repression of BLADE-ON-PETIOLE Genes by the Homeodomain Protein PENNYWISE",
+            "pub_year": "2015",
+            "citation": "Plant Physiology 169 (3), 2187-2199, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:BUYA1_V_uYcC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11054157331515403891",
+        "cites_id": [
+            "11054157331515403891"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SWP73 subunits of Arabidopsis SWI/SNF chromatin remodeling complexes play distinct roles in leaf and flower development",
+            "pub_year": "2015",
+            "citation": "The Plant Cell 27 (7), 1889-1906, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:uWiczbcajpAC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9955021882805750376",
+        "cites_id": [
+            "9955021882805750376"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large\u2010scale adaptive differentiation in the alpine perennial herb Arabis alpina",
+            "pub_year": "2015",
+            "citation": "New Phytologist 206 (1), 459-470, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:olpn-zPbct0C",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4055259385913355763",
+        "cites_id": [
+            "4055259385913355763"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Elevated salicylic acid levels conferred by increased expression of ISOCHORISMATE SYNTHASE 1 contribute to hyperaccumulation of SUMO 1 conjugates in the Arabidopsis mutant \u2026",
+            "pub_year": "2014",
+            "citation": "The Plant Journal 79 (2), 206-219, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3334824735098623552",
+        "cites_id": [
+            "3334824735098623552"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional divergence of the Arabidopsis florigen-interacting bZIP transcription factors FD and FDP",
+            "pub_year": "2020",
+            "citation": "Cell reports 31 (9), 2020"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:sJsF-0ZLhtgC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7261702759968733654",
+        "cites_id": [
+            "7261702759968733654"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ds elements on all five Arabidopsis chromosomes and assessment of their utility for transposon tagging",
+            "pub_year": "1997",
+            "citation": "The Plant Journal 11 (1), 145-148, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3807461967297389904",
+        "cites_id": [
+            "3807461967297389904"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the frequency of inheritance of transposed Ds elements in Arabidopsis after activation by a CaMV 35S promoter fusion to the Ac transposase gene",
+            "pub_year": "1993",
+            "citation": "Molecular and General Genetics MGG 241, 627-636, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:M05iB0D1s5AC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5187183380585854888",
+        "cites_id": [
+            "5187183380585854888"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systematic analyses of the MIR172 family members of Arabidopsis define their distinct roles in regulation of APETALA2 during floral transition",
+            "pub_year": "2021",
+            "citation": "PLoS Biology 19 (2), e3001043, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:buQ7SEKw-1sC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1691195851952795579",
+        "cites_id": [
+            "1691195851952795579"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of IS46, an insertion sequence found on two IncN plasmids",
+            "pub_year": "1984",
+            "citation": "Journal of bacteriology 159 (2), 472-481, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15785762907248905595",
+        "cites_id": [
+            "15785762907248905595"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two SUMO proteases SUMO PROTEASE RELATED TO FERTILITY1 and 2 are required for fertility in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "Plant Physiology 175 (4), 1703-1719, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:LO7wyVUgiFcC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5940727929729088252",
+        "cites_id": [
+            "5940727929729088252"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Elevated levels of MYB30 in the phloem accelerate flowering in Arabidopsis through the regulation of FLOWERING LOCUS T",
+            "pub_year": "2014",
+            "citation": "PloS one 9 (2), e89799, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11245061862065458302",
+        "cites_id": [
+            "11245061862065458302"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The dynamics of FLOWERING LOCUS T expression encodes long\u2010day information",
+            "pub_year": "2015",
+            "citation": "The Plant Journal 83 (6), 952-961, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:URolC5Kub84C",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16285205398747118846",
+        "cites_id": [
+            "16285205398747118846"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Divergence of regulatory networks governed by the orthologous transcription factors FLC and PEP1 in Brassicaceae species",
+            "pub_year": "2017",
+            "citation": "Proceedings of the National Academy of Sciences 114 (51), E11037-E11046, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:0izLItjtcgwC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10229819326788940348",
+        "cites_id": [
+            "10229819326788940348"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Linking genes with ecological strategies in Arabidopsis thaliana",
+            "pub_year": "2019",
+            "citation": "Journal of Experimental Botany 70 (4), 1141-1151, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:HtS1dXgVpQUC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2083751242414371380",
+        "cites_id": [
+            "2083751242414371380"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis DNA Polymerase \u03b4 Has a Role in the Deposition of Transcriptionally Active Epigenetic Marks, Development and Flowering",
+            "pub_year": "2015",
+            "citation": "PLoS genetics 11 (2), e1004975, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:SdhP9T11ey4C",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3520920214260312181",
+        "cites_id": [
+            "3520920214260312181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene regulatory networks controlled by FLOWERING LOCUS C that confer variation in seasonal flowering and life history",
+            "pub_year": "2021",
+            "citation": "Journal of Experimental Botany 72 (1), 4-14, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:F1b5ZUV5XREC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12515806707302429705",
+        "cites_id": [
+            "12515806707302429705"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct patterns of genetic variation alter flowering responses of Arabidopsis accessions to different daylengths",
+            "pub_year": "2010",
+            "citation": "Plant Physiology 152 (1), 177-191, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:UxriW0iASnsC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13818131147904739924",
+        "cites_id": [
+            "13818131147904739924"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutations that delay flowering in Arabidopsis de\u2010couple symptom response from cauliflower mosaic virus accumulation during infection",
+            "pub_year": "2002",
+            "citation": "Molecular plant pathology 3 (2), 81-90, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:KxtntwgDAa4C",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12978958002197903575",
+        "cites_id": [
+            "12978958002197903575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsisgenes that regulate flowering time in response to day-length",
+            "pub_year": "1996",
+            "citation": "Seminars in Cell & Developmental Biology 7 (3), 419-425, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4667073470267430837",
+        "cites_id": [
+            "4667073470267430837"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of shoot meristem shape by photoperiodic signaling and phytohormones during floral induction of Arabidopsis",
+            "pub_year": "2020",
+            "citation": "Elife 9, e60661, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:0CzhzZyukY4C",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16740565777469673293",
+        "cites_id": [
+            "16740565777469673293"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ZEITLUPE and FKF1: novel connections between flowering time and circadian clock control",
+            "pub_year": "2000",
+            "citation": "Trends in Plant Science 5 (10), 409-411, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:abG-DnoFyZgC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2690216779704210906",
+        "cites_id": [
+            "2690216779704210906"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic and molecular analysis of trichome development in Arabis alpina",
+            "pub_year": "2019",
+            "citation": "Proceedings of the National Academy of Sciences 116 (24), 12078-12083, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:a3BOlSfXSfwC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1845257537530392001",
+        "cites_id": [
+            "1845257537530392001"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Floral homeotic proteins modulate the genetic program for leaf development to suppress trichome formation in flowers",
+            "pub_year": "2018",
+            "citation": "Development 145 (3), dev157784, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:6ZxmRoH8BuwC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11828884749937644033",
+        "cites_id": [
+            "11828884749937644033"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A rice single cell transcriptomic atlas defines the developmental trajectories of rice floret and inflorescence meristems",
+            "pub_year": "2022",
+            "citation": "New Phytologist 234 (2), 494-512, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:7BrZ7Jt4UNcC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12133362146508764825",
+        "cites_id": [
+            "12133362146508764825"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of TTG1 function in Arabis alpina",
+            "pub_year": "2014",
+            "citation": "BMC Plant Biology 14 (1), 1-14, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:VLnqNzywnoUC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15246235408847647045",
+        "cites_id": [
+            "15246235408847647045"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recent advances in flowering time control",
+            "pub_year": "2017",
+            "citation": "Frontiers in plant science 7, 2011, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:S16KYo8Pm5AC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3287011532293663608",
+        "cites_id": [
+            "3287011532293663608"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Distinct photoperiodic responses are conferred by the same genetic pathway in Arabidopsis and in rice",
+            "pub_year": "2003",
+            "citation": "TRENDS in plant Science 8 (9), 405-407, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14764437573393238544",
+        "cites_id": [
+            "14764437573393238544"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A heat\u2010shock promoter fusion to the Ac transposase gene drives inducible transposition of a Ds element during Arabidopsis embryo development",
+            "pub_year": "1994",
+            "citation": "The Plant Journal 5 (5), 755-764, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=618223278505425591",
+        "cites_id": [
+            "618223278505425591"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The molecular biology of flowering",
+            "pub_year": "1993",
+            "citation": "CABI, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:kh2fBNsKQNwC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3012757154590042154",
+        "cites_id": [
+            "3012757154590042154"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The origin of transfer (oriT) of the conjugative plasmid R46: Characterization by deletion analysis and DNA sequencing",
+            "pub_year": "1987",
+            "citation": "Molecular and General Genetics MGG 208, 219-225, 1987"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:_xSYboBqXhAC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9529013194629335908",
+        "cites_id": [
+            "9529013194629335908"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "When vernalization makes sense",
+            "pub_year": "2011",
+            "citation": "Science 331 (6013), 36-37, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11097477679791535531",
+        "cites_id": [
+            "11097477679791535531"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The presence of enhancers adjacent to the Ac promoter increases the abundance of transposase mRNA and alters the timing of Ds excision in Arabidopsis",
+            "pub_year": "1994",
+            "citation": "Plant molecular biology 24, 789-798, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:yD5IFk8b50cC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8144555089862260646",
+        "cites_id": [
+            "8144555089862260646"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LEAFY blooms in aspen",
+            "pub_year": "1995",
+            "citation": "Nature 377 (6549), 482-483, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13778281344231529474",
+        "cites_id": [
+            "13778281344231529474"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Revised nomenclature and functional overview of the ULP gene family of plant deSUMOylating proteases",
+            "pub_year": "2018",
+            "citation": "Journal of experimental botany 69 (19), 4505-4509, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=372996075822728453",
+        "cites_id": [
+            "372996075822728453"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular and genetic analysis of the control of flowering time in response to daylength in Arabidopsis thaliana",
+            "pub_year": "1993",
+            "citation": "Flowering Newsletter, 27-32, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4250978816065958481",
+        "cites_id": [
+            "4250978816065958481"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gibberellins Act Downstream of Arabis PERPETUAL FLOWERING1 to Accelerate Floral Induction during Vernalization",
+            "pub_year": "2019",
+            "citation": "Plant physiology 180 (3), 1549-1563, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:LhH-TYMQEocC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2677608284441244810",
+        "cites_id": [
+            "2677608284441244810"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The timing of GIGANTEA expression during day/night cycles varies with the geographical origin of Arabidopsis accessions",
+            "pub_year": "2017",
+            "citation": "Plant signaling & behavior 12 (7), e1342026, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:4fGpz3EwCPoC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10613741320431929331",
+        "cites_id": [
+            "10613741320431929331"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transposon tagging with Ac/Ds in Arabidopsis",
+            "pub_year": "1998",
+            "citation": "Arabidopsis Protocols, 315-328, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8450635121917410049",
+        "cites_id": [
+            "8450635121917410049"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutagenesis of a Quintuple Mutant Impaired in Environmental Responses Reveals Roles for CHROMATIN REMODELING4 in the Arabidopsis Floral Transition",
+            "pub_year": "2020",
+            "citation": "The Plant Cell 32 (5), 1479-1500, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:LgRImbQfgY4C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7228785366436490471",
+        "cites_id": [
+            "7228785366436490471"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evening Expression of Arabidopsis GIGANTEA Is Controlled by Combinatorial Interactions among Evolutionarily Conserved Regulatory Motifs",
+            "pub_year": "2014",
+            "citation": "The Plant Cell 26 (10), 3999-4018, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:XiVPGOgt02cC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1383085741215776369",
+        "cites_id": [
+            "1383085741215776369"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of flowering time: Arabidopsis as a model system to study genes that promote or delay flowering",
+            "pub_year": "1995",
+            "citation": "Philosophical Transactions of the Royal Society of London. Series B \u2026, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:p2g8aNsByqUC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=768475586633500754",
+        "cites_id": [
+            "768475586633500754"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic control of flowering",
+            "pub_year": "2000",
+            "citation": "US Patent 6,077,994, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:u9iWguZQMMsC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6017382648504347941",
+        "cites_id": [
+            "6017382648504347941"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transposon tagging in Arabidopsis.",
+            "pub_year": "1992",
+            "citation": "Methods in Arabidopsis research., 290-309, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:NhqRSupF_l8C",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6779514646574218778",
+        "cites_id": [
+            "6779514646574218778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unraveling the role of MADS transcription factor complexes in apple tree dormancy",
+            "pub_year": "2021",
+            "citation": "New Phytologist 232 (5), 2071-2088, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:BzfGm06jWhQC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13622983416071836898",
+        "cites_id": [
+            "13622983416071836898"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Pinpointing genes underlying annual/perennial transitions with comparative genomics",
+            "pub_year": "2016",
+            "citation": "BMC genomics 17, 1-9, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:oNZyr7d5Mn4C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12226848110412732684",
+        "cites_id": [
+            "12226848110412732684"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PERPETUAL FLOWERING2 coordinates the vernalization response and perennial flowering in Arabis alpina",
+            "pub_year": "2019",
+            "citation": "Journal of Experimental Botany 70 (3), 949-961, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:cWzG1nlazyYC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4064389336786945405",
+        "cites_id": [
+            "4064389336786945405"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diurnal and circadian expression profiles of glycerolipid biosynthetic genes in Arabidopsis",
+            "pub_year": "2014",
+            "citation": "Plant signaling & behavior 9 (9), e29715, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:fEOibwPWpKIC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14432966595955281575",
+        "cites_id": [
+            "14432966595955281575"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Small Ubiquitin\u2010Like Modifier Conjugating Enzyme with Active Site Mutation Acts as Dominant Negative Inhibitor of SUMO Conjugation in ArabidopsisF",
+            "pub_year": "2013",
+            "citation": "Journal of integrative plant biology 55 (1), 75-82, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:8AbLer7MMksC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13059289895761464083",
+        "cites_id": [
+            "13059289895761464083"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The regulation of flowering time of Arabidopsis in response to daylength",
+            "pub_year": "1998",
+            "citation": "Journal of Plant Research 111, 271-275, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:738O_yMBCRsC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10173219677717072837",
+        "cites_id": [
+            "10173219677717072837"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plants see the blue light",
+            "pub_year": "1998",
+            "citation": "Science 279 (5355), 1323-1324, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:SP6oXDckpogC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4826095694861259461",
+        "cites_id": [
+            "4826095694861259461"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ubiquitin carboxyl-terminal hydrolases are required for period maintenance of the circadian clock at high temperature in Arabidopsis",
+            "pub_year": "2019",
+            "citation": "Scientific reports 9 (1), 17030, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:gVv57TyPmFsC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6420625278551601806",
+        "cites_id": [
+            "6420625278551601806"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Studies on Transposable Element Ac of Zea Mays",
+            "pub_year": "1988",
+            "citation": "Plant transposable elements, 91-99, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12230147265272376848",
+        "cites_id": [
+            "12230147265272376848"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The diversity and significance of flowering in perennials",
+            "pub_year": "2006",
+            "citation": "Annual Plant Reviews Volume 20: Flowering and its Manipulation, 181-197, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:08ZZubdj9fEC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17499002672933535367",
+        "cites_id": [
+            "17499002672933535367"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FLOWERING LOCUS C Isolation and Characterization: Two Articles That Opened Many Doors",
+            "pub_year": "2019",
+            "citation": "The Plant Cell 31 (6), 1190-1191, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:yqoGN6RLRZoC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9682028400693509805",
+        "cites_id": [
+            "9682028400693509805"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The root growth-regulating brevicompanine natural products modulate the plant circadian clock",
+            "pub_year": "2017",
+            "citation": "ACS Chemical Biology 12 (6), 1466-1471, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:FPJr55Dyh1AC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=237686173758796340",
+        "cites_id": [
+            "237686173758796340"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The circadian clock-associated small GTPase LIGHT INSENSITIVE PERIOD1 suppresses light-controlled endoreplication and affects tolerance to salt stress in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "Plant physiology 161 (1), 278-290, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14197833009775488741",
+        "cites_id": [
+            "14197833009775488741"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PIF4 enhances DNA binding of CDF2 to co-regulate target gene expression and promote Arabidopsis hypocotyl cell elongation",
+            "pub_year": "2022",
+            "citation": "Nature Plants 8 (9), 1082-1093, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:L1USKYWJimsC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14517675346274081743",
+        "cites_id": [
+            "14517675346274081743"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian clock components in Arabidopsis II. LHY/CCA1 regulate the floral integrator gene SOC1 in both GI-dependent and-independent pathways",
+            "pub_year": "2005",
+            "citation": "Plant biotechnology 22 (4), 319-325, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:geHnlv5EZngC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17371635344642667854",
+        "cites_id": [
+            "17371635344642667854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Circadian clock components in Arabidopsis I. The terminal flower 1 enhances the early flowering phenotype of a mutant, lhy cca1",
+            "pub_year": "2005",
+            "citation": "Plant Biotechnology 22 (4), 311-317, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:B3FOqHPlNUQC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16706167015130527622",
+        "cites_id": [
+            "16706167015130527622"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabis alpina: A perennial model plant for ecological genomics and life\u2010history evolution",
+            "pub_year": "2022",
+            "citation": "Molecular Ecology Resources 22 (2), 468-486, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:ALROH1vI_8AC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7238643434039247353",
+        "cites_id": [
+            "7238643434039247353"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoperiodic responses and the regulation of flowering",
+            "pub_year": "2018",
+            "citation": "Annual Plant Reviews online, 167-190, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:5ugPr518TE4C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6568335596356457947",
+        "cites_id": [
+            "6568335596356457947"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DELLA-interacting SWI3C core subunit of SWI/SNF chromatin remodeling complex modulates gibberellin responses and hormonal crosstalk in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "Plant Physiol 163, 305-317, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:P5F9QuxV20EC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5541894475613795578",
+        "cites_id": [
+            "5541894475613795578"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcription factor FLC confers a flowering response to vernalization by repressing meristem competence and systemic signaling in Arabidopsis",
+            "pub_year": "2006",
+            "citation": "Genes Dev 20, 898912, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:DBa1UEJaJKAC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7689682921256991212",
+        "cites_id": [
+            "7689682921256991212"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MicroRNA172 controls inflorescence meristem size through regulation of APETALA2 in Arabidopsis",
+            "pub_year": "2022",
+            "citation": "New Phytologist 235 (1), 356-371, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:FiytvqdAVhgC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5128057197369093248",
+        "cites_id": [
+            "5128057197369093248"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential effects of light-to-dark transitions on phase setting in circadian expression among clock-controlled genes in Pharbitis nil",
+            "pub_year": "2018",
+            "citation": "Plant signaling & behavior 13 (6), e1473686, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:mlAyqtXpCwEC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2544370758394453750",
+        "cites_id": [
+            "2544370758394453750"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signalling mechanisms in plants: examples from the present and the future",
+            "pub_year": "2005",
+            "citation": "Current Opinion in Plant Biology 8 (5), 457-461, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17419355138236511297",
+        "cites_id": [
+            "17419355138236511297"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structure and Function of the Maize Transposable Element Activator (AC)",
+            "pub_year": "1991",
+            "citation": "Plant Molecular Biology 2, 285-298, 1991"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5412504130560548463",
+        "cites_id": [
+            "5412504130560548463"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the origin of photoperiod non-responsiveness in barley",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.07. 02.185488, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:6yz0xqPARnAC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1476849624788276073",
+        "cites_id": [
+            "1476849624788276073"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic control of flowering",
+            "pub_year": "2001",
+            "citation": "US Patent 6,265,637, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:J-pR_7NvFogC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11187466321288043730",
+        "cites_id": [
+            "11187466321288043730"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transposition and duplication of MADS-domain transcription factor genes in annual and perennial Arabis species modulates flowering",
+            "pub_year": "2021",
+            "citation": "Proceedings of the National Academy of Sciences 118 (39), e2109204118, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:kVjdVfd2voEC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1525167834357341359",
+        "cites_id": [
+            "1525167834357341359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cytokinin\u2010promoted secondary growth and nutrient storage in the perennial stem zone of Arabis alpina",
+            "pub_year": "2021",
+            "citation": "The Plant Journal 105 (6), 1459-1476, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:2tRrZ1ZAMYUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=380405626049772805",
+        "cites_id": [
+            "380405626049772805"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant control genes",
+            "pub_year": "2005",
+            "citation": "US Patent 6,887,708, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1940124847511322867",
+        "cites_id": [
+            "1940124847511322867"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intercellular communication during floral initiation and development",
+            "pub_year": "2005",
+            "citation": "Intercellular Communication in Plants. Annual Plant Reviews, Oxford \u2026, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5057040483965338708",
+        "cites_id": [
+            "5057040483965338708"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transposition of Ac in Tobacco",
+            "pub_year": "1988",
+            "citation": "Plant transposable elements, 161-174, 1988"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:sSrBHYA8nusC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16588034861242237024",
+        "cites_id": [
+            "16588034861242237024"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Energy status-promoted growth and development of Arabidopsis require copper deficiency response transcriptional regulator SPL7",
+            "pub_year": "2022",
+            "citation": "The Plant Cell 34 (10), 3873-3898, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:cK4Rrx0J3m0C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3260817922813709039",
+        "cites_id": [
+            "3260817922813709039"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Isolation of novel gain-and loss-of-function alleles of the circadian clock gene LATE ELONGATED HYPOCOTYL (LHY) in Arabidopsis",
+            "pub_year": "2007",
+            "citation": "Plant Biotechnology 24 (5), 457-465, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:WA5NYHcadZ8C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8191259662115143123",
+        "cites_id": [
+            "8191259662115143123"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis ESD4 gene and method to control flowering time",
+            "pub_year": "2003",
+            "citation": "US Patent 6,670,526, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Y5dfb0dijaUC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18385892674001053413",
+        "cites_id": [
+            "18385892674001053413"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The regulation of flowering time by daylength in Arabidopsis",
+            "pub_year": "1998",
+            "citation": "Symposia of the Society for Experimental Biology 51, 105-110, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:LPZeul_q3PIC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5566587828081634424",
+        "cites_id": [
+            "5566587828081634424"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A tribute to Ko Shimamoto (1949\u20132013)",
+            "pub_year": "2014",
+            "citation": "Journal of experimental botany 65 (22), 6755-6759, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:BrmTIyaxlBUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1139900293461222257",
+        "cites_id": [
+            "1139900293461222257"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The conjugation system and insertion sequences of the IncN plasmid R46",
+            "pub_year": "1984",
+            "citation": "University of Edinburgh, 1984"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=189866512647062143",
+        "cites_id": [
+            "189866512647062143"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AGAMOUS mediates timing of guard cell formation during gynoecium development",
+            "pub_year": "2023",
+            "citation": "PLoS genetics 19 (10), e1011000, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:1Ye0OR6EYb4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9779008947044092837",
+        "cites_id": [
+            "9779008947044092837"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The bZIP transcription factor AREB3 mediates FT signalling and floral transition at the Arabidopsis shoot apical meristem",
+            "pub_year": "2023",
+            "citation": "PLoS Genetics 19 (5), e1010766, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:MAUkC_7iAq8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15251351298614202278",
+        "cites_id": [
+            "15251351298614202278"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two florigens and a florigen-like protein form a triple regulatory module at the shoot apical meristem to promote reproductive transitions in rice",
+            "pub_year": "2023",
+            "citation": "Nature Plants 9 (4), 525-534, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Dem6FJhTUoYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1616848753718851605",
+        "cites_id": [
+            "1616848753718851605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic and Molecular Analysis of Root Hair Development in Arabis alpina",
+            "pub_year": "2021",
+            "citation": "Frontiers in Plant Science 12, 767772, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:LdasjJ6CEcoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1981619328697706105",
+        "cites_id": [
+            "1981619328697706105"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unraveling the role of MADS transcription factor complexes in apple tree dormancy using sequential DAP-seq",
+            "pub_year": "2021",
+            "citation": "bioRxiv, 2021.02. 21.431301, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:48xauSegjOkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3296400784449415486,16867835258186420075",
+        "cites_id": [
+            "3296400784449415486",
+            "16867835258186420075"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparing genetic diversity within a crop and its wild progenitor: a case study for barley",
+            "pub_year": "2011",
+            "citation": "Agrobiodiversity Conservation: Securing the Diversity of CropWild Relatives \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:6_hjMsCP8ZoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7973296214029110855,8818714981475526399",
+        "cites_id": [
+            "7973296214029110855",
+            "8818714981475526399"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of perennial flowering and perenniality in Arabis alpina, a relative of Arabidopsis thaliana",
+            "pub_year": "2009",
+            "citation": "Comparative Biochemistry and Physiology A-Molecular & Integrative Physiology \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:dTyEYWd-f8wC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2303849889656454821",
+        "cites_id": [
+            "2303849889656454821"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From Molecule to Living Organisms: An Interplay Between Biology and Physics: \u00c9cole de Physique Des Houches, Session CII, 7 July-1 August 2014",
+            "pub_year": "2016",
+            "citation": "Oxford University Press, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:CaZNVDsoPx4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4876542394409788349",
+        "cites_id": [
+            "4876542394409788349"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Luciferase-Based Assay to Test Whether Gene Expression Responses to Environmental Inputs Are Temporally Restricted by the Circadian Clock",
+            "pub_year": "2016",
+            "citation": "Environmental Responses in Plants: Methods and Protocols, 93-106, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:KUbvn5osdkgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14030226201172235759",
+        "cites_id": [
+            "14030226201172235759"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Plant Cell Introduces Breakthrough Reports: A New Forum for Cutting-Edge Plant Research",
+            "pub_year": "2015",
+            "citation": "The Plant Cell 27 (10), 2667-2668, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Z5m8FVwuT1cC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12428824388775637584",
+        "cites_id": [
+            "12428824388775637584"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic control of flowering",
+            "pub_year": "2003",
+            "citation": "US Patent App. 10/143,849, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:N5tVd3kTz84C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11797252469765298181",
+        "cites_id": [
+            "11797252469765298181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic interactions between clock components, LHY and CCA1, and floral activators, FT and SOC1, in Arabidopsis",
+            "pub_year": "2003",
+            "citation": "PLANT AND CELL PHYSIOLOGY 44, S33-S33, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:XD-gHx7UXLsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15818389757804349736",
+        "cites_id": [
+            "15818389757804349736"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Map-based cloning in Arabidopsis",
+            "pub_year": "2000",
+            "citation": "Arabidopsis: A Practical Approach, 171-195, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Mojj43d5GZwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14809616932860549886",
+        "cites_id": [
+            "14809616932860549886"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The initiation of flowering in Arabidopsis",
+            "pub_year": "1997",
+            "citation": "Developmental Biology 186 (2), S36-S36, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:AXPGKjj_ei8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16546499333250393689",
+        "cites_id": [
+            "16546499333250393689"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Molecular biology of flowering",
+            "pub_year": "1994",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:7wO8s98CvbsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13898334749340492392",
+        "cites_id": [
+            "13898334749340492392"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis thaliana: a model system for studying the molecular genetics of plant development.",
+            "pub_year": "1990",
+            "citation": "Arabidopsis thaliana: a model system for studying the molecular genetics of \u2026, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:eMMeJKvmdy0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16983284005276968035",
+        "cites_id": [
+            "16983284005276968035"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: The bZIP transcription factor AREB3 mediates FT signalling and floral transition at the Arabidopsis shoot apical meristem",
+            "pub_year": "2023",
+            "citation": "PLoS genetics 19 (8), e1010920, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:-jrNzM816MMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Environmental filtering of life-history trait diversity in urban populations of Arabidopsis thaliana",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.10. 03.510679, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:LPtt_HFRSbwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PIF4 and CDF2 co-operate to regulate cell elongation in Arabidopsis",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:prdVHNxh-e8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PIF4 and CDF2 co-operate to regulate cell elongation in Arabidopsis thaliana",
+            "pub_year": "2022",
+            "citation": "Nature Plants, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:Br1UauaknNIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "20 years of Developmental Cell: Looking back",
+            "pub_year": "2021",
+            "citation": "Developmental cell 56 (23), 3181-3184, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:MpfHP-DdYjUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Potential role of apple SOC1-like transcription factors in gene regulatory networks involved in bud dormancy",
+            "pub_year": "2021",
+            "citation": "I International Symposium on Reproductive Biology of Fruit Tree Species 1342 \u2026, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:CB2v5VPnA5kC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional Divergence of the Arabidopsis Florigen-Interacting bZIP Transcription Factors FD and FDP",
+            "pub_year": "2020",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:j7_hQOaDUrUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PERPETUAL FLOWERING2 coordinates the vernalization response and perennial flowering in Arabis alpina",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:ODE9OILHJdcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FLOWERING LOCUS T interacts with a cell cycle regulator that affects growth and development in Arabidopsis thaliana",
+            "pub_year": "2017",
+            "citation": "Workshop on molecular mechanisms controlling flower development, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:4X0JR2_MtJMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FLOWERING LOCUS T interacts with a cell cycle regulator that affects growth and development in Arabidopsis thaliana",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:nRpfm8aw39MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanisms controlling time measurement in plants and their significance in natural populations",
+            "pub_year": "2016",
+            "citation": "From Molecules to Living Organisms: An Interplay Between Biology and Physics \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:BwyfMAYsbu0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PEBAY-PEYROULA Eva Institut de Biologie Structurale, Universit\u00e9 Joseph Fourier, CNRS, CEA, Grenoble, France ZIEGLER Christine Department of Membrane Protein Crystallography \u2026",
+            "pub_year": "2016",
+            "citation": "From Molecules to Living Organisms: An Interplay Between Biology and Physics \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:4MWp96NkSFoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SWP73A and SWP73B subunits of Arabidopsis SWI/SNF chromatin remodeling complexes modulate leaf and flower development",
+            "pub_year": "2016",
+            "citation": "Acta Biochimica Polonica, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:_5tno0g5mFcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sample Preparation of Arabidopsis thaliana Shoot Apices for Expression Studies of Photoperiod-Induced Genes",
+            "pub_year": "2016",
+            "citation": "Environmental Responses in Plants: Methods and Protocols, 81-91, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:TIZ-Mc8IlK0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Large-scale adaptive differentiation in the alpine perennial herb Arabis alpina.(vol 206, pg 459, 2015)",
+            "pub_year": "2015",
+            "citation": "NEW PHYTOLOGIST 208 (4), 1277-1277, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:g3aElNc5_aQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Repression of the FT-signaling pathway mediated by organ patterning genes",
+            "pub_year": "2015",
+            "citation": "Workshop on molecular mechanisms controlling flower development, np, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:4hFrxpcac9AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deeper Rooting: Pflanzenz\u00fcchtung und die Herausforderungen des Klimawandels",
+            "pub_year": "2015",
+            "citation": "Die Zukunft des Klimas, 153-166, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:LI9QrySNdTsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The SVP transcription factor coordinates GA biosynthesis with floral induction during photoperiodic flowering",
+            "pub_year": "2014",
+            "citation": "XII Reuni\u00f3n de Biolog\u00eda Molecular de Plantas, np, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:umqufdRvDiIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Elevated Levels of MYB30 in the Phloem Accelerate Flowering in Arabidopsis through the",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:bz8QjSJIRt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The SVP transcription factor acts at the shoot meristem to co-ordinate GA biosynthesis with floral induction during photoperiodic flowering",
+            "pub_year": "2013",
+            "citation": "13. FASEB Plant Biology Conference, np, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:NXb4pA-qfm4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoperiodic signals repress the transcription of SVP to control gibberellin biosynthesis during floral transition in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "Workshop on Molecular mechanisms controlling flower development (Flower \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:sNmaIFBj_lkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SUMO PROTEASE RELATED TO FERTILITY 1 and-2, the SUMO proteases, are required for fertility in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "2013 \u5168\u56fd\u690d\u7269\u751f\u7269\u5b66\u5927\u4f1a\u8bba\u6587\u96c6, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:HIFyuExEbWQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deciphering the FT pathway by next generation sequencing and transcriptomics",
+            "pub_year": "2012",
+            "citation": "22nd International Congress on Sexual Plant Reproduction, np, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:XvxMoLDsR5gC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prieurianin/endosidin 1 is an actin-stabilizing small molecule identified from a chemical genetic screen for circadian clock",
+            "pub_year": "2012",
+            "citation": "The Plant Journal 71, 338-352, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:jFemdcug13IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SUMO PROTEASE RELATED TO FERTILITY 1 and-2, the SUMO proteases, are required for fertility in Arabidopsis",
+            "pub_year": "2012",
+            "citation": "\u4ece\u690d\u7269\u79d1\u5b66\u5230\u519c\u4e1a\u53d1\u5c55\u2014\u20142012 \u5168\u56fd\u690d\u7269\u751f\u7269\u5b66\u5927\u4f1a\u8bba\u6587\u96c6, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:v1_lew4L6wgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A genetic approach to identifying new components in the FT flowering pathway",
+            "pub_year": "2011",
+            "citation": "5th Workshop on Mechanisms Controlling Flower Development, np, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:a9-T7VOCCH8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant Journal (The)",
+            "pub_year": "2011",
+            "citation": "Blackwell, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:WqliGbK-hY8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SynRg\u2013Biotechnologie zur Steigerung von Ertrag und Ertragsstabilit\u00e4t nachwachsender Rohstoffe",
+            "pub_year": "2010",
+            "citation": "Chemie Ingenieur Technik 82 (9), 1517-1518, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:j8SEvjWlNXcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of novel genes involved in FT function or transport",
+            "pub_year": "2010",
+            "citation": "21st International Conference on Arabidopsis Research ICAR2010, np, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:DUooU5lO8OsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of miRNA Biogenesis Modulators by forward and Chemical Genetics",
+            "pub_year": "2010",
+            "citation": "21st International Conference on Arabidopsis Research (ICAR 2010), 116, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:jE2MZjpN3IcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular-genetic approaches to study the role FT in photoperiodic flowering of Arabidopsis",
+            "pub_year": "2009",
+            "citation": "4th Workshop on Mechanisms Controlling Flower Development, np, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:HtEfBTGE9r8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chlamydomonas CONSTANS and the Evolution of Plant Photoperiodic Signaling",
+            "pub_year": "2009",
+            "citation": "Elsevier, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:PVgj2kMGcgYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mechanisms and variation in plant development: sorting the wood from the trees in Vermont",
+            "pub_year": "2008",
+            "citation": "Development 135, 3813-3816, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:0KyAp5RtaNEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic control of flowering",
+            "pub_year": "2006",
+            "citation": "US Patent App. 11/314,171, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:UHK10RUVsp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of GIGANTEA gene expression by light and the clock",
+            "pub_year": "2006",
+            "citation": "COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY A-MOLECULAR & INTEGRATIVE PHYSIOLOGY \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:dQ2og3OwTAUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "THE MOLECULAR GENETICS OF PHOTO PERIODIC RESPONSES: COMPARISONS BETWEEN LONG-DAY AND SHORT-DAY SPECIES",
+            "pub_year": "2006",
+            "citation": "Photomorphogenesis in Plants and Bacteria, 605-625, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:PR6Y55bgFSsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant control genes",
+            "pub_year": "2005",
+            "citation": "US Patent App. 10/953,399, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:bnK-pcrLprsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic and molecular analysis of the late flowering phenotype of lhy cca1 under continuous light condition",
+            "pub_year": "2005",
+            "citation": "PLANT AND CELL PHYSIOLOGY 46, S97-S97, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:-_dYPAW6P2MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "of Book: Intercellular communication in plants",
+            "pub_year": "2005",
+            "citation": "Blackwell Publishing, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:_Re3VWB3Y0AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "of Book: Endogenous Plant Rhythms",
+            "pub_year": "2005",
+            "citation": "Blackwell Publishing, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:1yQoGdGgb4wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoreceptor Regulation ofCONSTANS Protein inPhotoperiodic Flowering",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:KaMxkj08jr0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CONSTANS acts in the phloem to regulate a systemic signal that induces photoperiodic flowering of Arabidopsis",
+            "pub_year": "2004",
+            "citation": "[Sl]: Company of Biologists Ltd,, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:uc_IGeMz5qoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dual regulations of SOC1 expression by a circadian clock through GI-dependent and-independent pathways in Arabidopsis",
+            "pub_year": "2004",
+            "citation": "Plant and Cell Physiology 45 (Suppl. Suppl. S), S67-S67, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:_Ybze24A_UAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Loss-of-function mutation lhy-12 is caused by mis-splicing of the LHY gene and an intragenic suppressor mutation lhy-2 may partially restore the defect in Arabidopsis",
+            "pub_year": "2004",
+            "citation": "Plant and Cell Physiology 45 (Suppl. Suppl. S), S68-S68, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:eq2jaN3J8jMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic analysis of circadian clock components in Arabidopsis",
+            "pub_year": "2003",
+            "citation": "PLANT AND CELL PHYSIOLOGY 44, S34-S34, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:uJ-U7cs_P_0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Clock components, LHY and CCA1, control flowering through both a blue light receptor, FHA/CRY2, and a floral inducer, CO, in Arabidopsis",
+            "pub_year": "2003",
+            "citation": "PLANT AND CELL PHYSIOLOGY 44, S34-S34, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:tzM49s52ZIMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genetic control of flowering",
+            "pub_year": "2001",
+            "citation": "Patent NumberUS Patent: 6265637, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:IRz6iEL74y4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "inducible gene for an intracellular pathogenesis-related protein in rice. Plant Cell",
+            "pub_year": "2001",
+            "citation": "BR Wells Rice Research Studies, 2000 485, 41, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:WC23djZS0W4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LHY-CCA1 double loss-of-function in Arabidopsis results in altered clock-regulated gene expression and early flowering phenotype",
+            "pub_year": "2001",
+            "citation": "Plant and cell physiology 42 (Supplement), s41, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:PELIpwtuRlgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ROLES OF THE GIGANTEA AND CONSTANS GENES IN PHOTOPERIODIC CONTROL OF FLOWERING IN ARABIDOPSIS",
+            "pub_year": "2000",
+            "citation": "Plant and cell physiology 41 (Supplement), s17, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:kzcrU_BdoSEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Suppressor mutagenesis of over-expression of the CONSTANS gene in Arabidopsis",
+            "pub_year": "2000",
+            "citation": "Plant and cell physiology 41 (supplement), 2000"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:JoZmwDi-zQgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis as a model system to study the regulation of flowering time",
+            "pub_year": "1996",
+            "citation": "biotechnologia 1, 26-39, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:NyGDZy8z5eUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Session 07 Flowering and juvenility",
+            "pub_year": "1994",
+            "citation": "Biologia Plantarum 36, S97-S105, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:hkOj_22Ku90C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of genes required for photperiodic control of flowering time in Arabidopsis thaliana",
+            "pub_year": "1992",
+            "citation": "Plant Science Research Ltd. and John Innes Institute, 1992"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:ye4kPcJQO24C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "EARLY BOLTING IN SHORT DAYS is related to chromatin remodeling factors and regulates flowering in Arabidopsis by repressing FT",
+            "citation": "Oxford University Press, 0"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:PyEswDtIyv0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "zur Erlangung des Doktorgrades der Agrarwissenschaften (Dr. agr.)",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:OBSaB-F7qqsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mutation in TERMINAL FLOWER1 Reverses the Photoperiodic Requirement for Flowering in the Wild",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:HGTzPopzzJcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Major themes in flowering research",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:uDGL6kOW6j0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using Arabis Inter-Species Introgression Lines to Understand Divergence of Flowering Pathways in Annual and Perennial Plants",
+            "citation": "Plant and Animal Genome XXVI Conference (January 13-17, 2018), 0"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:AHdEip9mkN0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplemental Information A Molecular Framework for Auxin-Mediated Initiation of Flower Primordia",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:FAceZFleit8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ALBIN03, an Arabidopsis Nuclear Gene Essential for Chloroplast Differentiation, Encodes a Chloroplast Protein That Shows Homology to Proteins Present in Bacterial Membranes and \u2026",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:HbR8gkJAVGIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transposon Tagging with AC/& in Arabidopsis",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:t7zJ5fGR-2UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The next issue of this journal",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:z_wVstp3MssC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "asked questions 296 Plant development goes like clockwork",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:2KloaMYe4IUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Farewell to Ko Shimamoto",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:tKAzc9rXhukC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "THE CONTROL OF FLOWERING BY DAY LENGTH",
+            "citation": "PBI Bulletin PBI Bulletin PBI Bulletin PBI Bulletin PBI Bulletin PBI \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "14K2mxoAAAAJ:JQOojiI6XY0C",
+        "num_citations": 0
+    }
+]

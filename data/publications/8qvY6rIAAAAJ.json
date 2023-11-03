@@ -1,0 +1,761 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochromes function as thermosensors in Arabidopsis",
+            "pub_year": "2016",
+            "citation": "Science 354 (6314), 886-889, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:Lpa4s8qvUTIC",
+        "num_citations": 704,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=265221557585787237",
+        "cites_id": [
+            "265221557585787237"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The GIGANTEA-Regulated MicroRNA172 Mediates Photoperiodic Flowering Independent of CONSTANS in Arabidopsis",
+            "pub_year": "2007",
+            "citation": "The Plant Cell 19 (9), 2736-2748, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 563,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2854750627054119439",
+        "cites_id": [
+            "2854750627054119439"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "microRNA\u2010directed cleavage of ATHB15 mRNA regulates vascular development in Arabidopsis inflorescence stems",
+            "pub_year": "2005",
+            "citation": "The Plant Journal 42 (1), 84-94, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 453,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15569354750001983760",
+        "cites_id": [
+            "15569354750001983760"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A prion-like domain in ELF3 functions as a thermosensor in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "Nature 585 (7824), 256-260, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:s_OEDnM-dbEC",
+        "num_citations": 291,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3420449396973869173",
+        "cites_id": [
+            "3420449396973869173"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The SOC1\u2010SPL module integrates photoperiod and gibberellic acid signals to control flowering time in Arabidopsis",
+            "pub_year": "2012",
+            "citation": "The Plant Journal 69 (4), 577-588, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 276,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2009408225597385934",
+        "cites_id": [
+            "2009408225597385934"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The evening complex coordinates environmental and endogenous signals in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "Nature plants 3 (7), 1-12, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:cxS_fjKIGZMC",
+        "num_citations": 220,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12844430249881778633",
+        "cites_id": [
+            "12844430249881778633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MIR166/165 genes exhibit dynamic expression patterns in regulating shoot apical meristem and floral development in Arabidopsis",
+            "pub_year": "2007",
+            "citation": "Planta 225, 1327-1338, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 220,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7672418397318895159",
+        "cites_id": [
+            "7672418397318895159"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "miR172 signals are incorporated into the miR156 signaling pathway at the SPL3/4/5 genes in Arabidopsis developmental transitions",
+            "pub_year": "2011",
+            "citation": "Plant molecular biology 76, 35-45, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 206,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6272332779718048127",
+        "cites_id": [
+            "6272332779718048127"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integration of auxin and salt signals by the NAC transcription factor NTM2 during seed germination in Arabidopsis",
+            "pub_year": "2011",
+            "citation": "Plant physiology 156 (2), 537-549, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:UebtZRa9Y70C",
+        "num_citations": 175,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15907452611036066518",
+        "cites_id": [
+            "15907452611036066518"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HD-ZIP III Activity Is Modulated by Competitive Inhibitors via a Feedback Loop in Arabidopsis Shoot Apical Meristem Development",
+            "pub_year": "2008",
+            "citation": "The Plant Cell 20 (4), 920-933, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 149,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2392300689128019778",
+        "cites_id": [
+            "2392300689128019778"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Activation of a flavin monooxygenase gene YUCCA7 enhances drought resistance in Arabidopsis",
+            "pub_year": "2012",
+            "citation": "Planta 235, 923-938, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 136,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17297528722340977036",
+        "cites_id": [
+            "17297528722340977036"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SPL3/4/5 integrate developmental aging and photoperiodic signals into the FT-FD module in Arabidopsis flowering",
+            "pub_year": "2016",
+            "citation": "Molecular plant 9 (12), 1647-1659, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:E10ZYwHxBI8C",
+        "num_citations": 125,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6573367650008752862",
+        "cites_id": [
+            "6573367650008752862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Cold Signaling Attenuator HIGH EXPRESSION OF OSMOTICALLY RESPONSIVE GENE1 Activates FLOWERING LOCUS C Transcription via Chromatin Remodeling \u2026",
+            "pub_year": "2013",
+            "citation": "The Plant Cell 25 (11), 4378-4390, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8771692168122983393",
+        "cites_id": [
+            "8771692168122983393"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The miR172 target TOE3 represses AGAMOUS expression during Arabidopsis floral patterning",
+            "pub_year": "2014",
+            "citation": "Plant Science 215, 29-38, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:Zph67rFs4hoC",
+        "num_citations": 109,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10583730493573116259",
+        "cites_id": [
+            "10583730493573116259"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The AT-hook motif-containing protein AHL22 regulates flowering initiation by modifying FLOWERING LOCUS T chromatin in Arabidopsis",
+            "pub_year": "2012",
+            "citation": "Journal of Biological Chemistry 287 (19), 15307-15316, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:WF5omc3nYNoC",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6680868862369196772",
+        "cites_id": [
+            "6680868862369196772"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis floral repressor BFT delays flowering by competing with FT for FD binding under high salinity",
+            "pub_year": "2014",
+            "citation": "Molecular plant 7 (2), 377-387, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:aqlVkmm33-oC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3679641404181390781",
+        "cites_id": [
+            "3679641404181390781"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The E3 ubiquitin ligase HOS1 regulates Arabidopsis flowering by mediating CONSTANS degradation under cold stress",
+            "pub_year": "2012",
+            "citation": "Journal of Biological Chemistry 287 (52), 43277-43287, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:roLk4NBRz8UC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7100058424618153583",
+        "cites_id": [
+            "7100058424618153583"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis RNA-binding protein FCA regulates microRNA172 processing in thermosensory flowering",
+            "pub_year": "2012",
+            "citation": "Journal of Biological Chemistry 287 (19), 16007-16016, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10121247475555560059",
+        "cites_id": [
+            "10121247475555560059"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular mechanisms of Evening Complex activity in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "Proceedings of the National Academy of Sciences 117 (12), 6901-6909, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:8cBNEdFwSQkC",
+        "num_citations": 98,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5997270895713616282",
+        "cites_id": [
+            "5997270895713616282"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MicroRNA biogenesis and function in higher plants",
+            "pub_year": "2009",
+            "citation": "Plant Biotechnology Reports 3, 111-126, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:qjMakFHDy7sC",
+        "num_citations": 87,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5378629973812656809",
+        "cites_id": [
+            "5378629973812656809"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FCA mediates thermal adaptation of stem growth by attenuating auxin action in Arabidopsis",
+            "pub_year": "2014",
+            "citation": "Nature communications 5 (1), 5473, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:vrnMIr82eJkC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17487505781687623099",
+        "cites_id": [
+            "17487505781687623099"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SHORT VEGETATIVE PHASE (SVP) protein negatively regulates miR172 transcription via direct binding to the pri-miR172a promoter in Arabidopsis",
+            "pub_year": "2012",
+            "citation": "FEBS letters 586 (16), 2332-2337, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:ufrVoPGSRksC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9987711910811436887",
+        "cites_id": [
+            "9987711910811436887"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Arabidopsis GH3 gene, encoding an auxin-conjugating enzyme, mediates phytochrome B-regulated light signals in hypocotyl growth",
+            "pub_year": "2007",
+            "citation": "Plant and Cell Physiology 48 (8), 1236-1241, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 76,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8706785817229784699",
+        "cites_id": [
+            "8706785817229784699"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin modulation of salt stress signaling in Arabidopsis seed germination",
+            "pub_year": "2011",
+            "citation": "Plant signaling & behavior 6 (8), 1198-1200, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13803425991444738673",
+        "cites_id": [
+            "13803425991444738673"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Golgi-localized MATE transporter mediates iron homoeostasis under osmotic stress in Arabidopsis",
+            "pub_year": "2012",
+            "citation": "Biochemical Journal 442 (3), 551-561, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:Se3iqnhoufwC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13862676679081119193",
+        "cites_id": [
+            "13862676679081119193"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Highly Selective and Sensitive Fluorescence Sensing System for Distinction between Diphosphate and Nucleoside Triphosphates",
+            "pub_year": "2011",
+            "citation": "Journal of Organic Chemistry 76 (2), 417, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:0EnyYjriUFMC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10668918869761469048",
+        "cites_id": [
+            "10668918869761469048"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light inhibits COP1-mediated degradation of ICE transcription factors to induce stomatal development in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "The Plant Cell 29 (11), 2817-2830, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:ey9_mCyZ-VYC",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12459439198246551935",
+        "cites_id": [
+            "12459439198246551935"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis thaliana RNA\u2010binding protein FCA regulates thermotolerance by modulating the detoxification of reactive oxygen species",
+            "pub_year": "2015",
+            "citation": "New Phytologist 205 (2), 555-569, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:8_tS2Vw13FcC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10571290126508949825",
+        "cites_id": [
+            "10571290126508949825"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INDUCER OF CBF EXPRESSION 1 integrates cold signals into FLOWERING LOCUS C\u2010mediated flowering pathways in Arabidopsis",
+            "pub_year": "2015",
+            "citation": "The Plant Journal 84 (1), 29-40, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:EmjvLWWcsQIC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15483905976028113251",
+        "cites_id": [
+            "15483905976028113251"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AT-hook transcription factors restrict petiole growth by antagonizing PIFs",
+            "pub_year": "2020",
+            "citation": "Current Biology 30 (8), 1454-1466. e6, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:SFU-2amZ4xQC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10603211118197775800",
+        "cites_id": [
+            "10603211118197775800"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing provides a proactive mechanism for the diurnal CONSTANS dynamics in Arabidopsis photoperiodic flowering",
+            "pub_year": "2017",
+            "citation": "The Plant Journal 89 (1), 128-140, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:f-E_jMG6T4AC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9686276464022872822",
+        "cites_id": [
+            "9686276464022872822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HOS1 facilitates the phytochrome B-mediated inhibition of PIF4 function during hypocotyl growth in Arabidopsis",
+            "pub_year": "2017",
+            "citation": "Molecular plant 10 (2), 274-284, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:6gSKFiM3XosC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17415854139085958339",
+        "cites_id": [
+            "17415854139085958339"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Arabidopsis F-box protein regulates tapetum degeneration and pollen maturation during anther development",
+            "pub_year": "2010",
+            "citation": "Planta 232, 353-366, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12075626988096728058",
+        "cites_id": [
+            "12075626988096728058"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The evening complex establishes repressive chromatin domains via H2A. Z deposition",
+            "pub_year": "2020",
+            "citation": "Plant physiology 182 (1), 612-625, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:dyiPZ63SVtYC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18270725414886315376",
+        "cites_id": [
+            "18270725414886315376"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Vascular development in plants: specification of xylem and phloem tissues",
+            "pub_year": "2007",
+            "citation": "Journal of Plant Biology 50, 301-305, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5731865314279472245",
+        "cites_id": [
+            "5731865314279472245"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A transcriptional feedback loop modulating signaling crosstalks between auxin and brassinosteroid in Arabidopsis",
+            "pub_year": "2010",
+            "citation": "Molecules and cells 29 (5), 449-456, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:5nxA0vEk-isC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=472433444969393985",
+        "cites_id": [
+            "472433444969393985"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "HOS1-mediated activation of FLC via chromatin remodeling under cold stress",
+            "pub_year": "2014",
+            "citation": "Plant Signaling & Behavior 8 (12), e27342, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:4TOpqqG69KYC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9292799842352385819",
+        "cites_id": [
+            "9292799842352385819"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Beyond ubiquitination: proteolytic and nonproteolytic roles of HOS1",
+            "pub_year": "2014",
+            "citation": "Trends in Plant Science 19 (8), 538-545, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10099382679760599426",
+        "cites_id": [
+            "10099382679760599426"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of an Arabidopsis gene that mediates cytokinin signaling in shoot apical meristem development.",
+            "pub_year": "2005",
+            "citation": "Molecules & Cells (Springer Science & Business Media BV) 19 (3), 2005"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11906773852254601830",
+        "cites_id": [
+            "11906773852254601830"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Controlled turnover of CONSTANS protein by the HOS1 E3 ligase regulates floral transition at low temperatures",
+            "pub_year": "2013",
+            "citation": "Plant Signaling & Behavior 8 (4), e23780, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=512588352821160993",
+        "cites_id": [
+            "512588352821160993"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Thermo-induced maintenance of photo-oxidoreductases underlies plant autotrophic development",
+            "pub_year": "2017",
+            "citation": "Developmental Cell 41 (2), 170-179. e4, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:rKYHOwt5kWwC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4410480417792610427",
+        "cites_id": [
+            "4410480417792610427"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Molecular mechanisms underlying vascular development",
+            "pub_year": "2008",
+            "citation": "Advances in Botanical Research 48, 1-68, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8351142961729179309",
+        "cites_id": [
+            "8351142961729179309"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring PIF4's contribution to early flowering in plants under daily variable temperature and its tissue\u2010specific flowering gene network",
+            "pub_year": "2021",
+            "citation": "Plant Direct 5 (7), e339, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:edV_OwlUe4UC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1575340689154960666",
+        "cites_id": [
+            "1575340689154960666"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcription Factors: Improving Abiotic Stress Tolerance in Plants",
+            "pub_year": "2012",
+            "citation": "Improving Crop Resistance to Abiotic Stress, Volume 1 & Volume 2, 451-479, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:_kc_bZDykSQC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11666492464555822342",
+        "cites_id": [
+            "11666492464555822342"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temperature perception by plants",
+            "pub_year": "2023",
+            "citation": "Trends in Plant Science, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:x7obfLuV8acC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5021420640613681931",
+        "cites_id": [
+            "5021420640613681931"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A straightforward strategy for reducing variability in flowering time at warm ambient temperatures",
+            "pub_year": "2023",
+            "citation": "Plant Signaling & Behavior 18 (1), 2193913, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:PQ6BjWB6CiEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15393504236678793251",
+        "cites_id": [
+            "15393504236678793251"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "25 Years of thermomorphogenesis research: milestones and perspectives",
+            "pub_year": "2023",
+            "citation": "Trends in Plant Science, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:SoGhKUJvMTQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scientific Life: TrendsTalk",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "8qvY6rIAAAAJ:y7JhAc_VBLgC",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Perception of UV-B by the Arabidopsis UVR8 Protein",
+            "pub_year": "2011",
+            "citation": "Science 332 (6025), 103-106, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "895-LKEAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 1191,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17588991045758665994,12642476175007333279",
+        "cites_id": [
+            "17588991045758665994",
+            "12642476175007333279"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interaction of COP1 and UVR8 regulates UV\u2010B\u2010induced photomorphogenesis and stress acclimation in Arabidopsis",
+            "pub_year": "2009",
+            "citation": "The EMBO journal 28 (5), 591-601, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "895-LKEAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 662,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13263673345749032157,17970630162557297786,6158029622762074842",
+        "cites_id": [
+            "13263673345749032157",
+            "17970630162557297786",
+            "6158029622762074842"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Molecular and Physiological Responses of Physcomitrella patens to Ultraviolet-B Radiation",
+            "pub_year": "2010",
+            "citation": "Plant physiology 153 (3), 1123-1134, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "895-LKEAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 166,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7750239567423196167",
+        "cites_id": [
+            "7750239567423196167"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Constitutively active UVR8 photoreceptor variant in Arabidopsis",
+            "pub_year": "2013",
+            "citation": "Proceedings of the National Academy of Sciences 110 (50), 20326-20331, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "895-LKEAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 103,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15341487100497800735",
+        "cites_id": [
+            "15341487100497800735"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Over\u2010expression of bacterial \u03b3\u2010glutamylcysteine synthetase (GSH1) in plastids affects photosynthesis, growth and sulphur metabolism in poplar (Populus tremula\u00d7 Populus alba \u2026",
+            "pub_year": "2010",
+            "citation": "Plant, Cell & Environment 33 (7), 1138-1151, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "895-LKEAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1708781254493434711",
+        "cites_id": [
+            "1708781254493434711"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cryptochromes-mediated inhibition of the CRL4Cop1-complex assembly defines an evolutionary conserved signaling mechanism",
+            "pub_year": "2019",
+            "citation": "Current Biology 29 (12), 1954-1962. e4, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "895-LKEAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7010939224722447807",
+        "cites_id": [
+            "7010939224722447807"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "UVR8: a plant UV-B photoreceptor",
+            "pub_year": "2011",
+            "citation": "Dissertation, Albert-Ludwigs-Universit\u00e4t Freiburg, 2011, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "895-LKEAAAAJ:qjMakFHDy7sC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17308238504247403660,6774866197503565242",
+        "cites_id": [
+            "17308238504247403660",
+            "6774866197503565242"
+        ]
+    }
+]

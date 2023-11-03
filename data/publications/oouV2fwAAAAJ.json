@@ -1,0 +1,924 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CONSTANS mediates between the circadian clock and the control of flowering in Arabidopsis",
+            "pub_year": "2001",
+            "citation": "Nature 410 (6832), 1116-1120, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:qUcmZB5y_30C",
+        "num_citations": 1582,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14829824233280024275",
+        "cites_id": [
+            "14829824233280024275"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoreceptor regulation of CONSTANS protein in photoperiodic flowering",
+            "pub_year": "2004",
+            "citation": "Science 303 (5660), 1003-1006, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:mB3voiENLucC",
+        "num_citations": 1399,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16061556766383688822",
+        "cites_id": [
+            "16061556766383688822"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antagonistic regulation of flowering-time gene SOC1 by CONSTANS and FLC via separate promoter motifs",
+            "pub_year": "2002",
+            "citation": "The EMBO journal 21 (16), 4327-4337, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:_kc_bZDykSQC",
+        "num_citations": 557,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9703132241993140445",
+        "cites_id": [
+            "9703132241993140445"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Arabidopsis COP1 shapes the temporal pattern of CO accumulation conferring a photoperiodic flowering response",
+            "pub_year": "2008",
+            "citation": "The EMBO journal 27 (8), 1277-1288, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:ufrVoPGSRksC",
+        "num_citations": 514,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4701328315207073397",
+        "cites_id": [
+            "4701328315207073397"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Arabidopsis E3 Ubiquitin Ligase HOS1 Negatively Regulates CONSTANS Abundance in the Photoperiodic Control of Flowering",
+            "pub_year": "2012",
+            "citation": "The Plant Cell 24 (3), 982-999, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:aqlVkmm33-oC",
+        "num_citations": 233,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11619740245291968768",
+        "cites_id": [
+            "11619740245291968768"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CONSTANS and the evolutionary origin of photoperiodic timing of flowering",
+            "pub_year": "2011",
+            "citation": "Journal of experimental botany 62 (8), 2453-2463, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 185,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3555921602491611409",
+        "cites_id": [
+            "3555921602491611409"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chlamydomonas CONSTANS and the evolution of plant photoperiodic signaling",
+            "pub_year": "2009",
+            "citation": "Current Biology 19 (5), 359-368, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 138,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16932141330956326388",
+        "cites_id": [
+            "16932141330956326388"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two Arabidopsis ADP-glucose pyrophosphorylase large subunits (APL1 and APL2) are catalytic",
+            "pub_year": "2008",
+            "citation": "Plant physiology 148 (1), 65-76, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8455041864896826876",
+        "cites_id": [
+            "8455041864896826876"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The TRANSPLANTA Collection of Arabidopsis Lines: A resource for Functional Analysis of Transcription Factors based on their conditional overexpression",
+            "pub_year": "2014",
+            "citation": "The Plant Journal 77, 944-953, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12183848005139551886",
+        "cites_id": [
+            "12183848005139551886"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Organellar proteomics of human platelet dense granules reveals that 14-3-3\u03b6 is a granule protein related to atherosclerosis",
+            "pub_year": "2007",
+            "citation": "Journal of proteome research 6 (11), 4449-4457, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:8k81kl-MbHgC",
+        "num_citations": 99,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8058694033664488874",
+        "cites_id": [
+            "8058694033664488874"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoperiodic Control of Carbon Distribution during the Floral Transition in Arabidopsis",
+            "pub_year": "2014",
+            "citation": "The Plant Cell 26 (2), 565-584, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 77,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3549428146738719291",
+        "cites_id": [
+            "3549428146738719291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expression, purification, and characterization of recombinant nonphosphorylating NADP-dependent glyceraldehyde-3-phosphate dehydrogenase from Clostridium acetobutylicum",
+            "pub_year": "2002",
+            "citation": "Protein Expression and Purification 25 (3), 519-526, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14730968470444118013",
+        "cites_id": [
+            "14730968470444118013"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phosphorylation of CONSTANS and its COP 1\u2010dependent degradation during photoperiodic flowering of Arabidopsis",
+            "pub_year": "2015",
+            "citation": "The Plant Journal 84 (3), 451-463, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4369790538409612398",
+        "cites_id": [
+            "4369790538409612398"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Occurrence of a differential expression of the glyceraldehyde-3-phosphate dehydrogenase gene in muscle and liver from euthermic and induced hibernating jerboa (Jaculus orientalis)",
+            "pub_year": "1996",
+            "citation": "Gene 181 (1-2), 139-145, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:UebtZRa9Y70C",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7094557650429219228",
+        "cites_id": [
+            "7094557650429219228"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of photoperiod sensing in plants and algae",
+            "pub_year": "2017",
+            "citation": "Current Opinion in Plant Biology 37, 10-17, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:qjMakFHDy7sC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1992576051021232980",
+        "cites_id": [
+            "1992576051021232980"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Engineering a central metabolic pathway: glycolysis with no net phosphorylation in an Escherichia coli gap mutant complemented with a plant GapN gene",
+            "pub_year": "1999",
+            "citation": "FEBS letters 449 (2-3), 153-158, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6170570256953971875",
+        "cites_id": [
+            "6170570256953971875"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional complementation of an Escherichia coli gap mutant supports an amphibolic role for NAD (P)-dependent glyceraldehyde-3-phosphate dehydrogenase of Synechocystis sp \u2026",
+            "pub_year": "1997",
+            "citation": "Journal of bacteriology 179 (14), 4513-4522, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13762989113796717686",
+        "cites_id": [
+            "13762989113796717686"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Widespread occurrence of non-phosphorylating glyceraldehyde-3-phosphate dehydrogenase among gram-positive bacteria",
+            "pub_year": "2005",
+            "citation": "International Microbiology 8 (4), 251-258, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4180852850183403459",
+        "cites_id": [
+            "4180852850183403459"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary analysis of DELLA-associated transcriptional networks",
+            "pub_year": "2017",
+            "citation": "Frontiers in Plant Science 8, 626, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13762269146112004595",
+        "cites_id": [
+            "13762269146112004595"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of muscle glyceraldehyde-3-phosphate dehydrogenase isoforms from euthermic and induced hibernating Jaculus orientalis",
+            "pub_year": "1995",
+            "citation": "Biochimica Et Biophysica Acta (BBA)-General Subjects 1243 (2), 161-168, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4193418145592975861",
+        "cites_id": [
+            "4193418145592975861"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ChlamyNET: a Chlamydomonas gene co-expression network reveals global properties of the transcriptome and the early setup of key co-expression patterns in the green lineage",
+            "pub_year": "2016",
+            "citation": "BMC genomics 17 (1), 1-28, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14057426169493007197",
+        "cites_id": [
+            "14057426169493007197"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A contribution to the study of plant development evolution based on gene co-expression networks",
+            "pub_year": "2013",
+            "citation": "Frontiers in plant science 4, 291, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17741637999699613053",
+        "cites_id": [
+            "17741637999699613053"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evidence for a posttranslational covalent modification of liver glyceraldehyde-3-phosphate dehydrogenase in hibernating jerboa (Jaculus orientalis)",
+            "pub_year": "1996",
+            "citation": "Biochimica et Biophysica Acta (BBA)-Protein Structure and Molecular \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2023460646507993254",
+        "cites_id": [
+            "2023460646507993254"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of daily gene co-expression patterns from algae to plants",
+            "pub_year": "2017",
+            "citation": "Frontiers in plant science 8, 1217, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9644654650415241528",
+        "cites_id": [
+            "9644654650415241528"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Purification of recombinant non-phosphorylating NADP-dependent glyceraldehyde-3-phosphate dehydrogenase from Streptococcus pyogenes expressed in E. coli",
+            "pub_year": "2003",
+            "citation": "Molecular and cellular biochemistry 247, 195-203, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:TQgYirikUcIC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16246775399902371287",
+        "cites_id": [
+            "16246775399902371287"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New challenges in microalgae biotechnology",
+            "pub_year": "2016",
+            "citation": "European journal of protistology 55, 95-101, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6420105818224747969",
+        "cites_id": [
+            "6420105818224747969"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An evolutionarily conserved DOF-CONSTANS module controls plant photoperiodic signaling",
+            "pub_year": "2015",
+            "citation": "Plant physiology 168 (2), 561-574, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:roLk4NBRz8UC",
+        "num_citations": 28,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6728959194063909760",
+        "cites_id": [
+            "6728959194063909760"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionarily conserved photoperiod mechanisms in plants: when did plant photoperiodic signaling appear?",
+            "pub_year": "2009",
+            "citation": "Plant signaling & behavior 4 (7), 642-644, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8621760041198291152",
+        "cites_id": [
+            "8621760041198291152"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sugar-mediated transcriptional regulation of the Gap gene system and concerted photosystem II functional modulation in the microalga Scenedesmus vacuolatus",
+            "pub_year": "2005",
+            "citation": "Planta 221, 937-952, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:Zph67rFs4hoC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8842287415550994242",
+        "cites_id": [
+            "8842287415550994242"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of Oxidative and Nitrosative Stress on Tetrahymena pyriformis Glyceraldehyde\u20103\u2010Phosphate Dehydrogenase",
+            "pub_year": "2007",
+            "citation": "Journal of eukaryotic microbiology 54 (4), 338-346, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:-f6ydRqryjwC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14942942389711941974",
+        "cites_id": [
+            "14942942389711941974"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Glyceraldehyde-3-phosphate dehydrogenase from Tetrahymena pyriformis: enzyme purification and characterization of a gapC gene with primitive eukaryotic features",
+            "pub_year": "1998",
+            "citation": "Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=158011593003654110",
+        "cites_id": [
+            "158011593003654110"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoperiodic control of sugar release during the floral transition: What is the role of sugars in the florigenic signal?",
+            "pub_year": "2015",
+            "citation": "Plant signaling & behavior 10 (5), e1017168, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:Se3iqnhoufwC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7068876532010354790",
+        "cites_id": [
+            "7068876532010354790"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CONSTANS\u2013FKBP12 interaction contributes to modulation of photoperiodic flowering in Arabidopsis",
+            "pub_year": "2020",
+            "citation": "The Plant Journal 101 (6), 1287-1302, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:TFP_iSt0sucC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13240809334654469506",
+        "cites_id": [
+            "13240809334654469506"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bases moleculares de la floraci\u00f3n",
+            "pub_year": "2011",
+            "citation": "Investigaci\u00f3n y Ciencia, mayo, 28-36, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10249608540134002335",
+        "cites_id": [
+            "10249608540134002335"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of the Sucrose Phosphate Phosphatase (SPP) Isoforms from Arabidopsis thaliana and Role of the S6PPc Domain in Dimerization",
+            "pub_year": "2016",
+            "citation": "PLoS One 11 (11), e0166308, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:WF5omc3nYNoC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4417347680572027202",
+        "cites_id": [
+            "4417347680572027202"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Vacuolar H+-Pyrophosphatase AVP1 is Involved in Amine Fungicide Tolerance in Arabidopsis thaliana and Provides Tridemorph Resistance in Yeast",
+            "pub_year": "2016",
+            "citation": "Frontiers in plant science 7, 85, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8593146306252039919",
+        "cites_id": [
+            "8593146306252039919"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simultaneous occurrence of two different glyceraldehyde-3-phosphate dehydrogenases in heterocystous N2-fixing cyanobacteria",
+            "pub_year": "2001",
+            "citation": "Biochemical and Biophysical Research Communications 283 (2), 356-363, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:HDshCWvjkbEC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16164398063791352760",
+        "cites_id": [
+            "16164398063791352760"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ubiquitin carboxyl-terminal hydrolases are required for period maintenance of the circadian clock at high temperature in Arabidopsis",
+            "pub_year": "2019",
+            "citation": "Scientific reports 9 (1), 17030, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:isC4tDSrTZIC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6420625278551601806",
+        "cites_id": [
+            "6420625278551601806"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cloning, gene expression and characterization of a novel bacterial NAD-dependent non-phosphorylating glyceraldehyde-3-phosphate dehydrogenase from Neisseria meningitidis strain \u2026",
+            "pub_year": "2007",
+            "citation": "Molecular and cellular biochemistry 305, 209-219, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1895674630835154931",
+        "cites_id": [
+            "1895674630835154931"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of the flowering pathways",
+            "pub_year": "2016",
+            "citation": "Progress in Botany 77, 291-329, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16621003100307911290",
+        "cites_id": [
+            "16621003100307911290"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Determination of soluble sugars in Arabidopsis thaliana leaves by anion exchange chromatography",
+            "pub_year": "2014",
+            "citation": "Bio-protocol 4 (23), e1317-e1317, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10144046291895990661",
+        "cites_id": [
+            "10144046291895990661"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoperiodic signaling and senescence, an ancient solution to a modern problem?",
+            "pub_year": "2021",
+            "citation": "Frontiers in Plant Science 12, 634393, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:hMod-77fHWUC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14314953902275390767",
+        "cites_id": [
+            "14314953902275390767"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Purification of starch granules from Arabidopsis leaves and determination of granule-bound starch synthase activity",
+            "pub_year": "2014",
+            "citation": "Bio-protocol 4 (23), e1316, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15506526642677424373",
+        "cites_id": [
+            "15506526642677424373"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of Gene Regulatory Networks in Plant Development",
+            "pub_year": "2017",
+            "citation": "Frontiers in Plant Science 8, 2126, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:5nxA0vEk-isC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8033069002007492777",
+        "cites_id": [
+            "8033069002007492777"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spanish National Research Council",
+            "citation": "Spain, 0"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:hC7cP41nSMkC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14864468338401553009",
+        "cites_id": [
+            "14864468338401553009"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of a nucleotide sequence that regulates flowering time, plants expressing same and production method thereof",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4290173432943857578",
+        "cites_id": [
+            "4290173432943857578"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Photoperiodic control of carbon distribution during the floral transition in Arabidopsis thaliana",
+            "pub_year": "2014",
+            "citation": "FEBS JOURNAL 281, 589-589, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14257212400926258697",
+        "cites_id": [
+            "14257212400926258697"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "El estudio comparativo, prote\u00f3mico y transcript\u00f3mico, de la respuesta a az\u00facares en Arabidosis thaliana muestra una relaci\u00f3n entre el metabolismo y el desarrollo floral",
+            "pub_year": "2010",
+            "citation": "Universidad de C\u00f3rdoba, Servicio de Publicaciones, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13709649717153418768",
+        "cites_id": [
+            "13709649717153418768"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effect of water stress in the flowering induction of olive trees (Olea europaea L.)",
+            "pub_year": "2016",
+            "citation": "Universidad de Alicante, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estudio comparativo, prote\u00f3mico y transcript\u00f3mico de la respuesta a az\u00facares de FRIGIDA en Arabidopsis thaliana.",
+            "pub_year": "2014",
+            "citation": "Biosaia: Revista de los m\u00e1steres de Biotecnolog\u00eda Sanitaria y Biotecnolog\u00eda \u2026, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:IWHjjKOFINEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Implication of granule-bound starch synthase (GBSS) in photoperiodic signaling",
+            "pub_year": "2012",
+            "citation": "FEBS JOURNAL 279, 74-74, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:dhFuZR0502QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Compared evolution of photoperiodic signaling in green algae and plants",
+            "pub_year": "2012",
+            "citation": "FEBS JOURNAL 279, 185-185, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole-genome transcriptomic analysis in Arabidopsis thaliana unveils interactions between carbon metabolism and the photoperiodic pathway",
+            "pub_year": "2012",
+            "citation": "FEBS JOURNAL 279, 526-526, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Uso de una secuencia nucleot\u00eddica que regula el momento de la floraci\u00f3n, plantas que la expresan y m\u00e9todo para producirlas",
+            "pub_year": "2010",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:r0BpntZqJG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sesi\u00f3n Prote\u00f3mica y animal",
+            "pub_year": "2010",
+            "citation": "Universidad de C\u00f3rdoba, Servicio de Publicaciones, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sesi\u00f3n prote\u00f3mica y animal",
+            "pub_year": "2010",
+            "citation": "Prote\u00f3mica: revista de la Sociedad Espa\u00f1ola de Prote\u00f3mica, 51-56, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Chlamydomonas CONSTANS and the Evolution of Plant Photoperiodic Signaling",
+            "pub_year": "2009",
+            "citation": "Elsevier, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cuadernos de divulgaci\u00f3n cient\u00edfica cicCartuja: encuentros con la ciencia 1",
+            "pub_year": "2009",
+            "citation": "CSIC-JA-USE-Centro de Investigaciones Cient\u00edficas Isla de la Cartuja (CICIC), 2009"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:k_IJM867U9cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modificaciones del proteoma nuclear de Arabidopsis thaliana en respuesta a cambios en el medio",
+            "pub_year": "2008",
+            "citation": "Universidad de C\u00f3rdoba, Servicio de Publicaciones, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:4TOpqqG69KYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential Regulation of Glyceraldehyde-3-Phosphate Dehydrogenases in the Green Alga Chlorella fusca",
+            "pub_year": "1998",
+            "citation": "Photosynthesis: Mechanisms and Effects: Volume I\u2013V: Proceedings of the XIth \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Time to Flower, the control of flowering time by photoperiod",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "oouV2fwAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 0
+    }
+]

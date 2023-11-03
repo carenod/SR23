@@ -1,0 +1,252 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phytochrome-interacting factor 4 (PIF4) regulates auxin biosynthesis at high temperature",
+            "pub_year": "2011",
+            "citation": "Proceedings of the National Academy of Sciences 108 (50), 20231-20235, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 608,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11657447671798355631",
+        "cites_id": [
+            "11657447671798355631"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Building ProteomeTools based on a complete synthetic human proteome",
+            "pub_year": "2017",
+            "citation": "Nature methods 14 (3), 259-262, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 196,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=215542270431722068",
+        "cites_id": [
+            "215542270431722068"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LEAFY controls auxin response pathways in floral primordium formation",
+            "pub_year": "2013",
+            "citation": "Science signaling 6 (270), ra23-ra23, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:WF5omc3nYNoC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7682297639747106391",
+        "cites_id": [
+            "7682297639747106391"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PROCAL: a set of 40 peptide standards for retention time indexing, column performance monitoring, and collision energy calibration",
+            "pub_year": "2017",
+            "citation": "Proteomics 17 (21), 1700263, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=898032013305011835",
+        "cites_id": [
+            "898032013305011835"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin input pathway disruptions are mitigated by changes in auxin biosynthetic gene expression in Arabidopsis",
+            "pub_year": "2014",
+            "citation": "Plant physiology 165 (3), 1092-1104, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8429063855971743243",
+        "cites_id": [
+            "8429063855971743243"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Trimodal mixed mode chromatography that enables efficient offline two-dimensional peptide fractionation for proteome analysis",
+            "pub_year": "2017",
+            "citation": "Analytical chemistry 89 (17), 8884-8891, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16398043892739124138",
+        "cites_id": [
+            "16398043892739124138"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A facile means for the identification of indolic compounds from plant tissues",
+            "pub_year": "2014",
+            "citation": "The Plant Journal 79 (6), 1065-1075, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17809602381320530718",
+        "cites_id": [
+            "17809602381320530718"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Indole-3-acetylaspartate and indole-3-acetylglutamate, the IAA-amide conjugates in the diploid strawberry achene, are hydrolyzed in growing seedlings",
+            "pub_year": "2019",
+            "citation": "Planta 249 (4), 1073-1085, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:ufrVoPGSRksC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=254138932324990324",
+        "cites_id": [
+            "254138932324990324"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Persistent inhibition of pore-based cell migration by sub-toxic doses of miuraenamide, an actin filament stabilizer",
+            "pub_year": "2017",
+            "citation": "Scientific Reports 7 (1), 16407, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5078290298550950815",
+        "cites_id": [
+            "5078290298550950815"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ethylene glycol improves electrospray ionization efficiency in bottom-up proteomics",
+            "pub_year": "2017",
+            "citation": "Analytical and bioanalytical chemistry 409, 1049-1057, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13472800012702783390",
+        "cites_id": [
+            "13472800012702783390"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative evaluation of IAA conjugate pools in Arabidopsis thaliana",
+            "pub_year": "2015",
+            "citation": "Planta 241, 539-548, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4259181876082201836",
+        "cites_id": [
+            "4259181876082201836"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New analytical methodologies in the study of auxin biochemistry",
+            "pub_year": "2014",
+            "citation": "University of Minnesota, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15707834094113854328",
+        "cites_id": [
+            "15707834094113854328"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin Metabolic Relationships in the Diploid Strawberry",
+            "pub_year": "2018",
+            "citation": "HORTSCIENCE 53 (9), S124-S125, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[Accepted Article Manuscript Version (Postprint)] Auxin Input Pathway Disruptions Are Mitigated by Changes in Auxin Biosynthetic Gene Expression in Arabidopsis",
+            "pub_year": "2014",
+            "citation": "Plant Physiology 165 (3), 1092, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:Se3iqnhoufwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Erratum: LEAFY controls auxin response pathways in floral primordium formation (Science Signaling)",
+            "pub_year": "2013",
+            "citation": "Science signaling 6 (277), er3, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin Conjugate Hydrolases in Fragaria vesca Contribute to IAA Homeostasis and Seedling Growth",
+            "citation": "Plant and Animal Genome XXVII Conference (January 12-16, 2019), 0"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:roLk4NBRz8UC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Auxin (IAA) Amino Acid Conjugates Are Hydrolyzed during Diploid Strawberry Seedling Growth",
+            "citation": "Plant and Animal Genome XXVI Conference (January 13-17, 2018), 0"
+        },
+        "filled": false,
+        "author_pub_id": "HnRv_NoAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0
+    }
+]

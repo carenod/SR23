@@ -1,0 +1,66 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods to isolate a large amount of generative cells, sperm cells and vegetative nuclei from tomato pollen for \u201comics\u201d analysis",
+            "pub_year": "2015",
+            "citation": "Frontiers in plant science 6, 391, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "NzaKF_IAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17740123893820104880",
+        "cites_id": [
+            "17740123893820104880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The evening complex integrates photoperiod signals to control flowering in rice",
+            "pub_year": "2022",
+            "citation": "Proceedings of the National Academy of Sciences 119 (26), e2122582119, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "NzaKF_IAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8334704054731752065",
+        "cites_id": [
+            "8334704054731752065"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptomics analyses reveal the molecular roadmap and long non\u2010coding RNA landscape of sperm cell lineage development",
+            "pub_year": "2018",
+            "citation": "The Plant Journal 96 (2), 421-437, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "NzaKF_IAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9628050220623238732",
+        "cites_id": [
+            "9628050220623238732"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation dynamics of sperm cell lineage development in tomato",
+            "pub_year": "2021",
+            "citation": "The Plant Journal 105 (3), 565-579, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "NzaKF_IAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12018032673561381307",
+        "cites_id": [
+            "12018032673561381307"
+        ]
+    }
+]

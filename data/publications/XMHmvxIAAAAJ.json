@@ -1,0 +1,590 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cistrome and epicistrome features shape the regulatory DNA landscape",
+            "pub_year": "2016",
+            "citation": "Cell 165 (5), 1280-1292, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 1091,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8137965996561979921",
+        "cites_id": [
+            "8137965996561979921"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping genome-wide transcription-factor binding sites using DAP-seq",
+            "pub_year": "2017",
+            "citation": "Nature protocols 12 (8), 1659-1672, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 299,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12118266093843491753",
+        "cites_id": [
+            "12118266093843491753"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative cellular analysis of motor cortex in human, marmoset and mouse",
+            "pub_year": "2021",
+            "citation": "Nature 598 (7879), 111-119, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 260,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=561406049486195895",
+        "cites_id": [
+            "561406049486195895"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simultaneous profiling of 3D genome structure and DNA methylation in single human cells",
+            "pub_year": "2019",
+            "citation": "Nature methods 16 (10), 999-1006, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 179,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13634178156848606617",
+        "cites_id": [
+            "13634178156848606617"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multimodal cell census and atlas of the mammalian primary motor cortex",
+            "pub_year": "2021",
+            "citation": "Nature 598 (7879), 86-102, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 174,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6814641778066235234",
+        "cites_id": [
+            "6814641778066235234"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CrY2H-seq: a massively multiplexed assay for deep-coverage interactome mapping",
+            "pub_year": "2017",
+            "citation": "Nature methods 14 (8), 819-825, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 156,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16676264492370829917,18141189130130997947",
+        "cites_id": [
+            "16676264492370829917",
+            "18141189130130997947"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrated multi-omics framework of the plant response to jasmonic acid",
+            "pub_year": "2020",
+            "citation": "Nature plants 6 (3), 290-302, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 139,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15685070783215978837",
+        "cites_id": [
+            "15685070783215978837"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A transcriptomic and epigenomic cell atlas of the mouse primary motor cortex",
+            "pub_year": "2021",
+            "citation": "Nature 598 (7879), 103-110, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14994104943801524435",
+        "cites_id": [
+            "14994104943801524435"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation atlas of the mouse brain at single-cell resolution",
+            "pub_year": "2021",
+            "citation": "Nature 598 (7879), 120-128, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 118,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11977031764162723543",
+        "cites_id": [
+            "11977031764162723543"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of cellular diversity in primary motor cortex of human, marmoset monkey, and mouse",
+            "pub_year": "2020",
+            "citation": "BioRxiv, 2020.03. 31.016972, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:ufrVoPGSRksC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16048921998508554746",
+        "cites_id": [
+            "16048921998508554746"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic decoding of neuronal depolarization by stimulus-specific NPAS4 heterodimers",
+            "pub_year": "2019",
+            "citation": "Cell 179 (2), 373-391. e27, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:qjMakFHDy7sC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7305054873840330295",
+        "cites_id": [
+            "7305054873840330295"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An integrated transcriptomic and epigenomic atlas of mouse primary motor cortex cell types",
+            "pub_year": "2020",
+            "citation": "Biorxiv, 2020.02. 29.970558, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 59,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6227899991483677468",
+        "cites_id": [
+            "6227899991483677468"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomic diversity of cortical projection neurons in the mouse brain",
+            "pub_year": "2021",
+            "citation": "Nature 598 (7879), 167-173, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10825975192124371912",
+        "cites_id": [
+            "10825975192124371912"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single nucleus multi-omics identifies human cortical cell regulatory genome diversity",
+            "pub_year": "2022",
+            "citation": "Cell genomics 2 (3), 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:_kc_bZDykSQC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=459530813453196347",
+        "cites_id": [
+            "459530813453196347"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single nucleus multi-omics links human cortical cell regulatory genome diversity to disease risk variants",
+            "pub_year": "2019",
+            "citation": "Biorxiv, 2019.12. 11.873398, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1024041199897052260",
+        "cites_id": [
+            "1024041199897052260"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenetic silencing of a multifunctional plant stress regulator",
+            "pub_year": "2019",
+            "citation": "Elife 8, e47835, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=180334468349539394",
+        "cites_id": [
+            "180334468349539394"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single nucleus multi-omics regulatory landscape of the murine pituitary",
+            "pub_year": "2021",
+            "citation": "Nature communications 12 (1), 2677, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8885926369997866521",
+        "cites_id": [
+            "8885926369997866521"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multimodal cell census and atlas of the mammalian primary motor cortex",
+            "pub_year": "2020",
+            "citation": "Biorxiv, 2020.10. 19.343129, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:0EnyYjriUFMC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14294710553632424994",
+        "cites_id": [
+            "14294710553632424994"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Divergence in the ABA gene regulatory network underlies differential growth control",
+            "pub_year": "2022",
+            "citation": "Nature plants 8 (5), 549-560, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3893903606748717339",
+        "cites_id": [
+            "3893903606748717339"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multi-omic profiling of transcriptome and DNA methylome in single nuclei with molecular partitioning",
+            "pub_year": "2018",
+            "citation": "biorxiv, 434845, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10201430697676663624",
+        "cites_id": [
+            "10201430697676663624"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Publisher Correction: Integrated multi-omics framework of the plant response to jasmonic acid",
+            "pub_year": "2020",
+            "citation": "Nature Plants 6 (8), 1065-1065, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6882697617790746681",
+        "cites_id": [
+            "6882697617790746681"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell multi-omic profiling of chromatin conformation and DNA methylome",
+            "pub_year": "2018",
+            "citation": "BioRxiv, 503235, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=985274449012046039",
+        "cites_id": [
+            "985274449012046039"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Author Correction: Comparative cellular analysis of motor cortex in human, marmoset and mouse",
+            "pub_year": "2022",
+            "citation": "Nature 604 (7904), E8-E8, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:4TOpqqG69KYC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9642487652075277539",
+        "cites_id": [
+            "9642487652075277539"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single nucleus multi-omics regulatory atlas of the murine pituitary",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.06. 06.138024, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:roLk4NBRz8UC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4679462639157246491",
+        "cites_id": [
+            "4679462639157246491"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Epigenomic complexity of the human brain revealed by single-cell DNA methylomes and 3D genome structures",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.11. 30.518285, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:4DMP91E08xMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18167062503424470361",
+        "cites_id": [
+            "18167062503424470361"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Divergence in a stress-associated gene regulatory network underlies differential growth control in the Brassicaceae family",
+            "pub_year": "2020",
+            "citation": "bioRxiv, 2020.11. 18.349449, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:5nxA0vEk-isC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=435671164769935686",
+        "cites_id": [
+            "435671164769935686"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell multi-omic profiling of chromatin conformation and DNA methylation",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:Se3iqnhoufwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11375312347058283859",
+        "cites_id": [
+            "11375312347058283859"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Robust enhancer-gene regulation identified by single-cell transcriptomes and epigenomes",
+            "pub_year": "2023",
+            "citation": "Cell Genomics 3 (7), 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:Zph67rFs4hoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Author Correction: CrY2H-seq: a massively multiplexed assay for deep-coverage interactome mapping",
+            "pub_year": "2023",
+            "citation": "Nature methods 20 (3), 469, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human Immune Cell Epigenomic Signatures in Response to Infectious Diseases and Chemical Exposures (preprint)",
+            "pub_year": "2023",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:IWHjjKOFINEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human Immune Cell Epigenomic Signatures in Response to Infectious Diseases and Chemical Exposures",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.06. 29.546792, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain-wide Correspondence Between Neuronal Epigenomics and Long-Distance Projections",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.05. 01.538832, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative single cell epigenomic analysis of gene regulatory programs in the rodent and primate neocortex",
+            "pub_year": "2023",
+            "citation": "bioRxiv, 2023.04. 08.536119, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparative cellular analysis of motor cortex in human, marmoset and mouse (vol 598, pg 111, 2021)",
+            "pub_year": "2022",
+            "citation": "NATURE 604 (7904), E8-E8, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Single-cell DNA Methylome and 3D Multi-omic Atlas of the Adult Mouse Brain",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:dhFuZR0502QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "snmCAT_V2",
+            "pub_year": "2021",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SAT-298 Integrative Single-Cell Transcriptomic and Epigenomic Landscape of Mouse Anterior Pituitary Cell Types",
+            "pub_year": "2020",
+            "citation": "Journal of the Endocrine Society 4 (Supplement_1), SAT-298, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CrY2H-seq interactome screening",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:8k81kl-MbHgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Next Generation Protein Interactomes for Plant Systems Biology and Biomass Feedstock Research",
+            "pub_year": "2016",
+            "citation": "The Salk Inst. for Biological Studies, La Jolla, CA (United States), 2016"
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:WF5omc3nYNoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Share protocol",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "XMHmvxIAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 0
+    }
+]

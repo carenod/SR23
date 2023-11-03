@@ -1,0 +1,1228 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A gene atlas of the mouse and human protein-encoding transcriptomes",
+            "pub_year": "2004",
+            "citation": "Proceedings of the National Academy of Sciences 101 (16), 6062-6067, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 4076,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12001421544952703696",
+        "cites_id": [
+            "12001421544952703696"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The transcriptional landscape of the mammalian genome",
+            "pub_year": "2005",
+            "citation": "science 309 (5740), 1559-1563, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 3926,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=420085706143970225,16261916652618003499",
+        "cites_id": [
+            "420085706143970225",
+            "16261916652618003499"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the mouse transcriptome based on functional annotation of 60,770 full-length cDNAs",
+            "pub_year": "2002",
+            "citation": "Nature 420 (6915), 563-573, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 2040,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1196196084582441490",
+        "cites_id": [
+            "1196196084582441490"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Antisense transcription in the mammalian transcriptome",
+            "pub_year": "2005",
+            "citation": "Science 309 (5740), 1564-1566, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 2003,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1486125071416290624",
+        "cites_id": [
+            "1486125071416290624"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BioGPS: an extensible and customizable portal for querying and organizing gene annotation resources",
+            "pub_year": "2009",
+            "citation": "Genome biology 10 (11), 1-8, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 1504,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6546024400606709935",
+        "cites_id": [
+            "6546024400606709935"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Discovery of gene function by expression profiling of the malaria parasite life cycle",
+            "pub_year": "2003",
+            "citation": "Science 301 (5639), 1503-1508, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:qjMakFHDy7sC",
+        "num_citations": 1487,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4154195514867630094",
+        "cites_id": [
+            "4154195514867630094"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide and functional annotation of human E3 ubiquitin ligases identifies MULAN, a mitochondrial E3 that regulates the organelle's dynamics and signaling",
+            "pub_year": "2008",
+            "citation": "PloS one 3 (1), e1487, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 891,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16828023640026135188",
+        "cites_id": [
+            "16828023640026135188"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional annotation of a full-length mouse cDNA collection",
+            "pub_year": "2001",
+            "citation": "Nature 409 (6821), 685-690, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 875,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=487728155435503878",
+        "cites_id": [
+            "487728155435503878"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A strategy for probing the function of noncoding RNAs finds a repressor of NFAT",
+            "pub_year": "2005",
+            "citation": "Science 309 (5740), 1570-1573, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 843,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2189089644370395035",
+        "cites_id": [
+            "2189089644370395035"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of modulators of TRAIL-induced apoptosis via RNAi-based phenotypic screening",
+            "pub_year": "2003",
+            "citation": "Molecular cell 12 (3), 627-637, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 466,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13425997694315654641",
+        "cites_id": [
+            "13425997694315654641"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complex loci in human and mouse genomes",
+            "pub_year": "2006",
+            "citation": "PLoS genetics 2 (4), e47, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:WF5omc3nYNoC",
+        "num_citations": 347,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=814884155694732050",
+        "cites_id": [
+            "814884155694732050"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Do aligned sequences share the same fold?",
+            "pub_year": "1997",
+            "citation": "Journal of molecular biology 273 (1), 355-368, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 313,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14914709998401982457",
+        "cites_id": [
+            "14914709998401982457"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide single-nucleotide polymorphism analysis defines haplotype patterns in mouse",
+            "pub_year": "2003",
+            "citation": "Proceedings of the National Academy of Sciences 100 (6), 3380-3385, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 272,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3438682372307035078",
+        "cites_id": [
+            "3438682372307035078"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ubiquitin-mediated sequestration of normal cellular proteins into polyglutamine aggregates",
+            "pub_year": "2003",
+            "citation": "Proceedings of the National Academy of Sciences 100 (15), 8892-8897, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:ufrVoPGSRksC",
+        "num_citations": 269,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12118540921757878300",
+        "cites_id": [
+            "12118540921757878300"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of a dense single nucleotide polymorphism map for in silico mapping in the mouse",
+            "pub_year": "2004",
+            "citation": "PLoS biology 2 (12), e393, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 264,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14368798738440110821",
+        "cites_id": [
+            "14368798738440110821"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A systematic map of genetic variation in Plasmodium falciparum",
+            "pub_year": "2006",
+            "citation": "PLoS pathogens 2 (6), e57, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 246,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2575499383267809483",
+        "cites_id": [
+            "2575499383267809483"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comparison of the Celera and Ensembl predicted gene sets reveals little overlap in novel genes",
+            "pub_year": "2001",
+            "citation": "Cell 106 (4), 413-415, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 246,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7282440385821383953",
+        "cites_id": [
+            "7282440385821383953"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A randomized, controlled trial of the analytic and diagnostic performance of singleton and trio, rapid genome and exome sequencing in ill infants",
+            "pub_year": "2019",
+            "citation": "The American Journal of Human Genetics 105 (4), 719-733, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:rO6llkc54NcC",
+        "num_citations": 230,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18239054193961308451",
+        "cites_id": [
+            "18239054193961308451"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diagnosis of genetic diseases in seriously ill children by rapid whole-genome sequencing and automated phenotyping and interpretation",
+            "pub_year": "2019",
+            "citation": "Science translational medicine 11 (489), eaat6177, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 220,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3952931080290489860",
+        "cites_id": [
+            "3952931080290489860"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcript annotation in FANTOM3: mouse gene catalog based on physical cDNAs",
+            "pub_year": "2006",
+            "citation": "PLoS genetics 2 (4), e62, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 207,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16778218030895869597",
+        "cites_id": [
+            "16778218030895869597"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Plasmodium gene family encoding Maurer's cleft membrane proteins: structural properties and expression profiling",
+            "pub_year": "2004",
+            "citation": "Genome research 14 (6), 1052-1059, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:roLk4NBRz8UC",
+        "num_citations": 197,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9927212672927963963",
+        "cites_id": [
+            "9927212672927963963"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The NSIGHT1-randomized controlled trial: rapid whole-genome sequencing for accelerated etiologic diagnosis in critically ill infants",
+            "pub_year": "2018",
+            "citation": "NPJ Genomic Medicine 3 (1), 6, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:BqipwSGYUEgC",
+        "num_citations": 162,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10906508692940843390",
+        "cites_id": [
+            "10906508692940843390"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide functional analysis of human cell-cycle regulators",
+            "pub_year": "2006",
+            "citation": "Proceedings of the National Academy of Sciences 103 (40), 14819-14824, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 156,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4473248958456858548",
+        "cites_id": [
+            "4473248958456858548"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of high-density tiling microarrays to identify mutations globally and elucidate mechanisms of drug resistance in Plasmodium falciparum",
+            "pub_year": "2009",
+            "citation": "Genome biology 10 (2), 1-13, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:Se3iqnhoufwC",
+        "num_citations": 154,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8471746269052941914",
+        "cites_id": [
+            "8471746269052941914"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A gene wiki for community annotation of gene function",
+            "pub_year": "2008",
+            "citation": "PLoS biology 6 (7), e175, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:UebtZRa9Y70C",
+        "num_citations": 150,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12822930398664188084",
+        "cites_id": [
+            "12822930398664188084"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of the human ion channel set",
+            "pub_year": "2009",
+            "citation": "Combinatorial chemistry & high throughput screening 12 (1), 2-23, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 134,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9820297544627746763",
+        "cites_id": [
+            "9820297544627746763"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A coactivator trap identifies NONO (p54nrb) as a component of the cAMP-signaling pathway",
+            "pub_year": "2007",
+            "citation": "Proceedings of the National Academy of Sciences 104 (51), 20314-20319, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 132,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3553040602102651159",
+        "cites_id": [
+            "3553040602102651159"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mouse proteome analysis",
+            "pub_year": "2003",
+            "citation": "Genome research 13 (6b), 1335-1344, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 127,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14125203098625491459",
+        "cites_id": [
+            "14125203098625491459"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Susceptibility and modifier genes in Portuguese transthyretin V30M amyloid polyneuropathy: complexity in a single-gene disease",
+            "pub_year": "2005",
+            "citation": "Human molecular genetics 14 (4), 543-553, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:5nxA0vEk-isC",
+        "num_citations": 125,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10763546978489414234",
+        "cites_id": [
+            "10763546978489414234"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole-genome sequencing and microarray analysis of ex vivo Plasmodium vivax reveal selective pressure on putative drug resistance genes",
+            "pub_year": "2010",
+            "citation": "Proceedings of the National Academy of Sciences 107 (46), 20045-20050, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 121,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14741044563125297581",
+        "cites_id": [
+            "14741044563125297581"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gene set enrichment in eQTL data identifies novel annotations and pathway regulators",
+            "pub_year": "2008",
+            "citation": "PLoS genetics 4 (5), e1000070, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7276021912049684144",
+        "cites_id": [
+            "7276021912049684144"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Excess polymorphisms in genes for membrane proteins in Plasmodium falciparum",
+            "pub_year": "2002",
+            "citation": "Science 298 (5591), 216-218, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:0EnyYjriUFMC",
+        "num_citations": 116,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7188614630482781827",
+        "cites_id": [
+            "7188614630482781827"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Screening the mammalian extracellular proteome for regulators of embryonic human stem cell pluripotency",
+            "pub_year": "2010",
+            "citation": "Proceedings of the National Academy of Sciences 107 (8), 3552-3557, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 115,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2110326735009648236",
+        "cites_id": [
+            "2110326735009648236"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Homology modeling with internal coordinate mechanics: deformation zone mapping and improvements of models via conformational search",
+            "pub_year": "1997",
+            "citation": "Proteins: Structure, Function, and Bioinformatics 29 (S1), 29-37, 1997"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:8k81kl-MbHgC",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4390766736887448413",
+        "cites_id": [
+            "4390766736887448413"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An RCT of rapid genomic sequencing among seriously ill infants results in high clinical utility, changes in management, and low perceived harm",
+            "pub_year": "2020",
+            "citation": "The American Journal of Human Genetics 107 (5), 942-952, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1880113913770285972",
+        "cites_id": [
+            "1880113913770285972"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fitness costs of rifampicin resistance in Mycobacterium tuberculosis are amplified under conditions of nutrient starvation and compensated by mutation in the \u03b2 \u2026",
+            "pub_year": "2014",
+            "citation": "Molecular microbiology 91 (6), 1106-1119, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2206900677355229720",
+        "cites_id": [
+            "2206900677355229720"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomewide association analysis in diverse inbred mice: power and population structure",
+            "pub_year": "2007",
+            "citation": "Genetics 176 (1), 675-683, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:Zph67rFs4hoC",
+        "num_citations": 86,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18107104528571452280",
+        "cites_id": [
+            "18107104528571452280"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The promise of genomics to identify novel therapeutic targets",
+            "pub_year": "2004",
+            "citation": "Expert opinion on therapeutic targets 8 (6), 587-596, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 71,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6855053883919012868",
+        "cites_id": [
+            "6855053883919012868"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Whole genome functional analysis identifies novel components required for mitotic spindle integrity in human cells",
+            "pub_year": "2008",
+            "citation": "Genome biology 9 (2), 1-12, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:_kc_bZDykSQC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12640456860521336715",
+        "cites_id": [
+            "12640456860521336715"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the mouse transcriptome based on functional annotation of 60, 770 full-length cDNAs",
+            "pub_year": "2002",
+            "citation": "Nature 420, 563-573, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13939028489943208817",
+        "cites_id": [
+            "13939028489943208817"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid sequencing-based diagnosis of thiamine metabolism dysfunction syndrome",
+            "pub_year": "2021",
+            "citation": "New England Journal of Medicine 384 (22), 2159-2161, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:yD5IFk8b50cC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8764489577275406092",
+        "cites_id": [
+            "8764489577275406092"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A conserved salt bridge in the G loop of multiple protein kinases is important for catalysis and for in vivo Lyn function",
+            "pub_year": "2009",
+            "citation": "Molecular cell 33 (1), 43-52, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:aqlVkmm33-oC",
+        "num_citations": 50,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14380352375093895005",
+        "cites_id": [
+            "14380352375093895005"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of synthetic lethality of PRKDC in MYC-dependent human cancers by pooled shRNA screening",
+            "pub_year": "2014",
+            "citation": "BMC cancer 14 (1), 1-13, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14000056048825246538",
+        "cites_id": [
+            "14000056048825246538"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A genome sequencing system for universal newborn screening, diagnosis, and precision medicine for severe genetic diseases",
+            "pub_year": "2022",
+            "citation": "The American Journal of Human Genetics 109 (9), 1605-1619, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1566689257480348210",
+        "cites_id": [
+            "1566689257480348210"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FANTOM Consortium; RIKEN Genome Exploration Research Group and Genome Science Group (Genome Network Project Core Group). The transcriptional landscape of the mammalian genome",
+            "pub_year": "2005",
+            "citation": "Science 309, 1559-1563, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:hMod-77fHWUC",
+        "num_citations": 39,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12126860064786081570,7380794152352420691,4432102876140951180",
+        "cites_id": [
+            "12126860064786081570",
+            "7380794152352420691",
+            "4432102876140951180"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid whole genome sequencing impacts care and resource utilization in infants with congenital heart disease",
+            "pub_year": "2021",
+            "citation": "NPJ genomic medicine 6 (1), 29, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9964075696116710513,15834705167468354393",
+        "cites_id": [
+            "9964075696116710513",
+            "15834705167468354393"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the mouse transcriptome for genes involved in the function of the nervous system",
+            "pub_year": "2003",
+            "citation": "Genome research 13 (6b), 1395-1401, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=394940002165842330",
+        "cites_id": [
+            "394940002165842330"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Partially automated whole-genome sequencing reanalysis of previously undiagnosed pediatric patients can efficiently yield new diagnoses",
+            "pub_year": "2020",
+            "citation": "NPJ genomic medicine 5 (1), 33, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6911235596107498253",
+        "cites_id": [
+            "6911235596107498253"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid whole-genome sequencing identifies a novel GABRA1 variant associated with West syndrome",
+            "pub_year": "2017",
+            "citation": "Molecular Case Studies 3 (5), a001776, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1847215893078619107",
+        "cites_id": [
+            "1847215893078619107"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An automated 13.5 hour system for scalable diagnosis and acute management guidance for genetic diseases",
+            "pub_year": "2022",
+            "citation": "Nature Communications 13 (1), 4057, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:UxriW0iASnsC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10459683203688040706",
+        "cites_id": [
+            "10459683203688040706"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid whole-genome sequencing identifies a novel homozygous NPC1 variant associated with Niemann\u2013Pick type C1 disease in a 7-week-old male with cholestasis",
+            "pub_year": "2017",
+            "citation": "Molecular Case Studies 3 (5), a001966, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:blknAaTinKkC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11090979018525932365",
+        "cites_id": [
+            "11090979018525932365"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Concomitant diagnosis of immune deficiency and Pseudomonas sepsis in a 19 month old with ecthyma gangrenosum by host whole-genome sequencing",
+            "pub_year": "2018",
+            "citation": "Molecular Case Studies 4 (6), a003244, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9029397576308677802",
+        "cites_id": [
+            "9029397576308677802"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mst1 directs Myosin IIa partitioning of low and higher affinity integrins during T cell migration",
+            "pub_year": "2014",
+            "citation": "PLoS One 9 (8), e105561, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=791517018423929371",
+        "cites_id": [
+            "791517018423929371"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estimating local backbone structural deviation in homology models",
+            "pub_year": "2000",
+            "citation": "Computers & chemistry 24 (1), 13-31, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:4DMP91E08xMC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2611812834976281506",
+        "cites_id": [
+            "2611812834976281506"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RIKEN genome exploration research group; genome science group (genome network project core group); FANTOM consortium. Antisense transcription in the mammalian transcriptome",
+            "pub_year": "2005",
+            "citation": "Science 309 (5740), 1564-6, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:RGFaLdJalmkC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=236897618125116728",
+        "cites_id": [
+            "236897618125116728"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diagnosis of genetic diseases in seriously ill children by rapid whole-genome sequencing and automated phenotyping and interpretation. Sci Transl Med 2019; 11 (489): eaat6177",
+            "citation": "PubMed: https://pubmed. ncbi. nlm. nih. gov/31019026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13029426347973094170",
+        "cites_id": [
+            "13029426347973094170"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Approaches to long-read sequencing in a clinical setting to improve diagnostic rate",
+            "pub_year": "2022",
+            "citation": "Scientific Reports 12 (1), 16945, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7691197809488554087",
+        "cites_id": [
+            "7691197809488554087"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reclassification of the etiology of infant mortality with whole-genome sequencing",
+            "pub_year": "2023",
+            "citation": "JAMA network open 6 (2), e2254069-e2254069, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:XiSMed-E-HIC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16395946122812279486",
+        "cites_id": [
+            "16395946122812279486"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scalable, high quality, whole genome sequencing from archived, newborn, dried blood spots",
+            "pub_year": "2023",
+            "citation": "NPJ Genomic Medicine 8 (1), 5, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:SP6oXDckpogC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10982577727953038005",
+        "cites_id": [
+            "10982577727953038005"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Z, Liang, B. Lenhard and C. Wahlestedt; RIKEN Genome Exploration Research Group; Genome Science Group (Genome Network Project Core Group); FANTOM Consortium: Antisense \u2026",
+            "pub_year": "2005",
+            "citation": "Science 309, 1564-1566, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:B3FOqHPlNUQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5554744830608510361",
+        "cites_id": [
+            "5554744830608510361"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Genomic landscape of short tandem repeats across multiple ancestries",
+            "pub_year": "2023",
+            "citation": "Plos one 18 (1), e0279430, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:u9iWguZQMMsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16868388226199917960",
+        "cites_id": [
+            "16868388226199917960"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Response to Grosse et al.",
+            "pub_year": "2023",
+            "citation": "The American Journal of Human Genetics 110 (6), 1017, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:tS2w5q8j5-wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rapid Whole Genome Sequencing for Diagnosis of Single Locus Genetic Diseases in Critically Ill Children",
+            "pub_year": "2023",
+            "citation": "Clinical Applications of Nucleic Acid Amplification, 217-239, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Method and system for sample identity assurance",
+            "pub_year": "2020",
+            "citation": "US Patent App. 16/457,215, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mst1 Directs Myosin IIa Partitioning of Low and Higher Affinity Integrins during T Cell",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:abG-DnoFyZgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Compensatory Mutations in the Development of Rifampicin Resistance in M. tuberculosis (\ucd08)",
+            "pub_year": "2010",
+            "citation": "\ub300\ud55c\uacb0\ud575\ubc0f\ud638\ud761\uae30\ud559\ud68c \ucd94\uacc4\ud559\uc220\ubc1c\ud45c\ucd08\ub85d\uc9d1 110, 170-170, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A conserved salt bridge in the G-loop of multiple protein kinases is essential for catalysis, in vivo Lyn function and prevention of autoimmune disease (84.17)",
+            "pub_year": "2009",
+            "citation": "The Journal of Immunology 182 (1_Supplement), 84.17-84.17, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Editorial Pp.",
+            "pub_year": "2009",
+            "citation": "Combinatorial Chemistry & High Throughput Screening 12 (1), 2009"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:mB3voiENLucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Conserved Salt Bridge in the G\u2010Loop of Src Family Protein Tyrosine Kinases is Essential for Lyn Function in Mice",
+            "pub_year": "2008",
+            "citation": "The FASEB Journal 22, 662.13-662.13, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automated microscopy screen to identify components required for mitotic cell cycle progression in human cells",
+            "pub_year": "2007",
+            "citation": "2007 4th IEEE International Symposium on Biomedical Imaging: From Nano to \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:hC7cP41nSMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systems biology and malaria",
+            "pub_year": "2004",
+            "citation": "Proceedings of the eighth annual international conference on Research in \u2026, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:dhFuZR0502QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Susceptibility and modifier genes in familial amyloid polyneuropathy (FAP) V30M.",
+            "pub_year": "2003",
+            "citation": "AMERICAN JOURNAL OF HUMAN GENETICS 73 (5), 484-484, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional Annotation of RIKEN Mouse cDNA Clones Using GNF Expression Atlas",
+            "pub_year": "2003",
+            "citation": "Genome Research 13 (6), 1556-1557, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exon Structure Analysis, Ortholog Identification, and SNP Candidate Screening by Mapping Mouse RIKEN Sequences to Multiple Genome Assemblies",
+            "pub_year": "2003",
+            "citation": "Genome Research 13 (6b), 1552-1553, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:-f6ydRqryjwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\" Mega\"-an ENU-induced hypomorphic allele of c-myb reveals an essential role for transactivation by c-myb in the regulation of multiple hematopoietic branch points.",
+            "pub_year": "2003",
+            "citation": "FASEB JOURNAL 17 (7), C152-C152, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ms. T-less, a novel recessive mouse mutant with blocked T cell development and perturbed B cell maturation",
+            "pub_year": "2003",
+            "citation": "FASEB JOURNAL 17 (7), C88-C89, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methods and Resources-Abstracts-Exon Structure Analysis, Ortholog Identification, and SNP Candidate Screening by Mapping Mouse RIKEN Sequences to Multiple Genome Assemblies",
+            "pub_year": "2003",
+            "citation": "Genome Research 13 (6), 1552-1553, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "2. Visualization of the genome-wide haplotype structure in mice using SNPview",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:D03iK_w7-QYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genome-wide functional analysis of human cell-cycle regulators",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exon Structure Analysis, Ortholog Identification, and SNP",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CSH Molecular Case Studies: Rapid Communications",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:GnPB-g6toBAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "T\u00edtulo: A gene atlas of the mouse and human protein-encoding transcriptomes. P. imprenta: 2004.",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "aH9tcWoAAAAJ:HDshCWvjkbEC",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,3419 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural factorization of plants to compute their functional and architectural growth",
+            "pub_year": "2006",
+            "citation": "Simulation 82 (7), 427-438, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 151,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11485234653976189922",
+        "cites_id": [
+            "11485234653976189922"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative genetics and functional\u2013structural plant growth models: simulation of quantitative trait loci detection for model parameters and application to potential yield \u2026",
+            "pub_year": "2008",
+            "citation": "Annals of botany 101 (8), 1243-1254, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 116,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9243087054876943655",
+        "cites_id": [
+            "9243087054876943655"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computing competition for light in the GREENLAB model of plant growth: a contribution to the study of the effects of density on resource acquisition and architectural development",
+            "pub_year": "2008",
+            "citation": "Annals of Botany 101 (8), 1207-1219, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 113,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10556009665530357886",
+        "cites_id": [
+            "10556009665530357886"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A dynamic model of plant growth with interactions between development and functional mechanisms to study plant structural plasticity related to trophic competition",
+            "pub_year": "2009",
+            "citation": "Annals of botany 103 (8), 1173-1186, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 111,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9411317538136137501",
+        "cites_id": [
+            "9411317538136137501"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analytical study of a stochastic plant growth model: Application to the GreenLab model",
+            "pub_year": "2008",
+            "citation": "Mathematics and Computers in Simulation 78 (1), 57-75, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 102,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9426114828924151986",
+        "cites_id": [
+            "9426114828924151986"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parametric identification of a functional\u2013structural tree growth model and application to beech trees (Fagus sylvatica)",
+            "pub_year": "2008",
+            "citation": "Functional plant biology 35 (10), 951-963, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:qjMakFHDy7sC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=185673864766620584",
+        "cites_id": [
+            "185673864766620584"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parameter optimization and field validation of the functional\u2013structural model GREENLAB for maize at different population densities",
+            "pub_year": "2008",
+            "citation": "Annals of botany 101 (8), 1185-1194, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 90,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14271970623539392139",
+        "cites_id": [
+            "14271970623539392139"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of the interactions between architecture and source\u2013sink relationships in winter oilseed rape (Brassica napus) using the GreenLab model",
+            "pub_year": "2011",
+            "citation": "Annals of botany 107 (5), 765-779, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:WF5omc3nYNoC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2631063399086618970",
+        "cites_id": [
+            "2631063399086618970"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A morphogenetic crop model for sugar-beet (beta vulgaris l.)",
+            "pub_year": "2009",
+            "citation": "Crop Modeling and Decision Support, 116 --129, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3877533716933146221",
+        "cites_id": [
+            "3877533716933146221"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An efficient computational method for global sensitivity analysis and its application to tree growth modelling",
+            "pub_year": "2012",
+            "citation": "Reliability engineering & system safety 107, 35-43, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 73,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3509897879717508285",
+        "cites_id": [
+            "3509897879717508285"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rhythms and alternating patterns in plants as emergent properties of a model of interaction between development and functioning",
+            "pub_year": "2008",
+            "citation": "Annals of Botany 101 (8), 1233-1242, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10580799637819815012",
+        "cites_id": [
+            "10580799637819815012"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant growth models",
+            "pub_year": "2008",
+            "citation": "Encyclopedia of ecology, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 67,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=108850674003364209",
+        "cites_id": [
+            "108850674003364209"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A model-based analysis of the dynamics of carbon balance at the whole-plant level in Arabidopsis thaliana",
+            "pub_year": "2008",
+            "citation": "Functional plant biology 35 (11), 1147-1162, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12626955695252265401",
+        "cites_id": [
+            "12626955695252265401"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Positivity statements for a Mixed-Element-Volume scheme on fixed and moving grids",
+            "pub_year": "2006",
+            "citation": "European Journal of Computational Mechanics/Revue Europ\u00e9enne de M\u00e9canique \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 64,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7294675016312686508",
+        "cites_id": [
+            "7294675016312686508"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimization of source\u2013sink dynamics in plant growth for ideotype breeding: A case study on maize",
+            "pub_year": "2010",
+            "citation": "Computers and Electronics in Agriculture 71 (1), 96-105, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:0EnyYjriUFMC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16476307486722640905",
+        "cites_id": [
+            "16476307486722640905"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Some parameter estimation issues in functional-structural plant modelling",
+            "pub_year": "2011",
+            "citation": "Mathematical Modelling of Natural Phenomena 6 (2), 133-159, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:ufrVoPGSRksC",
+        "num_citations": 56,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4863528066825282681",
+        "cites_id": [
+            "4863528066825282681"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Variability and regulation of the number of ovules, seeds and pods according to assimilate availability in winter oilseed rape (Brassica napus L.)",
+            "pub_year": "2011",
+            "citation": "Field Crops Research 122 (1), 60-69, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 54,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10089796144427432743",
+        "cites_id": [
+            "10089796144427432743"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data assimilation to reduce uncertainty of crop model prediction with convolution particle filtering",
+            "pub_year": "2014",
+            "citation": "Ecological Modelling 290, 165-177, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:D03iK_w7-QYC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10256112906695650624",
+        "cites_id": [
+            "10256112906695650624"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Development and evaluation of plant growth models: Methodology and implementation in the pygmalion platform",
+            "pub_year": "2013",
+            "citation": "Mathematical modelling of natural phenomena 8 (4), 112-130, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7947911084312266257",
+        "cites_id": [
+            "7947911084312266257"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parametrization of five classical plant growth models applied to sugar beet and comparison of their predictive capacity on root yield and total biomass",
+            "pub_year": "2014",
+            "citation": "Ecological modelling 290, 11-20, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11347514090122534915",
+        "cites_id": [
+            "11347514090122534915"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of three approaches to model grapevine organogenesis in conditions of fluctuating temperature, solar radiation and soil water content",
+            "pub_year": "2011",
+            "citation": "Annals of botany 107 (5), 729-745, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3244193360157307450",
+        "cites_id": [
+            "3244193360157307450"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generating functions of stochastic L-systems and application to models of plant development",
+            "pub_year": "2008",
+            "citation": "Discrete Mathematics & Theoretical Computer Science, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2199219973554366017",
+        "cites_id": [
+            "2199219973554366017"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A water supply optimization problem for plant growth based on GreenLab model",
+            "pub_year": "2005",
+            "citation": "Revue Africaine de la Recherche en Informatique et Math\u00e9matiques Appliqu\u00e9es \u2026, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8813552663880435267,13763288291754927322,7197860460935365153",
+        "cites_id": [
+            "8813552663880435267",
+            "13763288291754927322",
+            "7197860460935365153"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NEMA, a functional\u2013structural model of nitrogen economy within wheat culms after flowering. I. Model description",
+            "pub_year": "2011",
+            "citation": "Annals of Botany 108 (6), 1085-1096, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:roLk4NBRz8UC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12432102430737597187",
+        "cites_id": [
+            "12432102430737597187"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptation of the greenlab model for analyzing sink-source relationships in chinese pine saplings",
+            "pub_year": "2006",
+            "citation": "2006 Second International Symposium on Plant Growth Modeling and \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12014782734378460417",
+        "cites_id": [
+            "12014782734378460417"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation of fruit-set and trophic competition and optimization of yield advantages in six Capsicum cultivars using functional\u2013structural plant modelling",
+            "pub_year": "2011",
+            "citation": "Annals of botany 107 (5), 793-803, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4285837949323833223",
+        "cites_id": [
+            "4285837949323833223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A positive MUSCL scheme for triangulations",
+            "pub_year": "1998",
+            "citation": "INRIA, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:UebtZRa9Y70C",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10432080550270869937",
+        "cites_id": [
+            "10432080550270869937"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Asymptotic distribution of likelihood ratio test statistics for variance components in nonlinear mixed effects models",
+            "pub_year": "2019",
+            "citation": "Computational Statistics & Data Analysis, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:lmc2jWPfTJgC",
+        "num_citations": 25,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15244324391684387984",
+        "cites_id": [
+            "15244324391684387984"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf Segmentation and Tracking in Arabidopsis thaliana Combined to an Organ-Scale Plant Model for Genotypic Differentiation",
+            "pub_year": "2017",
+            "citation": "Frontiers in Plant science 7, 2057, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:Y5dfb0dijaUC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18353262865143574127",
+        "cites_id": [
+            "18353262865143574127"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inferring the dynamics of mutated hematopoietic stem and progenitor cells induced by IFN\u03b1 in myeloproliferative neoplasms",
+            "pub_year": "2021",
+            "citation": "Blood, The Journal of the American Society of Hematology 138 (22), 2231-2243, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:HtS1dXgVpQUC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12648490921826840681",
+        "cites_id": [
+            "12648490921826840681"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A forest growth simulator based on functional-structural modelling of individual trees",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5666850087457550465",
+        "cites_id": [
+            "5666850087457550465"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A dynamical model of plant growth with full retroaction between organogenesis and photosynthesis",
+            "pub_year": "2006",
+            "citation": "Revue Africaine de Recherche en Informatique et Math\u00e9matiques Appliqu\u00e9es 4, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:Se3iqnhoufwC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4906039030035623687,5663796776197461146",
+        "cites_id": [
+            "4906039030035623687",
+            "5663796776197461146"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A sequential Monte Carlo approach for MLE in a plant growth model",
+            "pub_year": "2013",
+            "citation": "Journal of Agricultural, Biological, and Environmental Statistics 18 (2 \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:aqlVkmm33-oC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7885981776754739120",
+        "cites_id": [
+            "7885981776754739120"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An optimal control methodology for plant growth\u2014Case study of a water supply problem of sunflower",
+            "pub_year": "2012",
+            "citation": "Mathematics and computers in simulation 82 (5), 909-923, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:isC4tDSrTZIC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3847008339480058804",
+        "cites_id": [
+            "3847008339480058804"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structural identifiability of generalized constraint neural network models for nonlinear regression",
+            "pub_year": "2008",
+            "citation": "Neurocomputing 72 (1-3), 392-400, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13540419716166482810",
+        "cites_id": [
+            "13540419716166482810"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation and visualisation of functional landscapes: effects of the water resource competition between plants",
+            "pub_year": "2007",
+            "citation": "Journal of computer science and technology 22 (6), 835-845, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:8k81kl-MbHgC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8122995174463586622",
+        "cites_id": [
+            "8122995174463586622"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ultrasound Molecular Imaging of Renal Cell Carcinoma: VEGFR targeted therapy monitored with VEGFR1 and FSHR targeted microbubbles",
+            "pub_year": "2020",
+            "citation": "Scientific Reports 10 (1), 7308, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:rmuvC79q63oC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11602632383720333444",
+        "cites_id": [
+            "11602632383720333444"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling tree crown dynamics with 3D partial differential equations",
+            "pub_year": "2014",
+            "citation": "Frontiers in plant science 5, 329, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:NhqRSupF_l8C",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12383407928725195413",
+        "cites_id": [
+            "12383407928725195413"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NEMA, a functional\u2013structural model of nitrogen economy within wheat culms after flowering. II. Evaluation and sensitivity analysis",
+            "pub_year": "2011",
+            "citation": "Annals of Botany 108 (6), 1097-1109, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6200202940682162923",
+        "cites_id": [
+            "6200202940682162923"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comprehensive landscape of immune-checkpoints uncovered in clear cell renal cell carcinoma reveals new and emerging therapeutic targets",
+            "pub_year": "2020",
+            "citation": "Cancer Immunology, Immunotherapy 69, 1237-1252, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:FPJr55Dyh1AC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3433976551564701514",
+        "cites_id": [
+            "3433976551564701514"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adapting user interfaces based on gold standards",
+            "pub_year": "2020",
+            "citation": "US Patent 10,628,001, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:tuHXwOkdijsC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9070378007096080398",
+        "cites_id": [
+            "9070378007096080398"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A non linear mixed effects model of plant growth and estimation via stochastic variants of the EM algorithm",
+            "pub_year": "2016",
+            "citation": "Communications in Statistics-Theory and Methods 45 (6), 1643-1669, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:Tiz5es2fbqcC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7081778506272340907",
+        "cites_id": [
+            "7081778506272340907"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Model-based analysis\u2013synthesis for realistic tree reconstruction and growth simulation",
+            "pub_year": "2013",
+            "citation": "IEEE Transactions on geoscience and remote sensing 52 (2), 1438-1450, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:rO6llkc54NcC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4942810789999743750",
+        "cites_id": [
+            "4942810789999743750"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the interindividual variability of organogenesis in sugar beet populations using a hierarchical segmented model",
+            "pub_year": "2013",
+            "citation": "Ecological Modelling 263, 56-63, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7386807823791335758",
+        "cites_id": [
+            "7386807823791335758"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the density effects on the source-sink dynamics in sugar-beet growth",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:Zph67rFs4hoC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11341548710727662296",
+        "cites_id": [
+            "11341548710727662296"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A stochastic language for plant topology",
+            "pub_year": "2006",
+            "citation": "2006 Second International Symposium on Plant Growth Modeling and \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12661992587720532181",
+        "cites_id": [
+            "12661992587720532181"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SUNLAB: a functional\u2013structural model for genotypic and phenotypic characterization of the sunflower crop",
+            "pub_year": "2014",
+            "citation": "Ecological modelling 290, 21-33, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5361581990947324921",
+        "cites_id": [
+            "5361581990947324921"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a continuous approach of functional-structural plant growth",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8255726774791639827",
+        "cites_id": [
+            "8255726774791639827"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of the GreenLab model to simulate and optimize wood production and tree stability: a theoretical study",
+            "pub_year": "2009",
+            "citation": "Silva Fennica 43 (3), 465-487, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4224087808762188357",
+        "cites_id": [
+            "4224087808762188357"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Calibration of fruit cyclic patterns in cucumber plants as a function of source-sink ratio with the greenlab model",
+            "pub_year": "2007",
+            "citation": "Proceedings of the 5th International Workshop om Functional-Structural Plant \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:5nxA0vEk-isC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16454463026541513595",
+        "cites_id": [
+            "16454463026541513595"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of a functional-structural tree model using terrestrial Lidar data",
+            "pub_year": "2017",
+            "citation": "Ecological Modelling 357, 55-57, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:1yQoGdGgb4wC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2457767668906048795",
+        "cites_id": [
+            "2457767668906048795"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian parameter estimation for the Wnt pathway: An infinite mixture models approach",
+            "pub_year": "2016",
+            "citation": "Bioinformatics 32 (17), i781-i789, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:HE397vMXCloC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=926787263354438524",
+        "cites_id": [
+            "926787263354438524"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parameter estimation via stochastic variants of the ECM algorithm with applications to plant growth modeling",
+            "pub_year": "2014",
+            "citation": "Computational Statistics & Data Analysis 78, 82-99, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:u_35RYKgDlwC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5878922948558433004",
+        "cites_id": [
+            "5878922948558433004"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of the effects of inter-tree competition on source\u2013sink balance in Chinese pine trees with the GreenLab model",
+            "pub_year": "2012",
+            "citation": "Trees 26, 1057-1067, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8250517690179875449",
+        "cites_id": [
+            "8250517690179875449"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensitivity analysis of Greenlab model for Maize",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:_kc_bZDykSQC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4945468317191696021",
+        "cites_id": [
+            "4945468317191696021"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling spatial competition for light in plant populations with the porous medium equation",
+            "pub_year": "2015",
+            "citation": "Journal of mathematical biology 70, 533-547, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4315112938794793451",
+        "cites_id": [
+            "4315112938794793451"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of the predictive capacity of five plant growth models for sugar beet",
+            "pub_year": "2012",
+            "citation": "2012 IEEE 4th International Symposium on Plant Growth Modeling, Simulation \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:dhFuZR0502QC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16647268959863337949",
+        "cites_id": [
+            "16647268959863337949"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PSOTS: a particle swarm optimization toolbox in scilab",
+            "pub_year": "2009",
+            "citation": "2009 IEEE international workshop on open-source software for scientific \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15435815100503915537",
+        "cites_id": [
+            "15435815100503915537"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Un sch\u00e9ma bilagrange plus projection pour la simulation bifluide des instabilit\u00e9s de m\u00e9lange",
+            "pub_year": "2001",
+            "citation": "Ch\u00e2tenay-Malabry, Ecole centrale de Paris, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:hkOj_22Ku90C",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12289900765983049638",
+        "cites_id": [
+            "12289900765983049638"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Severe COVID-19 in patients with hematological cancers presenting with viremia",
+            "pub_year": "2021",
+            "citation": "Annals of Oncology 32 (10), 1297-1300, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:cWzG1nlazyYC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15451948025974815047",
+        "cites_id": [
+            "15451948025974815047"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Association of metastatic pattern and molecular status in stage IV non-small cell lung cancer adenocarcinoma",
+            "pub_year": "2020",
+            "citation": "European radiology 30, 5021-5028, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:86PQX7AUzd4C",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11890023349496027226",
+        "cites_id": [
+            "11890023349496027226"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mixed-effects estimation in dynamic models of plant growth for the assessment of inter-individual variability",
+            "pub_year": "2018",
+            "citation": "Journal of agricultural, biological and environmental statistics 23, 208-232, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:ZfRJV9d4-WMC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16200879692392134382",
+        "cites_id": [
+            "16200879692392134382"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling inter-individual variability in sugar beet populations",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13151625549440274477",
+        "cites_id": [
+            "13151625549440274477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using a mathematical model to evaluate the trophic and non-trophic determinants of axis development in grapevine",
+            "pub_year": "2009",
+            "citation": "Functional Plant Biology 36 (2), 156-170, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:4TOpqqG69KYC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5555603168132333800",
+        "cites_id": [
+            "5555603168132333800"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Calibration of greenlab model for maize with sparse experimental data",
+            "pub_year": "2006",
+            "citation": "2006 Second International Symposium on Plant Growth Modeling and \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14367399534030799688",
+        "cites_id": [
+            "14367399534030799688"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Inferring the initiation and development of myeloproliferative neoplasms",
+            "pub_year": "2022",
+            "citation": "Proceedings of the National Academy of Sciences 119 (37), e2120374119, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:artPoR2Yc-kC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11077960229397288019",
+        "cites_id": [
+            "11077960229397288019"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Turgidity-dependent petiole flexibility enables efficient water use by a tree subjected to water stress",
+            "pub_year": "2016",
+            "citation": "Journal of Theoretical Biology 398, 20-31, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:J-pR_7NvFogC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9347747821806371127",
+        "cites_id": [
+            "9347747821806371127"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comprehensive methodology of global sensitivity analysis for complex mechanistic models with an application to plant growth",
+            "pub_year": "2014",
+            "citation": "Ecological Complexity 20, 219-232, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:ns9cj8rnVeAC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3880647183174982480",
+        "cites_id": [
+            "3880647183174982480"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effect of topological and phenological changes on biomass partitioning in Arabidopsis thaliana inflorescence: a preliminary model-based study",
+            "pub_year": "2006",
+            "citation": "2006 Second International Symposium on Plant Growth Modeling and \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5249039797732183872",
+        "cites_id": [
+            "5249039797732183872"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A generalized poisson model to estimate inter-plant competition for light",
+            "pub_year": "2006",
+            "citation": "2006 Second International Symposium on Plant Growth Modeling and \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:4DMP91E08xMC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9786657532878855499",
+        "cites_id": [
+            "9786657532878855499"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new methodology based on sensitivity analysis to simplify the recalibration of functional\u2013structural plant models in new conditions",
+            "pub_year": "2018",
+            "citation": "Annals of botany 122 (3), 397-408, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:2KloaMYe4IUC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3214515926221477491",
+        "cites_id": [
+            "3214515926221477491"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of parameter uncertainty in plant growth model identification",
+            "pub_year": "2012",
+            "citation": "2012 IEEE 4th International Symposium on Plant Growth Modeling, Simulation \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:IWHjjKOFINEC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15550019717215715163",
+        "cites_id": [
+            "15550019717215715163"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Representation learning for the clustering of multi-omics data",
+            "pub_year": "2021",
+            "citation": "IEEE/ACM Transactions on Computational Biology and Bioinformatics 19 (1 \u2026, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:HtEfBTGE9r8C",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=618731833780841879",
+        "cites_id": [
+            "618731833780841879"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of geometrical traits on light interception in conifers: analysis using an FSPM for Scots pine",
+            "pub_year": "2016",
+            "citation": "2016 IEEE International Conference on Functional-Structural Plant Growth \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:eq2jaN3J8jMC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10976439226557679774",
+        "cites_id": [
+            "10976439226557679774"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Filtrage par noyaux de convolution it\u00e9ratif",
+            "pub_year": "2012",
+            "citation": "Les 44 Journ\u00e9es de Statistique, CHEN, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:-f6ydRqryjwC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5484646140911380356",
+        "cites_id": [
+            "5484646140911380356"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A stochastic growth model of grapevine with full interaction between environment, trophic competition and plant development",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:ZeXyd9-uunAC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15024007373798048710",
+        "cites_id": [
+            "15024007373798048710"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A functional-structural plant model-theory and applications in agronomy",
+            "pub_year": "2008",
+            "citation": "International Symposium on Crop Modeling and Decision Support: ISCMDS 2008, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:mB3voiENLucC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11040162494964867427",
+        "cites_id": [
+            "11040162494964867427"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combining similarity and adversarial learning to generate visual explanation: Application to medical image classification",
+            "pub_year": "2021",
+            "citation": "2020 25th International Conference on Pattern Recognition (ICPR), 7188-7195, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:LO7wyVUgiFcC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8221001118670851203",
+        "cites_id": [
+            "8221001118670851203"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf density-based modelling of phototropic crown dynamics and long-term predictive application to European beech",
+            "pub_year": "2017",
+            "citation": "Ecological Modelling 347, 63-71, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:_B80troHkn4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4732427134266593830",
+        "cites_id": [
+            "4732427134266593830"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Iterative convolution particle filtering for nonlinear parameter estimation and data assimilation with application to crop yield prediction",
+            "pub_year": "2013",
+            "citation": "2013 Proceedings of the Conference on Control and its Applications, 67-74, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13029784047278117073",
+        "cites_id": [
+            "13029784047278117073"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stochastic models in floral biology and its application to the study of oilseed rape (Brassica napus L.) fertility",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:r0BpntZqJG4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12072236592392788605",
+        "cites_id": [
+            "12072236592392788605"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrative pan-cancer genomic and transcriptomic analyses of refractory metastatic cancer",
+            "pub_year": "2023",
+            "citation": "Cancer Discovery, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:4X0JR2_MtJMC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16295588038250670312",
+        "cites_id": [
+            "16295588038250670312"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Insights of global sensitivity analysis in biological models with dependent parameters",
+            "pub_year": "2019",
+            "citation": "Journal of Agricultural, Biological and Environmental Statistics 24, 92-111, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:kuK5TVdYjLIC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5790656848102630659",
+        "cites_id": [
+            "5790656848102630659"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Indices de Sobol g\u00e9n\u00e9ralis\u00e9s aux variables d\u00e9pendantes: tests de performance de l\u2019algorithme HOGS coupl\u00e9 \u00e0 plusieurs estimateurs param\u00e9triques",
+            "pub_year": "2017",
+            "citation": "Journal de la soci\u00e9t\u00e9 fran\u00e7aise de statistique 158 (1), 68-89, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:ye4kPcJQO24C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12743609318963959915",
+        "cites_id": [
+            "12743609318963959915"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Regularized Particle Filter EM Algorithm Based on Gaussian Randomization with an Application to Plant Growth Modeling",
+            "pub_year": "2015",
+            "citation": "Methodology and Computing in Applied Probability 17 (4), 847-870, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:q3oQSFYPqjQC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12928435568396206411",
+        "cites_id": [
+            "12928435568396206411"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Oscillations in functional structural plant growth models",
+            "pub_year": "2012",
+            "citation": "Mathematical Modelling of Natural Phenomena 7 (6), 47-66, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:UxriW0iASnsC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16761694746096271944",
+        "cites_id": [
+            "16761694746096271944"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The use of sensitivity analysis for the design of functional structural plant models",
+            "pub_year": "2010",
+            "citation": "Sixth international conference on sensitivity analysis of model output 2 (6 \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5482220980001047682",
+        "cites_id": [
+            "5482220980001047682"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling of branch and flower expansion in Greenlab model to account for the whole crop cycle of winter oilseed rape (Brassica napus L.)",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:TQgYirikUcIC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2225819811587385246",
+        "cites_id": [
+            "2225819811587385246"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Study on the effects of defoliation on the growth of cotton plant using the functional structural model greenlab",
+            "pub_year": "2006",
+            "citation": "2006 Second International Symposium on Plant Growth Modeling and \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:qUcmZB5y_30C",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15835423306272955947",
+        "cites_id": [
+            "15835423306272955947"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Theoretical study and numerical simulation of a stochastic model for plant growth",
+            "pub_year": "2004",
+            "citation": "CARI04, Tunisia, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4205506642560020358",
+        "cites_id": [
+            "4205506642560020358"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic monitoring of software use with recurrent neural networks",
+            "pub_year": "2020",
+            "citation": "Data & Knowledge Engineering 125, 101781, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:Ug5p-4gJ2f0C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10180357540536880291",
+        "cites_id": [
+            "10180357540536880291"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Likelihood ratio test for variance components in nonlinear mixed effects models",
+            "pub_year": "2017",
+            "citation": "arXiv preprint arXiv:1712.08567, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:7T2F9Uy0os0C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10941987259689710299",
+        "cites_id": [
+            "10941987259689710299"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parallel graph grammars with instantiation rules allow efficient structural factorization of virtual vegetation",
+            "pub_year": "2013",
+            "citation": "Electronic Communications of the EASST 61, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:M05iB0D1s5AC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16039165263382790371",
+        "cites_id": [
+            "16039165263382790371"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tri-trophic ecosystem oil palm-pests-auxiliaries: I. modeling and simulation",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813632074920625494",
+        "cites_id": [
+            "5813632074920625494"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A functional-structural plant model\u2014Theories and its applications in agronomy",
+            "pub_year": "2009",
+            "citation": "Crop modeling and decision support, 148-160, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9041333434880793678",
+        "cites_id": [
+            "9041333434880793678"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant growth models. Ecological Models, Vol. 4 of Encyclopedia of Ecology (5 volumes)(SE Jorgensen and B. Fath, eds.)",
+            "pub_year": "2008",
+            "citation": "Elsevier, Oxford, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:48xauSegjOkC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2166987375956749038",
+        "cites_id": [
+            "2166987375956749038"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Is it possible to simulate rapeseed organ mass in relation to N nutrition? Calibration of the functional-structural model GREENLAB for the oilseed rape Brassica napus L. during \u2026",
+            "pub_year": "2007",
+            "citation": "Proceedings of the 12th International Rapeseed Congress, Wuhan, China, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:D_sINldO8mEC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14160589747057418950",
+        "cites_id": [
+            "14160589747057418950"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A powerful factorisation method to compute plant architecture, applications in agronomy and computer graphics",
+            "pub_year": "2005",
+            "citation": "1st Open International Conference on Modeling and Simulation (OICMS), 13-26, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:_Ybze24A_UAC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1747084066451679236",
+        "cites_id": [
+            "1747084066451679236"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A review on structural factorization of plants in GreenLab model",
+            "pub_year": "2005",
+            "citation": "Sino-French workshop, ISAE, Guizhou (China), 2005"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:hC7cP41nSMkC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1808993841704254285",
+        "cites_id": [
+            "1808993841704254285"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GreenLab: a dynamical model of plant growth for environmental applications",
+            "pub_year": "2005",
+            "citation": "ERCIM News 61, 39-40, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:i2xiXl-TujoC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2326361271361802774",
+        "cites_id": [
+            "2326361271361802774"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "CustOmics: A versatile deep-learning based strategy for multi-omics integration",
+            "pub_year": "2023",
+            "citation": "PLoS Computational Biology 19 (3), e1010921, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:vDZJ-YLwNdEC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4734180634389258760",
+        "cites_id": [
+            "4734180634389258760"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the use of neural networks with censored time-to-event data",
+            "pub_year": "2020",
+            "citation": "Mathematical and Computational Oncology: Second International Symposium \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:8d8msizDQcsC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10898110584328154721",
+        "cites_id": [
+            "10898110584328154721"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Model-driven and data-driven approaches for crop yield prediction: analysis and comparison",
+            "pub_year": "2018",
+            "citation": "International Journal of Mathematical and Computational Sciences 11 (7), 334-342, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:M7yex6snE4oC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10358483445647430273",
+        "cites_id": [
+            "10358483445647430273"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling soil temperature to predict emergence",
+            "pub_year": "2016",
+            "citation": "2016 IEEE International Conference on Functional-Structural Plant Growth \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:dTyEYWd-f8wC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7743358572592736795",
+        "cites_id": [
+            "7743358572592736795"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of a probabilistic model for analysing the abortion of seeds and pods in winter oilseed rape (Brassica napus)",
+            "pub_year": "2014",
+            "citation": "Annals of applied biology 165 (3), 414-428, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:u9iWguZQMMsC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7430729483100387538",
+        "cites_id": [
+            "7430729483100387538"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensitivity analysis for plant models with correlated parameters: Application to the characterization of sun flower genotypes",
+            "pub_year": "2013",
+            "citation": "7th International Conference on Sensitivity Analysis of Model Output, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:BqipwSGYUEgC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14859766225274834223",
+        "cites_id": [
+            "14859766225274834223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation techniques for parameter estimation via a stochastic ECM algorithm with applications to plant growth modeling",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901594978050811622",
+        "cites_id": [
+            "5901594978050811622"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian estimation in functional-structural plant models with stochastic organogenesis",
+            "pub_year": "2011",
+            "citation": "14th Applied Stochastic Models and Data Analysis International Conference \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:RGFaLdJalmkC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6093435671287175467",
+        "cites_id": [
+            "6093435671287175467"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tri-trophic ecosystem oil palm-pests-auxiliaries: II. Sensitivity analysis, parameter identification and control",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:blknAaTinKkC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10967197901570631425",
+        "cites_id": [
+            "10967197901570631425"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of topology on plant functioning: a theoretical analysis based on the greenlab model equations",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4881170259246432245",
+        "cites_id": [
+            "4881170259246432245"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Une histoire de la mod\u00e9lisation des plantes",
+            "pub_year": "2009",
+            "citation": "Interstices, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:XiVPGOgt02cC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6497383070965522959",
+        "cites_id": [
+            "6497383070965522959"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic system of plant growth",
+            "pub_year": "2009",
+            "citation": "Universit\u00e9 Montpellier II-Sciences et Techniques du Languedoc, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:738O_yMBCRsC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13246503516529845795",
+        "cites_id": [
+            "13246503516529845795"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New approach for the study of source-sink dynamics on maize",
+            "pub_year": "2009",
+            "citation": "Crop modeling and decision support, 161-168, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14639940257839557854",
+        "cites_id": [
+            "14639940257839557854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Syst \u2018eme dynamique de la croissance des plantes",
+            "pub_year": "2009",
+            "citation": "HDR thesis, Universit\u00e9 Montpellier II, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:hMod-77fHWUC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11309370265641119043",
+        "cites_id": [
+            "11309370265641119043"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conditions for the Generation of Rhythms in a Discrete Dynamic System",
+            "pub_year": "2006",
+            "citation": "2006 Second International Symposium on Plant Growth Modeling and \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:P5F9QuxV20EC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14533563184230089835",
+        "cites_id": [
+            "14533563184230089835"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimizing plant growth model parameters for genetic selection based on QTL mapping",
+            "pub_year": "2006",
+            "citation": "2006 Second International Symposium on Plant Growth Modeling and \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:HDshCWvjkbEC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17001802767047303168",
+        "cites_id": [
+            "17001802767047303168"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hyper-adac: Adaptive clustering-based hypergraph representation of whole slide images for survival analysis",
+            "pub_year": "2022",
+            "citation": "Machine Learning for Health, 405-418, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:NyGDZy8z5eUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12560580590954958391",
+        "cites_id": [
+            "12560580590954958391"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reachability design through approximate Bayesian computation",
+            "pub_year": "2019",
+            "citation": "Computational Methods in Systems Biology: 17th International Conference \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:HbR8gkJAVGIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1446557309717547232",
+        "cites_id": [
+            "1446557309717547232"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application of Weighted Regression for the Prediction of Soft Wheat Production in France",
+            "pub_year": "2018",
+            "citation": "2018 6th International Symposium on Plant Growth Modeling, Simulation \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:MLfJN-KU85MC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14573090120380412439",
+        "cites_id": [
+            "14573090120380412439"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A critical analysis of resampling strategies for the regularized particle filter",
+            "pub_year": "2017",
+            "citation": "arXiv preprint arXiv:1705.04219, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:ZuybSZzF8UAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14992403869660759324",
+        "cites_id": [
+            "14992403869660759324"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning from user workflows for the characterization and prediction of software crashes",
+            "pub_year": "2016",
+            "citation": "2016 IEEE 16th International Conference on Data Mining Workshops (ICDMW \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:Fu2w8maKXqMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10727787375559017228",
+        "cites_id": [
+            "10727787375559017228"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling the inter-individual variability of single-stemmed plant development",
+            "pub_year": "2016",
+            "citation": "2016 IEEE International Conference on Functional-Structural Plant Growth \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:SdhP9T11ey4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9894613443157210599",
+        "cites_id": [
+            "9894613443157210599"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiscale functional-structural plant modelling at the example of apple trees: Project description",
+            "pub_year": "2016",
+            "citation": "2016 IEEE International Conference on Functional-Structural Plant Growth \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:9vf0nzSNQJEC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12708546879021340221",
+        "cites_id": [
+            "12708546879021340221"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comparison of a generic MCMC-based algorithm for Bayesian estimation in C++, R and Julia. Application to plant growth modeling",
+            "pub_year": "2015",
+            "citation": "2015 Spring Simulation Multi-Conference The Society for Modeling \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14604735298392250420",
+        "cites_id": [
+            "14604735298392250420"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Some sequential Monte Carlo techniques for Data Assimilation in a plant growth model",
+            "pub_year": "2013",
+            "citation": "Applied Stochastic Models and Data Analysis International Conference (ASMDA \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7592517387099642761",
+        "cites_id": [
+            "7592517387099642761"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Irrigation optimization by modeling of plant-soil interaction",
+            "pub_year": "2011",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:NaGl4SEjCO4C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7506046062093191193",
+        "cites_id": [
+            "7506046062093191193"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using a hierarchical segmented model to assess the dynamics of leaf appearance in plant populations.",
+            "pub_year": "2011",
+            "citation": "14th Applied Stochastic Models and Data Analysis International Conference \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:b0M2c_1WBrUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11978928337953045513",
+        "cites_id": [
+            "11978928337953045513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of non-linearity in functional-structural plant models",
+            "pub_year": "2010",
+            "citation": "FSPM 2010-6th International Workshop on Functional-Structural Plant Models, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11102093933549082758",
+        "cites_id": [
+            "11102093933549082758"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A symbolic method to compute the probability distribution of the number of pattern occurences in random texts generated by stochastic 0L-systems",
+            "pub_year": "2010",
+            "citation": "Discrete Mathematics & Theoretical Computer Science, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:maZDTaKrznsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5791359487381867839,5488856141014554866",
+        "cites_id": [
+            "5791359487381867839",
+            "5488856141014554866"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation of morphological plasticity of Acacia tortilis in response to herbivore attacks",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14858967699725155803",
+        "cites_id": [
+            "14858967699725155803"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nitrogen acquisition and utilization by crops: review of different approaches and proposition of a mechanistic modeling",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:70eg2SAEIzsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15637511316052348952",
+        "cites_id": [
+            "15637511316052348952"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parameter estimation and growth variation analysis in six Capsicum cultivars with the functional-structural model GREENLAB",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13583450579812529601",
+        "cites_id": [
+            "13583450579812529601"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plants as Combinatorial Structures and Applications",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6696550492991163805",
+        "cites_id": [
+            "6696550492991163805"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation et simulation de l'architecture et de la production v\u00e9g\u00e9tales",
+            "pub_year": "2008",
+            "citation": "Aux origines des plantes: des plantes anciennes \u00e0 la botanique du XXIe si\u00e8cle, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10272213402260955060",
+        "cites_id": [
+            "10272213402260955060"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Markovian framework to formalize stochastic L-systems and application to models of plant development",
+            "pub_year": "2008",
+            "citation": "INRIA, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:TFP_iSt0sucC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15953655709183434361",
+        "cites_id": [
+            "15953655709183434361"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A functional landscape prototype to simulate water resource competition between plants",
+            "pub_year": "2006",
+            "citation": "2006 Second International Symposium on Plant Growth Modeling and \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:k_IJM867U9cC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4817993016933936706",
+        "cites_id": [
+            "4817993016933936706"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A powerful factorisation method to compute plant growth and architecture, applications in agronomy and computer graphics",
+            "pub_year": "2005",
+            "citation": "1st Open International Conference on Modeling and Simulation (Oicms), June \u2026, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4346737613920374634",
+        "cites_id": [
+            "4346737613920374634"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Machine learning predicts response to TNF inhibitors in rheumatoid arthritis: results on the ESPOIR and ABIRISK cohorts",
+            "pub_year": "2022",
+            "citation": "RMD open 8 (2), e002442, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:BJbdYPG6LGMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3418758125388091008",
+        "cites_id": [
+            "3418758125388091008"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leveraging conditional generative models in a general explanation framework of classifier decisions",
+            "pub_year": "2022",
+            "citation": "Future Generation Computer Systems 132, 223-238, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:dBIO0h50nwkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4413897431859446402",
+        "cites_id": [
+            "4413897431859446402"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian Estimation for the GreenLab Plant Growth Model with Deterministic Organogenesis",
+            "pub_year": "2022",
+            "citation": "Journal of Agricultural, Biological and Environmental Statistics 27 (1), 63-87, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:mNrWkgRL2YcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11923634571264444757",
+        "cites_id": [
+            "11923634571264444757"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visual explanation by unifying adversarial generation and feature importance attributions",
+            "pub_year": "2021",
+            "citation": "Interpretability of Machine Intelligence in Medical Image Computing, and \u2026, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:bKqednn6t2AC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4165155721124386734",
+        "cites_id": [
+            "4165155721124386734"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimal control of non-smooth greenhouse models",
+            "pub_year": "2019",
+            "citation": "International Symposium on Advanced Technologies and Management for \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:_FM0Bhl9EiAC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2402935074878580250",
+        "cites_id": [
+            "2402935074878580250"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reconstructing minimal length tree branch systems from leaf positions",
+            "pub_year": "2017",
+            "citation": "Ecological Informatics 42, 61-66, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:uLbwQdceFCQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12686077852220286358",
+        "cites_id": [
+            "12686077852220286358"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensitivity analysis to help individual plant model parameterization for winter oilseed rape",
+            "pub_year": "2016",
+            "citation": "2016 IEEE International Conference on Functional-Structural Plant Growth \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:JoZmwDi-zQgC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11548642211143830299",
+        "cites_id": [
+            "11548642211143830299"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "WIP-promoting good modeling practice with a domain-specific language and statistical algorithms designed for parallel computing",
+            "pub_year": "2015",
+            "citation": "Proceedings of the Symposium on Theory of Modeling & Simulation: DEVS \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:kRWSkSYxWN8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6833141823637119450",
+        "cites_id": [
+            "6833141823637119450"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards an EDSL to enhance good modelling practice for non-linear stochastic discrete dynamical models Application to plant growth models",
+            "pub_year": "2013",
+            "citation": "SIMULTECH 2013, 132-138, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:ldfaerwXgEUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6542088290020166557",
+        "cites_id": [
+            "6542088290020166557"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biological and mathematical concepts for modelling plant growth and architecture",
+            "pub_year": "2008",
+            "citation": "Encyclopedia of Ecology, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:JQOojiI6XY0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9049419209814197887",
+        "cites_id": [
+            "9049419209814197887"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The influence of photosynthesis on the number of metamers per growth unit in GreenLab model",
+            "pub_year": "2007",
+            "citation": "arXiv preprint q-bio/0701026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:fPk4N6BV_jEC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5900771413174439384",
+        "cites_id": [
+            "5900771413174439384"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Machine learning identifies a profile of inadequate responder to methotrexate in rheumatoid arthritis",
+            "pub_year": "2022",
+            "citation": "Rheumatology, keac645, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:PVgj2kMGcgYC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5170242798434828538",
+        "cites_id": [
+            "5170242798434828538"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting immunotherapy outcomes in patients with MSI tumors using NLR and CT global tumor volume",
+            "pub_year": "2022",
+            "citation": "Frontiers in Oncology 12, 982790, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:AHdEip9mkN0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15248197765063350293",
+        "cites_id": [
+            "15248197765063350293"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mathematical modelling, selection and hierarchical inference to determine the minimal dose in IFN therapy against Myeloproliferative Neoplasms",
+            "pub_year": "2021",
+            "citation": "arXiv preprint arXiv:2112.10688, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:OR75R8vi5nAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16838923766434502166",
+        "cites_id": [
+            "16838923766434502166"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automaton-abc: a statistical method to estimate the probability of spatio-temporal properties for parametric markov population models",
+            "pub_year": "2021",
+            "citation": "Theoretical Computer Science 893, 191-219, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:ODE9OILHJdcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5913379549403588351",
+        "cites_id": [
+            "5913379549403588351"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neural networks to predict survival from RNA-seq data in oncology",
+            "pub_year": "2021",
+            "citation": "International Conference on Computational Methods in Systems Biology, 122-140, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8158222974048063372",
+        "cites_id": [
+            "8158222974048063372"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A data augmentation scheme embedding a sequential Monte Carlo method for Bayesian parameter inference in state space models",
+            "pub_year": "2016",
+            "citation": "48\u00e8mes Journ\u00e9es de Statistique de la SFdS, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2037237185818632832",
+        "cites_id": [
+            "2037237185818632832"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "M\u00e9thodes inverses et identification param\u00e9trique de mod\u00e8les d'architecture v\u00e9g\u00e9tale",
+            "pub_year": "2016",
+            "citation": "Architecture et croissance des plantes. Mod\u00e9lisation et applications, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:PVjk1bu6vJQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1742767225267380653",
+        "cites_id": [
+            "1742767225267380653"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A symbolic method to analyse patterns in plant structure",
+            "pub_year": "2014",
+            "citation": "Combinatorics, Probability and Computing 23 (5), 842-860, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:tOudhMTPpwUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4552176374651927255",
+        "cites_id": [
+            "4552176374651927255"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimal control of crop irrigation based on the Hamilton-Jacobi-Bellman equation",
+            "pub_year": "2013",
+            "citation": "2013 Proceedings of the Conference on Control and its Applications, 21-28, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:bFI3QPDXJZMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11091880205656772958",
+        "cites_id": [
+            "11091880205656772958"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of pod position and its appearance time on pod and seed abortion in winter oilseed rape (Brassica napus L.)",
+            "pub_year": "2011",
+            "citation": "13. International Rapeseed Congress, 154-157, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:a0OBvERweLwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9776458497407488481",
+        "cites_id": [
+            "9776458497407488481"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parameterization of plant growth models to characterize genotype by environment interactions: a methodology adapted to breeding programmes.",
+            "pub_year": "2011",
+            "citation": "Aspects of Applied Biology, 27-35, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:GnPB-g6toBAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1900172307961891311",
+        "cites_id": [
+            "1900172307961891311"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A symbolic method to analyse patterns in plant structure whose organogenesis is driven by a multitype branching process",
+            "pub_year": "2010",
+            "citation": "Journal of Computer Science and Technology, En cours de publication, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:35N4QoGY0k4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15576485335362028583",
+        "cites_id": [
+            "15576485335362028583"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synchronisation formalism, resource and plant models for plant ecosystem simulation",
+            "pub_year": "2009",
+            "citation": "2009 Third International Symposium on Plant Growth Modeling, Simulation \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1240876104325230220",
+        "cites_id": [
+            "1240876104325230220"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visualizing reaction of chrysanthemum to temperature and light: model calibration and validation",
+            "pub_year": "2007",
+            "citation": "Proceedings of the 5th international workshop on Functional-Structural Plant \u2026, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:lSLTfruPkqcC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10801265665060073835",
+        "cites_id": [
+            "10801265665060073835"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generation of rhythms in plant development controlled by their functioning: theoretical and numerical study",
+            "pub_year": "2006",
+            "citation": "2. International Symposium on Plant Growth Modeling, Simulation \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:Ri6SYOTghG4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5671194310266349817",
+        "cites_id": [
+            "5671194310266349817"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A TVD Lagrange plus remap scheme for the simulation of two-fluid flows",
+            "pub_year": "2002",
+            "citation": "Proceedings of the Third int. Symp. on Finite Volumes for Complex \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:dQ2og3OwTAUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6311755334288275747",
+        "cites_id": [
+            "6311755334288275747"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatio-Temporal Analysis of Patient-Derived Organoid Videos Using Deep Learning for the Prediction of Drug Efficacy",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2308.14461, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:U4n9YNQMCAIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A biology-driven deep generative model for cell-type annotation in cytometry",
+            "pub_year": "2023",
+            "citation": "Briefings in Bioinformatics, bbad260, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:43bX7VzcjpAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structured State Space Models for Multiple Instance Learning in Digital Pathology",
+            "pub_year": "2023",
+            "citation": "arXiv preprint arXiv:2306.15789, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:jgBuDB5drN8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Better than RECIST and faster than iRECIST: defining the Immunotherapy Progression Decision score to better manage progressive tumors on immunotherapy",
+            "pub_year": "2023",
+            "citation": "Clinical Cancer Research 29 (8), 1528-1534, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:6yz0xqPARnAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "New calibration setup for quantitative DCE\u2010US imaging protocol: Toward standardization",
+            "pub_year": "2023",
+            "citation": "Medical Physics, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:CaZNVDsoPx4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3051\u2013NON-GENETIC HERITABILITY OF CELL DIVISION SHAPES HUMAN HEMATOPOIESIS",
+            "pub_year": "2023",
+            "citation": "Experimental Hematology 124, S75, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:BzfGm06jWhQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimizing IFN alpha therapy against Myeloproliferative Neoplasms",
+            "pub_year": "2023",
+            "citation": "Journal of Pharmacology and Experimental Therapeutics, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:zCSUwVk65WsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Full Bayesian inference in hidden Markov models of plant growth",
+            "pub_year": "2022",
+            "citation": "The Annals of Applied Statistics 16 (4), 2352-2368, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:F1b5ZUV5XREC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Machine Learning Identifies Biomarker of Non-Response to Methotrexate in Rheumatoid Arthritis",
+            "pub_year": "2022",
+            "citation": "ARTHRITIS & RHEUMATOLOGY 74, 3187-3189, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:otzGkya1bYkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interpretable cytometry cell-type annotation with flow-based deep generative models.",
+            "pub_year": "2022",
+            "citation": "arXiv e-prints, arXiv: 2208.05745, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:tH6gc1N1XXoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analysis of the dynamics induced by a competition index in a heterogeneous population of plants: from an individual-based model to a macroscopic model",
+            "pub_year": "2022",
+            "citation": "arXiv preprint arXiv:2207.01748, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:nZcligLrVowC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e9lisation math\u00e9matique de l'h\u00e9matopo\u00ef\u00e8se et des h\u00e9mopathies: d\u00e9veloppement, dynamique et traitement",
+            "pub_year": "2022",
+            "citation": "H\u00e9matologie 28 (4), 183-200, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:0CzhzZyukY4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prediction of Early Response to Immunotherapy: DCE-US as a New Biomarker",
+            "pub_year": "2022",
+            "citation": "Cancers 14 (5), 1337, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:HeT0ZceujKMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contrasted phenotypic plasticities of life-history traits in interacting plants: case of pure vs mixed stands of wheat",
+            "pub_year": "2022",
+            "citation": "bioRxiv, 2022.10. 27.514050, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:2tRrZ1ZAMYUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mean field approximation of a heterogeneous population of plants in competition",
+            "pub_year": "2019",
+            "citation": "arXiv preprint arXiv:1906.01368, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:e_rmSamDkqQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation de la densit\u00e9 limite de champ moyen pour des populations h\u00e9t\u00e9rog\u00e8nes avec interactions",
+            "pub_year": "2019",
+            "citation": "22\u00e8me Rencontre du Non-Lin\u00e9aire, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:-FonjvnnhkoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genotype to Phenotype Predictive Modelling: Recent Approaches and Promising Perspectives Based on Artificial Intelligence and Mathematical Modelling",
+            "pub_year": "2019",
+            "citation": "Plant and Animal Genome XXVII Conference (January 12-16, 2019), 2019"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:0izLItjtcgwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "R\u00e9seaux de neurones pour l\u2019analyse de survie en grande dimension",
+            "pub_year": "2019",
+            "citation": "51\u00e8mes journ\u00e9es de Statistique de la SFdS, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:NXb4pA-qfm4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop recognition from sequential sentinel-1 images with lstm recurrent networks",
+            "pub_year": "2018",
+            "citation": "6th International Symposium on Plant Growth Modeling, Simulation \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:kh2fBNsKQNwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mod\u00e8les Dynamiques de la Croissance des Plantes: Succ\u00e8s et D\u00e9fis",
+            "pub_year": "2018",
+            "citation": "Potentiels de la science pour une agriculture durable. Publication: Acad\u00e9mie \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:Dip1O2bNi0gC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assimilation de donn\u00e9es par \ufb01ltrage particulaire r\u00e9gularis\u00e9 dans un mod\u00e8le d'\u00e9pid\u00e9miologie",
+            "pub_year": "2018",
+            "citation": "50\u00e8mes journ\u00e9es de Statistique de a SFdS, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:tzM49s52ZIMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeles de population avec interactions: de la limite de champ moyena l\u2019approximation de champ moyen",
+            "pub_year": "2018",
+            "citation": "50\u00e8mes journ\u00e9es de Statistique de la SFdS, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:_Re3VWB3Y0AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The co-regulatory interaction of transpiration and water potential, and implications for stomatal conductance models",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:QD3KBmkZPeQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The co-regulatory interaction of transpiration and water potential: Implications for stomatal conductance models and height growth in trees",
+            "pub_year": "2017",
+            "citation": "bioRxiv, 237826, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:kzcrU_BdoSEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generalized Sobol indices dediacted to the dependent variables: performance tests of the HOGS algorithm coupled to several parametric estimators",
+            "pub_year": "2017",
+            "citation": "JOURNAL OF THE SFDS 158 (1), 68-89, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:N5tVd3kTz84C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Testing variance components in nonlinear mixed effects models. Application to plant growth modelling",
+            "pub_year": "2016",
+            "citation": "9. International Conference of the ERCIM WG on Computational and \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:NJ774b8OgUMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling the inter-individual variability of single-stemmed plant development",
+            "pub_year": "2016",
+            "citation": "International Conference on Functional-Structural Plant Growth Modeling \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:4xDN1ZYqzskC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Multiscale Functional-Structural Plant Modelling at the Example of Apple Trees",
+            "pub_year": "2016",
+            "citation": "International Conference on Functional-Structural Plant Growth Modeling \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:LI9QrySNdTsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Le passage de la plante au peuplement",
+            "pub_year": "2016",
+            "citation": "Architecture et croissance des plantes. Mod\u00e9lisation et croissances des plantes, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:foquWX3nUaYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "R\u00e9partition des crossovers m\u00e9iotiques: h\u00e9t\u00e9rog\u00e9n\u00e9it\u00e9, mod\u00e9lisation de l'interf\u00e9rence, interaction entre voies de formation",
+            "pub_year": "2014",
+            "citation": "Universit\u00e9 Paris-Sud (Orsay, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MMCS, Mathematical Modelling of Complex Systems",
+            "pub_year": "2014",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:5qfkUJPXOUwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A nonlinear mixed effects model to explain inter-individual variability in plant populations",
+            "pub_year": "2013",
+            "citation": "Applied Stochastic Models and Data Analysis International Conference (ASMDA \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Global sensitivity analysis of the NEMA model for its parameterization and biological diagnosis.",
+            "pub_year": "2013",
+            "citation": "7th International Conference on Functional-Structural Plant Models (FSPM \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:eMMeJKvmdy0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A comprehensive global sensitivity analysis for biological model diagnosis and parameterization: application to the NEMA model",
+            "pub_year": "2013",
+            "citation": "Seventh International Workshop on Functional-Structural Plant Models, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:xtRiw3GOFMkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling Competition in Crop Populations via Reaction-Diffusion Foliage Dynamics. With an Outlook on Tree Modelling",
+            "pub_year": "2013",
+            "citation": "Publishers: Finnish Society of Forest Science, Vantaa, Finland Finnish \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:yD5IFk8b50cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Selected Revised Papers from the 4th International Workshop on Graph Computation Models (GCM 2012)",
+            "pub_year": "2013",
+            "citation": "Electronic Communications of the EASST 61, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:wMgC3FpKEyYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of Interactions in Complex Mechanistic Models using Global Sensitivity Analysis",
+            "pub_year": "2013",
+            "citation": "HAL 2013, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Irrigation Demand Simulation and Crop Genotype Selection over Large Geographies and Time Scales",
+            "pub_year": "2012",
+            "citation": "Remote Sensing and Environment Letters 2 (2), 51, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:eJXPG6dFmWUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Filtrage par noyaux de convolution it\u00e9ratif",
+            "pub_year": "2012",
+            "citation": "Les 44 Journ\u00e9es de Statistique, CHEN, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:buQ7SEKw-1sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A methodology to study Complex Biophysical Systems with Global Sensitivity Analysis",
+            "pub_year": "2011",
+            "citation": "ESREL2011, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:KxtntwgDAa4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A methodology to study complex biophysical systems with global",
+            "pub_year": "2011",
+            "citation": "Advances in Safety, Reliability and Risk Management: ESREL 2011, 339, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:anf4URPfarAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Irrigation Demand Simulation and Crop Genotype Selection Over Large Geographies and Time Scales",
+            "pub_year": "2011",
+            "citation": "Procedia Environmental Sciences 10, 1250-1256, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:SP6oXDckpogC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A functional-structural model of nitrogen economy within wheat culms after flowering",
+            "pub_year": "2010",
+            "citation": "12. ESA Congress, np, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:EUQCXRtRnyEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimal control of pruning leaves based on GreenLab",
+            "pub_year": "2010",
+            "citation": "University of California, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:AXPGKjj_ei8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Calibration of a probabilistic model of oilseed rape fertility to analyze the inter-variety variability in number of seeds",
+            "pub_year": "2010",
+            "citation": "University of California, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Analyse et mod\u00e9lisation de l'architecture des Plantes",
+            "pub_year": "2008",
+            "citation": "Plantes et peuplements virtuels, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:WZBGuue-350C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Computing the moments of probability distributions for branching processes",
+            "pub_year": "2008",
+            "citation": "INRIA, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:CHSYGLWDkRkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sequential Monte Carlo techniques for MLE in plant growth modeling",
+            "pub_year": "2008",
+            "citation": "COMPSTAT\u20192010 Book of Abstracts, 50, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:_xSYboBqXhAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Le monde v\u00e9g\u00e9tal",
+            "pub_year": "2008",
+            "citation": "CIJM, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u57fa\u4e8e\u529f\u80fd\u6027\u690d\u7269\u751f\u957f\u7ade\u4e89\u6a21\u578b\u7684\u81ea\u7136\u573a\u666f\u7684\u6a21\u62df\u548c\u53ef\u89c6\u5316\u7814\u7a76",
+            "pub_year": "2007",
+            "citation": "\u8ba1\u7b97\u673a\u79d1\u5b66\u6280\u672f\u5b66\u62a5 22 (6), 835-845, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:KUbvn5osdkgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "\u5229\u7528\u529f\u80fd\u5316\u7ed3\u6784\u6a21\u578b Green-Lab \u5206\u6790\u7518\u84dd\u6cb9\u83dc\u7684\u7ed3\u6784\u7684\u53ef\u5851\u6027 (\u82f1\u6587)",
+            "pub_year": "2007",
+            "citation": "\u7b2c\u5341\u4e8c\u5c4a\u56fd\u9645\u6cb9\u83dc\u5927\u4f1a\u8bba\u6587\u96c6, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation num\u00e9rique d'\u00e9coulements bifluides",
+            "pub_year": "2001",
+            "citation": "Optimal control and partial differential equations (Paris, 4 December 2000 \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:UHK10RUVsp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation de la densit\u00e9 limite de champ moyen pour des populations h\u00e9t\u00e9rog\u00e8nes avec interactions",
+            "citation": "Rencontre du Non Lin\u00e9aire, 9, 0"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:ubry08Y2EpUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Parameter Identification of a Functional-Structural Tree Growth Model and Application to Beech Trees (Fagus sylvatica, Fagaceae)",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:ALROH1vI_8AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sensitivity analysis of GreenLab model for maize",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:jL-93Qbq4QoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Recherches en IA explicable au MICS: Mod\u00e8les gaussiens, mod\u00e8les g\u00e9n\u00e9ratifs et raisonnement pour l\u2019explicabilit\u00e9",
+            "citation": "Bulletin N o 116, 22, 0"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:P7Ujq4OLJYoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Survival Prediction Combining VV hole-Slide Images and RNA Expressions",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:r_AWSJRzSzQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "cropFact. A spatially explicit big data-driven approach to analyze and simulate yield gaps, limiting factors and their impacts: A case study of winter wheat in Europe",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:hCrLmN-GePgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comportement asymptotique de populations h\u00e9t\u00e9rog\u00e8nes avec interactions",
+            "citation": "Rencontre du Non Lin\u00e9aire, 122, 0"
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:oNZyr7d5Mn4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards an EDSL to enhance good modelling practice for non-linear stochastic discrete dynamical models",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:VaXvl8Fpj5cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Test du rapport de vraisemblance pour des composantes de la variance dans les modeles non lin\u00e9aires mixtes",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:PR6Y55bgFSsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MATHEMATICAL MODELLING OF COMPLEX SYSTEMS",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:1qzjygNMrQYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "UVED Resource",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PMA 2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Stochastic Language for Plant Topology",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enhancing on farm and regional irrigation management using MABIA-Region tool....... 18 Mohamed Allani, Mohamed Jabloun, Ali Sahli, Volker Hennings, Jobst MajJmann",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:zA6iFVUQeVQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Akafou, Selastique 224 Allani, Mohamed 18 Allirand, Jean-Michel 180, 278",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "LGr1sroAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 0
+    }
+]

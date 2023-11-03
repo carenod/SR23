@@ -1,0 +1,3381 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "APSIM\u2013evolution towards a new generation of agricultural systems simulation",
+            "pub_year": "2014",
+            "citation": "Environmental Modelling & Software 62, 327-350, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 1468,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15392537955955688510",
+        "cites_id": [
+            "15392537955955688510"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drivers of household food availability in sub-Saharan Africa based on big data from small farms",
+            "pub_year": "2016",
+            "citation": "Proceedings of the National Academy of Sciences 113 (2), 458-463, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:738O_yMBCRsC",
+        "num_citations": 369,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16134863605619341100",
+        "cites_id": [
+            "16134863605619341100"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measuring and predicting canopy nitrogen nutrition in wheat using a spectral index\u2014The canopy chlorophyll content index (CCCI)",
+            "pub_year": "2010",
+            "citation": "Field crops research 116 (3), 318-324, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:hMod-77fHWUC",
+        "num_citations": 353,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1074241167263967034",
+        "cites_id": [
+            "1074241167263967034"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Remote sensing of nitrogen and water stress in wheat",
+            "pub_year": "2007",
+            "citation": "Field Crops Research 104 (1-3), 77-85, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 339,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17221848308282369654",
+        "cites_id": [
+            "17221848308282369654"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of elevated CO2 and drought on wheat: testing crop simulation models for different experimental and climatic conditions",
+            "pub_year": "2002",
+            "citation": "Agriculture, Ecosystems & Environment 93 (1-3), 249-266, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 247,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7820200330678717436,15294884620883378589",
+        "cites_id": [
+            "7820200330678717436",
+            "15294884620883378589"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptation science for agriculture and natural resource management\u2014urgency and theoretical basis",
+            "pub_year": "2009",
+            "citation": "Current Opinion in Environmental Sustainability 1 (1), 69-76, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 219,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17425826592621155158",
+        "cites_id": [
+            "17425826592621155158"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spectral and thermal sensing for nitrogen and water status in rainfed and irrigated wheat environments",
+            "pub_year": "2006",
+            "citation": "Precision agriculture 7, 233-248, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 215,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9434096412433140547",
+        "cites_id": [
+            "9434096412433140547"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Detection of nitrogen deficiency in wheat from spectral reflectance indices and basic crop eco-physiological concepts",
+            "pub_year": "2006",
+            "citation": "Australian Journal of Agricultural Research 57 (7), 781-789, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:qjMakFHDy7sC",
+        "num_citations": 184,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16838289303034463677",
+        "cites_id": [
+            "16838289303034463677"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant leaf area expansion and assimilate production in wheat (Triticum aestivum L.) growing under low phosphorus conditions",
+            "pub_year": "1998",
+            "citation": "Plant and Soil 200, 227-240, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 174,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=861825855798583762",
+        "cites_id": [
+            "861825855798583762"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of phosphorus nutrition on tiller emergence in wheat",
+            "pub_year": "1999",
+            "citation": "Plant and Soil 209, 283-295, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:4DMP91E08xMC",
+        "num_citations": 145,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11835095915380767002",
+        "cites_id": [
+            "11835095915380767002"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An\u00e1lisis de los factores de riesgo neuromusculares de las lesiones deportivas",
+            "pub_year": "2013",
+            "citation": "Apunts. Medicina de l'Esport 48 (179), 109-120, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:nZcligLrVowC",
+        "num_citations": 117,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15606320078945898807",
+        "cites_id": [
+            "15606320078945898807"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The limit to wheat water-use efficiency in eastern Australia. I.* Gradients in the radiation environment and atmospheric demand",
+            "pub_year": "2007",
+            "citation": "Australian Journal of Agricultural Research 58 (4), 287-302, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 115,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5946441426619489644",
+        "cites_id": [
+            "5946441426619489644"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interactions between water and nitrogen in Australian cropping systems: physiological, agronomic, economic, breeding and modelling perspectives",
+            "pub_year": "2016",
+            "citation": "Crop and Pasture Science 67 (10), 1019-1053, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:B3FOqHPlNUQC",
+        "num_citations": 107,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2477292738129060710",
+        "cites_id": [
+            "2477292738129060710"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf area expansion and assimilate production in sunflower (Helianthus annuus L.) growing under low phosphorus conditions",
+            "pub_year": "1998",
+            "citation": "Plant and soil 202, 133-147, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 101,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10662344033710926031",
+        "cites_id": [
+            "10662344033710926031"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The intrinsic plasticity of farm businesses and their resilience to change. An Australian example",
+            "pub_year": "2011",
+            "citation": "Field Crops Research 124 (2), 157-170, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 100,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15556082166290840552",
+        "cites_id": [
+            "15556082166290840552"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The limit to wheat water-use efficiency in eastern Australia. II. Influence of rainfall patterns",
+            "pub_year": "2007",
+            "citation": "Australian Journal of Agricultural Research 58 (7), 657-669, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Zph67rFs4hoC",
+        "num_citations": 96,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14691481752923524387",
+        "cites_id": [
+            "14691481752923524387"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the nitrogen-driven trade-off between nitrogen utilisation efficiency and water use efficiency of wheat in eastern Australia",
+            "pub_year": "2010",
+            "citation": "Field Crops Research 118 (3), 297-305, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 92,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6513110647593825457",
+        "cites_id": [
+            "6513110647593825457"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A participatory whole farm modelling approach to understand impacts and increase preparedness to climate change in Australia",
+            "pub_year": "2014",
+            "citation": "Agricultural Systems 126, 50-61, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:O3NaXMp0MMsC",
+        "num_citations": 85,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2076943503962047695",
+        "cites_id": [
+            "2076943503962047695"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measuring and modelling yield and water budget components of wheat crops in coarse-textured soils with chemical constraints",
+            "pub_year": "2003",
+            "citation": "Field Crops Research 84 (3), 241-260, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3227251170404173596",
+        "cites_id": [
+            "3227251170404173596"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Does assimilate supply limit leaf expansion in wheat grown in the field under low phosphorus availability?",
+            "pub_year": "2000",
+            "citation": "Field Crops Research 67 (3), 227-238, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5737115308488671108",
+        "cites_id": [
+            "5737115308488671108"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatial impact of projected changes in rainfall and temperature on wheat yields in Australia",
+            "pub_year": "2013",
+            "citation": "Climatic Change 117, 163-179, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6176813306596584896",
+        "cites_id": [
+            "6176813306596584896"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Profitable and sustainable nutrient management systems for East and Southern African smallholder farming systems challenges and opportunities: A synthesis of the Eastern and \u2026",
+            "pub_year": "2013",
+            "citation": "CIAT, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:r0BpntZqJG4C",
+        "num_citations": 81,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13098105382499323938",
+        "cites_id": [
+            "13098105382499323938"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interactions between intervention packages, climatic risk, climate change and food security in mixed crop\u2013livestock systems in Burkina Faso",
+            "pub_year": "2017",
+            "citation": "Agricultural Systems 151, 217-224, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 80,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3584765189728473433",
+        "cites_id": [
+            "3584765189728473433"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phosphorus nutrition and water stress tolerance in wheat plants",
+            "pub_year": "1996",
+            "citation": "Journal of Plant Nutrition 19 (1), 29-39, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13441932505495631059",
+        "cites_id": [
+            "13441932505495631059"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of phosphorus and drought stresses on dry matter and phosphorus allocation in wheat",
+            "pub_year": "1995",
+            "citation": "Journal of plant nutrition 18 (11), 2501-2517, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 70,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11079340166476836135",
+        "cites_id": [
+            "11079340166476836135"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting optimum crop designs using crop models and seasonal climate forecasts",
+            "pub_year": "2018",
+            "citation": "Scientific reports 8 (1), 2231, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:6ZxmRoH8BuwC",
+        "num_citations": 68,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9097986804466953075",
+        "cites_id": [
+            "9097986804466953075"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leaf primordia initiation, leaf emergence and tillering in wheat (Triticum aestivum L.) grown under low-phosphorus conditions",
+            "pub_year": "1998",
+            "citation": "Plant and soil 202, 149-157, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 62,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8919766546800056263",
+        "cites_id": [
+            "8919766546800056263"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of north-eastern Australian environments using APSIM for increasing rainfed maize production",
+            "pub_year": "2013",
+            "citation": "Field Crops Research 144, 245-255, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 61,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16942550218024426854",
+        "cites_id": [
+            "16942550218024426854"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatial assessment of the physiological status of wheat crops as affected by water and nitrogen supply using infrared thermal imagery",
+            "pub_year": "2005",
+            "citation": "Australian Journal of Agricultural Research 56 (9), 983-993, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 60,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2849427858286668838",
+        "cites_id": [
+            "2849427858286668838"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of land lease policy on changes in land use, mechanization and agricultural pollution",
+            "pub_year": "2017",
+            "citation": "Land Use Policy 64, 405-413, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:9vf0nzSNQJEC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4565514892178588505",
+        "cites_id": [
+            "4565514892178588505"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LINGRA-CC: a sink\u2013source model to simulate the impact of climate change and management on grassland productivity",
+            "pub_year": "1999",
+            "citation": "The New Phytologist 144 (2), 359-368, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:aqlVkmm33-oC",
+        "num_citations": 57,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13974683199286729903",
+        "cites_id": [
+            "13974683199286729903"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resilience achieved via multiple compensating subsystems: The immediate impacts of COVID-19 control measures on the agri-food systems of Australia and New Zealand",
+            "pub_year": "2021",
+            "citation": "Agricultural Systems 187, 103025, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:JTqpx9DYBaYC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=660017091558260477",
+        "cites_id": [
+            "660017091558260477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Planting date and yield benefits from conservation agriculture practices across Southern Africa",
+            "pub_year": "2017",
+            "citation": "Agricultural Systems 150, 21-33, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:eflP2zaiRacC",
+        "num_citations": 55,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1424688554510744812",
+        "cites_id": [
+            "1424688554510744812"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multi-field bio-economic model of irrigated grain\u2013cotton farming systems",
+            "pub_year": "2011",
+            "citation": "Field Crops Research 124 (2), 171-179, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:5nxA0vEk-isC",
+        "num_citations": 51,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16192271253090135313",
+        "cites_id": [
+            "16192271253090135313"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "To mulch or to munch? Big modelling of big data",
+            "pub_year": "2017",
+            "citation": "Agricultural Systems 153, 32-42, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:HE397vMXCloC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11699356634155480293",
+        "cites_id": [
+            "11699356634155480293"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The best farm-level irrigation strategy changes seasonally with fluctuating water availability",
+            "pub_year": "2012",
+            "citation": "Agricultural water management 103, 33-42, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 48,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18062633925013092816",
+        "cites_id": [
+            "18062633925013092816"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Application, adoption and opportunities for improving decision support systems in irrigated agriculture: A review",
+            "pub_year": "2021",
+            "citation": "Agricultural Water Management 257, 107161, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:LXmCCkuhhTsC",
+        "num_citations": 46,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13322988093387631245",
+        "cites_id": [
+            "13322988093387631245"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Making science more effective for agriculture",
+            "pub_year": "2020",
+            "citation": "Advances in agronomy 163, 153-177, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:EPG8bYD4jVwC",
+        "num_citations": 45,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11487639288869795297",
+        "cites_id": [
+            "11487639288869795297"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of subsoil constraints on wheat yield and gross margin on fine-textured soils of the southern Victorian Mallee",
+            "pub_year": "2006",
+            "citation": "Australian Journal of Agricultural Research 57 (3), 355-365, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17379201529231931464",
+        "cites_id": [
+            "17379201529231931464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulating Guinea grass production: empirical and mechanistic approaches",
+            "pub_year": "2013",
+            "citation": "Agronomy Journal 105 (1), 61-69, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15374300746063524464",
+        "cites_id": [
+            "15374300746063524464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the response of wheat canopy assimilation to atmospheric CO2 concentrations",
+            "pub_year": "2001",
+            "citation": "New Phytologist 150 (2), 337-346, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:_kc_bZDykSQC",
+        "num_citations": 42,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7521021397810494522",
+        "cites_id": [
+            "7521021397810494522"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quality and potential utility of ENSO-based forecasts of spring rainfall and wheat yield in south-eastern Australia",
+            "pub_year": "2008",
+            "citation": "Australian Journal of Agricultural Research 59 (2), 112-126, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 38,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1097114814681043892",
+        "cites_id": [
+            "1097114814681043892"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparing water options for irrigation farmers using Modern Portfolio Theory",
+            "pub_year": "2012",
+            "citation": "Agricultural water management 115, 1-9, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:WF5omc3nYNoC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7129528056338439169",
+        "cites_id": [
+            "7129528056338439169"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In vitro Embryo Production in Llamas (Lama glama) from In vivo Matured Oocytes with Raw Semen Processed with Androcoll\u2010E using Defined Embryo Culture \u2026",
+            "pub_year": "2012",
+            "citation": "Reproduction in domestic animals 47 (4), 562-567, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:w1MjKQ0l0TYC",
+        "num_citations": 36,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2485569962373903323",
+        "cites_id": [
+            "2485569962373903323"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ex-ante analysis of opportunities for the sustainable intensification of maize production in Mozambique",
+            "pub_year": "2016",
+            "citation": "Agricultural Systems 142, 9-22, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:uWQEDVKXjbEC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11051837029827564947",
+        "cites_id": [
+            "11051837029827564947"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Designing sustainable agricultural production systems for a changing world: methods and applications.",
+            "pub_year": "2014",
+            "citation": "Agricultural Systems 126, 1-86, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:RGFaLdJalmkC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14737366969849577056",
+        "cites_id": [
+            "14737366969849577056"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phosphorus deficiency affects the early development of wheat plants",
+            "pub_year": "1994",
+            "citation": "Journal of agronomy and crop science 173 (1), 69-72, 1994"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2818321135890092513",
+        "cites_id": [
+            "2818321135890092513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Agent-based simulation of pricing strategy for agri-products considering customer preference",
+            "pub_year": "2016",
+            "citation": "International Journal of Production Research 54 (13), 3777-3795, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:K3LRdlH-MEoC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5333420076546219168",
+        "cites_id": [
+            "5333420076546219168"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop rotation model for contract farming with constraints on similar profits",
+            "pub_year": "2015",
+            "citation": "Computers and Electronics in Agriculture 119, 12-18, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:dshw04ExmUIC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15696489004715421188",
+        "cites_id": [
+            "15696489004715421188"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Opportunities from integrative approaches in farming systems design",
+            "pub_year": "2011",
+            "citation": "Field Crops Research 2 (124), 137-141, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:roLk4NBRz8UC",
+        "num_citations": 30,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16580822045825617076",
+        "cites_id": [
+            "16580822045825617076"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A bio-economic analysis of the benefits of conservation agriculture: The case of smallholder farmers in Adami Tulu district, Ethiopia",
+            "pub_year": "2015",
+            "citation": "Ecological Economics 120, 164-174, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:OU6Ihb5iCvQC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17222722311361172537",
+        "cites_id": [
+            "17222722311361172537"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "As the level of crop productivity increases: Is there a role for intercropping in smallholder agriculture",
+            "pub_year": "2015",
+            "citation": "Field Crops Research 180, 155-166, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:P5F9QuxV20EC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10746691966245136423",
+        "cites_id": [
+            "10746691966245136423"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "First llama (Lama glama) pregnancy obtained after in vitro fertilization and in vitro culture of gametes from live animals",
+            "pub_year": "2014",
+            "citation": "Animal Reproduction Science 148 (1-2), 83-89, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:raTqNPD5sRQC",
+        "num_citations": 29,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8170758103583709610",
+        "cites_id": [
+            "8170758103583709610"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Key factors that influence for seasonal production of Guinea grass",
+            "pub_year": "2018",
+            "citation": "Scientia Agricola 75, 191-196, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:7wO8s98CvbsC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11962083459939055336",
+        "cites_id": [
+            "11962083459939055336"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Raising productivity of maize-based cropping systems in eastern and southern Africa: step-wise intensification options",
+            "pub_year": "2015",
+            "citation": "Crop physiology, 93-110, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1164351044171363467",
+        "cites_id": [
+            "1164351044171363467"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How farmers, graziers, miners, and gas-industry personnel see their potential for coexistence in rural Queensland",
+            "pub_year": "2014",
+            "citation": "SPE economics & management 6 (03), 122-130, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:ldfaerwXgEUC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14513817346535248415",
+        "cites_id": [
+            "14513817346535248415"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantification of wheat water-use efficiency at the shire-level in Australia",
+            "pub_year": "2009",
+            "citation": "Crop and Pasture Science 61 (1), 1-11, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=442402045432287046",
+        "cites_id": [
+            "442402045432287046"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding the diversity in yield potential and stability among commercial sorghum hybrids can inform crop designs",
+            "pub_year": "2019",
+            "citation": "Field Crops Research 230, 84-97, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:gKiMpY-AVTkC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11322825094387236599",
+        "cites_id": [
+            "11322825094387236599"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tailoring wheat for marginal environments: a crop modelling study",
+            "pub_year": "2002",
+            "citation": "Proceedings of the 12th Australasian plant breeding conference, 457-462, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:-mN3Mh-tlDkC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14376422785574800916",
+        "cites_id": [
+            "14376422785574800916"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Untangling genotype x management interactions in multi-environment on-farm experimentation",
+            "pub_year": "2020",
+            "citation": "Field Crops Research 255, 107900, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:An6A6Jpfc1oC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14789060585988561185",
+        "cites_id": [
+            "14789060585988561185"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Energy from the foodbowl: Associated land-use conflicts, risks and wicked problems",
+            "pub_year": "2016",
+            "citation": "Landscape and Urban Planning 154, 68-80, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:sSrBHYA8nusC",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7081523438905726663",
+        "cites_id": [
+            "7081523438905726663"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "9 Relationship Between Airborne Pollen Counts and the Results Obtained Using 2 Diagnostic Methods: Allergen-Specific Immunoglobulin E Concentrations and Skin Prick Tests",
+            "pub_year": "2011",
+            "citation": "Journal of Investigational Allergology and Clinical Immunology 21 (3), 222, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:RJOyoaXV5v8C",
+        "num_citations": 21,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9509188568913229670",
+        "cites_id": [
+            "9509188568913229670"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Exploring the effect of tillers on the water economy, plant growth and kernel set of low-density maize crops",
+            "pub_year": "2021",
+            "citation": "Agricultural Water Management 243, 106424, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:SGW5VrABaM0C",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=726093305173943376",
+        "cites_id": [
+            "726093305173943376"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation of whole farm management decisions",
+            "pub_year": "2009",
+            "citation": "18th World IMACS Congress and MODSIM 2009-International Congress on \u2026, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:hFOr9nPyWt4C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14087538792717062935",
+        "cites_id": [
+            "14087538792717062935"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Baseline and situation analysis report: integrating crop and livestock production for improved food security and livelihoods in rural Zimbabwe, Socioeconomics Discussion Series \u2026",
+            "pub_year": "2014",
+            "citation": "ICRISAT, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:yD5IFk8b50cC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=330640155530534543",
+        "cites_id": [
+            "330640155530534543"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sorghum",
+            "pub_year": "2021",
+            "citation": "Crop physiology case histories for major crops, 196-221, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:IsPWOBWtZBwC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2889228119584056401",
+        "cites_id": [
+            "2889228119584056401"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatial estimation of wheat yields from Landsat\u2019s visible, near infrared and thermal reflectance bands",
+            "pub_year": "2014",
+            "citation": "Int. J. Remote Sens. Appl 4, 134-143, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:rO6llkc54NcC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5557188710855034724",
+        "cites_id": [
+            "5557188710855034724"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Questionnaire-Authoring Tool to Support Computer Based Training through Distance Evaluation",
+            "pub_year": "2001",
+            "citation": "12\u00aa EAEEIE International Conference on Innovations in Education for \u2026, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:WAzi4Gm8nLoC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8684389668755979642",
+        "cites_id": [
+            "8684389668755979642"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Update on omega-3 polyunsaturated fatty acids on cardiovascular health",
+            "pub_year": "2022",
+            "citation": "Nutrients 14 (23), 5146, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:v6i8RKmR8ToC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17091325755629676283",
+        "cites_id": [
+            "17091325755629676283"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Seasonal climate forecasting has economic value for farmers in south eastern Australia",
+            "pub_year": "2004",
+            "citation": "Proceedings of the 4th International Crop Science Conference 26, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:M05iB0D1s5AC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7460228124138400641",
+        "cites_id": [
+            "7460228124138400641"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adaptation of the APSIM-Wheat module to simulate the growth and production of wheat on hostile soils",
+            "pub_year": "2003",
+            "citation": "Proceedings of the 11th Australian Agronomy Conference\u2019. Geelong, Vic \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:anf4URPfarAC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6589592168385453633",
+        "cites_id": [
+            "6589592168385453633"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Agronomic and on-farm infrastructure adaptations to manage economic risk in Australian irrigated broadacre systems: A case study",
+            "pub_year": "2022",
+            "citation": "Agricultural Water Management 269, 107740, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:CYCckWUYoCcC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15599010232083463433",
+        "cites_id": [
+            "15599010232083463433"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling dryland agricultural systems",
+            "pub_year": "2016",
+            "citation": "Innovations in dryland agriculture, 239-256, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:wbdj-CoPYUoC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2302528135806494055",
+        "cites_id": [
+            "2302528135806494055"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Two new species of frogs of the genus Phrynopus (Anura: Terrarana: Craugastoridae) from the Peruvian Andes",
+            "pub_year": "2015",
+            "citation": "Amphibian and Reptile Conservation 9 (1), 15-25, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:kzcSZmkxUKAC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12611435362254470627",
+        "cites_id": [
+            "12611435362254470627"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Burying the inverted surface dipole: Self-assembled monolayers derived from alkyl-terminated partially fluorinated alkanethiols",
+            "pub_year": "2019",
+            "citation": "Chemistry of Materials 32 (3), 953-968, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:HGTzPopzzJcC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10813912358739965700",
+        "cites_id": [
+            "10813912358739965700"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic and functional monitoring technologies for applications in crop management.",
+            "pub_year": "2009",
+            "citation": "Elsevier Academic Press, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7042675092468733133",
+        "cites_id": [
+            "7042675092468733133"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparing the water use efficiency of tropical pasture grasses and legumes used in Queensland\u2019s mixed farming systems",
+            "pub_year": "2008",
+            "citation": "Proc. 14th Agron. Conf. Global Issues\u2014Paddock Action, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17323879250611372353",
+        "cites_id": [
+            "17323879250611372353"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Measuring the livelihood impact of farmer-to-farmer extension services in the Andes",
+            "pub_year": "2002",
+            "citation": "Intermediate Technology Development Group. Bourton Hall, Bourton-on-Dunsmore \u2026, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:jU7OWUQzBzMC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6378897471676109755",
+        "cites_id": [
+            "6378897471676109755"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efectos del entrenamiento vibratorio en personas f\u00edsicamente activas: revisi\u00f3n sistem\u00e1tica",
+            "pub_year": "2011",
+            "citation": "Revista Internacional de Medicina y Ciencias de la Actividad F\u00edsica y del \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:a3BOlSfXSfwC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13578434409281642974",
+        "cites_id": [
+            "13578434409281642974"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal predictions of nitrogen status in wheat under the influence of water deficiency using spectral and thermal information",
+            "pub_year": "2005",
+            "citation": "Proceedings of the Fifth European Conference on Precision Agriculture, 209-215, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3228611927610527613",
+        "cites_id": [
+            "3228611927610527613"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D characterization of crop water use and the rooting system in field agronomic research",
+            "pub_year": "2022",
+            "citation": "Computers and Electronics in Agriculture 202, 107409, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:g5Ck-dwhA_QC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5170226469420193413",
+        "cites_id": [
+            "5170226469420193413"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Rol del sistema sensoriomotor en la estabilidad articular durante las actividades deportivas",
+            "pub_year": "2013",
+            "citation": "Apunts. Medicina de l'Esport 48 (178), 69-76, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:HeT0ZceujKMC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11477320805635989590",
+        "cites_id": [
+            "11477320805635989590"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The sustainable intensification of maize-legume farming systems in eastern and southern Africa (SIMLESA) program",
+            "pub_year": "2011",
+            "citation": "Proceedings of the 5th World Congress on Conservation Agriculture, Brisbane \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:GnPB-g6toBAC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13782122328049503841",
+        "cites_id": [
+            "13782122328049503841"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of APSIM to simulate maize-bean cropping systems in eastern and southern Africa: an alternative approach",
+            "pub_year": "2011",
+            "citation": "5th World Congress on Conservation Agriculture and Farming Systems Design \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:TFP_iSt0sucC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1680298825356762862",
+        "cites_id": [
+            "1680298825356762862"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Memory architecture having multiple partial wordline drivers and contacted and feed-through bitlines",
+            "pub_year": "2010",
+            "citation": "US Patent 7,697,364, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:p2g8aNsByqUC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2125981922767420957",
+        "cites_id": [
+            "2125981922767420957"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "APSFARM: a whole farm systems analysis of economic and environmental indicators of contrasting farm business strategies in Central Queensland",
+            "pub_year": "2006",
+            "citation": "Proceedings 13th of the Australian agronomy conference, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:BzfGm06jWhQC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2760220032553887743",
+        "cites_id": [
+            "2760220032553887743"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding growth limitation in wheat and sunflower under low phosphorus conditions",
+            "pub_year": "1998",
+            "citation": "Rodriguez, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4507637289488923295",
+        "cites_id": [
+            "4507637289488923295"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding household diversity in rural eastern and southern Africa",
+            "pub_year": "2019",
+            "citation": "Australian Centre for International Agricultural Research, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:ubry08Y2EpUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8718331408493701421",
+        "cites_id": [
+            "8718331408493701421"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop and livestock production for improved food security and livelihoods in rural Zimbabwe",
+            "pub_year": "2014",
+            "citation": "Hyderabad, India: International Crops Research Institute for the Semi-Arid \u2026, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Ade32sEp0pkC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10791911170669710608",
+        "cites_id": [
+            "10791911170669710608"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conservation agriculture in dryland agro-ecosystems of Ethiopia",
+            "pub_year": "2011",
+            "citation": "Proceedings of the 5th World Congress on Conservation Agriculture and \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:hC7cP41nSMkC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10106332636146462071",
+        "cites_id": [
+            "10106332636146462071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intercropping maize and mungbean to intensify summer cropping systems in Queensland, Australia",
+            "pub_year": "2011",
+            "citation": "Australian Centre for International Agricultural Research, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:0EnyYjriUFMC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13556615970067658602",
+        "cites_id": [
+            "13556615970067658602"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shire scale impacts and adaptation options for Australian cereal crops affected by climate change",
+            "pub_year": "2008",
+            "citation": "14th Australian Agronomy Conference, Adelaide, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:lSLTfruPkqcC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9240755577865456818",
+        "cites_id": [
+            "9240755577865456818"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The new Kamayoq: Developing farmer to farmer extension services in Peru",
+            "pub_year": "2005",
+            "citation": "Rugby, UK, and Peru: Practical Action (formerly ITDG), 2005"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:UuEBAcK4md4C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7329239704619713565",
+        "cites_id": [
+            "7329239704619713565"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spatial pattern of the effect of soil salinity on crop physiological parameters, soil water content and yield of wheat",
+            "pub_year": "2004",
+            "citation": "3rd Australian New Zealand Soils Conference, 5-9, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:1qzjygNMrQYC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8780898914137070398",
+        "cites_id": [
+            "8780898914137070398"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interactive effects of drought and N stress on wheat and canola growth",
+            "pub_year": "2003",
+            "citation": "Proceedings of the 11th Australian Agronomy Conference'. Geelong, Victoria \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:FiytvqdAVhgC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13256000844657691797",
+        "cites_id": [
+            "13256000844657691797"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introducing LMML into the development of didactic resources on IEE",
+            "pub_year": "2001",
+            "citation": "12th Annual Conference of the EAEEIE, York (Inglaterra), 2001"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:ziOE8S1-AIUC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6803673839089151884",
+        "cites_id": [
+            "6803673839089151884"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Readsorption of phosphate by soil during acid and alkaline extractions",
+            "pub_year": "1993",
+            "citation": "Communications in soil science and plant analysis 24 (1-2), 133-147, 1993"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:olpn-zPbct0C",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7181157815279864955",
+        "cites_id": [
+            "7181157815279864955"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimising use of limited irrigation water on grain crops-getting the biggest bang per megalitre",
+            "pub_year": "2020",
+            "citation": "Grains Research Update Toowoomba 2020: Driving Profit Through Research, 77-89, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:2l5NCbZemmgC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=819630078600500223",
+        "cites_id": [
+            "819630078600500223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Physical and Social Systems Resilience Assessment and Optimization",
+            "pub_year": "2018",
+            "citation": "University of South Florida, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:wKETBy42zhYC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2512436246539275857",
+        "cites_id": [
+            "2512436246539275857"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Benefits to Australian farmers from the ACIAR funded program Sustainable Intensification of Maize-Legume Cropping Systems for Food Security in Eastern and Southern Africa \u2026",
+            "pub_year": "2017",
+            "citation": "ACIAR, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:86PQX7AUzd4C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14674021278332757726",
+        "cites_id": [
+            "14674021278332757726"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Additive impacts of climate-smart agriculture practices in mixed crop-livestock systems in Burkina Faso",
+            "pub_year": "2015",
+            "citation": "Climate Smart Agriculture 2015, np, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:KxtntwgDAa4C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9934085874367244153",
+        "cites_id": [
+            "9934085874367244153"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of soil nutrient levels in smallholder farms in Eastern Kenya",
+            "pub_year": "2011",
+            "citation": "5 th World Congress on Conservation Agriculture, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:isC4tDSrTZIC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12835036891424602095",
+        "cites_id": [
+            "12835036891424602095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adapting to change: more realistic quantification of impacts and better informed adaptation alternatives",
+            "pub_year": "2011",
+            "citation": "5th World Congress of Conservation Agriculture Incorporating 3rd Farming \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11156774661926061880",
+        "cites_id": [
+            "11156774661926061880"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mejorando los productos l\u00e1cteos y su acceso al mercado",
+            "pub_year": "2004",
+            "citation": "Revista de agroecolog\u00eda. Manejando la poscosecha. LEISA20 (3), 11-13, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:XUvXOeBm_78C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11283165726093427591",
+        "cites_id": [
+            "11283165726093427591"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolution of conservation agriculture in summer rainfall areas",
+            "pub_year": "2020",
+            "citation": "Australian Agriculture in, 65-80, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:CdxZDUztZiMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17561109385426429990",
+        "cites_id": [
+            "17561109385426429990"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Designing price-contingent vegetable rotation schedules using agent-based simulation",
+            "pub_year": "2018",
+            "citation": "Journal of integrative agriculture 17 (2), 461-472, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:hkOj_22Ku90C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14574403001776979330",
+        "cites_id": [
+            "14574403001776979330"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the distribution and general abundance of non-native species associated with the Ebro river (Castej\u00f3n, Navarra, NE Spain)",
+            "pub_year": "2017",
+            "citation": "Russian Journal of Biological Invasions 8 (2), 189-196, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:0aBXIfxlw9sC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5339849250773531827",
+        "cites_id": [
+            "5339849250773531827"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Climate risk management in maize cropping systems",
+            "pub_year": "2017",
+            "citation": "Achieving Sustainable Cultivation of Maize-Volume 2: Cultivation Techniques \u2026, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:1yQoGdGgb4wC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11740910205615023402",
+        "cites_id": [
+            "11740910205615023402"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Maize yield determination in the Northern Region: Hybrid by environment by management interactions",
+            "pub_year": "2015",
+            "citation": "Australian Society of Agronomy, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18018966485035350235",
+        "cites_id": [
+            "18018966485035350235"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A refuge for people and biodiversity: The case of Manu National Park, South-East Peru",
+            "pub_year": "2014",
+            "citation": "World heritage sites and indigenous people\u2019s rights, 459-526, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:-nhnvRiOwuoC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14550712880049324013",
+        "cites_id": [
+            "14550712880049324013"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Seeing is believing I: The use of thermal sensing from satellite imagery to predict crop yield",
+            "pub_year": "2014",
+            "citation": "IOP Conference Series: Earth and Environmental Science 18 (1), 012118, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:TQgYirikUcIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=852610775312463426",
+        "cites_id": [
+            "852610775312463426"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How farmers, graziers, miners, and gas industry personnel see their potential for co-existence in rural Queensland",
+            "pub_year": "2013",
+            "citation": "SPE Unconventional Resources Conference and Exhibition-Asia Pacific, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:PkcyUWeTMh0C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10344240556202202682",
+        "cites_id": [
+            "10344240556202202682"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustainable farmer-to-farmer extension",
+            "pub_year": "2004",
+            "citation": "Appropriate Technology 31 (1), 12, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:7H_MAutzIkAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=844709464365960960",
+        "cites_id": [
+            "844709464365960960"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Background study into greenhouse gas emissions from the grains industry (DAV478)",
+            "pub_year": "2003",
+            "citation": "Grains Research and Development Corporation: Canberra, ACT). Available at \u2026, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:QyXJ3EUuO1IC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15771506069150383196",
+        "cites_id": [
+            "15771506069150383196"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of oily waste organics as amendment to soils",
+            "pub_year": "1995",
+            "citation": "Battelle Press, Columbus, OH (United States), 1995"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12906275110395162105",
+        "cites_id": [
+            "12906275110395162105"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Winter sown sorghum cropping systems",
+            "pub_year": "2019",
+            "citation": "Proceedings of the 2019 Agronomy Australia Conference. Wagga Wagga \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:-7ulzOJl1JYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9700193850602165547",
+        "cites_id": [
+            "9700193850602165547"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "F\u00f3sforo desorbido del suelo y retenido por \u00f3xido de hierro (Pi) II. Disponibilidad de f\u00f3sforo para el crecimiento del trigo evaluado por Pi, Olsen y Bray 1",
+            "pub_year": "2017",
+            "citation": "Revista de la Facultad de Agronom\u00eda, La Plata 71 (1), 139-141, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Y5dfb0dijaUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12155002345197748820",
+        "cites_id": [
+            "12155002345197748820"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Intercropping in sustainable maize cultivation",
+            "pub_year": "2017",
+            "citation": "Achieving Sustainable Cultivation of Maize 2, 203\u00c0225, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:LgRImbQfgY4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3526823491293792402",
+        "cites_id": [
+            "3526823491293792402"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From information to actionable knowledge: hotspots of food insecurity in Eastern Africa",
+            "pub_year": "2013",
+            "citation": "Office for Official Publications of the European Union, European Commission, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:4X0JR2_MtJMC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15045504725672438341",
+        "cites_id": [
+            "15045504725672438341"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustainable intensification of maize-bean production among smallholder farmers in western Kenya",
+            "pub_year": "2011",
+            "citation": "Proceedings of the 5th World Congress on Conservation Agriculture, Brisbane \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:JV2RwH3_ST0C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3452602833570455510",
+        "cites_id": [
+            "3452602833570455510"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustainable intensification of maize-bean production among smallholder farmers in western Kenya. World Congress on Conservation Agriculture, 5th; and Farming Systems Design \u2026",
+            "pub_year": "2011",
+            "citation": "^ TWorld Congress on Conservation Agriculture, 5th; and Farming Systems \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:7Hz3ACDFbsoC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5702411958335358317",
+        "cites_id": [
+            "5702411958335358317"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Capacity for broadacre mixed farmers to adapt to climate change in Queensland",
+            "pub_year": "2011",
+            "citation": "World Congress on Conservation Agriculture, 1-4, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:UebtZRa9Y70C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13166317852873523073",
+        "cites_id": [
+            "13166317852873523073"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Producci\u00f3n in vitro de embriones de llamas",
+            "pub_year": "2010",
+            "citation": "Segundas Jornadas del Instituto de Investigaci\u00f3n y Tecnolog\u00eda en \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:5bg8sr1QxYwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16355934785273323163",
+        "cites_id": [
+            "16355934785273323163"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Daniel Rodr\u00edguez",
+            "pub_year": "2009",
+            "citation": "Minot State University, Division of Music, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:yxmsSjX2EkcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14756702993975407787",
+        "cites_id": [
+            "14756702993975407787"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Crop and whole-farm tools for analysis of profit, risk and environmental impact",
+            "pub_year": "2008",
+            "citation": "Proceedings of the 14th Australian Agronomy Conference, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:sszUF3NjhM4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8129946637622673273",
+        "cites_id": [
+            "8129946637622673273"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using the farm-scale system model APSFarm to improve profitability of irrigation cropping enterprises.",
+            "pub_year": "2008",
+            "citation": "This volume, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:35N4QoGY0k4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18100883743817790095",
+        "cites_id": [
+            "18100883743817790095"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The kamayoq in Peru: combining farmer-to-farmer extension and farmer experimentation",
+            "pub_year": "2005",
+            "citation": "J. Gonsalves, T. Becker, A. Braun, D. Campilan, Hidelisa De Chavez, E \u2026, 2005"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:3bvyWxjaHKcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10680696642898323426",
+        "cites_id": [
+            "10680696642898323426"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling the response of wheat canopy assimilation to CO2 using models of different level of empiricism",
+            "pub_year": "2001",
+            "citation": "New Phytol 150 (2), 337-346, 2001"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:4TOpqqG69KYC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5046645830179396027",
+        "cites_id": [
+            "5046645830179396027"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustainable intensification practices reduce food deficit for the best-and worst-off households in Ethiopia and Mozambique",
+            "pub_year": "2022",
+            "citation": "Frontiers in Sustainable Food Systems 5, 649218, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:QsaTk4IG4EwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15278330875471298511",
+        "cites_id": [
+            "15278330875471298511"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Allogeneic Cell Combination Therapy Ameliorates Chronic Kidney Disease-Induced Heart Failure with Preserved Ejection Fraction",
+            "pub_year": "2022",
+            "citation": "Stem cells translational medicine 11 (1), 59-72, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:zdjWy_NXXwUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14542641598238387486",
+        "cites_id": [
+            "14542641598238387486"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transformational agronomy by growing summer crops in winter: Crop establishment in cold soils",
+            "pub_year": "2022",
+            "citation": "Proceedings of the 20th Agronomy Australia Conference, 2022, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:2v_ZtQDX9iAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=83371271887594873",
+        "cites_id": [
+            "83371271887594873"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transformational agronomy by growing summer crops in winter: The cropping system and farm profits",
+            "pub_year": "2022",
+            "citation": "Proceedings of the 20th Agronomy Australia Conference, 2022, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:DyXnQzXoVgIC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1888971215894717929",
+        "cites_id": [
+            "1888971215894717929"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INCREASING VOLUNTARY WORKING ENTHUSIASM AMONG POORLY RESOURCED FARMERS BY PROMOTING LABOR AND MARKET EFFICIENCY.",
+            "pub_year": "2020",
+            "citation": "Economic Computation & Economic Cybernetics Studies & Research 54 (1), 2020"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:HhcuHIWmDEUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16931304167218870838",
+        "cites_id": [
+            "16931304167218870838"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sorghum (Sorghum bicolour L.) Germination Dynamics at Extreme Temperatures",
+            "pub_year": "2020",
+            "citation": "Multidisciplinary Digital Publishing Institute Proceedings 36 (1), 40, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:-jrNzM816MMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8467671458599179189",
+        "cites_id": [
+            "8467671458599179189"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learnings from managing high climate variability: The Australian experience",
+            "pub_year": "2019",
+            "citation": "Proceedings of OECD Conference on Risk Valuation and Risk Management in the \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:RoXSNcbkSzsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15541640791356694743",
+        "cites_id": [
+            "15541640791356694743"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A systems agronomy for sorghum in the Northern Grains Region",
+            "pub_year": "2019",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:6_hjMsCP8ZoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9325156511935541264",
+        "cites_id": [
+            "9325156511935541264"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Energy resources from the food bowl: an uneasy co-existence. Identifying and managing cumulative impacts of mining and agriculture",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Ak0FvsSvgGUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16682395739685749196",
+        "cites_id": [
+            "16682395739685749196"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Emission characteristics of a liquid spray sudden expansion combustor using computational fluid dynamics",
+            "pub_year": "2013",
+            "citation": "Florida Atlantic University, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9646045925845163346",
+        "cites_id": [
+            "9646045925845163346"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developing climate change resilient cropping and mixed cropping/grazing businesses in Australia",
+            "pub_year": "2013",
+            "citation": "Queensland Alliance for Agriculture and Food Innovation, The University of \u2026, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:dhFuZR0502QC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8882372697920349546",
+        "cites_id": [
+            "8882372697920349546"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling adaptation options for a Western Queensland mixed grain and graze farm\u2013evaluating enterprise options under climate change",
+            "pub_year": "2011",
+            "citation": "5 th World Congress on Conservation Agriculture, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Se3iqnhoufwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4540782649864099300",
+        "cites_id": [
+            "4540782649864099300"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using Modern Portfolio Theory to compare options for irrigation farmers to invest water",
+            "pub_year": "2011",
+            "citation": "Living with Less Water: Development of viable adaptation options for \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:ufrVoPGSRksC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4453443882739154428",
+        "cites_id": [
+            "4453443882739154428"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of fodder flow systems practiced by small scale dairy farmers on milk production and economic viability in Marirangwe smallholder dairy scheme of Zimbabwe",
+            "pub_year": "2010",
+            "citation": "Second RUFORUM Biennial Regional Conference on\" Building capacity for food \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:sA9dB-pw3HoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13564771732773052955",
+        "cites_id": [
+            "13564771732773052955"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulador din\u00e1mico de reactores flujo tap\u00f3n",
+            "pub_year": "2009",
+            "citation": "Revista Investigaciones Aplicadas, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:YsrPvlHIBpEC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7610801403595049769",
+        "cites_id": [
+            "7610801403595049769"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A national benchmark for the Australian wheat industry: accounting for overlooked climate drivers",
+            "pub_year": "2008",
+            "citation": "Proceedings of the 14th Australian Agronomy Conference, 21-25, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:_xSYboBqXhAC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3329140178838220302",
+        "cites_id": [
+            "3329140178838220302"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Tools to manage climate risk in cropping (Australia)",
+            "pub_year": "2008",
+            "citation": "Empowerment of the Rural Actors: A Renewal of Farming Systems Perspectives \u2026, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15928465838749801634",
+        "cites_id": [
+            "15928465838749801634"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "1313",
+            "pub_year": "2006",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:abG-DnoFyZgC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2576717166944164215",
+        "cites_id": [
+            "2576717166944164215"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding leaf area expansion in sunflower and wheat grown under low-phosphorus conditions",
+            "pub_year": "1998",
+            "citation": "Phosphorus in plant biology, regulatory roles in molecular, cellular \u2026, 1998"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:maZDTaKrznsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3972557683644987701",
+        "cites_id": [
+            "3972557683644987701"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A framework for the assessment of farm diversification options in broadacre agriculture",
+            "pub_year": "2023",
+            "citation": "Agricultural Systems 210, 103724, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:isU91gLudPYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimising farm scale returns from irrigated grains: maximising dollar return per megalitre of water",
+            "pub_year": "2023",
+            "citation": "University Of Tasmania, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Hck25ST_3aIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improving irrigated crop profitability March 2023",
+            "pub_year": "2023",
+            "citation": "University Of Tasmania, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:1tZ8xJnm2c8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Desarrollo de las habilidades motrices b\u00e1sicas manipulativas de lanzar y atrapar en ni\u00f1os y ni\u00f1as con s\u00edndrome de Down por medio de actividades circenses en la clase de \u2026",
+            "pub_year": "2022",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:27LrP4qxOz0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimising sorghum agronomy in northern NSW and southern Queensland",
+            "pub_year": "2022",
+            "citation": "GRAINS RESEARCH UPDATE, 37, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:hSRAE-fF4OAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predictive models incorporating environmental covariates for genotype\u00d7 environment\u00d7 management (G\u00d7 E\u00d7 M) interactions applied to sorghum agronomy trials",
+            "pub_year": "2022",
+            "citation": "Proceedings of the 20th Agronomy Australia Conference, 2022, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:UmS_249rOGwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "WaterCan Profit: more profit per megalitre of irrigation: Recent progress: an overview",
+            "pub_year": "2021",
+            "citation": "University Of Tasmania, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:ghEM2AJqZyQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Irrigated Cropping Council Minutes: Optimising Irrigated Grains Meeting, 11 June 2021",
+            "pub_year": "2021",
+            "citation": "University Of Tasmania, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:k_7cPK9k7w8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GRDC irrigation project Economics Team (WaterCan Profit) Engagement Plan 2021/22",
+            "pub_year": "2021",
+            "citation": "University Of Tasmania, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:65Yg0jNCQDAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Combination of Allogeneic Mesenchymal and Kidney Stem Cells Ameliorates Chronic Kidney Disease Induced Heart Failure With Preserved Ejection Fraction",
+            "pub_year": "2020",
+            "citation": "Circulation research 127 (Suppl_1), A471-A471, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:YlPif8NxrbYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The sustainable intensification of farming systems. A review of cross-disciplinary research methods.",
+            "pub_year": "2020",
+            "citation": "CABI Reviews, 1-18, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:TlpoogIpr_IC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Technology Package for Sustainable Productivity and Resiliency to Climate Variability: The Proof from SIMLESA Studies in Tanzania",
+            "pub_year": "2020",
+            "citation": "Multidisciplinary Digital Publishing Institute Proceedings 36 (1), 168, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:FiDNX6EVdGUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From Fields to Farms: Informing the Trade-Offs Across the Multiple Functions of Agriculture",
+            "pub_year": "2020",
+            "citation": "Multidisciplinary Digital Publishing Institute Proceedings 36 (1), 65, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:1DsIQWDZLl8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dryland and irrigated winter-sown sorghum",
+            "pub_year": "2019",
+            "citation": "GRAINS RESEARCH UPDATE, 11, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:WC9gN4BGCRcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drivers of Phosphorus Efficiency in Tropical and Subtropical Cropping Systems",
+            "pub_year": "2019",
+            "citation": "Multidisciplinary Digital Publishing Institute Proceedings 36 (1), 13, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:OBSaB-F7qqsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resilience in eastern and southern Africa\u2019s farming systems",
+            "pub_year": "2018",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:w0F2JDEymm0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustainable intensification of maize-legume cropping systems for food security in Eastern and Southern Africa: markets, institutions, policy-gaps for NCE+ SF",
+            "pub_year": "2018",
+            "citation": "ACIAR, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:4vMrXwiscB8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Testing and adapting productive, resilient and scalable CA cropping systems in ESA",
+            "pub_year": "2018",
+            "citation": "ACIAR, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:HIFyuExEbWQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustainable intensification in variable climates",
+            "pub_year": "2018",
+            "citation": "ACIAR, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:dBIO0h50nwkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sum frequency generation spectroscopy of terminally fluorinated self-assembled monolayers on UPD silver and bare gold substrates",
+            "pub_year": "2017",
+            "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 254, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:wMgC3FpKEyYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reversing the odd-even effects in self-assembled monolayers using UPD silver",
+            "pub_year": "2017",
+            "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 254, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:QD3KBmkZPeQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genotypic differences in transpiration efficiency in sorghum mainly linked to variation in transpiration rate",
+            "pub_year": "2017",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Br1UauaknNIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Diversity in yield potential and yield stability among Australian commercial sorghum hybrids",
+            "pub_year": "2017",
+            "citation": "TropAg2017, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:artPoR2Yc-kC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Explaining differences between sorghum fields: Do we need to reconsider extension topics?",
+            "pub_year": "2017",
+            "citation": "\" Doing More with Less\", Proceedings of the 18th Australian Agronomy \u2026, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:yqoGN6RLRZoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding the importance of matching sorghum hybrids and agronomy to site and seasonal conditions",
+            "pub_year": "2017",
+            "citation": "\" Doing More with Less\", Proceedings of the 18th Australian Agronomy \u2026, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:yFnVuubrUp4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Enhancing smallholder agriculture productivity, resilience and sustainability: evidences from SIMLESA 2010-2018",
+            "pub_year": "2017",
+            "citation": "CIMMYT, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Promoting gender and youth inclusiveness through AIPs: voices from SIMLESA",
+            "pub_year": "2017",
+            "citation": "ACIAR, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:0N-VGjzr574C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Framework for Studying the Drivers of Grazing Systems Intensification in the Tropics",
+            "pub_year": "2016",
+            "citation": "10th International Rangeland Congress, 518, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:WqliGbK-hY8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Trial results-Tactical agronomy for sorghum and maize and agronomy for high yielding sorghum and wheat in the northern region",
+            "pub_year": "2016",
+            "citation": "The University of Queensland, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:3NQIlFlcGxIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interactions between the water and nitrogen economies of crops: Physiological, agronomic, economic, breeding and modelling perspectives",
+            "pub_year": "2016",
+            "citation": "Crop and Pasture Science 67 (10), 1019-1053, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:AHdEip9mkN0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Matching sorghum genotypes and management across growing environments and expected seasonal conditions",
+            "pub_year": "2016",
+            "citation": "7th International Crop Science Congress, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:9c2xU6iGI7YC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Updating the crop simulation model APSIM to predict yields of more specifically-adapted sorghum hybrids",
+            "pub_year": "2016",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:IUKN3-7HHlwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conservation agriculture increases climate resilience for staple food crops",
+            "pub_year": "2016",
+            "citation": "QAAFI, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:DUooU5lO8OsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "INCIDENTAL BILIOPANCREATIC TWISTED LIMB DURING LAPAROSCOPIC BYPASS",
+            "pub_year": "2015",
+            "citation": "OBESITY SURGERY 25, S280-S280, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:eGYfIraVYiQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing potential climate change impacts in smallholder systems in Burkina Faso",
+            "pub_year": "2015",
+            "citation": "Climate Smart Agriculture 2015, np, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Developing drought-adapted sorghum germplasm for Africa and Australia: Stay-green trait beneficial in tall and short backgrounds",
+            "pub_year": "2015",
+            "citation": "The University of Queensland, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:LPtt_HFRSbwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessing potential climate change impacts in smallholder systems in Burkina Faso",
+            "pub_year": "2015",
+            "citation": "2015; Climate Smart Agriculture 2015, Montpellier, FRA, 2015-03-16-2015-03-18,, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:LjlpjdlvIbIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Adapting rain-fed sorghum agronomy to breeding progress\u2013Cropping system model parameterisation",
+            "pub_year": "2015",
+            "citation": "Building Productive, Diverse and Sustainable Landscapes, 17th Australian \u2026, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:D_sINldO8mEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High yielding wheat in the northern region: impact of nitrogen fertilisation on grain yield and quality in modern cultivars",
+            "pub_year": "2015",
+            "citation": "Australian Society of Agronomy, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gerhard S. Mundinger, MD; Eduardo D. Rodriguez, MD, DDS and Paul N. Manson, MD",
+            "pub_year": "2014",
+            "citation": "Handbook Of Craniomaxillofacial Surgery, 247, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:mWEH9CqjF64C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Best-fit residue allocation: A gate for legume intensification in nitrogen constrained cropping systems of Central Mozambique",
+            "pub_year": "2014",
+            "citation": "IACCA, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:F1b5ZUV5XREC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards resilient and profitable family farming systems in Central Mozambique",
+            "pub_year": "2014",
+            "citation": "RUFORUM Fourth Biennial Conference, Maputo, Mozambique, 19-25 July 2014, 159-163, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:dTyEYWd-f8wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How Farmers, Graziers, Miners, and Gas Industry Personnel See their Potential for Co-existence in Rural Queensland",
+            "pub_year": "2013",
+            "citation": "SPE Unconventional Resources Conference and Exhibition-Asia Pacific, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:BJbdYPG6LGMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Integrating crops and livestock for improved food security and livelihoods in rural Zimbabwe (ZimCLIFS)",
+            "pub_year": "2013",
+            "citation": "International Livestock Research Institute, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:u_35RYKgDlwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal Population Dynamics of Stored Maize Insect Pests and Efficacy of Safer Grain Protectants in the Smallholder Sector of Zimbabwe",
+            "pub_year": "2013",
+            "citation": "University of Zimbabwe, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Xz60mAmATU4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Proceedings American Society Horticultural Science, Alexandria, v. 74, p. 430\u2013445, 1959.",
+            "pub_year": "2013",
+            "citation": "Journal, Madison 105 (1), 61-69, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:jSAVyFp_754C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Beyond science and engineering: Tackling socio-environmental issues in the resources industry.",
+            "pub_year": "2013",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Bg7qf7VwUHIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A. Potgieter, H. Meinke, A. Doherty, VO Sadras, G. Hammer, S. Crimp &",
+            "pub_year": "2013",
+            "citation": "Climatic Change 117, 163-179, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:70eg2SAEIzsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Can changes in the cropping/livestock mix, moisture seeking planting and fallow length mitigate the impacts of climate change in Queensland?",
+            "pub_year": "2012",
+            "citation": "Capturing opportunities and overcoming obstacles in Australian agronomy \u2026, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The use of field crop knowledge in integrative inter-scale systems approaches: the plant, the field and the property.",
+            "pub_year": "2011",
+            "citation": "Field Crops Research 124 (2), 137-194, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:qe6vwMD2xtsC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Initial results on the response of maize and pigeonpeas to conservation agriculture at Karatu-Tanzania",
+            "pub_year": "2011",
+            "citation": "Australian Centre for International Agricultural Research, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:sJsF-0ZLhtgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Breeding better maize germplasm for drier and hotter production environments",
+            "pub_year": "2011",
+            "citation": "5 th World Congress on Conservation Agriculture, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:2tRrZ1ZAMYUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characterization of soil nutrient levels in smallholder farms in Eastern Kenya. World Congress on Conservation Agriculture, 5; and Farming Systems Design Conference, 3 \u2026",
+            "pub_year": "2011",
+            "citation": "^ TWorld Congress on Conservation Agriculture, 5; and Farming Systems Design \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:JoZmwDi-zQgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sustainable maize-legume systems: experiences and lessons from SIMLESA to Asia. Addressing Climate Change Effects and Meeting Maize Demand for Asia; Asian Maize Conference, 11 \u2026",
+            "pub_year": "2011",
+            "citation": "^ TAddressing Climate Change Effects and Meeting Maize Demand for Asia \u2026, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:PELIpwtuRlgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estrategias para el Desarrollo del Juicio Moral de Ni\u00f1os entre Cinco y Seis A\u00f1os a la Exposici\u00f3n Sostenida de Dilemas Morales en Cuentos: un Estudio Comparativo-Edici\u00f3n \u00danica",
+            "pub_year": "2010",
+            "citation": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:1lhNe0rCu4AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supporting change in farming systems research",
+            "pub_year": "2010",
+            "citation": "Proceedings of \u2018Agro2010 the XIth ESA Congress\u2019, Montpellier, France, 29 \u2026, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:4JMBOYKVnBMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Simulation of whole farm management decisions",
+            "pub_year": "2009",
+            "citation": "Modelling and Simulation Society of Australia and New Zealand Inc.(MSSANZ), 2009"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:SIv7DqKytYAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Remote Sensing for Canopy-level Nitrogen and Water Status Detection in Rainfed Wheat.",
+            "pub_year": "2007",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Healthy Choice-Montgomery County, Maryland, is forging links between planning and public health. Daniel Rodriguez and colleagues chart the country's progress. Natalie \u2026",
+            "pub_year": "2007",
+            "citation": "Planning 73 (3), 4, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:69ZgNCALVd0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Advances and challenges in the spatial detection of nitrogen and water stress in wheat",
+            "pub_year": "2006",
+            "citation": "\" Groundbreaking Stuff\", Proceedings of the 13th Australian Agronomy \u2026, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Idiopathic transdural spinal cord herniation: a case report and review of the literature; Herniacion transdural idiopatica de la medula espainal. A proposito de un caso y \u2026",
+            "pub_year": "2000",
+            "citation": "Radiologia (Madrid) 42, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Ri6SYOTghG4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Herniaci\u00f3n transdural idiop\u00e1tica de la m\u00e9dula espinal. A prop\u00f3sito de un caso y revisi\u00f3n de la bibliograf\u00eda",
+            "pub_year": "2000",
+            "citation": "Radiolog\u00eda (Madr., Ed. impr.), 365-367, 2000"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:wvYxNZNCP7wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phosphorus deficiency reduces radiation use efficiency in wheat plants.",
+            "pub_year": "1996",
+            "citation": "Book of Abstracts 4th Congr. European Society for Agronomy, Veldhoven, The \u2026, 1996"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:pyW8ca7W8N0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Uso de residuos org\u00e1nicos de petr\u00f3leo como enmienda en suelos de Tierra del Fuego",
+            "pub_year": "1995",
+            "citation": "Gerenc. ambient., 444-6, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Xl6nMSl579sC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "F\u00f3sforo desorbido del suelo y retenido por \u00f3xido de hierro (Pi) II",
+            "pub_year": "1995",
+            "citation": "Revista de la Facultad de Agronom\u00eda 71, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:zGdJYJv2LkUC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fosforo desorbido del suelo y retenido por oxido de hierro (Pi). Disponibilidad de fosforo para el crecimiento del trigo por Pi, Olsen y Bray 1",
+            "pub_year": "1995",
+            "citation": "Revista de la Facultad de Agronomia-UNLP (Argentina), 1995"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:t6usbXjVLHcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[Trees and men.-Our indigenous forestry [Peru]].[Spanish]",
+            "pub_year": "1990",
+            "citation": "Medio Ambiente, 1990"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:MAUkC_7iAq8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "[Trees and men.-Our indigenous forestry [Peru]]",
+            "pub_year": "1990",
+            "citation": "Medio Ambiente (Peru), 1990"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:jE2MZjpN3IcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Homocystinurie:(\u00e0 propos de deux cas): revue de la litt\u00e9rature: donn\u00e9es r\u00e9centes: Daniel Rodriguez",
+            "pub_year": "1978",
+            "citation": "\u00c9diteur inconnu, 1978"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:rTD5ala9j4wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GIS mapping of invasive plants in the surroundings of the river Ebro as it passes through Castej\u00f3n (Navarra, Spain)",
+            "citation": "NEOBIOTA 2012, 147, 0"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:eAlLMO4JVmQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Syntopy between two non-native terrapin species and native terrapins populations in the Ebro river (Castej\u00f3n de Ebro, Navarra)",
+            "citation": "NEOBIOTA 2012, 224, 0"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:2ywjKiB__4kC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "An Integrative Framework for the Assessment of Diversification Options in Broadacre Agriculture",
+            "citation": "Available at SSRN 4263474, 0"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:qwy9JoKyICEC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "From:\" rodriguez. d\"< maito: rodriguez. d@ fce. vutbr. cz> To:< eysselt@ fit. vutbr. cz> Sent: Monday, September 10, 2012 9: 35 AM Subject: V\u00fduka ciz\u00edch jazyk\u016f-VUT Fakulta \u2026",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:SnGPuo6Feq8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Disseny Tipogr\u00e0fic 2006-07",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:QUX0mv85b1cC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dise\u00f1o Tipogr\u00e1fico Curso 2004-05 Profesor: Daniel Rodr\u00edguez",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:pS0ncopqnHgC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Report to the ASA\u2013Association of Social Anthropologists of UK and Commonwealth",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:F2UWTTQJPOcC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "11a Climate risk management in maize cropping systems",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:VN7nJs4JPk0C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Session II SII-CP-19 Incorporaci\u00f3n estable y expresi\u00f3n del gen de la diguanilato ciclasa PleD* en el genoma de bacterias que interaccionan con plantas.",
+            "citation": "II IBEROAMERICAN CONFERENCE ON BENEFICIAL PLANT-MICROORGANISM-ENVIRONMENT \u2026, 0"
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:q-HalDI95KYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Estudio epidemiol\u00f3gico sobre la din\u00e1mica de serovariedades de Salmonella spp. detectadas en cerdos a partir de corrales pre-sacrificio en cinco plantas de beneficio en Colombia",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:ALROH1vI_8AC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Or_6. 04: Sustainable maize-legume systems: experiences and lessons from SIMLESA to Asia",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:Aul-kAQHnToC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of Fallout Cesium-137 in Soil Erosion Investigations: A Case of Study in Camaguey, Cuba",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:8xutWZnSdmoC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Listado de Profesores seg\u00fan categor\u00eda",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:F9fV5C73w3QC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Difer\u00e8ncies de l'estabilitat postural est\u00e0tica i din\u00e0mica segons sexe i cama dominant Diferencias en la estabilidad postural est\u00e1tica y din\u00e1mica seg\u00fan sexo y pierna dominante",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:LhH-TYMQEocC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Listado de Profesores seg\u00fan categor\u00eda",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:yMeIxYmEMEAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Use of proximal sensing in the monitoring of agronomic experiments",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:HtEfBTGE9r8C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Principal author: Hamed Parsiani Address: Parsiani@ ece. uprm. edu Oral Presentation Conference session: Remote Sensing Tallahassee, Florida",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Systems Modelling Approaches to the Sustainable Intensification of Agriculture",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "yd0iZkEAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 0
+    }
+]

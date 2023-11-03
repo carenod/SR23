@@ -1,0 +1,863 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transcriptome survey reveals increased complexity of the alternative splicing landscape in Arabidopsis",
+            "pub_year": "2012",
+            "citation": "Genome research 22 (6), 1184-1195, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 741,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6832348921717645659",
+        "cites_id": [
+            "6832348921717645659"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Complexity of the alternative splicing landscape in plants",
+            "pub_year": "2013",
+            "citation": "The Plant Cell 25 (10), 3657-3683, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 705,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8811692650569334992",
+        "cites_id": [
+            "8811692650569334992"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing in plants\u2013coming of age",
+            "pub_year": "2012",
+            "citation": "Trends in plant science 17 (10), 616-623, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 468,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17065815779989460219",
+        "cites_id": [
+            "17065815779989460219"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing and nonsense-mediated decay modulate expression of important regulatory genes in              Arabidopsis",
+            "pub_year": "2012",
+            "citation": "Nucleic acids research 40 (6), 2454-2469, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 463,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10669642096400039272",
+        "cites_id": [
+            "10669642096400039272"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high quality Arabidopsis transcriptome for accurate transcript-level analysis of alternative splicing",
+            "pub_year": "2017",
+            "citation": "Nucleic acids research 45 (9), 5061-5073, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:RHpTSmoSYBkC",
+        "num_citations": 219,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16228507529097166582",
+        "cites_id": [
+            "16228507529097166582"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "atSRp30, one of two SF2/ASF-like proteins from Arabidopsis thaliana, regulates splicing of specific plant genes",
+            "pub_year": "1999",
+            "citation": "Genes & development 13 (8), 987-1001, 1999"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 196,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14164528043679214970",
+        "cites_id": [
+            "14164528043679214970"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A chloroplast retrograde signal regulates nuclear alternative splicing",
+            "pub_year": "2014",
+            "citation": "Science 344 (6182), 427-430, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 184,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3862297282698067991",
+        "cites_id": [
+            "3862297282698067991"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unmasking alternative splicing inside protein-coding exons defines exitrons and their role in proteome plasticity",
+            "pub_year": "2015",
+            "citation": "Genome research 25 (7), 995-1007, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 156,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14593232424028285513",
+        "cites_id": [
+            "14593232424028285513"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Implementing a rational and consistent nomenclature for serine/arginine-rich protein splicing factors (SR proteins) in plants",
+            "pub_year": "2010",
+            "citation": "The Plant Cell 22 (9), 2926-2929, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 155,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5991313622541395222",
+        "cites_id": [
+            "5991313622541395222"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ectopic expression of atRSZ33 reveals its function in splicing and causes pleiotropic changes in development",
+            "pub_year": "2003",
+            "citation": "Molecular biology of the cell 14 (9), 3565-3577, 2003"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:qjMakFHDy7sC",
+        "num_citations": 128,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10091737009793178218",
+        "cites_id": [
+            "10091737009793178218"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evolutionary conservation and regulation of particular alternative splicing events in plant SR proteins",
+            "pub_year": "2006",
+            "citation": "Nucleic acids research 34 (16), 4395-4405, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 120,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7216751070032214983",
+        "cites_id": [
+            "7216751070032214983"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introns of plant pri\u2010miRNAs enhance miRNA biogenesis",
+            "pub_year": "2013",
+            "citation": "EMBO reports 14 (7), 622-628, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 110,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1278466104522001918",
+        "cites_id": [
+            "1278466104522001918"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring changes in alternative precursor messenger RNA splicing in multiple gene transcripts",
+            "pub_year": "2008",
+            "citation": "The Plant Journal 53 (6), 1035-1048, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 108,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4660248659870710258",
+        "cites_id": [
+            "4660248659870710258"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Network of interactions of a novel plant-specific Arg/Ser-rich protein, atRSZ33, with atSC35-like splicing factors",
+            "pub_year": "2002",
+            "citation": "Journal of Biological Chemistry 277 (42), 39989-39998, 2002"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 94,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8930814524039117477",
+        "cites_id": [
+            "8930814524039117477"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A plethora of plant serine/arginine-rich proteins: redundancy or evolution of novel gene functions?",
+            "pub_year": "2004",
+            "citation": "Biochemical society transactions 32 (4), 561-564, 2004"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 93,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15008090402007937139",
+        "cites_id": [
+            "15008090402007937139"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Plant SR proteins and their functions",
+            "pub_year": "2008",
+            "citation": "Nuclear pre-mRNA processing in plants, 83-102, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 82,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3350256173748446430",
+        "cites_id": [
+            "3350256173748446430"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Does co-transcriptional regulation of alternative splicing mediate plant stress responses?",
+            "pub_year": "2019",
+            "citation": "Nucleic Acids Research 47 (6), 2716-2726, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:NMxIlDl6LWMC",
+        "num_citations": 69,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8732965257732255141",
+        "cites_id": [
+            "8732965257732255141"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Let there be light: regulation of gene expression in plants",
+            "pub_year": "2014",
+            "citation": "RNA biology 11 (10), 1215-1220, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:UebtZRa9Y70C",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3563359776400935799",
+        "cites_id": [
+            "3563359776400935799"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AtRTD \u2013 a comprehensive reference transcript dataset resource for accurate quantification of transcript\u2010specific expression in Arabidopsis thaliana",
+            "pub_year": "2015",
+            "citation": "New Phytologist 208 (1), 96-101, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:roLk4NBRz8UC",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4760451167021929777",
+        "cites_id": [
+            "4760451167021929777"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Identification of RNA targets for the nuclear multidomain cyclophilin atCyp59 and their effect on PPIase activity",
+            "pub_year": "2013",
+            "citation": "Nucleic acids research 41 (3), 1783-1796, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13440038688799888611",
+        "cites_id": [
+            "13440038688799888611"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Lost in translation: pitfalls in deciphering plant alternative splicing transcripts",
+            "pub_year": "2015",
+            "citation": "The Plant Cell 27 (8), 2083-2087, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:Se3iqnhoufwC",
+        "num_citations": 41,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5379068747429992173",
+        "cites_id": [
+            "5379068747429992173"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing in plants",
+            "pub_year": "2008",
+            "citation": "Biochemical Society Transactions 36 (3), 508-510, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:ufrVoPGSRksC",
+        "num_citations": 37,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11101255130871666937",
+        "cites_id": [
+            "11101255130871666937"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Regulation of plant gene expression by alternative splicing",
+            "pub_year": "2010",
+            "citation": "Biochemical Society Transactions 38 (2), 667-671, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:WF5omc3nYNoC",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=879342092392053650",
+        "cites_id": [
+            "879342092392053650"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Light regulates alternative splicing outcomes via the TOR kinase pathway",
+            "pub_year": "2021",
+            "citation": "Cell Reports 36 (10), 2021"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:rO6llkc54NcC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9743249511209405727",
+        "cites_id": [
+            "9743249511209405727"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A high-resolution single-molecule sequencing-based Arabidopsis transcriptome using novel methods of Iso-seq analysis",
+            "pub_year": "2022",
+            "citation": "Genome biology 23 (1), 149, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:3s1wT3WcHBgC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14656096787931683297",
+        "cites_id": [
+            "14656096787931683297"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PRP4KA, a Putative Spliceosomal Protein Kinase, Is Important for Alternative Splicing and Development in Arabidopsis thaliana",
+            "pub_year": "2018",
+            "citation": "Genetics 210 (4), 1267-1285, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:isC4tDSrTZIC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8820060625363647217",
+        "cites_id": [
+            "8820060625363647217"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Collection of Pre-mRNA Splicing Mutants in Arabidopsis thaliana",
+            "pub_year": "2020",
+            "citation": "G3: Genes, Genomes, Genetics 10 (6), 1983-1996, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:vV6vV6tmYwMC",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3524648529750521102",
+        "cites_id": [
+            "3524648529750521102"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing and DNA damage response in plants",
+            "pub_year": "2020",
+            "citation": "Frontiers in Plant Science 11, 91, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:RYcK_YlVTxYC",
+        "num_citations": 18,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10197897719215778358",
+        "cites_id": [
+            "10197897719215778358"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Targeting alternative splicing by RNAi: from the differential impact on splice variants to triggering artificial pre-mRNA splicing",
+            "pub_year": "2021",
+            "citation": "Nucleic Acids Research 49 (2), 1133-1151, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:M05iB0D1s5AC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1616857492452765814",
+        "cites_id": [
+            "1616857492452765814"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differential nucleosome occupancy modulates alternative splicing in Arabidopsis thaliana",
+            "pub_year": "2021",
+            "citation": "New Phytologist 229 (4), 1937-1945, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:ldfaerwXgEUC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=683097236055726775",
+        "cites_id": [
+            "683097236055726775"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AtRTD2: A Reference Transcript Dataset for accurate quantification of alternative splicing and expression changes in Arabidopsis thaliana RNA-seq data",
+            "pub_year": "2016",
+            "citation": "BioRxiv, 051938, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15323621443668303563",
+        "cites_id": [
+            "15323621443668303563"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Current Challenges in Studying Alternative Splicing in Plants: The Case of Physcomitrella patens SR Proteins",
+            "pub_year": "2020",
+            "citation": "Frontiers in Plant Science 11, 286, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:lSLTfruPkqcC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16473075710127587004",
+        "cites_id": [
+            "16473075710127587004"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Shedding light on the chloroplast as a remote control of nuclear gene expression",
+            "pub_year": "2014",
+            "citation": "Plant signaling & behavior 9 (11), e976150, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2588995547236872353",
+        "cites_id": [
+            "2588995547236872353"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing regulation in plants",
+            "pub_year": "2020",
+            "citation": "Frontiers in Plant Science 11, 913, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:70eg2SAEIzsC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14658774335909976686",
+        "cites_id": [
+            "14658774335909976686"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FRUITFULL Is a Repressor of Apical Hook Opening in Arabidopsis thaliana",
+            "pub_year": "2020",
+            "citation": "International Journal of Molecular Sciences 21 (17), 6438, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16887265117144814489",
+        "cites_id": [
+            "16887265117144814489"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Xyloglucan remodeling defines auxin-dependent differential tissue expansion in plants",
+            "pub_year": "2021",
+            "citation": "International Journal of Molecular Sciences 22 (17), 9222, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:ZHo1McVdvXMC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11632676577213247464",
+        "cites_id": [
+            "11632676577213247464"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Xyloglucan remodelling defines differential tissue expansion in plants",
+            "pub_year": "2019",
+            "citation": "BioRxiv, 808964, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:J_g5lzvAfSwC",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6687580249221335865",
+        "cites_id": [
+            "6687580249221335865"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Remote control of alternative splicing in roots through TOR kinase",
+            "pub_year": "2018",
+            "citation": "BioRxiv, 472126, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15427069233283921376",
+        "cites_id": [
+            "15427069233283921376"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nuclear pre-mRNA Processing in Plants",
+            "pub_year": "2008",
+            "citation": "Springer, Berlin, Heidelberg, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:HoB7MX3m0LUC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11159645592790658856",
+        "cites_id": [
+            "11159645592790658856"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Catsnap: a user\u2010friendly algorithm for determining the conservation of protein variants reveals extensive parallelisms in the evolution of alternative splicing",
+            "pub_year": "2023",
+            "citation": "New Phytologist, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5439809781121763551",
+        "cites_id": [
+            "5439809781121763551"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Generating Targeted Gene Knockout Lines in Physcomitrella patens to Study Evolution of Stress-Responsive Mechanisms",
+            "pub_year": "2016",
+            "citation": "Environmental Responses in Plants: Methods and Protocols, 221-234, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:-f6ydRqryjwC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8288285956295712071",
+        "cites_id": [
+            "8288285956295712071"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Genomic SELEX to Identify RNA Targets of Plant RNA\u2010Binding Proteins",
+            "pub_year": "2012",
+            "citation": "Alternative pre\u2010mRNA Splicing: Theory and Protocols, 218-226, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:r0BpntZqJG4C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2977030505957864789",
+        "cites_id": [
+            "2977030505957864789"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "In Vivo Analysis of Plant Intron Splicing",
+            "pub_year": "2012",
+            "citation": "Alternative pre\u2010mRNA Splicing: Theory and Protocols, 450-462, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4190915768957776656",
+        "cites_id": [
+            "4190915768957776656"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AtRSp gene promoters",
+            "pub_year": "2007",
+            "citation": "US Patent 7,256,276, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11026636682694014258",
+        "cites_id": [
+            "11026636682694014258"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AtRSp gene promoters",
+            "pub_year": "2004",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:TFP_iSt0sucC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10819665972278715813",
+        "cites_id": [
+            "10819665972278715813"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Organelle Remote Control of Alternative Splicing Through TOR",
+            "pub_year": "2018",
+            "citation": "Available at SSRN 3155646, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:iH-uZ7U-co4C",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Monitoring Changes in Plant Alternative Splicing Events",
+            "pub_year": "2012",
+            "citation": "Alternative pre\u2010mRNA Splicing: Theory and Protocols, 248-259, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:mB3voiENLucC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Craig G. Simpson, Michele Liney, Diane Davidson, Dominika Lewandowska, Maria Kalyna",
+            "pub_year": "2012",
+            "citation": "Alternative pre-mRNA Splicing, 451, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:pqnbT2bcN3wC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Craig G. Simpson, Naeem Hasan Syed, Sujatha Manthri, John D. Fuller, Monika Maronova, Branislav Kusenda",
+            "pub_year": "2012",
+            "citation": "Alternative pre-mRNA Splicing, 249, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:YFjsv_pBGBYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative splicing and nonsense-mediated decay controls expression of important regulatory genes in Arabidopsis",
+            "pub_year": "2011",
+            "citation": "James Hutton Institute, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:u_35RYKgDlwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "AtRSp gene promoters",
+            "pub_year": "2010",
+            "citation": "US Patent 7,795,502, 2010"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Role of Arabidopsis SR protein atRSp31 in plant growth and development.",
+            "pub_year": "2007",
+            "citation": "FEBS JOURNAL 274, 346-346, 2007"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Splicing factor",
+            "pub_year": "2002",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PETAL PROTOPLAST CULTURE SYSTEM-A NOVEL-APPROACH TO STUDY PLASTID BIOGENESIS",
+            "pub_year": "1995",
+            "citation": "JOURNAL OF CELLULAR BIOCHEMISTRY, 451-451, 1995"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Supplementary Information Targeting alternative splicing by RNAi: from the differential impact on splice variants to triggering artificial pre-mRNA splicing",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:SeFeTyx0c_EC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Non-coding alternative splice variants of plant-specific SR proteins are tightly regulated and highly conserved in evolution",
+            "citation": "Alternative Splicing, 15, 0"
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:g5m5HwL7SMYC",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Introns of plant pri-miRNAs are required for proper biogenesis and function of miRNAs",
+            "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "29u4W8cAAAAJ:j3f4tGmQtD8C",
+        "num_citations": 0
+    }
+]

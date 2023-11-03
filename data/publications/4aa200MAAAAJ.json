@@ -1,0 +1,415 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The genome sequence of taurine cattle: a window to ruminant biology and evolution.",
+            "pub_year": "2009",
+            "citation": "Science 324 (5926), 522-528, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 1205,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17711469981833971798,6516635628477960490",
+        "cites_id": [
+            "17711469981833971798",
+            "6516635628477960490"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Loss of a mammalian circular RNA locus causes miRNA deregulation and affects brain function",
+            "pub_year": "2017",
+            "citation": "Science 357 (6357), eaam8526, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 954,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7053706408234876975",
+        "cites_id": [
+            "7053706408234876975"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells",
+            "pub_year": "2019",
+            "citation": "Genome Biology 20 (1), 59, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 887,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2984341979008368298",
+        "cites_id": [
+            "2984341979008368298"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cell type atlas and lineage tree of a whole complex animal by single-cell transcriptomics",
+            "pub_year": "2018",
+            "citation": "Science 360 (6391), eaaq1723, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 415,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12011996553405769883",
+        "cites_id": [
+            "12011996553405769883"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Control of alternative splicing through siRNA-mediated transcriptional gene silencing",
+            "pub_year": "2009",
+            "citation": "Nature structural & molecular biology 16 (7), 717-724, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:qjMakFHDy7sC",
+        "num_citations": 397,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3181989345362169393",
+        "cites_id": [
+            "3181989345362169393"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DGCR8 HITS-CLIP reveals novel functions for the Microprocessor",
+            "pub_year": "2012",
+            "citation": "Nature Structural & Molecular Biology 19 (8), 760-766, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 229,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5552697929439423456",
+        "cites_id": [
+            "5552697929439423456"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ASTD: the alternative splicing and transcript diversity database",
+            "pub_year": "2009",
+            "citation": "Genomics 93 (3), 213-220, 2009"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 129,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4171168604144249282",
+        "cites_id": [
+            "4171168604144249282"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Microprocessor controls the activity of mammalian retrotransposons",
+            "pub_year": "2013",
+            "citation": "Nature structural & molecular biology 20 (10), 1173-1181, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:ufrVoPGSRksC",
+        "num_citations": 125,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2057467630642046551",
+        "cites_id": [
+            "2057467630642046551"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Deciphering 3\u2032 ss Selection in the Yeast Genome Reveals an RNA Thermosensor that Mediates Alternative Splicing",
+            "pub_year": "2011",
+            "citation": "Molecular Cell 43 (6), 1033-1039, 2011"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 115,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16205909719048429660",
+        "cites_id": [
+            "16205909719048429660"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drosha Regulates Gene Expression Independently of RNA Cleavage Function",
+            "pub_year": "2013",
+            "citation": "Cell reports 5 (6), 1499-1510, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 78,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16331454078848970222",
+        "cites_id": [
+            "16331454078848970222"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DGCR8 Acts as an Adaptor for the Exosome Complex to Degrade Double-Stranded Structured RNAs",
+            "pub_year": "2015",
+            "citation": "Molecular Cell 60 (6), 873-885, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:0EnyYjriUFMC",
+        "num_citations": 74,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5581519228147656530",
+        "cites_id": [
+            "5581519228147656530"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Highly accessible AU-rich regions in 3\u2019untranslated regions are hotspots for binding of regulatory factors.",
+            "pub_year": "2017",
+            "citation": "PLoS Computational Biology 13 (4), 2017"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:8k81kl-MbHgC",
+        "num_citations": 52,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13648439566742379408",
+        "cites_id": [
+            "13648439566742379408"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alterations in polyadenylation and its implications for endocrine disease",
+            "pub_year": "2013",
+            "citation": "Frontiers in endocrinology 4, 53, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9057020049543986853",
+        "cites_id": [
+            "9057020049543986853"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Co-evolution of the branch site and SR proteins in eukaryotes",
+            "pub_year": "2008",
+            "citation": "Trends in Genetics 24 (12), 590-594, 2008"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 49,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17275731831142805175",
+        "cites_id": [
+            "17275731831142805175"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Drosophila Imp iCLIP identifies an RNA assemblage coordinating F-actin formation",
+            "pub_year": "2015",
+            "citation": "Genome biology 16 (1), 1-16, 2015"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 44,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13725140950061432215",
+        "cites_id": [
+            "13725140950061432215"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNA secondary structure mediates alternative 3\u2032 ss selection in Saccharomyces cerevisiae",
+            "pub_year": "2012",
+            "citation": "RNA 18 (6), 1103-1115, 2012"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 43,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8279105838072180359",
+        "cites_id": [
+            "8279105838072180359"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Differentiated evolutionary rates in alternative exons and the implications for splicing regulation",
+            "pub_year": "2006",
+            "citation": "BMC evolutionary biology 6 (1), 50, 2006"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 33,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13031111721690080694",
+        "cites_id": [
+            "13031111721690080694"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Alternative poladenylation of tumor suppressor genes in small intestinal neuroendocrine tumors",
+            "pub_year": "2014",
+            "citation": "Frontiers in endocrinology 5, 46, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:roLk4NBRz8UC",
+        "num_citations": 31,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6758624765231708508",
+        "cites_id": [
+            "6758624765231708508"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "RNA Dynamics in Alzheimer\u2019s Disease",
+            "pub_year": "2021",
+            "citation": "Molecules 26 (17), 5113, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 23,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12271064831205277333",
+        "cites_id": [
+            "12271064831205277333"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "On the Accuracy of Short Read Mapping",
+            "pub_year": "2013",
+            "citation": "Deep Sequencing Data Analysis, 39-59, 2013"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:WF5omc3nYNoC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16201865074173740040",
+        "cites_id": [
+            "16201865074173740040"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Approaches to link RNA secondary structures with splicing regulation",
+            "pub_year": "2014",
+            "citation": "Spliceosomal Pre-mRNA Splicing: Methods and Protocols, 341-356, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2211818650223344889",
+        "cites_id": [
+            "2211818650223344889"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Heterogeneity and cancer-related features in lymphangioleiomyomatosis cells and tissue",
+            "pub_year": "2021",
+            "citation": "Molecular Cancer Research 19 (11), 1840-1853, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:YOwf2qJgpHMC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1011301030711006953",
+        "cites_id": [
+            "1011301030711006953"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Methanol fixation is the method of choice for droplet-based single-cell transcriptomics of neural cells",
+            "pub_year": "2023",
+            "citation": "Communications Biology 6 (1), 522, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=324868858292136614",
+        "cites_id": [
+            "324868858292136614"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transplanting rejuvenated blood stem cells extends lifespan of aged immunocompromised mice",
+            "pub_year": "2022",
+            "citation": "npj Regenerative Medicine 7 (1), 78, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:aqlVkmm33-oC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18316196706519284427",
+        "cites_id": [
+            "18316196706519284427"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The X-linked splicing regulator MBNL3 has been co-opted to restrict placental growth in eutherians",
+            "pub_year": "2022",
+            "citation": "PLoS biology 20 (4), e3001615, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:_kc_bZDykSQC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7105371999106145223",
+        "cites_id": [
+            "7105371999106145223"
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A distinct class of pan cancer susceptibility genes revealed by alternative polyadenylation transcriptome wide association study",
+            "pub_year": "2023",
+            "citation": "medRxiv, 2023.02. 28.23286554, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "4aa200MAAAAJ:4DMP91E08xMC",
+        "num_citations": 0
+    }
+]
