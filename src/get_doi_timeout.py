@@ -166,8 +166,8 @@ def get_metadata_from_doi(df_int, df_items, df_items_file_name):
         
         print(reference)
         
-        # save every 10 papers
-        if len(df_items.index) % 10 == 0:
+        # save every 1000 papers
+        if len(df_items.index) % 1000 == 0:
             df_items.to_csv(df_items_file_name, index=False)
             print('df saved, length ', len(df_items.index))
         

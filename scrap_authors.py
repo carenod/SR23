@@ -1,6 +1,6 @@
 import pandas as pd
 from src.add_authors import *
-from src.get_doi import *
+from src.get_doi_timeout import *
 from ast import literal_eval
 
 # This script makes a database of authors starting by one author, 
@@ -31,7 +31,7 @@ df_authors = pd.read_csv('./data/df_authors.csv')
 # coauthors_id column from string to list 
 df_authors.loc[:,'coauthors_id'] = df_authors.loc[:,'coauthors_id'].apply(lambda x: literal_eval(x))
 # add coautohors automaticallu
-add_all_coauthor(df_authors, './data/df_authors.csv')
+df_authors = add_all_coauthor(df_authors, './data/df_authors.csv', save=False)
 # problem with 3rZSW4YAAAAJ
 df_authors.shape
 
@@ -41,6 +41,7 @@ df_authors = pd.read_csv('./data/df_authors.csv')
 get_doi_from_title(df_papers=None, df_authors=df_authors, df_papers_file_name='./data/df_papers.csv')
 
 # Run get_doi_from_title
-df_papers = pd.read_csv('./data/df_papers.csv')
+df_papers = pd.read_csv('./data/df_papers.csv') 
 df_authors = pd.read_csv('./data/df_authors.csv')
 get_doi_from_title(df_papers=df_papers, df_authors=df_authors, df_papers_file_name='./data/df_papers.csv')
+# check author brGhxnwAAAAJ
