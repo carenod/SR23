@@ -1,4 +1,6 @@
 from crossref_commons.sampling import get_sample
+from crossref_commons.retrieval import get_entity
+from crossref_commons.types import EntityType, OutputType
 import json
 import pandas as pd
 import time
@@ -145,3 +147,61 @@ def get_doi_from_title(df_papers, df_authors, df_papers_file_name):
                 
     df_papers.to_csv(df_papers_file_name, index=False)
     print('df saved, length ', str(len(df_papers.index)))
+    
+    
+def get_metadata_from_doi(df_int, df_items, df_items_file_name):
+
+    if df_items is None:
+        df_items = pd.DataFrame(columns = ['DOI', 'publisher', 'published-print', 'type', 'title', 
+                                            'is-referenced-by-count', 'first-author', 'last-author', 'URL'])
+         
+    # remove paper that already have been fully retived
+    # i dont use set method because I loose the order
+    all_references_doi_original = set(df_int['references'].to_list())
+    references_retrived = set(df_items['DOI'].tolist())
+    
+    references_to_retrive = list(all_references_doi_original.difference(references_retrived))
+
+    for reference in references_to_retrive:
+        
+        print(reference)
+        
+        # save every 10 papers
+        if len(df_items.index) % 10 == 0:
+            df_items.to_csv(df_items_file_name, index=False)
+            print('df saved, length ', len(df_items.index))
+        
+        try: # API can return connection error, such as 504
+            # search in crossref
+            dictionary = call(get_entity, timeout=15, eid=reference, entity_type=EntityType.PUBLICATION, output_type=OutputType.JSON)
+           
+            new_row = {}            
+            new_row['DOI'] = reference
+            new_row['publisher'] = dictionary['publisher'] if 'publisher' in dictionary else 'NA'           
+            new_row['published-print'] = dictionary['published-print'].values() if 'published-print' in dictionary else 'NA'
+            new_row['type'] = dictionary['type'] if 'type' in dictionary else 'NA'
+            new_row['title'] = dictionary['title'][0] if 'title' in dictionary else 'NA'
+            new_row['is-referenced-by-count'] = dictionary['is-referenced-by-count'] if 'is-referenced-by-count' in dictionary else 'NA'
+            new_row['first_author'] = dictionary['author'][0]['family'] + ', ' + dictionary['author'][0]['given'] if 'author' in dictionary else 'NA'
+            new_row['last_author'] = dictionary['author'][-1]['family'] + ', ' + dictionary['author'][-1]['given'] if 'author' in dictionary else 'NA'
+            new_row['URL'] = dictionary['URL'] if 'URL' in dictionary else 'NA'
+            
+            df_new_row = pd.Series(new_row).to_frame().T
+            df_items = pd.concat([df_items, df_new_row], ignore_index=True) 
+            
+            old_doi = reference
+            new_doi = old_doi.replace("/", "_")
+            file_name = './data/metadata/' + new_doi + '.json'
+            json_object = json.dumps(dictionary, indent=4)
+            with open(file_name, "w") as outfile:
+                outfile.write(json_object)
+            print('Publications retrived')
+
+        except Exception as error:
+            print('Failed to retrive a reference')
+            print(error)
+            continue
+        
+    df_items.to_csv(df_items_file_name, index=False)
+    print('df saved, length ', str(len(df_items.index)))
+            
