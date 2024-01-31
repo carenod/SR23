@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<script src="https://cdn.tailwindcss.com"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js">
+        </script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.js">
+        </script>
+
+        <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/ui-lightness/jquery-ui.css"
+            rel="stylesheet" type="text/css" />
+		<title>Ingreso</title>
+	</head>
+
+	<body class="px-12 py-4">
+		<form method="post" class="w-96 border shadow-xl mx-auto mt-7 p-4">
+			<h2 class="mb-4 text-xl font-bold">Entrar al sistema</h2>
+			<div class="flex mb-4">
+				<label>
+					Usuario:
+                    <input type="text" id="tags" name="name" minlength="1" maxlength="60" required class="p-1 border rounded">
+
+                    <script>
+                  $( function() {
+                    var availableTags = [
+                        {% for autor in autores %}
+                            "{{autor}}",
+                        {% endfor %}
+                    ];
+                    $( "#tags" ).autocomplete({
+                      source: availableTags
+                    });
+                  } );
+                  </script>
+				</label>
+			</div>
+
+			<!-- <div class="flex mb-4">
+            <label>
+                Nombre: <input type="text" name="nombre" minlength="3" maxlength="30" required class="p-1 border rounded">
+            </label>
+        </div>
+        <div class="flex mb-4">
+            <label>
+                Género:
+                <select name="genero" class="p-1 border rounded">
+                    <option value="" selected></option>
+                    <option value="Hombre">Masculino</option>
+                    <option value="Femenino">Femenino</option>
+                </select>
+            </label>
+        </div>
+        <div class="flex mb-4">
+            <label>
+                Vive en: <input type="text" name="vive_en" minlength="3" maxlength="30" class="p-1 border rounded">
+            </label>
+        </div>
+        <div class="flex mb-4">
+            <label>
+                Año de nacimiento: <input type="text" name="nacimiento" pattern="[0-9]{4}" maxlength="4" class="p-1 border rounded">
+            </label>
+        </div> -->
+
+			<div class="flex justify-end">
+				<button type="submit" class="border bg-teal-500 hover:bg-teal-700 text-white text-lg font-bold px-4 py-2 ml-auto">Entrar</button>
+			</div>
+		</form>
+	</body>
+</html>

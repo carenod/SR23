@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<script src="https://cdn.tailwindcss.com"></script>
+		<title>Recomendaciones</title>
+	</head>
+
+	<body class="px-6 py-4">
+		<form method="post">
+
+		    <div class="flex mb-4">
+				<label>
+					Busqueda:
+					<input type="text" name="query" minlength="0" maxlength="300" class="p-1 border rounded" />
+				</label>
+			</div>
+		</form>
+
+        <form method="post">
+			<div class="grid grid-cols-3 gap-4 mb-4">
+				{% for paper in papers %}
+				<div class="border shadow-lg p-4 rounded flex flex-col">
+					<div class="flex">
+						<div class="flex flex-col">
+			                <h3 class="text-xl font-semibold mb-2"><a href={{ paper.URL }} target=”_blank”>{{ paper.title }}</a></h3>
+							<small class="mb-2">{{ paper.author_name }} - {{ paper.publisher }}</small>
+							</div>
+					</div>
+					<div class="ml-auto text-sm">
+						<label
+							>What about this one?:
+							<select name="{{paper.DOI}}" class="p-1 border">
+								<option value="-1" selected></option>
+								<option value="1">I want to read</option>
+								<option value="-10">Don't show me this again</option>
+							</select>
+						</label>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
+			<div class="flex justify-benween">
+				<small> lector: {{ name }} - id: {{ scholar_id }} - cant. valorados: {{ cant_valorados }} - cant. ignorados: {{ cant_ignorados}} - <a href="/reset" class="px-2 py-1 bg-teal-500 text-sm text-white rounded-xl">reset</a></small>
+				<button type="submit" name="more" value="click" class="border bg-teal-500 hover:bg-teal-700 text-white text-lg font-bold px-4 py-2 ml-auto">Más recomendaciones</button>
+			</div>
+		</form>
+	</body>
+</html>
