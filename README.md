@@ -12,5 +12,6 @@ Se toman como papers que el autor ha leido aquellos que ha citado en su trabajos
 Se utiliza [scholarly](https://pypi.org/project/scholarly/) para buscar los papers publicados por autores. 
 Luego, se utilizará [crossref_commons_py](https://gitlab.com/crossref/crossref_commons_py) para obener los papers que han citado.
 
-## Metodología
+## Pagina web
 
+El recomendador se puede visitar haciendo click [aquí](http://carenod.pythonanywhere.com/).
